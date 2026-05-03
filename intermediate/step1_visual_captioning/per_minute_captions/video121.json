@@ -1,0 +1,356 @@
+{
+    "video_id": "video121",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video opens with a first-person perspective of a chef in a professional kitchen, wearing black gloves and showcasing a tattooed forearm. The chef walks toward a sushi preparation station, placing a piece of fried shrimp on a cutting board. A bamboo sushi mat is laid out, and a sheet of nori (seaweed) is placed on top. The chef scoops sushi rice from a large metal bowl using a green cloth-wrapped hand, spreading it evenly over the nori. Afterward, the chef retrieves a slice of avocado from a container and places it along with the shrimp in a line across the rice. The chef then carefully rolls the sushi using the bamboo mat, applying pressure to form a tight roll. The roll is then lifted, and the chef prepares to slice it, with a large knife visible on the cutting board. The kitchen environment is clean and well-organized, with stainless steel surfaces, various condiment bottles, and containers of prepped ingredients like cucumber and carrots in the background. The chef’s movements are precise and practiced, indicating expertise in sushi preparation.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively preparing sushi with precise hand movements.",
+                "Bamboo Sushi Mat": "A rectangular mat made of woven bamboo, used to roll sushi; placed on a white cutting board.",
+                "Nori Sheet": "A dark green, rectangular sheet of seaweed placed on the bamboo mat as the base for the sushi roll.",
+                "Sushi Rice": "White, sticky rice scooped from a large metal bowl and spread evenly over the nori sheet.",
+                "Fried Shrimp": "Golden-brown, crispy shrimp pieces placed on the cutting board and later added to the sushi roll.",
+                "Avocado Slice": "A bright green, crescent-shaped slice of avocado placed atop the rice before rolling.",
+                "Metal Bowl with Rice": "A large stainless steel bowl containing sushi rice, with a green cloth used to handle the rice.",
+                "Cutting Board": "A white, rectangular plastic board used as the primary workspace for sushi assembly.",
+                "Knife": "A large, sharp knife with a wooden handle, resting on the cutting board, likely for slicing the completed sushi roll.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, likely containing sauces such as sriracha, mayonnaise, or mustard, arranged on the counter.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, carrots, and possibly pickled items, arranged in a metal tray in the background.",
+                "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool placed on the cutting board, possibly used for cleaning or spreading ingredients."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The Chef, wearing black gloves and showcasing a heavily tattooed forearm with a beaded bracelet on the right wrist, begins by placing a Nori Sheet onto the Bamboo Sushi Mat on the Cutting Board. They then scoop Sushi Rice from the Metal Bowl with Rice using a green cloth to handle it, spreading it evenly over the nori. Afterward, they sprinkle black sesame seeds over the rice. The Chef then adds a line of pink, finely chopped Tuna (a new ingredient) down the center of the rice, followed by a row of thinly sliced Cucumber (another new ingredient) and a single Fried Shrimp placed atop the vegetables. The Chef carefully arranges the ingredients in a linear fashion, preparing to roll the sushi. The workspace remains organized, with the Knife, Yellow Plastic Scraper, Condiment Bottles, and Prepped Ingredient Containers visible in the background. The lighting is bright and clinical, typical of a professional kitchen, emphasizing the precision of the Chef’s movements.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively preparing sushi with precise hand movements.",
+                "Bamboo Sushi Mat": "A rectangular mat made of woven bamboo, used to roll sushi; placed on a white cutting board.",
+                "Nori Sheet": "A dark green, rectangular sheet of seaweed placed on the bamboo mat as the base for the sushi roll.",
+                "Sushi Rice": "White, sticky rice scooped from a large metal bowl and spread evenly over the nori sheet.",
+                "Fried Shrimp": "Golden-brown, crispy shrimp pieces placed on the cutting board and later added to the sushi roll.",
+                "Metal Bowl with Rice": "A large stainless steel bowl containing sushi rice, with a green cloth used to handle the rice.",
+                "Cutting Board": "A white, rectangular plastic board used as the primary workspace for sushi assembly.",
+                "Knife": "A large, sharp knife with a wooden handle, resting on the cutting board, likely for slicing the completed sushi roll.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, likely containing sauces such as sriracha, mayonnaise, or mustard, arranged on the counter.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, carrots, and possibly pickled items, arranged in a metal tray in the background.",
+                "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool placed on the cutting board, possibly used for cleaning or spreading ingredients."
+            },
+            "discovered_new_entities": {
+                "Tuna": "Finely chopped, pink-colored fish placed in a line on top of the rice as a filling ingredient.",
+                "Cucumber": "Thinly sliced green vegetable arranged in a row over the tuna, adding freshness to the roll."
+            }
+        },
+        {
+            "minute": 3,
+            "caption": "The video captures a chef meticulously preparing sushi rolls in a professional kitchen setting. Wearing black gloves, the chef, whose heavily tattooed forearm and beaded bracelet are visible, begins by rolling a sushi roll using a Bamboo Sushi Mat. The roll contains a Fried Shrimp, Avocado Slice, Tuna, and Cucumber, all layered over a Nori Sheet. After completing the first roll, the chef places it on the Cutting Board and proceeds to prepare a second roll. The chef scoops Sushi Rice from a Metal Bowl with Rice using a green cloth, spreads it evenly over a fresh Nori Sheet on the Bamboo Sushi Mat, and then adds ingredients including Tuna and Cucumber. The chef’s movements are precise and practiced, indicating expertise. The workspace is clean and organized, with a Knife resting nearby and Condiment Bottles and Prepped Ingredient Containers visible in the background. The chef briefly moves away from the station, suggesting a transition to another task or ingredient retrieval, before returning to continue the sushi preparation.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively preparing sushi with precise hand movements.",
+                "Bamboo Sushi Mat": "A rectangular mat made of woven bamboo, used to roll sushi; placed on a white cutting board.",
+                "Nori Sheet": "A dark green, rectangular sheet of seaweed placed on the bamboo mat as the base for the sushi roll.",
+                "Sushi Rice": "White, sticky rice scooped from a large metal bowl and spread evenly over the nori sheet.",
+                "Fried Shrimp": "Golden-brown, crispy shrimp pieces placed on the cutting board and later added to the sushi roll.",
+                "Avocado Slice": "A bright green, crescent-shaped slice of avocado placed atop the rice before rolling.",
+                "Metal Bowl with Rice": "A large stainless steel bowl containing sushi rice, with a green cloth used to handle the rice.",
+                "Cutting Board": "A white, rectangular plastic board used as the primary workspace for sushi assembly.",
+                "Knife": "A large, sharp knife with a wooden handle, resting on the cutting board, likely for slicing the completed sushi roll.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, likely containing sauces such as sriracha, mayonnaise, or mustard, arranged on the counter.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, carrots, and possibly pickled items, arranged in a metal tray in the background.",
+                "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool placed on the cutting board, possibly used for cleaning or spreading ingredients.",
+                "Tuna": "Finely chopped, pink-colored fish placed in a line on top of the rice as a filling ingredient.",
+                "Cucumber": "Thinly sliced green vegetable arranged in a row over the tuna, adding freshness to the roll."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 4,
+            "caption": "The video opens with a first-person perspective of the Chef, wearing black gloves, a beaded bracelet on the right wrist, and a heavily tattooed forearm, moving through a commercial kitchen. The Chef approaches a stainless steel workstation where a Bamboo Sushi Mat is laid out on a white Cutting Board. The Chef begins assembling a sushi roll by placing a Nori Sheet on the mat, then spreading Sushi Rice evenly over it. A Fried Shrimp is placed on top, followed by an Avocado Slice. The Chef then carefully rolls the sushi using the Bamboo Sushi Mat, applying pressure to form a tight cylinder. After rolling, the Chef places the completed roll on the cutting board next to a Knife and other prepped sushi rolls. The Chef then picks up a piece of Tuna and places it on a new Nori Sheet, followed by a row of Cucumber slices. The Chef continues rolling this second sushi roll with precision. Midway through, the Chef briefly steps away to retrieve a half Avocado from a container, peels it, and discards the skin into a trash bin before returning to the workstation. The Chef then places the fresh Avocado Slice onto the second roll before continuing to roll it. The workspace is organized with Condiment Bottles, Prepped Ingredient Containers, and a Yellow Plastic Scraper visible in the background. The lighting is bright and clinical, typical of a professional kitchen, emphasizing the cleanliness and efficiency of the process.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively preparing sushi with precise hand movements.",
+                "Bamboo Sushi Mat": "A rectangular mat made of woven bamboo, used to roll sushi; placed on a white cutting board.",
+                "Nori Sheet": "A dark green, rectangular sheet of seaweed placed on the bamboo mat as the base for the sushi roll.",
+                "Sushi Rice": "White, sticky rice scooped from a large metal bowl and spread evenly over the nori sheet.",
+                "Fried Shrimp": "Golden-brown, crispy shrimp pieces placed on the cutting board and later added to the sushi roll.",
+                "Avocado Slice": "A bright green, crescent-shaped slice of avocado placed atop the rice before rolling.",
+                "Cutting Board": "A white, rectangular plastic board used as the primary workspace for sushi assembly.",
+                "Knife": "A large, sharp knife with a wooden handle, resting on the cutting board, likely for slicing the completed sushi roll.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, likely containing sauces such as sriracha, mayonnaise, or mustard, arranged on the counter.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, carrots, and possibly pickled items, arranged in a metal tray in the background.",
+                "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool placed on the cutting board, possibly used for cleaning or spreading ingredients.",
+                "Tuna": "Finely chopped, pink-colored fish placed in a line on top of the rice as a filling ingredient.",
+                "Cucumber": "Thinly sliced green vegetable arranged in a row over the tuna, adding freshness to the roll."
+            },
+            "discovered_new_entities": {
+                "Half Avocado": "A partially peeled, green avocado held in the Chef's gloved hand, later peeled and discarded after use.",
+                "Trash Bin": "A black, wheeled trash bin with a liner, used to dispose of avocado skin and other waste."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The Chef, wearing black gloves and showcasing a heavily tattooed forearm with a beaded bracelet on the right wrist, continues preparing sushi with precise, methodical movements. Starting with a half avocado, the Chef slices it into thin, even rounds using a large knife on a white cutting board. The avocado slices are then carefully placed atop a pre-rolled sushi piece, which already contains fried shrimp and rice. After arranging the avocado, the Chef sets the knife aside and picks up a bamboo sushi mat, placing it on the cutting board to begin assembling a new roll. The Chef then scoops sushi rice from a large metal bowl using a green cloth, spreading it evenly over a nori sheet laid on the mat. The workspace is clean and organized, with condiment bottles, prepped ingredient containers, and a yellow plastic scraper visible in the background. The Chef discards the avocado skin into a black trash bin, maintaining hygiene. The scene is brightly lit, emphasizing the vibrant colors of the ingredients and the Chef’s focused, professional technique.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively preparing sushi with precise hand movements.",
+                "Bamboo Sushi Mat": "A rectangular mat made of woven bamboo, used to roll sushi; placed on a white cutting board.",
+                "Nori Sheet": "A dark green, rectangular sheet of seaweed placed on the bamboo mat as the base for the sushi roll.",
+                "Sushi Rice": "White, sticky rice scooped from a large metal bowl and spread evenly over the nori sheet.",
+                "Fried Shrimp": "Golden-brown, crispy shrimp pieces placed on the cutting board and later added to the sushi roll.",
+                "Avocado Slice": "A bright green, crescent-shaped slice of avocado placed atop the rice before rolling.",
+                "Metal Bowl with Rice": "A large stainless steel bowl containing sushi rice, with a green cloth used to handle the rice.",
+                "Cutting Board": "A white, rectangular plastic board used as the primary workspace for sushi assembly.",
+                "Knife": "A large, sharp knife with a wooden handle, resting on the cutting board, likely for slicing the completed sushi roll.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, likely containing sauces such as sriracha, mayonnaise, or mustard, arranged on the counter.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, carrots, and possibly pickled items, arranged in a metal tray in the background.",
+                "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool placed on the cutting board, possibly used for cleaning or spreading ingredients.",
+                "Half Avocado": "A partially peeled, green avocado held in the Chef's gloved hand, later peeled and discarded after use.",
+                "Trash Bin": "A black, wheeled trash bin with a liner, used to dispose of avocado skin and other waste."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 6,
+            "caption": "The Chef, wearing black gloves and showcasing a heavily tattooed forearm with a beaded bracelet on the right wrist, begins by scooping sushi rice from the Metal Bowl with Rice using a green cloth to handle it, then spreads the Sushi Rice evenly over a Nori Sheet placed on the Bamboo Sushi Mat. The Chef then sprinkles red tobiko (fish roe) from a small container onto the rice, followed by placing a line of Tuna in the center. Next, the Chef picks up a Half Avocado, peels it with a knife, and slices it into thin pieces, placing them atop the tuna. The Chef then discards the avocado skin into the Trash Bin. Throughout the process, the workspace remains organized on the Cutting Board, with the Knife, Condiment Bottles, and Prepped Ingredient Containers visible in the background. The Chef’s movements are precise and deliberate, indicating expertise in sushi preparation.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively preparing sushi with precise hand movements.",
+                "Bamboo Sushi Mat": "A rectangular mat made of woven bamboo, used to roll sushi; placed on a white cutting board.",
+                "Nori Sheet": "A dark green, rectangular sheet of seaweed placed on the bamboo mat as the base for the sushi roll.",
+                "Sushi Rice": "White, sticky rice scooped from a large metal bowl and spread evenly over the nori sheet.",
+                "Metal Bowl with Rice": "A large stainless steel bowl containing sushi rice, with a green cloth used to handle the rice.",
+                "Cutting Board": "A white, rectangular plastic board used as the primary workspace for sushi assembly.",
+                "Knife": "A large, sharp knife with a wooden handle, resting on the cutting board, likely for slicing the completed sushi roll.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, likely containing sauces such as sriracha, mayonnaise, or mustard, arranged on the counter.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, carrots, and possibly pickled items, arranged in a metal tray in the background.",
+                "Tuna": "Finely chopped, pink-colored fish placed in a line on top of the rice as a filling ingredient.",
+                "Half Avocado": "A partially peeled, green avocado held in the Chef's gloved hand, later peeled and discarded after use.",
+                "Trash Bin": "A black, wheeled trash bin with a liner, used to dispose of avocado skin and other waste."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 7,
+            "caption": "The Chef, wearing black gloves and showcasing a heavily tattooed forearm with a beaded bracelet on the right wrist, begins assembling a sushi roll on the Bamboo Sushi Mat placed on the Cutting Board. The Chef places a Nori Sheet on the mat, then adds a layer of Sushi Rice from the Metal Bowl with Rice, using a green cloth to handle the rice. Next, the Chef arranges Tuna in a line over the rice, followed by a row of Cucumber slices. A Half Avocado is peeled and sliced, with the skin discarded into the Trash Bin. The Chef then adds more Cucumber slices and begins rolling the sushi tightly using the Bamboo Sushi Mat, applying pressure to shape the roll. After rolling, the Chef removes the mat, revealing a compact sushi roll. The Chef then discards the avocado skin into the sink and retrieves a new Nori Sheet, placing it on the mat to begin a new roll. The Chef spreads fresh Sushi Rice over the new nori, preparing for the next filling. Throughout, the workspace remains organized with Prepped Ingredient Containers, Condiment Bottles, and a Knife visible in the background, while the Chef moves efficiently between tasks, occasionally reaching for tools or ingredients.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively preparing sushi with precise hand movements.",
+                "Bamboo Sushi Mat": "A rectangular mat made of woven bamboo, used to roll sushi; placed on a white cutting board.",
+                "Nori Sheet": "A dark green, rectangular sheet of seaweed placed on the bamboo mat as the base for the sushi roll.",
+                "Sushi Rice": "White, sticky rice scooped from a large metal bowl and spread evenly over the nori sheet.",
+                "Tuna": "Finely chopped, pink-colored fish placed in a line on top of the rice as a filling ingredient.",
+                "Cucumber": "Thinly sliced green vegetable arranged in a row over the tuna, adding freshness to the roll.",
+                "Half Avocado": "A partially peeled, green avocado held in the Chef's gloved hand, later peeled and discarded after use.",
+                "Metal Bowl with Rice": "A large stainless steel bowl containing sushi rice, with a green cloth used to handle the rice.",
+                "Cutting Board": "A white, rectangular plastic board used as the primary workspace for sushi assembly.",
+                "Trash Bin": "A black, wheeled trash bin with a liner, used to dispose of avocado skin and other waste.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, carrots, and possibly pickled items, arranged in a metal tray in the background.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, likely containing sauces such as sriracha, mayonnaise, or mustard, arranged on the counter.",
+                "Knife": "A large, sharp knife with a wooden handle, resting on the cutting board, likely for slicing the completed sushi roll."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 8,
+            "caption": "The Chef, wearing black gloves and showcasing a heavily tattooed forearm with a beaded bracelet on the right wrist, begins by placing a Nori Sheet onto the Bamboo Sushi Mat on the Cutting Board. They then pick up a piece of Tuna from a container and place it on the rice, followed by adding Cucumber slices and a Half Avocado, which they peel and discard the skin into the Trash Bin. The Chef then rolls the sushi tightly using the Bamboo Sushi Mat, completing the roll. Afterward, they move to a separate station where they handle a piece of Fried Shrimp, placing it on a metal plate and using a blowtorch to sear it. The Chef then returns to the main station, picks up the knife, and slices the completed sushi roll into even pieces, arranging them neatly on the Cutting Board alongside other pre-made rolls. Throughout the process, the Chef’s movements are precise and efficient, with the Condiment Bottles and Prepped Ingredient Containers visible in the background, contributing to the professional kitchen environment.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively preparing sushi with precise hand movements.",
+                "Bamboo Sushi Mat": "A rectangular mat made of woven bamboo, used to roll sushi; placed on a white cutting board.",
+                "Nori Sheet": "A dark green, rectangular sheet of seaweed placed on the bamboo mat as the base for the sushi roll.",
+                "Sushi Rice": "White, sticky rice scooped from a large metal bowl and spread evenly over the nori sheet.",
+                "Fried Shrimp": "Golden-brown, crispy shrimp pieces placed on the cutting board and later added to the sushi roll.",
+                "Avocado Slice": "A bright green, crescent-shaped slice of avocado placed atop the rice before rolling.",
+                "Metal Bowl with Rice": "A large stainless steel bowl containing sushi rice, with a green cloth used to handle the rice.",
+                "Cutting Board": "A white, rectangular plastic board used as the primary workspace for sushi assembly.",
+                "Knife": "A large, sharp knife with a wooden handle, resting on the cutting board, likely for slicing the completed sushi roll.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, likely containing sauces such as sriracha, mayonnaise, or mustard, arranged on the counter.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, carrots, and possibly pickled items, arranged in a metal tray in the background.",
+                "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool placed on the cutting board, possibly used for cleaning or spreading ingredients.",
+                "Tuna": "Finely chopped, pink-colored fish placed in a line on top of the rice as a filling ingredient.",
+                "Cucumber": "Thinly sliced green vegetable arranged in a row over the tuna, adding freshness to the roll.",
+                "Half Avocado": "A partially peeled, green avocado held in the Chef's gloved hand, later peeled and discarded after use.",
+                "Trash Bin": "A black, wheeled trash bin with a liner, used to dispose of avocado skin and other waste."
+            },
+            "discovered_new_entities": {
+                "Blowtorch": "A handheld gas torch with a yellow and black body, used to sear the Fried Shrimp on a metal plate."
+            }
+        },
+        {
+            "minute": 9,
+            "caption": "The Chef, wearing black gloves and showcasing a heavily tattooed forearm with a beaded bracelet on the right wrist, is seen slicing multiple types of sushi rolls on a white cutting board. The rolls include those topped with salmon, cucumber, and tobiko (fish roe), each being cut into uniform pieces with a sharp knife. After slicing, the Chef cleans the knife by rinsing it under running water in a stainless steel sink, using a yellow plastic scraper to remove residue. The workspace is organized, with prepped ingredients like sliced cucumber and condiment bottles visible in the background. The Chef then returns to the cutting board, where the neatly arranged sushi pieces are displayed, ready for plating. The environment is a professional kitchen with stainless steel surfaces, a trash bin nearby, and a metal bowl with a green cloth, indicating ongoing food preparation. The Chef’s movements are precise and efficient, reflecting expertise in sushi preparation.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively slicing sushi rolls with a sharp knife and cleaning the knife at the sink.",
+                "Cutting Board": "A white, rectangular plastic board used as the primary workspace for slicing sushi rolls, now displaying neatly cut pieces of various sushi types.",
+                "Knife": "A large, sharp knife with a wooden handle, used to slice sushi rolls into uniform pieces; later rinsed under running water in the sink.",
+                "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool used to clean the knife under the sink, removing food residue.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, arranged on the counter, visible in the background.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, arranged in a metal tray in the background.",
+                "Trash Bin": "A black, wheeled trash bin with a liner, visible near the sink, used for discarding waste.",
+                "Sushi Rice": "White, sticky rice visible inside the sushi rolls, forming the base of each piece.",
+                "Cucumber": "Thinly sliced green vegetable arranged in a row inside one of the sushi rolls, visible after slicing."
+            },
+            "discovered_new_entities": {
+                "Salmon": "Orange-pink fish slices topping one of the sushi rolls, cut into uniform pieces.",
+                "Tobiko": "Bright red fish roe topping another sushi roll, visible after being cut into pieces.",
+                "Sink": "A stainless steel sink with a faucet, used by the Chef to rinse the knife and scraper, located adjacent to the cutting board."
+            }
+        },
+        {
+            "minute": 10,
+            "caption": "The video segment captures a chef, wearing black gloves and a beaded bracelet on the right wrist, actively assembling and packaging a variety of sushi rolls in a professional kitchen. The chef begins by placing several types of sushi—some topped with Tobiko, others with Salmon and Fried Shrimp—into a brown, hexagonal takeout box. The sushi rolls are neatly arranged, showcasing vibrant colors and textures. After filling the box, the chef moves to a metal bowl with a green cloth inside, then returns to the cutting board to drizzle sauce from a squeeze bottle over the sushi in the box. The chef then picks up a blowtorch with a yellow and black body and uses it to sear the Fried Shrimp on a metal plate, adding a golden-brown finish. The workspace is clean and organized, with condiment bottles, prepped ingredient containers, and a yellow plastic scraper visible in the background. The chef’s tattooed forearm is prominently visible throughout, and the kitchen environment features stainless steel surfaces, a sink, and a trash bin. The overall atmosphere is fast-paced and precise, emphasizing efficiency and presentation.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively placing sushi into a takeout box, drizzling sauce, and using a blowtorch to sear Fried Shrimp.",
+                "Cutting Board": "A white, rectangular plastic board displaying various sushi rolls, including those topped with Salmon, Tobiko, and Fried Shrimp, and used as the primary workspace for final assembly.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, arranged on the counter, used to drizzle sauce over the sushi in the box.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, arranged in a metal tray in the background, visible near the cutting board.",
+                "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool visible on the cutting board, used for cleaning the knife earlier, now resting beside the workspace.",
+                "Fried Shrimp": "Golden-brown, crispy shrimp pieces placed on the cutting board and later seared with a blowtorch on a metal plate.",
+                "Blowtorch": "A handheld gas torch with a yellow and black body, used to sear the Fried Shrimp on a metal plate, held by the chef’s gloved hand.",
+                "Salmon": "Orange-pink fish slices topping one of the sushi rolls, cut into uniform pieces and visible on the cutting board.",
+                "Tobiko": "Bright red fish roe topping another sushi roll, visible after being cut into pieces and placed in the takeout box.",
+                "Trash Bin": "A black, wheeled trash bin with a liner, visible near the sink, used for discarding waste.",
+                "Sink": "A stainless steel sink with a faucet, located adjacent to the cutting board, visible in the background."
+            },
+            "discovered_new_entities": {
+                "Takeout Box": "A brown, hexagonal cardboard box used to package the sushi rolls, held open by the chef’s gloved hands during assembly.",
+                "Metal Plate": "A flat, round metal surface used to hold the Fried Shrimp while being seared with the blowtorch, placed on the counter near the cutting board."
+            }
+        },
+        {
+            "minute": 11,
+            "caption": "The video begins with the Chef, wearing black gloves and a beaded bracelet, placing various sushi rolls into a brown hexagonal takeout box on a white cutting board. The rolls include Salmon-topped, Tobiko-topped, and avocado-wrapped varieties, arranged neatly. The Chef then drizzles a creamy white sauce from a squeeze bottle over the rolls, followed by a darker sauce from another bottle, creating a decorative pattern. After finishing the sauce, the Chef picks up a dark, uncut sushi roll wrapped in nori and begins to slice it with a large knife. The scene shifts as the Chef discards a piece of nori into a trash bin near the sink, then walks toward a metal plate holding Fried Shrimp, which are being seared with a blowtorch. The Chef’s tattooed forearm is visible throughout, and the kitchen environment includes prepped ingredient containers, condiment bottles, and a yellow plastic scraper on the counter. The lighting is bright and clinical, typical of a professional kitchen, with stainless steel surfaces and organized workspaces.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively placing sushi into a takeout box, drizzling sauce, and using a blowtorch to sear Fried Shrimp.",
+                "Takeout Box": "A brown, hexagonal cardboard box used to package the sushi rolls, held open by the chef’s gloved hands during assembly.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, arranged on the counter, used to drizzle sauce over the sushi in the box.",
+                "Cutting Board": "A white, rectangular plastic board displaying various sushi rolls, including those topped with Salmon, Tobiko, and Fried Shrimp, and used as the primary workspace for final assembly.",
+                "Knife": "A large, sharp knife with a wooden handle, used to slice sushi rolls into uniform pieces; later rinsed under running water in the sink.",
+                "Fried Shrimp": "Golden-brown, crispy shrimp pieces placed on the cutting board and later seared with a blowtorch on a metal plate.",
+                "Blowtorch": "A handheld gas torch with a yellow and black body, used to sear the Fried Shrimp on a metal plate, held by the chef’s gloved hand.",
+                "Metal Plate": "A flat, round metal surface used to hold the Fried Shrimp while being seared with the blowtorch, placed on the counter near the cutting board.",
+                "Trash Bin": "A black, wheeled trash bin with a liner, visible near the sink, used for discarding waste.",
+                "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool visible on the cutting board, used for cleaning the knife earlier, now resting beside the workspace.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, arranged in a metal tray in the background, visible near the cutting board."
+            },
+            "discovered_new_entities": {
+                "Sushi Rolls": "Various types including Salmon-topped, Tobiko-topped, and avocado-wrapped, arranged neatly in the takeout box."
+            }
+        },
+        {
+            "minute": 12,
+            "caption": "The video begins with a first-person perspective of the Chef walking through a commercial kitchen, wearing black gloves and dark pants, with a heavily tattooed forearm and a beaded bracelet visible on the right wrist. The Chef approaches a stainless steel workstation with a white Cutting Board, where a large Knife with a wooden handle and a Yellow Plastic Scraper are placed. The Chef picks up a small bunch of fresh green herbs, likely cilantro or parsley, and places them on the board. They then reach into a Metal Bowl with Rice, using a green cloth to scoop out a portion of Sushi Rice, which they spread evenly on the board. The Chef carefully arranges the herbs atop the rice, then uses their gloved hands to gently press and shape the rice mixture. The surrounding environment includes Prepped Ingredient Containers with various vegetables, Condiment Bottles with colorful caps, and a roll of paper towels. The Chef’s movements are precise and deliberate, indicating preparation for sushi assembly. The lighting is bright and clinical, typical of a professional kitchen, and the floor is tiled with a clean, organized layout. The Chef’s focus remains on the task, with no interaction with other people visible in the frame.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively preparing sushi rice and herbs on a cutting board.",
+                "Cutting Board": "A white, rectangular plastic board used as the primary workspace for spreading and shaping sushi rice and herbs.",
+                "Knife": "A large, sharp knife with a wooden handle, resting on the cutting board beside the workspace.",
+                "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool visible on the cutting board, resting beside the workspace.",
+                "Metal Bowl with Rice": "A large stainless steel bowl containing sushi rice, with a green cloth used to handle the rice.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, arranged in a metal tray in the background, visible near the cutting board.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, arranged on the counter, visible in the background."
+            },
+            "discovered_new_entities": {
+                "Herbs": "Fresh green herbs, likely cilantro or parsley, placed on the cutting board and arranged atop the sushi rice.",
+                "Paper Towel Roll": "A white roll of paper towels on a stand, positioned to the left of the cutting board, used for cleaning or drying."
+            }
+        },
+        {
+            "minute": 13,
+            "caption": "The Chef, wearing black gloves and showcasing a heavily tattooed forearm with a beaded bracelet on the right wrist, begins by gathering fresh green herbs from a white cutting board and placing them into a metal bowl with rice. The Chef then positions a Bamboo Sushi Mat on the cutting board and lays down a Nori Sheet on it. With precise movements, the Chef scoops Sushi Rice from the Metal Bowl with Rice using a green cloth to handle the rice, spreading it evenly over the Nori Sheet. The Chef’s hands work methodically, ensuring the rice covers the sheet uniformly while leaving a small border at the top. The workspace is clean and organized, with a Knife, Yellow Plastic Scraper, and Paper Towel Roll visible nearby. In the background, Prepped Ingredient Containers with sliced vegetables and Condiment Bottles are arranged on the counter. The Chef’s focus remains on the meticulous preparation of the sushi base, setting the stage for the next steps in the rolling process.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively preparing sushi rice and herbs on a cutting board.",
+                "Bamboo Sushi Mat": "A rectangular mat made of woven bamboo, used to roll sushi; placed on a white cutting board.",
+                "Nori Sheet": "A dark green, rectangular sheet of seaweed placed on the bamboo mat as the base for the sushi roll.",
+                "Sushi Rice": "White, sticky rice visible inside the sushi rolls, forming the base of each piece.",
+                "Metal Bowl with Rice": "A large stainless steel bowl containing sushi rice, with a green cloth used to handle the rice.",
+                "Cutting Board": "A white, rectangular plastic board used as the primary workspace for spreading and shaping sushi rice and herbs.",
+                "Knife": "A large, sharp knife with a wooden handle, resting on the cutting board beside the workspace.",
+                "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool visible on the cutting board, resting beside the workspace.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, arranged in a metal tray in the background, visible near the cutting board.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, arranged on the counter, visible in the background.",
+                "Paper Towel Roll": "A white roll of paper towels on a stand, positioned to the left of the cutting board, used for cleaning or drying.",
+                "Herbs": "Fresh green herbs, likely cilantro or parsley, placed on the cutting board and arranged atop the sushi rice."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 14,
+            "caption": "The Chef, wearing black gloves and showcasing a heavily tattooed forearm with a beaded bracelet on the right wrist, begins preparing a sushi roll on a white cutting board. A Bamboo Sushi Mat is placed on the board, and a Nori Sheet is laid flat on it. The Chef spreads Sushi Rice evenly over the nori, then adds a line of fresh Herbs, followed by thin slices of Cucumber and a strip of red pepper. The Chef then carefully rolls the sushi using the Bamboo Sushi Mat, applying even pressure to form a tight cylinder. After rolling, the Chef removes the mat and places the completed roll on the cutting board. The Chef then picks up a small, wrapped piece of sushi, possibly a hand roll, and begins to unwrap it, revealing the inner ingredients. The workspace is clean and organized, with a Knife resting nearby, a Yellow Plastic Scraper on the board, and various Prepped Ingredient Containers in the background. A Paper Towel Roll is visible to the left, and Condiment Bottles are arranged on the counter. The Chef’s movements are precise and deliberate, indicating expertise in sushi preparation.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively preparing sushi rice and herbs on a cutting board.",
+                "Bamboo Sushi Mat": "A rectangular mat made of woven bamboo, used to roll sushi; placed on a white cutting board.",
+                "Nori Sheet": "A dark green, rectangular sheet of seaweed placed on the bamboo mat as the base for the sushi roll.",
+                "Sushi Rice": "White, sticky rice visible inside the sushi rolls, forming the base of each piece.",
+                "Herbs": "Fresh green herbs, likely cilantro or parsley, placed on the cutting board and arranged atop the sushi rice.",
+                "Cucumber": "Thinly sliced green vegetable arranged in a row inside one of the sushi rolls, visible after slicing.",
+                "Cutting Board": "A white, rectangular plastic board used as the primary workspace for spreading and shaping sushi rice and herbs.",
+                "Knife": "A large, sharp knife with a wooden handle, resting on the cutting board beside the workspace.",
+                "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool visible on the cutting board, resting beside the workspace.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, arranged in a metal tray in the background, visible near the cutting board.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, arranged on the counter, visible in the background.",
+                "Paper Towel Roll": "A white roll of paper towels on a stand, positioned to the left of the cutting board, used for cleaning or drying."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 15,
+            "caption": "The video begins with the Chef, wearing black gloves and showcasing a heavily tattooed forearm with a beaded bracelet on the right wrist, placing a Bamboo Sushi Mat on a white Cutting Board. The Chef then lays down a Nori Sheet on the mat and begins spreading Sushi Rice evenly across it using a green cloth from a Metal Bowl with Rice. After spreading the rice, the Chef walks to a blue plastic container, scoops more Sushi Rice into a clear plastic container, and returns to the workspace. The Chef then pours the rice into the Metal Bowl with Rice, which already contains some rice and a green cloth. The Chef continues to handle the rice, adjusting the amount in the bowl, and then walks back toward the cutting board area, where the workspace is set up with various Prepped Ingredient Containers, a Knife, and Condiment Bottles in the background. The environment is a professional kitchen with stainless steel surfaces, a Sink, and a Paper Towel Roll visible to the left. The Chef’s movements are precise and efficient, indicating experience in sushi preparation.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively preparing sushi rice and herbs on a cutting board.",
+                "Bamboo Sushi Mat": "A rectangular mat made of woven bamboo, used to roll sushi; placed on a white cutting board.",
+                "Nori Sheet": "A dark green, rectangular sheet of seaweed placed on the bamboo mat as the base for the sushi roll.",
+                "Sushi Rice": "White, sticky rice visible inside the sushi rolls, forming the base of each piece.",
+                "Metal Bowl with Rice": "A large stainless steel bowl containing sushi rice, with a green cloth used to handle the rice.",
+                "Cutting Board": "A white, rectangular plastic board used as the primary workspace for spreading and shaping sushi rice and herbs.",
+                "Knife": "A large, sharp knife with a wooden handle, resting on the cutting board beside the workspace.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, arranged on the counter, visible in the background.",
+                "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, arranged in a metal tray in the background, visible near the cutting board.",
+                "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool visible on the cutting board, resting beside the workspace.",
+                "Sink": "A stainless steel sink with a faucet, located adjacent to the cutting board, visible in the background.",
+                "Paper Towel Roll": "A white roll of paper towels on a stand, positioned to the left of the cutting board, used for cleaning or drying."
+            },
+            "discovered_new_entities": {
+                "Blue Plastic Container": "A large blue rectangular plastic bin filled with cooked sushi rice, used for storing and scooping rice during preparation."
+            }
+        },
+        {
+            "minute": 16,
+            "caption": "The video segment begins with a top-down view of the Chef, identifiable by their heavily tattooed left forearm and black gloves, standing in a professional kitchen environment. They are holding a large stainless steel bowl filled with sushi rice, which is the central focus. The Chef uses a bright green cloth, wrapped around their right hand, to gently mix and fluff the rice, ensuring it is evenly distributed and not clumped. The green cloth is used to avoid direct contact with the rice, maintaining hygiene and texture. The Chef’s movements are deliberate and practiced, indicating experience. The kitchen floor is tiled, and stainless steel counters are visible in the background, along with various containers and condiment bottles. As the Chef mixes, they shift slightly, revealing a black apron and dark pants. The camera angle remains fixed overhead, capturing the rhythmic motion of the hands and the texture of the rice. The segment ends with the Chef lifting the bowl slightly, possibly preparing to transfer the rice to another container or workspace, while the green cloth remains wrapped around their hand, now slightly damp from the rice’s moisture.",
+            "active_entities": {
+                "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively mixing sushi rice in a metal bowl using a green cloth.",
+                "Metal Bowl with Rice": "A large stainless steel bowl containing sushi rice, being handled and mixed by the Chef using a green cloth.",
+                "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, arranged on the counter, visible in the background."
+            },
+            "discovered_new_entities": {
+                "Green Cloth": "A bright green cloth wrapped around the Chef’s right hand, used to mix and fluff the rice without direct contact, showing slight dampness from the rice.",
+                "Tiled Floor": "White tiled flooring visible beneath the Chef, indicating a clean, professional kitchen environment.",
+                "Stainless Steel Counters": "Shiny metal surfaces in the background, part of the kitchen workspace, with various containers and condiment bottles visible."
+            }
+        }
+    ],
+    "entity_library": {
+        "Chef": "Wearing black gloves, with a heavily tattooed forearm, and a beaded bracelet on the right wrist; actively mixing sushi rice in a metal bowl using a green cloth.",
+        "Bamboo Sushi Mat": "A rectangular mat made of woven bamboo, used to roll sushi; placed on a white cutting board.",
+        "Nori Sheet": "A dark green, rectangular sheet of seaweed placed on the bamboo mat as the base for the sushi roll.",
+        "Sushi Rice": "White, sticky rice visible inside the sushi rolls, forming the base of each piece.",
+        "Fried Shrimp": "Golden-brown, crispy shrimp pieces placed on the cutting board and later seared with a blowtorch on a metal plate.",
+        "Avocado Slice": "A bright green, crescent-shaped slice of avocado placed atop the rice before rolling.",
+        "Metal Bowl with Rice": "A large stainless steel bowl containing sushi rice, being handled and mixed by the Chef using a green cloth.",
+        "Cutting Board": "A white, rectangular plastic board used as the primary workspace for spreading and shaping sushi rice and herbs.",
+        "Knife": "A large, sharp knife with a wooden handle, resting on the cutting board beside the workspace.",
+        "Condiment Bottles": "Several squeeze bottles with orange, white, and yellow caps, arranged on the counter, visible in the background.",
+        "Prepped Ingredient Containers": "Clear plastic containers holding sliced vegetables like cucumber, arranged in a metal tray in the background, visible near the cutting board.",
+        "Yellow Plastic Scraper": "A bright yellow, flexible scraper tool visible on the cutting board, resting beside the workspace.",
+        "Tuna": "Finely chopped, pink-colored fish placed in a line on top of the rice as a filling ingredient.",
+        "Cucumber": "Thinly sliced green vegetable arranged in a row inside one of the sushi rolls, visible after slicing.",
+        "Half Avocado": "A partially peeled, green avocado held in the Chef's gloved hand, later peeled and discarded after use.",
+        "Trash Bin": "A black, wheeled trash bin with a liner, visible near the sink, used for discarding waste.",
+        "Blowtorch": "A handheld gas torch with a yellow and black body, used to sear the Fried Shrimp on a metal plate, held by the chef’s gloved hand.",
+        "Salmon": "Orange-pink fish slices topping one of the sushi rolls, cut into uniform pieces and visible on the cutting board.",
+        "Tobiko": "Bright red fish roe topping another sushi roll, visible after being cut into pieces and placed in the takeout box.",
+        "Sink": "A stainless steel sink with a faucet, located adjacent to the cutting board, visible in the background.",
+        "Takeout Box": "A brown, hexagonal cardboard box used to package the sushi rolls, held open by the chef’s gloved hands during assembly.",
+        "Metal Plate": "A flat, round metal surface used to hold the Fried Shrimp while being seared with the blowtorch, placed on the counter near the cutting board.",
+        "Sushi Rolls": "Various types including Salmon-topped, Tobiko-topped, and avocado-wrapped, arranged neatly in the takeout box.",
+        "Herbs": "Fresh green herbs, likely cilantro or parsley, placed on the cutting board and arranged atop the sushi rice.",
+        "Paper Towel Roll": "A white roll of paper towels on a stand, positioned to the left of the cutting board, used for cleaning or drying.",
+        "Blue Plastic Container": "A large blue rectangular plastic bin filled with cooked sushi rice, used for storing and scooping rice during preparation.",
+        "Green Cloth": "A bright green cloth wrapped around the Chef’s right hand, used to mix and fluff the rice without direct contact, showing slight dampness from the rice.",
+        "Tiled Floor": "White tiled flooring visible beneath the Chef, indicating a clean, professional kitchen environment.",
+        "Stainless Steel Counters": "Shiny metal surfaces in the background, part of the kitchen workspace, with various containers and condiment bottles visible."
+    }
+}

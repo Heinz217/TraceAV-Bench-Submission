@@ -1,0 +1,829 @@
+{
+  "video_id": "video20",
+  "audio_id": "video20_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "The Microsoft Build title screen, featuring an upbeat, futuristic synth track, transitions to the Microsoft Bing interface where a user selects 'More Creative' and requests an inspiring video script about AI and developers. The AI responds, 'Sure, I can do that for you,' initiating an animated text sequence. The AI-generated text, 'We’re entering a new era of AI. Where you will be able to build as fast as your imagination,' overlays a young superhero girl running, a Formula 1 car racing, and a sports crowd, prompting a female voice to exclaim, 'It's like we're in my mind. It's magical.' The text continues, 'Where your creativity will have no constraints,' over office collaborators working, as a male voice notes, 'We're innovating at a scale like never before,' and another adds, 'It takes what you prompted with and just runs with it.' A male voice then declares, 'Everything is linked, everything is easy to use,' and another emphasizes, 'We're accelerating how fast we can deliver solutions to our fans, to our business.' Finally, the text 'And you can focus on the big picture,' appears over a doctor and patient shaking hands, with a female voice explaining how it reduces provider computer time. The visuals remain vibrant and fast-paced, reinforcing AI's empowering role for developers and creators, all set to the continuous synth music.",
+      "involved_entities": {
+        "Young Superhero Girl": {
+          "description": "A young girl with long blonde hair, wearing a blue and gold superhero costume with a flowing cape, running through a sunlit field of tall grass.",
+          "attribute": "visual"
+        },
+        "Formula 1 Car": {
+          "description": "A sleek, blue and purple Formula 1 car with sponsor logos (BWT, Castrol, Alpine) racing on a track, with a driver in a matching blue suit and helmet.",
+          "attribute": "visual"
+        },
+        "AI-Generated Text Overlay": {
+          "description": "Dynamic, animated text appearing in white and purple fonts with emojis, displayed over various scenes to emphasize key messages about AI and creativity, with a female voice reacting, 'It's like we're in my mind. It's magical,' and male voices reinforcing themes of innovation, ease of use, and accelerated delivery.",
+          "attribute": "audio-visual"
+        },
+        "Sports Crowd": {
+          "description": "A diverse group of spectators in a stadium, many wearing masks and team jerseys, cheering and clapping enthusiastically.",
+          "attribute": "visual"
+        },
+        "Microsoft Bing Interface": {
+          "description": "Clean, minimalist design with a blue and white color scheme, featuring a search bar, 'CHAT' tab, and options for 'More Creative,' 'More Balanced,' and 'More Precise' conversation styles, directly referenced by a male voice stating, 'It takes what you prompted with and just runs with it,' highlighting its interactive AI capabilities.",
+          "attribute": "audio-visual"
+        },
+        "Microsoft Build Title Screen": {
+          "description": "Vibrant, abstract background with 'Microsoft Build' text in bold, modern font, featuring gradient colors of orange, yellow, and purple.",
+          "attribute": "visual"
+        },
+        "Doctor and Patient": {
+          "description": "A male doctor in a white lab coat shaking hands with a seated male patient in a clinical setting, symbolizing trust and human connection, with a female voice explaining how AI 'takes the hands-on time that the provider has to spend with the computer and puts that...' implying AI's role in freeing up professionals for more human-centric tasks.",
+          "attribute": "audio-visual"
+        },
+        "Office Collaborators": {
+          "description": "A group of people in a modern office, casually dressed, engaged in discussion and collaboration around a table with laptops and digital displays.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a vibrant title screen displaying 'Microsoft Build' against a colorful, abstract background, accompanied by an upbeat, futuristic synth music track that continues throughout the segment. The scene transitions to the clean Microsoft Bing interface, where a user selects the 'More Creative' conversation style and types a request for an inspiring video script celebrating developers in the age of AI for Microsoft Build. The AI responds with 'Sure, I can do that for you,' followed by a dynamic, animated text sequence. As the text 'We’re entering a new era of AI. Where you will be able to build as fast as your imagination' overlays various scenes—a young girl in a superhero costume running through a field, a Formula 1 car racing on a track, and a crowd of excited spectators at a sports event—a female voice remarks, \"It's like we're in my mind. It's magical.\" The narrative continues with the AI-generated text, 'Where your creativity will have no constraints,' appearing over a group of people in a modern office environment engaged in collaborative work, while a male voice states, \"We're innovating at a scale like never before,\" and another adds, \"It takes what you prompted with and just runs with it.\" Further reinforcing the message, a male voice declares, \"Everything is linked, everything is easy to use,\" and another emphasizes, \"We're accelerating how fast we can deliver solutions to our fans, to our business.\" The final text, 'And you can focus on the big picture,' appears over a scene of a doctor shaking hands with a patient in a clinical setting, as a female voice explains, \"It takes the hands-on time that the provider has to spend with the computer and puts that...\" Throughout, the visuals are vibrant, fast-paced, and designed to evoke inspiration and innovation, aligning with the theme of AI empowering developers and creators, all underscored by the continuous, driving synth music."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 10,
+      "summary": "The video opens with a woman in an office discussing patient care, transitioning to a man and woman interacting, with a voiceover emphasizing amplified human capability. An inspiring text overlay appears, followed by scenes of a farmer and a village girl in rural India, highlighting opportunities for personal growth. A woman in a black blazer speaks passionately in a conference room, and a collaborative workspace group interacts with a robot, accompanied by typing sounds. Two women high-five, and a text message exchange is shown before the 'Microsoft Build' title screen appears with orchestral music. Satya Nadella, Chairman and CEO of Microsoft, confidently walks onto a stage at the Microsoft Build event, greeting an enthusiastic audience and discussing platform shifts and the 'Pursuit of the Dream Machine' timeline, referencing historical computing milestones like Vannevar Bush and Licklider, and the 'Mother of All Demos.' He highlights ChatGPT as a significant upgrade, comparing it to a 'steam engine' and a 'Mosaic moment for this generation of the AI platform,' emphasizing the profound changes across the software stack. Nadella then introduces Microsoft's developer tools: Codespaces for rapid environment setup, Dev Box for faster development environments, Copilot for enhanced productivity, and GitHub Actions and Azure Deployment Environments for streamlined workflows, all while emphasizing the desire to stay within VS Code and the command line. He discusses the pervasive integration of AI across Microsoft platforms, including Copilot in Viva, Dynamics 365, security, Bing, Edge, and LinkedIn, powered by Azure OpenAI APIs. Nadella announces over 50 new updates, including bringing Bing search grounding to ChatGPT, and then introduces Windows Copilot, designed to make every user a Windows power user. The Windows Copilot interface is demonstrated, showing AI-powered assistance for system adjustments, focus timers, dark theme activation, document summarization, and music recommendations via Spotify. It also guides the user in creating a logo using Adobe Express, showcasing seamless integration and workflow simplification across applications.",
+      "involved_entities": {
+        "Collaborative Workspace Group": {
+          "description": "A group of people, including a man with a beard and a woman with blonde hair, working with a small robot in a modern office setting, accompanied by the sound of typing.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Black Blazer": {
+          "description": "A woman with long dark hair, wearing a black blazer over a pink shirt, speaking passionately in a conference room, against a backdrop of inspiring music.",
+          "attribute": "audio-visual"
+        },
+        "Stage Presenter": {
+          "description": "A man in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, identified as Satya Nadella, walking and speaking confidently across the stage with expressive hand gestures, articulating key announcements about ChatGPT and Windows Copilot.",
+          "attribute": "audio-visual"
+        },
+        "High-Fiving Women": {
+          "description": "Two women, one in a black shirt and the other in a blue patterned shirt, high-fiving enthusiastically at a table with laptops and drinks.",
+          "attribute": "visual"
+        },
+        "Man in Traditional White Attire": {
+          "description": "A man with a white turban and traditional white clothing, sitting on a stone wall in a rural environment.",
+          "attribute": "visual"
+        },
+        "Doctor and Patient": {
+          "description": "A male doctor in a white lab coat shaking hands with a seated male patient in a clinical setting, symbolizing trust and human connection.",
+          "attribute": "visual"
+        },
+        "Office Collaborators": {
+          "description": "A group of people in a modern office, casually dressed, engaged in discussion and collaboration around a table with laptops and digital displays.",
+          "attribute": "visual"
+        },
+        "Conference Hall Audience": {
+          "description": "A large audience seated in rows, watching the speaker on stage at a Microsoft Build event, illuminated by blue and purple lights, with many attendees raising their hands or recording the moment, who enthusiastically applaud and cheer following the announcement of Windows Copilot.",
+          "attribute": "audio-visual"
+        },
+        "AI-Generated Text Overlay": {
+          "description": "Dynamic, animated text appearing in white and purple fonts with emojis, displayed over various scenes to emphasize key messages about AI and creativity.",
+          "attribute": "visual"
+        },
+        "Woman in Blue Sari": {
+          "description": "A woman with long dark hair, wearing a blue sari and glasses, standing in a rural setting beside a man in traditional white attire, while a female voiceover explains how opportunities open up 'for that farmer, for that girl in the village who's trying to go to college, to find out what more can they do with their life.'",
+          "attribute": "audio-visual"
+        },
+        "Microsoft Build Title Screen": {
+          "description": "Vibrant, abstract background with 'Microsoft Build' text in bold, modern font, featuring gradient colors of orange, yellow, and purple, serving as the main backdrop for the stage presentation.",
+          "attribute": "visual"
+        },
+        "Satya Nadella": {
+          "description": "Bald man with glasses, wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, identified on-screen as Chairman and CEO of Microsoft, actively presenting on stage with expressive gestures and confident movement, speaking clearly and confidently about ChatGPT's growth, Bing integration, and the announcement of Windows Copilot, eliciting audience applause.",
+          "attribute": "audio-visual"
+        },
+        "Pursuit of the Dream Machine Timeline": {
+          "description": "A large presentation slide displayed on stage screens, featuring a chronological timeline of computing milestones from 1945 to 2022, including images and titles such as 'As We May Think,' 'Man-Computer Symbiosis,' 'The Mother of All Demos,' Xerox Alto, PC/Server, World Wide Web, iPhone/Cloud, and ChatGPT, with connecting lines and year labels, serving as a prominent visual backdrop to Satya Nadella's speech about technological progression.",
+          "attribute": "audio-visual"
+        },
+        "Codespaces": {
+          "description": "A screen capture of a GitHub repository interface showing a 'Create codespace' button and file structure, with the label 'Codespaces' in white text on a dark background.",
+          "attribute": "visual"
+        },
+        "GitHub Copilot": {
+          "description": "A screen capture of a code editor with GitHub Copilot suggesting code, showing a Python function for password validation, labeled 'GitHub Copilot' in white text, and mentioned by Satya Nadella as part of the broader Copilot ecosystem.",
+          "attribute": "audio-visual"
+        },
+        "GitHub Actions and Azure Deployment Environments": {
+          "description": "A screen capture of a GitHub pull request interface showing deployment checks and environment statuses, labeled 'GitHub Actions and Azure Deployment Environments' with 'Generally available' text.",
+          "attribute": "visual"
+        },
+        "Microsoft Dev Box": {
+          "description": "A screen capture of a Visual Studio Code-like development environment with a dark theme, labeled 'Microsoft Dev Box' and noted as 'Generally available July 2023'.",
+          "attribute": "visual"
+        },
+        "Azure OpenAI Service": {
+          "description": "A screen capture showing the general availability of Azure OpenAI Service, with text highlighting expanded access to large, advanced AI models and enterprise benefits, alongside the Microsoft and OpenAI logos, which is specifically mentioned by Satya Nadella as part of the 'AI infrastructure' with its APIs.",
+          "attribute": "audio-visual"
+        },
+        "ChatGPT": {
+          "description": "A screen capture displaying the ChatGPT interface with a prompt to 'Draft a proposal from yesterday's meeting notes,' indicating integration with Microsoft tools.",
+          "attribute": "visual"
+        },
+        "Bringing Bing to ChatGPT Slide": {
+          "description": "A presentation slide with the title 'Bringing Bing to ChatGPT' and a screenshot of the ChatGPT interface showing options like 'Browsing with Bing' and 'Code Execution Beta,' displayed on a large stage screen.",
+          "attribute": "visual"
+        },
+        "Windows Copilot Announcement Slide": {
+          "description": "A presentation slide with the title 'Announcing Windows Copilot' in bold white text under a pink 'Announcing' tag, displayed on a large stage screen.",
+          "attribute": "visual"
+        },
+        "Adobe Express Interface": {
+          "description": "A design application with a clean, user-friendly interface, featuring options to edit text, resize, apply themes, and download or share designs, used to create a logo with a coffee cup and text 'THE FOURTH COFFEE' on a yellow background.",
+          "attribute": "visual"
+        },
+        "Focus Timer Widget": {
+          "description": "A circular timer widget with a blue and white design, displaying a countdown (e.g., '24 min') and integrating with the Clock app to help minimize distractions during work sessions.",
+          "attribute": "visual"
+        },
+        "Spotify Interface": {
+          "description": "A music streaming application with a dark theme, displaying playlists like 'Chill Vibes' and song lists, including tracks by artists such as Oshwa, with playback controls and queue management features.",
+          "attribute": "visual"
+        },
+        "Windows 11 Desktop Interface": {
+          "description": "A modern desktop environment with a vibrant blue, flowing ribbon wallpaper, a taskbar featuring a 'Search' bar and app icons, including the Windows Copilot icon, and a system tray with date, time, and connectivity indicators.",
+          "attribute": "visual"
+        },
+        "Dark Theme Interface": {
+          "description": "A system-wide dark color scheme applied to the desktop, taskbar, and open applications, reducing eye strain and improving focus, with dark backgrounds and light text.",
+          "attribute": "visual"
+        },
+        "Windows Copilot": {
+          "description": "A sidebar interface with a clean, minimalist design, featuring a blue and white color scheme, offering AI-powered assistance with options like 'Ask me anything,' 'Explain,' 'Rewrite,' and 'Summarize,' and integrating with various applications such as Spotify and Adobe Express.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of a woman with blonde hair, wearing a floral top and navy cardigan, speaking in an office setting, her voice heard saying, \"time back with the patient.\" This transitions to a hand typing on a laptop keyboard, followed by a man in a white shirt and tie smiling while interacting with a woman in a striped shirt, as a male voiceover explains how this \"allows for the patient and doctor to be a patient and a doctor, like it used to be.\" A young woman with glasses, wearing a gray patterned shirt, is then shown working on a laptop in a modern office, while another male voiceover emphasizes that it's \"fundamentally about amplifying what every person is able to do.\" An upbeat, inspiring background music begins as a text overlay appears, stating 'To build for tomorrow, and accelerate human progress today,' accompanied by a smiling emoji. The scene shifts to a rural setting where a woman in a blue sari and glasses stands beside a man in traditional white attire, sitting on a stone wall, while a female voiceover highlights how this \"opens up the opportunity for that farmer, for that girl in the village who's trying to go to college, to find out what more can they do with their life.\" The music continues as a woman in a black blazer and pink shirt speaks passionately in a conference room, followed by the reappearance of the text overlay, now reading 'Let’s build that future... together.' A group of people in a collaborative workspace, including a man with a beard and a woman with blonde hair, are then seen working with a small robot, accompanied by the distinct sound of typing. Two women high-five enthusiastically at a table with laptops and drinks, before a text message exchange appears on screen. The video then transitions to a vibrant, abstract 'Microsoft Build' title screen with gradient colors of orange, yellow, and purple, as the background music swells to a grand, orchestral sound. Finally, a man in a black shirt and jeans walks confidently across a stage displaying the 'Microsoft Build' logo in a large conference hall, illuminated with blue and purple lights, greeted by enthusiastic applause from the attentive audience after he exclaims, \"Good morning!\"",
+        "The video opens with a wide shot of a large, enthusiastic audience at a Microsoft Build event, illuminated by vibrant blue and purple stage lighting, many attendees raising their hands or recording the moment, accompanied by the sound of their applause and cheers. The scene transitions to a full-stage view where Satya Nadella, identified by on-screen text as Chairman and CEO of Microsoft, walks confidently across the stage. Dressed casually in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, he greets the audience with an enthusiastic \"Good morning, it's fantastic to see you all, welcome to Build!\" against a dynamic, colorful abstract backdrop featuring the 'Microsoft Build' logo in bold, modern font with an orange, yellow, and purple gradient. As Nadella speaks, his voice is clear and welcoming, expressing excitement to be back together physically and acknowledging those joining online. He gestures with his hands, occasionally clasping them or using open hand movements to emphasize points, describing developer conferences as \"special times, special places to be, especially when platform shifts are in the air.\" The camera follows him, shifting from wide shots to medium close-ups, capturing his engaged expression and animated delivery as he recalls his first PDC in 1991 and the life-changing impact it had. He conveys an energetic and forward-looking atmosphere, stating it's \"exciting to be able to come back to Build 2023 with that same sense of anticipation of something big that is shifting around us as developers,\" before mentioning reading \"Mitchell Waldrop's Dream Machine\" last summer. The bright and professional lighting consistently highlights him and the vivid stage design.",
+        "Satya Nadella, Chairman and CEO of Microsoft, walks confidently across the vibrantly lit stage at the Microsoft Build event, dressed in a dark navy hoodie, gray shirt, black pants, and black sneakers. As he gestures expressively, the camera pulls back to reveal a large, engaged Conference Hall Audience, many raising their hands or recording, while massive screens display the 'Microsoft Build' branding. Moving to the center, Nadella introduces a new presentation slide titled 'Pursuit of the Dream Machine,' which features a timeline of computing history. He explains, \"while I was playing with DB3 as GPT4 was called then, DaVinci 3... it just brought to it brought in perspective what this is all about. I think that that concept of Dream Machine perhaps best communicates what we have really been doing over the last 70 years.\" As he walks along the stage, pointing to milestones, he elaborates on the evolution, referencing \"Vannevar Bush wrote in his most seminal paper, As We May Think,\" and \"Licklider was the first one who even conceptualized the human computer symbiosis,\" along with \"The Mother of All Demos that came in '68,\" \"the Xerox Alto,\" and \"the PC server one in '91, '93.\" His deliberate movements and hand gestures, particularly when discussing the 2022 ChatGPT milestone, underscore the dynamic and forward-looking atmosphere, keeping the audience's attention fixed on the evolving visual narrative and his insightful commentary.",
+        "Satya Nadella, Chairman and CEO of Microsoft, walks confidently across a large, blue-lit stage, dressed in a dark navy hoodie, gray shirt, black pants, and black sneakers. Behind him, a massive screen displays the 'Pursuit of the Dream Machine' timeline, charting computing milestones from 1945 to 2022, including 'As We May Think,' 'The Mother of All Demos,' and ChatGPT. Speaking in a clear, articulate voice, Nadella reflects on past innovations like the \"Mosaic moment\" and the \"iPhone and the cloud,\" emphasizing that \"all of these will be one continuous journey.\" He references Steve Jobs's description of computers as \"bicycles for the mind,\" calling it a \"beautiful metaphor\" that captures the \"essence of what computing is.\" As he gestures expressively, the camera pans across a large, engaged Conference Hall Audience, illuminated by blue and purple lights, with some attendees raising hands or recording on smartphones. Nadella continues, explaining that \"last November, we got an upgrade,\" transitioning \"from the bicycle to the steam engine\" with the \"launch of ChatGPT.\" He describes this as \"the Mosaic moment for this generation of the AI platform,\" looking forward to \"what we can do going forward\" as developers. He concludes by stating it's an \"exciting time\" where \"every layer of the software stack is going to be changed forever,\" and there's \"no better place to start than the actual...\" The dynamic and futuristic atmosphere, reinforced by the multiple screens showing the timeline, underscores the theme of technological evolution.",
+        "The video opens with Satya Nadella, Chairman and CEO of Microsoft, standing confidently on a large stage at the Microsoft Build event, dressed in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles. He speaks in a clear, articulate voice, gesturing expressively as he discusses the evolving 'developer stack' and how 'we build is fundamentally changing,' with the backdrop displaying 'How we build' in bold white letters. The camera then pulls back to reveal a wide shot of the audience in a dimly lit conference hall, illuminated by blue and purple stage lights, with attendees seated in rows. Satya continues, introducing Microsoft’s developer tools: first, 'Codespaces,' which he highlights for enabling environment setup 'in seconds versus minutes,' as a slide shows a GitHub repository interface. He then moves to 'Dev Box,' noting that it can be set up 'in less than an hour' instead of a day, while a Visual Studio Code-like environment is displayed. Next, he presents 'Copilot,' mentioning 'Copilot X' and its role in driving productivity, which is '54% or so up,' as a screen capture demonstrates AI-assisted code generation. Finally, he discusses 'GitHub Actions and Azure Development environments,' emphasizing the desire to 'stay in VS Code' and 'command line' to do 'everything there,' as a slide illustrates deployment workflows. The scene returns to Satya Nadella on stage, now standing beside a large screen displaying a promotional image for a .NET-powered podcast app, with text 'powered by .NET MAUI & Blazor' and download buttons, as he concludes his point about being 'close, close to that dream.' The stage features modern lighting with vertical blue and teal light strips and 'Microsoft Build' in white lettering, reinforcing the professional, tech-focused, and forward-looking atmosphere of innovation.",
+        "The video opens with a dark blue background showcasing four distinct development tools: Codespaces, Microsoft Dev Box, GitHub Copilot, and GitHub Actions and Azure Deployment Environments, each with a screen capture and label. The scene then transitions to Satya Nadella, Chairman and CEO of Microsoft, a bald man with glasses wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles. He stands on a stage in front of a large screen displaying GitHub Copilot code suggestions, gesturing expressively as he speaks about bringing back \"both the joy of programming and the flow of programming,\" emphasizing that \"that ability to be able to stay on task is just so wonderful to see.\" He continues, stating, \"So how we build software is radically different, but what we are going to build as developers is really the story of this developer conference.\" The camera pulls back to reveal a wide shot of the audience in a dimly lit conference hall, illuminated by blue and purple lights, as Nadella walks confidently across the stage. The screen behind him changes to display the text 'How we build | What we build,' which he gestures toward. He then moves across the stage, pointing to different sections of a dynamic grid of multiple screens showcasing various AI-powered applications and interfaces, including chatbots, code editors, and productivity tools. The grid highlights announcements like 'Microsoft and OpenAI extend partnership' and 'GPT-4 now on Azure OpenAI,' underscoring the integration of AI across Microsoft's ecosystem. Nadella maintains an engaging presence, using hand gestures to emphasize points, while the stage lighting remains focused on him and the vibrant display. He explains that \"every week there is something new\" and they are \"infusing this new AI stack across all layers of it,\" specifically mentioning starting with \"tooling in GitHub\" and \"Copilot in GitHub,\" then \"Copilot in Power Platform,\" and \"when it comes to productivity, Copilot in Microsoft 365.\"",
+        "The video opens with a close-up of Satya Nadella, Chairman and CEO of Microsoft, a bald man with glasses dressed in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles. He stands on a stage, gesturing expressively as his clear, confident voice details the pervasive integration of AI across Microsoft's platforms. Behind him, a massive, dynamic digital wall displays a grid of various Microsoft AI and development tools, including GitHub Copilot, Azure OpenAI Service, and ChatGPT interfaces. Nadella speaks of \"Copilot in Viva,\" \"business process,\" \"Copilot in Dynamics 365,\" \"industry workflows,\" \"security Copilot,\" and \"Copilot for the web in Bing and Edge,\" along with \"features in LinkedIn which are driven by AI\" and the \"AI infrastructure, where Azure Open AI APIs and everything else around it,\" emphasizing that \"every layer of the stack is profoundly changing.\" As the camera pulls back to reveal the full stage, illuminated with blue and green lighting and featuring the 'Microsoft Build' logo on the floor, Nadella announces, \"we're going to have 50 plus more announcements.\" Simultaneously, the background screens transition to display bold text: '50+ new updates.' He then highlights the first major announcement: \"we're bringing search grounding in Bing to ChatGPT,\" as the screen transitions again to 'Announcing Bringing Bing to ChatGPT.' The audience, seated attentively in the darkened conference hall, erupts in enthusiastic clapping and cheering upon Nadella's invitation, \"Yeah, you can clap,\" underscoring the energetic and futuristic atmosphere surrounding Microsoft’s advancements in AI integration.",
+        "The video segment opens with a wide shot of a dimly lit auditorium, bathed in blue stage lighting, filled with an attentive audience. On a modern stage, featuring vertical teal and blue light panels and a sleek wooden floor, Satya Nadella, Chairman and CEO of Microsoft, confidently presents. Dressed in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, he walks with expressive hand gestures, stating that \"ChatGPT is the most sort of fast-growing consumer app we've ever seen.\" Behind him, a large screen displays 'Bringing Bing to ChatGPT' with a screenshot of the ChatGPT interface, showing 'Browsing with Bing' and 'Code Execution Beta.' He explains that \"search grounding is a very key feature\" for current and grounded information, expressing excitement for its immediate launch in ChatGPT Plus and upcoming free tier availability, calling it \"just the start\" of bringing \"the best of Bing to the ChatGPT experience\" with OpenAI. The screen then dramatically transitions to announce 'Windows Copilot' in bold white text under a pink 'Announcing' tag. Satya declares, \"Next, we're bringing the Copilot to the biggest canvas of all, Windows,\" which is met with enthusiastic applause and cheers from the engaged audience, some raising hands or recording. He adds that \"you're going to hear a lot from Panos tomorrow about it,\" and believes this will \"make every user a power user of Windows,\" before instructing, \"Let's roll the video,\" as the segment concludes with the sound of a video starting.",
+        "The video begins with a dynamic, abstract blue and purple animated background, accompanied by a futuristic, ambient synth soundscape that builds in intensity. This transitions into the Windows 11 desktop interface, featuring a vibrant blue, flowing ribbon wallpaper, as an upbeat, modern electronic background music with a driving beat begins to play. The taskbar displays the new 'Search' bar and icons, including the Windows Copilot icon, which is clicked to open the Copilot sidebar. The clean, minimalist Windows Copilot interface appears, offering AI-powered assistance. The user types a query, 'How can I adjust my system to get work done?', and Copilot responds with personalized tips, including enabling a focus timer and switching to Dark Theme. The user selects 'Yes' to both suggestions, triggering the activation of the circular Focus Timer widget and the Dark Theme, which changes the desktop to a darker color scheme. The screen then shows multiple open applications, including Visual Studio Code, a dashboard, and system performance widgets, all now in dark mode, emphasizing productivity, while the electronic music continues. The user then asks Copilot to summarize a document titled 'Contoso Business Plan,' and Copilot generates a concise summary. Next, the user asks for music recommendations, and Copilot suggests Spotify playlists like 'Chill Vibes,' 'Brain Food,' and 'Deep Study.' The user selects 'Chill Vibes,' which opens the Spotify Interface, and the background music continues, consistent with music playing. The user then asks how to create a logo for a coffee business, and Copilot suggests using Adobe Express, launching the app and guiding the user to create a logo with a coffee cup design. The final scene shows the completed logo in the Adobe Express Interface, with Copilot confirming the action and offering further assistance, highlighting seamless integration and workflow simplification across apps, all set to the continuous electronic background music."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 11,
+      "end_minute": 14,
+      "summary": "The demonstration commenced with an AI-powered logo creation for 'THE FOURTH COFFEE' using Adobe Express, followed by its sharing in a Microsoft Teams chat, eliciting positive emoji reactions. The visual narrative then shifted to an abstract background, juxtaposing Spotify and Windows Copilot to signify cross-application integration, and showcased a 'Forza Horizon 5' dashboard merging gaming and productivity. The scene transitioned to a live stage presentation at Microsoft Build, where the 'Windows 11' logo appeared amidst upbeat music and applause. Satya Nadella, clad in a navy hoodie and sneakers, confidently walked onto the stage, gesturing towards a large screen announcing 'Windows Copilot.' He announced the launch of the 'Copilot stack,' explaining its availability for developers to build their own Copilots, detailing its layered architecture from 'AI infrastructure' to 'Foundation models' and 'AI orchestration,' as the attentive audience watched, some recording. Nadella, on stage, elaborated on the common extensibility across platforms like ChatGPT, Bing Chat, and Microsoft 365 Copilot, enabling developers to create plugins reaching billions of users, as a slide titled 'Announcing Copilot extensibility and plugins' was displayed. Yusuf Mehdi, CVP, Consumer CMO, then took the stage, announcing the integration of ChatGPT and Bing as the default search experience for higher quality, timely answers, accompanied by audience applause. A demonstration showed Yusuf selecting 'GPT-4' and enabling 'Browsing with Bing Beta' in ChatGPT to query about .NET team highlights at Build, receiving a detailed response with citations. The interface then switched to 'Plugins' mode, with Mehdi announcing interoperability between ChatGPT and Bing plugins, stating, \"So you write them once and they're going to run everywhere.\" The video concluded with a close-up of the ChatGPT interface showing 'Instacart' and 'Zillow' enabled plugins, and a new Bing chat window with conversation style options. The Microsoft Bing interface was then shown querying Chicago neighborhoods for restaurants, with Bing Chat demonstrating plugin functionality by searching for houses in Hyde Park under $1 million via Zillow, displaying property details and city guides. Mehdi, on stage, explained plugins working across the web via Edge, and a demonstration showed Bing Chat extracting ingredients from a Fourth Coffee recipe webpage to generate a shopping list, highlighting Bing's ability to \"read the context of the webpage\" and \"understand those ingredients,\" with the shopping list being refined based on user input.",
+      "involved_entities": {
+        "Conference Hall Audience": {
+          "description": "A large audience seated in rows, watching the speaker on stage at a Microsoft Build event, illuminated by blue and purple lights, with many attendees raising their hands or recording the moment.",
+          "attribute": "visual"
+        },
+        "Spotify Interface": {
+          "description": "A music streaming application with a dark theme, displaying playlists like 'Chill Vibes' and song lists, including tracks by artists such as Oshwa, with playback controls and queue management features.",
+          "attribute": "visual"
+        },
+        "Windows 11 Desktop Interface": {
+          "description": "A modern desktop environment with a vibrant blue, flowing ribbon wallpaper, a taskbar featuring a 'Search' bar and app icons, including the Windows Copilot icon, and a system tray with date, time, and connectivity indicators.",
+          "attribute": "visual"
+        },
+        "Stage Presenter": {
+          "description": "A man in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, identified as Yusuf Mehdi, walking and speaking confidently across the stage with expressive hand gestures.",
+          "attribute": "visual"
+        },
+        "Windows 11 Logo": {
+          "description": "A blue square with four smaller squares inside, accompanied by the text 'Windows 11' in bold, modern font, displayed prominently on a white background during the stage presentation.",
+          "attribute": "visual"
+        },
+        "Adobe Express Interface": {
+          "description": "A design application with a clean, user-friendly interface, featuring options to edit text, resize, apply themes, and download or share designs, used to create a logo with a coffee cup and text 'THE FOURTH COFFEE' on a yellow background.",
+          "attribute": "visual"
+        },
+        "Microsoft Teams Interface": {
+          "description": "A chat application interface showing a conversation in the 'Design Squad' channel, with messages like 'Wow!' and 'This is awesome!' accompanied by emojis, and a shared image of the 'THE FOURTH COFFEE' logo.",
+          "attribute": "visual"
+        },
+        "Windows Copilot Announcement Slide": {
+          "description": "A presentation slide with the title 'Announcing Windows Copilot' in bold white text under a pink 'Announcing' tag, displayed on a large stage screen.",
+          "attribute": "visual"
+        },
+        "Copilot stack": {
+          "description": "A layered diagram displayed on stage, showing components like 'Apps,' 'Plugin extensibility,' 'Copilots,' 'AI orchestration,' 'Foundation models,' and 'AI infrastructure,' with bidirectional arrows indicating interaction between layers.",
+          "attribute": "visual"
+        },
+        "Windows Copilot": {
+          "description": "A sidebar interface with a clean, minimalist design, featuring a blue and white color scheme, offering AI-powered assistance with options like 'Ask me anything,' 'Explain,' 'Rewrite,' and 'Summarize,' and integrating with various applications such as Spotify and Adobe Express.",
+          "attribute": "visual"
+        },
+        "Satya Nadella": {
+          "description": "Bald man with glasses, wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, actively presenting on stage with expressive gestures and confident movement, speaking with a clear, professional tone about AI orchestration, Copilot extensibility across platforms like ChatGPT and Bing Chat, and introducing Yusuf Mehdi.",
+          "attribute": "audio-visual"
+        },
+        "Yusuf Mehdi": {
+          "description": "A man with dark hair, wearing a black zip-up hoodie and dark pants, identified on-screen as CVP, Consumer CMO at Microsoft, speaking with animated hand gestures on stage. His voice is clear and articulate, explaining Bing Chat's plugin integration, its ability to search for houses and neighborhoods by calling Zillow, and how plugins extend across the entire web via the Edge browser, demonstrating Bing's capability to extract ingredients from a recipe webpage and generate a contextual shopping list.",
+          "attribute": "audio-visual"
+        },
+        "Microsoft Build Title Screen": {
+          "description": "Vibrant, abstract background with 'Microsoft Build' text in bold, modern font, featuring gradient colors of orange, yellow, and purple, serving as the main backdrop for the stage presentation.",
+          "attribute": "visual"
+        },
+        "Bringing Bing to ChatGPT Slide": {
+          "description": "A presentation slide with the title 'Bringing Bing to ChatGPT' and a screenshot of the ChatGPT interface showing options like 'Browsing with Bing' and 'Code Execution Beta,' displayed on a large stage screen.",
+          "attribute": "visual"
+        },
+        "ChatGPT": {
+          "description": "A screen capture displaying the ChatGPT interface, which Yusuf Mehdi interacts with, demonstrating its integration with Bing for real-time, cited search results and its new 'Plugins' mode, where options like 'Instacart' and 'Zillow' are shown as enabled, allowing for enhanced functionality.",
+          "attribute": "audio-visual"
+        },
+        "Microsoft Bing Interface": {
+          "description": "A clean, minimalist design with a blue and white color scheme, featuring a search bar and 'CHAT' tab. It actively displays search results for Chicago neighborhoods, real estate listings from Zillow with property details and images, a Peach Melba Cake recipe, and dynamically generates and refines shopping lists based on user queries and contextual understanding, as described by Yusuf Mehdi.",
+          "attribute": "audio-visual"
+        },
+        "AI-Generated Text Overlay": {
+          "description": "Dynamic, animated text appearing in white and purple fonts with emojis, displayed over various scenes to emphasize key messages about AI and creativity, though not prominently visible in this segment.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a dynamic demonstration of AI-powered collaboration, showing a user interacting with a chat interface to create a logo for 'THE FOURTH COFFEE' using Adobe Express, then sharing it in a Microsoft Teams chat named 'Design Squad' where team members react positively with emojis and messages. The scene transitions to a vibrant, abstract background with the text 'Across all of Microsoft,' followed by a split-screen showcasing Spotify and Windows Copilot, highlighting integration across applications. The next sequence displays a dashboard for 'Forza Horizon 5' with a game screenshot and a document, emphasizing productivity and gaming synergy. The video then shifts to a live stage presentation at a Microsoft event, where the 'Windows 11' logo appears, accompanied by upbeat electronic background music that fades into enthusiastic applause. A voice exclaims, \"Oh, it's so cool!\" as Satya Nadella, the stage presenter, walks confidently across the stage in a dark navy hoodie, black pants, and sneakers, in front of a large screen announcing 'Windows Copilot.' He gestures expressively as he begins to speak, mentioning they will \"talk a lot more about Windows... tomorrow when Panos is up here,\" before excitedly announcing the launch of \"the Copilot stack.\" He explains that \"after all we've built all these Copilots with one common architectural stack, we want to make that available so that everyone here can build their own Copilot for their applications.\" As he speaks, a layered diagram of the 'Copilot stack' is displayed, showing components like 'Apps,' 'Plugin extensibility,' 'Copilots,' 'AI orchestration,' 'Foundation models,' and 'AI infrastructure,' with arrows indicating bidirectional interaction, and he begins to detail these, starting with \"everything from the AI infrastructure to the foundation models, to the...\" The audience, seated in rows under blue and purple stage lighting, watches attentively, some raising their hands or recording the moment.",
+        "The segment opens with Satya Nadella, Microsoft's Chairman and CEO, on stage at Microsoft Build, actively gesturing in a dark navy hoodie, gray shirt, black pants, and black sneakers. Behind him, a large screen displays a 'Copilot stack' diagram, illustrating components from 'AI orchestration' to 'your Copilots' and their 'extensibility.' Nadella, speaking with a clear, professional tone, emphasizes the common extensibility across platforms like ChatGPT, Bing Chat, and Microsoft 365 Copilot, enabling developers to write plugins that can reach billions of users. The screen transitions to a slide titled 'Announcing Copilot extensibility and plugins,' listing various Copilot platforms. The stage, illuminated with blue accents and featuring the 'Microsoft Build' logo, then sees Yusuf Mehdi, CVP, Consumer CMO, walk on. Dressed in a black zip-up hoodie, Mehdi, with animated hand gestures, takes over the presentation, acknowledging Satya with a clear, energetic voice. The background screen shifts to a vibrant orange, yellow, and purple abstract gradient as Mehdi addresses the audience, discussing the fast progress on delivering the vision of Copilot for the web and business, amidst audience applause.",
+        "Yusuf Mehdi, CVP, Consumer CMO at Microsoft, stands on a stage with a vibrant, abstract gradient background of orange, pink, and purple hues, dressed in a black zip-up hoodie and dark pants with a white smartwatch. He gestures expressively, holding a small black device, as he excitedly announces, in a clear voice, that they are bringing \"chat GPT and Bing together as with the default search experience. To give you higher quality answers and more timely answers.\" The scene transitions to a wide shot, revealing a large audience, many recording, while a massive screen behind him displays the OpenAI logo and the Microsoft Bing logo connected by a heart symbol, indicating their partnership. The screen then shifts to a live demonstration of the ChatGPT interface, where Yusuf selects 'GPT-4' and enables 'Browsing with Bing Beta.' He types the query, 'What can I expect from the .NET team at Build this week?' As the AI browses the web, Yusuf explains that \"the results now are more up to date. They include fresh content, and they include citations,\" noting that links can be clicked to go straight to Bing-sourced webpages. The interface generates a detailed response listing six highlights from Microsoft Build 2023, including .NET Multi-platform App UI, cloud-native development, performance, C# 12, and .NET 8. The screen then switches to the 'Plugins' mode, initially showing 'No plugins enabled.' Yusuf returns to the stage, continuing his presentation with animated gestures, stating, \"We're also excited to announce that we're going to bring interoperability between ChatGPT and Bing for plugins,\" which is met with audience applause. He adds, \"So you write them once and they're going to run everywhere.\" The video concludes with a close-up of the ChatGPT interface, now showing the 'Plugins' dropdown with 'Instacart' and 'Zillow' enabled, and a new chat window titled 'Welcome to the new Bing,' featuring a search bar and conversation style options like 'More Creative,' 'More Balanced,' and 'More Precise,' as Yusuf mentions having \"Zillow and Instacart enabled.\"",
+        "The segment opens with a close-up of the clean, minimalist Microsoft Bing interface, where a user queries Chicago neighborhoods with good restaurants. Yusuf Mehdi, CVP, Consumer CMO at Microsoft, is heard explaining that Bing Chat now has the same plugins as ChatGPT, demonstrating how he can search for houses in Chicago, ask for criteria, and learn about neighborhoods. Visually, Bing responds with a list including Lincoln Park and Hyde Park, then retrieves real estate listings from Zillow for Hyde Park under $1 million, displaying property details and images, aligning with Yusuf's audio description of automatically calling Zillow for houses in a specific price range and getting \"great options\" along with \"helpful city guides and maps.\" The scene transitions to Yusuf Mehdi on stage, gesturing animatedly against a vibrant, abstract background, as he continues to elaborate on how plugins will work \"across the entire web\" via the Edge browser. The screen then displays a Peach Melba Cake recipe from Fourth Coffee, and Yusuf's voice explains being on a webpage, checking out a recipe, and asking Bing Chat to \"give me the ingredients from this webpage.\" Bing is shown generating a shopping list, excluding items the user already has, as Yusuf highlights Bing's ability to \"read the context of the webpage\" and \"understand those ingredients.\" The segment briefly returns to Yusuf presenting to an engaged audience in a large conference hall, with the recipe on a large screen beside him, before concluding with the Bing interface refining the shopping list based on user input."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 15,
+      "end_minute": 16,
+      "summary": "The video begins with a Microsoft Bing interface demonstrating an Instacart plugin that automatically adds recipe ingredients to a shopping cart for one-click delivery, highlighting productivity benefits. Transitioning to a Microsoft Build conference hall, Yusuf Mehdi, on stage with a 'Microsoft 365 Copilot' backdrop, addresses the audience, promising enhanced work productivity. He then showcases Microsoft 365 Copilot within a Word document titled 'Relecloud Sales Agreement,' explaining its ability to draft and edit legal clauses by calling plugins from Thompson Reuters, specifically demonstrating how it can understand and modify a limitation of liability clause using the Practical Law plugin, check enforceability under California law, and provide related legal resources. The demonstration continues with Copilot in Word, utilizing plugins like Westlaw for legal analysis and summarizing changes in a table. Yusuf Mehdi, identified as CVP, Consumer CMO at Microsoft, is shown on stage with a split-screen view of the Word document and Copilot sidebar. The scene shifts to a Microsoft Teams interface where Copilot, using the Atlassian plugin, responds to a query about 'Contoso's website change management procedures' by listing steps and then facilitates the creation of a Jira ticket for tracking these changes, automatically populating ticket details and allowing assignee selection via Azure Active Directory, with the ticket creation confirmed in the Teams chat. The presentation concludes with Yusuf Mehdi on stage, emphasizing how plugins and Microsoft 365 Copilot enable intelligent reading.",
+      "involved_entities": {
+        "Microsoft 365 Copilot": {
+          "description": "A feature within Microsoft 365 applications, shown as a sidebar in Word with options to draft, modify, and summarize content, providing AI-powered assistance for document creation and editing, which the speaker uses to draft a legal contract, specifically mentioning its use with California law and plugins from Thompson Reuters and Practical Law.",
+          "attribute": "audio-visual"
+        },
+        "Conference Hall Audience": {
+          "description": "A large audience seated in rows, watching the speaker on stage at a Microsoft Build event, illuminated by blue and purple lights, with many attendees raising their hands or recording the moment, who are heard applauding and cheering for the speaker.",
+          "attribute": "audio-visual"
+        },
+        "Word Document Interface": {
+          "description": "A Microsoft Word document titled 'Relecloud Sales Agreement' displayed in a browser, showing legal text with blank fields for signatures and exhibits. The speaker highlights its integration with Microsoft 365 Copilot and powerful plugins like Thomson Reuters for drafting legal contracts.",
+          "attribute": "audio-visual"
+        },
+        "Yusuf Mehdi": {
+          "description": "Man with dark hair, wearing a black zip-up hoodie and dark pants, identified on-screen as CVP, Consumer CMO at Microsoft, speaking with animated hand gestures on stage. He is the primary speaker, explaining the functionalities of Copilot, plugins, and their integration across Microsoft Word, Teams, and Jira.",
+          "attribute": "audio-visual"
+        },
+        "Copilot Sidebar": {
+          "description": "A vertical AI assistant panel in Microsoft Word, displaying suggestions like 'Draft an agreement', 'Replace the limitation of liability clause', and 'Summarize changes', with options to 'Keep it', 'Modify a clause', or 'Insert a clause', and providing legal references from Practical Law and Westlaw. The speaker notes its ability to call the Westlaw plugin for legal analysis and use document intelligence to provide a summary table of changes.",
+          "attribute": "audio-visual"
+        },
+        "Stage Presenter": {
+          "description": "A man in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, identified as Yusuf Mehdi, walking and speaking confidently across the stage with expressive hand gestures.",
+          "attribute": "visual"
+        },
+        "Microsoft Bing Interface": {
+          "description": "Clean, minimalist design with a blue and white color scheme, featuring a search bar, 'CHAT' tab, and options for 'More Creative,' 'More Balanced,' and 'More Precise' conversation styles, actively displaying search results and user interactions, which the speaker describes as automatically calling the Instacart plugin to add ingredients to a shopping list.",
+          "attribute": "audio-visual"
+        },
+        "Instacart Interface": {
+          "description": "A web browser displaying the Instacart homepage with a search bar, various shopping categories, and a shopping cart overlay showing added items for a Peach Melba Cake, including a 'Continue Shopping' button, populated by the Bing AI as described by the speaker.",
+          "attribute": "audio-visual"
+        },
+        "Microsoft Build Title Screen": {
+          "description": "Vibrant, abstract background with 'Microsoft Build' text in bold, modern font, featuring gradient colors of orange, yellow, and purple, serving as the main backdrop for the stage presentation.",
+          "attribute": "visual"
+        },
+        "Jira Cloud": {
+          "description": "A pop-up interface for creating a new issue in Jira Cloud, showing fields for summary, description, assignee, priority, department, start date, due date, and attachments, with a 'Create' button. The speaker explains that Atlassian Jira specializes in project and issue tracking, and the system automatically pulls the Jira ticket, allowing an owner to be assigned using Azure Active Directory.",
+          "attribute": "audio-visual"
+        },
+        "Microsoft Teams Interface": {
+          "description": "A chat application interface showing a conversation in the 'Design Squad' channel, with messages like 'Wow!' and 'This is awesome!' accompanied by emojis, and a shared image of the 'THE FOURTH COFFEE' logo. The speaker uses it to demonstrate engaging with Microsoft 365 Copilot to track website changes, where Copilot calls the Atlassian plugin.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of a Microsoft Bing interface, where a user is interacting with a recipe for a Peach Melba Cake. A male speaker's confident voice explains how the AI will \"automatically call the Instacart plugin, take those ingredients right off the page and put them into an Instacart shopping,\" allowing the user to get items delivered with \"one click,\" highlighting this as an \"incredible productivity benefit.\" The scene transitions to a full-screen view of the Instacart website, showing the shopping cart with the added items and a 'Continue Shopping' button, visually confirming the speaker's description. The video then cuts to a wide shot of a large conference hall during a Microsoft Build event, with a speaker, identified as Yusuf Mehdi, on stage in front of a vibrant 'Microsoft 365 Copilot' background. The audience erupts in applause and cheers as the speaker says, \"Yeah,\" before continuing, \"Let's show you how you'll be more productive at work.\" The camera zooms in on Yusuf Mehdi, dressed in a black zip-up hoodie, gesturing as he announces, \"I'm going to use Microsoft 365 Copilot.\" The scene shifts to a screen recording of a Word document titled 'Relecloud Sales Agreement', where Copilot is being used to draft and modify legal clauses. Yusuf Mehdi explains he's in Microsoft Word, needing \"some help for drafting a legal contract\" with \"California law,\" and will \"call three plugins from Thompson Reuters.\" He then demonstrates Copilot's ability to \"understand how to edit the limitation of liability using the Practical Law plugin,\" which will \"read the document, find the paragraph and make that change.\" The Copilot sidebar suggests replacing a liability clause, which the user accepts, and then provides related legal resources, with Yusuf Mehdi concluding by asking if the user wants to know if the clause is \"enforceable under California law,\" showcasing the AI's real-time legal assistance.",
+        "The segment opens with a close-up of a Microsoft Word document, 'Relecloud Sales Agreement,' displayed in a browser, showing legal text. A Copilot sidebar offers AI-driven suggestions for clause replacement and legal research, referencing Practical Law and Westlaw. The speaker, Yusuf Mehdi, explains that Copilot can call the Westlaw plugin for legal analysis and provide a summary of all changes through document intelligence, presenting them in a simple, easy-to-read table. He emphasizes how Microsoft 365 Copilot in Word, supported by powerful plugins like Thomson Reuters, enables drafting legal contracts in a more powerful way. The scene transitions to a split-screen, with Yusuf Mehdi, identified as CVP, Consumer CMO at Microsoft, speaking animatedly on stage against a vibrant background, while the right side continues to show the Word document with the Copilot sidebar. The video then shifts to a Microsoft Teams chat interface, where Copilot actively responds to a query about 'Contoso's website change management procedures,' listing five steps and providing references. Yusuf Mehdi explains he is engaging with Microsoft 365 Copilot in Teams chat to track website changes, noting that Copilot calls the Atlassian plugin for help. As the user types a command to 'Create a Jira ticket to track changes outlined above, due by maintenance date,' a Jira Cloud pop-up appears, which Yusuf Mehdi clarifies specializes in project and issue tracking, automatically pulling the Jira ticket and allowing an owner to be assigned using Azure Active Directory. The user selects an assignee, sets a due date, and clicks 'Create,' successfully creating the Jira ticket, which is confirmed in the Teams chat. The final scene returns to Yusuf Mehdi on stage, continuing his presentation with open hand gestures, highlighting how plugins and Microsoft 365 Copilot enable intelligent reading."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 17,
+      "end_minute": 17,
+      "summary": "Yusuf Mehdi, CVP, Consumer CMO at Microsoft, stood on stage in a black zip-up hoodie against a vibrant, abstract gradient background, explaining the integration of Microsoft's tools across business apps and the Microsoft Graph for user flow. He enthusiastically announced the Windows Copilot, stating it would change PC usage forever and proceeded to demonstrate its capabilities. The scene shifted to a split-screen showing Yusuf and the 'Windows Copilot' logo, a blue hexagonal icon, against a dynamic gradient. Yusuf, describing a coding project, expressed his intent to configure his PC for creativity and productivity. The view then transitioned to a Windows 11 desktop interface with Visual Studio Code open, where Yusuf narrated invoking Windows Copilot by clicking its taskbar icon. The Windows Copilot sidebar, a minimalist blue and white interface, appeared on the right, consistent across apps. Yusuf posed a query, \"How can I adjust my system to get work done?\", to which Copilot responded with suggestions including enabling a Focus Session and switching to Dark Theme. Yusuf demonstrated taking action on these suggestions with a single click, which activated the Focus Timer widget, a circular blue and white countdown, and instantly changed the desktop theme to dark mode, including Visual Studio Code and the taskbar. He noted developers' preference for dark mode, remarking on the ease of switching. The Copilot sidebar confirmed the actions, \"Started a Focus Session\" and \"Switched to Dark Theme,\" as the video concluded with the desktop in dark mode, the Focus Timer active, and Copilot ready for further interaction.",
+      "involved_entities": {
+        "Focus Timer Widget": {
+          "description": "A circular timer widget with a blue and white design, displaying a countdown (e.g., '30 min') and integrating with the Clock app to help minimize distractions during work sessions, which Yusuf Mehdi activates with one click as a suggested action from Copilot to enter 'focus mode'.",
+          "attribute": "audio-visual"
+        },
+        "Yusuf Mehdi": {
+          "description": "Man with dark hair, wearing a black zip-up hoodie over a gray shirt, dark pants, and black sneakers with white soles, identified on-screen as CVP, Consumer CMO at Microsoft, speaking confidently with expressive hand gestures on stage, announcing the Windows Copilot and demonstrating its features with clear, enthusiastic narration.",
+          "attribute": "audio-visual"
+        },
+        "Windows 11 Desktop Interface": {
+          "description": "A modern desktop environment with a vibrant blue, flowing ribbon wallpaper, a taskbar featuring a 'Search' bar and app icons, including the Windows Copilot icon, and a system tray with date, time, and connectivity indicators, which Yusuf Mehdi uses to demonstrate configuring his PC for creativity and productivity, and later transitions to a dark theme.",
+          "attribute": "audio-visual"
+        },
+        "Dark Theme Interface": {
+          "description": "A system-wide dark color scheme applied to the desktop, taskbar, and open applications, reducing eye strain and improving focus, with dark backgrounds and light text, which Yusuf Mehdi activates with one click, noting that 'developers like dark mode' and declaring, 'I'm now here on the dark side'.",
+          "attribute": "audio-visual"
+        },
+        "Windows Copilot": {
+          "description": "A sidebar interface with a clean, minimalist design, featuring a blue and white color scheme, offering AI-powered assistance with options like 'Ask me anything', 'Explain', 'Rewrite', and 'Summarize', which Yusuf Mehdi introduces as a feature that will 'change how you use your PC forever' and demonstrates its ability to answer questions like 'How can I adjust my system to get work done?' and take direct action on suggestions.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with Yusuf Mehdi, CVP, Consumer CMO at Microsoft, standing on stage against a vibrant, abstract gradient background, dressed in a black zip-up hoodie. He speaks confidently, using expressive hand gestures, explaining how Microsoft's tools integrate across business apps and the Microsoft Graph to maintain user flow. He then enthusiastically announces, \"Finally, as Satya shared, we're excited to announce the Windows Copilot. I think it's going to change how you use your PC forever. Let me show it to you.\" The scene transitions to a split-screen, showing Yusuf on the left and the 'Windows Copilot' logo—a blue hexagonal icon with white text—on the right, against a dynamic pink, orange, and purple gradient. Yusuf continues, stating he's in a coding project and wants to configure his PC for creativity and productivity. The video then cuts to a screen recording of a Windows 11 desktop interface, featuring a blue, flowing ribbon wallpaper and Visual Studio Code open with JavaScript code. Yusuf narrates, \"All I have to do now is invoke the Windows Copilot,\" as the user clicks the Copilot icon on the taskbar. The Windows Copilot sidebar, a clean, minimalist blue and white interface, appears on the right, offering AI-powered assistance. Yusuf explains this side pane will be consistent across every app and, \"just like with Bing chat, I can now ask it questions like, 'How can I adjust my system to get work done?'\" The user types this query, and Copilot responds with tips, including enabling a Focus Session and switching to Dark Theme. Yusuf highlights the ability to \"with one click, take action on those suggestions,\" demonstrating by selecting 'Yes' for both options. This triggers the Focus Timer widget, a circular blue and white countdown, to appear, and the desktop theme instantly transitions to a dark mode, including Visual Studio Code and the taskbar. Yusuf remarks, \"I also know that as developers, we like dark mode... So with one click, I'm now here on the dark side.\" The Copilot sidebar confirms the actions, \"Started a Focus Session\" and \"Switched to Dark Theme,\" as the video concludes with the desktop in its new dark mode, the Focus Timer active, and Copilot ready for further interaction."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 18,
+      "end_minute": 18,
+      "summary": "The scene opens on a Windows 11 desktop with a dark theme, displaying Visual Studio Code, a terminal, and the Windows Copilot sidebar, where a male voice expresses a need for a coding playlist, stating, \"I'll pull the plugin from Spotify and say, give me a great coding playlist.\" Copilot then suggests 'Chill Vibes,' and Spotify launches to play the requested playlist. The voice further emphasizes Copilot's utility by highlighting its Windows Snap feature for productivity, explaining, \"it snaps all the windows right in the place I need them, so I can be super productive.\" The focus shifts to the Microsoft Build stage, where Yusuf Mehdi, in a black zip-up hoodie, addresses a large, applauding audience under blue and purple lighting, announcing, \"we have an incredible array of powerful AI-powered copilots. We've got over 50 plugins already available for customers and thousands more coming.\" A screen behind him displays the 'Microsoft Build' logo and a slide titled 'New and existing plugin developers,' featuring logos such as Spotify and Oracle. Following another round of applause, a second male voice echoes Mehdi's sentiment, stating, \"we have, as Yusuf said, fantastic momentum already building, and this is about really creating that opportunity for developers to reach all users across all of these services.\"",
+      "involved_entities": {
+        "Conference Hall Audience": {
+          "description": "A large audience seated in rows, watching the speaker on stage at a Microsoft Build event, illuminated by blue and purple lights, with many attendees raising their hands or recording the moment, and heard applauding enthusiastically at two points.",
+          "attribute": "audio-visual"
+        },
+        "Focus Timer Widget": {
+          "description": "A circular timer widget with a blue and white design, displaying a countdown (e.g., '30 min') and integrating with the Clock app to help minimize distractions during work sessions.",
+          "attribute": "visual"
+        },
+        "Spotify Interface": {
+          "description": "A music streaming application with a dark theme, shown playing a 'Chill Vibes' playlist, launched seamlessly via Windows Copilot.",
+          "attribute": "audio-visual"
+        },
+        "Windows 11 Desktop Interface": {
+          "description": "A modern desktop environment with a vibrant blue, flowing ribbon wallpaper, a taskbar featuring a 'Search' bar and app icons, including the Windows Copilot icon, and a system tray with date, time, and connectivity indicators.",
+          "attribute": "visual"
+        },
+        "Stage Presenter": {
+          "description": "Yusuf Mehdi, a man in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, walking and speaking confidently across the stage with expressive hand gestures. He speaks about 'powerful AI-powered copilots' and 'over 50 plugins already available for customers and thousands more coming'.",
+          "attribute": "audio-visual"
+        },
+        "Dark Theme Interface": {
+          "description": "A system-wide dark color scheme applied to the desktop, taskbar, and open applications, reducing eye strain and improving focus, with dark backgrounds and light text.",
+          "attribute": "visual"
+        },
+        "New and existing plugin developers": {
+          "description": "A presentation slide displaying numerous company logos including Spotify, Oracle, Trello, and others, indicating a collaborative ecosystem of plugin developers for Microsoft and OpenAI, referenced by Yusuf Mehdi in his speech about the growing number of available plugins.",
+          "attribute": "audio-visual"
+        },
+        "Microsoft Build Title Screen": {
+          "description": "Vibrant, abstract background with 'Microsoft Build' text in bold, modern font, featuring gradient colors of orange, yellow, and purple, serving as the main backdrop for the stage presentation.",
+          "attribute": "visual"
+        },
+        "Windows Copilot": {
+          "description": "A sidebar interface with a clean, minimalist design, featuring a blue and white color scheme, offering AI-powered assistance, demonstrated by launching Spotify for a 'Chill Vibes' playlist and suggesting Windows Snap for productivity.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of a Windows 11 desktop, featuring a dark theme and a vibrant blue ribbon wallpaper. Visual Studio Code, a terminal, and the Windows Copilot sidebar are open. A male voice explains his desire for a coding playlist, stating, \"I'll pull the plugin from Spotify and say, give me a great coding playlist.\" As he speaks, Copilot suggests 'Chill Vibes,' and Spotify launches to play the playlist. The voice then highlights a Copilot suggestion to use Windows Snap for productivity, saying, \"it snaps all the windows right in the place I need them, so I can be super productive.\" The scene transitions to a live stage at Microsoft Build, where Yusuf Mehdi, dressed in a black zip-up hoodie, walks confidently, gesturing to a large, attentive audience under blue and purple lighting. The audience applauds loudly. Yusuf Mehdi addresses the crowd, stating, \"we have an incredible array of powerful AI-powered copilots. We've got over 50 plugins already available for customers and thousands more coming.\" Behind him, a large screen displays the 'Microsoft Build' logo and a slide titled 'New and existing plugin developers,' showcasing logos like Spotify and Oracle. The audience applauds again. Another male voice then thanks Yusuf, adding, \"we have, as Yusuf said, fantastic momentum already building, and this is about really creating that opportunity for developers to reach all users across all of these services.\""
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 19,
+      "end_minute": 20,
+      "summary": "Satya Nadella, dressed in a dark navy hoodie and black pants, confidently walked across the stage at the Microsoft Build event, gesturing expressively while discussing AI opportunities and the \"next thing for us, which is really exciting, is AI Studio.\" The screen initially displayed 'New and existing plugin developers' with various company logos, then transitioned to 'Azure AI Studio,' which Satya described as a \"full life cycle tool chain\" for building intelligent AI apps and co-pilots, encompassing model building and training, grounding Azure OpenAI and OSS models with user data, built-in vector indexing in Azure Search, retrieval-augmented generation (RAG) support, prompt flow and orchestration, and built-in AI safety. Later, under blue and teal lighting, with 'Microsoft Build' branding visible, Satya emphasized the critical importance of \"AI safety,\" stating Microsoft has been \"hard at work\" for five years to \"build into the tool chain AI safety.\" A screen announced 'Announcing Azure AI Safety,' highlighting 'Testing,' 'Provenance,' and 'Deployment.' Satya explained that embedding AI safety into the \"everyday tool chain\" is addressed by \"AI Studio,\" detailing the 'Responsible AI dashboard' for safe development and 'Grounding in prompt flow' under 'Testing,' and 'media provenance' for images/videos and 'watermarking for your neural voice' under 'Provenance,' aligning with screen points on 'Media provenance in Bing and Designer' and 'Audio watermarking in Custom Neural Voice.' The camera alternated between Satya and the attentive Conference Hall Audience.",
+      "involved_entities": {
+        "New and existing plugin developers": {
+          "description": "A presentation slide displaying numerous company logos including Spotify, Oracle, Trello, and others, indicating a collaborative ecosystem of plugin developers for Microsoft and OpenAI.",
+          "attribute": "visual"
+        },
+        "Azure AI Studio": {
+          "description": "A presentation slide titled 'Announcing Azure AI Safety' displayed on a large stage screen, featuring three key sections: 'Testing' (including 'Responsible AI dashboard' and 'Grounding in prompt flow'), 'Provenance' (highlighting 'Media provenance in Bing and Designer' and 'Audio watermarking in Custom Neural Voice'), and 'Deployment' (showing 'Azure AI Content Safety' and 'Model monitoring'), which Satya Nadella directly references and elaborates upon during his speech.",
+          "attribute": "audio-visual"
+        },
+        "Satya Nadella": {
+          "description": "Bald man with glasses, wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, actively presenting on stage with expressive gestures and confident movement, speaking clearly and articulately about AI safety, emphasizing its integration into the toolchain, testing, and provenance.",
+          "attribute": "audio-visual"
+        },
+        "Microsoft Build Title Screen": {
+          "description": "Vibrant, abstract background with 'Microsoft Build' text in bold, modern font, featuring gradient colors of orange, yellow, and purple, serving as the main backdrop for the stage presentation.",
+          "attribute": "visual"
+        },
+        "Conference Hall Audience": {
+          "description": "A large audience seated in rows, watching the speaker on stage at a Microsoft Build event, illuminated by blue and purple lights, with many attendees raising their hands or recording the moment.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with Satya Nadella, a bald man with glasses, dressed in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, walking confidently across the stage at the Microsoft Build event. He gestures expressively as he speaks, his voice clear and enthusiastic, expressing excitement for the audience to exploit opportunities in the coming months. Behind him, a large screen initially displays a slide titled 'New and existing plugin developers,' showcasing a grid of company logos including Spotify, Oracle, and Trello, indicating a collaborative ecosystem. As Satya continues, stating that the \"next thing for us, which is really exciting, is AI Studio,\" the scene transitions to a new slide announcing 'Azure AI Studio.' He elaborates that this is \"the full life cycle tool chain\" for building intelligent AI apps and co-pilots, detailing its features: building and training models, grounding Azure OpenAI and OSS models with user data, built-in vector indexing in Azure Search, retrieval-augmented generation (RAG) support, creating prompt workflows with prompt flow and orchestration, and built-in AI safety. The stage is illuminated with blue and teal lighting, and the 'Microsoft Build' branding is visible on the floor, reinforcing the event's identity, while the camera alternates between wide shots of the stage and closer views of Satya Nadella as he dynamically presents.",
+        "Satya Nadella, a bald man with glasses, dressed in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, confidently strides across a large stage bathed in blue and teal lighting, using expressive hand gestures as he articulately speaks about the critical importance of \"AI safety.\" He emphasizes that Microsoft has been \"hard at work\" for the last five years to \"build into the tool chain AI safety,\" integrating principles and processes into their engineering stack. Behind him, a massive screen displays the presentation title 'Announcing Azure AI Safety,' framed by vertical light bars, highlighting three key areas: 'Testing,' 'Provenance,' and 'Deployment.' Satya explains that the real challenge is to embed AI safety into the \"everyday tool chain,\" which they are addressing with \"AI Studio.\" He elaborates on 'Testing,' mentioning the 'Responsible AI dashboard' to ensure development is safe, and the 'Grounding in prompt flow' as a key feature for grounding models. He then moves to 'Provenance,' detailing support for \"media provenance\" in images and videos, and \"watermarking for your neural voice,\" directly aligning with the screen's points on 'Media provenance in Bing and Designer' and 'Audio watermarking in Custom Neural Voice.' The camera alternates between close-ups of Satya and wide shots of the attentive audience, seated in rows at what appears to be a Microsoft Build event, with some recording or raising hands, absorbing his tech-focused presentation."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 21,
+      "end_minute": 22,
+      "summary": "On a blue and teal-lit stage, Satya Nadella, wearing a dark navy hoodie and glasses, addressed an audience, gesturing expressively while a large screen behind him announced 'Azure AI Safety,' highlighting features like the Responsible AI dashboard, media provenance in Bing and Designer, and Azure AI Content Safety under Testing, Provenance, and Deployment pillars. Nadella emphasized the critical importance of making AI applications safe at deployment time, stressing continuous monitoring for model drift, and expressed enthusiasm for Azure AI Studio's role in enabling developers to build AI with safety as a priority. The scene then transitioned to a screen capture of the Azure AI Studio interface, introduced by a narrator as a full lifecycle tool for building, customizing, training, evaluating, and responsibly deploying next-generation models, showcasing its clean, modern design with options like 'Create notebook' and 'Add compute,' concluding with a demonstration of the 'Chat playground.' The video further detailed the 'Chat playground' where a user grounded AI models with data from 'Azure Cognitive Search' to create customized conversational experiences, and explored 'Data Management' settings. The assistant successfully responded to a query about hiking jackets. Navigating to the 'Model catalog' in Azure AI Machine Learning Studio, the narrator highlighted the availability of popular models from Azure OpenAI Service, Hugging Face, and other open-source sources. The 'Prompt Flow' interface was then shown, demonstrating how developers can combine organizational data and edit prompts for improved results using foundation, internally developed, or open-source models with tools like Langchain and Semantic Kernel. Finally, the 'Azure AI Content Safety Studio' was presented, allowing users to test and evaluate AI deployments for safety by adjusting severity thresholds for categories like Violence, as exemplified by a rejected sample text related to cutting a path in a forest. The video concluded with a blue screen displaying 'Azure AI Studio' and the tagline 'to build the next generation of AI applications,' reiterated by the narrator.",
+      "involved_entities": {
+        "Azure AI Studio": {
+          "description": "A screen capture of the Azure AI Studio interface, displaying a dashboard with recent jobs, compute instances, and options like 'Create notebook' and 'Add compute,' featuring a clean, modern design with a white background and blue accents, highlighting tools for machine learning and AI development. The narrator explicitly identifies it as 'Azure AI Studio' and describes it as 'the trusted tools you need to build the next generation of AI applications.'",
+          "attribute": "audio-visual"
+        },
+        "Satya Nadella": {
+          "description": "Bald man with glasses, wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, actively presenting on stage with expressive gestures and confident movement, speaking clearly and articulately about making AI applications safe at deployment time, monitoring for model drift, and the excitement for AI Studio.",
+          "attribute": "audio-visual"
+        },
+        "Model catalog": {
+          "description": "A screen capture of the Model catalog in Azure AI Machine Learning Studio, showcasing various models like 'gpt-4-32k', 'gpt-35-turbo', and 'text-embedding-ada-002', with categories including 'Open Source Models', 'Hugging Face Hub', and 'Azure OpenAI Service'. The audio describes it as a 'new model catalog that works with the popular models organizations use, including those from Azure Open AI Service, Hugging Face, and many other open source models.'",
+          "attribute": "audio-visual"
+        },
+        "Prompt Flow": {
+          "description": "A screen capture of the Prompt Flow interface in Azure AI Machine Learning Studio, displaying a flow diagram with nodes such as 'question_embedding', 'retrieve_documentation', and 'llm_response', and the user editing a prompt for a customer query. The audio explains that 'with Prompt Flow, developers can combine relevant data from your organization and create a detailed prompt to get better results,' and that it 'works with foundation, internally developed or open source models, and uses popular open source tools, Langchain and Semantic Kernel.'",
+          "attribute": "audio-visual"
+        },
+        "Azure AI Content Safety Studio": {
+          "description": "A screen capture of the Azure AI Content Safety Studio, where the user tests a sample text for content safety, adjusting severity thresholds for categories like Violence, Self-harm, Sexual, and Hate, and receiving results indicating whether the content is accepted or rejected. The audio states that 'with Azure AI Content Safety, we are making it easier for you to test and evaluate your AI deployments for safety.'",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "Satya Nadella, bald and wearing glasses, a dark navy hoodie over a gray shirt, black pants, and black sneakers, stands on a blue and teal-lit stage before an audience, gesturing expressively as he speaks. A large screen behind him displays 'Announcing Azure AI Safety,' detailing features like the Responsible AI dashboard, media provenance in Bing and Designer, and Azure AI Content Safety under the three pillars of Testing, Provenance, and Deployment. Nadella articulately explains the critical importance of making AI applications safe at deployment time, emphasizing continuous monitoring for model drift, and expresses excitement for Azure AI Studio in helping developers build AI with safety first. As he concludes by saying, \"Let's roll the video,\" the scene transitions to a screen capture of the Azure AI Studio interface. A narrator introduces it as a full lifecycle tool to build, customize, train, evaluate, and responsibly deploy the latest next-generation models. The clean, modern interface, with its white background and blue accents, showcases a dashboard with recent jobs, compute instances, and options like 'Create notebook' and 'Add compute,' concluding with a close-up of the 'Chat playground' section, demonstrating practical AI interaction.",
+        "The video begins with a screen capture of the Azure AI Studio's 'Chat playground', where a user is adding a data source, selecting 'Azure Cognitive Search' from options like 'Azure Blob Storage' and 'Upload files'. The narrator explains that \"with just a few clicks, developers can ground AI models with their structured and unstructured data to quickly and easily build customized, cutting-edge conversational experiences for their customers.\" The interface then transitions to 'Data Management', showing settings like 'Limit responses to your data content' and acknowledging usage costs for semantic search. The user tests the assistant by querying \"Can you give me some information about your hiking jackets?\", and the assistant responds with details about two jackets. The scene shifts to the 'Model catalog' in Azure AI Machine Learning Studio, showcasing models like 'gpt-4-32k' and 'gpt-35-turbo', with the narrator stating that \"developers can take advantage of a new model catalog that works with the popular models organizations use, including those from Azure Open AI Service, Hugging Face, and many other open source models,\" as the user navigates categories like 'Open Source Models' and 'Azure OpenAI Service'. Next, a 'Prompt Flow' interface appears, displaying a flow diagram with nodes such as 'question_embedding' and 'llm_response', where the user edits a prompt for a customer query, and the narrator details that \"with Prompt Flow, developers can combine relevant data from your organization and create a detailed prompt to get better results,\" adding that \"Prompt Flow works with foundation, internally developed or open source models, and uses popular open source tools, Langchain and Semantic Kernel.\" The flow's output, a response about hiking jackets, is then shown. The video then moves to the 'Azure AI Content Safety Studio', where the narrator explains, \"with Azure AI Content Safety, we are making it easier for you to test and evaluate your AI deployments for safety,\" as the user tests a sample text: \"Now that I have my Summit Breeze jacket. I'm looking for an axe to cut a path in the forest. Can you recommend one?\", adjusting severity thresholds for categories like Violence and Self-harm, with the content being rejected due to Violence. The video concludes with a blue screen displaying \"Azure AI Studio\" and \"to build the next generation of AI applications,\" reinforced by the narrator's final statement: \"This is Azure AI Studio. The trusted tools you need to build the next generation of AI applications.\""
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 23,
+      "end_minute": 23,
+      "summary": "The 'Microsoft Build' title screen, a vibrant gradient of orange, yellow, and purple, transitions to a dimly lit conference hall where a Stage Presenter, identified as Satya Nadella, a bald man with glasses wearing a dark navy hoodie, walks across a stage illuminated by dynamic blue and teal lighting. Nadella gestures expressively while stating, \"AI applications,\" prompting an eruption of enthusiastic applause and cheering from the Conference Hall Audience, many of whom raise their hands or record the moment. As the applause subsides, Nadella continues, \"And of course, all AI application start with data.\" The screens behind him shift from displaying 'Azure AI Safety' to 'Microsoft Fabric,' which Nadella excitedly announces as \"Data analytics for the era of AI,\" noting it's a product developed over \"multiple years\" and potentially \"the biggest launch of a data product from Microsoft since the launch of SQL Server.\" He outlines its four pillars: unifying \"compute and storage,\" integrating \"all of the full analytic stack product experiences,\" enabling \"governance with analytics,\" and establishing \"the business model across all the different type of analytics work.\" The 'Microsoft Build' logo is visible on the stage floor, underscoring the event's focus on innovation.",
+      "involved_entities": {
+        "Microsoft Build Title Screen": {
+          "description": "Vibrant, abstract background with 'Microsoft Build' text in bold, modern font, featuring gradient colors of orange, yellow, and purple, serving as the main backdrop for the stage presentation.",
+          "attribute": "visual"
+        },
+        "Conference Hall Audience": {
+          "description": "A large audience seated in rows, watching the speaker on stage at a Microsoft Build event, illuminated by blue and purple lights, with many attendees raising their hands or recording the moment. Their enthusiastic applause and cheering are heard following the speaker's initial remarks and the announcement of new products.",
+          "attribute": "audio-visual"
+        },
+        "Microsoft Fabric": {
+          "description": "Presentation slide displayed on large screens, titled 'Microsoft Fabric' with the subtitle 'Data analytics for the era of AI,' highlighting four pillars: Unified storage and compute, Unified experience, Unified governance, and Unified business model. It is enthusiastically announced by the Stage Presenter as a product they are 'really thrilled' to launch, described as 'perhaps the biggest launch of a data product from Microsoft since the launch of SQL Server,' and its unifying capabilities are detailed by the speaker.",
+          "attribute": "audio-visual"
+        },
+        "Azure AI Safety": {
+          "description": "Presentation slide displayed on large screens, featuring the title 'Azure AI Safety' with sections for Testing, Provenance, and Deployment, including details like 'Responsible AI dashboard' and 'Model monitoring'.",
+          "attribute": "visual"
+        },
+        "Stage Presenter": {
+          "description": "Bald man with glasses, wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, actively presenting on stage with expressive gestures and confident movement. He speaks clearly and enthusiastically, announcing 'Microsoft Fabric' and detailing its features, including its role in unifying compute, storage, analytics experiences, governance, and the business model, while also acknowledging the audience's applause.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a vibrant 'Microsoft Build' title screen, featuring a gradient of orange, yellow, and purple. The scene then transitions to a large, dimly lit conference hall, where a stage is illuminated with dynamic blue and teal lighting. The Stage Presenter, Satya Nadella, a bald man with glasses in a dark navy hoodie, confidently walks across the stage, gesturing expressively. He is heard saying \"AI applications\" before a wave of enthusiastic applause and cheering erupts from the Conference Hall Audience, many of whom are raising their hands or recording the moment. As the applause subsides, Nadella continues, stating, \"And of course, all AI application start with data.\" The large screens behind him initially display 'Azure AI Safety' before transitioning to 'Microsoft Fabric,' which Nadella excitedly announces, \"And we are really thrilled to be announcing Microsoft Fabric.\" He describes it as \"Data analytics for the era of AI,\" elaborating that it's a product they've worked on for \"multiple years\" and \"perhaps the biggest launch of a data product from Microsoft since the launch of SQL Server.\" He details its four key pillars: unifying \"compute and storage,\" \"all of the full analytic stack product experiences,\" \"governance with analytics,\" and \"the business model across all the different type of analytics work.\" The 'Microsoft Build' logo is prominently featured on the stage floor, reinforcing the event's professional and energetic atmosphere focused on innovation."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 24,
+      "end_minute": 24,
+      "summary": "On a dimly lit stage, Satya Nadella, wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers, presented the concept of 'Data analytics for the era of AI' against a dark blue backdrop highlighting unified storage, experience, governance, and business models. He articulated how unified compute infrastructure supports diverse tasks like SQL and machine learning, stating this unification will drive the next generation of AI applications before cueing a video. The video introduced 'Microsoft Fabric,' a unified data analytics platform with a teal logo and tagline 'Explore the experience,' showcasing its six core components: Data Factory, Synapse Data Engineering, Synapse Data Warehouse, Synapse Data Science, Synapse Real-Time Analytics, and Power BI. A narrator described Fabric as 'One product, one experience, one architecture, one business model,' then highlighted the 'OneLake data hub' where unified data from Finance, HR, and Sales domains is stored in an open format within a SaaS data lake. This single copy of data is demonstrated as being usable for training machine learning models, visualizing data, and running SQL queries, shown through a data science notebook generating histograms and a SQL query editor displaying revenue data, with a brief glimpse of a 'Sales Team' workspace. The unified experience interface then displayed integration between Power BI, Data Factory, Data Activator, Synapse, Data Science, Data Warehouse, and Real-Time Analytics, with the narrator explaining it consolidates tools for data professionals, including pipelines for data movement and experiments for machine learning model training, visualized by a data pipeline and an MLflow notebook. The summary concluded with a Power BI dashboard featuring customer profile analytics, transitioning to the Power BI home screen, as the narrator began to address business users, emphasizing Fabric's seamless, integrated data analytics environment.",
+      "involved_entities": {
+        "MLflow notebook": {
+          "description": "Notebook interface with Python code for tracking machine learning experiments, including setting an experiment, training a model, and logging metrics and parameters, mentioned by the narrator as \"experiments for training machine learning models.\"",
+          "attribute": "audio-visual"
+        },
+        "Satya Nadella": {
+          "description": "Bald man with glasses, wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, actively presenting on stage with expressive gestures and confident movement, speaking in a clear, articulate voice about compute infrastructure, unification, and the next generation of AI applications, concluding with \"Let's roll the video.\"",
+          "attribute": "audio-visual"
+        },
+        "Power BI dashboard": {
+          "description": "Interactive dashboard displaying customer profile analytics with visualizations for demographics, return rates, reservation types, and average days booked per customer, visually representing actionable insights for business users.",
+          "attribute": "audio-visual"
+        },
+        "SQL query editor": {
+          "description": "Interface showing a SQL query for revenue data with results displayed in a table format, including fiscal month ID, quarter name, and month name, demonstrated as an example of running SQL queries on the lake and data warehouse.",
+          "attribute": "audio-visual"
+        },
+        "Microsoft Fabric": {
+          "description": "Presentation slide displayed on large screens, titled 'Microsoft Fabric' with the subtitle 'Data analytics for the era of AI,' highlighting four pillars: Unified storage and compute, Unified experience, Unified governance, and Unified business model. The subsequent interface introduces 'Microsoft Fabric' with a dynamic teal logo and the tagline 'Explore the experience,' showcasing six core components, while a narrator describes it as \"a unified data analytics platform. One product, one experience, one architecture, one business model.\"",
+          "attribute": "audio-visual"
+        },
+        "Unified experience interface": {
+          "description": "Dropdown menu interface showing integration between Power BI, Data Factory, Data Activator, Synapse, Data Science, Data Warehouse, and Real-Time Analytics, emphasizing a unified experience that a narrator states \"brings together all the tools data professionals need.\"",
+          "attribute": "audio-visual"
+        },
+        "OneLake data hub": {
+          "description": "Interface screen showing a data hub with tabs for Finance, HR, and Sales, displaying datasets with details like owner, refresh time, location, endorsement, and sensitivity, emphasizing unified data management. A narrator explains that \"Unified data is stored in OneLake, a SaaS data lake for the entire organization.\"",
+          "attribute": "audio-visual"
+        },
+        "Sales Team workspace": {
+          "description": "Workspace interface listing data assets such as notebooks, datasets, data pipelines, and SQL endpoints, with details like owner, refresh time, and sensitivity, implicitly part of the unified data environment.",
+          "attribute": "audio-visual"
+        },
+        "Data pipeline visualization": {
+          "description": "Graphical representation of a data pipeline with nodes for 'Copy data' and 'Stored procedure,' showing conditional logic and data flow, described by the narrator as \"pipelines for orchestrating data movement.\"",
+          "attribute": "audio-visual"
+        },
+        "Data science notebook": {
+          "description": "Screen capture of a notebook interface with Python code for machine learning, including imports, model training, and visualization of histograms for features like MedInc, HouseAge, and AveRooms, shown as an example of using a single data copy to train ML models.",
+          "attribute": "audio-visual"
+        },
+        "Power BI home screen": {
+          "description": "Home interface of Power BI showing recommended reports, recent activity, and a list of reports and workspaces, emphasizing actionable insights and data-driven decisions for business users, as the narrator begins to explain \"And for business users, Fabric...\"",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with Satya Nadella, a bald man with glasses, dressed in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, actively presenting on a dimly lit stage. Behind him, a dark blue backdrop displays 'Data analytics for the era of AI' and four key pillars: Unified storage and compute, Unified experience, Unified governance, and Unified business model. Satya speaks in a clear, articulate voice, gesturing expressively as he explains how users can leverage the same compute infrastructure for various tasks like SQL or machine learning, stating that this unification will fuel the next generation of AI applications before instructing, \"Let's roll the video.\" The scene then transitions to a clean, light gray interface introducing 'Microsoft Fabric' with a dynamic teal logo and the tagline 'Explore the experience,' showcasing six core components: Data Factory, Synapse Data Engineering, Synapse Data Warehouse, Synapse Data Science, Synapse Real-Time Analytics, and Power BI. A new narrator introduces \"Microsoft Fabric, a unified data analytics platform. One product, one experience, one architecture, one business model.\" The 'OneLake data hub' interface is then shown, highlighting 'Unified data' with datasets from Finance, HR, and Sales domains, including details like ownership, refresh times, and sensitivity levels, as the narrator explains that \"Unified data is stored in OneLake, a SaaS data lake for the entire organization.\" The narrator continues, describing how \"Data is integrated and stored in an open format, allowing one copy to be used to train machine learning models, visualize data, and run SQL queries on the lake and data warehouse,\" which is visually demonstrated by a data science notebook with Python code generating histograms for features like MedInc, HouseAge, and AveRooms, followed by a SQL query editor displaying revenue data. A 'Sales Team' workspace listing various data assets is briefly shown. The video then presents a unified experience interface with a dropdown menu showing integration between Power BI, Data Factory, Data Activator, Synapse, Data Science, Data Warehouse, and Real-Time Analytics, with the narrator stating, \"A unified experience brings together all the tools data professionals need: pipelines for orchestrating data movement, experiments for training machine learning models, semantic models for defining key metrics, and much more.\" This is accompanied by a data pipeline visualization with nodes for 'Copy data' and 'Stored procedure,' and an MLflow notebook with code for tracking experiments. Finally, a Power BI dashboard with customer profile analytics, including demographics, return rates, and reservation types, is displayed before transitioning to the Power BI home screen with recommended reports and recent activity, as the narrator begins to address \"And for business users, Fabric...\" emphasizing a seamless, integrated data analytics environment."
+      ]
+    },
+    {
+      "event_id": 11,
+      "start_minute": 25,
+      "end_minute": 28,
+      "summary": "The presentation begins by showcasing Microsoft Fabric's capabilities, starting with an Excel spreadsheet detailing revenue and profit margin, followed by a 'Field_Data' interface emphasizing unified governance and security. A Copilot interface demonstrates AI-powered productivity, generating SQL queries and visualizing data, while a trigger setup interface highlights automation. The 'Microsoft Fabric' logo appears, promising a unified platform for data and teams. Transitioning to a live stage event, Satya Nadella, in a navy hoodie, is met with loud applause as he announces Microsoft Fabric, positioning it as the data layer for the next generation of AI applications. He references a 'Pursuit of GDP growth' graph, illustrating historical technological revolutions and projecting an AI-driven surge, emphasizing that technology's purpose is to drive human development, including lifespan, education, and living standards globally. Nadella then shares a personal anecdote about visiting India, highlighting the potential for technology to impact 8 billion people through rapid diffusion and equitable growth, underscoring the importance of trust in technology.",
+      "involved_entities": {
+        "Trigger Setup Interface": {
+          "description": "A monitoring interface for setting up alerts based on temperature thresholds, demonstrating real-time data alerts, which a male voiceover describes as setting up automations based on triggers.",
+          "attribute": "audio-visual"
+        },
+        "Conference Hall Audience": {
+          "description": "A large audience seated in rows, watching the speaker on stage at a Microsoft Build event, illuminated by blue and purple lights, with many attendees raising their hands or recording the moment.",
+          "attribute": "visual"
+        },
+        "Satya Nadella": {
+          "description": "Bald man with glasses, wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, actively presenting on stage with expressive gestures and confident movement, speaking with a clear, confident voice about the profound impact of a demo, the next wave of technology reaching everyone, making a difference to 8 billion people, and the need for rapid, equitable growth and trust in technology.",
+          "attribute": "audio-visual"
+        },
+        "Microsoft Fabric Logo": {
+          "description": "The 'Microsoft Fabric' logo displayed on a white background, followed by a teal screen with the text 'All your data' and 'All your places', explicitly identified by a male voiceover as 'Microsoft Fabric'.",
+          "attribute": "audio-visual"
+        },
+        "Stage Presenter": {
+          "description": "Bald man with glasses, wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, actively presenting on stage with expressive gestures and confident movement, identified as Satya Nadella, who speaks with a clear, confident, slightly accented voice about Microsoft Fabric's role in the data layer for AI applications and mentions further discoveries at the conference, following a burst of audience applause.",
+          "attribute": "audio-visual"
+        },
+        "Copilot Interface": {
+          "description": "An AI-powered interface where a user types a natural language query to generate a SQL query and visualize results in a dashboard with charts and maps, which a male voiceover highlights as helping everyone be more productive by writing SQL statements and building reports.",
+          "attribute": "audio-visual"
+        },
+        "Microsoft Fabric Presentation Slide": {
+          "description": "A large screen displaying 'Announcing Microsoft Fabric' with the tagline 'Data analytics for the era of AI' and four pillars: Unified storage and compute, Unified experience, Unified governance, and Unified business model.",
+          "attribute": "visual"
+        },
+        "Excel Spreadsheet": {
+          "description": "A detailed financial spreadsheet with revenue data by segments, highlighted figures, and a 'Gross Profit Margin vs Budget by Period' chart, emphasizing financial analytics.",
+          "attribute": "visual"
+        },
+        "Field_Data Interface": {
+          "description": "A data governance interface with a 'Highly Confidential/Internal only' tag, displaying a diagram of data flow and impact analysis, emphasizing unified governance.",
+          "attribute": "visual"
+        },
+        "Pursuit of GDP growth": {
+          "description": "A large presentation slide displayed on stage screens, featuring a chronological timeline of global GDP growth from 1000 to today, marked with key technological revolutions and GDP growth multipliers per century, with a projected '+AI' surge in the current era. Satya Nadella references this slide when discussing the 'slope going upwards' and the role of information technology and AI in economic growth.",
+          "attribute": "audio-visual"
+        },
+        "Collage of Diverse Scenes": {
+          "description": "A dynamic grid of monochrome and later full-color images showing people in various contexts—working, collaborating, using technology, and engaging in daily life—serving as a visual backdrop during the presentation.",
+          "attribute": "visual"
+        },
+        "Microsoft Build Title Screen": {
+          "description": "Vibrant, abstract background with 'Microsoft Build' text in bold, modern font, featuring gradient colors of orange, yellow, and purple, serving as the main backdrop for the stage presentation.",
+          "attribute": "visual"
+        },
+        "Historical index of human development": {
+          "description": "A graph on the presentation slide showing two lines (light blue and magenta) tracking human development from 1870 to today, with the magenta line representing a summary measure of achievement in health, knowledge, and living standards in the United States. Satya Nadella explicitly refers to 'human development index growth,' 'lifespans,' 'education,' 'prosperity,' and 'standard of living' in direct relation to the concepts illustrated by this graph.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of a detailed Excel spreadsheet displaying revenue data and a 'Gross Profit Margin vs Budget by Period' chart, as a male voiceover explains that 'Fabric brings together data for collaborating and doing ad-hoc analysis in Microsoft 365.' This transitions to a data governance interface labeled 'Field_Data' with a 'Highly Confidential/Internal only' tag, illustrating data flow and impact analysis, while the voiceover emphasizes 'Unified governance, security, and compliance is built in for all your data.' Next, a Copilot interface appears, showing a user typing a natural language query that generates a SQL query and visualizes results in a dashboard with charts and maps, with the voiceover stating that 'AI helps everyone be more productive, whether it's writing SQL statements, building reports.' The scene then shifts to a trigger setup interface for monitoring temperature thresholds and setting alerts, as the voiceover adds, 'or setting up automations based on triggers.' A teal screen with the text 'All your data' and 'All your places' appears, followed by the 'Microsoft Fabric' logo, with the voiceover concluding, 'All your data, all your teams, all in one place. This is Microsoft Fabric.' The video then cuts to a live stage presentation at a Microsoft event, where loud audience applause and cheering erupt. Satya Nadella, a bald man in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, walks confidently across the stage, gesturing expressively. Behind him, a large screen displays 'Announcing Microsoft Fabric' with the tagline 'Data analytics for the era of AI' and its four pillars. The audience, seated under blue and purple lighting, watches attentively, some raising hands or recording. Satya Nadella, speaking with a clear, confident, slightly accented voice, declares, 'You know what the AI supercomputer did for the infrastructure layer, Microsoft Fabric will do to the data layer for this next generation of AI applications. Very, very exciting. These were just the five of the 50. So we have 45 more to discover throughout the conference.'",
+        "The video opens with a close-up of Satya Nadella, a bald man with glasses, wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles. He stands on a dimly lit stage, gesturing expressively as he speaks with a clear, articulate voice, emphasizing the need to be on a 'fast pace to build things that help us build this next generation of applications, but build them with safety first.' Behind him, a large screen displays 'Data analytics for the era of AI' and the four pillars of Microsoft Fabric: 'Unified storage and compute,' 'Unified experience,' 'Unified governance,' and 'Unified business model.' The camera pulls back to reveal the modern stage with blue and teal vertical light strips and a large audience. As Nadella continues, the screen transitions to 'What we build' and then 'Why we build,' prompting him to ask the audience, 'one of the things that I think we should ask ourselves as developers, is why do we build? Why do we build technology?' The scene then shifts to a detailed graph titled 'Pursuit of GDP growth,' which Nadella refers to as 'pretty stunning.' This graph, sourced from Maddison Project and OurWorldInData.org, illustrates global GDP on a logarithmic scale from 1000 to today, marking technological revolutions like the printing press, steam engines, and the information revolution. Nadella explains how for 'most of human history,' there wasn't much economic growth or technology, until 'something happened 250 years ago,' referring to the long period from 'the Enlightenment to scientific revolution to the Industrial Revolution,' which he notes was close to 400 years in building. The graph highlights increasing GDP growth multipliers per century, with a projected '+AI' surge, underscoring the professional and forward-looking atmosphere emphasizing AI's transformative economic impact.",
+        "The segment opens with a static presentation slide titled 'Pursuit of GDP growth,' displaying a logarithmic graph of global GDP from 1000 to today, marked with key technological revolutions and projected '+AI' surge, alongside GDP growth multipliers. Satya Nadella, dressed in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, walks confidently onto the Microsoft Build stage, gesturing towards the screen as he speaks about 'real progress,' noting the 'slope going upwards' and how information technology has played a role in 'seminal moments' on the march towards that 'dream machine.' He emphasizes that 'we now enter the age of AI and we get to define what that slope looks like going forward for economic growth.' The slide then transitions to a 'Historical index of human development' graph, showing two lines tracking progress from 1870, with a magenta line representing achievement in health, knowledge, and living standards in the United States. Nadella continues, asserting that 'it's not even just economic growth on its own,' but that 'we want economic growth so that we can have human development index growth.' He passionately states, 'We want the lifespans to go up, we want education and prosperity and standard of living to go up everywhere. That's why we build, that's why we innovate, that's why technology exists. It's not for technology's sake, but it is for that broad impact.' As he speaks with expressive hand movements, the camera zooms in before shifting to a dynamic collage of diverse, monochrome images depicting people working and collaborating. This collage then transforms into a vibrant, full-color version, with Nadella still presenting in front of it, the stage illuminated with blue and teal lighting, and the 'Microsoft Build' logo visible on the floor. He then transitions to a personal anecdote, mentioning, 'And to me, this all came together, you know, in January when I was visiting India.'",
+        "The video opens with a wide shot of a dimly lit conference hall, where a large audience is seated, facing a stage illuminated by vibrant blue and teal lighting. A massive, dynamic collage of images, depicting diverse people engaged in various activities—from using smartphones and laptops to working in solar fields—serves as a visual backdrop. Satya Nadella, a bald man with glasses, dressed in a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, walks confidently across the stage, gesturing expressively as he speaks. His clear, confident voice explains how a demo had a \"profound impact\" on him, motivating him to approach the \"next wave\" with rigor to \"ensure that this time around, this technology reaches everybody in the world.\" As he moves from left to right, occasionally pausing to emphasize points with hand movements, the background collage subtly shifts, highlighting scenes like a woman in a blue sari or a man in traditional white attire. Nadella continues, stating that \"two things stood out\": the ability for what \"we build\" to \"make a difference to 8 billion people, not some small sort of group of people.\" He stresses the importance of achieving this through \"diffusion that takes days and weeks, not years and centuries,\" driven by the desire for \"equitable growth\" and \"trust in technology.\" The engaged audience, some raising their hands or recording, contributes to the energetic atmosphere of this inclusive tech presentation."
+      ]
+    },
+    {
+      "event_id": 12,
+      "start_minute": 29,
+      "end_minute": 31,
+      "summary": "Satya Nadella, wearing a dark navy hoodie, presented on a modern stage about protecting fundamental rights, managing energy transition, and empowering global citizens, with a dynamic screen behind him displaying diverse scenes and transitioning to a split-screen of rural Indian farmers and a smartphone user, concluding with the Microsoft Build logo and applause. The narrative then shifted to a video featuring Mohd Abduallah Khan, a farmer in a rural Indian village, who explained in Hindi his farming practices and the lack of information access in his region, where villages are limited to newspapers and word-of-mouth, as illustrated by a man operating a manual press machine under a yellow canopy. Further in the video, a woman in a yellow and red sari was seen at a village shop, while text overlays highlighted the unawareness of government schemes. A young man in a white kurta and cap spoke about these schemes not reaching rural areas, leading to a transition to an office setting where Aaditeshwar Seth, Co-Founder of Gram Vaani and Professor at IIT Delhi, discussed 'media dark areas' and literacy challenges. The scene returned to the village with an elderly man, a group of women and children, and children in school uniforms entering a classroom, before shifting back to the office where Smita Gupta, Lawyer and Technologist at OpenNyAI, addressed the challenge of providing justice in India's numerous languages. Abhigyan Raman, Senior AI Researcher at AI4Bharat, was shown discussing with colleagues, including a woman wearing headphones verifying a recording on a tablet, and then explaining the 'Jugalbandi' chatbot system architecture on a digital whiteboard, detailing its components like 'Govt: Scheme Details,' 'Chat layer (WhatsApp),' 'AI4Bharat Models,' and 'Azure Machine Learning,' emphasizing its role in solving linguistic and technological divides with extensive data for machine translation and speech recognition, utilizing models like Parshini and Azure, and concluding with a passionate emphasis on AI's technical and social integration in rural development. The video continued with a man in glasses and a dark polo shirt explaining AI's language capabilities, visually supported by Python code and AI4Bharat metrics, followed by a scene in a rural Indian village where a woman in a blue sari assisted an elderly man, and a younger man demonstrated how to use a smartphone messaging app to access government scheme information via text and voice. The elderly man inquired about schemes, identifying as a farmer, and a female AI voice, 'Jugalbandi,' responded in Hindi offering assistance. The elderly and younger men were then seen discussing the AI's detailed response, including required documents and forms in text and audio. The narrative concluded in a modern office with a woman in a black blazer explaining the Ministry of Electronics and IT's five-year effort and ChatGPT's catalytic role, ending with a view of a Microsoft Azure Machine Learning Studio dashboard displaying AI endpoint performance metrics.",
+      "involved_entities": {
+        "Collage of Diverse Scenes": {
+          "description": "A dynamic grid of monochrome and later full-color images showing people in various contexts—working, collaborating, using technology, and engaging in daily life—serving as a visual backdrop during the presentation.",
+          "attribute": "visual"
+        },
+        "Satya Nadella": {
+          "description": "Bald man with glasses, wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, actively presenting on stage with expressive gestures and confident movement, speaking in a clear, confident English voice about fundamental rights, energy transition, and the profound impact of technology, before introducing a video.",
+          "attribute": "audio-visual"
+        },
+        "Mohd Abduallah Khan": {
+          "description": "Farmer in traditional white attire, standing in front of a brick house in a rural Indian village, speaking directly to the camera with hands clasped, introducing himself in Hindi as a farmer with two acres of land, detailing the rabi and kharif crops he grows, including wheat, jowar, millet, sesame, and mustard.",
+          "attribute": "audio-visual"
+        },
+        "Man in Traditional White Attire": {
+          "description": "An elderly man with a white turban and traditional white clothing, seen using a smartphone and heard asking in Hindi about government schemes, identifying himself as a farmer.",
+          "attribute": "audio-visual"
+        },
+        "Biwan, India": {
+          "description": "Text overlay identifying the location of the farmer’s village, appearing on screen during the video segment, indicating the geographical context of the narrative.",
+          "attribute": "visual"
+        },
+        "Group of Women and Children": {
+          "description": "Cluster of women in colorful saris and headscarves, along with children, gathered near a brick wall in a rural setting, engaged in conversation.",
+          "attribute": "visual"
+        },
+        "Office Colleagues": {
+          "description": "Group of people in a modern office, including a man with a beard and a woman with blonde hair, working at desks with computers, engaged in collaborative AI development.",
+          "attribute": "visual"
+        },
+        "Classroom Scene": {
+          "description": "Simple classroom with students in colorful headscarves sitting on the floor, reading textbooks, with a blackboard in the background.",
+          "attribute": "visual"
+        },
+        "Woman with Headphones": {
+          "description": "Woman wearing white headphones, sitting at a desk with a tablet, verifying a recording with Hindi text displayed on the screen.",
+          "attribute": "visual"
+        },
+        "Abhigyan Raman": {
+          "description": "Man with a beard and dark hair, wearing a light blue button-up shirt, standing in an office environment, identified as Senior AI Researcher at AI4Bharat, seen explaining a technical diagram on a digital whiteboard, and passionately describing Jugalbandi as a chatbot built to solve linguistic and technological divides, mentioning the collection of millions of parallel sentences for machine translation and thousands of hours of data for speech recognition, and the use of state-of-the-art models like Parshini speech recognition and Azure.",
+          "attribute": "audio-visual"
+        },
+        "Children in School Uniforms": {
+          "description": "Group of children in school uniforms, including girls in colorful headscarves and boys in white shirts and purple trousers, walking through a village doorway and sitting in a classroom reading textbooks.",
+          "attribute": "visual"
+        },
+        "Village Shop": {
+          "description": "Small rural shop with hanging snacks, a red counter, and various goods displayed, located in a village setting.",
+          "attribute": "visual"
+        },
+        "Smita Gupta": {
+          "description": "Woman with long dark hair and glasses, wearing a black blazer over a pink shirt, speaking in a modern office setting, identified as Lawyer and Technologist at OpenNyAI, who highlights India's 22 constitutionally recognized languages and over 120 other languages, emphasizing the challenge and opportunity of providing justice in one's own language.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Yellow and Red Sari": {
+          "description": "Woman wearing a yellow and red sari, standing outside a small village shop, interacting with a vendor.",
+          "attribute": "visual"
+        },
+        "Digital Whiteboard": {
+          "description": "Large screen displaying a system architecture diagram with components like 'Govt: Scheme Details,' 'Chat layer (WhatsApp),' 'AI4Bharat Models,' and 'Azure Machine Learning,' used by Abhigyan Raman to explain the project.",
+          "attribute": "visual"
+        },
+        "Computer Screen with Code": {
+          "description": "Close-up of a screen showing Python code for an AI inference function, with text like 'requests.post' and 'inference_cfg,' indicating technical development work.",
+          "attribute": "visual"
+        },
+        "Aaditeshwar Seth": {
+          "description": "Man with glasses and a beard, wearing a light gray button-up shirt and beige trousers, standing in a modern office with desks and chairs, identified as Co-Founder of Gram Vaani and Professor at IIT Delhi, who speaks about communities living in 'media dark areas' with sparse traditional media penetration and literacy challenges limiting access to newspapers.",
+          "attribute": "audio-visual"
+        },
+        "Elderly Man in Village Lane": {
+          "description": "Older man with a white turban and traditional white clothing, walking slowly down a narrow, dusty village lane, appearing contemplative.",
+          "attribute": "visual"
+        },
+        "Younger Man in White Attire": {
+          "description": "A younger man in traditional white clothing and a beige cap, explaining in Hindi how to use a smartphone to get government scheme information by writing and speaking, and later detailing the AI's response about required documents and forms.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Blue Sari": {
+          "description": "Woman with long dark hair, wearing a blue sari and glasses, standing in a rural setting beside a man in traditional white attire, assisting him with a smartphone.",
+          "attribute": "visual"
+        },
+        "Microsoft Azure Machine Learning Studio": {
+          "description": "A screen capture of the Azure AI Machine Learning Studio interface, displaying a dashboard with recent jobs, compute instances, and options like 'Create notebook' and 'Add compute,' featuring a clean, modern design with a white background and blue accents, highlighting tools for machine learning and AI development.",
+          "attribute": "visual"
+        },
+        "Office Collaborators": {
+          "description": "A group of people in a modern office, casually dressed, engaged in discussion and collaboration around a table with laptops and digital displays.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with Satya Nadella, a bald man with glasses in a dark navy hoodie, presenting on a modern stage. He speaks with expressive gestures about protecting fundamental rights, managing energy transition with finite resources, and empowering every person and organization on the planet. Behind him, a large dynamic screen displays a collage of diverse scenes, including a woman on a laptop and a person in a safety vest, which then transitions to a split-screen showing two men in traditional white attire in a rural Indian field on the left and a close-up of a hand typing on a smartphone on the right. The camera zooms out to reveal the Microsoft Build logo on the floor as Nadella concludes his speech, emphasizing the profound impact developers will have on 8 billion people, and introduces a video. Applause erupts, followed by upbeat music. The scene shifts to the introduced video segment, featuring Mohd Abduallah Khan, a farmer in traditional white attire, standing in front of a brick house in a rural Indian village. He introduces himself in Hindi, stating he is a farmer in his village with two acres of land, where he grows both rabi and kharif crops like wheat, jowar, millet, sesame, and mustard. The video then cuts to a man operating a manual press machine under a yellow canopy, with a text overlay explaining that in Mewat, many villages lack access to information and are limited to newspapers and word-of-mouth.",
+        "The video opens in a rural Indian village, showcasing a small shop with hanging snacks and a woman in a yellow and red sari interacting with a vendor, while text overlays state, 'There are many government schemes available to us, but we often don't know about them.' A young man in a white kurta and cap, standing in a dusty village courtyard, speaks directly to the camera in Hindi, explaining that while government schemes exist, they often don't reach people in rural areas. A wide shot reveals the village landscape with a mosque and distant hills before transitioning to a modern office setting. Here, Aaditeshwar Seth, identified as Co-Founder of Gram Vaani and Professor at IIT Delhi, speaks about communities living in 'media dark areas' where traditional media penetration is sparse and literacy challenges limit access to newspapers. The narrative shifts back to the village, showing an elderly man walking down a narrow lane, followed by a group of women and children gathered near a brick wall. Children in school uniforms walk through a village doorway, leading to a classroom where students in colorful headscarves read textbooks. The scene returns to the office, where Smita Gupta, a Lawyer and Technologist at OpenNyAI, speaks in front of a whiteboard, highlighting India's 22 constitutionally recognized languages and over 120 other languages, emphasizing the challenge and opportunity of providing justice in one's own language. A close-up shows code on a screen, followed by Abhigyan Raman, Senior AI Researcher at AI4Bharat, discussing with colleagues. A woman wearing headphones verifies a recording on a tablet with Hindi text displayed on the screen. Abhigyan Raman then explains a system architecture on a digital whiteboard, illustrating 'Govt: Scheme Details,' 'Chat layer (WhatsApp),' 'AI4Bharat Models,' and 'Azure Machine Learning,' while interacting with a colleague. He passionately describes Jugalbandi as a chatbot built to solve linguistic and technological divides, mentioning the collection of millions of parallel sentences for machine translation and thousands of hours of data for speech recognition, and the use of state-of-the-art models like Parshini speech recognition and Azure. The segment ends with a close-up of Abhigyan Raman speaking passionately, emphasizing the technical and social integration of AI in rural development.",
+        "The video opens with a man in glasses and a dark polo shirt speaking about AI capabilities, explaining how they allow understanding, transcribing, translating, and synthesizing language back into speech. This is visually reinforced by a computer screen displaying Python code for an AI inference function and translation metrics from AI4Bharat. The scene then transitions to a rural Indian village, where a woman in a blue sari assists an elderly man in traditional white attire. A younger man in similar white attire explains in Hindi how they can use a smartphone, which displays a messaging app with English and Hindi text, to get information about government schemes by both writing and speaking. The elderly man is then heard asking in Hindi about government schemes, identifying himself as a farmer. A female AI voice, introducing herself as 'Jugalbandi,' responds in Hindi, offering assistance with government schemes and enrollment. The elderly man and the younger man are then seen walking through a dry field, discussing the information, with the younger man detailing that the AI's response included required documents and forms in both text and audio. The narrative shifts to a modern office where a woman in a black blazer and glasses speaks to two men, explaining that the Ministry of Electronics and IT has been working on this for five years, and ChatGPT's launch was a catalyst. The segment concludes with a shot of a Microsoft Azure Machine Learning Studio dashboard, showcasing performance metrics for an AI endpoint, highlighting the technical infrastructure."
+      ]
+    },
+    {
+      "event_id": 13,
+      "start_minute": 32,
+      "end_minute": 32,
+      "summary": "The video opens with a tranquil rural landscape at dawn or dusk, featuring a man in traditional white attire traversing a plowed field under a hazy sky, while a group of people, including children in vibrant attire, proceed along a dusty dirt path bordered by trees, all underscored by subtle, uplifting instrumental music. The scene then transitions to a modest classroom where a woman in a pink sari, white shawl, and glasses stands before a blackboard, addressing students who actively raise their hands. A confident female voice with a slight accent narrates, 'We've been able to categorize the diversity of India as an innovation opportunity. And if you're able to do that successfully, you're able to do it for the world.' Subsequently, the setting shifts to a modern office, where a woman in a black blazer over a pink shirt, wearing glasses, confidently gestures while speaking. The segment culminates with the display of the Microsoft logo on a black background.",
+      "involved_entities": {
+        "Group of Women and Children": {
+          "description": "Cluster of women in colorful saris and headscarves, along with children, walking along a dirt path near trees in a rural village, engaged in casual movement and conversation.",
+          "attribute": "visual"
+        },
+        "Woman in Black Blazer": {
+          "description": "Woman with long dark hair, wearing a black blazer over a pink shirt and glasses, standing confidently in a modern office, speaking with expressive hand gestures, and providing a clear, confident voiceover with a slight accent, discussing how categorizing India's diversity as an innovation opportunity can be applied globally.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Pink Sari": {
+          "description": "Woman with long dark hair, wearing a pink sari with white circular patterns and a white shawl, standing in a modest classroom, holding a notebook, and teaching students with a warm, engaging demeanor.",
+          "attribute": "visual"
+        },
+        "Microsoft Logo": {
+          "description": "The Microsoft logo displayed on a black background, consisting of four colored squares (red, green, blue, yellow) and the word 'Microsoft' in white, centered and static.",
+          "attribute": "visual"
+        },
+        "Children in School Uniforms": {
+          "description": "Group of children in school uniforms, including girls in colorful headscarves and boys in white shirts, seated on the floor in a classroom, raising their hands eagerly to answer questions.",
+          "attribute": "visual"
+        },
+        "Man in Traditional White Attire": {
+          "description": "Elderly man with a white turban and traditional white clothing, walking across a plowed field in a rural setting during a hazy, golden hour, appearing contemplative and purposeful.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute begins with a serene rural scene at dawn or dusk, where a man in traditional white attire walks across a plowed field under a hazy sky, and a group of people, including children in colorful clothing, walk along a dusty dirt path near trees. A subtle, uplifting instrumental background music accompanies these visuals as the scene transitions to a modest classroom. Here, a woman in a pink sari with a white shawl and glasses stands before a blackboard, engaging students who eagerly raise their hands. Throughout these transitions, a confident female voice with a slight accent narrates, stating, 'We've been able to categorize the diversity of India as an innovation opportunity. And if you're able to do that successfully, you're able to do it for the world.' The video then shifts to a modern office environment, where a woman in a black blazer over a pink shirt and glasses stands confidently, gesturing as she speaks, embodying the narrative's professionalism. The segment concludes with the Microsoft logo displayed on a black background."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Young Superhero Girl": "A young girl with long blonde hair, wearing a blue and gold superhero costume with a flowing cape, running through a sunlit field of tall grass.",
+    "Formula 1 Car": "A sleek, blue and purple Formula 1 car with sponsor logos (BWT, Castrol, Alpine) racing on a track, with a driver in a matching blue suit and helmet.",
+    "AI-Generated Text Overlay": "Dynamic, animated text appearing in white and purple fonts with emojis, displayed over various scenes to emphasize key messages about AI and creativity, though not prominently visible in this segment.",
+    "Sports Crowd": "A diverse group of spectators in a stadium, many wearing masks and team jerseys, cheering and clapping enthusiastically.",
+    "Microsoft Bing Interface": "Clean, minimalist design with a blue and white color scheme, featuring a search bar, 'CHAT' tab, and options for 'More Creative,' 'More Balanced,' and 'More Precise' conversation styles, actively displaying search results and user interactions, which the speaker describes as automatically calling the Instacart plugin to add ingredients to a shopping list.",
+    "Microsoft Build Title Screen": "Vibrant, abstract background with 'Microsoft Build' text in bold, modern font, featuring gradient colors of orange, yellow, and purple, serving as the main backdrop for the stage presentation.",
+    "Doctor and Patient": "A male doctor in a white lab coat shaking hands with a seated male patient in a clinical setting, symbolizing trust and human connection.",
+    "Office Collaborators": "A group of people in a modern office, casually dressed, engaged in discussion and collaboration around a table with laptops and digital displays.",
+    "Collaborative Workspace Group": "A group of people, including a man with a beard and a woman with blonde hair, working with a small robot in a modern office setting, accompanied by the sound of typing.",
+    "Stage Presenter": "Bald man with glasses, wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, actively presenting on stage with expressive gestures and confident movement, identified as Satya Nadella, who speaks with a clear, confident, slightly accented voice about Microsoft Fabric's role in the data layer for AI applications and mentions further discoveries at the conference, following a burst of audience applause.",
+    "High-Fiving Women": "Two women, one in a black shirt and the other in a blue patterned shirt, high-fiving enthusiastically at a table with laptops and drinks.",
+    "Man in Traditional White Attire": "Elderly man with a white turban and traditional white clothing, walking across a plowed field in a rural setting during a hazy, golden hour, appearing contemplative and purposeful.",
+    "Conference Hall Audience": "A large audience seated in rows, watching the speaker on stage at a Microsoft Build event, illuminated by blue and purple lights, with many attendees raising their hands or recording the moment.",
+    "Woman in Blue Sari": "Woman with long dark hair, wearing a blue sari and glasses, standing in a rural setting beside a man in traditional white attire, assisting him with a smartphone.",
+    "Satya Nadella": "Bald man with glasses, wearing a dark navy hoodie over a gray shirt, black pants, and black sneakers with white soles, actively presenting on stage with expressive gestures and confident movement, speaking in a clear, confident English voice about fundamental rights, energy transition, and the profound impact of technology, before introducing a video.",
+    "Pursuit of the Dream Machine Timeline": "A large presentation slide displayed on stage screens, featuring a chronological timeline of computing milestones from 1945 to 2022, including images and titles such as 'As We May Think,' 'Man-Computer Symbiosis,' 'The Mother of All Demos,' Xerox Alto, PC/Server, World Wide Web, iPhone/Cloud, and ChatGPT, with connecting lines and year labels, serving as a prominent visual backdrop to Satya Nadella's speech about technological progression.",
+    "Codespaces": "A screen capture of a GitHub repository interface showing a 'Create codespace' button and file structure, with the label 'Codespaces' in white text on a dark background.",
+    "GitHub Copilot": "A screen capture of a code editor with GitHub Copilot suggesting code, showing a Python function for password validation, labeled 'GitHub Copilot' in white text, and mentioned by Satya Nadella as part of the broader Copilot ecosystem.",
+    "GitHub Actions and Azure Deployment Environments": "A screen capture of a GitHub pull request interface showing deployment checks and environment statuses, labeled 'GitHub Actions and Azure Deployment Environments' with 'Generally available' text.",
+    "Microsoft Dev Box": "A screen capture of a Visual Studio Code-like development environment with a dark theme, labeled 'Microsoft Dev Box' and noted as 'Generally available July 2023'.",
+    "Azure OpenAI Service": "A screen capture showing the general availability of Azure OpenAI Service, with text highlighting expanded access to large, advanced AI models and enterprise benefits, alongside the Microsoft and OpenAI logos, which is specifically mentioned by Satya Nadella as part of the 'AI infrastructure' with its APIs.",
+    "ChatGPT": "A screen capture displaying the ChatGPT interface, which Yusuf Mehdi interacts with, demonstrating its integration with Bing for real-time, cited search results and its new 'Plugins' mode, where options like 'Instacart' and 'Zillow' are shown as enabled, allowing for enhanced functionality.",
+    "Bringing Bing to ChatGPT Slide": "A presentation slide with the title 'Bringing Bing to ChatGPT' and a screenshot of the ChatGPT interface showing options like 'Browsing with Bing' and 'Code Execution Beta,' displayed on a large stage screen.",
+    "Windows Copilot Announcement Slide": "A presentation slide with the title 'Announcing Windows Copilot' in bold white text under a pink 'Announcing' tag, displayed on a large stage screen.",
+    "Adobe Express Interface": "A design application with a clean, user-friendly interface, featuring options to edit text, resize, apply themes, and download or share designs, used to create a logo with a coffee cup and text 'THE FOURTH COFFEE' on a yellow background.",
+    "Focus Timer Widget": "A circular timer widget with a blue and white design, displaying a countdown (e.g., '30 min') and integrating with the Clock app to help minimize distractions during work sessions.",
+    "Spotify Interface": "A music streaming application with a dark theme, shown playing a 'Chill Vibes' playlist, launched seamlessly via Windows Copilot.",
+    "Windows 11 Desktop Interface": "A modern desktop environment with a vibrant blue, flowing ribbon wallpaper, a taskbar featuring a 'Search' bar and app icons, including the Windows Copilot icon, and a system tray with date, time, and connectivity indicators.",
+    "Dark Theme Interface": "A system-wide dark color scheme applied to the desktop, taskbar, and open applications, reducing eye strain and improving focus, with dark backgrounds and light text.",
+    "Windows Copilot": "A sidebar interface with a clean, minimalist design, featuring a blue and white color scheme, offering AI-powered assistance, demonstrated by launching Spotify for a 'Chill Vibes' playlist and suggesting Windows Snap for productivity.",
+    "Windows 11 Logo": "A blue square with four smaller squares inside, accompanied by the text 'Windows 11' in bold, modern font, displayed prominently on a white background during the stage presentation.",
+    "Microsoft Teams Interface": "A chat application interface showing a conversation in the 'Design Squad' channel, with messages like 'Wow!' and 'This is awesome!' accompanied by emojis, and a shared image of the 'THE FOURTH COFFEE' logo. The speaker uses it to demonstrate engaging with Microsoft 365 Copilot to track website changes, where Copilot calls the Atlassian plugin.",
+    "Copilot stack": "A layered diagram displayed on stage, showing components like 'Apps,' 'Plugin extensibility,' 'Copilots,' 'AI orchestration,' 'Foundation models,' and 'AI infrastructure,' with bidirectional arrows indicating interaction between layers.",
+    "Yusuf Mehdi": "Man with dark hair, wearing a black zip-up hoodie over a gray shirt, dark pants, and black sneakers with white soles, identified on-screen as CVP, Consumer CMO at Microsoft, speaking confidently with expressive hand gestures on stage, announcing the Windows Copilot and demonstrating its features with clear, enthusiastic narration.",
+    "Microsoft 365 Copilot": "A feature within Microsoft 365 applications, shown as a sidebar in Word with options to draft, modify, and summarize content, providing AI-powered assistance for document creation and editing, which the speaker uses to draft a legal contract, specifically mentioning its use with California law and plugins from Thompson Reuters and Practical Law.",
+    "Word Document Interface": "A Microsoft Word document titled 'Relecloud Sales Agreement' displayed in a browser, showing legal text with blank fields for signatures and exhibits. The speaker highlights its integration with Microsoft 365 Copilot and powerful plugins like Thomson Reuters for drafting legal contracts.",
+    "Copilot Sidebar": "A vertical AI assistant panel in Microsoft Word, displaying suggestions like 'Draft an agreement', 'Replace the limitation of liability clause', and 'Summarize changes', with options to 'Keep it', 'Modify a clause', or 'Insert a clause', and providing legal references from Practical Law and Westlaw. The speaker notes its ability to call the Westlaw plugin for legal analysis and use document intelligence to provide a summary table of changes.",
+    "Instacart Interface": "A web browser displaying the Instacart homepage with a search bar, various shopping categories, and a shopping cart overlay showing added items for a Peach Melba Cake, including a 'Continue Shopping' button, populated by the Bing AI as described by the speaker.",
+    "Jira Cloud": "A pop-up interface for creating a new issue in Jira Cloud, showing fields for summary, description, assignee, priority, department, start date, due date, and attachments, with a 'Create' button. The speaker explains that Atlassian Jira specializes in project and issue tracking, and the system automatically pulls the Jira ticket, allowing an owner to be assigned using Azure Active Directory.",
+    "New and existing plugin developers": "A presentation slide displaying numerous company logos including Spotify, Oracle, Trello, and others, indicating a collaborative ecosystem of plugin developers for Microsoft and OpenAI.",
+    "Azure AI Studio": "A screen capture of the Azure AI Studio interface, displaying a dashboard with recent jobs, compute instances, and options like 'Create notebook' and 'Add compute,' featuring a clean, modern design with a white background and blue accents, highlighting tools for machine learning and AI development. The narrator explicitly identifies it as 'Azure AI Studio' and describes it as 'the trusted tools you need to build the next generation of AI applications.'",
+    "Model catalog": "A screen capture of the Model catalog in Azure AI Machine Learning Studio, showcasing various models like 'gpt-4-32k', 'gpt-35-turbo', and 'text-embedding-ada-002', with categories including 'Open Source Models', 'Hugging Face Hub', and 'Azure OpenAI Service'. The audio describes it as a 'new model catalog that works with the popular models organizations use, including those from Azure Open AI Service, Hugging Face, and many other open source models.'",
+    "Prompt Flow": "A screen capture of the Prompt Flow interface in Azure AI Machine Learning Studio, displaying a flow diagram with nodes such as 'question_embedding', 'retrieve_documentation', and 'llm_response', and the user editing a prompt for a customer query. The audio explains that 'with Prompt Flow, developers can combine relevant data from your organization and create a detailed prompt to get better results,' and that it 'works with foundation, internally developed or open source models, and uses popular open source tools, Langchain and Semantic Kernel.'",
+    "Azure AI Content Safety Studio": "A screen capture of the Azure AI Content Safety Studio, where the user tests a sample text for content safety, adjusting severity thresholds for categories like Violence, Self-harm, Sexual, and Hate, and receiving results indicating whether the content is accepted or rejected. The audio states that 'with Azure AI Content Safety, we are making it easier for you to test and evaluate your AI deployments for safety.'",
+    "Microsoft Fabric": "Presentation slide displayed on large screens, titled 'Microsoft Fabric' with the subtitle 'Data analytics for the era of AI,' highlighting four pillars: Unified storage and compute, Unified experience, Unified governance, and Unified business model. The subsequent interface introduces 'Microsoft Fabric' with a dynamic teal logo and the tagline 'Explore the experience,' showcasing six core components, while a narrator describes it as \"a unified data analytics platform. One product, one experience, one architecture, one business model.\"",
+    "Azure AI Safety": "Presentation slide displayed on large screens, featuring the title 'Azure AI Safety' with sections for Testing, Provenance, and Deployment, including details like 'Responsible AI dashboard' and 'Model monitoring'.",
+    "MLflow notebook": "Notebook interface with Python code for tracking machine learning experiments, including setting an experiment, training a model, and logging metrics and parameters, mentioned by the narrator as \"experiments for training machine learning models.\"",
+    "Power BI dashboard": "Interactive dashboard displaying customer profile analytics with visualizations for demographics, return rates, reservation types, and average days booked per customer, visually representing actionable insights for business users.",
+    "SQL query editor": "Interface showing a SQL query for revenue data with results displayed in a table format, including fiscal month ID, quarter name, and month name, demonstrated as an example of running SQL queries on the lake and data warehouse.",
+    "Unified experience interface": "Dropdown menu interface showing integration between Power BI, Data Factory, Data Activator, Synapse, Data Science, Data Warehouse, and Real-Time Analytics, emphasizing a unified experience that a narrator states \"brings together all the tools data professionals need.\"",
+    "OneLake data hub": "Interface screen showing a data hub with tabs for Finance, HR, and Sales, displaying datasets with details like owner, refresh time, location, endorsement, and sensitivity, emphasizing unified data management. A narrator explains that \"Unified data is stored in OneLake, a SaaS data lake for the entire organization.\"",
+    "Sales Team workspace": "Workspace interface listing data assets such as notebooks, datasets, data pipelines, and SQL endpoints, with details like owner, refresh time, and sensitivity, implicitly part of the unified data environment.",
+    "Data pipeline visualization": "Graphical representation of a data pipeline with nodes for 'Copy data' and 'Stored procedure,' showing conditional logic and data flow, described by the narrator as \"pipelines for orchestrating data movement.\"",
+    "Data science notebook": "Screen capture of a notebook interface with Python code for machine learning, including imports, model training, and visualization of histograms for features like MedInc, HouseAge, and AveRooms, shown as an example of using a single data copy to train ML models.",
+    "Power BI home screen": "Home interface of Power BI showing recommended reports, recent activity, and a list of reports and workspaces, emphasizing actionable insights and data-driven decisions for business users, as the narrator begins to explain \"And for business users, Fabric...\"",
+    "Trigger Setup Interface": "A monitoring interface for setting up alerts based on temperature thresholds, demonstrating real-time data alerts, which a male voiceover describes as setting up automations based on triggers.",
+    "Microsoft Fabric Logo": "The 'Microsoft Fabric' logo displayed on a white background, followed by a teal screen with the text 'All your data' and 'All your places', explicitly identified by a male voiceover as 'Microsoft Fabric'.",
+    "Copilot Interface": "An AI-powered interface where a user types a natural language query to generate a SQL query and visualize results in a dashboard with charts and maps, which a male voiceover highlights as helping everyone be more productive by writing SQL statements and building reports.",
+    "Microsoft Fabric Presentation Slide": "A large screen displaying 'Announcing Microsoft Fabric' with the tagline 'Data analytics for the era of AI' and four pillars: Unified storage and compute, Unified experience, Unified governance, and Unified business model.",
+    "Excel Spreadsheet": "A detailed financial spreadsheet with revenue data by segments, highlighted figures, and a 'Gross Profit Margin vs Budget by Period' chart, emphasizing financial analytics.",
+    "Field_Data Interface": "A data governance interface with a 'Highly Confidential/Internal only' tag, displaying a diagram of data flow and impact analysis, emphasizing unified governance.",
+    "Pursuit of GDP growth": "A large presentation slide displayed on stage screens, featuring a chronological timeline of global GDP growth from 1000 to today, marked with key technological revolutions and GDP growth multipliers per century, with a projected '+AI' surge in the current era. Satya Nadella references this slide when discussing the 'slope going upwards' and the role of information technology and AI in economic growth.",
+    "Collage of Diverse Scenes": "A dynamic grid of monochrome and later full-color images showing people in various contexts—working, collaborating, using technology, and engaging in daily life—serving as a visual backdrop during the presentation.",
+    "Historical index of human development": "A graph on the presentation slide showing two lines (light blue and magenta) tracking human development from 1870 to today, with the magenta line representing a summary measure of achievement in health, knowledge, and living standards in the United States. Satya Nadella explicitly refers to 'human development index growth,' 'lifespans,' 'education,' 'prosperity,' and 'standard of living' in direct relation to the concepts illustrated by this graph.",
+    "Mohd Abduallah Khan": "Farmer in traditional white attire, standing in front of a brick house in a rural Indian village, speaking directly to the camera with hands clasped, introducing himself in Hindi as a farmer with two acres of land, detailing the rabi and kharif crops he grows, including wheat, jowar, millet, sesame, and mustard.",
+    "Biwan, India": "Text overlay identifying the location of the farmer’s village, appearing on screen during the video segment, indicating the geographical context of the narrative.",
+    "Group of Women and Children": "Cluster of women in colorful saris and headscarves, along with children, walking along a dirt path near trees in a rural village, engaged in casual movement and conversation.",
+    "Office Colleagues": "Group of people in a modern office, including a man with a beard and a woman with blonde hair, working at desks with computers, engaged in collaborative AI development.",
+    "Classroom Scene": "Simple classroom with students in colorful headscarves sitting on the floor, reading textbooks, with a blackboard in the background.",
+    "Woman with Headphones": "Woman wearing white headphones, sitting at a desk with a tablet, verifying a recording with Hindi text displayed on the screen.",
+    "Abhigyan Raman": "Man with a beard and dark hair, wearing a light blue button-up shirt, standing in an office environment, identified as Senior AI Researcher at AI4Bharat, seen explaining a technical diagram on a digital whiteboard, and passionately describing Jugalbandi as a chatbot built to solve linguistic and technological divides, mentioning the collection of millions of parallel sentences for machine translation and thousands of hours of data for speech recognition, and the use of state-of-the-art models like Parshini speech recognition and Azure.",
+    "Children in School Uniforms": "Group of children in school uniforms, including girls in colorful headscarves and boys in white shirts, seated on the floor in a classroom, raising their hands eagerly to answer questions.",
+    "Village Shop": "Small rural shop with hanging snacks, a red counter, and various goods displayed, located in a village setting.",
+    "Smita Gupta": "Woman with long dark hair and glasses, wearing a black blazer over a pink shirt, speaking in a modern office setting, identified as Lawyer and Technologist at OpenNyAI, who highlights India's 22 constitutionally recognized languages and over 120 other languages, emphasizing the challenge and opportunity of providing justice in one's own language.",
+    "Woman in Yellow and Red Sari": "Woman wearing a yellow and red sari, standing outside a small village shop, interacting with a vendor.",
+    "Digital Whiteboard": "Large screen displaying a system architecture diagram with components like 'Govt: Scheme Details,' 'Chat layer (WhatsApp),' 'AI4Bharat Models,' and 'Azure Machine Learning,' used by Abhigyan Raman to explain the project.",
+    "Computer Screen with Code": "Close-up of a screen showing Python code for an AI inference function, with text like 'requests.post' and 'inference_cfg,' indicating technical development work.",
+    "Aaditeshwar Seth": "Man with glasses and a beard, wearing a light gray button-up shirt and beige trousers, standing in a modern office with desks and chairs, identified as Co-Founder of Gram Vaani and Professor at IIT Delhi, who speaks about communities living in 'media dark areas' with sparse traditional media penetration and literacy challenges limiting access to newspapers.",
+    "Elderly Man in Village Lane": "Older man with a white turban and traditional white clothing, walking slowly down a narrow, dusty village lane, appearing contemplative.",
+    "Younger Man in White Attire": "A younger man in traditional white clothing and a beige cap, explaining in Hindi how to use a smartphone to get government scheme information by writing and speaking, and later detailing the AI's response about required documents and forms.",
+    "Microsoft Azure Machine Learning Studio": "A screen capture of the Azure AI Machine Learning Studio interface, displaying a dashboard with recent jobs, compute instances, and options like 'Create notebook' and 'Add compute,' featuring a clean, modern design with a white background and blue accents, highlighting tools for machine learning and AI development.",
+    "Woman in Pink Sari": "Woman with long dark hair, wearing a pink sari with white circular patterns and a white shawl, standing in a modest classroom, holding a notebook, and teaching students with a warm, engaging demeanor.",
+    "Microsoft Logo": "The Microsoft logo displayed on a black background, consisting of four colored squares (red, green, blue, yellow) and the word 'Microsoft' in white, centered and static."
+  }
+}

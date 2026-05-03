@@ -1,0 +1,289 @@
+{
+  "video_id": "video127",
+  "audio_id": "video127_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "Typing sounds initiate a Google search for 'ai vs. agi,' leading into a rapid, glitchy audio montage of voices repeating \"AI,\" \"agentic,\" and \"agents.\" This accompanies quick cuts of Sundar Pichai speaking, a man with curly hair in a green shirt, a man in a suit at a podium, and a man in a black leather jacket presenting 'NVIDIA NIM.' A man with glasses in a grey button-up shirt, speaking into a microphone, begins to narrate that most AI agent explanations are \"too technical or too basic,\" visually supported by an 'AI Agent Overview' diagram shown next to a SpongeBob meme labeled 'AI AGENTS' with 'Too technical' and 'Too basic' options. The narration continues over a man with glasses working at a computer displaying a Claude AI interface and a headline graphic reading 'How AI Agents Will Revolutionize Your Day-To-Day Life.' The narrator outlines a \"simple 1-2-3 learning path\" building on ChatGPT, AI workflows, and AI agents, synchronized with a three-box graphic sequentially revealing 'ChatGPT (LLMs),' 'AI Workflows,' and 'AI Agents.' The segment concludes with a blurred screen displaying 'What is Retrieval-Augmented Generation, aka RAG?' as the narrator mentions \"intimidating terms... like RAG.\"",
+      "involved_entities": {
+        "Sundar Pichai": {
+          "description": "Wearing glasses and a grey sweater, speaking with hand gestures in front of a beige curtain background.",
+          "attribute": "visual"
+        },
+        "Claude AI interface": {
+          "description": "A screen displaying a conversation with Claude AI, showing text input and response fields with a 'Follow Author' button.",
+          "attribute": "visual"
+        },
+        "RAG text screen": {
+          "description": "A blurred screen with the text 'What is Retrieval-Augmented Generation, aka RAG?' highlighted in yellow.",
+          "attribute": "visual"
+        },
+        "SpongeBob meme": {
+          "description": "A colorful image of SpongeBob with a rainbow background and the text 'AI AGENTS', accompanied by 'Too technical' and 'Too basic' labels.",
+          "attribute": "visual"
+        },
+        "Three-box graphic": {
+          "description": "A black background with three numbered white boxes that sequentially reveal icons and labels: 'ChatGPT (LLMs)', 'AI Workflows', and 'AI Agents'.",
+          "attribute": "visual"
+        },
+        "Headline graphic": {
+          "description": "A white card with black text reading 'How AI Agents Will Revolutionize Your Day-To-Day Life', categorized under 'INNOVATION > ENTERPRISE TECH'.",
+          "attribute": "visual"
+        },
+        "Man in suit": {
+          "description": "Wearing a dark suit and tie, speaking at a podium with a microphone in a formal setting.",
+          "attribute": "visual"
+        },
+        "Man with curly hair": {
+          "description": "Wearing a green shirt and glasses, speaking in a modern room with dark wood paneling and framed artwork.",
+          "attribute": "visual"
+        },
+        "Man with glasses at computer": {
+          "description": "Wearing glasses and a grey t-shirt, sitting at a desk with multiple monitors, one displaying 'Prompt injection' text.",
+          "attribute": "visual"
+        },
+        "Man in leather jacket": {
+          "description": "Wearing a black leather jacket and glasses, presenting on a stage with a 'NVIDIA NIM' logo behind him.",
+          "attribute": "visual"
+        },
+        "Man speaking into microphone": {
+          "description": "Wearing glasses and a grey button-up shirt, speaking into a microphone in a studio with shelves and books in the background, he narrates clearly and informatively about AI agents, explaining the video's purpose and structure.",
+          "attribute": "audio-visual"
+        },
+        "AI Agent Overview diagram": {
+          "description": "A technical flowchart showing components like Perception, Decision Making, and Action, with a robot icon and text boxes.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with typing sounds accompanying a Google search for 'ai vs. agi'. This quickly transitions into a rapid, glitchy audio montage of voices repeating \"AI,\" \"agentic,\" and \"agents,\" accompanying a series of quick cuts: Sundar Pichai speaking, a man with curly hair in a green shirt, a man in a suit at a podium, and a man in a black leather jacket presenting 'NVIDIA NIM'. A clear male voice, belonging to the man with glasses and a grey button-up shirt speaking into a microphone, then begins to narrate, explaining that most AI agent explanations are \"too technical or too basic.\" This is visually reinforced by an 'AI Agent Overview' diagram appearing, followed by a split-screen showing the diagram alongside a SpongeBob meme labeled 'AI AGENTS' with 'Too technical' and 'Too basic' options. The narration continues over a man with glasses working at a computer displaying a Claude AI interface, and a headline graphic reading 'How AI Agents Will Revolutionize Your Day-To-Day Life'. The narrator then outlines the video's \"simple 1-2-3 learning path,\" building on concepts like ChatGPT, then AI workflows, and finally AI agents. This explanation is synchronized with a graphic of three numbered boxes sequentially revealing 'ChatGPT (LLMs)', 'AI Workflows', and 'AI Agents'. The segment concludes with a blurred screen displaying 'What is Retrieval-Augmented Generation, aka RAG?', as the narrator mentions \"intimidating terms... like RAG.\""
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 2,
+      "summary": "The video begins with a blurred screen showing 'ReACT Agent Model' and 'Building from Scratch: A Hands-On Guide using Gemini', accompanied by a male voice stating that these agents are \"a lot simpler than you think.\" The scene shifts to a black background with the title 'LEVEL 1: LARGE LANGUAGE MODELS', featuring a man in a grey button-up shirt and glasses speaking into a microphone in a studio setting. A split-screen displays 'Large Language Models (LLMs)' labeled in a yellow box on the left, alongside logos for ChatGPT, Claude, and Gemini. The speaker explains that popular AI chatbots are applications built on LLMs, which excel at \"generating and editing text.\" An 'LLM Process Diagram' visualizes the 'Input → LLM → Output' flow, illustrating how human input is processed by the LLM based on its training data to produce output. A 'ChatGPT Interface Example' demonstrates this by generating a professional email in response to the prompt \"Draft an email to Elon Husky asking for a coffee chat.\" The speaker then probes ChatGPT with \"But what if I asked ChatGPT, when my next coffee chat is?\", to which the interface responds \"I don’t have access to your calendar,\" highlighted in red, demonstrating the LLM's inability to access personal information. The speaker reinforces this limitation, stating that LLMs \"doesn't know that information\" and \"doesn't have access to my calendar.\" A 'Key Traits of LLMs Slide' further clarifies that despite extensive training data, LLMs have restricted knowledge of proprietary information, such as personal or internal company data, underscoring this fundamental constraint.",
+      "involved_entities": {
+        "Key Traits of LLMs Slide": {
+          "description": "A black background with white text listing the first key trait: 'Despite being trained on vast amounts of data, they have limited knowledge of proprietary information: like our personal information or internal company data.' This slide appears as the speaker concludes his explanation of LLM limitations.",
+          "attribute": "audio-visual"
+        },
+        "RAG text screen": {
+          "description": "A blurred screen with the text 'What is Retrieval-Augmented Generation, aka RAG?' highlighted in yellow.",
+          "attribute": "visual"
+        },
+        "LLM Process Diagram": {
+          "description": "A visual flowchart showing 'Input → LLM → Output', which is explained by the speaker as the fundamental process where a human provides input and the LLM produces output based on its training data.",
+          "attribute": "audio-visual"
+        },
+        "AI Agent Overview diagram": {
+          "description": "A technical flowchart showing components like Perception, Decision Making, and Action, with a robot icon and text boxes.",
+          "attribute": "visual"
+        },
+        "Three-box graphic": {
+          "description": "A black background with three numbered white boxes that sequentially reveal icons and labels: 'ChatGPT (LLMs)', 'AI Workflows', and 'AI Agents'.",
+          "attribute": "visual"
+        },
+        "ChatGPT Interface Example": {
+          "description": "A dark-themed screen showing a user prompt to draft an email to Elon Musk and the generated email response, followed by a follow-up query about calendar access. The speaker uses this example to demonstrate both the LLM's text generation capability and its inability to access personal or proprietary information, as highlighted by the red 'I don’t have access to your calendar' response.",
+          "attribute": "audio-visual"
+        },
+        "Man speaking into microphone": {
+          "description": "Wearing glasses and a grey button-up shirt, speaking into a microphone in a studio with shelves and books in the background. He has a clear male voice, explaining the concepts of LLMs, their capabilities in generating and editing text, and their limitations regarding personal data.",
+          "attribute": "audio-visual"
+        },
+        "Headline graphic": {
+          "description": "A white card with black text reading 'How AI Agents Will Revolutionize Your Day-To-Day Life', categorized under 'INNOVATION > ENTERPRISE TECH'.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a blurred screen displaying 'ReACT Agent Model' and 'Building from Scratch: A Hands-On Guide using Gemini', as a male voice introduces the topic, stating these agents are \"a lot simpler than you think.\" It then transitions to a black background with the bold title 'LEVEL 1: LARGE LANGUAGE MODELS'. The speaker, a man wearing glasses and a grey button-up shirt, is seen on a split-screen, gesturing into a microphone in a studio setting, while on the left, a yellow box labels 'Large Language Models (LLMs)' with logos for ChatGPT, Claude, and Gemini. He explains that these popular AI chatbots are applications built on LLMs, which are \"fantastic at generating and editing text.\" An 'LLM Process Diagram' illustrates 'Input → LLM → Output' as he describes how a human provides input and the LLM produces output based on its training data. This is demonstrated with a 'ChatGPT Interface Example' where the prompt \"Draft an email to Elon Husky asking for a coffee chat\" generates a professional email. The speaker then poses a follow-up question: \"But what if I asked ChatGPT, when my next coffee chat is?\" The interface shows ChatGPT's limitation, responding \"I don’t have access to your calendar,\" highlighted in red. The speaker emphasizes that LLMs \"doesn't know that information\" and \"doesn't have access to my calendar.\" This leads to a 'Key Traits of LLMs Slide' which states that despite vast training data, LLMs have limited knowledge of proprietary information like personal or internal company data, reinforcing the core limitation."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 3,
+      "end_minute": 3,
+      "summary": "The segment begins with a black screen showing the title 'KEY TRAITS OF LLMs' as a male voice explains that LLMs possess limited knowledge of proprietary information and are passive, awaiting user prompts. The scene shifts to the man, identified as wearing glasses and a grey button-up shirt, speaking into a microphone within a studio environment featuring shelves and books. He introduces 'LEVEL 2: AI WORKFLOWS', transitioning the video to an 'Input → LLM → Output' LLM Process Diagram. The speaker elaborates on this flow, detailing how a user can instruct the LLM to execute a 'Search Query' to retrieve data from a Google Calendar. An example query, 'When is my coffee chat with Elon Husky?', is presented, successfully yielding the output 'It's tomorrow at 10AM!' by linking the LLM to the calendar. The speaker then illustrates a limitation with a failed query, 'What will the weather be like that day?', marked by a red 'X' to signify the LLM's inability to answer without a defined path to external weather data, as the audio abruptly ends during his explanation of the LLM's programmed search path.",
+      "involved_entities": {
+        "Key Traits of LLMs Slide": {
+          "description": "A black background with white text listing two key traits: limited knowledge of proprietary information and passivity of LLMs, which are explicitly detailed by the speaker.",
+          "attribute": "audio-visual"
+        },
+        "Three-box graphic": {
+          "description": "A black background with three numbered white boxes that sequentially reveal icons and labels: 'ChatGPT (LLMs)', 'AI Workflows', and 'AI Agents'.",
+          "attribute": "visual"
+        },
+        "Man speaking into microphone": {
+          "description": "Wearing glasses and a grey button-up shirt, speaking into a microphone in a studio with shelves and books in the background, explaining LLM traits and AI workflows in a clear, instructional male voice.",
+          "attribute": "audio-visual"
+        },
+        "LLM Process Diagram": {
+          "description": "A visual flowchart showing 'Input → LLM → Output' with a Google Calendar icon below the LLM, demonstrating integration for retrieving calendar data.",
+          "attribute": "visual"
+        },
+        "AI Workflows Diagram": {
+          "description": "A technical flowchart showing 'Input → LLM → Output' with a Google Calendar icon below the LLM, illustrating how LLMs can query external data sources to generate accurate responses, and later showing a failed query with a weather icon, all explained in detail by the speaker.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a black screen displaying the title 'KEY TRAITS OF LLMs' in bold white text, while a male voice explains that LLMs have limited knowledge of proprietary information and are passive, waiting for user prompts. The scene then transitions to the man, wearing glasses and a grey button-up shirt, speaking into a microphone in a studio setting with shelves and books in the background, as he introduces 'LEVEL 2: AI WORKFLOWS'. The video shifts to a diagram illustrating an 'Input → LLM → Output' flow, which the speaker elaborates on, explaining how a user can instruct the LLM to perform a 'Search Query' to fetch data from a Google Calendar. An example query, 'When is my coffee chat with Elon Husky?', is shown, successfully yielding the output 'It's tomorrow at 10AM!' by connecting the LLM to the calendar. The speaker then highlights a limitation, demonstrating a failed query, 'What will the weather be like that day?', with a red 'X' indicating the LLM cannot answer without an explicitly defined path to external weather data, as the audio cuts off while he explains the LLM's programmed search path."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 4,
+      "end_minute": 4,
+      "summary": "A man in glasses and a grey button-up shirt, seated in a studio with shelves and books, gestures while explaining AI concepts, clarifying that AI workflows follow human-defined 'control logic' and predefined paths, using an example of a workflow accessing Google Calendar but lacking weather information. The scene transitions to a black background with a dotted grid, displaying an 'AI WORKFLOW' diagram that evolves from 'Input → LLM → Output' to include a Google Calendar icon, then a weather icon, and finally a second LLM labeled '(text-to-audio)' to produce an audio output, illustrating how LLMs interact with external tools via bidirectional arrows. The speaker's voice narrates this expansion, suggesting adding steps to access weather via an API and using a text-to-audio model to speak the answer, which is then exemplified by a synthesized voice stating, \"The weather forecast for seeing Elon Husky is sunny, with a chance of being a good boy.\" The man reappears, now framed within a smaller video box, as the text 'AI WORKFLOW = HUMAN DECISION MAKER' appears, emphasizing that if a human is the decision-maker, there is no AI agent involvement, regardless of added steps. The video then shifts to a new screen titled 'RETRIEVAL AUGMENTED GENERATION (RAG)', showing three related video thumbnails and explanatory text, where the speaker defines RAG as a \"pro tip\" and a process that helps AI models \"look things up before they answer,\" a concept visually reinforced by the reappearance of Google Calendar and weather icons below the text.",
+      "involved_entities": {
+        "RAG Explanation Screen": {
+          "description": "A black background with the title 'RETRIEVAL AUGMENTED GENERATION (RAG)' in white, featuring three video thumbnails ('Agentic RAG Explained', 'AI AGENT VS ASSISTANT VS RAG', 'What is RAG?') above and explanatory text below, with Google Calendar and weather icons appearing at the bottom to illustrate the concept of external data retrieval, aligning with the speaker's definition of RAG as a process for AI models to 'look things up before they answer'.",
+          "attribute": "audio-visual"
+        },
+        "RAG text screen": {
+          "description": "A blurred screen with the text 'What is Retrieval-Augmented Generation, aka RAG?' highlighted in yellow, now replaced by a clear title 'RETRIEVAL AUGMENTED GENERATION (RAG)' with explanatory text and supporting icons.",
+          "attribute": "visual"
+        },
+        "Man speaking into microphone": {
+          "description": "Wearing glasses and a grey button-up shirt, speaking into a microphone in a studio with shelves and books in the background, using hand gestures to emphasize points, explaining AI concepts in a clear, instructional voice, and later reappearing in a smaller video box to further elaborate on human decision-making in AI workflows.",
+          "attribute": "audio-visual"
+        },
+        "LLM Process Diagram": {
+          "description": "A visual flowchart showing 'Input → LLM → Output' with a Google Calendar icon below the LLM, demonstrating integration for retrieving calendar data, which later expands to include a weather icon and a second LLM for text-to-audio conversion.",
+          "attribute": "visual"
+        },
+        "AI Workflows Diagram": {
+          "description": "A visual flowchart on a black, dotted grid, initially showing 'Input → LLM → Output', which dynamically expands to include a Google Calendar icon, then a weather icon, and finally a second LLM labeled '(text-to-audio)' to produce an audio output, illustrating how LLMs interact with external tools via bidirectional arrows to retrieve data and generate spoken responses, as described by the speaker.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a man in glasses and a grey button-up shirt, seated in a studio with shelves and books, gesturing as he explains AI concepts. He clarifies that AI workflows, like one accessing Google Calendar but lacking weather information, follow human-defined \"control logic\" and predefined paths. The scene transitions to a black background with a dotted grid, displaying an 'AI WORKFLOW' diagram that evolves from 'Input → LLM → Output' to include a Google Calendar icon, then a weather icon, and finally a second LLM labeled '(text-to-audio)' to produce an audio output, illustrating how LLMs interact with external tools via bidirectional arrows. The speaker's voice narrates this expansion, suggesting adding steps to access weather via an API and using a text-to-audio model to speak the answer, which is then exemplified by a synthesized voice stating, \"The weather forecast for seeing Elon Husky is sunny, with a chance of being a good boy.\" The man reappears, now framed within a smaller video box, as the text 'AI WORKFLOW = HUMAN DECISION MAKER' appears. He emphasizes that no matter how many steps are added, if a human is the decision-maker, there is no AI agent involvement. The video then shifts to a new screen titled 'RETRIEVAL AUGMENTED GENERATION (RAG)', showing three related video thumbnails and explanatory text. The speaker defines RAG as a \"pro tip\" and a process that helps AI models \"look things up before they answer,\" a concept visually reinforced by the reappearance of Google Calendar and weather icons below the text."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 5,
+      "end_minute": 5,
+      "summary": "The AI Workflow Example begins with a black screen and a dotted grid, transitioning to the Jeff's AI Toolkit Graphic on a laptop, which advertises a free email course on AI tools with icons and a 'LINK DOWN BELOW' banner. The Man speaking into microphone, Jeff, introduces his free AI toolkit, designed to help users master essential AI tools and workflows, noting a link is provided below. The scene then shifts to a screen recording of the Workflow Automation Platform Interface, where Jeff, speaking from his studio, details a real-world AI workflow example. He explains the process starts with Google Sheets to compile news article links, followed by Perplexity to summarize them, as depicted in the workflow diagram showing a 'Google Sheets' integration connected to a 'Summarize article' module. A 'Router' module then branches the process to use Claude AI for drafting both LinkedIn and Instagram posts. Jeff emphasizes that this entire workflow is scheduled to run automatically every day at 8:00 AM. While gesturing and pointing to the screen, the 'Summarize article' module is highlighted, displaying a text response that summarizes a BBC News article. Jeff concludes by reiterating the automated, AI-driven nature of the workflow, guiding viewers through the predefined steps, data flow, and decision-making, and reminding them of the daily 8 AM execution.",
+      "involved_entities": {
+        "Man speaking into microphone": {
+          "description": "The narrator, identified as Jeff, wearing glasses and a grey button-up shirt, speaks clearly into a microphone from a studio with shelves and books, using hand gestures to explain AI workflows and promote his 'JEFF'S AI TOOLKIT' email course. He details a workflow created on 'make.com' using Google Sheets, Perplexity, and Claude.",
+          "attribute": "audio-visual"
+        },
+        "Jeff's AI Toolkit Graphic": {
+          "description": "A promotional graphic for 'JEFF'S AI TOOLKIT' is displayed on a laptop screen, advertising a free email course for AI tools with various AI platform icons and a 'LINK DOWN BELOW' banner, directly referenced by the narrator as his own offering.",
+          "attribute": "audio-visual"
+        },
+        "AI Workflow Example": {
+          "description": "An automated workflow example, created on 'make.com', visually demonstrates steps starting with 'Compile links in Sheets' using Google Sheets, followed by 'Summarize article' using Perplexity AI, then a 'Router' branching to 'Draft LinkedIn Post' and 'Draft Instagram Post' using Claude AI, all scheduled to run daily at 8:00 AM.",
+          "attribute": "audio-visual"
+        },
+        "Workflow Automation Platform Interface": {
+          "description": "A screen recording of the 'make.com' workflow automation platform interface, showing a workflow builder with modules for Google Sheets, AI summarization (Perplexity), and social media post drafting (Claude), connected by dotted lines illustrating data flow as explained by the narrator.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a black screen featuring a dotted grid, which transitions to a promotional graphic for 'JEFF'S AI TOOLKIT' displayed on a laptop, advertising a free email course for AI tools with various icons and a 'LINK DOWN BELOW' banner. The narrator, Jeff, introduces his free AI toolkit, stating it helps master essential AI tools and workflows, with a link provided below. The scene then shifts to a screen recording of the 'make.com' workflow automation platform, where Jeff, visible in an inset video speaking into a microphone from his studio, begins to explain a real-world AI workflow example. He details the process: first, using Google Sheets to compile links to news articles, then employing Perplexity to summarize those articles. The workflow diagram shows a 'Google Sheets' integration connected to a 'Summarize article' module. Jeff continues, explaining how a 'Router' module then branches to use Claude AI to draft both LinkedIn and Instagram posts. He highlights that this entire workflow is scheduled to run automatically every day at 8:00 AM. As Jeff gestures and points to different parts of the screen, the 'Summarize article' module is highlighted, displaying a text response summarizing a BBC News article. He emphasizes the automated, AI-driven nature of the workflow, guiding viewers through the predefined steps and the flow of data and decision-making, concluding with a reminder about the daily 8 AM run."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 6,
+      "end_minute": 11,
+      "summary": "A man, wearing glasses and a grey button-up shirt, speaks into a microphone in a studio, explaining the evolution of AI, starting with LLMs where input yields output, progressing to AI Workflows where humans program paths for LLMs to use external tools like Google Calendar, and finally detailing AI Agents. For AI Agents, a diagram shows a robot icon with a 'Goal' leading to 'AI AGENT', which includes 'Reasoning', 'Act (via tools)' with icons for calendar, document, weather, and AI, and 'Iteration'. The AI agent receives a goal, reasons, acts using tools, observes results, and iterates to achieve the final output, with the LLM as the decision-maker. He emphasizes that the human decision-maker must be replaced by an LLM for AI agents to reason, outlining a three-step process: Compile links, Summarize articles, and Write posts, followed by the 'ACT (via tools)' phase. The man demonstrates this with a workflow automation platform interface showing steps like 'Compile links in Sheets', 'Summarize article', and a 'Router' branching to 'Draft LinkedIn Post' and 'Draft Instagram Post', alongside a Claude AI model configuration panel. He explains that if he dislikes an AI-generated LinkedIn post, he manually rewrites the prompt for Claude, highlighting this 'trial and error iteration' as a current human task, but an AI agent can autonomously add another LLM to critique its own output based on best practices until criteria are met. The ReAct framework, consisting of 'Reasoning + Act', is presented as the most common configuration for AI agents. The man also demonstrates a LandingAI video search interface, typing 'skier' and receiving 10 clips from 25 videos, with an AI overlay identifying the skier. He explains the AI agent is 'reasoning what a skier looks like' and 'acting by looking at clips in video footage, trying to identify what it thinks a skier is, indexing that clip, and then returning that clip'. He concludes by mentioning a demo agentic workflow and video Q&A app, introducing Andrew Ng and a VisionAgent interface with tasks like 'Detect how close sharks are to surfers' and 'Visual Question Answering', and suggests learning to build a prompt database in Notion before signing off.",
+      "involved_entities": {
+        "Man speaking into microphone": {
+          "description": "Wearing glasses and a grey button-up shirt over a white t-shirt, speaking into a large black microphone in a studio with shelves and books in the background, smiling with eyes closed as a pinkish-red gradient overlay intensifies and fades to black. He speaks in a clear, friendly, and instructional voice, concluding a segment by suggesting viewers 'learn how to build a prompt database in Notion' and signing off with 'See you all the next video in the meantime. Have a great one.'",
+          "attribute": "audio-visual"
+        },
+        "AI Workflow Example": {
+          "description": "A visual representation of an automated workflow on a platform, starting with 'Compile links in Sheets', followed by 'Summarize article' using an AI tool, then a 'Router' branching into 'Draft LinkedIn Post' and 'Draft Instagram Post', all set to run daily at 8:00 AM.",
+          "attribute": "visual"
+        },
+        "Workflow Automation Platform Interface": {
+          "description": "A screen recording of a workflow builder interface, displaying modules for 'Compile links in Sheets', 'Summarize article', and a 'Router' branching into 'Draft LinkedIn Post' and 'Draft Instagram Post'. The interface also shows a Claude AI model configuration panel, which the speaker refers to when discussing manual prompt refinement for social media posts.",
+          "attribute": "audio-visual"
+        },
+        "ReAct Framework title card": {
+          "description": "A black background with the text 'ReAct Framework = Reasoning + Act' in bold, colorful letters (blue 'Reasoning', orange 'Act'), with a dotted grid pattern.",
+          "attribute": "visual"
+        },
+        "AI Agent Overview diagram": {
+          "description": "A technical flowchart showing components like Perception, Decision Making, and Action, with a robot icon and text boxes, now expanded to include 'Reasoning', 'Act (via tools)' with icons for calendar, document, weather, and AI, and 'Iteration' with the text 'Hmm... let's try that again.'",
+          "attribute": "visual"
+        },
+        "VisionAgent Interface": {
+          "description": "A web-based interface displaying a soccer video with a prompt to 'Describe your vision task' and example programs, presented by the speaker as a 'real-world AI agent example' and a 'demo website' created by Andrew Ng, showcasing how an AI agent works.",
+          "attribute": "audio-visual"
+        },
+        "Skier video clip": {
+          "description": "A dynamic video clip showing a skier performing jumps in a snowy mountain environment, with AI annotations highlighting the skier and displaying confidence levels. The man uses this clip to illustrate the AI's identification process, explaining how the AI 'reasons' what a skier looks like and then 'acts' by finding and indexing relevant footage, as evidenced by the AI overlay 'I THINK THIS IS A SKIER'.",
+          "attribute": "audio-visual"
+        },
+        "Football video clip": {
+          "description": "A video clip from a football game showing players in action, including a tackle, with AI-generated confidence labels for the search term 'football'. This clip serves as another example of the AI's versatile search capabilities, demonstrating its ability to identify different subjects.",
+          "attribute": "audio-visual"
+        },
+        "LandingAI interface": {
+          "description": "A web-based video search platform with a search bar, thumbnails of indexed videos, and a video player that displays clips with AI-generated annotations and confidence levels. The man uses it to demonstrate the AI vision agent's capabilities, explaining how it identifies and indexes objects like 'skier' and 'football' without human tagging, highlighting its technical complexity while emphasizing its user-friendly front-end.",
+          "attribute": "audio-visual"
+        },
+        "Three-level AI Progression Diagram": {
+          "description": "This visual, presented on a black background with white and yellow text, dotted lines, and various icons (Google Calendar, robot, document, weather, AI), dynamically illustrates the evolution from simple 'LLMS (level 1)' (Input → LLM → Output) to 'AI WORKFLOWS (level 2)' (involving external tools like Google Calendar) and finally to 'AI AGENTS (level 3)' (showing a robot icon, reasoning, acting via tools, and iteration). The diagram's progression is directly narrated and explained by the speaker, with specific levels highlighted as he describes their functions and key characteristics.",
+          "attribute": "audio-visual"
+        },
+        "LLM Process Diagram": {
+          "description": "A visual flowchart showing 'Input → LLM → Output' with a Google Calendar icon below the LLM, demonstrating integration for retrieving calendar data, which later expands to include a weather icon and a second LLM for text-to-audio conversion.",
+          "attribute": "visual"
+        },
+        "AI Workflows Diagram": {
+          "description": "A technical flowchart showing 'Input → LLM → Output' with a Google Calendar icon below the LLM, illustrating how LLMs can query external data sources to generate accurate responses, evolving to include bidirectional arrows and a second LLM for audio output.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of a workflow automation platform interface, displaying steps like 'Compile links in Sheets', 'Summarize article', and a 'Router' branching into 'Draft LinkedIn Post' and 'Draft Instagram Post', along with a Claude AI model configuration panel. A man, wearing glasses and a grey button-up shirt, is then seen speaking into a microphone in a studio setting with shelves and books in the background, gesturing expressively. He explains that if he tests this workflow and dislikes the AI-generated LinkedIn post, he manually rewrites the prompt for Claude, emphasizing this 'trial and error iteration' is currently a human task. The scene cuts to a black screen with 'LEVEL 3: AI AGENTS' in bold white letters, as the man announces, \"All right, level three, AI agents.\" A diagram then appears, illustrating the process with 'REASON' at the top, detailing 'Step 1: Compile links', 'Step 2: Summarize articles', and 'Step 3: Write posts'. Below this, 'ACT (via tools)' is displayed with icons for Google Sheets, an AI summarization tool, and an AI post drafting tool. The man continues to speak and gesture, elaborating on his role as a human decision-maker in creating social media posts from news articles, outlining the need to 'reason' by compiling, summarizing, and writing posts, and then to 'act' by using tools like Google Sheets to link articles, Perplexity for real-time summarization, and Claude for copywriting.",
+        "The video opens with a Man, wearing glasses and a grey button-up shirt, speaking into a microphone in a studio setting with shelves and books in the background. He uses hand gestures as he articulately explains, \"This is the most important sentence in this entire video... The one massive change that has to happen... is for me, the human decision maker, to be replaced by an LLM. In other words, the AI agent must reason.\" He then introduces a three-step process visually: Step 1: Compile links (represented by a Google Sheets icon), Step 2: Summarize articles (a leaf-like symbol), and Step 3: Write posts (an AI logo). The screen transitions to a robot icon above the 'REASON' label with a loading animation, as the Man's voice asks, \"What's the most efficient way to compile these news articles? Should I copy and paste each article into a word document?\" A synthesized AI voice responds, \"No, it's probably easier to compile links to those articles and then use another tool to fetch the data,\" to which the Man confirms, \"Yes, that makes more sense.\" The video then highlights the 'ACT (via tools)' phase, visually crossing out Word and Excel icons and replacing them with a Google Sheets icon, as the Man's voice states, \"The AI agent must act, aka do things via tools.\" He further queries, \"Should I use Microsoft Word to compile links?\" and \"What about Excel?\", prompting the AI voice to explain, \"No, inserting links directly into rows is way more efficient... the user has already connected their Google account with make.com, so Google Sheets is the better option.\" The scene shifts to a full-screen view of the Man, gesturing as he delivers a \"Pro tip,\" explaining that \"the most common configuration for AI agents is the React framework. All AI agents must reason and act, so React.\" The video concludes with a title card displaying 'ReAct Framework = Reasoning + Act' in bold, colorful text against a dark, dotted background.",
+        "The video opens with the Man speaking into microphone, wearing glasses and a grey button-up shirt, gesturing expressively in a studio, explaining in a clear, explanatory voice how AI agents iterate. He references a previous manual prompt rewrite, highlighting that a human would need to repeat this iterative process multiple times. The scene then transitions to an 'AI Workflow (human decision maker)' diagram, illustrating steps like 'Compile links,' 'Summarize,' 'Write post,' and 'Post,' with a blue dotted 'ITERATION' feedback loop. The Man's voice continues, explaining how an AI agent can autonomously add another LLM to critique its own output. A yellow text box appears, detailing this process: '1. How do I make sure it’s good? 2. I’ll ask another LLM to critique the post based on best practices. 3. Let’s repeat this until the best practices criteria are met.' The speaker elaborates on this, describing how an LLM would critique a LinkedIn post based on best practices until the criteria are met, leading to the 'final output' document with a checkmark. He then transitions, stating this was a hypothetical example and introduces a 'real-world AI agent example.' The scene cuts back to the Man speaking into microphone, who then moves to a presentation titled 'DEMO AGENTIC WORKFLOW AND VIDEO Q&A APP' on a large stage. He introduces Andrew Ng and his demo website, as the screen displays a VisionAgent interface with a soccer video and example tasks like 'Detect how close sharks are to surfers' and 'Visual Question Answering,' while the Man continues his explanation.",
+        "The segment opens with a man, wearing glasses and a grey button-up shirt, speaking clearly into a microphone in a studio setting, gesturing with his hands against a background of shelves filled with books and a brown striped wall. He demonstrates the LandingAI video search interface, explaining how the \"AI vision agent\" works as he types 'skier' into the search bar and presses enter. The interface quickly returns 10 clips from 25 videos, displaying thumbnails of snowy mountain scenes with skiers, each labeled with confidence levels like 'High' or 'Medium'. He clicks on a clip, which opens a video player showing a skier mid-jump in a snowy mountain environment. As the video plays, an AI-generated overlay appears with a robot icon and the text 'I THINK THIS IS A SKIER', highlighting the skier in a yellow box. The man continues to explain, emphasizing with hand gestures, that the AI is \"reasoning what a skier looks like\" and \"acting by looking at clips in video footage, trying to identify what it thinks a skier is, indexing that clip, and then returning that clip to us.\" He highlights that an AI agent performed this task, unlike a human manually reviewing and tagging footage. The scene then transitions to a new search for 'football', displaying clips from a football game, including a tackle on the field, as the man concludes his explanation about the demo's purpose: providing a simple, functional app for the average user without requiring them to understand the underlying technical complexities.",
+        "The video opens with a man, wearing glasses and a grey button-up shirt, speaking into a microphone in a studio with shelves and books, using hand gestures as he explains in a clear, explanatory voice that he's building his own basic AI agent and asks for tutorial suggestions. He then transitions to a dark-themed interface, introducing a simplified visualization of three AI technology levels. He first describes 'LLMS (level 1)' with a diagram showing 'Input → LLM → Output', explaining that an input is provided, and the LLM responds with an output. Next, he moves to 'AI WORKFLOWS (level 2)', where the diagram expands to include a Google Calendar icon, illustrating how a human programs a path for the LLM to retrieve information from external tools. Finally, he details 'AI AGENTS (level 3)', highlighted in yellow, with a complex diagram featuring a robot icon, 'Goal → AI AGENT', and components like 'Reasoning', 'Act (via tools)' (with icons for calendar, document, weather, and AI), and 'Iteration', emphasizing that the AI agent receives a goal, performs reasoning, takes action, observes results, and iterates to achieve the final output, with the LLM acting as the decision-maker.",
+        "The segment opens with a close-up of a man, wearing glasses and a grey button-up shirt over a white t-shirt, speaking into a large black microphone in a studio setting with shelves of books and decorative items in the background. He concludes his speech in a friendly, instructional tone, stating, \"found this helpful, you might want to learn how to build a prompt database in Notion.\" As he smiles slightly with his eyes closed, suggesting emphasis, a soft, warm lighting is enhanced by a subtle pinkish-red gradient overlay that gradually intensifies, transitioning the frame into deep red and purple hues. He then signs off, saying, \"See you all the next video in the meantime. Have a great one,\" before the visual effect completely fades to black, marking the end of the segment."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Sundar Pichai": "Wearing glasses and a grey sweater, speaking with hand gestures in front of a beige curtain background.",
+    "Claude AI interface": "A screen displaying a conversation with Claude AI, showing text input and response fields with a 'Follow Author' button.",
+    "RAG text screen": "A blurred screen with the text 'What is Retrieval-Augmented Generation, aka RAG?' highlighted in yellow, now replaced by a clear title 'RETRIEVAL AUGMENTED GENERATION (RAG)' with explanatory text and supporting icons.",
+    "SpongeBob meme": "A colorful image of SpongeBob with a rainbow background and the text 'AI AGENTS', accompanied by 'Too technical' and 'Too basic' labels.",
+    "Three-box graphic": "A black background with three numbered white boxes that sequentially reveal icons and labels: 'ChatGPT (LLMs)', 'AI Workflows', and 'AI Agents'.",
+    "Headline graphic": "A white card with black text reading 'How AI Agents Will Revolutionize Your Day-To-Day Life', categorized under 'INNOVATION > ENTERPRISE TECH'.",
+    "Man in suit": "Wearing a dark suit and tie, speaking at a podium with a microphone in a formal setting.",
+    "Man with curly hair": "Wearing a green shirt and glasses, speaking in a modern room with dark wood paneling and framed artwork.",
+    "Man with glasses at computer": "Wearing glasses and a grey t-shirt, sitting at a desk with multiple monitors, one displaying 'Prompt injection' text.",
+    "Man in leather jacket": "Wearing a black leather jacket and glasses, presenting on a stage with a 'NVIDIA NIM' logo behind him.",
+    "Man speaking into microphone": "Wearing glasses and a grey button-up shirt over a white t-shirt, speaking into a large black microphone in a studio with shelves and books in the background, smiling with eyes closed as a pinkish-red gradient overlay intensifies and fades to black. He speaks in a clear, friendly, and instructional voice, concluding a segment by suggesting viewers 'learn how to build a prompt database in Notion' and signing off with 'See you all the next video in the meantime. Have a great one.'",
+    "AI Agent Overview diagram": "A technical flowchart showing components like Perception, Decision Making, and Action, with a robot icon and text boxes, now expanded to include 'Reasoning', 'Act (via tools)' with icons for calendar, document, weather, and AI, and 'Iteration' with the text 'Hmm... let's try that again.'",
+    "Key Traits of LLMs Slide": "A black background with white text listing two key traits: limited knowledge of proprietary information and passivity of LLMs, which are explicitly detailed by the speaker.",
+    "LLM Process Diagram": "A visual flowchart showing 'Input → LLM → Output' with a Google Calendar icon below the LLM, demonstrating integration for retrieving calendar data, which later expands to include a weather icon and a second LLM for text-to-audio conversion.",
+    "ChatGPT Interface Example": "A dark-themed screen showing a user prompt to draft an email to Elon Musk and the generated email response, followed by a follow-up query about calendar access. The speaker uses this example to demonstrate both the LLM's text generation capability and its inability to access personal or proprietary information, as highlighted by the red 'I don’t have access to your calendar' response.",
+    "AI Workflows Diagram": "A technical flowchart showing 'Input → LLM → Output' with a Google Calendar icon below the LLM, illustrating how LLMs can query external data sources to generate accurate responses, evolving to include bidirectional arrows and a second LLM for audio output.",
+    "RAG Explanation Screen": "A black background with the title 'RETRIEVAL AUGMENTED GENERATION (RAG)' in white, featuring three video thumbnails ('Agentic RAG Explained', 'AI AGENT VS ASSISTANT VS RAG', 'What is RAG?') above and explanatory text below, with Google Calendar and weather icons appearing at the bottom to illustrate the concept of external data retrieval, aligning with the speaker's definition of RAG as a process for AI models to 'look things up before they answer'.",
+    "Jeff's AI Toolkit Graphic": "A promotional graphic for 'JEFF'S AI TOOLKIT' is displayed on a laptop screen, advertising a free email course for AI tools with various AI platform icons and a 'LINK DOWN BELOW' banner, directly referenced by the narrator as his own offering.",
+    "AI Workflow Example": "A visual representation of an automated workflow on a platform, starting with 'Compile links in Sheets', followed by 'Summarize article' using an AI tool, then a 'Router' branching into 'Draft LinkedIn Post' and 'Draft Instagram Post', all set to run daily at 8:00 AM.",
+    "Workflow Automation Platform Interface": "A screen recording of a workflow builder interface, displaying modules for 'Compile links in Sheets', 'Summarize article', and a 'Router' branching into 'Draft LinkedIn Post' and 'Draft Instagram Post'. The interface also shows a Claude AI model configuration panel, which the speaker refers to when discussing manual prompt refinement for social media posts.",
+    "ReAct Framework title card": "A black background with the text 'ReAct Framework = Reasoning + Act' in bold, colorful letters (blue 'Reasoning', orange 'Act'), with a dotted grid pattern.",
+    "VisionAgent Interface": "A web-based interface displaying a soccer video with a prompt to 'Describe your vision task' and example programs, presented by the speaker as a 'real-world AI agent example' and a 'demo website' created by Andrew Ng, showcasing how an AI agent works.",
+    "Skier video clip": "A dynamic video clip showing a skier performing jumps in a snowy mountain environment, with AI annotations highlighting the skier and displaying confidence levels. The man uses this clip to illustrate the AI's identification process, explaining how the AI 'reasons' what a skier looks like and then 'acts' by finding and indexing relevant footage, as evidenced by the AI overlay 'I THINK THIS IS A SKIER'.",
+    "Football video clip": "A video clip from a football game showing players in action, including a tackle, with AI-generated confidence labels for the search term 'football'. This clip serves as another example of the AI's versatile search capabilities, demonstrating its ability to identify different subjects.",
+    "LandingAI interface": "A web-based video search platform with a search bar, thumbnails of indexed videos, and a video player that displays clips with AI-generated annotations and confidence levels. The man uses it to demonstrate the AI vision agent's capabilities, explaining how it identifies and indexes objects like 'skier' and 'football' without human tagging, highlighting its technical complexity while emphasizing its user-friendly front-end.",
+    "Three-level AI Progression Diagram": "This visual, presented on a black background with white and yellow text, dotted lines, and various icons (Google Calendar, robot, document, weather, AI), dynamically illustrates the evolution from simple 'LLMS (level 1)' (Input → LLM → Output) to 'AI WORKFLOWS (level 2)' (involving external tools like Google Calendar) and finally to 'AI AGENTS (level 3)' (showing a robot icon, reasoning, acting via tools, and iteration). The diagram's progression is directly narrated and explained by the speaker, with specific levels highlighted as he describes their functions and key characteristics."
+  }
+}

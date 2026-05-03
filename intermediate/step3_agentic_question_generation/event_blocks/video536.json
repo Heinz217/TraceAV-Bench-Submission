@@ -1,0 +1,778 @@
+{
+  "video_id": "video536",
+  "audio_id": "video536_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "A man, identified by his glasses, dark t-shirt, goatee, and tied-back hair, stands outside a Dollar Tree store, accepting a challenge to create a gourmet three-course meal using only dollar store ingredients, adhering to rules of no fancy equipment and the need to impress a judge. Transitioning inside, he notes the lack of fresh produce but finds frozen options, selecting \"Golden Chef\" vegetable oil and a bag of Nancy All Purpose Flour for $1.49, remarking on the store's $1.25 pricing despite its name. Acknowledging incomplete purchases, he mentions visiting another store for Chestnut Hill Whole Milk ($1.00), eggs, vanilla ice cream, and baking powder. Returning to the Dollar Tree, he picks up \"Orchard Pure\" orange juice ($1.79), questioning its \"100% juice\" claim due to being from concentrate, followed by garlic powder ($1.25), a netted bag of red bell peppers ($1.25), initially mistaken for red onions and noted for a $2.49 price, and a package of jalapeño peppers ($2.49). The scene ends with a close-up of Mrs. Baird’s Grab 'n Go Frosted Donuts as the man exclaims, \"Ah, damn,\" with on-screen text reinforcing ingredient prices and budget limitations.",
+      "involved_entities": {
+        "Dollar Tree Store": {
+          "description": "A retail store with green and white branding, featuring aisles stocked with budget-friendly items, which the man notes lacks fresh food but has frozen options, and where he observes that despite the name, not everything is $1.00.",
+          "attribute": "audio-visual"
+        },
+        "Jalapeño Peppers": {
+          "description": "A clear plastic package labeled 'Jalapeño Peppers' priced at $2.49, which the man verbally identifies as he selects them.",
+          "attribute": "audio-visual"
+        },
+        "Whole Milk": {
+          "description": "A white carton labeled 'Chestnut Hill' with a price tag of $1.00, which the man mentions finding at 'the next store' after the Dollar Tree.",
+          "attribute": "audio-visual"
+        },
+        "Garlic Powder": {
+          "description": "A small container with a red cap, priced at $1.25, which the man verbally identifies as he picks it up.",
+          "attribute": "audio-visual"
+        },
+        "Man": {
+          "description": "A man with glasses, a dark t-shirt, a goatee, and his hair tied back, speaking directly to the camera in a clear, conversational voice, outlining a gourmet cooking challenge using only Dollar Store ingredients, commenting on store offerings and prices, and exclaiming 'Ah, damn' at the end.",
+          "attribute": "audio-visual"
+        },
+        "Red Bell Peppers": {
+          "description": "A netted bag of red bell peppers, priced at $1.25, which the man initially misidentifies as red onions and comments on a $2.49 price for a whole bag.",
+          "attribute": "audio-visual"
+        },
+        "Nancy All Purpose Flour": {
+          "description": "A white bag with blue checkered design and a woman’s illustration, priced at $1.49, which the man picks up with an enthusiastic 'let's go!'",
+          "attribute": "audio-visual"
+        },
+        "Orange Juice": {
+          "description": "A green and white carton labeled 'Orchard Pure' priced at $1.79, which the man questions for being labeled '100%' despite being 'from concentrate'.",
+          "attribute": "audio-visual"
+        },
+        "Mrs. Baird’s Grab 'n Go Donuts": {
+          "description": "Blue and white boxes of frosted and powdered sugar donuts displayed on a shelf.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a man, wearing glasses, a dark t-shirt, and a goatee with his hair tied back, standing outside a Dollar Tree store. He speaks directly to the camera in a clear, conversational voice, outlining his challenge: to create a gourmet three-course meal using only ingredients from a dollar store, emphasizing that he comes from fine dining but is challenging himself to use only Dollar Store ingredients, with rules like no fancy equipment and the need to \"wow our judge.\" On-screen text highlights these challenge rules. The scene transitions inside the Dollar Tree, where the man browses aisles, commenting that \"they don't have any fresh food here, which is a problem,\" but \"they have frozen stuff.\" He selects a bottle of \"Golden Chef\" vegetable oil, then a bag of Nancy All Purpose Flour, priced at $1.49, exclaiming \"let's go!\" He notes the store's pricing, stating, \"They call it Dollar Tree, but everything is $1.25,\" and mentions \"inflation's real.\" After acknowledging they \"didn't get everything we needed here,\" he states they \"went to the next store\" where he found milk (a carton of Chestnut Hill Whole Milk, priced at $1.00), eggs, vanilla ice cream, and baking powder. Back in the Dollar Tree, he picks up a carton of \"Orchard Pure\" orange juice, priced at $1.79, questioning, \"How can you legally say 100% orange juice and do that?\" as he notes it's \"from concentrate.\" He then grabs a container of garlic powder, priced at $1.25, a netted bag of red bell peppers, priced at $1.25, which he initially mistakes for red onions and comments on a $2.49 price for a whole bag, and a package of jalapeño peppers, priced at $2.49. The video concludes with a close-up of Mrs. Baird’s Grab 'n Go Frosted Donuts on a shelf, while the man exclaims \"Ah, damn.\" On-screen text continues to display ingredient prices, emphasizing the budget constraints."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 2,
+      "summary": "The Man navigates a Dollar Tree Store, selecting items such as dried apricots, Nancy All Purpose Flour, and Shin Ramyun noodles, while narrating his shopping choices and noting prices like $1.49 for dried apricots and $1.29 for sliced peaches, ultimately spending $47.86. Transitioning to a modern kitchen, he announces a cookbook and a pop-up event in Houston on Monday, May 1st, offering free baked goods. He then prepares Shin Ramyun noodles in a silver cooking pot on an induction cooktop, describing it as a 'dipping ramen amuse-bouche,' adding seasoning, the noodles, and their included packets, and finally cracking an egg into the boiling mixture, with a 5-minute cooking time indicated.",
+      "involved_entities": {
+        "Dollar Tree Store": {
+          "description": "A retail store with green and white branding, featuring aisles stocked with budget-friendly items. The Man's narration details his purchases of canned pineapple, peaches, dried apricots, chorizo, sugar, and various ramen types from this store.",
+          "attribute": "audio-visual"
+        },
+        "Jalapeño Peppers": {
+          "description": "A clear plastic package labeled 'Jalapeño Peppers' priced at $2.49, visible on the shelf during shopping.",
+          "attribute": "visual"
+        },
+        "Whole Milk": {
+          "description": "A white carton labeled 'Chestnut Hill' with a price tag of $1.00, visible on the shelf during shopping.",
+          "attribute": "visual"
+        },
+        "Cooking Pot": {
+          "description": "A silver saucepan with a long handle, used to cook the noodles and egg, following the Man's directions to boil the ingredients.",
+          "attribute": "audio-visual"
+        },
+        "Garlic Powder": {
+          "description": "A small container with a red cap, priced at $1.25, visible on the shelf during shopping.",
+          "attribute": "visual"
+        },
+        "Man": {
+          "description": "A man with glasses, a dark t-shirt, a goatee, and his hair tied back, seen shopping in a Dollar Tree store and later cooking in a modern kitchen. He is the sole speaker, narrating his shopping choices, promoting a Houston event with \"free baked goods,\" and providing detailed cooking instructions for Shin Ramyun in a clear, engaging voice.",
+          "attribute": "audio-visual"
+        },
+        "Kitchen Appliances": {
+          "description": "A stand mixer, toaster, and microwave visible in the background of the modern kitchen setting.",
+          "attribute": "visual"
+        },
+        "Red Bell Peppers": {
+          "description": "A netted bag of red bell peppers, priced at $1.25, visible on the shelf during shopping.",
+          "attribute": "visual"
+        },
+        "Shin Ramyun Noodles": {
+          "description": "A red and black cup of spicy noodles, shown being opened and cooked in a pot on an induction cooktop. The Man explicitly refers to it as \"Shin, the overlord of instant ramen,\" and provides step-by-step instructions for its preparation, including adding seasoning and an egg.",
+          "attribute": "audio-visual"
+        },
+        "Induction Cooktop": {
+          "description": "A black, flat-top electric cooktop with digital controls, used to boil the Shin Ramyun noodles as per the Man's cooking instructions.",
+          "attribute": "audio-visual"
+        },
+        "Spice Blend": {
+          "description": "A white plate with a mix of red and brown spices, shown before cooking. The Man's instructions to add \"seasoning\" imply the use of this blend in the noodle preparation.",
+          "attribute": "audio-visual"
+        },
+        "Nancy All Purpose Flour": {
+          "description": "A white bag with blue checkered design and a woman’s illustration, priced at $1.49, visible on the shelf during shopping.",
+          "attribute": "visual"
+        },
+        "Orange Juice": {
+          "description": "A green and white carton labeled 'Orchard Pure' priced at $1.79, visible on the shelf during shopping.",
+          "attribute": "visual"
+        },
+        "Egg": {
+          "description": "A single yellow egg cracked into the boiling noodle pot, added during the final cooking step.",
+          "attribute": "visual"
+        },
+        "Mrs. Baird’s Grab 'n Go Donuts": {
+          "description": "Blue and white boxes of frosted and powdered sugar donuts displayed on a shelf, visible during shopping.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a close-up of canned pineapple slices on a store shelf, as the Man's voice narrates his shopping choices, noting \"fresh pineapple\" versus \"canned\" and mentioning \"peaches\" and \"dried apricots.\" He is then seen in a Dollar Tree Store, holding a pink basket and selecting items like dried apricots, which he \"look[s] everywhere for,\" and other pantry staples such as flour, sugar, and various canned goods. On-screen text displays prices like $1.49 for dried apricots and $1.29 for sliced peaches. The Man's voice continues, discussing \"all sorts of ramen,\" specifically highlighting \"Shin\" Ramyun as he walks through the aisles. A full list of purchased items and their prices appears, culminating in a total of $47.86, celebrated with confetti, while the Man states, \"Here's a list of everything we bought and the prices for a total of this.\" The scene transitions to the Man in a modern kitchen with white cabinets and a gray tiled backsplash, speaking directly to the camera. He makes a \"very important note\" about an upcoming cookbook and then promotes a pop-up event in Houston, emphasizing 'HOUSTON, TX' and 'MONDAY, MAY 1ST' with bold yellow text overlays, offering \"free baked goods for whoever comes\" and directing viewers to a 'LINK IN DESCRIPTION' for details. He then transitions \"back to the recipe,\" setting up the cooking segment. The video shifts to a close-up of a plate with a spice blend, followed by the Man preparing Shin Ramyun noodles in a silver pot on an induction cooktop. He describes the dish as a \"dipping ramen amuse-bouche,\" stating he's using \"Shin, the overlord of instant ramen.\" He adds seasoning, stirs the boiling noodles, following instructions to \"bring that to a boil, add in your noodles and everything included in your Shin Ramyun package,\" and finally cracks an egg into the pot, with text indicating a 5-minute cooking time. The well-lit, clean kitchen, with appliances like a stand mixer and toaster, provides a clear backdrop for his culinary demonstration."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 3,
+      "end_minute": 3,
+      "summary": "A Man, wearing a dark t-shirt with a smiley face, prepares Shin Ramyun noodles, first stirring them in a silver Cooking Pot on an Induction Cooktop, then cracking an Egg into the pot, referring to it as \"one egg yolk,\" and continuously stirring until cooked, while also mentioning the addition of \"one tablespoon or 18 grams of cold unsalted butter\" and advising to \"continuously stir till everything is emulsified together.\" He then uses Tongs to transfer the cooked noodles into four white Ramekins, each pre-filled with shredded seaweed, explaining the serving style as \"in small ramekins with a small accoutrement platter.\" On a wooden cutting board, he thinly slices Red Onions from \"half a red onion,\" places them on a Round Plate, and submerges them in an Ice Water Bowl to \"take some of their bite away and get them extra crisp, crisp.\" Next, he adds shredded seaweed from a package identified as 'Tao Kae Noi Crispy Seaweed,' approximately \"a half cup or 15 grams of Nori seaweed snack,\" noting its affordability. He then incorporates a spoonful of crispy cooked \"chorizo,\" about \"2 ounces or 57 grams,\" followed by a scoop of \"crushed pork rinds,\" about \"two tablespoons or 32 grams.\" The final plating displays the four toppings—red onions, seaweed, chorizo, and crushed pork rinds—in \"nice and neat piles\" on each serving, which he refers to as \"four amuse-bouche.\"",
+      "involved_entities": {
+        "Cooking Pot": {
+          "description": "A silver saucepan with a long handle, used to cook the noodles and egg, now being lifted and emptied, with the Man instructing to 'continuously stir' its contents.",
+          "attribute": "audio-visual"
+        },
+        "Man": {
+          "description": "A man with glasses, a dark t-shirt featuring a small smiley face design, and his hair tied back, actively cooking and plating the noodles in a modern kitchen. He speaks in a clear, instructional voice, providing detailed cooking steps, ingredient quantities, and commentary, including specific brand names and preparation tips, and referring to the final servings as 'amuse-bouche'.",
+          "attribute": "audio-visual"
+        },
+        "Shin Ramyun Noodles": {
+          "description": "Cooked noodles in a silver Cooking Pot, now mixed with a cooked egg and being transferred to ramekins, intended to be served as 'amuse-bouche'.",
+          "attribute": "audio-visual"
+        },
+        "Round Plate": {
+          "description": "A light-colored, round ceramic plate used to arrange the four toppings—red onions, seaweed, chorizo, and crushed pork rinds—separately for serving, with the Man noting them as 'nice and neat piles'.",
+          "attribute": "audio-visual"
+        },
+        "Induction Cooktop": {
+          "description": "A black, flat-top electric cooktop with digital controls, used to boil the noodles, now turned off as the pot is removed.",
+          "attribute": "visual"
+        },
+        "Spoon": {
+          "description": "A metal spoon used to scoop the red chili paste and fried topping onto the plate.",
+          "attribute": "visual"
+        },
+        "Tao Kae Noi Crispy Seaweed": {
+          "description": "A packaged product with a cartoon character and 'Original Flavor' text, explicitly named by the Man as 'Tao Kae Noi' and noted as costing 'a dollar for a pack,' shown being opened and shredded (about a half cup or 15 grams of Nori seaweed snack) for topping.",
+          "attribute": "audio-visual"
+        },
+        "Spice Blend": {
+          "description": "A red, textured condiment, identified by the Man as 'chorizo' (about 2 ounces or 57 grams), which he describes as having been cooked over medium heat until crispy, now spooned onto the plate as a topping.",
+          "attribute": "audio-visual"
+        },
+        "Red Onions": {
+          "description": "Thinly sliced red onions (from 'half a red onion') placed on a round plate, then submerged in ice water to 'take some of their bite away and get them extra crisp, crisp' (emphasized by the Man's voice), later arranged as a topping.",
+          "attribute": "audio-visual"
+        },
+        "Fried Topping": {
+          "description": "A light brown, crumbly topping, identified by the Man as 'crushed pork rinds' (two tablespoons or 32 grams), added to the plate as a final garnish.",
+          "attribute": "audio-visual"
+        },
+        "Egg": {
+          "description": "A single egg cracked into the boiling noodle pot, which the Man refers to as 'one egg yolk' while stirring, now cooked and mixed into the noodles.",
+          "attribute": "audio-visual"
+        },
+        "Ramekins": {
+          "description": "Four white, ribbed ramekins arranged in a row, each containing noodles and seaweed, intended for serving the 'amuse-bouche' as described by the Man.",
+          "attribute": "audio-visual"
+        },
+        "Ice Water Bowl": {
+          "description": "A stainless steel bowl filled with ice and water, used to crisp the sliced red onions, with the Man explaining its purpose to 'take some of their bite away and get them extra crisp, crisp'.",
+          "attribute": "audio-visual"
+        },
+        "Tongs": {
+          "description": "Metal tongs used to lift and transfer the cooked noodles from the pot to the ramekins.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video transitions from the Man, wearing a dark t-shirt with a smiley face, stirring Shin Ramyun noodles in a silver Cooking Pot on an Induction Cooktop, to the final plating. As he stirs, he cracks an Egg into the pot, which he refers to as \"one egg yolk,\" continuously stirring until cooked, while also mentioning adding \"one tablespoon or 18 grams of cold unsalted butter\" (though not visually shown) and advising to \"continuously stir till everything is emulsified together.\" He then lifts the pot, using tongs to transfer the cooked noodles into four white ramekins, each already containing shredded seaweed, explaining that they are serving \"in small ramekins with a small accoutrement platter.\" The scene shifts to a wooden cutting board where he prepares toppings, starting with thinly sliced red onions (from \"half a red onion\"), which he places on a round plate before submerging them in an Ice Water Bowl to \"take some of their bite away and get them extra crisp, crisp,\" with his voice emphasizing the word \"crisp.\" He then adds shredded seaweed from a package explicitly identified by him as 'Tao Kae Noi Crispy Seaweed' (about \"a half cup or 15 grams of Nori seaweed snack\"), noting it's \"literally a dollar for a pack.\" Next, he adds a spoonful of a red, textured condiment, which he identifies as \"chorizo\" (about \"2 ounces or 57 grams\") that's been cooked until crispy, followed by a scoop of a light brown, crumbly topping, which he calls \"crushed pork rinds\" (about \"two tablespoons or 32 grams\"). The final arrangement on the plate includes all four toppings—red onions, seaweed, chorizo, and crushed pork rinds—neatly separated, ready for serving, with the Man commenting on the \"nice and neat piles\" and referring to the servings as \"four amuse-bouche.\" Throughout the segment, the Man's clear, instructional voice provides detailed commentary, quantities, and preparation tips, while the kitchen environment remains bright and modern."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 4,
+      "end_minute": 6,
+      "summary": "The narrative begins with an amuse-bouche of Shin Ramyun Noodles, Tao Kae Noi Crispy Seaweed, red onions, spice blend, and fried topping presented in four ramekins, accompanied by assorted accoutrements for viewer customization. Transitioning to color, a seared protein dish is introduced, identified as the second of three courses. A man prepares boneless country style ribs, vacuum-sealed from 'Pleasant View Farms Quality Meats,' which he notes were a 'game changer.' He opens a can of 'Del Monte 100% Juice Pineapple Slices' with a can opener, intending to make a pineapple relish by dicing the pineapple and combining it with chopped green peppers and minced garlic in a stainless steel bowl. He then chars whole jalapeño peppers directly on a gas stove's open flame using a metal rack until blackened, acknowledging viewer comments about the gas stove's perceived fanciness. After peeling and dicing the roasted jalapeños, he adds them to the bowl along with minced garlic and pineapple juice, creating a vibrant relish. The man then seasons approximately 1.5 pounds of boneless country style ribs on a metal baking tray, explaining they originate from the loin and shoulder area, providing a mix of lean and rich meat. He dabs the ribs dry, seasons them with salt, garlic powder, and cayenne powder, then adds a red, textured condiment before searing them in a hot stainless steel pan on an induction cooktop with vegetable oil, ensuring a deep golden-brown crust by pressing down and searing for 2-3 minutes per side until an internal temperature of 160°F is reached. While the ribs rest for five minutes, he seasons them with salt and squeezes fresh lemon juice over the pan, rubbing half a lemon into the crust to capture juices. The tender, juicy ribs are then sliced into quarter-inch pieces on a wooden cutting board and plated on a white ceramic plate with a side of the pineapple and roasted jalapeño relish, with a final garnish of black pepper, aiming for a gourmet presentation.",
+      "involved_entities": {
+        "Gas Stove": {
+          "description": "A stainless steel gas stove with visible open flames, used to roast jalapeño peppers directly over the fire, and is the subject of on-screen viewer comments and the narrator's defensive remarks.",
+          "attribute": "audio-visual"
+        },
+        "Cooking Pot": {
+          "description": "A silver saucepan with a long handle, used to cook the noodles and egg, now being lifted and emptied.",
+          "attribute": "visual"
+        },
+        "Metal Rack": {
+          "description": "A wire rack placed over the gas stove to hold the jalapeño peppers during roasting.",
+          "attribute": "audio-visual"
+        },
+        "Round Plate": {
+          "description": "A light-colored, round ceramic plate used to arrange the four toppings—red onions, seaweed, chili paste, and fried topping—separately for serving, part of the 'accoutrements' for the 'amuse-bouche'.",
+          "attribute": "audio-visual"
+        },
+        "Induction Cooktop": {
+          "description": "A black, flat-top electric cooktop with digital controls, used to sear the ribs in a stainless steel pan.",
+          "attribute": "visual"
+        },
+        "Spoon": {
+          "description": "A metal spoon used to scoop the red chili paste and fried topping onto the plate, now used to serve the relish.",
+          "attribute": "visual"
+        },
+        "Red Onions": {
+          "description": "Thinly sliced red onions, part of the 'accoutrements' for the 'amuse-bouche'.",
+          "attribute": "audio-visual"
+        },
+        "Fried Topping": {
+          "description": "A light brown, crumbly topping, part of the 'accoutrements' for the 'amuse-bouche'.",
+          "attribute": "audio-visual"
+        },
+        "Egg": {
+          "description": "A single yellow egg cracked into the boiling noodle pot, now cooked and mixed into the noodles.",
+          "attribute": "visual"
+        },
+        "Ramekins": {
+          "description": "Four white, ribbed ramekins arranged in a row, each containing noodles and toppings, referred to by the narrator as holding 'accoutrements' for the 'amuse-bouche'.",
+          "attribute": "audio-visual"
+        },
+        "Ice Water Bowl": {
+          "description": "A stainless steel bowl filled with ice and water, used to crisp the sliced red onions before plating.",
+          "attribute": "visual"
+        },
+        "Jalapeño Peppers": {
+          "description": "Two whole green peppers roasted over an open flame until charred, then peeled and diced, with the narrator instructing to 'really blacken every square inch of these puppies'.",
+          "attribute": "audio-visual"
+        },
+        "Garlic Powder": {
+          "description": "Minced garlic added from a clear plastic container into the pan, then sautéed. The man instructs to add 'one tablespoon or 8 grams of minced garlic' and continue basting until it 'begins to toast.'",
+          "attribute": "audio-visual"
+        },
+        "Can Opener": {
+          "description": "A handheld metal tool used to open the can of pineapple slices, producing a distinct metallic sound.",
+          "attribute": "audio-visual"
+        },
+        "Del Monte Pineapple Slices": {
+          "description": "A can of 100% Juice Pineapple Slices, opened with a can opener, with a ring extracted and later diced, which the narrator initially questions before deciding to make 'Pineapple relish' with it, also providing 'one tablespoon or 15 grams of pineapple juice from the can'.",
+          "attribute": "audio-visual"
+        },
+        "Boneless Country Style Ribs": {
+          "description": "Cooked and seared boneless country style ribs with a golden-brown crust, later sliced to reveal a tender, juicy interior, plated with relish. The man refers to them as 'dollar store ribs' and 'country ribs,' instructing on cooking them to 'about 160 Fahrenheit' and resting them for 'five minutes' before slicing into 'quarter inch slices.'",
+          "attribute": "audio-visual"
+        },
+        "Kitchen Appliances": {
+          "description": "A stand mixer, toaster, and microwave visible in the background of the modern kitchen setting.",
+          "attribute": "visual"
+        },
+        "Man": {
+          "description": "A man with glasses, a dark t-shirt featuring a small smiley face design, and his hair tied back, actively seasoning and cooking boneless country style ribs. He speaks with an American accent, providing clear, instructional narration and personal commentary on the cooking process, referring to the ribs as 'dollar store ribs' and discussing the plating.",
+          "attribute": "audio-visual"
+        },
+        "Shin Ramyun Noodles": {
+          "description": "Cooked noodles presented in white ramekins, forming part of the 'amuse-bouche' with 'assorted accoutrements' as described by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Viewer Comments": {
+          "description": "On-screen text bubbles with avatars and messages such as 'but i don't have a gas stove!!!', 'gas stoves are sooooo expensive!!!!', and 'gas stoves are too fancy!!!!', appearing during the roasting segment and directly addressed by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Tao Kae Noi Crispy Seaweed": {
+          "description": "Crispy seaweed topping, part of the 'accoutrements' for the 'amuse-bouche'.",
+          "attribute": "audio-visual"
+        },
+        "Spice Blend": {
+          "description": "A red, textured condiment (likely chili paste) spooned onto the boneless country style ribs, which the narrator specifies includes \"salt to taste, a light pinch of garlic powder, a pinch of cayenne powder.\"",
+          "attribute": "audio-visual"
+        },
+        "Stainless Steel Bowl": {
+          "description": "A large metal bowl containing a mixture of diced pineapple, roasted jalapeños, and minced garlic, being stirred with a spoon.",
+          "attribute": "visual"
+        },
+        "Tongs": {
+          "description": "Metal tongs used to lift and transfer the cooked noodles from the pot to the ramekins.",
+          "attribute": "visual"
+        },
+        "Lemon": {
+          "description": "A whole yellow lemon, later squeezed over the pan. The man instructs to take 'a half a lemon' and rub the 'cut side in your crusty pan' to pick up juices and squeeze over 'resting pork.'",
+          "attribute": "audio-visual"
+        },
+        "Stainless Steel Pan": {
+          "description": "A silver pan used to sear the seasoned boneless country style ribs, showing sizzling and browning as the meat cooks. The man instructs to push the 'pork to one side of the pan' and add butter, then to rub a lemon in the 'crusty pan' to pick up juices. Sizzling sounds are prominent from the pan.",
+          "attribute": "audio-visual"
+        },
+        "Pastoral Pig Scene": {
+          "description": "A live pig grazing in a grassy field, shown with white arrows pointing to its body, visually illustrating the origin of the pork as described by the narrator, who details the ribs come from the \"loin\" and \"blade or shoulder.\"",
+          "attribute": "audio-visual"
+        },
+        "Metal Baking Tray": {
+          "description": "A gray, slightly worn metal tray holding the raw boneless country style ribs before they are transferred to the pan.",
+          "attribute": "visual"
+        },
+        "White Ceramic Plate": {
+          "description": "A round, speckled white plate used to serve the sliced ribs with relish. The man instructs to place 'a 4 to 6 oz piece of pork per plate' and add 'a nice mound of your pineapple relish.'",
+          "attribute": "audio-visual"
+        },
+        "Wooden Cutting Board": {
+          "description": "A light-colored wooden board used to slice the cooked ribs, showing visible knife marks and juices.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens in black and white, showcasing four white ramekins and a round plate on a wooden surface, each ramekin holding Shin Ramyun Noodles topped with Tao Kae Noi Crispy Seaweed, Red Onions, a red Spice Blend, and a Fried Topping, presented as an 'amuse-bouche' with 'assorted accoutrements' as a male narrator instructs viewers to add them to their taste. The scene then transitions to color, revealing a plated piece of seared meat with a pinkish glaze, garnished with a crispy element and a sprinkle of red spice, which the narrator introduces as 'our second out of three courses,' a 'protein dish.' The focus shifts to a man in a dark t-shirt and apron preparing this dish, placing two vacuum-sealed packages of 'Pleasant View Farms Quality Meats' boneless country style ribs on the counter, which the narrator identifies as 'boneless country style ribs' that were 'a game changer.' He then opens a can of 'Del Monte 100% Juice Pineapple Slices' with a distinct metallic sound from a can opener, extracting a ring. The narrator expresses initial uncertainty about the pineapple before declaring the goal: 'Pineapple relish.' The pineapple is diced and combined with finely chopped green peppers and minced garlic in a stainless steel bowl. The man then roasts two whole jalapeño peppers directly on a gas stove’s open flame, using a metal rack, charring them until 'every square inch of these puppies' is blackened, as the narrator instructs. On-screen text appears with viewer comments expressing frustration about not having a gas stove, which the narrator acknowledges, stating, 'Don't get on me in the comments about the gas stove being too fancy.' After roasting, he peels and dices the peppers, adding them to the bowl with the diced pineapple. He then adds 'two teaspoons or five grams of minced garlic from the jar,' which he dislikes, and 'one tablespoon or 15 grams of pineapple juice from the can,' mixing the ingredients to create a vibrant, textured relish in a modern kitchen setting with a white subway tile backsplash and visible appliances.",
+        "The video opens with a close-up of a stainless steel bowl where a mixture of diced pineapple, roasted jalapeños, and minced garlic is being stirred. A male narrator's voice explains adding \"one tablespoon or 14 grams of lemon juice,\" then tossing and seasoning with salt and pepper. An on-screen icon and the narrator clarify that \"no fresh garlic\" was used, as they \"looked everywhere\" and couldn't find it. The scene transitions to a man in a dark t-shirt with a smiley face design, who is seasoning raw boneless country style ribs on a metal baking tray. The narrator introduces these as \"about 1 and a half pounds or 680 grams of boneless country style ribs.\" A brief cut shows a pastoral scene of a pig grazing in a grassy field, with arrows pointing to its body, as the narrator explains the ribs \"come from the area of the loin, which then meets up with the blade or shoulder,\" yielding \"a mixture of lean, light meat and dark beautiful rich delectable meat from two different regions,\" followed by an audible \"Mmm.\" Returning to the kitchen, the man is seen seasoning the ribs, with the narrator instructing to \"dab those dry with a paper towel\" and then to season the pork with \"salt to taste, a light pinch of garlic powder, a pinch of cayenne powder,\" before flipping and repeating on the other side, emphasizing to \"get those salt levels up there.\" He then adds a red, textured condiment (likely chili paste). The man places the seasoned ribs into a hot stainless steel pan on an induction cooktop, where they immediately begin to sizzle. The narrator instructs to \"begin heating a large pan over medium high\" with \"just enough vegetable oil,\" and stresses the importance of ensuring the pork was \"dried on the exterior as much as possible\" to avoid boiling it. The man presses the meat down with his hand, as text overlays 'please' and '2–3 minutes' appear. The narrator instructs to \"sear that bad boy for 2 to 3 minutes, or until a nice deep golden brown crust magically appears,\" before flipping and searing on the other side. A close-up shows the ribs developing a golden-brown sear, with an internal temperature reaching 160°F, indicating doneness. The modern kitchen setting, with white cabinets, a gas stove in the background, and a whole lemon on the wooden counter, is visible throughout the cooking process.",
+        "The video opens with a close-up of boneless country style ribs sizzling and developing a golden-brown crust in a stainless steel pan on an induction cooktop. A man with glasses, wearing a dark t-shirt with a smiley face, uses a spoon to baste the ribs. His voice, with an American accent, narrates, discussing cooking the ribs to \"about 160 Fahrenheit\" and explicitly stating they are \"absolutely not cooking these dollar store ribs to medium rare.\" He then instructs to push the \"pork to one side of the pan\" and add butter, with sizzling sounds accompanying the action. After repeatedly basting for 30 seconds, he adds minced garlic from a clear container, instructing to continue basting until the \"garlic begins to toast.\" The ribs are then removed to rest for \"five minutes.\" While they rest, he seasons them with salt and squeezes fresh lemon juice over the pan, explaining to rub \"a half a lemon\" in the \"crusty pan\" to pick up juices. The man then slices the tender, juicy ribs on a wooden cutting board, suggesting \"quarter inch slices,\" with knife sounds audible. Finally, the sliced ribs are plated on a white ceramic plate with a side of diced pineapple and roasted jalapeño relish, which he describes as \"a nice mound of your pineapple relish.\" He aims for a \"gourmet\" presentation despite the \"situation,\" reflecting that he \"desperately wanted and begged for microgreens\" for the final garnish of black pepper in the bright, modern kitchen."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 7,
+      "end_minute": 9,
+      "summary": "A man begins by garnishing a salmon dish with shredded Tao Kae Noi Crispy Seaweed, describing the action as creating height with shards, and adds a dusting of red spice for color, noting the dish's colors are dull. He then transitions to dessert, preparing a peach cake by greasing a 9x2 inch round cake pan with non-stick cooking spray. For the crust, he combines 125 grams of light brown sugar, a pinch of salt, 1 gram of ground cinnamon, and 30 grams of melted unsalted butter in a bowl, whisking to a wet sand texture, then pressing it into the pan. Sliced Neostar Peach Slices are fanned out in a single layer over the crust. For the batter, he mixes 225 grams of all-purpose flour, 5 grams of salt, 130 grams of white sugar, and 4 grams of baking powder in a separate stainless steel bowl, then adds 240 milliliters of whole milk, one large egg, and 70 grams of butter, whisking to a smooth, homogeneous batter poured over the peaches. The cake is baked in a preheated oven at 350°F for 35-40 minutes. After cooling, the man inverts the golden-brown peach-topped cake, revealing a caramelized bottom, and cuts 2-2.5 inch circles using a round metal cutter, saving the scraps. He places a cake circle on a white ceramic plate, creates an indentation, and tops it with orange granita, followed by a scoop of Breyers Natural Vanilla ice cream, and finishes with finely diced dried apricots. Animated snowflakes and sparkles are subtly added during plating. The scene concludes with the completed dessert on a kitchen counter alongside other dishes, including the salmon with seaweed and a plate with various toppings, all in a modern kitchen with bright lighting.",
+      "involved_entities": {
+        "Neostar Peach Slices": {
+          "description": "A can of peach slices in extra light syrup, opened and drained, with the syrup collected and the fruit diced for use in a dessert.",
+          "attribute": "visual"
+        },
+        "On-screen Text": {
+          "description": "White text overlay reading '350°F, 35–40 minutes', indicating the baking temperature and time for the peach-topped cake, visible during the initial baking context (though not in this minute, referenced for continuity).",
+          "attribute": "visual"
+        },
+        "Diced Peaches": {
+          "description": "Small, uniformly cut pieces of peach from the can, arranged on a wooden cutting board and later placed in a stainless steel bowl, visible in the final wide shot as part of the salmon dish garnish.",
+          "attribute": "visual"
+        },
+        "Wooden Cutting Board": {
+          "description": "A light-colored wooden board used to slice and dice the peach slices, showing visible knife marks and juice.",
+          "attribute": "visual"
+        },
+        "Metal Baking Tray": {
+          "description": "A gray, slightly worn metal tray holding the peach-topped cake, which is later inverted onto the cooling rack after baking.",
+          "attribute": "visual"
+        },
+        "Man": {
+          "description": "A man with glasses, a dark t-shirt featuring a small smiley face design, and his hair tied back, actively preparing a peach-topped cake by inverting it, cutting portions, and assembling a dessert with ice cream and toppings, speaking in an instructional and humorous voice throughout the segment.",
+          "attribute": "audio-visual"
+        },
+        "Peach-Topped Cake": {
+          "description": "A golden-brown baked cake with a layer of caramelized peach slices on top, inverted onto a cooling rack after baking, described by the man as having a 'luxuriously caramelized bottom,' then cut into 'two to two and a half inch circles' or 'small squares' for individual portions, with 'scraps' suggested for snacking or 'cake pops.'",
+          "attribute": "audio-visual"
+        },
+        "Metal Rack": {
+          "description": "A wire rack placed over a baking tray, used to cool the inverted peach cake, allowing air circulation beneath, with the man instructing to 'invert over a wire rack, cool completely.'",
+          "attribute": "audio-visual"
+        },
+        "Round Plate": {
+          "description": "A light-colored, round ceramic plate used to arrange the four toppings—red onions, seaweed, chili paste, and fried topping—separately for serving, visible in the final wide shot.",
+          "attribute": "visual"
+        },
+        "Sieve": {
+          "description": "A fine mesh sieve used to sprinkle red spice over the plated salmon dish, creating a fine, even dusting, visible in the final wide shot.",
+          "attribute": "visual"
+        },
+        "Tao Kae Noi Crispy Seaweed": {
+          "description": "A packaged product with a cartoon character and 'Original Flavor' text, shown being sprinkled over a plated salmon dish in the final wide shot.",
+          "attribute": "visual"
+        },
+        "Knife": {
+          "description": "A black-handled knife used to dice the peach slices on the wooden cutting board, with precise, clean cuts.",
+          "attribute": "visual"
+        },
+        "White Ceramic Plate": {
+          "description": "A round, speckled white plate used to serve the assembled dessert, placed on a wooden surface.",
+          "attribute": "visual"
+        },
+        "Animated Sushi Roll Emoji": {
+          "description": "A small, white animated sushi roll with a red topping, appearing beside the on-screen text at the end of the segment, visible in the final wide shot.",
+          "attribute": "visual"
+        },
+        "Stainless Steel Bowl": {
+          "description": "A large metal bowl used to mix brown sugar, flour, and melted butter for the crust, and later to combine flour, sugar, milk, egg, and butter for the batter, as described by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Gas Stove": {
+          "description": "A stainless steel gas stove with visible open flames, used to roast jalapeño peppers directly over the fire (not used in this segment, but referenced in context; visible in the background).",
+          "attribute": "visual"
+        },
+        "Brown Sugar": {
+          "description": "A granulated, light brown sugar poured into a bowl to form the base of the crust mixture, with the narrator specifying 'half a cup or 125 grams of light brown sugar'.",
+          "attribute": "audio-visual"
+        },
+        "Whisk": {
+          "description": "A metal whisk used to combine dry ingredients with wet ingredients in the stainless steel bowl, creating a smooth batter, as the narrator instructs to 'whisk together' the ingredients until 'thoroughly combined' and a 'smooth homogeneous batter' is achieved.",
+          "attribute": "audio-visual"
+        },
+        "Non-Stick Cooking Spray": {
+          "description": "A yellow and red can used to coat the metal baking pan to prevent sticking during baking, with the narrator specifying the pan should be 'generously greased with cooking spray'.",
+          "attribute": "audio-visual"
+        },
+        "Egg": {
+          "description": "A single yellow egg cracked into the batter bowl, mixed with other ingredients to bind the batter together, which the narrator humorously notes 'was extremely hard to find'.",
+          "attribute": "audio-visual"
+        },
+        "Stainless Steel Pan": {
+          "description": "A silver pan used to sear the seasoned boneless country style ribs, showing sizzling and browning as the meat cooks (not used in this segment, but referenced in context).",
+          "attribute": "visual"
+        },
+        "Oven": {
+          "description": "A stainless steel oven with a digital display, used to bake the peach-topped cake at '350 Fahrenheit for 35 to 40 minutes,' as instructed by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Milk": {
+          "description": "A white liquid poured into the bowl for the batter, combined with flour, sugar, egg, and butter to create a smooth mixture, with the narrator specifying 'one cup or 240 milliliters of whole milk'.",
+          "attribute": "audio-visual"
+        },
+        "Flour": {
+          "description": "White powdered flour added to the bowl for both the crust and batter, forming the dry base of the recipe, with the narrator specifying 'one and a half cups or 225 grams of all-purpose flour' for the batter.",
+          "attribute": "audio-visual"
+        },
+        "Butter": {
+          "description": "Melted butter poured into the bowl for the crust and batter, labeled with on-screen text 'butter' during the mixing process, and referred to by the narrator with 'air quotations' as 'air quotation butter'.",
+          "attribute": "audio-visual"
+        },
+        "Breyers Natural Vanilla": {
+          "description": "A pint container of natural vanilla ice cream, labeled with 'made with fresh cream, sugar & milk,' referred to by the man as 'ice cream' that was 'bought earlier' and 'very difficult to find,' scooped as a 'circular ball' onto the dessert, with the man humorously admitting his scoop is 'a bit larger' than he'd like due to losing his smaller one.",
+          "attribute": "audio-visual"
+        },
+        "Boneless Country Style Ribs": {
+          "description": "Cooked and seared boneless country style ribs with a golden-brown crust, later sliced to reveal a tender, juicy interior, plated with relish, visible in the final wide shot.",
+          "attribute": "visual"
+        },
+        "Kitchen Appliances": {
+          "description": "A stand mixer, toaster, and microwave visible in the background of the modern kitchen setting, contributing to the professional kitchen ambiance.",
+          "attribute": "visual"
+        },
+        "Yellow Crumbly Topping": {
+          "description": "A buttery, golden-yellow crumbly mixture, identified by the man as 'orange granita,' mixed in a rectangular metal container and spooned onto the cake portion as a 'generous couple spoonfuls,' with instructions to press down to create an 'indentation' for the ice cream.",
+          "attribute": "audio-visual"
+        },
+        "Spice Blend": {
+          "description": "A red, textured condiment (likely chili paste) spooned onto the boneless country style ribs before cooking, visible in the final wide shot as part of the salmon dish garnish.",
+          "attribute": "visual"
+        },
+        "Animated Snowflakes and Sparkles": {
+          "description": "Subtle animated effects of falling snowflakes and sparkling particles overlaid during the plating sequence, enhancing the visual appeal and festive atmosphere.",
+          "attribute": "visual"
+        },
+        "Orange Zest": {
+          "description": "Bright orange, finely grated citrus peel used as a final garnish on top of the ice cream, clarified by the man as 'very finely diced' dried apricots found 'last minute.'",
+          "attribute": "audio-visual"
+        },
+        "Red Onions": {
+          "description": "Thinly sliced red onions placed on a round plate, then submerged in ice water to crisp, later arranged as a topping, visible in the final wide shot.",
+          "attribute": "visual"
+        },
+        "Fried Topping": {
+          "description": "A light brown, crumbly topping (possibly fried shallots or garlic) added to the plate as a final garnish, visible in the final wide shot.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a man, wearing glasses and a dark t-shirt, holding a package of Tao Kae Noi Crispy Seaweed. He asks, \"But wait a minute, Josh. What about the naughty snack from earlier?\" before opening the package and tearing the seaweed into small pieces. He then garnishes a plated salmon dish, featuring pickled vegetables and a drizzle of sauce, with the shredded seaweed, describing his action as \"cracked into those little pieces and garnished my pineapples by standing shards of those up in the relish, creating a little bit of height.\" He then sprinkles red spice through a fine mesh sieve, adding a vibrant touch, while noting, \"So since we had chicharrones from earlier, popped on a big piece for some crunch, and a light dusting of cayenne or paprika for color.\" The man expresses, \"Honestly, I kind of like the way this looks, although the colors are a bit dull and I am praying the flavor's not,\" before transitioning to dessert, stating, \"but we must complete this meal with a dessert that leaves you satisfied.\" The scene transitions to a wider shot of a wooden table with multiple dishes, including a round plate with four distinct toppings. The man then focuses on a can of Neostar Peach Slices, saying, \"Please, canned peaches. Please don't fail me now.\" He opens and drains the can, pouring the syrup into a metal container, explaining his intention: \"So once I bought these canned peaches, I immediately knew I was going to make some form of a peach cake, but how do you elevate that? How do you make it more exciting?\" He arranges the peach slices on a baked cake in a metal pan, which is later inverted onto a cooling rack, revealing a golden, caramelized top. While the man gives instructions for freezing orange juice for a separate recipe, he returns to the cake, stating, \"First off, you need one can of sliced peaches in juice. Remove all your peaches and, well, slice them in half again, lengthwise.\" He proceeds to dice the peach slices on a wooden cutting board with a knife. The video concludes with a close-up of the diced peaches in a stainless steel bowl, as the man's voice states, \"It has the texture of like hamachi,\" accompanied by on-screen text reading 'it has the texture of, like, hamachi,' with a small animated sushi roll emoji appearing beside it. The entire food preparation takes place in a modern kitchen with bright, natural lighting.",
+        "The segment opens with a close-up of sliced peaches being gently mixed by hand in a stainless steel bowl, as a man with a clear, American accent narrates, remarking, \"canned peaches aren't half bad. I don't mind them.\" He then guides viewers through preparing a \"circular 9x2 cake pan,\" generously greasing it with non-stick cooking spray. Next, he details the crust preparation, adding \"half a cup or 125 grams of light brown sugar and a pinch of salt,\" along with \"half teaspoon or 1 gram of ground cinnamon\" to a bowl, followed by \"two tablespoons or 30 grams of melted unsalted butter,\" which he refers to with air quotes. He instructs to whisk these ingredients until a \"wet sand texture\" is achieved, then spread and press it into the pan. The peaches are then meticulously arranged in a single layer on top, fanned out in a \"circular shape.\" Moving on to the batter, the man describes combining \"one and a half cups or 225 grams of all-purpose flour,\" \"three quarters of a teaspoon or 5 grams of salt,\" \"two thirds of a cup or 130 grams of white sugar,\" and \"one teaspoon or 4 grams of baking powder\" in a separate stainless steel bowl, whisking until combined. He then adds \"one cup or 240 milliliters of whole milk,\" \"one large egg, which was extremely hard to find,\" and \"a quarter cup or 70 grams of air quotation butter,\" whisking until a \"smooth homogeneous batter\" forms. This batter is poured directly over the peaches. The pan is then placed into a preheated oven, with on-screen text displaying '350°F, 35–40 minutes,' aligning with the narrator's instruction to bake for \"35 to 40 minutes, or until toothpick or cake tester comes out clean.\" Finally, the golden-brown peach-topped cake is removed from the oven, placed on a wire rack to cool, and then inverted, revealing a smooth, caramelized peach topping.",
+        "The video opens with a man, whose instructional and humorous voice guides the viewer, carefully inverting a freshly baked Peach-Topped Cake from a round metal baking pan onto a Metal Rack, instructing to “let that cool for 10 minutes” and then to “invert over a wire rack, cool completely.” He enthusiastically points out the “luxuriously caramelized bottom” of the cake, expressing surprise that “the dollar store did that? Okay.” Once cooled, he uses a round metal cutter, which he calls a “ring cutter,” to cut “two to two and a half inch circles” from the cake, suggesting a knife could also be used for “small squares.” He then advises saving the “scraps” for snacking or “cake pops.” Transitioning to assembly, the man instructs to “place your cake smack dab in the center of the plate” and top it with a “generous couple spoonfuls” of what he identifies as “orange granita,” not a streusel, pressing down to create an “indentation” for the ice cream. He then scoops a “circular ball” of Breyers Natural Vanilla ice cream, which he humorously admits was “very difficult to find” and that his scoop is “a bit larger” than desired because he lost his smaller one. The dessert is finished with a sprinkle of what he clarifies are “very finely diced” dried apricots, not orange zest, found “last minute.” Subtle animated snowflakes and sparkles enhance the plating sequence. The final shot reveals the completed dessert alongside other plated dishes on a wide kitchen counter, including a salmon dish with Tao Kae Noi Crispy Seaweed and a round plate with various toppings, all within a warm, inviting kitchen setting."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 10,
+      "end_minute": 12,
+      "summary": "In a bright, modern kitchen with white cabinets and stainless steel appliances, the Man, wearing a dark t-shirt with a smiley face and a black apron, presents a colorful array of toppings including red onions, fried topping, seaweed, and chili paste, emphasizing that the randomly picked ingredients weren't cheap but yielded surprising results. He taste-tests three dishes, starting with a salmon appetizer garnished with Tao Kae Noi Crispy Seaweed, jalapeño spice, and diced peaches, expressing delight at the \"onion perfume with the hot sauce\" and \"umami from the MSG,\" as on-screen text highlights 'nori' and 'MSG'. He then introduces Kendrick, a bearded man, to taste-test country-style ribs, which Kendrick finds \"very creamy\" with \"crispy bit\" chorizo and \"freshening\" onions, prompting Ramen to exclaim, \"THEY CREAMED.\" Kendrick also praises the peach cake dessert, specifically highlighting the \"canned peaches,\" which Ramen playfully defends. Throughout the segment, upbeat music plays, and on-screen text and animated fruit icons add playful commentary. The Man emphasizes the importance of \"care\" and \"intention\" in cooking, regardless of budget, showcasing b-roll footage of Shin Ramyun Noodles, seared country-style ribs with lemon juice, and the peach cake dessert preparation. The segment concludes with the Man flipping through a cookbook, suggesting further culinary endeavors, as animated snowflakes and sparkles subtly enhance the festive mood.",
+      "involved_entities": {
+        "On-screen Text": {
+          "description": "White text overlay reading 'care', 'intention', and other words appearing during the segment to emphasize flavor, texture, and dish names, visually reinforcing the Man's spoken philosophy on cooking.",
+          "attribute": "audio-visual"
+        },
+        "Diced Peaches": {
+          "description": "Small, uniformly cut pieces of peach from the can, arranged on a wooden cutting board and later placed in a stainless steel bowl, visible in the final wide shot as part of the salmon dish garnish, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Man": {
+          "description": "A man with glasses, a dark t-shirt featuring a small smiley face design, and his hair tied back, actively engaging with the camera and food, tasting dishes, and gesturing expressively in a modern kitchen setting. He speaks clearly and expressively about cooking with 'creativity, technique, and intention,' emphasizing the importance of 'care' and 'heart' regardless of ingredient cost, before introducing the 'B-roll' segment.",
+          "attribute": "audio-visual"
+        },
+        "Kitchen Appliances": {
+          "description": "A stand mixer, toaster, and microwave visible in the background of the modern kitchen setting, contributing to the professional kitchen ambiance, present throughout the segment with the Man's speech and later the B-roll music.",
+          "attribute": "audio-visual"
+        },
+        "Round Plate": {
+          "description": "A light-colored, round ceramic plate used to arrange the four toppings—red onions, seaweed, chili paste, and fried topping—separately for serving, visible in the final wide shot, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Sieve": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Spoon": {
+          "description": "A metal spoon used to scoop the red chili paste and fried topping onto the plate, now used to serve the relish and taste the salmon dish, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Salmon Dish": {
+          "description": "A plated piece of salmon with a golden-brown sear, topped with seaweed, red spice, and accompanied by diced peaches and green vegetables, served on a white plate.",
+          "attribute": "visual"
+        },
+        "Tao Kae Noi Crispy Seaweed": {
+          "description": "A packaged product with a cartoon character and 'Original Flavor' text, shown being held and sprinkled over a plated salmon dish, adding a crunchy green topping.",
+          "attribute": "visual"
+        },
+        "Spice Blend": {
+          "description": "A red, textured condiment (likely chili paste) spooned onto the boneless country style ribs before cooking, visible in the final wide shot as part of the salmon dish garnish, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Animated Snowflakes and Sparkles": {
+          "description": "Subtle animated effects of falling snowflakes and sparkling particles overlaid during the plating sequence, enhancing the visual appeal and festive atmosphere.",
+          "attribute": "visual"
+        },
+        "Red Onions": {
+          "description": "Thinly sliced red onions placed on a round plate, later arranged as a topping, visible in the final wide shot, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Dessert Plate": {
+          "description": "A white plate featuring a cake topped with ice cream and orange zest, which the Man tastes and enjoys, adding a sweet conclusion to the meal presentation, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Fried Topping": {
+          "description": "A light brown, crumbly topping (possibly fried shallots or garlic) added to the plate as a final garnish, visible in the final wide shot, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Bearded Man": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Boneless Country Style Ribs": {
+          "description": "Cooked and seared boneless country style ribs with a golden-brown crust, later sliced to reveal a tender, juicy interior, plated with relish, visible in the final wide shot, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Peach-Topped Cake": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Cookbook": {
+          "description": "A physical cookbook with a visible 'W' logo on the cover, held and flipped through by the Man, suggesting a source of recipes or inspiration, shown at the end of the segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Brown Sugar": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Wooden Cutting Board": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Mrs. Baird’s Grab 'n Go Donuts": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Egg": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Animated Sushi Roll Emoji": {
+          "description": "A small, white animated sushi roll with a red topping, appearing beside the on-screen text at the end of the segment, visible in the final wide shot.",
+          "attribute": "visual"
+        },
+        "Flour": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Jalapeño Peppers": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Pastoral Pig Scene": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Whole Milk": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Can Opener": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Del Monte Pineapple Slices": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Metal Baking Tray": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Whisk": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Non-Stick Cooking Spray": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Shin Ramyun Noodles": {
+          "description": "Cooked noodles in a silver Cooking Pot, now mixed with a cooked egg and being transferred to ramekins, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Yellow Crumbly Topping": {
+          "description": "A buttery, golden-yellow crumbly mixture, likely a streusel or crushed cookie, mixed in a rectangular metal container and spooned onto the cake portion as a topping, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Stainless Steel Pan": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "White Ceramic Plate": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Orange Zest": {
+          "description": "Bright orange, finely grated citrus peel used as a final garnish on top of the ice cream, adding color and flavor to the dessert, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Nancy All Purpose Flour": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Stainless Steel Bowl": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Gas Stove": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Cooking Pot": {
+          "description": "A silver saucepan with a long handle, used to cook the noodles and egg, now being lifted and emptied, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Breyers Natural Vanilla": {
+          "description": "A pint container of natural vanilla ice cream, labeled with 'made with fresh cream, sugar & milk', shown being scooped and placed on the dessert, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Metal Rack": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Induction Cooktop": {
+          "description": "A black, flat-top electric cooktop with digital controls, used to sear the ribs in a stainless steel pan, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Knife": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Lemon": {
+          "description": "A whole yellow lemon resting on the wooden counter beside the induction cooktop, later squeezed over the pan to add acidity, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Oven": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Ramekins": {
+          "description": "Four white, ribbed ramekins arranged in a row, each containing noodles and seaweed, ready for serving, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "Ice Water Bowl": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Butter": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Red Bell Peppers": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Neostar Peach Slices": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Dollar Tree Store": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Garlic Powder": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Viewer Comments": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Milk": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Orange Juice": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Tongs": {
+          "description": "Metal tongs used to lift and transfer the cooked noodles from the pot to the ramekins, shown during the B-roll segment accompanied by upbeat background music.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of a round plate showcasing an array of colorful toppings: thinly sliced red onions, a crumbly fried topping, dark green seaweed, and a vibrant red chili paste. A man, wearing glasses and a dark t-shirt with a smiley face, his hair tied back, stands in a modern kitchen with white cabinets and stainless steel appliances. He speaks enthusiastically about the \"meal right there,\" noting that it \"wasn't exactly the cheapest to get these ingredients\" but that he \"worked with ingredients that I never would have in my entire career,\" which were \"randomly picked.\" He announces it's \"time that we taste test\" the \"three dishes,\" including an \"appetizer,\" a \"meal,\" and \"the weeg wacker,\" plus \"dessert.\" He gestures toward the plate, then picks up a packet of Tao Kae Noi Crispy Seaweed, showing it to the camera before sprinkling the \"nori\" onto a plated salmon dish. He then tastes the dish with a spoon, expressing delight with animated gestures and facial expressions, describing the \"onion perfume with the hot sauce\" and the \"umami from the MSG,\" which appears as on-screen text. While the visual shows salmon, he refers to a \"main course\" with \"pork\" that \"looks moist,\" along with \"pineapple relish.\" The camera focuses on the salmon plate, now garnished with the seaweed, red spice (which he describes as \"spice from the jalapeño\" and \"garlicky\") dusted over it, and accompanied by a side of diced peaches and green vegetables. He continues to interact with the food, pointing at the plate and making expressive hand movements, emphasizing the \"fruit and it's sweet even though it's kind of dulled from being canned.\" He then turns to a dessert plate featuring a cake topped with ice cream and orange zest, scooping a bite and savoring it with a smile, identifying it as \"peach cake, ice cream\" and noting that the \"granita's melted.\" Throughout, on-screen text like 'nori', 'MSG', and a thought bubble with a cupcake add playful commentary. The bright, clean kitchen, with a stand mixer, toaster, and microwave in the background, contributes to the inviting atmosphere. The segment concludes with the man pointing at the camera, engaging directly with the viewer, as animated snowflakes and sparkles subtly enhance the festive mood.",
+        "In a bright, modern kitchen, Ramen, wearing a dark t-shirt with a smiley face and a black apron, expressively describes a dessert, noting its \"refreshing,\" \"rich,\" \"sweet,\" and \"lil spice from the honey,\" with on-screen text and animated fruit icons emphasizing peach and orange flavors. He remarks on its surprising quality, suggesting he \"wouldn't know that this came from a dollar store.\" A brief cut shows a woman in a yellow sweater and a man in a white sweater at a dining table with wine glasses, hinting at a tasting. Back in the kitchen, Ramen introduces Kendrick, a bearded man in a white t-shirt with a black floral pattern, for a taste test, handing him a small black earpiece. Kendrick enthusiastically tastes food, closing his eyes and giving a thumbs-up, describing it as \"very creamy\" with \"crispy bit\" chorizo and \"freshening\" onions, as on-screen text highlights 'crispy texture' and Ramen exclaims, \"THEY CREAMED.\" As Kendrick continues tasting, text overlays identify '#2 – Country-Style Ribs'. Kendrick, unfamiliar with the dish, finds it \"really good,\" suggesting it would be \"perfect\" with \"a little bit more juice,\" prompting Ramen to recommend adding them to a list and compliment Kendrick's \"good bites.\" The segment concludes with '#3 – Peach Cake', which Kendrick praises as \"incredibly rich,\" specifically highlighting the \"canned peaches.\" Ramen playfully defends the canned peaches, telling Kendrick not to \"give up on them\" and to \"keep them in the house,\" before thanking him, pointing to the camera, and smiling. An upbeat background music track accompanies the entire segment, set against the consistent backdrop of white cabinets, a stainless steel range hood, and visible kitchen appliances.",
+        "The video opens with the Man, wearing a dark t-shirt with a small smiley face design and a black apron, standing in a modern kitchen with white cabinets and stainless steel appliances. He speaks expressively, emphasizing his points with animated hand movements, stating that \"with a little bit of creativity, technique, intention, it came out. I would surprise myself, it's pretty good.\" On-screen text appears, highlighting 'care' next to a red heart emoji and 'intention' as he continues, advising viewers that \"whether you have a lot of money or a little bit of money to spend on ingredients, it doesn't matter. You just got to give a little bit of care, a little bit of heart, some intention.\" He then asks, \"But you want to know what else is pretty good? B-roll,\" as upbeat, rhythmic background music begins and continues throughout the rest of the segment. The scene transitions to a close-up of a wooden counter showcasing four white ramekins filled with Shin Ramyun Noodles and seaweed, alongside a round plate with red onions, fried topping, seaweed, and chili paste. The Man is then seen pouring cooked Shin Ramyun Noodles from a silver Cooking Pot into the ramekins using tongs, followed by spooning a red Spice Blend onto a plate. He sears Boneless Country Style Ribs on an Induction Cooktop, adding a squeeze of Lemon juice. Next, he assembles a dessert, placing a scoop of Breyers Natural Vanilla ice cream on a cake portion, topping it with Diced Peaches and a Yellow Crumbly Topping, and garnishing with Orange Zest. The kitchen remains bright and clean throughout these preparations. The final shot shows the Man holding a cookbook with a large 'W' logo, flipping through pages before turning away from the camera towards the stove, suggesting he is preparing to cook, as the music fades out."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Dollar Tree Store": "Not visible in this segment.",
+    "Jalapeño Peppers": "Not visible in this segment.",
+    "Whole Milk": "Not visible in this segment.",
+    "Garlic Powder": "Not visible in this segment.",
+    "Man": "A man with glasses, a dark t-shirt featuring a small smiley face design, and his hair tied back, actively engaging with the camera and food, tasting dishes, and gesturing expressively in a modern kitchen setting. He speaks clearly and expressively about cooking with 'creativity, technique, and intention,' emphasizing the importance of 'care' and 'heart' regardless of ingredient cost, before introducing the 'B-roll' segment.",
+    "Red Bell Peppers": "Not visible in this segment.",
+    "Nancy All Purpose Flour": "Not visible in this segment.",
+    "Orange Juice": "Not visible in this segment.",
+    "Mrs. Baird’s Grab 'n Go Donuts": "Not visible in this segment.",
+    "Cooking Pot": "A silver saucepan with a long handle, used to cook the noodles and egg, now being lifted and emptied, shown during the B-roll segment accompanied by upbeat background music.",
+    "Kitchen Appliances": "A stand mixer, toaster, and microwave visible in the background of the modern kitchen setting, contributing to the professional kitchen ambiance, present throughout the segment with the Man's speech and later the B-roll music.",
+    "Shin Ramyun Noodles": "Cooked noodles in a silver Cooking Pot, now mixed with a cooked egg and being transferred to ramekins, shown during the B-roll segment accompanied by upbeat background music.",
+    "Induction Cooktop": "A black, flat-top electric cooktop with digital controls, used to sear the ribs in a stainless steel pan, shown during the B-roll segment accompanied by upbeat background music.",
+    "Spice Blend": "A red, textured condiment (likely chili paste) spooned onto the boneless country style ribs before cooking, visible in the final wide shot as part of the salmon dish garnish, shown during the B-roll segment accompanied by upbeat background music.",
+    "Egg": "Not visible in this segment.",
+    "Round Plate": "A light-colored, round ceramic plate used to arrange the four toppings—red onions, seaweed, chili paste, and fried topping—separately for serving, visible in the final wide shot, shown during the B-roll segment accompanied by upbeat background music.",
+    "Spoon": "A metal spoon used to scoop the red chili paste and fried topping onto the plate, now used to serve the relish and taste the salmon dish, shown during the B-roll segment accompanied by upbeat background music.",
+    "Tao Kae Noi Crispy Seaweed": "A packaged product with a cartoon character and 'Original Flavor' text, shown being held and sprinkled over a plated salmon dish, adding a crunchy green topping.",
+    "Red Onions": "Thinly sliced red onions placed on a round plate, later arranged as a topping, visible in the final wide shot, shown during the B-roll segment accompanied by upbeat background music.",
+    "Fried Topping": "A light brown, crumbly topping (possibly fried shallots or garlic) added to the plate as a final garnish, visible in the final wide shot, shown during the B-roll segment accompanied by upbeat background music.",
+    "Ramekins": "Four white, ribbed ramekins arranged in a row, each containing noodles and seaweed, ready for serving, shown during the B-roll segment accompanied by upbeat background music.",
+    "Ice Water Bowl": "Not visible in this segment.",
+    "Tongs": "Metal tongs used to lift and transfer the cooked noodles from the pot to the ramekins, shown during the B-roll segment accompanied by upbeat background music.",
+    "Gas Stove": "Not visible in this segment.",
+    "Metal Rack": "Not visible in this segment.",
+    "Can Opener": "Not visible in this segment.",
+    "Del Monte Pineapple Slices": "Not visible in this segment.",
+    "Boneless Country Style Ribs": "Cooked and seared boneless country style ribs with a golden-brown crust, later sliced to reveal a tender, juicy interior, plated with relish, visible in the final wide shot, shown during the B-roll segment accompanied by upbeat background music.",
+    "Viewer Comments": "Not visible in this segment.",
+    "Stainless Steel Bowl": "Not visible in this segment.",
+    "Lemon": "A whole yellow lemon resting on the wooden counter beside the induction cooktop, later squeezed over the pan to add acidity, shown during the B-roll segment accompanied by upbeat background music.",
+    "Stainless Steel Pan": "Not visible in this segment.",
+    "Pastoral Pig Scene": "Not visible in this segment.",
+    "Metal Baking Tray": "Not visible in this segment.",
+    "White Ceramic Plate": "Not visible in this segment.",
+    "Wooden Cutting Board": "Not visible in this segment.",
+    "Neostar Peach Slices": "Not visible in this segment.",
+    "On-screen Text": "White text overlay reading 'care', 'intention', and other words appearing during the segment to emphasize flavor, texture, and dish names, visually reinforcing the Man's spoken philosophy on cooking.",
+    "Diced Peaches": "Small, uniformly cut pieces of peach from the can, arranged on a wooden cutting board and later placed in a stainless steel bowl, visible in the final wide shot as part of the salmon dish garnish, shown during the B-roll segment accompanied by upbeat background music.",
+    "Peach-Topped Cake": "Not visible in this segment.",
+    "Sieve": "Not visible in this segment.",
+    "Knife": "Not visible in this segment.",
+    "Animated Sushi Roll Emoji": "A small, white animated sushi roll with a red topping, appearing beside the on-screen text at the end of the segment, visible in the final wide shot.",
+    "Brown Sugar": "Not visible in this segment.",
+    "Whisk": "Not visible in this segment.",
+    "Non-Stick Cooking Spray": "Not visible in this segment.",
+    "Oven": "Not visible in this segment.",
+    "Milk": "Not visible in this segment.",
+    "Flour": "Not visible in this segment.",
+    "Butter": "Not visible in this segment.",
+    "Breyers Natural Vanilla": "A pint container of natural vanilla ice cream, labeled with 'made with fresh cream, sugar & milk', shown being scooped and placed on the dessert, shown during the B-roll segment accompanied by upbeat background music.",
+    "Yellow Crumbly Topping": "A buttery, golden-yellow crumbly mixture, likely a streusel or crushed cookie, mixed in a rectangular metal container and spooned onto the cake portion as a topping, shown during the B-roll segment accompanied by upbeat background music.",
+    "Animated Snowflakes and Sparkles": "Subtle animated effects of falling snowflakes and sparkling particles overlaid during the plating sequence, enhancing the visual appeal and festive atmosphere.",
+    "Orange Zest": "Bright orange, finely grated citrus peel used as a final garnish on top of the ice cream, adding color and flavor to the dessert, shown during the B-roll segment accompanied by upbeat background music.",
+    "Salmon Dish": "A plated piece of salmon with a golden-brown sear, topped with seaweed, red spice, and accompanied by diced peaches and green vegetables, served on a white plate.",
+    "Dessert Plate": "A white plate featuring a cake topped with ice cream and orange zest, which the Man tastes and enjoys, adding a sweet conclusion to the meal presentation, shown during the B-roll segment accompanied by upbeat background music.",
+    "Bearded Man": "Not visible in this segment.",
+    "Cookbook": "A physical cookbook with a visible 'W' logo on the cover, held and flipped through by the Man, suggesting a source of recipes or inspiration, shown at the end of the segment accompanied by upbeat background music."
+  }
+}

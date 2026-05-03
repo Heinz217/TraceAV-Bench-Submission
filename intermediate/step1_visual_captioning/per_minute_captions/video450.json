@@ -1,0 +1,812 @@
+{
+    "video_id": "video450",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video begins with a close-up of a smartwatch displaying 'Good Morning Pawan' in red text on a blue background, indicating the start of the day. The camera then pans to a bedroom with a white bed, a wooden door with clothes hanging on it, and a small ironing board. The scene transitions to a bedside table with a lamp, an alarm clock, and a digital scale on the floor. A person steps onto the scale, revealing a weight reading of 63.00 kg. The camera moves through the room, showing a man sitting at a desk with a laptop and monitor, working. The view shifts to a living area with a sofa, coffee table, and a large window. The camera continues through a hallway into a kitchen, where a woman is seen holding a phone, standing near a window with a view of high-rise buildings. The final shots show a balcony with a chair and a panoramic view of the cityscape, including tall buildings, streets, and parked cars under a clear blue sky.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "smartwatch": "Displays 'Good Morning Pawan' in red text on a blue background, worn on a wrist.",
+                "bedroom": "Contains a white bed, wooden door with clothes hanging, and an ironing board.",
+                "bedside table": "Features a lamp, an alarm clock, and a digital scale.",
+                "digital scale": "White, rectangular, with a digital display showing 63.00 kg when stepped on.",
+                "man at desk": "Sitting at a wooden desk with a laptop and monitor, wearing glasses and a dark shirt, actively working.",
+                "living area": "Includes a gray sofa, coffee table, and large window with curtains.",
+                "hallway": "Connects the living area to the kitchen, with a visible door frame and tiled floor.",
+                "kitchen": "Equipped with modern appliances, a window with a city view, and a woman standing near it.",
+                "woman": "Wearing a dark t-shirt and pants, holding a phone, standing near a kitchen window.",
+                "balcony": "Has a wooden chair and a glass railing, offering a panoramic view of the cityscape.",
+                "cityscape": "A dense urban environment with high-rise buildings, streets, parked cars, and a clear blue sky, visible from the balcony and kitchen window."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The video begins with an aerial view of a modern high-rise building in a dense urban environment, showcasing the cityscape with parked cars and surrounding structures. The scene transitions to a first-person perspective inside a well-lit living area, where a hand interacts with a table-top water dispenser, placing a glass under its spout and pressing a button to dispense water. The living area features a wooden coffee table with a closed MacBook, a blue Xbox controller, a smart speaker, and a black phone stand. The hand then picks up a smartwatch from the table and places it into a charging dock. The camera pans around the room, revealing a gray sofa, a large window with city views, and a TV mounted on the wall displaying motivational text. The scene shifts to a bedroom with a white bed, a bedside table with a lamp and digital scale, and a wooden door with clothes hanging. The camera moves through a hallway into the living area again, showing a red backpack on the sofa and a robotic vacuum cleaner near the TV stand. The hand returns to the coffee table, opens the MacBook, and adjusts the phone stand, completing the sequence of interactions with the devices in a clean, modern apartment setting.",
+            "active_entities": {
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV displaying motivational text.",
+                "bedroom": "Contains a white bed, wooden door with clothes hanging, and a bedside table with a lamp and digital scale.",
+                "smartwatch": "Worn on a wrist, later placed into a charging dock on the coffee table.",
+                "digital scale": "White, rectangular device on the bedside table, displaying weight readings.",
+                "cityscape": "Dense urban environment visible through large windows and balcony, featuring high-rise buildings and clear skies."
+            },
+            "discovered_new_entities": {
+                "coffee table": "Wooden surface with a closed MacBook, blue Xbox controller, smart speaker, phone stand, and table-top water dispenser.",
+                "table-top water dispenser": "White, circular device with a spout, dispensing water into a glass placed on its base.",
+                "MacBook": "Closed silver laptop with Apple logo, later opened to reveal keyboard and trackpad.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant.",
+                "phone stand": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+                "TV": "Mounted on the wall, displaying motivational text such as 'if I could change the way that you see yourself' and 'as long as I'm here, no one can hurt you'.",
+                "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+                "red backpack": "Placed on the gray sofa, with visible yellow trim and brand text.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table.",
+                "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+                "water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video."
+            }
+        },
+        {
+            "minute": 3,
+            "caption": "The video opens in a bright, modern living area with a panoramic cityscape visible through large windows. A wooden coffee table holds a closed MacBook, a blue Xbox controller, a white smart speaker, a black phone stand, and a table-top water dispenser with a glass and blue water bottle. The TV mounted on the wall displays motivational text, including 'what would they say instead?'. As the scene progresses, a hand enters the frame and opens the MacBook, revealing a mountain wallpaper. The user interacts with the laptop, navigating through a dark-themed interface, possibly a code editor or terminal, while a YouTube-style overlay appears with 'Subscribe', 'Like', and 'Bell' icons. The TV screen changes to show a dark scene with subtitles 'I said no.' and later transitions to a black screen with lyrics 'One in one and one on a shore / Like I don't believe in love no more'. The camera angle shifts slightly, showing the user’s legs and feet, indicating they are seated on the gray sofa. The laptop screen then displays a code editor with syntax-highlighted text, suggesting programming or development work. The environment remains consistent with natural light streaming in, and the robotic vacuum cleaner is visible near the TV stand. The scene ends with a wider view of the living area, emphasizing the open layout and the city view beyond the balcony.",
+            "active_entities": {
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV displaying motivational text and later lyrics.",
+                "coffee table": "Wooden surface with a MacBook, blue Xbox controller, smart speaker, phone stand, and table-top water dispenser.",
+                "MacBook": "Initially closed, then opened to reveal a mountain wallpaper and later a dark-themed code editor interface.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant.",
+                "phone stand": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+                "TV": "Mounted on the wall, displaying motivational text, a dark scene with subtitles 'I said no.', and later lyrics 'One in one and one on a shore / Like I don't believe in love no more'.",
+                "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+                "table-top water dispenser": "White, circular device with a spout, dispensing water into a glass placed on its base.",
+                "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+                "water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 4,
+            "caption": "The video opens in a modern living area with a person seated at a wooden coffee table, interacting with a MacBook displaying a split-screen interface showing a document and a smartphone mockup. The table holds various tech items: a blue Xbox controller, a black phone stand with a charging cable, a white smart speaker, a glass on a table-top water dispenser, and a charging dock. The person adjusts the laptop, then reaches for the glass, and later moves to the kitchen area. The camera follows them as they walk through the hallway to the kitchen, where they open a washing machine and retrieve folded clothes, including a gray Hanes t-shirt and a maroon garment. They then carry the clothes back to the living area, placing them on the sofa near a red backpack. The scene returns to the coffee table, where the person resumes working on the MacBook, now showing a dark-themed code editor interface. The TV in the background displays lyrics, and the cityscape is visible through the large window, maintaining a bright, airy atmosphere throughout.",
+            "active_entities": {
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV displaying lyrics.",
+                "coffee table": "Wooden surface with a MacBook, blue Xbox controller, smart speaker, phone stand, and table-top water dispenser.",
+                "MacBook": "Initially open to a split-screen interface, later showing a dark-themed code editor interface.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant.",
+                "phone stand": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+                "TV": "Mounted on the wall, displaying lyrics 'One in one and one on a shore / Like I don't believe in love no more'.",
+                "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+                "red backpack": "Placed on the gray sofa, with visible yellow trim and brand text.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table.",
+                "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+                "water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+                "hallway": "Connects the living area to the kitchen, with a visible door frame and tiled floor.",
+                "kitchen": "Equipped with modern appliances, a window with a city view, and a washing machine.",
+                "cityscape": "Dense urban environment visible through large windows and balcony, featuring high-rise buildings and clear skies."
+            },
+            "discovered_new_entities": {
+                "washing machine": "White front-loading machine with a digital display showing 'End', located in the kitchen.",
+                "clothes": "Folded garments including a gray Hanes t-shirt and a maroon piece, retrieved from the washing machine."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video opens in a modern living area with a first-person perspective, showing a person seated at a wooden coffee table with a MacBook open to a split-screen interface. The table holds a blue Xbox controller, a white smart speaker, a black phone stand with a charging cable, a glass on a white table-top water dispenser, and a large blue water bottle connected to the dispenser. The person, wearing denim shorts, interacts with the MacBook, using the trackpad to navigate through applications. The room features a gray sofa, a large window with cityscape views, and a wall-mounted TV displaying a city skyline. The person briefly stands and walks toward the kitchen, where a pot is simmering on the stove and a container of orange-colored paratha chatney sits nearby. On-screen text appears, reading 'Paratha chatney today' and 'Will eat in a while.' Returning to the living area, the person resumes working on the MacBook, which now displays a dark-themed code editor. The TV switches to a YouTube interface, showing a video with a red background and a golden trophy, then transitions to a music app with a red interface. The person continues to interact with the laptop, scrolling and typing, while the robotic vacuum cleaner remains stationary near the TV stand. The scene maintains a calm, domestic atmosphere with natural light streaming in from the window, and the cityscape remains visible outside.",
+            "active_entities": {
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV displaying lyrics and later a YouTube interface.",
+                "coffee table": "Wooden surface with a MacBook, blue Xbox controller, smart speaker, phone stand, and table-top water dispenser.",
+                "MacBook": "Initially open to a split-screen interface, later showing a dark-themed code editor interface.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant.",
+                "phone stand": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+                "TV": "Mounted on the wall, displaying lyrics, then a YouTube interface with a red background and golden trophy, and later a music app with a red interface.",
+                "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+                "table-top water dispenser": "White, circular device with a spout, dispensing water into a glass placed on its base.",
+                "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+                "water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video.",
+                "kitchen": "Equipped with modern appliances, a window with a city view, and a washing machine."
+            },
+            "discovered_new_entities": {
+                "pot": "Silver cooking pot on the stove with a lid, simmering food.",
+                "container": "Transparent plastic container with orange-colored paratha chatney, placed next to the pot.",
+                "doorway": "Dark wooden door frame connecting the living area to the kitchen, visible as the person walks through.",
+                "on-screen text": "White text overlay appearing in the kitchen scene, reading 'Paratha chatney today' and 'Will eat in a while'."
+            }
+        },
+        {
+            "minute": 6,
+            "caption": "The video opens with a first-person perspective of someone sitting at a wooden coffee table in a modern living area, interacting with a MacBook. The laptop screen initially displays a dark-themed code editor, then transitions to a video call interface with multiple participants, suggesting a team meeting. The person uses the trackpad and keyboard to navigate, occasionally pausing to remove and place a smartwatch into its charging dock on the table. On-screen text overlays appear, including 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods', indicating the context of the activity. The user also interacts with a YouTube interface, clicking 'Subscribe' and the notification bell, while the screen shows a playlist of tech-related videos. The environment includes a gray sofa, a large window with a cityscape view, a TV mounted on the wall displaying a red-themed interface, and various items on the table: a blue Xbox controller, a smart speaker, a phone stand, a table-top water dispenser with a glass, and a water bottle. The lighting is bright and natural, suggesting daytime. The person is wearing denim shorts and a smartwatch, and their hands are actively engaged with the laptop throughout the segment.",
+            "active_entities": {
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV displaying a YouTube interface with a red background and golden trophy.",
+                "coffee table": "Wooden surface with a MacBook, blue Xbox controller, smart speaker, phone stand, and table-top water dispenser.",
+                "MacBook": "Initially open to a split-screen interface, later showing a dark-themed code editor interface, then a video call interface with multiple participants, and finally a YouTube interface.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant.",
+                "phone stand": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+                "TV": "Mounted on the wall, displaying lyrics, then a YouTube interface with a red background and golden trophy, and later a music app with a red interface.",
+                "table-top water dispenser": "White, circular device with a spout, dispensing water into a glass placed on its base.",
+                "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+                "water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table.",
+                "smartwatch": "Worn on a wrist, later placed into a charging dock on the coffee table.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video.",
+                "on-screen text": "White text overlay appearing in the video, reading 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods'."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 7,
+            "caption": "The scene is set in a well-lit living area with a wooden coffee table at the center. A person's right hand is actively using the trackpad of a MacBook, which displays a video call interface with multiple participants, suggesting a virtual meeting or collaboration. The screen transitions from a single participant to a grid view of several individuals, indicating the meeting is in progress. On the table, a black charging dock for a smartwatch is visible, along with a black cylindrical container holding glasses and a blue Xbox controller. In the background, a large window reveals a cityscape, while a gray sofa and a mounted TV displaying a red-themed YouTube interface with a golden trophy are also visible. The environment is modern and organized, with natural light streaming in, creating a calm and productive atmosphere. The hand gestures suggest navigation or interaction with the video call interface, possibly managing participants or adjusting settings.",
+            "active_entities": {
+                "MacBook": "Open on a video call interface, initially showing one participant, then transitioning to a grid view of multiple participants, indicating an active virtual meeting.",
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, and a blue Xbox controller.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table.",
+                "TV": "Mounted on the wall, displaying a YouTube interface with a red background and golden trophy.",
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space.",
+                "cityscape": "Dense urban environment visible through the large window, featuring high-rise buildings and clear skies.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 8,
+            "caption": "The video captures a continuous scene of a person interacting with a MacBook on a wooden coffee table in a well-lit living area. The MacBook screen displays a video conferencing interface, initially showing a grid of multiple participants, then transitioning to a one-on-one call with a woman in a pink top. The user’s right hand is actively using the trackpad to navigate the interface, selecting participants and managing the call. On-screen text overlays appear, including a message from 'Karan A' asking about data privacy, and a notification that 'Madhav declined the request to join the stage.' The environment remains consistent, with natural light streaming through a large window, revealing a cityscape outside. The coffee table holds a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker. In the background, a gray sofa, a TV mounted on the wall displaying a YouTube interface with a red background and golden trophy, and a potted plant are visible. The atmosphere is calm and focused, suggesting a professional or collaborative virtual meeting in progress.",
+            "active_entities": {
+                "MacBook": "Open on a video call interface, initially showing a grid of multiple participants, then transitioning to a one-on-one call with a woman in a pink top, with on-screen text overlays and interactive controls visible.",
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "TV": "Mounted on the wall, displaying a YouTube interface with a red background and golden trophy, visible in the background.",
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space.",
+                "cityscape": "Dense urban environment visible through the large window, featuring high-rise buildings and clear skies.",
+                "on-screen text": "White text overlay appearing in the video, reading 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods'.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 9,
+            "caption": "The scene is set in a bright, modern living area with natural light streaming through a large window, illuminating a wooden coffee table. On the table, a MacBook is open, displaying a video call interface with a woman in a pink top, who appears engaged and smiling. The interface includes on-screen text overlays resembling a YouTube-style layout with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons, suggesting a live-streaming or interactive video call. A hand enters the frame from the right, interacting with the MacBook’s trackpad, scrolling and navigating the interface. The hand occasionally gestures toward the screen, indicating active participation in the call. The background includes a mounted TV showing a red-themed YouTube interface with a golden trophy, a black charging dock, a black cylindrical container holding glasses, a blue Xbox controller, and a white smart speaker. The environment remains static, with no changes in lighting or setting, emphasizing the focus on the digital interaction. The on-screen text 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods' appears intermittently, providing context to the call’s purpose and duration. The hand’s movements are deliberate, suggesting the user is managing the call’s flow, possibly muting, adjusting settings, or switching views. The overall atmosphere is calm and focused, with the user deeply engaged in the virtual conversation.",
+            "active_entities": {
+                "MacBook": "Open on a video call interface, showing a one-on-one call with a woman in a pink top, featuring on-screen text overlays and interactive controls, with a hand actively using the trackpad for navigation.",
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "TV": "Mounted on the wall, displaying a YouTube interface with a red background and golden trophy, visible in the background.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface.",
+                "on-screen text": "White text overlay appearing in the video, reading 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods'."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 10,
+            "caption": "The scene is set in a bright, modern living area with a large window offering a panoramic cityscape view. A wooden coffee table holds a MacBook open to a video call interface, displaying a woman in a pink top with on-screen text overlays resembling a YouTube-style interface, including 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons. The MacBook screen also shows interactive controls and a list of participants, indicating a virtual meeting or live stream. A hand enters the frame, interacting with the trackpad to navigate the interface, scrolling through participant thumbnails and selecting options like 'Bring on Stage'. To the left of the MacBook, a black charging dock (currently unoccupied) sits beside a black cylindrical container holding glasses, a blue Xbox controller, and a white smart speaker. A white table-top water dispenser with a glass and a water bottle is also visible. In the background, a TV mounted on the wall displays a cityscape image, and a gray sofa with a red backpack is partially visible. The lighting is natural, coming from the large window, and the overall atmosphere is calm and focused on digital interaction.",
+            "active_entities": {
+                "MacBook": "Open on a video call interface, showing a one-on-one call with a woman in a pink top, featuring on-screen text overlays and interactive controls, with a hand actively using the trackpad for navigation.",
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+                "table-top water dispenser": "White, circular device with a spout, dispensing water into a glass placed on its base.",
+                "water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+                "TV": "Mounted on the wall, displaying a cityscape image, visible in the background.",
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space.",
+                "cityscape": "Dense urban environment visible through the large window, featuring high-rise buildings and clear skies.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface.",
+                "on-screen text": "White text overlay appearing in the video, reading 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods'."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 11,
+            "caption": "The scene is set in a modern, well-lit living area with a large window offering a panoramic cityscape view. A wooden coffee table holds a MacBook open to a video call interface, displaying a one-on-one call with a woman in a pink top. The screen shows interactive controls, including a red 'end call' button, a 'ring on stage' option, and a YouTube-style overlay with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons. A hand actively uses the trackpad to navigate the interface, occasionally moving in and out of frame. To the left of the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker are arranged neatly. A white table-top water dispenser with a glass and a connected blue water bottle is also visible. In the background, a TV mounted on the wall displays a cityscape image, and a robotic vacuum cleaner rests near the TV stand. The room is bright with natural light, and a gray sofa with a red backpack is partially visible on the right. The on-screen text overlay includes phrases like 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods', suggesting a work-related or collaborative context. The hand’s movements are deliberate, indicating active engagement with the video call interface, possibly adjusting settings or interacting with the call controls.",
+            "active_entities": {
+                "MacBook": "Open on a video call interface, showing a one-on-one call with a woman in a pink top, featuring on-screen text overlays and interactive controls, with a hand actively using the trackpad for navigation.",
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "TV": "Mounted on the wall, displaying a cityscape image, visible in the background.",
+                "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+                "red backpack": "Placed on the gray sofa, with visible yellow trim and brand text.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface.",
+                "on-screen text": "White text overlay appearing in the video, reading 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods'.",
+                "cityscape": "Dense urban environment visible through the large window, featuring high-rise buildings and clear skies.",
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space.",
+                "table-top water dispenser": "White, circular device with a spout, dispensing water into a glass placed on its base.",
+                "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+                "water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 12,
+            "caption": "The scene is set in a modern, well-lit living area with a large window offering a view of a cityscape. A wooden coffee table holds a MacBook open to a video call interface, displaying a woman in a pink top. The screen shows a YouTube-style overlay with interactive elements like 'Subscribe', 'Like', and 'Bell' icons, which appear and disappear as a hand interacts with the trackpad. The hand, entering from the right, gestures toward the screen and uses the trackpad to navigate, causing the on-screen text overlay to change from 'Subscribe' to 'Subscribed' and activating the bell icon. Surrounding the MacBook are a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker. In the background, a TV mounted on the wall displays a dynamic image of Earth from space, replacing the earlier cityscape. The room is bright with natural light, and a gray sofa with a red backpack is visible to the right. The overall atmosphere is calm and focused, suggesting a remote work or communication session.",
+            "active_entities": {
+                "MacBook": "Open on a video call interface, showing a one-on-one call with a woman in a pink top, featuring on-screen text overlays and interactive controls, with a hand actively using the trackpad for navigation.",
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "TV": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface.",
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space.",
+                "cityscape": "Dense urban environment visible through the large window, featuring high-rise buildings and clear skies.",
+                "red backpack": "Placed on the gray sofa, with visible yellow trim and brand text."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 13,
+            "caption": "The scene is set in a bright, modern living area with natural light streaming through a large window, revealing a cityscape outside. Centered on a wooden coffee table is a MacBook displaying a video call interface with a woman in a pink top, who appears cheerful and engaged. A hand interacts with the trackpad, navigating the interface, while on-screen text overlays indicate a YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing at the bottom. The coffee table also holds a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker. In the background, a TV mounted on the wall shows a dynamic image of Earth from space, and a robotic vacuum cleaner is visible near the TV stand. The atmosphere is calm and focused, suggesting a casual yet productive remote interaction. The hand continues to interact with the trackpad, occasionally pausing, while the video call remains active. The on-screen text overlay changes to reflect user engagement actions, such as subscribing and enabling notifications.",
+            "active_entities": {
+                "MacBook": "Open on a video call interface, showing a one-on-one call with a woman in a pink top, featuring on-screen text overlays and interactive controls, with a hand actively using the trackpad for navigation.",
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "TV": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background.",
+                "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface."
+            },
+            "discovered_new_entities": {
+                "hand": "Visible interacting with the MacBook's trackpad, navigating the video call interface and engaging with on-screen controls."
+            }
+        },
+        {
+            "minute": 14,
+            "caption": "The scene is set in a bright, modern living area with natural light streaming through a large window, revealing a cityscape outside. Centered on a wooden coffee table is a MacBook open to a video call interface, displaying a woman in a pink top who is smiling and engaged in conversation. The on-screen interface includes YouTube-style elements such as 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons, suggesting a live stream or recorded video interaction. A hand is actively using the trackpad, navigating the interface. To the left of the MacBook, a black charging dock (currently unoccupied) sits beside a white smart speaker and a glass filled with water from a table-top dispenser. A blue Xbox controller rests near a black cylindrical container holding glasses, which is topped with a fluffy white cover. In the background, a TV mounted on the wall displays a dynamic image of Earth from space, while a robotic vacuum cleaner is visible near the TV stand. The overall atmosphere is calm and organized, with a focus on digital connectivity and modern home technology. The on-screen text overlay reads 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods', indicating the context of the video call. The lighting remains consistent, with no noticeable environmental shifts.",
+            "active_entities": {
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+                "MacBook": "Open on a video call interface, showing a one-on-one call with a woman in a pink top, featuring on-screen text overlays and interactive controls, with a hand actively using the trackpad for navigation.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "TV": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background.",
+                "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+                "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+                "table-top water dispenser": "White, circular device with a spout, dispensing water into a glass placed on its base.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface.",
+                "on-screen text": "White text overlay appearing in the video, reading 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods'.",
+                "hand": "Visible interacting with the MacBook's trackpad, navigating the video call interface and engaging with on-screen controls.",
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space.",
+                "cityscape": "Dense urban environment visible through the large window, featuring high-rise buildings and clear skies."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 15,
+            "caption": "The video opens on a static shot of a modern living area, centered on a wooden coffee table with a MacBook open to a video call interface. The screen displays a woman in a pink top, smiling and engaged in conversation, with a YouTube-style overlay showing 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons. The environment is bright and airy, illuminated by natural light from a large window revealing a cityscape. On the table, a black charging dock, a black cylindrical container holding glasses, a blue Xbox controller, and a white smart speaker are arranged neatly. A hand enters the frame from the right, interacting with the MacBook’s trackpad, navigating through the video call interface and then switching to a document or text editor, indicating multitasking. The background includes a mounted TV displaying Earth from space, a gray sofa with a red backpack, and a robotic vacuum cleaner near the TV stand. The atmosphere is calm and focused, suggesting a remote work or casual video meeting scenario.",
+            "active_entities": {
+                "MacBook": "Open on a video call interface, showing a one-on-one call with a woman in a pink top, featuring on-screen text overlays and interactive controls, with a hand actively using the trackpad for navigation.",
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "TV": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background.",
+                "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+                "red backpack": "Placed on the gray sofa, with visible yellow trim and brand text.",
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space.",
+                "cityscape": "Dense urban environment visible through the large window, featuring high-rise buildings and clear skies.",
+                "hand": "Visible interacting with the MacBook's trackpad, navigating the video call interface and engaging with on-screen controls.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 16,
+            "caption": "The scene is set in a well-lit living area with natural light streaming through a large window, illuminating a wooden coffee table where a MacBook is open and actively in use. A hand, likely belonging to the person seated at the table, is seen interacting with the MacBook’s trackpad, navigating through a video call interface. The screen displays a one-on-one video call with a woman in a pink top, and the interface includes on-screen text overlays resembling a YouTube-style layout with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons. The hand performs precise gestures, scrolling and clicking, suggesting active engagement with the call or related content. Surrounding the MacBook are several objects: a black charging dock (currently unoccupied), a black cylindrical container holding glasses, a blue Xbox controller, and a white smart speaker. In the background, a TV mounted on the wall shows a dynamic image of Earth from space, adding a serene, cosmic ambiance to the room. A gray sofa with a red backpack resting on it is visible to the right, and a potted plant stands near the window, contributing to the cozy, modern aesthetic. The overall atmosphere is calm and focused, with the user deeply engaged in a digital interaction.",
+            "active_entities": {
+                "MacBook": "Open on a video call interface, showing a one-on-one call with a woman in a pink top, featuring on-screen text overlays and interactive controls, with a hand actively using the trackpad for navigation.",
+                "hand": "Visible interacting with the MacBook's trackpad, navigating the video call interface and engaging with on-screen controls.",
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "TV": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background.",
+                "red backpack": "Placed on the gray sofa, with visible yellow trim and brand text.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface."
+            },
+            "discovered_new_entities": {
+                "gray sofa": "Visible to the right of the coffee table, with a red backpack resting on it.",
+                "potted plant": "Green leafy plant near the window, adding a natural element to the room."
+            }
+        },
+        {
+            "minute": 17,
+            "caption": "The video opens with a close-up of a MacBook placed on a wooden coffee table in a well-lit living area, with a hand actively using the trackpad to navigate a video call interface. The screen displays a one-on-one call with a woman in a pink top, and the interface includes YouTube-style on-screen text overlays such as 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons. The hand scrolls through the call interface, occasionally pausing to interact with controls. At one point, the person’s left hand, wearing a black smartwatch, enters the frame and points toward the screen, possibly indicating a specific feature or text. The background reveals a large window with a cityscape view, a gray sofa with a red backpack, a TV mounted on the wall showing Earth from space, and a potted plant near the window. On the table, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker are visible. The lighting remains consistent, suggesting daytime, and the atmosphere is calm and focused on digital interaction. The hand continues to navigate the interface, occasionally switching between the video call and a text-based document or chat window, indicating multitasking during the call. The scene remains static in terms of camera position, emphasizing the user’s interaction with the laptop.",
+            "active_entities": {
+                "MacBook": "Open on a video call interface, showing a one-on-one call with a woman in a pink top, featuring on-screen text overlays and interactive controls, with a hand actively using the trackpad for navigation.",
+                "hand": "Visible interacting with the MacBook's trackpad, navigating the video call interface and engaging with on-screen controls.",
+                "smartwatch": "Worn on the left wrist, black in color, visible when the left hand enters the frame to point at the screen.",
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "TV": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background.",
+                "gray sofa": "Visible to the right of the coffee table, with a red backpack resting on it.",
+                "potted plant": "Green leafy plant near the window, adding a natural element to the room.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface.",
+                "on-screen text": "White text overlay appearing in the video, reading 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods'."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 18,
+            "caption": "The video opens with a static shot of a MacBook placed on a light wooden coffee table in a well-lit living area. The laptop screen displays a video call interface, showing a woman in a pink top with a visible smile, and on-screen text overlays including 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons, suggesting a YouTube-style interface. A hand enters the frame from the right, interacting with the trackpad to navigate the interface, then both hands appear, typing on the keyboard while wearing a black smartwatch on the left wrist. The hand gestures suggest active engagement with the call, possibly adjusting settings or responding to messages. The background reveals a gray sofa to the right, a large window with natural light, a potted plant, and a TV mounted on the wall displaying a dynamic image of Earth from space. On the table, a black charging dock, a black cylindrical container holding glasses, a blue Xbox controller, and a white smart speaker are visible. The scene remains consistent throughout, with the hand continuing to interact with the laptop, occasionally pausing, and the video call interface remaining active. The atmosphere is calm and focused, with no significant environmental changes, emphasizing a personal workspace setup in a modern living space.",
+            "active_entities": {
+                "MacBook": "Open on a video call interface, showing a one-on-one call with a woman in a pink top, featuring on-screen text overlays and interactive controls, with a hand actively using the trackpad for navigation.",
+                "hand": "Visible interacting with the MacBook's trackpad, navigating the video call interface and engaging with on-screen controls.",
+                "smartwatch": "Worn on the left wrist, black in color, visible when the left hand enters the frame to point at the screen.",
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "gray sofa": "Visible to the right of the coffee table, with a red backpack resting on it.",
+                "TV": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background.",
+                "potted plant": "Green leafy plant near the window, adding a natural element to the room.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface.",
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 19,
+            "caption": "The video captures a continuous scene set in a well-lit living area, centered on a wooden coffee table where a MacBook is open and actively displaying a video call interface. The screen shows a one-on-one call with a woman in a pink top, with on-screen text overlays resembling a YouTube-style interface, including 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons. A hand enters the frame from the right, interacting with the MacBook’s trackpad, navigating through the call interface, and occasionally adjusting the view or controls. The surrounding environment includes a black charging dock, a black cylindrical container holding glasses, a blue Xbox controller, a white smart speaker, and a phone stand connected to a charging cable. In the background, a gray sofa with a red backpack, a potted plant near the window, and a TV mounted on the wall displaying a dynamic image of Earth from space are visible. Natural light streams in from a large window, illuminating the space and revealing a cityscape outside. The hand’s movements are deliberate, suggesting active engagement with the video call, possibly managing settings or responding to the call participant. The overall atmosphere is calm and focused, with no abrupt changes in lighting or setting.",
+            "active_entities": {
+                "MacBook": "Open on a video call interface, showing a one-on-one call with a woman in a pink top, featuring on-screen text overlays and interactive controls, with a hand actively using the trackpad for navigation.",
+                "hand": "Visible interacting with the MacBook's trackpad, navigating the video call interface and engaging with on-screen controls.",
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "phone stand": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+                "TV": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background.",
+                "gray sofa": "Visible to the right of the coffee table, with a red backpack resting on it.",
+                "potted plant": "Green leafy plant near the window, adding a natural element to the room.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface.",
+                "red backpack": "Placed on the gray sofa, with visible yellow trim and brand text."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 20,
+            "caption": "The video opens with a close-up of a hand interacting with a MacBook on a wooden coffee table in a well-lit living area. The MacBook screen displays a text-based interface, possibly a messaging or coding application, with a green border around the screen. The hand uses the trackpad to navigate, and at one point, the on-screen text overlay 'Anshul ringing for lunch' appears, indicating a notification or message. The surrounding environment includes a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker. In the background, a TV mounted on the wall shows a dynamic image of Earth from space, and a potted plant is visible near the window. The scene then transitions as the camera pans to the right, revealing a hallway leading to the kitchen. The kitchen features a modern electric stove with a silver pot simmering food, a transparent container with orange-colored paratha chatney, and a white plate placed on the counter. The overall atmosphere is calm and domestic, with natural light streaming in from the large window, highlighting the clean and organized space.",
+            "active_entities": {
+                "hand": "Visible interacting with the MacBook's trackpad, navigating the text-based interface and engaging with on-screen controls.",
+                "MacBook": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen, displaying on-screen text overlay 'Anshul ringing for lunch'.",
+                "coffee table": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "TV": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background.",
+                "potted plant": "Green leafy plant near the window, adding a natural element to the room.",
+                "gray sofa": "Visible to the right of the coffee table, with a red backpack resting on it.",
+                "hallway": "Connects the living area to the kitchen, with a visible door frame and tiled floor.",
+                "kitchen": "Equipped with modern appliances, a window with a city view, and a washing machine.",
+                "pot": "Silver cooking pot on the stove with a lid, simmering food.",
+                "container": "Transparent plastic container with orange-colored paratha chatney, placed next to the pot.",
+                "doorway": "Dark wooden door frame connecting the living area to the kitchen, visible as the person walks through."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 21,
+            "caption": "The video begins in a modern kitchen where a hand removes freshly cooked parathas from a silver pot on an induction stove and places them on a white plate. A transparent container with orange paratha chatney and a green-and-white tub of fresh yogurt are placed beside the plate. The hand then carries the plate and yogurt tub through a doorway into a bright living area with a gray sofa, coffee table, and large window overlooking a cityscape. The plate is set on the coffee table, which already holds a MacBook, a black charging dock, a blue Xbox controller, a white smart speaker, and a glass on a table-top water dispenser. The hand scoops yogurt onto the plate, and the scene transitions to a close-up of the plate with parathas, chatney, and yogurt. The camera pans to show the living room setup, including a TV displaying a space image, a robotic vacuum cleaner, and a red backpack on the sofa. An on-screen text overlay appears with YouTube-style 'Subscribe', 'Like', and 'Bell' icons, suggesting a video call or content-sharing context. The hand then picks up a paratha, and the video ends with a view of the coffee table and the living area, emphasizing the casual, tech-integrated lifestyle.",
+            "active_entities": {
+                "pot": "Silver cooking pot on the induction stove, covered with a glass lid, containing cooked parathas.",
+                "container": "Transparent plastic container with orange-colored paratha chatney, placed next to the pot and later on the coffee table.",
+                "coffee table": "Wooden surface holding the MacBook, black charging dock, blue Xbox controller, white smart speaker, glass on dispenser, and the plate of food.",
+                "MacBook": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen, displaying on-screen text overlay 'Anshul ringing for lunch'.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+                "table-top water dispenser": "White, circular device with a spout, dispensing water into a glass placed on its base.",
+                "water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+                "gray sofa": "Visible to the right of the coffee table, with a red backpack resting on it.",
+                "red backpack": "Placed on the gray sofa, with visible yellow trim and brand text.",
+                "TV": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background.",
+                "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+                "potted plant": "Green leafy plant near the window, adding a natural element to the room.",
+                "doorway": "Dark wooden door frame connecting the living area to the kitchen, visible as the person walks through.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface.",
+                "hand": "Visible interacting with the pot, plate, yogurt tub, and parathas, moving from kitchen to living area, placing food, and scooping yogurt.",
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space, now fully visible with all items arranged."
+            },
+            "discovered_new_entities": {
+                "plate": "White ceramic plate holding folded parathas, later topped with chatney and yogurt.",
+                "yogurt tub": "Green-and-white tub labeled 'Fresh Yoghurt' with Arabic text, placed on the counter and later on the coffee table.",
+                "induction stove": "Black glass-top stove with circular heating zones, one of which is active under the pot."
+            }
+        },
+        {
+            "minute": 22,
+            "caption": "The video opens with a close-up of a white plate on a coffee table, holding folded parathas, a dollop of white yogurt, and a small orange chatney, with the person’s denim-clad legs visible in the foreground. The camera then pulls back to reveal the full living area, showing the coffee table with various items including a blue Xbox controller, a black charging dock, a white smart speaker, a glass on a table-top water dispenser, and a large blue water bottle. The TV mounted on the wall displays a show titled 'For All Mankind Season 3', transitioning to a scene with characters in a car. The person raises a wine glass with a yellow drink, then the scene shifts to the laptop being opened and placed on the table, displaying a design interface. The TV screen changes to show a cityscape, and on-screen text appears: 'More meetings', followed by 'Skip 3 minutes if not interested'. The person interacts with the laptop, occasionally sipping from the glass or reaching for the water bottle, while the robotic vacuum cleaner remains stationary near the TV stand. The room is well-lit with natural light from the large window, and the potted plant adds a touch of greenery. The gray sofa with a red backpack is visible to the right, and the overall atmosphere is relaxed and casual, blending work and leisure.",
+            "active_entities": {
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space, now fully visible with all items arranged.",
+                "coffee table": "Wooden surface holding the MacBook, black charging dock, blue Xbox controller, white smart speaker, glass on dispenser, and the plate of food.",
+                "TV": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background, later showing 'For All Mankind Season 3' and a cityscape.",
+                "MacBook": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen, displaying on-screen text overlay 'Anshul ringing for lunch'.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+                "water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+                "table-top water dispenser": "White, circular device with a spout, dispensing water into a glass placed on its base.",
+                "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+                "potted plant": "Green leafy plant near the window, adding a natural element to the room.",
+                "gray sofa": "Visible to the right of the coffee table, with a red backpack resting on it.",
+                "on-screen text": "White text overlay appearing in the video, reading 'More meetings', 'Skip 3 minutes if not interested', and 'Skip 3 minutes if not interested'.",
+                "plate": "White ceramic plate holding folded parathas, later topped with chatney and yogurt.",
+                "yogurt tub": "Green-and-white tub labeled 'Fresh Yoghurt' with Arabic text, placed on the counter and later on the coffee table.",
+                "cityscape": "Dense urban environment visible through the large window, featuring high-rise buildings and clear skies.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 23,
+            "caption": "The video captures a static, well-lit living area with natural light streaming through sheer curtains on the left. The central focus is a wooden coffee table holding a MacBook open to a text-based interface, possibly a coding or messaging application, with a green border around the screen and an on-screen text overlay reading 'Anshul ringing for lunch'. To the left of the MacBook is a yellow bottle labeled '27', a clear glass, a white table-top water dispenser, and a blue Xbox controller. To the right is a large blue water bottle and a pair of glasses. Behind the table, a TV mounted on the wall displays a vibrant cityscape under a blue sky. Below the TV, a white shelf holds a round clock, a smart speaker, and a robotic vacuum cleaner resting on the floor. A potted plant stands near the window, adding greenery to the space. The gray sofa is partially visible on the right, with a red backpack resting on it. The scene remains unchanged throughout the minute, with no visible movement or interaction, suggesting a moment of pause or preparation for work or leisure. The overall atmosphere is calm and organized, with a modern, minimalist aesthetic.",
+            "active_entities": {
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space, now fully visible with all items arranged.",
+                "coffee table": "Wooden surface holding the MacBook, black charging dock, blue Xbox controller, white smart speaker, glass on dispenser, and the plate of food.",
+                "MacBook": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen, displaying on-screen text overlay 'Anshul ringing for lunch'.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "TV": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background, later showing 'For All Mankind Season 3' and a cityscape.",
+                "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+                "red backpack": "Placed on the gray sofa, with visible yellow trim and brand text.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+                "water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+                "on-screen text overlay": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface.",
+                "gray sofa": "Visible to the right of the coffee table, with a red backpack resting on it.",
+                "potted plant": "Green leafy plant near the window, adding a natural element to the room."
+            },
+            "discovered_new_entities": {
+                "yellow bottle": "Yellow plastic bottle labeled '27', placed on the coffee table to the left of the MacBook."
+            }
+        },
+        {
+            "minute": 24,
+            "caption": "The video opens with a wide shot of a modern, well-lit living area, centered on a wooden coffee table holding a MacBook, a yellow bottle labeled '27', a glass, a blue water bottle, a white smart speaker, and a black charging dock. In the background, a large TV mounted on the wall displays a vibrant cityscape, while a potted plant and a robotic vacuum cleaner rest near a window with sheer curtains. The camera slowly zooms in toward the MacBook, which is open to a design or development interface with a dark theme, showing a UI layout with red and blue elements. As the camera moves closer, the perspective shifts to a first-person view, suggesting the user is seated on a gray sofa with the laptop resting on their lap. The room is bathed in natural light from a large glass door leading to a balcony, revealing a city view. The environment remains static, with no visible movement or interaction, emphasizing a calm, focused work or design session in a comfortable home setting. The on-screen interface appears to be a design tool, possibly Figma or similar, with panels for layers and properties visible on the left and right sides of the screen.",
+            "active_entities": {
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space, now fully visible with all items arranged.",
+                "coffee table": "Wooden surface holding the MacBook, black charging dock, blue Xbox controller, white smart speaker, glass on dispenser, and the plate of food.",
+                "MacBook": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen, displaying on-screen text overlay 'Anshul ringing for lunch'.",
+                "TV": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background, later showing 'For All Mankind Season 3' and a cityscape.",
+                "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+                "potted plant": "Green leafy plant near the window, adding a natural element to the room.",
+                "gray sofa": "Visible to the right of the coffee table, with a red backpack resting on it.",
+                "yellow bottle": "Yellow plastic bottle labeled '27', placed on the coffee table to the left of the MacBook.",
+                "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "cityscape": "Dense urban environment visible through the large window, featuring high-rise buildings and clear skies."
+            },
+            "discovered_new_entities": {
+                "blue water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube."
+            }
+        },
+        {
+            "minute": 25,
+            "caption": "The video opens with a first-person perspective of a laptop screen displaying a video call interface, with the message 'You are sharing your screen' visible, indicating an ongoing screen-sharing session. The setting is a bright, modern living area with natural light streaming in through a large window, revealing a cityscape view. On the coffee table, a yellow bottle labeled '27', a wine glass, a blue water bottle, and a white smart speaker are arranged. A TV mounted on the wall shows a vibrant city skyline. The scene then transitions to a close-up of two men in the living area. One man, wearing a black t-shirt and patterned shorts, holds a Garmin watch box and gestures toward it while speaking, likely explaining or showcasing the product. The other man, in a maroon t-shirt and brown shorts, sits on a gray sofa, listening attentively. A third person is partially visible in the background, standing near the sofa. The atmosphere is casual and conversational, with the focus shifting from the digital screen-sharing to a physical product demonstration. The on-screen text overlay 'Mantra has bought Garmin watch' appears, confirming the context of the interaction.",
+            "active_entities": {
+                "coffee table": "Wooden surface holding a yellow bottle labeled '27', a wine glass, a blue water bottle, and a white smart speaker.",
+                "TV": "Mounted on the wall, displaying a vibrant city skyline image.",
+                "gray sofa": "Visible to the right, with one man seated on it and a red backpack resting on it.",
+                "potted plant": "Green leafy plant near the window, adding a natural element to the room.",
+                "yellow bottle": "Yellow plastic bottle labeled '27', placed on the coffee table to the left of the laptop.",
+                "blue water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube, placed on the coffee table.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "on-screen text overlay": "White text reading 'Mantra has bought Garmin watch', appearing at the bottom of the screen during the product showcase."
+            },
+            "discovered_new_entities": {
+                "laptop": "Open on a video call interface with screen-sharing active, displaying 'You are sharing your screen' and a dark background with interface controls.",
+                "man in black t-shirt": "Wearing a black t-shirt and patterned shorts, holding a Garmin watch box and gesturing while speaking.",
+                "man in maroon t-shirt": "Sitting on the gray sofa, wearing a maroon t-shirt with 'ANIMAL EXCHANGE' text and brown shorts, listening attentively.",
+                "Garmin watch box": "Black rectangular box with 'GARMIN' branding and an image of a smartwatch on the front, being held and presented by the man in the black t-shirt.",
+                "third person": "Partially visible in the background, standing near the sofa, wearing a white t-shirt with 'USPA' text, observing the interaction."
+            }
+        },
+        {
+            "minute": 26,
+            "caption": "In a well-lit living area, the man in the black t-shirt and patterned shorts is seated at a wooden coffee table, unboxing a Garmin watch. He carefully opens the black rectangular Garmin watch box, revealing the smartwatch inside with a vibrant red and black display showing '10' and 'SAT 01'. The man in the maroon t-shirt, seated on the gray sofa, watches intently, occasionally reacting with amusement and surprise, at one point yawning widely and then laughing. The third person, partially visible in the background wearing a white 'USPA' t-shirt, observes the interaction. The man in black lifts the watch from its packaging, showing it to the camera and gesturing excitedly, while the man in maroon reaches for his own phone, possibly to record or comment. On-screen text appears, including 'Ma'm Ghar ki Bahu Hun??' and a YouTube 'Subscribe' prompt with a bell icon. The atmosphere is casual and playful, with the focus on the unboxing and the reactions of the group. The coffee table holds a closed laptop and a yellow bottle labeled '27', while the gray sofa has a red backpack resting on it. The room is bright, with natural light coming through a large window, and a potted plant is visible near the window.",
+            "active_entities": {
+                "man in black t-shirt": "Wearing a black t-shirt and blue shorts with Captain America shield patterns, holding and unboxing a Garmin watch, gesturing excitedly while speaking.",
+                "man in maroon t-shirt": "Sitting on the gray sofa, wearing a maroon 'ANIMAL EXCHANGE' t-shirt and brown shorts, reacting with laughter and yawning, occasionally reaching for his phone.",
+                "Garmin watch box": "Black rectangular box with 'GARMIN' branding and an image of a smartwatch on the front, being opened to reveal the watch inside with a red and black display.",
+                "gray sofa": "Visible to the right, with the man in maroon seated on it and a red backpack resting on it.",
+                "coffee table": "Wooden surface holding a closed laptop, a yellow bottle labeled '27', and the Garmin watch box during the unboxing.",
+                "third person": "Partially visible in the background, standing near the sofa, wearing a white t-shirt with 'USPA' text, observing the interaction.",
+                "on-screen text": "White text overlay appearing in the video, reading 'Ma'm Ghar ki Bahu Hun??' and a YouTube 'Subscribe' prompt with a bell icon.",
+                "laptop": "Closed on the coffee table, gray in color, positioned to the left of the unboxing area."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 27,
+            "caption": "In a well-lit living area, the man in black t-shirt and blue Captain America-patterned shorts is unboxing a Garmin smartwatch, carefully removing it from its black box and examining its features. He places the watch on his left wrist, adjusting the black mesh strap and showcasing the watch face, which displays a red and black interface with time and activity metrics. The man in maroon t-shirt, seated on the gray sofa, watches with interest, occasionally laughing and yawning, while also handling his own black box, possibly containing a similar device. The coffee table holds the open Garmin watch box, a charging cable in a plastic bag, and a small instruction booklet. The man in black gestures excitedly as he speaks, likely explaining the watch’s features, while the man in maroon reacts with amusement. A third person, partially visible in the background wearing a white t-shirt with 'USPA' text, observes the interaction. The atmosphere is casual and friendly, with natural light illuminating the space and the focus remaining on the unboxing and demonstration of the smartwatch.",
+            "active_entities": {
+                "man in black t-shirt": "Wearing a black t-shirt and blue shorts with Captain America shield patterns, actively unboxing and demonstrating a Garmin smartwatch, adjusting the strap and showing the watch face while gesturing and speaking.",
+                "man in maroon t-shirt": "Sitting on the gray sofa, wearing a maroon 'ANIMAL EXCHANGE' t-shirt and brown shorts, reacting with laughter and yawning, holding a black box and occasionally reaching for his phone.",
+                "Garmin watch box": "Black rectangular box with 'GARMIN' branding, opened to reveal the smartwatch inside, placed on the coffee table alongside the charging cable and instruction booklet.",
+                "smartwatch": "Black smartwatch with a red and black display, being unboxed, strapped onto the man in black’s left wrist, and shown from multiple angles during the demonstration.",
+                "coffee table": "Wooden surface holding the open Garmin watch box, a charging cable in a plastic bag, a small instruction booklet, and the watch during the unboxing process.",
+                "gray sofa": "Visible to the right, with the man in maroon seated on it and a red backpack resting on it, providing a backdrop for the interaction.",
+                "third person": "Partially visible in the background, standing near the sofa, wearing a white t-shirt with 'USPA' text, observing the unboxing and interaction."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 28,
+            "caption": "The video segment opens with the man in black t-shirt and blue Captain America-patterned shorts seated at a wooden coffee table, actively unboxing and demonstrating a Garmin smartwatch. He carefully straps the black smartwatch onto his left wrist, adjusting the band for a snug fit. The watch face initially displays a colorful interface with time and health metrics, then transitions to a black screen as he removes a protective film. He presses the side button, triggering a blue triangular animation, followed by a series of greeting messages in multiple languages—'Bonjour', 'Ciao', 'Hej'—each appearing with a colorful circular animation. The man in maroon t-shirt, seated on the gray sofa, watches with amusement, occasionally laughing and yawning, while holding a black box and glancing at his phone. The coffee table holds the open Garmin watch box, a charging cable in a plastic bag, a small instruction booklet, and a black charging dock. The living area is well-lit with natural light, featuring a gray sofa, a large window with curtains, and a TV displaying a city skyline. The atmosphere is casual and relaxed, with the focus on the unboxing and initial setup of the smartwatch.",
+            "active_entities": {
+                "man in black t-shirt": "Wearing a black t-shirt and blue shorts with Captain America shield patterns, actively unboxing and demonstrating a Garmin smartwatch, adjusting the strap and showing the watch face while gesturing and speaking.",
+                "man in maroon t-shirt": "Sitting on the gray sofa, wearing a maroon 'ANIMAL EXCHANGE' t-shirt and brown shorts, reacting with laughter and yawning, holding a black box and occasionally reaching for his phone.",
+                "smartwatch": "Black smartwatch with a red and black display, being unboxed, strapped onto the man in black’s left wrist, and shown from multiple angles during the demonstration, displaying colorful interface, greeting messages, and animations.",
+                "coffee table": "Wooden surface holding the open Garmin watch box, a charging cable in a plastic bag, a small instruction booklet, and the watch during the unboxing process.",
+                "Garmin watch box": "Black rectangular box with 'GARMIN' branding, opened to reveal the smartwatch inside, placed on the coffee table alongside the charging cable and instruction booklet.",
+                "gray sofa": "Visible to the right, with the man in maroon seated on it and a red backpack resting on it, providing a backdrop for the interaction.",
+                "TV": "Mounted on the wall, displaying a vibrant city skyline image.",
+                "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+                "laptop": "Closed on the coffee table, gray in color, positioned to the left of the unboxing area.",
+                "third person": "Partially visible in the background, standing near the sofa, wearing a white t-shirt with 'USPA' text, observing the unboxing and interaction."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 29,
+            "caption": "The video segment focuses on the man in black t-shirt, who is actively demonstrating the setup of a black Garmin smartwatch on his left wrist. He is seated at a wooden coffee table, wearing blue shorts with Captain America shield patterns and gray sandals. The smartwatch initially displays a red circular animation with 'Hi' and then transitions to a purple 'Hello' greeting. He interacts with the watch by tapping the screen, navigating through setup options, and selecting 'Pair with phone?' with a green checkmark and red 'X' for cancellation. He then holds a green-cased smartphone in his right hand, bringing it close to the watch to initiate pairing. The phone screen shows a Bluetooth pairing interface, and the watch displays a six-digit code (558864) for confirmation. The coffee table holds the open Garmin watch box, a charging cable in a plastic bag, a small instruction booklet, and a closed gray laptop. The man’s arm has a visible tattoo, and he gestures with his hands while explaining the process. The background includes a gray sofa, a white tiled floor, and a gray rug beneath the table. The lighting is bright and natural, suggesting daytime. The man appears engaged and focused, occasionally glancing at the phone and watch to ensure successful pairing.",
+            "active_entities": {
+                "man in black t-shirt": "Wearing a black t-shirt and blue shorts with Captain America shield patterns, actively unboxing and demonstrating a Garmin smartwatch, adjusting the strap and showing the watch face while gesturing and speaking.",
+                "smartwatch": "Black smartwatch with a red and black display, being unboxed, strapped onto the man in black’s left wrist, and shown from multiple angles during the demonstration, displaying colorful interface, greeting messages, and animations.",
+                "Garmin watch box": "Black rectangular box with 'GARMIN' branding, opened to reveal the smartwatch inside, placed on the coffee table alongside the charging cable and instruction booklet.",
+                "coffee table": "Wooden surface holding the open Garmin watch box, a charging cable in a plastic bag, a small instruction booklet, and the watch during the unboxing process.",
+                "laptop": "Closed on the coffee table, gray in color, positioned to the left of the unboxing area.",
+                "gray sofa": "Visible to the right, with the man in maroon seated on it and a red backpack resting on it, providing a backdrop for the interaction."
+            },
+            "discovered_new_entities": {
+                "charging cable": "Black cable in a clear plastic bag, placed on the coffee table next to the Garmin watch box.",
+                "instruction booklet": "Small white booklet, likely containing setup instructions, placed on the coffee table next to the watch box.",
+                "smartphone": "Green-cased smartphone held in the man’s right hand, displaying a Bluetooth pairing interface with a numeric keypad and pairing instructions.",
+                "gray rug": "Textured gray rug beneath the coffee table, partially visible under the man’s feet and legs.",
+                "white tiled floor": "Clean, light-colored tiled floor visible beneath the coffee table and extending into the living area."
+            }
+        },
+        {
+            "minute": 30,
+            "caption": "The video opens with a close-up of the man in black t-shirt unboxing and setting up a Garmin smartwatch, holding a green-cased smartphone to pair it via Bluetooth. The smartwatch, with a black band and circular face, displays a blue animated pairing interface as the phone shows a numeric keypad for verification. After successful pairing, the watch face transitions to a colorful home screen with time, date, and activity icons. The camera then pulls back to reveal a wider living area where the man in maroon t-shirt sits on the gray sofa, reacting with amusement and yawning while holding a black box. A third person, partially visible in the background, observes the interaction. The coffee table is cluttered with tech items: a laptop displaying text, a white smart speaker, a blue-and-white Xbox controller, a yellow bottle, and a blue water bottle connected to a table-top water dispenser. The room is bright with natural light from a large window, and a potted plant adds greenery. The atmosphere is casual and relaxed, with the group engaged in tech unboxing and conversation, occasionally gesturing and laughing. The gray rug beneath the table and the white tiled floor are visible, contributing to the clean, modern aesthetic of the space.",
+            "active_entities": {
+                "smartwatch": "Black smartwatch with a circular face and black band, initially displaying a blue animated pairing interface, then transitioning to a colorful home screen with time, date, and activity icons, worn on the man in black’s left wrist.",
+                "man in black t-shirt": "Wearing a black t-shirt and blue shorts with Captain America shield patterns, actively unboxing and demonstrating the Garmin smartwatch, holding a green-cased smartphone, and gesturing while speaking.",
+                "man in maroon t-shirt": "Sitting on the gray sofa, wearing a maroon 'ANIMAL EXCHANGE' t-shirt and brown shorts, reacting with laughter and yawning, holding a black box, and occasionally reaching for his phone.",
+                "coffee table": "Wooden surface holding a laptop, white smart speaker, blue-and-white Xbox controller, yellow bottle, blue water bottle connected to a table-top water dispenser, and other tech accessories.",
+                "laptop": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen, displaying on-screen text overlay 'Anshul ringing for lunch'.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "table-top water dispenser": "White, circular device with a spout, dispensing water into a glass placed on its base, connected to a large blue water bottle via a tube.",
+                "gray sofa": "Visible to the right, with the man in maroon seated on it and a red backpack resting on it, providing a backdrop for the interaction.",
+                "potted plant": "Green leafy plant near the window, adding a natural element to the room.",
+                "gray rug": "Textured gray rug beneath the coffee table, partially visible under the man’s feet and legs.",
+                "white tiled floor": "Clean, light-colored tiled floor visible beneath the coffee table and extending into the living area.",
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space, now fully visible with all items arranged.",
+                "TV": "Mounted on the wall, displaying a vibrant city skyline image.",
+                "charging cable": "Black cable in a clear plastic bag, placed on the coffee table next to the Garmin watch box.",
+                "instruction booklet": "Small white booklet, likely containing setup instructions, placed on the coffee table next to the watch box.",
+                "Garmin watch box": "Black rectangular box with 'GARMIN' branding, opened to reveal the smartwatch inside, placed on the coffee table alongside the charging cable and instruction booklet.",
+                "third person": "Partially visible in the background, standing near the sofa, wearing a white t-shirt with 'USPA' text, observing the unboxing and interaction.",
+                "smartphone": "Green-cased smartphone held in the man’s right hand, displaying a Bluetooth pairing interface with a numeric keypad and pairing instructions."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 31,
+            "caption": "In a bright, modern living area illuminated by natural light from a large window, three men are casually gathered around a wooden coffee table. The man in maroon, seated cross-legged on a gray rug, wears a red 'ANIMAL EXCHANGE' t-shirt and checkered shorts, holding a black box and occasionally gesturing while laughing. Behind him, a third man in a white t-shirt with 'USPA' text lies on the rug, propped on a pillow, smiling and engaging in conversation. On the right, the man in a striped t-shirt and blue plaid pajama pants sits on a gray sofa, initially focused on his phone before picking up a red and blue bottle, possibly a beverage, and showing it to the others. The coffee table holds a MacBook displaying a text interface, a white smart speaker, a blue-and-white Xbox controller, a yellow bottle, a glass of water, and a black phone stand. A black charging dock and a remote control are also visible. The man in maroon reacts with amusement, while the man on the sofa gestures with the bottle, prompting laughter. The atmosphere is relaxed and jovial, with the men interacting playfully. A YouTube 'Subscribe' overlay appears briefly, indicating this is likely a vlog or social media content. The TV mounted on the wall remains off, and a potted plant adds greenery near the window. The white tiled floor and gray rug define the space, with a doorway leading to the kitchen visible in the background.",
+            "active_entities": {
+                "man in maroon t-shirt": "Sitting cross-legged on the gray rug, wearing a red 'ANIMAL EXCHANGE' t-shirt and checkered shorts, holding a black box, laughing and gesturing during conversation.",
+                "third person": "Lying on the gray rug behind the man in maroon, wearing a white t-shirt with 'USPA' text, propped on a pillow, smiling and participating in the interaction.",
+                "coffee table": "Wooden surface holding a MacBook with a text interface, a white smart speaker, a blue-and-white Xbox controller, a yellow bottle, a glass of water, a black phone stand, a remote control, and a black charging dock.",
+                "MacBook": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen, displaying on-screen text overlay 'Anshul ringing for lunch'.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "phone stand": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+                "gray sofa": "Visible to the right, with the man in striped t-shirt seated on it and a red backpack resting on it, providing a backdrop for the interaction.",
+                "potted plant": "Green leafy plant near the window, adding a natural element to the room.",
+                "gray rug": "Textured gray rug beneath the coffee table, partially visible under the man’s feet and legs.",
+                "white tiled floor": "Clean, light-colored tiled floor visible beneath the coffee table and extending into the living area.",
+                "TV": "Mounted on the wall, displaying a vibrant city skyline image.",
+                "doorway": "Dark wooden door frame connecting the living area to the kitchen, visible as the person walks through.",
+                "on-screen text": "White text overlay appearing in the video, reading 'Ma'm Ghar ki Bahu Hun??' and a YouTube 'Subscribe' prompt with a bell icon."
+            },
+            "discovered_new_entities": {
+                "man in striped t-shirt": "Seated on the gray sofa, wearing a gray-and-white striped t-shirt and blue plaid pajama pants, initially using his phone, then holding up a red and blue bottle to show the others."
+            }
+        },
+        {
+            "minute": 32,
+            "caption": "The video opens in a bright, modern living area where three men are gathered around a wooden coffee table. The man in the striped t-shirt, seated on the gray sofa, holds a red and blue bottle and gestures while speaking, appearing to explain or show something to the others. The man in the maroon t-shirt sits cross-legged on the gray rug, holding a black box and laughing, actively engaged in the conversation. Behind him, the third person lies on the rug, propped on a pillow, smiling and participating. On the coffee table, a MacBook displays a text interface, alongside a white smart speaker, a blue-and-white Xbox controller, a yellow bottle, a glass of water, a black phone stand, a remote control, and a black charging dock. The room is well-lit with natural light from a large window, and a potted plant adds greenery. A TV mounted on the wall shows a city skyline, and a robotic vacuum cleaner rests near the TV stand. The scene then transitions to an outdoor setting with a serene evening walk along a waterfront promenade. The camera pans across a calm body of water reflecting the vibrant orange and pink hues of the setting sun. Palm trees line the walkway, and modern buildings are visible in the distance. The sky gradually darkens as the sun dips below the horizon, casting a warm glow over the water and cityscape. A small boat glides across the water, adding to the tranquil atmosphere. The on-screen text 'Evening walk' appears, emphasizing the peaceful transition from indoor interaction to outdoor relaxation.",
+            "active_entities": {
+                "man in striped t-shirt": "Seated on the gray sofa, wearing a gray-and-white striped t-shirt and blue plaid pajama pants, holding a red and blue bottle and gesturing while speaking.",
+                "man in maroon t-shirt": "Sitting cross-legged on the gray rug, wearing a red 'ANIMAL EXCHANGE' t-shirt and checkered shorts, holding a black box and laughing during the conversation.",
+                "third person": "Lying on the gray rug behind the man in maroon, wearing a white t-shirt with 'USPA' text, propped on a pillow, smiling and participating in the interaction.",
+                "coffee table": "Wooden surface holding a MacBook with a text interface, a white smart speaker, a blue-and-white Xbox controller, a yellow bottle, a glass of water, a black phone stand, a remote control, and a black charging dock.",
+                "MacBook": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen.",
+                "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+                "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+                "phone stand": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+                "TV": "Mounted on the wall, displaying a vibrant city skyline image.",
+                "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+                "gray sofa": "Visible to the right, with the man in striped t-shirt seated on it and a red backpack resting on it, providing a backdrop for the interaction.",
+                "potted plant": "Green leafy plant near the window, adding a natural element to the room.",
+                "gray rug": "Textured gray rug beneath the coffee table, partially visible under the man’s feet and legs.",
+                "white tiled floor": "Clean, light-colored tiled floor visible beneath the coffee table and extending into the living area.",
+                "yellow bottle": "Yellow plastic bottle labeled '27', placed on the coffee table to the left of the laptop.",
+                "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+                "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space, now fully visible with all items arranged.",
+                "on-screen text": "White text overlay appearing in the video, reading 'Evening walk'.",
+                "cityscape": "Dense urban environment visible across the water, featuring high-rise buildings and construction cranes, illuminated by the setting sun."
+            },
+            "discovered_new_entities": {
+                "waterfront promenade": "Paved walkway along a calm body of water, lined with palm trees and modern buildings, featuring a metal railing and benches, captured during sunset.",
+                "sunset": "Vibrant orange and pink sky as the sun dips below the horizon, reflecting on the water and illuminating the cityscape.",
+                "boat": "Small vessel gliding across the water, visible in the distance during the evening walk scene."
+            }
+        },
+        {
+            "minute": 33,
+            "caption": "The video begins with a serene sunset scene at a waterfront promenade, where the sky glows in warm orange and pink hues, reflecting on the calm water, with a distant cityscape and a small boat visible. The scene transitions to a lively indoor event at Galleria Mall, where a crowd gathers to watch a performance featuring costumed characters resembling Teenage Mutant Ninja Turtles, engaging in playful combat on a stage with props like a stop sign and a green dumpster. The atmosphere is vibrant, with audience members capturing the moment on their phones. The setting then shifts to a futuristic VR gaming arcade labeled 'ZERO LATENCY,' illuminated with blue neon lights and large screens displaying live gameplay, where people are seen walking around and interacting with the environment. The video moves to a modern, upscale restaurant with a panoramic city view at night, where a group of men are seated at a marble table, casually dressed, with one wearing a black 'ARMANI EXCHANGE' t-shirt and another in a patterned blue shirt with stars and red accents. They are seen reading menus, conversing, and waiting for service, while waitstaff in white shirts and black vests move around the space. The restaurant features elegant decor with potted plants, glass partitions, and a bar area adorned with golden spherical lights. The camera pans across the dining area, capturing the ambient lighting and the cityscape outside, before focusing on the men as they continue their dinner experience, with one man adjusting his earbuds and another gesturing while speaking. The overall narrative flows from a tranquil outdoor sunset to an energetic mall event, then to a high-tech gaming space, and finally to a sophisticated dining experience with a city view, highlighting a day of varied urban activities.",
+            "active_entities": {
+                "man in black t-shirt": "Wearing a black 'ARMANI EXCHANGE' t-shirt, seated at a marble table in a restaurant, interacting with a menu and gesturing during conversation.",
+                "cityscape": "Illuminated urban skyline visible through large glass windows of the restaurant, providing a scenic backdrop during dinner.",
+                "potted plant": "Tall green plant in a white cylindrical pot, placed near the dining area, adding natural decor to the restaurant.",
+                "on-screen text overlay": "White text reading 'Came to Galleria mall for movie' and 'We all tried zero latency VR gaming', appearing at the bottom of the screen during the mall and arcade scenes."
+            },
+            "discovered_new_entities": {
+                "man in patterned blue shirt": "Wearing a blue shirt with red and white star patterns, seated at the same table, reading a menu and looking up while speaking.",
+                "waitstaff": "Dressed in white shirts and black vests, moving around the restaurant, attending to tables and setting up the dining area.",
+                "marble table": "White marble surface with a blue vase holding green leaves, a candle, and a menu, serving as the central dining surface for the group.",
+                "menu": "White paper menu being held and read by the men at the table, indicating the dinner selection process.",
+                "glass partitions": "Transparent glass walls separating dining sections, allowing visibility into the bar area and enhancing the open layout.",
+                "bar area": "Well-lit bar with golden spherical lights and shelves stocked with bottles, visible through glass partitions.",
+                "candle": "Tall, thin candle on the table, providing ambient lighting and contributing to the restaurant's elegant atmosphere.",
+                "blue vase": "Small blue ceramic vase holding green leaves, placed as a centerpiece on the marble table.",
+                "Teenage Mutant Ninja Turtles characters": "Costumed performers resembling the TMNT, wearing green shells and colored bandanas, engaging in playful combat on a stage with props like a stop sign and dumpster.",
+                "ZERO LATENCY VR arcade": "Futuristic gaming space with blue neon lighting, large screens displaying live gameplay, and a modern design featuring geometric patterns and glass walls.",
+                "audience": "Crowd of people seated and standing, watching the TMNT performance, many holding up phones to record the event.",
+                "stage props": "Green dumpster, stop sign, and other urban-themed props used in the TMNT performance to create a dynamic scene."
+            }
+        },
+        {
+            "minute": 34,
+            "caption": "The video begins in a modern, upscale restaurant with large glass windows offering a panoramic view of a cityscape at dusk. The setting is elegant, with marble tables, white chairs, and ambient lighting from candles and overhead fixtures. A group of men, including the man in black t-shirt (wearing an 'ARMANI EXCHANGE' shirt) and the man in patterned blue shirt, are seated at a table, engaging in conversation while reviewing a menu. The man in black t-shirt gestures as he speaks, and the man in maroon t-shirt (wearing a red 'ANIMAL EXCHANGE' shirt) listens attentively. Waitstaff in white shirts and black vests move through the space, attending to other tables. The camera pans across the restaurant, capturing the open layout with glass partitions revealing a well-lit bar area adorned with golden spherical lights. The scene transitions to a darkened IMAX theater, where a movie trailer for 'JAWAN' is playing on a large curved screen. The audience is seated in reclining chairs, watching the action-packed trailer with scenes of combat and explosions. The screen displays the release date: '7th September 2023'. The video then shifts to a cozy living room at night, where a group of men are playing FIFA on a large wall-mounted TV. The man in black t-shirt is seated cross-legged on a gray rug, holding a controller, while the man in maroon t-shirt sits beside him. Another man in a striped t-shirt is lounging on a gray sofa, holding a red and blue bottle. The room is softly lit by a floor lamp, and a coffee table holds a green bottle, a glass of wine, and a box of tissues. On-screen text reads 'Playing FIFA around night time', indicating the casual, relaxed atmosphere of the gaming session.",
+            "active_entities": {
+                "man in black t-shirt": "Wearing a black 'ARMANI EXCHANGE' t-shirt, seated at a marble table in the restaurant, holding and reading a menu, later seen playing FIFA in the living room.",
+                "man in maroon t-shirt": "Wearing a red 'ANIMAL EXCHANGE' t-shirt, seated at the restaurant table, listening and gesturing, later seen playing FIFA on the gray rug in the living room.",
+                "man in patterned blue shirt": "Wearing a blue shirt with red and white star patterns, seated at the restaurant table, reading a menu and looking up while speaking.",
+                "waitstaff": "Dressed in white shirts and black vests, moving around the restaurant, attending to tables and setting up the dining area.",
+                "marble table": "White marble surface with a blue vase holding green leaves, a candle, and a menu, serving as the central dining surface for the group.",
+                "menu": "White paper menu being held and read by the men at the table, indicating the dinner selection process.",
+                "glass partitions": "Transparent glass walls separating dining sections, allowing visibility into the bar area and enhancing the open layout.",
+                "bar area": "Well-lit bar with golden spherical lights and shelves stocked with bottles, visible through glass partitions.",
+                "candle": "Tall, thin candle on the table, providing ambient lighting and contributing to the restaurant's elegant atmosphere.",
+                "blue vase": "Small blue ceramic vase holding green leaves, placed as a centerpiece on the marble table.",
+                "TV": "Mounted on the wall, displaying a vibrant FIFA soccer game, with a black soundbar beneath it.",
+                "gray rug": "Textured gray rug beneath the coffee table, partially visible under the man’s feet and legs, where the gaming session takes place.",
+                "gray sofa": "Visible to the right, with the man in striped t-shirt seated on it and a red backpack resting on it, providing a backdrop for the interaction.",
+                "coffee table": "Wooden surface holding a green bottle, a glass of wine, and a box of tissues, positioned in front of the sofa.",
+                "on-screen text": "White text overlay appearing in the video, reading 'Playing FIFA around night time', indicating the context of the scene."
+            },
+            "discovered_new_entities": {
+                "IMAX theater": "Darkened cinema with a large curved screen displaying a movie trailer, featuring reclining seats and blue neon 'IMAX' logos on the side walls.",
+                "movie trailer": "Action-packed trailer for 'JAWAN', showing combat scenes and explosions, with on-screen text indicating 'WORLDWIDE RELEASE 7TH SEPTEMBER 2023'.",
+                "living room": "Cozy space with a gray rug, gray sofa, wall-mounted TV, and soft lighting from a floor lamp, where men are playing FIFA.",
+                "floor lamp": "Tall, warm-lit lamp in the corner of the living room, providing ambient lighting for the gaming session.",
+                "FIFA game": "Vibrant soccer simulation displayed on the TV, showing a green field, players in motion, and a scoreboard, indicating an active gaming session.",
+                "reclining theater seats": "Comfortable, dark-colored seats in the IMAX theater, designed for immersive viewing, with some audience members leaning back or reclining.",
+                "movie screen": "Large, curved screen in the IMAX theater, displaying high-definition visuals of the 'JAWAN' trailer with dynamic lighting and action sequences.",
+                "audience in theater": "Silhouetted figures seated in the dark theater, watching the trailer, some holding phones or snacks, engaged in the cinematic experience."
+            }
+        },
+        {
+            "minute": 35,
+            "caption": "In a cozy living room illuminated by a warm floor lamp, three men are engrossed in a FIFA soccer game displayed on a wall-mounted TV. The man in the black t-shirt, seated cross-legged on the gray rug, actively controls the game with a controller, while the man in the gray t-shirt sits beside him, also focused on the screen. A third man reclines on the gray sofa, casually observing the game and occasionally glancing at his phone. The TV screen shows a vibrant green soccer field with players in motion, transitioning to a post-match statistics screen displaying team formations and player ratings. The room features a coffee table with a green bottle, a glass of wine, and a box of tissues, while a tall potted plant adds a touch of greenery. The atmosphere is relaxed and social, with the men engaged in the gaming session, occasionally gesturing and reacting to the on-screen action. The on-screen text overlay 'Playing FIFA around night time' appears, reinforcing the context of the scene.",
+            "active_entities": {
+                "living room": "Cozy space with a gray rug, gray sofa, wall-mounted TV, and soft lighting from a floor lamp, where men are playing FIFA.",
+                "TV": "Mounted on the wall, displaying a vibrant FIFA soccer game, with a black soundbar beneath it.",
+                "FIFA game": "Vibrant soccer simulation displayed on the TV, showing a green field, players in motion, and a scoreboard, indicating an active gaming session.",
+                "floor lamp": "Tall, warm-lit lamp in the corner of the living room, providing ambient lighting for the gaming session.",
+                "gray sofa": "Visible to the right, with the man in striped t-shirt seated on it and a red backpack resting on it, providing a backdrop for the interaction.",
+                "gray rug": "Textured gray rug beneath the coffee table, partially visible under the man’s feet and legs, where the gaming session takes place.",
+                "coffee table": "Wooden surface holding a green bottle, a glass of wine, and a box of tissues, positioned in front of the sofa.",
+                "potted plant": "Tall green plant in a white cylindrical pot, placed near the dining area, adding natural decor to the restaurant.",
+                "man in black t-shirt": "Wearing a black 'ARMANI EXCHANGE' t-shirt, seated at a marble table in the restaurant, holding and reading a menu, later seen playing FIFA in the living room.",
+                "man in maroon t-shirt": "Wearing a red 'ANIMAL EXCHANGE' t-shirt, seated at the restaurant table, listening and gesturing, later seen playing FIFA on the gray rug in the living room.",
+                "man in striped t-shirt": "Seated on the gray sofa, wearing a gray-and-white striped t-shirt and blue plaid pajama pants, holding a red and blue bottle and gesturing while speaking.",
+                "on-screen text": "White text overlay appearing in the video, reading 'Playing FIFA around night time', indicating the context of the scene."
+            },
+            "discovered_new_entities": {}
+        }
+    ],
+    "entity_library": {
+        "smartwatch": "Black smartwatch with a circular face and black band, initially displaying a blue animated pairing interface, then transitioning to a colorful home screen with time, date, and activity icons, worn on the man in black’s left wrist.",
+        "bedroom": "Contains a white bed, wooden door with clothes hanging, and a bedside table with a lamp and digital scale.",
+        "bedside table": "Features a lamp, an alarm clock, and a digital scale.",
+        "digital scale": "White, rectangular device on the bedside table, displaying weight readings.",
+        "man at desk": "Sitting at a wooden desk with a laptop and monitor, wearing glasses and a dark shirt, actively working.",
+        "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space, now fully visible with all items arranged.",
+        "hallway": "Connects the living area to the kitchen, with a visible door frame and tiled floor.",
+        "kitchen": "Equipped with modern appliances, a window with a city view, and a washing machine.",
+        "woman": "Wearing a dark t-shirt and pants, holding a phone, standing near a kitchen window.",
+        "balcony": "Has a wooden chair and a glass railing, offering a panoramic view of the cityscape.",
+        "cityscape": "Illuminated urban skyline visible through large glass windows of the restaurant, providing a scenic backdrop during dinner.",
+        "coffee table": "Wooden surface holding a green bottle, a glass of wine, and a box of tissues, positioned in front of the sofa.",
+        "table-top water dispenser": "White, circular device with a spout, dispensing water into a glass placed on its base, connected to a large blue water bottle via a tube.",
+        "MacBook": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen.",
+        "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+        "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+        "phone stand": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+        "TV": "Mounted on the wall, displaying a vibrant FIFA soccer game, with a black soundbar beneath it.",
+        "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+        "red backpack": "Placed on the gray sofa, with visible yellow trim and brand text.",
+        "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+        "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+        "water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+        "on-screen text overlay": "White text reading 'Came to Galleria mall for movie' and 'We all tried zero latency VR gaming', appearing at the bottom of the screen during the mall and arcade scenes.",
+        "washing machine": "White front-loading machine with a digital display showing 'End', located in the kitchen.",
+        "clothes": "Folded garments including a gray Hanes t-shirt and a maroon piece, retrieved from the washing machine.",
+        "pot": "Silver cooking pot on the induction stove, covered with a glass lid, containing cooked parathas.",
+        "container": "Transparent plastic container with orange-colored paratha chatney, placed next to the pot and later on the coffee table.",
+        "doorway": "Dark wooden door frame connecting the living area to the kitchen, visible as the person walks through.",
+        "on-screen text": "White text overlay appearing in the video, reading 'Playing FIFA around night time', indicating the context of the scene.",
+        "hand": "Visible interacting with the pot, plate, yogurt tub, and parathas, moving from kitchen to living area, placing food, and scooping yogurt.",
+        "gray sofa": "Visible to the right, with the man in striped t-shirt seated on it and a red backpack resting on it, providing a backdrop for the interaction.",
+        "potted plant": "Tall green plant in a white cylindrical pot, placed near the dining area, adding natural decor to the restaurant.",
+        "plate": "White ceramic plate holding folded parathas, later topped with chatney and yogurt.",
+        "yogurt tub": "Green-and-white tub labeled 'Fresh Yoghurt' with Arabic text, placed on the counter and later on the coffee table.",
+        "induction stove": "Black glass-top stove with circular heating zones, one of which is active under the pot.",
+        "yellow bottle": "Yellow plastic bottle labeled '27', placed on the coffee table to the left of the laptop.",
+        "blue water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube, placed on the coffee table.",
+        "laptop": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen, displaying on-screen text overlay 'Anshul ringing for lunch'.",
+        "man in black t-shirt": "Wearing a black 'ARMANI EXCHANGE' t-shirt, seated at a marble table in the restaurant, holding and reading a menu, later seen playing FIFA in the living room.",
+        "man in maroon t-shirt": "Wearing a red 'ANIMAL EXCHANGE' t-shirt, seated at the restaurant table, listening and gesturing, later seen playing FIFA on the gray rug in the living room.",
+        "Garmin watch box": "Black rectangular box with 'GARMIN' branding, opened to reveal the smartwatch inside, placed on the coffee table alongside the charging cable and instruction booklet.",
+        "third person": "Lying on the gray rug behind the man in maroon, wearing a white t-shirt with 'USPA' text, propped on a pillow, smiling and participating in the interaction.",
+        "charging cable": "Black cable in a clear plastic bag, placed on the coffee table next to the Garmin watch box.",
+        "instruction booklet": "Small white booklet, likely containing setup instructions, placed on the coffee table next to the watch box.",
+        "smartphone": "Green-cased smartphone held in the man’s right hand, displaying a Bluetooth pairing interface with a numeric keypad and pairing instructions.",
+        "gray rug": "Textured gray rug beneath the coffee table, partially visible under the man’s feet and legs, where the gaming session takes place.",
+        "white tiled floor": "Clean, light-colored tiled floor visible beneath the coffee table and extending into the living area.",
+        "man in striped t-shirt": "Seated on the gray sofa, wearing a gray-and-white striped t-shirt and blue plaid pajama pants, holding a red and blue bottle and gesturing while speaking.",
+        "waterfront promenade": "Paved walkway along a calm body of water, lined with palm trees and modern buildings, featuring a metal railing and benches, captured during sunset.",
+        "sunset": "Vibrant orange and pink sky as the sun dips below the horizon, reflecting on the water and illuminating the cityscape.",
+        "boat": "Small vessel gliding across the water, visible in the distance during the evening walk scene.",
+        "man in patterned blue shirt": "Wearing a blue shirt with red and white star patterns, seated at the restaurant table, reading a menu and looking up while speaking.",
+        "waitstaff": "Dressed in white shirts and black vests, moving around the restaurant, attending to tables and setting up the dining area.",
+        "marble table": "White marble surface with a blue vase holding green leaves, a candle, and a menu, serving as the central dining surface for the group.",
+        "menu": "White paper menu being held and read by the men at the table, indicating the dinner selection process.",
+        "glass partitions": "Transparent glass walls separating dining sections, allowing visibility into the bar area and enhancing the open layout.",
+        "bar area": "Well-lit bar with golden spherical lights and shelves stocked with bottles, visible through glass partitions.",
+        "candle": "Tall, thin candle on the table, providing ambient lighting and contributing to the restaurant's elegant atmosphere.",
+        "blue vase": "Small blue ceramic vase holding green leaves, placed as a centerpiece on the marble table.",
+        "Teenage Mutant Ninja Turtles characters": "Costumed performers resembling the TMNT, wearing green shells and colored bandanas, engaging in playful combat on a stage with props like a stop sign and dumpster.",
+        "ZERO LATENCY VR arcade": "Futuristic gaming space with blue neon lighting, large screens displaying live gameplay, and a modern design featuring geometric patterns and glass walls.",
+        "audience": "Crowd of people seated and standing, watching the TMNT performance, many holding up phones to record the event.",
+        "stage props": "Green dumpster, stop sign, and other urban-themed props used in the TMNT performance to create a dynamic scene.",
+        "IMAX theater": "Darkened cinema with a large curved screen displaying a movie trailer, featuring reclining seats and blue neon 'IMAX' logos on the side walls.",
+        "movie trailer": "Action-packed trailer for 'JAWAN', showing combat scenes and explosions, with on-screen text indicating 'WORLDWIDE RELEASE 7TH SEPTEMBER 2023'.",
+        "living room": "Cozy space with a gray rug, gray sofa, wall-mounted TV, and soft lighting from a floor lamp, where men are playing FIFA.",
+        "floor lamp": "Tall, warm-lit lamp in the corner of the living room, providing ambient lighting for the gaming session.",
+        "FIFA game": "Vibrant soccer simulation displayed on the TV, showing a green field, players in motion, and a scoreboard, indicating an active gaming session.",
+        "reclining theater seats": "Comfortable, dark-colored seats in the IMAX theater, designed for immersive viewing, with some audience members leaning back or reclining.",
+        "movie screen": "Large, curved screen in the IMAX theater, displaying high-definition visuals of the 'JAWAN' trailer with dynamic lighting and action sequences.",
+        "audience in theater": "Silhouetted figures seated in the dark theater, watching the trailer, some holding phones or snacks, engaged in the cinematic experience."
+    }
+}

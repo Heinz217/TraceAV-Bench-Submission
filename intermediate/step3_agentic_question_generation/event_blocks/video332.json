@@ -1,0 +1,408 @@
+{
+  "video_id": "video332",
+  "audio_id": "video332_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "An underwater scene with dramatic orchestral music introduces massive prehistoric marine creatures, including a large shark and a whale, as Chinese text identifies the topic as 'The 10 largest animals in human history.' A narration highlights a whale's immense size, stating its tongue could hold 50 people, before transitioning to a savanna where elephants walk, though the narrator notes they might not make the list, as even the tenth-ranked animal significantly outweighs an African elephant. The video then presents a Paraceratherium in a dry, rocky landscape, a shadowy Spinosaurus in a misty forest, and a whale shark swimming near a diver, with narration discussing 'incredible giant beasts' that were ancient 'biological overlords' or, like the whale shark, are now 'on the verge of extinction due to human activities.' A Mosasaurus appears in murky water, followed by a shark leaping from the water in a modern aquatic park before spectators, with the narration inviting viewers to learn about these 'giant fellows that you might never encounter.' A deep sound effect precedes the announcement of 'Number ten, Paraceratherium,' identified as living in the Oligocene epoch from 34 to 23 million years ago, with two individuals depicted walking in a prehistoric landscape, resembling dinosaurs.",
+      "involved_entities": {
+        "Whale": {
+          "description": "A large marine mammal shown in deep blue water, with a close-up of its head emphasizing its massive size, which the narration suggests could hold '50 people on its tongue.'",
+          "attribute": "audio-visual"
+        },
+        "Diver": {
+          "description": "A human diver in scuba gear swimming near the whale shark, providing scale to the creature’s size.",
+          "attribute": "visual"
+        },
+        "Elephant": {
+          "description": "A herd of African elephants walking across a savanna, later shown as silhouettes against a sunset, which the narration identifies as a common first thought for large animals but notes they 'might not make our list today.'",
+          "attribute": "audio-visual"
+        },
+        "Dinosaur (Spinosaurus)": {
+          "description": "A large, shadowy, bipedal dinosaur with a sail on its back, shown in a misty forest environment, fitting the narrator's description of ancient 'biological overlords.'",
+          "attribute": "audio-visual"
+        },
+        "Paraceratherium": {
+          "description": "A large, long-necked prehistoric mammal with wrinkled skin, walking in a dry, rocky landscape, explicitly named '巨犀' (Paraceratherium) by the narrator as 'Number ten,' and confirmed to have 'lived in the Oligocene epoch from 34 million to 23 million years ago.'",
+          "attribute": "audio-visual"
+        },
+        "Mosasaurus": {
+          "description": "A large prehistoric marine reptile with a long snout and sharp teeth, shown in a murky underwater environment, fitting the narrator's description of ancient 'biological overlords.'",
+          "attribute": "audio-visual"
+        },
+        "Shark (in park)": {
+          "description": "A large shark leaping out of the water in a modern aquatic park, with spectators watching from bleachers.",
+          "attribute": "visual"
+        },
+        "Aquatic Park Audience": {
+          "description": "A crowd of spectators seated in bleachers watching the shark leap out of the water in a modern aquatic park setting.",
+          "attribute": "visual"
+        },
+        "Whale Shark": {
+          "description": "A massive, spotted shark swimming in deep blue water, with a diver nearby for scale, which the narrator implies is one of the creatures 'on the verge of extinction due to human activities.'",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a deep blue underwater scene, accompanied by dramatic orchestral music, showcasing massive prehistoric marine creatures, including a large shark-like animal and a whale. Chinese text introduces the topic: 'The 10 largest animals in human history.' A close-up of a whale’s head follows, with narration stating that 'The first place can hold 50 people on its tongue,' emphasizing its immense size. The scene transitions to a savanna where a herd of elephants walks across the plains, as the narrator notes that while elephants are often the first thought for large animals, they 'might not make our list today.' A dramatic sunset silhouette of elephants reinforces this, with the narration explaining that even the creature ranked tenth weighs several times more than an African elephant. The video then introduces a prehistoric, long-necked mammal, the Paraceratherium, in a dry, rocky landscape, followed by a shadowy, dinosaur-like creature, possibly a Spinosaurus, in a misty forest, and a massive whale shark swimming near a diver. The narration broadly discusses the 'incredible giant beasts' that have existed, some in ancient times as 'biological overlords,' and others, like the whale shark, living today but 'on the verge of extinction due to human activities.' A prehistoric Mosasaurus is shown in a murky underwater environment, followed by a dramatic shot of a large shark leaping out of the water in a modern aquatic park before spectators. The narration concludes by inviting viewers to learn about these 'giant fellows that you might never encounter.' A deep, dramatic sound effect marks a transition before the narrator announces, 'Number ten, Paraceratherium,' confirming its identity and stating it 'lived in the Oligocene epoch from 34 million to 23 million years ago,' as two Paraceratheriums are seen walking in a prehistoric landscape, easily mistaken for dinosaurs."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 2,
+      "summary": "The narrative begins with a detailed view of a massive, wrinkled, grayish-brown Paraceratherium in a dry, rocky landscape, expanding to reveal multiple Paraceratheriums grazing in a savanna-like environment. A narrator explains that the Paraceratherium, despite its colossal size, is the largest known terrestrial mammal, not a dinosaur. An adult male could reach 7 meters in height and weigh approximately 24 tons, comparable to eight modern rhinos, which are then shown traversing a grassy plain. The Paraceratherium's evolutionary success is highlighted: its height facilitated access to high foliage, while its substantial weight and strong thighs offered protection against predators. The scene shifts to a fossilized skull, with a Man in Suit present, as the narrator explains the Paraceratherium's extinction, attributing it to Earth's changing environment. Their high resource needs made them vulnerable as the climate shifted from forests to grasslands and rivers dried up, preventing adaptation. The video concludes with a Mosasaurus, a large prehistoric marine reptile, swimming in deep blue water, its features clearly visible, identified on-screen as 'TOP9 克柔龍' and introduced by the narrator as being named after the Greek Titan Kronos.",
+      "involved_entities": {
+        "Paraceratherium": {
+          "description": "A large, long-necked prehistoric mammal with wrinkled skin, shown in both dry rocky landscapes and lush forests. The male narrator describes it as the largest known terrestrial mammal, reaching 7 meters in height and weighing 24 tons (equivalent to eight modern rhinos). Its height allowed it to easily reach high leaves, and its heavy weight and powerful thighs protected it from predators. It became extinct due to its high demands for survival conditions as the climate grew drier, forests were replaced by grasslands, and rivers disappeared.",
+          "attribute": "audio-visual"
+        },
+        "Man in Suit": {
+          "description": "A man dressed in formal attire, standing behind the fossil skull, likely a paleontologist or scientist, providing context for the fossil display.",
+          "attribute": "visual"
+        },
+        "Mosasaurus": {
+          "description": "A large prehistoric marine reptile with a long snout, sharp teeth, and a streamlined body, swimming in deep blue water. On-screen text identifies it as 'TOP9 克柔龍'. The male narrator introduces it as \"TOP 9, 克柔龙,\" explaining it is named after Kronos, a Titan giant from Greek mythology.",
+          "attribute": "audio-visual"
+        },
+        "Fossil Skull": {
+          "description": "A large, fossilized skull of a prehistoric creature, displayed in a museum-like setting with a man in a suit standing behind it, indicating its scientific significance.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video begins with a close-up of a massive, wrinkled, grayish-brown Paraceratherium in a dry, rocky landscape, then pulls back to show multiple Paraceratheriums grazing in a savanna-like environment. A male narrator, accompanied by background music, explains that despite its enormous size, which might lead one to mistake it for a dinosaur, the Paraceratherium is actually a mammal, specifically the largest known terrestrial mammal in history. As a Paraceratherium is shown reaching high into a lush forest canopy to eat leaves, the narrator details that an adult male could stand 7 meters tall and weigh around 24 tons, equivalent to eight modern rhinos, which are then shown walking across a grassy plain. The scene returns to animated Paraceratheriums in an arid environment, as the narrator praises their evolutionary success: their height allowed them to effortlessly reach high leaves, while their heavy weight and powerful thighs protected them from any carnivorous predators. The video transitions to a fossilized skull with a man in a suit behind it, as the narrator explains that despite their success, Paraceratheriums became extinct due to Earth's constantly changing environment. Their high demands for survival meant that as the climate grew drier, forests gave way to grasslands, and cooling rivers vanished, they could no longer adapt. The video concludes with a large prehistoric marine reptile, the Mosasaurus, swimming gracefully in deep blue water, its sharp teeth and long snout visible, partially illuminated by sunlight. On-screen text identifies it as 'TOP9 克柔龍'. The narrator introduces it as \"TOP 9, 克柔龙,\" explaining it is named after Kronos, a Titan giant from Greek mythology."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 3,
+      "end_minute": 3,
+      "summary": "A male narrator, speaking in Chinese over dramatic, suspenseful music, introduces a creature described as the 'undisputed overlord of the deep sea' with 'no worthy opponent,' initially shown as a massive fossilized skeleton against a deep blue background. The scene shifts to a dynamic underwater environment where a Mosasaurus, identified as 'Kouroulong' (克柔龙), a marine reptile reaching 9 to 10 meters from the early Cretaceous, swims gracefully, its powerful jaws opening to reveal sharp, conical teeth for tearing prey, its flattened forelimbs aiding fast swimming and direction control, and nostrils on its head for deep-water breathing, concluding it was a 'terrifying killer' and a 'nightmare for other marine creatures.' A brief interlude shows a large shark leaping from the water in a modern aquatic park, thrilling an Aquatic Park Audience in bleachers. The narrative then transitions to a dark, swampy forest where the 'Eighth place, Titanoboa' (泰坦蟒), the 'largest snake species globally,' is introduced; a massive, dark-colored Titanoboa is depicted slithering through underbrush and coiling around a tree, its immense size emphasized by on-screen text indicating a length of up to 12 meters, before moving slowly through the dense, misty forest, its glistening body evoking ancient danger.",
+      "involved_entities": {
+        "Mosasaurus": {
+          "description": "A large prehistoric marine reptile, explicitly identified by the narrator as 'Kouroulong' (克柔龙), described as the 'undisputed overlord of the deep sea' and one of the largest marine reptiles, reaching 9-10 meters in length and living in the early Cretaceous. Visually, it has a long snout, sharp teeth, and a streamlined body, shown swimming gracefully and opening its powerful jaws to capture prey. The narrator details its mouth, almost as long as its head, with long, conical teeth for tearing and cutting food, and its flattened, fin-like forelimbs for fast swimming and direction control, with nostrils on its head for deep-water breathing, making it a 'terrifying killer' and 'nightmare for other marine creatures'.",
+          "attribute": "audio-visual"
+        },
+        "Shark (in park)": {
+          "description": "A large shark leaping out of the water in a modern aquatic park, creating a splash and thrilling spectators.",
+          "attribute": "visual"
+        },
+        "Titanoboa": {
+          "description": "A massive, dark-colored prehistoric giant snake, explicitly introduced by the narrator as 'Titanoboa' (泰坦蟒) and identified as the 'largest snake species globally.' Visually, it slithers through a dark, swampy forest, coiling around a tree trunk, its immense size emphasized by on-screen text indicating it could reach up to 12 meters in length, its body glistening with moisture as it moves slowly through the underbrush.",
+          "attribute": "audio-visual"
+        },
+        "Aquatic Park Audience": {
+          "description": "A crowd of spectators seated in bleachers, watching the shark leap out of the water with excitement and raising their hands in amazement.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of a massive fossilized skeleton, likely of a prehistoric marine reptile, set against a deep blue background, as a male narrator begins speaking in Chinese, describing a creature that, though extinct, was the 'undisputed overlord of the deep sea' with 'no worthy opponent.' A dramatic, suspenseful background music plays throughout. The scene transitions to a dynamic underwater environment where a Mosasaurus swims gracefully. The narrator explicitly identifies it as 'Kouroulong' (克柔龙), stating it's one of the largest marine reptiles, reaching 9 to 10 meters, and lived in the early Cretaceous. The video highlights its powerful jaws opening wide to reveal rows of sharp, conical teeth for tearing and cutting food, then closing to capture prey. The narrator further details its flattened, fin-like forelimbs for fast swimming and direction control, its compact body, and nostrils on its head for deep-water breathing, concluding it was a 'terrifying killer' and a 'nightmare for other marine creatures.' The scene briefly shifts to a modern aquatic park where a large shark leaps dramatically out of the water, thrilling a crowd of spectators in bleachers. The setting then transitions to a dark, swampy forest as the narrator introduces the 'Eighth place, Titanoboa' (泰坦蟒), reminding viewers of its status as the 'largest snake species globally.' A massive, dark-colored Titanoboa is shown slithering through the underbrush, coiling around a tree trunk, its immense size emphasized by on-screen text indicating it could reach up to 12 meters in length. The video concludes with the Titanoboa moving slowly through the dense, misty forest, its body glistening with moisture, creating a sense of ancient, primal danger."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 4,
+      "end_minute": 4,
+      "summary": "A massive, dark-colored Titanoboa, averaging 12 meters in length and weighing over a ton, slithers through a dark, swampy forest, its textured scales glistening under dim light as it coils and moves slowly, emphasizing its enormous size and predatory nature. The narrator details its diet, which includes substantial prey like 4-meter, 500kg blunt-nosed crocodiles, 3-meter lungfish, and large turtles, with on-screen Chinese text reinforcing its diet and thermal requirements. The narrator elaborates that this cold-blooded animal needed to survive in temperatures between 30 and 34 degrees Celsius, leading scientists to believe it inhabited the Paleocene Neotropics, and suggests it was a dominant creature after the extinction of dinosaurs, ultimately becoming extinct 58 million years ago due to environmental changes. After a transition through a vibrant sunset over a city skyline and a lush, sun-dappled jungle, a woman observes a large, coiled fossil skeleton of the Titanoboa in a modern museum interior. The narrative then introduces the Spinosaurus, explicitly named \"Jilong\" (棘龙), as a large, shadowy, bipedal theropod dinosaur with a prominent sail on its back, shown roaring in a misty, forested environment, charging through water, and standing tall. The narrator states it could reach 14 meters in length as an adult, comparable to a T-Rex and Giganotosaurus, with a head as large as an adult human, while on-screen text describes its size and 'super king' status, and the narrator references its comparison to the 'Jurassic Park' and 'Jurassic World' franchises, emphasizing its dominance, concluding with the fearsome Spinosaurus in a dramatic, rain-soaked scene, reinforcing its powerful presence.",
+      "involved_entities": {
+        "Titanoboa": {
+          "description": "A massive, dark-colored prehistoric giant snake, visually shown slithering through a dark, swampy forest, coiling around a tree trunk, and moving slowly through the underbrush. A Chinese narrator describes its average length as 12 meters and weight over a ton, detailing its diet of large prey including 4-meter, 500kg blunt-nosed crocodiles, 3-meter lungfish, and large turtles. It required temperatures between 30 and 34 degrees Celsius, leading scientists to believe it lived in the Paleocene Neotropics, and was a dominant creature after the dinosaurs, eventually becoming extinct 58 million years ago. On-screen Chinese text also describes its diet and thermal requirements.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Museum": {
+          "description": "A woman wearing a white shirt and dark skirt, standing in a modern museum, observing a large, coiled fossil skeleton of the Titanoboa, indicating public engagement with prehistoric life.",
+          "attribute": "visual"
+        },
+        "Museum Interior": {
+          "description": "A spacious, well-lit museum hall with polished floors, glass ceilings, and a large, coiled fossil skeleton of the Titanoboa displayed prominently, suggesting a scientific and educational setting.",
+          "attribute": "visual"
+        },
+        "Dinosaur (Spinosaurus)": {
+          "description": "A large, shadowy, bipedal theropod dinosaur with a prominent sail on its back, explicitly named \"Jilong\" (棘龙) by a Chinese narrator. Visually, it is shown in a misty forest environment, roaring, charging through water, and standing tall. The narrator states it could reach 14 meters in length as an adult, comparable to a T-Rex and Giganotosaurus, with a head as large as an adult human. On-screen text describes its size and 'super king' status, and it is compared to the 'Jurassic Park' and 'Jurassic World' franchises, a comparison also made by the narrator.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a dramatic background score as a massive, dark-colored Titanoboa, identified by a Chinese narrator as a creature averaging 12 meters in length and weighing over a ton, slithers through a dark, swampy forest. Its textured scales glisten under dim light as it coils and moves slowly, emphasizing its enormous size and predatory nature. The narrator details its diet, which includes substantial prey like 4-meter, 500kg blunt-nosed crocodiles, 3-meter lungfish, and large turtles. On-screen Chinese text reinforces its diet and thermal requirements, which the narrator elaborates on, stating this cold-blooded animal needed to survive in temperatures between 30 and 34 degrees Celsius, leading scientists to believe it inhabited the Paleocene Neotropics. The narrator suggests it was a dominant creature after the extinction of dinosaurs, but ultimately became extinct 58 million years ago due to environmental changes. The scene transitions to a vibrant sunset over a city skyline, then to a lush, sun-dappled jungle, reinforcing the tropical setting, before shifting to a modern museum interior where a woman observes a large, coiled fossil skeleton of the Titanoboa. The narrative then introduces the Spinosaurus, explicitly named \"Jilong\" (棘龙) by the narrator, as the dramatic background music continues. This large, shadowy, bipedal theropod dinosaur with a prominent sail on its back is shown roaring in a misty, forested environment, charging through water, and standing tall. The narrator states it could reach 14 meters in length as an adult, comparable to a T-Rex and Giganotosaurus, with a head as large as an adult human. On-screen text describes its size and 'super king' status, and the narrator also references its comparison to the 'Jurassic Park' and 'Jurassic World' franchises, emphasizing its dominance. The segment concludes with the fearsome Spinosaurus in a dramatic, rain-soaked scene, reinforcing its powerful presence."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 5,
+      "end_minute": 5,
+      "summary": "A shadowy Spinosaurus, referred to as 'Jilong' and a 'super king', roars and charges through a misty, rocky, shallow water environment, its sail-back prominent, demonstrating its wide hunting range including aquatic animals and the sail's role in stability and diverse food choices; the dinosaur is then shown wading through a swamp with lily pads and swimming underwater among aquatic plants. The scene shifts to a deep-sea environment to introduce the 'Lizi Yu' (Leedsichthys), an extinct bony fish from the Middle Jurassic (165-155 million years ago), potentially the largest bony fish ever, named after fossil collector Alfred Nicholson Leeds who discovered its fossil in Peterborough, England in 1886. A fossilized Leedsichthys tail fin, labeled '利兹鱼尾鳍化石', is displayed in a museum case, confirming its discovery location and date, with narration detailing its size at approximately 16 meters long and heavier than a whale shark, while on-screen text suggests lengths up to 6 meters and weights over 40 tons. A reconstructed animation of the massive, armored-headed Leedsichthys, emphasizing its filter-feeding nature and immense scale, swims in deep blue water, followed by a brief appearance of a historical black-and-white photograph of Alfred Nicholson Leeds, before concluding with a close-up of the colossal Leedsichthys head.",
+      "involved_entities": {
+        "Leedsichthys Tail Fin Fossil": {
+          "description": "A large, preserved fossil of a Leedsichthys tail fin, displayed in a museum case, labeled '利兹鱼尾鳍化石'. The male Mandarin narrator confirms it was found in 1886 in Peterborough, England, and its discovery led to the naming of the fish.",
+          "attribute": "audio-visual"
+        },
+        "Dinosaur (Spinosaurus)": {
+          "description": "A large, shadowy, bipedal dinosaur with a prominent sail on its back, identified by the male Mandarin narrator as '棘龙' (Jilong) and a 'super king' of its time. It is shown roaring and charging through water, wading in a swamp, and swimming underwater. The narration explains its wide hunting range, including aquatic animals, and its sail's crucial role in aquatic predation, providing stability and enabling diverse food choices.",
+          "attribute": "audio-visual"
+        },
+        "Historical Scientist Photograph": {
+          "description": "A black-and-white portrait of a man with a mustache, dressed in formal 19th-century attire, identified by the male Mandarin narrator as Alfred Nicholson Leeds (艾佛列尼克森利兹), the fossil collector who discovered the Leedsichthys fossil in 1886.",
+          "attribute": "audio-visual"
+        },
+        "Man in Suit": {
+          "description": "A historical photograph of a man with a mustache, likely a 19th-century scientist, shown briefly, possibly the one who studied the Leedsichthys fossil, adding context to the discovery.",
+          "attribute": "visual"
+        },
+        "Leedsichthys (reconstructed)": {
+          "description": "A massive, prehistoric bony fish with a wide, armored head and large mouth, shown swimming in deep blue water. The male Mandarin narrator identifies it as '利兹鱼' (Lizi Yu), an extinct bony fish from the Middle Jurassic (165-155 million years ago), possibly the largest bony fish ever. The narration states it was approximately 16 meters long and heavier than a whale shark, while on-screen text indicates it could be up to 6 meters long and weigh over 40 tons, emphasizing its filter-feeding nature and immense scale.",
+          "attribute": "audio-visual"
+        },
+        "Fossil Skull": {
+          "description": "A large, fossilized skull of a prehistoric creature, displayed in a museum-like setting, though not clearly visible in this segment—replaced by a fossilized tail fin.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with dramatic music and sound effects as a shadowy Spinosaurus, identified by the male Mandarin narrator as '棘龙' (Jilong) and a 'super king' (乌极王者般的存在), roars and charges through a misty, rocky, shallow water environment, its imposing sail-back prominent. The narration explains its wide hunting range, including aquatic animals, and its sail's crucial role in aquatic predation, providing stability and enabling diverse food choices. The Spinosaurus is then seen wading through a swamp with lily pads, showcasing its aquatic adaptations, before gracefully swimming underwater among aquatic plants. The scene transitions to a deep-sea environment, where the narration introduces the '利兹鱼' (Lizi Yu), an extinct bony fish from the Middle Jurassic period (165-155 million years ago), possibly the largest bony fish ever. Its name, the narrator explains, comes from fossil collector Alfred Nicholson Leeds (艾佛列尼克森利兹), who discovered its fossil in 1886 in Peterborough, England. A fossilized Leedsichthys tail fin, labeled '利兹鱼尾鳍化石', is displayed in a museum case, confirming its discovery location and date. The narration details its size, stating it was approximately 16 meters long and heavier than a whale shark, while on-screen text indicates it could be up to 6 meters long and weigh over 40 tons. A reconstructed animation of the massive, armored-headed Leedsichthys with a wide mouth swims in deep blue water, emphasizing its filter-feeding nature and immense scale. A historical black-and-white photograph of Alfred Nicholson Leeds, the scientist who studied the fossil, briefly appears, connecting the discovery to human scientific endeavor, before concluding with a close-up of the colossal Leedsichthys head."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 6,
+      "end_minute": 6,
+      "summary": "A reconstructed Leedsichthys, a massive prehistoric bony fish weighing up to 9.5 tons, is depicted filter-feeding on plankton in deep blue water, its armored head and wide mouth inhaling water through large gill rakers, a behavior noted as seemingly stress-relieving. Transitioning to the present, the fifth-ranked Whale Shark, named for its whale-like size and capable of reaching 18.8 meters and 18.6 tons, swims in vibrant blue waters. Divers provide scale to this largest fish in the world, which can live up to 150 years. Close-ups reveal its distinctive white spots and pale stripes, likened to a 'glowing chessboard' or 'the fish with stars on its back.' The whale shark is shown feeding on plankton, algae, and krill, with schools of fish swirling around it, reinforcing its herbivorous diet. The lighting shifts from deep blue to sunlit surface views, enhancing the majestic and peaceful atmosphere as the camera follows the gentle giant from various angles, concluding with it swimming near the surface surrounded by divers and small fish.",
+      "involved_entities": {
+        "Diver": {
+          "description": "A human diver in scuba gear, swimming near the whale shark, providing scale to the creature’s immense size, with bubbles rising from their equipment, visible in several shots.",
+          "attribute": "visual"
+        },
+        "Leedsichthys (reconstructed)": {
+          "description": "A massive, prehistoric bony fish with a wide, armored head and large mouth, shown swimming gracefully in deep blue water with sunlight filtering through. The narrator identifies it as a herbivorous animal, weighing up to 9.5 tons, demonstrating its filter-feeding behavior by inhaling plankton-rich water and filtering it through huge gill rakers.",
+          "attribute": "audio-visual"
+        },
+        "Fossil Skull": {
+          "description": "Not visible in this segment—replaced by a fossilized tail fin, which is not present here.",
+          "attribute": "visual"
+        },
+        "Whale Shark": {
+          "description": "A massive, spotted shark swimming in deep blue water, explicitly named 'Whale Shark' by the narrator, who explains its name reflects its whale-like size. It is described as the largest fish in the world, reaching up to 18.8 meters long and weighing 18.6 tons, with a lifespan of up to 150 years. Its distinctive white spots and pale stripes are visually prominent and described by the narrator as resembling a 'glowing chessboard,' earning it the nickname 'the fish with stars on its back.' It is shown feeding on plankton and small organisms, confirmed by the narrator as a herbivorous animal primarily consuming plankton, huge algae, and krill, with divers nearby providing scale.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a serene underwater scene, showcasing a reconstructed Leedsichthys, a massive prehistoric bony fish, swimming gracefully in deep blue water with sunlight filtering through. The narrator states that this creature, weighing up to 9.5 tons, is a herbivorous animal, much like the whale shark to be introduced later. Its massive, armored head and wide mouth are highlighted as it slowly moves, demonstrating its filter-feeding behavior by inhaling plankton-rich water and filtering it through huge gill rakers. The narrator comments on this seemingly stress-relieving feeding method, all set to an informative background music. The scene then transitions to a modern-day whale shark, explicitly introduced as the 'Fifth place, Whale Shark' by the narrator. This massive spotted shark swims in vibrant blue waters, with the narration explaining its name comes from ichthyology, reflecting its whale-like size. Divers in scuba gear swim nearby, providing scale to the whale shark’s immense size, which the narrator confirms can reach up to 18.8 meters long and weigh 18.6 tons, making it the largest fish in the world, capable of living up to 150 years. Close-ups reveal the whale shark’s distinctive white spots and pale stripes, described by the narrator as resembling a 'glowing chessboard,' earning it the nickname 'the fish with stars on its back.' The video captures the whale shark feeding on plankton and small organisms, with schools of fish swirling around it, reinforcing its herbivorous diet of plankton, huge algae, and krill. The lighting shifts from deep blue to sunlit surface views, enhancing the majestic and peaceful atmosphere as the camera follows the shark from various angles. The segment concludes with the whale shark swimming near the surface, surrounded by divers and small fish, emphasizing its gentle nature, with the Chinese narration continuing over the background music."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 7,
+      "end_minute": 7,
+      "summary": "A massive Whale Shark, its body adorned with distinctive white spots and pale stripes, glides through deep blue water, its immense size and gentle movement emphasized through close-ups. A narrator, speaking in Mandarin over a dramatic score, explains that these gentle giants feed on small free-swimming animals by swaying up and down to suck in seawater, filter food, and expel it, noting their harmlessness to humans and tendency to play with divers who provide scale. The scene shifts to illustrate human impact, showing a fishing boat with nets and a whale shark caught near the surface, with the narrator detailing how human fishing, particularly in the Taiwan region, has led to a sharp decline in whale shark populations due to hunting for meat and fins, stressing the need for protection for this endangered creature. A transition introduces the 'TOP4 薩斯特魚龍' (TOP4 Shastasaurus) through animated reconstructions depicting the large prehistoric marine reptile swimming in vibrant blue waters with sunlight filtering through. The narrator identifies it as an ichthyosaur from the late Triassic period in marine regions of Guizhou, China, the USA, and Mexico, explaining its genus name means 'lizard of Mount Shasta' and noting its resemblance to a lizard, despite a vast size difference, with an animated lizard briefly shown for comparison. The Shastasaurus is then depicted with a wide-open mouth capturing prey like fish and shrimp, its thick snout and relatively small teeth highlighted, concluding with a close-up of its predatory majesty.",
+      "involved_entities": {
+        "Animated Lizard": {
+          "description": "A close-up of a modern lizard with colorful, textured scales, shown for visual comparison to the Shastasaurus, with the narrator acknowledging the resemblance but emphasizing that the lizard's size cannot compare to the prehistoric creature.",
+          "attribute": "audio-visual"
+        },
+        "Diver": {
+          "description": "A human diver in scuba gear, swimming near the whale shark, providing scale, with the narrator mentioning that whale sharks are gentle and will even play with divers.",
+          "attribute": "audio-visual"
+        },
+        "Mosasaurus": {
+          "description": "A large prehistoric marine reptile with a long snout, sharp teeth, and a streamlined body, shown swimming in deep blue water and opening its jaws wide to capture prey, depicted in animated reconstructions with sunlight filtering through the surface.",
+          "attribute": "visual"
+        },
+        "Fishing Boat": {
+          "description": "A large fishing vessel with nets and crew, visually illustrating human impact, with the narrator explaining that human fishing, especially in Taiwan, targets whale sharks for their meat and fins, leading to their sharp decline.",
+          "attribute": "audio-visual"
+        },
+        "Whale Shark": {
+          "description": "A massive, spotted shark with distinctive white spots and pale stripes, seen gliding underwater and feeding by swaying up and down to suck in seawater, filter food, and then expel it. The narrator explains they are gentle, won't harm humans, and even play with divers. Despite having few natural predators, human fishing, particularly in the Taiwan region, has caused their numbers to sharply decline as they are hunted for their meat and fins for shark fin soup, making this endangered giant in need of protection.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with serene underwater footage of a massive Whale Shark, its spotted body gliding through deep blue water. Close-ups highlight its distinctive white spots and pale stripes, emphasizing its immense size and gentle movement. A male narrator, speaking in Mandarin over a dramatic, informative background score, explains that these gentle giants feed on small free-swimming animals, swaying up and down to suck in seawater, filter food, and then expel it. He adds that they are harmless to humans and even play with divers, who are seen swimming nearby, providing scale. The scene then shifts to illustrate human impact, showing a fishing boat with nets and a whale shark caught near the surface. The narrator details how human fishing, particularly in the Taiwan region, has led to a sharp decline in whale shark populations, as they are hunted for their meat and fins for shark fin soup, stressing that this endangered creature needs everyone's protection. A transition introduces the 'TOP4 薩斯特魚龍' (TOP4 Shastasaurus), with animated reconstructions depicting the large prehistoric marine reptile swimming in vibrant blue waters with sunlight filtering through. The narrator identifies it as an ichthyosaur that lived in marine regions of Guizhou, China, the USA, and Mexico during the late Triassic period. He explains its genus name means 'lizard of Mount Shasta' and, as an animated lizard is briefly shown for comparison, notes its resemblance to a lizard, though emphasizing the vast size difference. The Shastasaurus is then shown with a wide-open mouth capturing prey like fish and shrimp, with the narrator describing its thick snout and relatively small teeth, concluding the segment with a close-up of its predatory majesty."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 8,
+      "end_minute": 8,
+      "summary": "Set to intense background music and a male narrator speaking in Chinese, a dramatic underwater scene opens with a Mosasaurus, a large prehistoric marine reptile with sharp teeth and an elongated snout, swimming in deep blue water with its mouth agape; the narrator details its impressive size, up to 20 meters long and weighing 50 tons, describing it as a top predator that fed on large fish and marine reptiles, humorously suggesting it was an opportunistic, 'super lazy' hunter that wouldn't survive today, while on-screen Chinese text elaborates on its anatomy and diet. A bright white flash transitions the scene as the narrator introduces the 'Megalodon' (巨齿鲨), with intensifying music accompanying a cinematic depiction of this massive shark breaching the ocean surface near a fishing boat, dramatically throwing a person in a yellow floatation device into the air; the narrator compares its ferocity to the great white shark, stating that the Megalodon, which lived approximately 28 million to 1.5 million years ago, was far larger and more ferocious. Underwater footage then shows the Megalodon approaching a diver, highlighting its immense size and fearsome jaws. The scene shifts to a museum, where a woman and a man observe a large fossilized Megalodon jaw in a glass case, as the narrator provides details from fossil research, stating its maximum length could reach 20 meters, weighing 50 to 70 tons, and its wide-open mouth could have a diameter of 3 meters. The video concludes with powerful underwater footage of a modern shark swimming, while on-screen text and the narrator emphasize the Megalodon’s status as one of history’s most powerful predators, with the lighting and atmosphere transitioning from prehistoric mystery to modern awe and cinematic intensity.",
+      "involved_entities": {
+        "Cinematic Megalodon Scene": {
+          "description": "A highly dramatized, animated or CGI-rendered scene of the Megalodon breaching the ocean surface near a fishing boat, with a person in a yellow floatation device being thrown into the air, used to emphasize its size and ferocity.",
+          "attribute": "visual"
+        },
+        "Diver": {
+          "description": "A human diver in scuba gear, swimming near the Megalodon in an underwater scene, providing scale to the shark’s immense size, with bubbles rising from their equipment.",
+          "attribute": "visual"
+        },
+        "Man in Museum": {
+          "description": "A man wearing a blue cap and dark clothing, standing beside the woman, also observing the Megalodon fossil in the museum, suggesting shared interest in paleontology.",
+          "attribute": "visual"
+        },
+        "Mosasaurus": {
+          "description": "A large prehistoric marine reptile with a long snout, sharp teeth, and streamlined body, shown swimming in deep blue water, opening its jaws wide, and interacting with smaller fish. A male narrator describes it as up to 20 meters long and weighing 50 tons, a top predator that fed on large fish and marine reptiles, possibly an opportunistic and 'lazy' scavenger that wouldn't survive in modern times. On-screen Chinese text further details its predatory and scavenging behavior.",
+          "attribute": "audio-visual"
+        },
+        "Fishing Boat": {
+          "description": "A wooden fishing vessel with crew members on deck, shown in a split-screen view as the Megalodon breaches the water nearby, illustrating human interaction with the ocean and the shark’s scale.",
+          "attribute": "visual"
+        },
+        "Woman in Museum": {
+          "description": "A woman wearing a white tank top and dark pants, standing in a museum with a man, observing a large fossilized Megalodon jaw in a glass case, indicating public engagement with prehistoric life.",
+          "attribute": "visual"
+        },
+        "Shark (in park)": {
+          "description": "A large shark leaping out of the water in a modern aquatic park, creating a splash, though this appears to be a cinematic or animated representation rather than a real park scene, used to dramatize the Megalodon’s power.",
+          "attribute": "visual"
+        },
+        "Museum Display Case": {
+          "description": "A glass-enclosed exhibit in a museum showcasing a large fossilized Megalodon jaw with sharp teeth, labeled with text, and viewed by visitors, indicating a scientific and educational setting.",
+          "attribute": "visual"
+        },
+        "Megalodon": {
+          "description": "A massive prehistoric shark, introduced by a male narrator as '巨齿鲨' (Jùchǐshā), depicted in cinematic and animated scenes breaching the ocean surface near a fishing boat, swimming underwater toward a diver, and shown as a fossilized jaw in a museum display. The narrator details its timeline (28 million to 1.5 million years ago), immense size (up to 20 meters long, 50-70 tons, with a 3-meter wide mouth), and describes it as far larger and more ferocious than the great white shark, emphasizing its historical dominance as a top predator.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a dramatic underwater scene, set to intense background music and a male narrator speaking in Chinese. A large, prehistoric marine reptile, the Mosasaurus, swims in deep blue water, its mouth wide open, showcasing sharp teeth and an elongated snout. The narrator details its impressive size, up to 20 meters long and weighing 50 tons, describing it as a top predator that fed on large fish and marine reptiles. He also humorously suggests it was an opportunistic, 'super lazy' hunter that wouldn't survive today. On-screen Chinese text further elaborates on its anatomy and diet. A bright white flash transitions the scene as the narrator introduces the 'Megalodon' (巨齿鲨). The music intensifies as a cinematic depiction of this massive shark breaches the ocean surface near a fishing boat, dramatically throwing a person in a yellow floatation device into the air. The narrator compares its ferocity to the great white shark, stating that the Megalodon, which lived approximately 28 million to 1.5 million years ago, was far larger and more ferocious. Underwater footage then shows the Megalodon approaching a diver, highlighting its immense size and fearsome jaws. The scene shifts to a museum, where a woman and a man observe a large fossilized Megalodon jaw in a glass case. The narrator provides details from fossil research, stating its maximum length could reach 20 meters, weighing 50 to 70 tons, and its wide-open mouth could have a diameter of 3 meters. The video concludes with powerful underwater footage of a modern shark, possibly a great white, swimming, while on-screen text and the narrator emphasize the Megalodon’s status as one of history’s most powerful predators, with the lighting and atmosphere transitioning from prehistoric mystery to modern awe and cinematic intensity."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 9,
+      "end_minute": 9,
+      "summary": "The Megalodon, identified as one of history's most powerful predators, breaches the surface with a powerful splash, its enormous jaws wide open, revealing rows of sharp, serrated teeth, with close-ups emphasizing its immense bite force, estimated at 20 tons—the strongest ever recorded, capable of crushing whale ribs and surpassing even the T-Rex; the narrator highlights its role as the ocean's top predator, with any marine creature being potential prey, before a cinematic scene shows a human in a yellow floatation device falling into its gaping maw, underscoring its terrifying scale, and the narrator concludes the Megalodon's segment by noting its extinction remains a mystery. The scene then transitions to a prehistoric landscape, introducing the Argentinosaurus, identified as \"second place,\" a colossal sauropod, a Titanosaur named for its discovery in Argentina, shown in a lush, sunlit environment, stretching its long neck to feed on high foliage, with the camera panning across its massive body, emphasizing its size, with the narrator detailing its 30-40 meter length and vertebrae that were 1.5 meters high and 1.1 meters wide; a scale comparison graphic appears, showing the herbivorous dinosaur towering over elephants and humans, as the narrator reveals its estimated 94-ton weight, equivalent to 20 elephants, which broke the 2012 Guinness World Record for the largest land animal, and the final scenes depict the Argentinosaurus in a misty, prehistoric forest, with smaller dinosaurs nearby, underscoring its dominance.",
+      "involved_entities": {
+        "Argentinosaurus": {
+          "description": "A colossal sauropod dinosaur, introduced by the Mandarin narrator as \"阿根廷龙\" (Agēntínglóng) and \"second place.\" Visually, it is shown in lush, sunlit, and misty prehistoric landscapes, stretching its long neck to feed on high foliage, towering over trees, elephants, and humans in scale comparisons. Audibly, it is described as a Titanosaur named for its discovery in Argentina, one of the largest land dinosaurs, reaching 30-40 meters in length, with vertebrae 1.5 meters high and 1.1 meters wide. Scientists speculate it weighed 94 tons, equivalent to 20 elephants, breaking the Guinness World Record for ancient creature weight, and is identified as a herbivorous dinosaur.",
+          "attribute": "audio-visual"
+        },
+        "Cinematic Megalodon Scene": {
+          "description": "A highly dramatized, animated or CGI-rendered scene of the Megalodon breaching the ocean surface near a fishing boat, with a person in a yellow floatation device being thrown into the air, used to emphasize its size and ferocity.",
+          "attribute": "visual"
+        },
+        "Diver": {
+          "description": "A human diver in scuba gear, swimming near the Megalodon in an underwater scene, providing scale to the shark’s immense size, with bubbles rising from their equipment.",
+          "attribute": "visual"
+        },
+        "Human in Floatation Device": {
+          "description": "A person wearing a bright yellow floatation device, shown falling into the Megalodon’s mouth in a dramatic, cinematic scene, used to emphasize the shark’s immense size and predatory power, as described by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Megalodon": {
+          "description": "A massive prehistoric shark, identified by the Mandarin narrator as \"巨齿鲨\" (Jùchǐshā) and one of history's most powerful predators. Visually, it breaches the ocean surface with wide-open jaws and sharp teeth, swims in deep blue waters, and is depicted in a cinematic scene where a human falls into its maw. Audibly, its bite force is estimated at 20 tons, capable of crushing whale ribs, making it the strongest bite force ever recorded, surpassing Tyrannosaurus Rex. The narrator also states it was the ocean's top predator and its extinction remains an unsolved mystery.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a dramatic underwater sequence, set to a suspenseful musical score and Mandarin narration, featuring the Megalodon, identified as one of history's most powerful predators. The massive prehistoric shark breaches the surface with a powerful splash, its enormous jaws wide open, revealing rows of sharp, serrated teeth. Close-ups emphasize its immense bite force, estimated at 20 tons—the strongest ever recorded, capable of crushing whale ribs and surpassing even the T-Rex. The narrator highlights its role as the ocean's top predator, with any marine creature being potential prey, before a cinematic scene shows a human in a yellow floatation device falling into its gaping maw, underscoring its terrifying scale. The narrator concludes the Megalodon's segment by noting its extinction remains a mystery. The scene then transitions to a prehistoric landscape, introducing the Argentinosaurus, identified as \"second place.\" This colossal sauropod, a Titanosaur named for its discovery in Argentina, is shown in a lush, sunlit environment, stretching its long neck to feed on high foliage. The camera pans across its massive body, emphasizing its size, with the narrator detailing its 30-40 meter length and vertebrae that were 1.5 meters high and 1.1 meters wide. A scale comparison graphic appears, showing the herbivorous dinosaur towering over elephants and humans, as the narrator reveals its estimated 94-ton weight, equivalent to 20 elephants, which broke the 2012 Guinness World Record for the largest land animal. The final scenes depict the Argentinosaurus in a misty, prehistoric forest, with smaller dinosaurs nearby, underscoring its dominance."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 10,
+      "end_minute": 11,
+      "summary": "In a prehistoric landscape under a cloudy sky, a colossal Argentinosaurus fed on high foliage, while a narrator explained that while most carnivorous dinosaurs ignored these giants, Mapusaurus might hunt them using pack tactics to encircle old, weak, or young individuals, similar to lions hunting buffalo on the African savanna, though Argentinosaurus generally lived comfortably. The scene dramatically shifted to the ocean, introducing a massive blue whale as the segment's champion, described as the largest animal by volume to have ever lived, reaching up to 33 meters long and weighing 180 tons, equivalent to 30 African elephants, with a tongue that could hold 50 people. This marine mammal, distributed across all four oceans, was shown swimming gracefully in deep blue water, diving to depths over 100 meters with divers nearby for scale, and concluding with a dramatic breach and splash, captured by a person on a boat. Underwater, the blue whale forages in waters over 100 meters deep during the day and surfaces at night, with a gestation period of 10 to 12 months and calves gaining 90 kg daily from consuming 600 liters of milk. Adult blue whales possess a four-part stomach, filter up to 2 million krill per meal, consuming 4,000–8,000 kg of food daily, and feel hungry if their intake drops below 2,000 kg. The narrator concluded with a message about human responsibility, noting the blue whale's rapidly decreasing numbers due to human activities, as the whale glided through the ocean surrounded by small fish, with a National Geographic logo visible.",
+      "involved_entities": {
+        "Diver": {
+          "description": "A human diver in scuba gear, swimming near the whale in an underwater scene, providing scale to the whale’s immense size, with bubbles rising from their equipment. The diver is visible in the background during the initial underwater shots, emphasizing the whale’s scale.",
+          "attribute": "visual"
+        },
+        "Whale": {
+          "description": "A large marine mammal, specifically identified as a Blue Whale (蓝鲸) by the male narrator, shown in deep blue water with a close-up of its massive head and textured skin. It is described as foraging over 100 meters deep during the day and surfacing at night. Visually, it swims gracefully, breaches the surface creating a splash, and dives to depths over 100 meters. The narrator details its reproductive cycle, stating mating occurs from late autumn to late winter, with females giving birth every two to three years after a 10 to 12-month gestation period, producing calves in early winter. A calf is shown nursing, with the narrator explaining it consumes 600 liters of milk and gains 90 kg daily. The adult Blue Whale's feeding habits are elaborated upon, with its stomach described as having four parts, the first being a massive esophageal expansion, allowing it to filter up to 2 million krill per meal and consume 4,000–8,000 kg of food daily, feeling hungry if food drops below 2,000 kg. The narrator concludes by highlighting that this 'giant's' numbers are rapidly decreasing due to human activities, emphasizing our obligation to protect it. Its movements are slow and deliberate, highlighting its immense size and gentle nature, often accompanied by small fish.",
+          "attribute": "audio-visual"
+        },
+        "Elephant": {
+          "description": "A herd of African elephants walking across a savanna, later shown as silhouettes against a sunset. The Chinese narrator uses '30头非洲大象' (30 African elephants) as a direct weight comparison for the blue whale and mentions '非洲大草原 狮子捕猎水牛' (African savanna, lions hunting buffalo) in the context of pack hunting.",
+          "attribute": "audio-visual"
+        },
+        "Dinosaur (Spinosaurus)": {
+          "description": "A large, shadowy, bipedal dinosaur with a sail on its back, shown roaring, charging through water, wading in a swamp, and swimming underwater, with text describing its size (up to 14 meters) and its role as a 'super king' of its time.",
+          "attribute": "visual"
+        },
+        "Argentinosaurus": {
+          "description": "A colossal sauropod dinosaur shown in a lush, prehistoric landscape, stretching its long neck to feed on high foliage. The Chinese narrator identifies it as '阿根廷龙' and mentions it's generally comfortable, though Mapusaurus might hunt its old, weak, or young members.",
+          "attribute": "audio-visual"
+        },
+        "Boat with Observer": {
+          "description": "A small white boat on the ocean surface with a person holding a camera, capturing the moment a blue whale breaches, providing a human perspective and scale to the whale’s size.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a prehistoric scene, where a colossal Argentinosaurus, a long-necked herbivorous dinosaur, feeds on high foliage in a lush, rocky landscape under a cloudy sky. An epic, slightly tense orchestral score plays as a male narrator in Chinese explains that while most carnivorous dinosaurs of that era weren't interested in these giants, Mapusaurus might hunt them. The scene transitions to a group of predatory dinosaurs, visually resembling Giganotosaurus, stalking through the terrain, with on-screen text suggesting pack hunting. The narrator compares this to modern African savanna lions hunting buffalo, emphasizing that Mapusaurus would also use pack tactics to encircle old, weak, or young Argentinosaurus, though generally, the Argentinosaurus lived quite comfortably. The narrative then shifts dramatically to the ocean, where a massive blue whale is introduced as the segment's champion, with the narrator exclaiming \"Number one, Blue Whale!\" and \"Our champion, Blue Whale!\" The majestic orchestral score swells as the narrator details that the blue whale is a marine mammal of the Balaenopteridae family, Balaenoptera genus, with four subspecies, and is considered the largest animal by volume to have ever lived on Earth. The whale is shown swimming gracefully in deep blue water, with aerial and underwater shots highlighting its enormous size—up to 33 meters long and weighing 180 tons, equivalent to the combined weight of 30 African elephants. The narrator adds that its tongue alone can hold 50 people, making it an unrivaled presence in the animal kingdom, distributed across all four oceans. The whale is seen diving to depths over 100 meters, with divers nearby for scale, before concluding with a dramatic breach, creating a huge splash as a person on a boat captures the awe-inspiring moment with a camera.",
+        "The segment opens with a gentle, awe-inspiring orchestral background music as an underwater close-up reveals a massive Blue Whale, its textured skin and immense head visible in the deep blue water. A male narrator in Chinese explains that these whales forage in waters over 100 meters deep during the day and only surface at night. The Whale swims gracefully before breaching the surface with a powerful splash. The narration continues, detailing their reproductive cycle: mating from late autumn to late winter, with females giving birth every two to three years after a 10 to 12-month gestation period, typically in early winter. A calf is then shown nursing, and the narrator highlights its rapid growth, consuming 600 liters of milk and gaining 90 kg daily. The scene shifts to emphasize the adult Blue Whale's enormous appetite, with the narrator describing its four-part stomach, the first being a massive esophageal expansion. They can filter up to 2 million krill per meal, consuming 4,000–8,000 kg of food daily, and feel hungry if their intake drops below 2,000 kg. The Whale is shown diving deep, capable of reaching over 100 meters. The segment concludes with the narrator's powerful message about human responsibility, noting that this 'giant's' numbers are rapidly decreasing due to human activities, as the Whale glides through the ocean surrounded by small fish, with a National Geographic logo visible."
+      ]
+    },
+    {
+      "event_id": 11,
+      "start_minute": 12,
+      "end_minute": 12,
+      "summary": "Massive prehistoric sharks, identified as likely Megalodon, swim gracefully in deep blue waters illuminated by filtering sunlight, with smaller fish providing scale, as on-screen Chinese text introduces the video's focus on ten super-giant animals. A narrator begins speaking in Chinese, mentioning 'mammals' over light, cinematic background music. The scene transitions to a close-up of a whale's immense head and textured skin, with a diver visible in the background for scale. A Paraceratherium, a large, long-necked prehistoric mammal, walks across a dry, rocky landscape under a clear sky, emphasizing its massive build. The video cuts to an aquarium where a large whale swims past an excited Aquatic Park Audience, who raise their hands and take photos. The narrator continues in Chinese, asking which of the ten super-giant animals left the deepest impression and inviting viewer comments. Underwater, a Mosasaurus with its jaws wide open interacts with smaller fish, highlighting its predatory nature. The narrator encourages viewers to like, subscribe, and share. The final frames depict a Spinosaurus roaring with its sail erect in a misty, prehistoric swamp, with another dinosaur in the background, creating an ancient wilderness feel. The video concludes with Chinese text thanking viewers, as the narrator expresses gratitude for watching and says 'see you next time,' with the background music fading out.",
+      "involved_entities": {
+        "Paraceratherium": {
+          "description": "A large, long-necked prehistoric mammal with wrinkled skin, shown walking across a dry, rocky landscape under a clear sky, emphasizing its herbivorous behavior and massive build, implicitly referenced by the narrator's opening mention of 'mammals' (哺乳动物).",
+          "attribute": "audio-visual"
+        },
+        "Mosasaurus": {
+          "description": "A large prehistoric marine reptile with a long snout and sharp teeth, shown swimming in deep blue water with its jaws wide open, interacting with smaller fish, emphasizing its predatory nature.",
+          "attribute": "visual"
+        },
+        "Whale": {
+          "description": "A large marine mammal shown in deep blue water, with a close-up of its head emphasizing its massive size and textured skin, swimming gracefully, with a diver visible in the background for scale.",
+          "attribute": "visual"
+        },
+        "Diver": {
+          "description": "A human diver in scuba gear, swimming near the whale in an underwater scene, providing scale to the whale’s immense size, with bubbles rising from their equipment.",
+          "attribute": "visual"
+        },
+        "Dinosaur (Spinosaurus)": {
+          "description": "A large, shadowy, bipedal dinosaur with a sail on its back, shown roaring in a misty, prehistoric swamp, with another dinosaur visible in the background, creating a sense of ancient wilderness.",
+          "attribute": "visual"
+        },
+        "Aquatic Park Audience": {
+          "description": "A crowd of spectators seated in bleachers, watching a large whale swim past with excitement, raising their hands and taking photos, illustrating public fascination with marine giants.",
+          "attribute": "visual"
+        },
+        "Megalodon": {
+          "description": "A massive prehistoric shark depicted in cinematic scenes, swimming in deep blue water with sunlight filtering through, its large body and sharp fins dominating the frame, shown in motion with smaller fish nearby for scale.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a cinematic underwater scene, showcasing massive prehistoric sharks, likely Megalodon, gracefully swimming in deep blue waters, illuminated by filtering sunlight, while smaller fish provide scale. On-screen Chinese text appears, summarizing the video's content and inviting viewers to reflect on the 10 super-giant animals shown. A male narrator begins speaking in Chinese, introducing the topic by mentioning \"mammals\" (哺乳动物), accompanied by light, cinematic background music that continues throughout. The scene transitions to a close-up of a whale's immense head and textured skin, with a diver visible in the background for scale. Next, a large, long-necked prehistoric mammal, a Paraceratherium, is seen walking across a dry, rocky landscape under a clear sky, emphasizing its massive build. The video then cuts to an aquarium where a large whale (possibly a whale shark or basking shark) swims past an excited audience, raising their hands and taking photos. The narrator continues in Chinese, asking which of the ten super-giant animals left the deepest impression and inviting viewers to comment. The scene shifts back underwater to a Mosasaurus with its jaws wide open, interacting with smaller fish, highlighting its predatory nature. The narrator encourages viewers to like, subscribe, and share the video if they enjoyed it. The final frames depict a Spinosaurus roaring with its sail erect in a misty, prehistoric swamp, with another dinosaur in the background, creating an ancient wilderness feel. The video concludes with Chinese text thanking viewers and bidding farewell, as the narrator expresses gratitude for watching and says \"see you next time,\" with the background music fading out at the end."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Whale": "A large marine mammal shown in deep blue water, with a close-up of its head emphasizing its massive size and textured skin, swimming gracefully, with a diver visible in the background for scale.",
+    "Diver": "A human diver in scuba gear, swimming near the whale in an underwater scene, providing scale to the whale’s immense size, with bubbles rising from their equipment.",
+    "Elephant": "A herd of African elephants walking across a savanna, later shown as silhouettes against a sunset. The Chinese narrator uses '30头非洲大象' (30 African elephants) as a direct weight comparison for the blue whale and mentions '非洲大草原 狮子捕猎水牛' (African savanna, lions hunting buffalo) in the context of pack hunting.",
+    "Dinosaur (Spinosaurus)": "A large, shadowy, bipedal dinosaur with a sail on its back, shown roaring in a misty, prehistoric swamp, with another dinosaur visible in the background, creating a sense of ancient wilderness.",
+    "Paraceratherium": "A large, long-necked prehistoric mammal with wrinkled skin, shown walking across a dry, rocky landscape under a clear sky, emphasizing its herbivorous behavior and massive build, implicitly referenced by the narrator's opening mention of 'mammals' (哺乳动物).",
+    "Mosasaurus": "A large prehistoric marine reptile with a long snout and sharp teeth, shown swimming in deep blue water with its jaws wide open, interacting with smaller fish, emphasizing its predatory nature.",
+    "Shark (in park)": "A large shark leaping out of the water in a modern aquatic park, creating a splash, though this appears to be a cinematic or animated representation rather than a real park scene, used to dramatize the Megalodon’s power.",
+    "Aquatic Park Audience": "A crowd of spectators seated in bleachers, watching a large whale swim past with excitement, raising their hands and taking photos, illustrating public fascination with marine giants.",
+    "Whale Shark": "A massive, spotted shark with distinctive white spots and pale stripes, seen gliding underwater and feeding by swaying up and down to suck in seawater, filter food, and then expel it. The narrator explains they are gentle, won't harm humans, and even play with divers. Despite having few natural predators, human fishing, particularly in the Taiwan region, has caused their numbers to sharply decline as they are hunted for their meat and fins for shark fin soup, making this endangered giant in need of protection.",
+    "Man in Suit": "A historical photograph of a man with a mustache, likely a 19th-century scientist, shown briefly, possibly the one who studied the Leedsichthys fossil, adding context to the discovery.",
+    "Fossil Skull": "Not visible in this segment—replaced by a fossilized tail fin, which is not present here.",
+    "Titanoboa": "A massive, dark-colored prehistoric giant snake, visually shown slithering through a dark, swampy forest, coiling around a tree trunk, and moving slowly through the underbrush. A Chinese narrator describes its average length as 12 meters and weight over a ton, detailing its diet of large prey including 4-meter, 500kg blunt-nosed crocodiles, 3-meter lungfish, and large turtles. It required temperatures between 30 and 34 degrees Celsius, leading scientists to believe it lived in the Paleocene Neotropics, and was a dominant creature after the dinosaurs, eventually becoming extinct 58 million years ago. On-screen Chinese text also describes its diet and thermal requirements.",
+    "Woman in Museum": "A woman wearing a white tank top and dark pants, standing in a museum with a man, observing a large fossilized Megalodon jaw in a glass case, indicating public engagement with prehistoric life.",
+    "Museum Interior": "A spacious, well-lit museum hall with polished floors, glass ceilings, and a large, coiled fossil skeleton of the Titanoboa displayed prominently, suggesting a scientific and educational setting.",
+    "Leedsichthys Tail Fin Fossil": "A large, preserved fossil of a Leedsichthys tail fin, displayed in a museum case, labeled '利兹鱼尾鳍化石'. The male Mandarin narrator confirms it was found in 1886 in Peterborough, England, and its discovery led to the naming of the fish.",
+    "Historical Scientist Photograph": "A black-and-white portrait of a man with a mustache, dressed in formal 19th-century attire, identified by the male Mandarin narrator as Alfred Nicholson Leeds (艾佛列尼克森利兹), the fossil collector who discovered the Leedsichthys fossil in 1886.",
+    "Leedsichthys (reconstructed)": "A massive, prehistoric bony fish with a wide, armored head and large mouth, shown swimming gracefully in deep blue water with sunlight filtering through. The narrator identifies it as a herbivorous animal, weighing up to 9.5 tons, demonstrating its filter-feeding behavior by inhaling plankton-rich water and filtering it through huge gill rakers.",
+    "Animated Lizard": "A close-up of a modern lizard with colorful, textured scales, shown for visual comparison to the Shastasaurus, with the narrator acknowledging the resemblance but emphasizing that the lizard's size cannot compare to the prehistoric creature.",
+    "Fishing Boat": "A wooden fishing vessel with crew members on deck, shown in a split-screen view as the Megalodon breaches the water nearby, illustrating human interaction with the ocean and the shark’s scale.",
+    "Cinematic Megalodon Scene": "A highly dramatized, animated or CGI-rendered scene of the Megalodon breaching the ocean surface near a fishing boat, with a person in a yellow floatation device being thrown into the air, used to emphasize its size and ferocity.",
+    "Man in Museum": "A man wearing a blue cap and dark clothing, standing beside the woman, also observing the Megalodon fossil in the museum, suggesting shared interest in paleontology.",
+    "Museum Display Case": "A glass-enclosed exhibit in a museum showcasing a large fossilized Megalodon jaw with sharp teeth, labeled with text, and viewed by visitors, indicating a scientific and educational setting.",
+    "Megalodon": "A massive prehistoric shark depicted in cinematic scenes, swimming in deep blue water with sunlight filtering through, its large body and sharp fins dominating the frame, shown in motion with smaller fish nearby for scale.",
+    "Argentinosaurus": "A colossal sauropod dinosaur shown in a lush, prehistoric landscape, stretching its long neck to feed on high foliage. The Chinese narrator identifies it as '阿根廷龙' and mentions it's generally comfortable, though Mapusaurus might hunt its old, weak, or young members.",
+    "Human in Floatation Device": "A person wearing a bright yellow floatation device, shown falling into the Megalodon’s mouth in a dramatic, cinematic scene, used to emphasize the shark’s immense size and predatory power, as described by the narrator.",
+    "Boat with Observer": "A small white boat on the ocean surface with a person holding a camera, capturing the moment a blue whale breaches, providing a human perspective and scale to the whale’s size."
+  }
+}

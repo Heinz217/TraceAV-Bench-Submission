@@ -1,0 +1,907 @@
+{
+    "video_id": "video430",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video opens with a black screen displaying the CBC News logo, transitioning to a news anchor in a dark suit and purple tie, standing before a blurred cityscape backdrop, introducing the segment titled 'The National.' The scene shifts to a man speaking from a home office with a window view, under the headline 'Canadians stranded,' followed by chaotic street footage showing burning vehicles and people fleeing, suggesting unrest or conflict. The narrative then moves to a medical segment titled 'Treating terminal cancer,' showing a woman in a hospital bed with an IV, a doctor in scrubs, and a couple walking outdoors in a snowy field with a dog, indicating a personal story. The video transitions to a sports segment titled 'Hometown hope,' featuring a baseball player in a Reds uniform, a young boy in a Blue Jays jersey, and a man in a Blue Jays cap, interspersed with images of a child and a baby, suggesting a family legacy. The final frames show a montage of diverse images including a bear, Indigenous performers, armed individuals, and a child drinking water, before returning to the news anchor, reinforcing the broad scope of the broadcast.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "News Anchor": "A man in a dark suit and purple tie, standing before a blurred cityscape, delivering the news segment 'The National.'",
+                "Man in Home Office": "A man speaking from a home office with a window view of greenery, under the headline 'Canadians stranded.'",
+                "Woman in Hospital": "A woman lying in a hospital bed, wearing a green top, with an IV drip, under the segment 'Treating terminal cancer.'",
+                "Doctor in Scrubs": "A man in a purple scrub top with a stethoscope, standing in a medical setting, under the segment 'Treating terminal cancer.'",
+                "Couple Walking": "An older couple walking outdoors in a snowy field with a black dog, the man in a plaid jacket and cap, the woman in a scarf, under the segment 'Treating terminal cancer.'",
+                "Baseball Player (Reds)": "A baseball player in a white and red Reds uniform with the number 19, running on a field, under the segment 'Hometown hope.'",
+                "Young Boy (Blue Jays)": "A young boy in a blue Blue Jays jersey and cap, holding a bat, under the segment 'Hometown hope.'",
+                "Man in Blue Jays Cap": "A man in a Blue Jays cap and blue shirt, speaking in front of a Rogers-branded backdrop, under the segment 'Hometown hope.'",
+                "Child in Blue Jays Shirt": "A young child in a Blue Jays shirt, sitting at a table with a lit candle, under the segment 'Hometown hope.'",
+                "Baby in Blue Jays Outfit": "A baby in a Blue Jays-themed outfit, being held by an adult, under the segment 'Hometown hope.'",
+                "Bear in Snow": "A large black bear walking in a snowy landscape, shown in a montage.",
+                "Indigenous Performers": "A group of individuals in traditional Indigenous regalia, including headdresses and colorful attire, performing in a snowy setting.",
+                "Armed Individuals": "Two figures, one in a red shirt and black mask holding a rifle, the other in military gear, shown in a montage.",
+                "Child Drinking Water": "A young child in a red shirt, sitting on a yellow bucket, drinking from a water bottle, shown in a montage."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The segment begins with the News Anchor, a man in a dark suit and purple tie, standing before a blurred cityscape backdrop, delivering a news report. On-screen text reads 'No evacuations planned for 2,908 Canadians registered in Haiti,' setting the context for the story. The scene transitions to field footage showing armed individuals in military-style gear and balaclavas, some near a white pickup truck and others patrolling streets in Port-au-Prince, indicating a tense security situation. The footage includes a close-up of two masked figures, one in a red shirt holding a rifle, reinforcing the theme of instability. The video then cuts back to the News Anchor, who continues his report. The scene shifts to a view through a fence in Port-au-Prince, with the credit 'Richard Phillips' appearing, followed by a video call with Richard Phillips, identified as a Canadian agriculture trainer near Port-au-Prince, speaking from a home office with decorative wall art and a window view of greenery. The on-screen text remains consistent throughout, emphasizing the Canadian government’s decision not to evacuate registered citizens.",
+            "active_entities": {
+                "News Anchor": "A man in a dark suit and purple tie, standing before a blurred cityscape, delivering the news segment 'The National.'",
+                "Armed Individuals": "Two figures, one in a red shirt and black mask holding a rifle, the other in military gear, shown in a montage."
+            },
+            "discovered_new_entities": {
+                "Richard Phillips": "A man speaking from a home office with a window view of greenery, under the headline 'Canadians stranded.'",
+                "White Pickup Truck": "A white pickup truck with visible markings, parked on a street in Port-au-Prince, with armed individuals nearby.",
+                "Street Scene in Port-au-Prince": "A sunlit urban street with vehicles, pedestrians, and armed personnel, indicating a tense environment."
+            }
+        },
+        {
+            "minute": 3,
+            "caption": "The video opens with a scene of a red tractor with an orange trailer, where a person with dreadlocks is seated at the wheel while another man, Richard Phillips, hands over a box, suggesting a delivery or aid distribution. The setting is outdoors, sunny, with greenery and a building labeled 'HEALTH CENTRE' in the background. The scene transitions to Richard Phillips speaking directly to the camera from a home office, with a window view of greenery and decorative wall art, including a painting and woven baskets. The video then cuts to a multi-story building with people on balconies, laundry hanging, and makeshift tarps, indicating a crowded or displaced community. A group of people is shown walking with bags and bundles, suggesting displacement or migration. The next segment features Robert Fatton, identified as being from the University of Virginia, speaking from an office with academic posters on the wall. The video then shifts to a tense urban scene: two armed individuals, one in a red shirt and black mask holding a rifle, the other in military gear, standing near a white pickup truck in Port-au-Prince. This is followed by a shot of a damaged police station with a blue wall reading 'POLICE NATIONALE D'HAITI' and 'COMMISSARIAT SALOMON', with debris and a burning vehicle visible through a gate. The final scene shows a man in a suit speaking at a podium with the Haitian Prime Minister’s seal, indicating an official address. Throughout, the on-screen text 'No evacuations planned for 2,908 Canadians registered in Haiti' from CBC News remains constant, framing the narrative around the safety and status of Canadians in Haiti amid instability.",
+            "active_entities": {
+                "Richard Phillips": "A man speaking from a home office with a window view of greenery, wearing a black shirt, under the headline 'Canadians stranded.'",
+                "Armed Individuals": "Two figures, one in a red shirt and black mask holding a rifle, the other in military gear, shown standing near a white pickup truck in a street scene in Port-au-Prince.",
+                "White Pickup Truck": "A white pickup truck with visible markings, parked on a street in Port-au-Prince, with armed individuals nearby.",
+                "Street Scene in Port-au-Prince": "A sunlit urban street with vehicles, pedestrians, and armed personnel, indicating a tense environment."
+            },
+            "discovered_new_entities": {
+                "Robert Fatton": "An older man with white hair and glasses, wearing a black shirt with a Real Madrid logo, speaking from an office with academic posters on the wall, identified as from the University of Virginia, Charlottesville, Virginia.",
+                "Police Station": "A damaged building with a blue wall reading 'POLICE NATIONALE D'HAITI' and 'COMMISSARIAT SALOMON', showing debris and a burning vehicle through a gate.",
+                "Man at Podium": "A bald man in a suit and glasses speaking at a podium with the Haitian Prime Minister’s seal, indicating an official address."
+            }
+        },
+        {
+            "minute": 4,
+            "caption": "The video opens with Bob Rae, Canada's Ambassador to the UN, speaking from Juno Beach, Florida, in a home setting with framed artwork on the wall behind him, wearing a light blue button-up shirt. The on-screen text states 'No evacuations planned for 2,908 Canadians registered in Haiti.' The scene cuts to chaotic street footage in Haiti, showing armed individuals, including one in a red shirt and black mask holding a rifle, near a white pickup truck, with crowds of people moving urgently on steps and streets, some carrying bags. The footage includes a child drinking water from a bottle while sitting on a yellow bucket, and a damaged police station with 'POLICE NATIONALE D'HAITI' visible, with debris and a burning vehicle. The video then transitions to Robert Fatton, an older man with white hair and glasses, wearing a black Real Madrid polo shirt, speaking from an office with academic posters on the wall, identified as from the University of Virginia, Charlottesville, Virginia. Next, Richard Phillips, a man in a black shirt, speaks from a home office with a window view of greenery, under the same headline about Canadians in Haiti. The scene shifts to an aerial view of a crowded bridge over a river, with people and vehicles moving across, indicating displacement or migration. The segment then cuts to a news anchor in a dark suit and purple tie, standing before a backdrop of a destroyed building, delivering a new headline: 'U.S. Army vessel heads to Mediterranean to build Gaza aid port.' The final shot shows a large U.S. Army vessel, marked 'US ARMY LSF-1,' docked in murky water under an overcast sky, preparing for deployment.",
+            "active_entities": {
+                "Robert Fatton": "An older man with white hair and glasses, wearing a black Real Madrid polo shirt, speaking from an office with academic posters on the wall, identified as from the University of Virginia, Charlottesville, Virginia.",
+                "Richard Phillips": "A man in a black shirt, speaking from a home office with a window view of greenery, under the headline 'Canadians stranded.'",
+                "News Anchor": "A man in a dark suit and purple tie, standing before a blurred cityscape, delivering the news segment 'The National.'",
+                "Armed Individuals": "Two figures, one in a red shirt and black mask holding a rifle, the other in military gear, shown standing near a white pickup truck in a street scene in Port-au-Prince.",
+                "White Pickup Truck": "A white pickup truck with visible markings, parked on a street in Port-au-Prince, with armed individuals nearby.",
+                "Street Scene in Port-au-Prince": "A sunlit urban street with vehicles, pedestrians, and armed personnel, indicating a tense environment.",
+                "Child Drinking Water": "A young child in a red shirt, sitting on a yellow bucket, drinking from a water bottle, shown in a montage.",
+                "Police Station": "A damaged building with a blue wall reading 'POLICE NATIONALE D'HAITI' and 'COMMISSARIAT SALOMON', showing debris and a burning vehicle through a gate."
+            },
+            "discovered_new_entities": {
+                "Bob Rae": "Canada's Ambassador to the UN, speaking from Juno Beach, Florida, wearing a light blue button-up shirt, with framed artwork behind him.",
+                "U.S. Army vessel": "A large gray military ship marked 'US ARMY LSF-1', docked in murky water under an overcast sky, preparing for deployment to the Mediterranean.",
+                "Aerial Bridge Scene": "An overhead view of a crowded bridge over a river, with people and vehicles moving across, indicating displacement or migration in Haiti."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video opens with a wide shot of the U.S. Army vessel 'GEN FRANK S. BESSON JR.' docked in murky water, its rear ramp lowered, revealing soldiers in camouflage uniforms and military vehicles inside, preparing for deployment to the Mediterranean to build a Gaza aid port. The scene transitions to a desolate beach in Gaza City, where a man in a striped sweater speaks directly to the camera, gesturing with his hands, with the sea and scattered debris in the background. The footage then cuts to aerial views of Jabalia, Gaza, showing extensive rubble and destruction, including a collapsed building with a satellite dish and twisted metal. The scene shifts to a news studio where the News Anchor, dressed in a dark suit and purple tie, stands before a backdrop of Jerusalem’s Dome of the Rock, delivering a report on starvation and death in Gaza and rising tensions in Israel ahead of Ramadan. The video then moves to Jerusalem’s bustling market streets, where people walk among stalls selling goods, and a man hangs a decorative lantern. The final scene shows an interview in Al-Ram, West Bank, with a religious figure in a white cap and dark suit seated at a table, speaking to a woman with blonde hair, with a Palestinian flag visible in the background.",
+            "active_entities": {
+                "U.S. Army vessel": "A large gray military ship marked 'GEN FRANK S. BESSON JR.', docked in murky water with its rear ramp lowered, revealing soldiers and military vehicles inside, preparing for deployment to the Mediterranean.",
+                "News Anchor": "A man in a dark suit and purple tie, standing before a blurred cityscape backdrop featuring Jerusalem’s Dome of the Rock, delivering a news report on Gaza and Israel."
+            },
+            "discovered_new_entities": {
+                "Man in striped sweater": "A man in a gray and brown striped sweater, standing on a sandy beach in Gaza City, speaking directly to the camera with expressive hand gestures, with the sea and debris in the background.",
+                "Religious figure in Al-Ram": "An older man wearing a white cap and dark suit, seated in a wooden chair, speaking to a woman with blonde hair in a room with a Palestinian flag and a small model of a mosque on the table."
+            }
+        },
+        {
+            "minute": 6,
+            "caption": "The video opens with a close-up of a detailed wooden model of the Dome of the Rock, set against a backdrop of a Palestinian flag, symbolizing cultural and religious significance. The scene transitions to an interview with the Religious figure in Al-Ram, an older man in a white cap and dark suit, seated in a formal setting with a Palestinian flag and a small mosque model beside him, speaking earnestly. The narrative then shifts to the Dome of the Rock, viewed through a dark archway, followed by scenes of tense interactions at a checkpoint in Jerusalem, where armed Israeli security personnel in tactical gear manage crowds of civilians, including children, in a narrow stone alley. The footage captures the atmosphere of heightened tension, with close-ups of a female officer gesturing authoritatively. The video then shows the expansive courtyard of the Dome of the Rock, with pigeons scattered across the stone pavement, and a man in a white cap walking near a minaret. The scene transitions to a group of men praying in unison in a cemetery, bowing and prostrating in a solemn ritual. A close-up follows of an older man with a white beard and cap, speaking emotionally, likely reflecting on the situation. The final shot shows him conversing with a woman with blonde hair, possibly a journalist, in the same cemetery setting, emphasizing the human and spiritual dimensions of the ongoing crisis. Throughout, the on-screen text 'Starvation and death in Gaza, tension in Israel ahead of Ramadan' underscores the gravity of the situation.",
+            "active_entities": {
+                "Religious figure in Al-Ram": "An older man wearing a white cap and dark suit, seated in a wooden chair, speaking to a woman with blonde hair in a room with a Palestinian flag and a small model of a mosque on the table.",
+                "Armed Individuals": "Israeli security personnel in tactical gear, including a female officer, managing crowds at a checkpoint in Jerusalem, gesturing authoritatively and interacting with civilians."
+            },
+            "discovered_new_entities": {
+                "Civilians at Checkpoint": "A diverse group of men, women, and children, including a boy in a Nike hoodie, navigating a crowded stone alley under the supervision of armed security personnel.",
+                "Praying Men in Cemetery": "A group of men, including one with a white beard and cap, standing in rows and performing Islamic prayer rituals in a cemetery with stone tombs and a hillside backdrop.",
+                "Woman with Blonde Hair": "A woman with blonde hair, wearing a beige jacket and carrying a backpack, seen conversing with the Religious figure in Al-Ram in a cemetery setting."
+            }
+        },
+        {
+            "minute": 7,
+            "caption": "The video opens with a bustling street scene in Jerusalem, where a diverse group of men walk through a stone-paved alley, some wearing casual jackets and others with traditional scarves, under the watchful presence of armed Israeli security personnel managing the crowd. The scene transitions to a formal press briefing by Raquela Karamson, the Israeli Government spokesperson, standing before the Israeli flag and the emblem of the Prime Minister’s Office, delivering a statement. The narrative then shifts dramatically to Gaza, showing an aerial view of a large group of people praying in rows amidst rubble and debris, with a blue tarp providing shade, highlighting the devastation. A close-up follows of a bearded man in Rafah, Gaza, speaking earnestly to the camera, his face etched with concern. The mood shifts to a more intimate, hopeful setting as a man decorates a tree with festive lights and flags at night, followed by a woman in a hijab holding a glowing lantern, surrounded by children in a dimly lit shelter adorned with balloons and streamers. The segment concludes with a news anchor in a studio, standing before a screen displaying President Biden, as the on-screen text shifts to a new headline about Biden and Trump holding duelling rallies in Georgia ahead of primaries, indicating a transition to a different news story.",
+            "active_entities": {
+                "Armed Individuals": "Israeli security personnel in tactical gear, including a female officer, managing crowds at a checkpoint in Jerusalem, gesturing authoritatively and interacting with civilians.",
+                "Man in Home Office": "A man speaking from a home office with a window view of greenery, under the headline 'Canadians stranded.'",
+                "News Anchor": "A man in a dark suit and purple tie, standing before a blurred cityscape backdrop featuring Jerusalem’s Dome of the Rock, delivering a news report on Gaza and Israel.",
+                "Man in striped sweater": "A man in a gray and brown striped sweater, standing on a sandy beach in Gaza City, speaking directly to the camera with expressive hand gestures, with the sea and debris in the background.",
+                "Religious figure in Al-Ram": "An older man wearing a white cap and dark suit, seated in a wooden chair, speaking to a woman with blonde hair in a room with a Palestinian flag and a small model of a mosque on the table.",
+                "Civilians at Checkpoint": "A diverse group of men, women, and children, including a boy in a Nike hoodie, navigating a crowded stone alley under the supervision of armed security personnel.",
+                "Praying Men in Cemetery": "A group of men, including one with a white beard and cap, standing in rows and performing Islamic prayer rituals in a cemetery with stone tombs and a hillside backdrop.",
+                "Woman with Blonde Hair": "A woman with blonde hair, wearing a beige jacket and carrying a backpack, seen conversing with the Religious figure in Al-Ram in a cemetery setting."
+            },
+            "discovered_new_entities": {
+                "Raquela Karamson": "Israeli Government spokesperson, standing before the Israeli flag and the emblem of the Prime Minister’s Office, wearing a light beige blazer and speaking into a microphone.",
+                "Man in Rafah, Gaza": "A bearded man wearing a dark cap and jacket, speaking directly to the camera in a crowded street in Rafah, Gaza, with a serious and concerned expression.",
+                "Man Decorating Tree": "A man in a green long-sleeve shirt, hanging string lights and red-and-white flags on a tree at night, creating a festive atmosphere.",
+                "Woman with Lantern": "A woman in a black abaya and patterned hijab, holding a glowing yellow lantern, standing in a dimly lit shelter with children around her.",
+                "Children in Shelter": "Several children in colorful clothing, playing and interacting in a shelter decorated with balloons and streamers, under a corrugated metal roof.",
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with a large screen behind him showing President Biden, delivering a report on U.S. politics."
+            }
+        },
+        {
+            "minute": 8,
+            "caption": "The video begins with the News Anchor (Studio) in a dark suit and purple tie, standing in a news studio with a large screen behind him displaying President Joe Biden speaking in front of an American flag. The on-screen text reads 'Biden & Trump hold duelling rallies in Georgia ahead of primaries' and the CBCNEWS logo is visible. The scene transitions to a rally in Rome, Georgia, where Donald Trump, wearing a dark suit and red-striped tie, walks onto a stage adorned with multiple American flags and a blue podium bearing the text 'TRUMP MAKE AMERICA GREAT AGAIN! 2024' and 'TEXT GEORGIA TO 88022'. The crowd is energetic, many holding up smartphones to record, and waving signs such as 'VOTE DONALD TRUMP' and 'FIRE BIDEN'. Trump speaks passionately at the podium, gesturing with his hands. The camera cuts to close-ups of enthusiastic supporters, including a woman in a red, white, and blue shirt pointing upward and another holding a 'FIRE BIDEN' sign. The video then shows Trump interacting with attendees, including a young woman in a denim jacket, as he places his hand on her shoulder. A brief still image of a young woman in a white lab coat with a blue shirt underneath is shown, possibly a photo from a past event or campaign material. The overall atmosphere is charged and politically charged, emphasizing the rivalry between Biden and Trump ahead of the Georgia primaries.",
+            "active_entities": {
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with a large screen behind him showing President Biden, delivering a report on U.S. politics."
+            },
+            "discovered_new_entities": {
+                "Donald Trump": "A man in a dark suit and red-striped tie, speaking at a campaign rally in Rome, Georgia, standing at a podium with 'TRUMP MAKE AMERICA GREAT AGAIN! 2024' and 'TEXT GEORGIA TO 88022' displayed, surrounded by American flags and an enthusiastic crowd.",
+                "Supporters at Trump Rally": "A diverse group of rally attendees, many holding up smartphones to record, wearing red, white, and blue attire, and holding signs such as 'VOTE DONALD TRUMP' and 'FIRE BIDEN', showing high energy and engagement.",
+                "Young Woman in Denim Jacket": "A young woman wearing a denim jacket, interacting with Donald Trump at the rally, who places his hand on her shoulder as she stands beside him.",
+                "Young Woman in Lab Coat": "A still image of a young woman in a white lab coat over a blue shirt, smiling, possibly a campaign photo or symbolic representation of a supporter or volunteer."
+            }
+        },
+        {
+            "minute": 9,
+            "caption": "The video opens with an aerial shot of a white SUV driving along a winding road near a body of water, with the on-screen text indicating 'February 2024' and 'Biden & Trump hold duelling rallies in Georgia ahead of primaries.' The scene transitions to a ground-level view of a University of Georgia police officer arresting a man in a red shirt beside a marked police vehicle. A mugshot of the man in the red shirt is then shown, followed by Donald Trump speaking at a campaign rally in Georgia, standing at a podium with 'TRUMP MAKE AMERICA GREAT AGAIN! 2024' and 'TEXT GEORGIA TO 88022' displayed, flanked by American flags. The footage cuts to a police officer directing traffic near a wooden fence, then to a woman wearing a red 'MAKE AMERICA GREAT AGAIN' cap and a red jacket with Trump buttons, seated in a formal setting with other attendees. The scene shifts to President Joe Biden delivering a speech in the U.S. House chamber, holding up a coin, with Vice President Kamala Harris and Speaker Mike Johnson seated beside him. A wide shot shows the full chamber filled with lawmakers. Biden is then seen walking through the Capitol corridors, followed by a close-up of him in an interview setting, identified as an 'MSNBC EXCLUSIVE,' where he speaks directly to the camera, wearing a dark suit over a blue checkered shirt with an American flag pin. Throughout, the CBC News banner remains at the bottom of the screen, reinforcing the political context of the segment.",
+            "active_entities": {
+                "Donald Trump": "A man in a dark suit and red-striped tie, speaking at a campaign rally in Georgia, standing at a podium with 'TRUMP MAKE AMERICA GREAT AGAIN! 2024' and 'TEXT GEORGIA TO 88022' displayed, surrounded by American flags and an enthusiastic crowd.",
+                "Supporters at Trump Rally": "A diverse group of rally attendees, including a woman in a red 'MAKE AMERICA GREAT AGAIN' cap and red jacket with Trump buttons, seated in a formal setting, showing engagement with the event."
+            },
+            "discovered_new_entities": {
+                "Joe Biden": "A man in a dark suit and blue tie, delivering a speech in the U.S. House chamber, holding up a coin, later seen walking through Capitol corridors and then in an interview setting wearing a dark suit over a blue checkered shirt with an American flag pin.",
+                "Kamala Harris": "A woman in a black suit, seated beside Joe Biden during his speech in the House chamber, appearing attentive and composed.",
+                "Mike Johnson": "A man in a dark suit and red tie, seated beside Joe Biden during his speech in the House chamber, wearing glasses and maintaining a serious expression.",
+                "University of Georgia Police Officer": "A police officer in a black uniform with 'POLICE' on the back, arresting a man in a red shirt beside a white police vehicle marked 'UNIVERSITY OF GEORGIA'.",
+                "Man in Red Shirt": "A man in a red collared shirt, shown being arrested and later in a mugshot, with short dark hair and a beard, appearing in both front and side profile.",
+                "Police Officer Directing Traffic": "A police officer in a black uniform with 'POLICE' on the back, standing near a wooden fence and gesturing to direct traffic, wearing a cap and tactical gear.",
+                "Woman in Red Cap at Formal Event": "A woman with blonde hair wearing a red 'MAKE AMERICA GREAT AGAIN' cap and a red jacket with Trump buttons, seated in a formal setting, appearing engaged and expressive.",
+                "MSNBC Interview Setting": "A dimly lit interview environment with Joe Biden seated, wearing a dark suit over a blue checkered shirt, with an American flag in the background and an 'MSNBC EXCLUSIVE' watermark in the corner."
+            }
+        },
+        {
+            "minute": 10,
+            "caption": "The video begins with Joe Biden in an interview setting, wearing a dark suit over a blue checkered shirt with an American flag pin, speaking earnestly in a dimly lit room with an 'MSNBC EXCLUSIVE' watermark. The scene transitions to a split-screen news studio where a News Anchor (Studio) in a dark suit and purple tie stands before a cityscape backdrop, conversing with Katie Simpson, a CBC News correspondent in Washington, who wears an orange blazer over a striped shirt and large tortoiseshell glasses. The background behind her features a blurred image of the White House. The lower third identifies the topic as 'Biden & Trump hold duelling rallies in Georgia ahead of primaries.' The segment then shifts to the News Anchor (Studio) alone, now with a graphic on screen showing a woman laying a wreath at a memorial, labeled 'Canada Remembers,' with the on-screen text 'Marking 10 years after Canada ended Afghan mission.' The anchor continues to report, maintaining a serious and professional demeanor throughout the transitions.",
+            "active_entities": {
+                "Joe Biden": "A man in a dark suit over a blue checkered shirt with an American flag pin, speaking in a dimly lit interview setting with an 'MSNBC EXCLUSIVE' watermark.",
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with a cityscape backdrop, delivering a report on U.S. politics and later on Canada’s Afghanistan mission."
+            },
+            "discovered_new_entities": {
+                "Katie Simpson": "A CBC News correspondent in Washington, wearing an orange blazer over a striped shirt and large tortoiseshell glasses, speaking with a blurred White House in the background.",
+                "Canada Remembers Graphic": "A still image of a woman in a beige coat laying a wreath at a memorial, with a red poppy pin, shown on a screen behind the News Anchor (Studio) during a segment on Canada’s 10-year anniversary of ending its Afghan mission."
+            }
+        },
+        {
+            "minute": 11,
+            "caption": "The video begins with the News Anchor (Studio) in a dark suit and purple tie, standing in a news studio with a blue-lit backdrop, delivering a report on Canada marking 10 years since ending its Afghan mission. Behind him, a screen displays the Canada Remembers Graphic — a still image of a woman in a beige coat laying a wreath at a memorial, wearing a red poppy pin. The scene transitions to archival footage from Kabul in March 2014, showing soldiers in desert camouflage walking through dust, followed by a military helicopter landing with soldiers disembarking. The next sequence shows Canadian soldiers in uniform performing a flag-raising ceremony in front of a building, saluting as the Canadian flag is hoisted. The video then cuts to Ottawa, where a Canadian flag waves in front of a stone monument, followed by a military band playing in a public square. General Wayne Eyre, Chief of Defence Staff, is shown in full dress uniform with medals and a red-and-gold hat, speaking at the ceremony. He is later seen saluting during the event, alongside other military personnel and civilians. The segment includes close-ups of soldiers saluting, a wreath-laying ceremony, and a final archival shot of soldiers in a dusty, mountainous landscape, likely Afghanistan, emphasizing the mission’s context. The overall tone is solemn and commemorative, with a focus on military tradition and remembrance.",
+            "active_entities": {
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with a blue-lit backdrop, delivering a report on Canada’s 10-year anniversary of ending its Afghan mission.",
+                "Canada Remembers Graphic": "A still image of a woman in a beige coat laying a wreath at a memorial, wearing a red poppy pin, shown on a screen behind the News Anchor (Studio)."
+            },
+            "discovered_new_entities": {
+                "General Wayne Eyre": "A man in full military dress uniform with medals, a red-and-gold hat, and a 'CANADA' patch, speaking at a ceremony in Ottawa and saluting during the event.",
+                "Military Personnel (Ottawa)": "Soldiers in dark green uniforms with medals and berets, saluting during a ceremony in front of a stone monument in Ottawa.",
+                "Civilians at Ceremony (Ottawa)": "A group of civilians, including a woman in a pink knitted hat, standing respectfully during the commemorative event in Ottawa.",
+                "Military Band (Ottawa)": "A group of uniformed musicians playing brass instruments, including a tuba, during the ceremony in Ottawa.",
+                "Canadian Flag (Ottawa)": "A large Canadian flag waving in front of a stone monument in Ottawa, with bare trees and a historic building in the background.",
+                "Archival Footage (Kabul, March 2014)": "Soldiers in desert camouflage walking through dust, followed by a military helicopter landing with soldiers disembarking, set against a backdrop of trees and buildings.",
+                "Archival Footage (Afghanistan Landscape)": "Soldiers in a dusty, mountainous terrain, likely Afghanistan, with a hazy sky and rugged terrain in the background.",
+                "Wreath-Laying Ceremony (Ottawa)": "A formal event where military personnel and civilians lay wreaths at a stone monument, with red poppies and purple ribbons on the wreaths, under overcast skies.",
+                "Stone Monument (Ottawa)": "A large, gray stone monument with inscriptions and statues, located in a public square in Ottawa, serving as the focal point of the commemoration."
+            }
+        },
+        {
+            "minute": 12,
+            "caption": "The video opens with archival footage of Canadian soldiers in desert camouflage walking through a dusty, arid landscape, likely in Afghanistan, with one soldier holding a rifle and moving cautiously along a dirt path beside a stone wall. The scene transitions to a historian, Sean Maloney, seated in a cluttered home office filled with books, papers, and a corkboard, speaking directly to the camera while gesturing with his hands. The footage then cuts to a street scene in Kabul, October 2011, showing armed individuals in civilian clothing walking among vehicles, including a white truck and a yellow taxi, with one man carrying a rifle and another in a headscarf. The video shifts to a woman in a blue blazer, Frozan Rahmani, an Afghan-Canadian journalist, speaking from a well-lit room with a plain background, her expression serious as she discusses the topic. Throughout, the on-screen text 'Marking 10 years after Canada ended Afghan mission' and the CBC News logo remain visible, anchoring the segment’s theme of reflection and commemoration.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "Sean Maloney": "A historian with a white beard and glasses, wearing a black shirt, seated in a cluttered home office filled with books, papers, and a corkboard, gesturing while speaking.",
+                "Frozan Rahmani": "An Afghan-Canadian journalist with dark hair pulled back, wearing a blue blazer, speaking from a well-lit room with a plain background, her expression serious and focused.",
+                "Archival Footage (Kabul, October 2011)": "Footage showing armed men in civilian clothing, including one with a rifle and another in a headscarf, walking among vehicles like a white truck and a yellow taxi on a busy street in Kabul.",
+                "Soldiers in Desert Camouflage": "Canadian soldiers in desert camouflage uniforms, one holding a rifle, walking cautiously along a dusty path beside a stone wall in an arid landscape."
+            }
+        },
+        {
+            "minute": 13,
+            "caption": "The video segment begins with Frozan Rahmani, an Afghan-Canadian journalist, speaking directly to the camera from a well-lit room with a plain background, wearing a blue blazer and her dark hair pulled back, her expression serious and focused. The on-screen text reads 'Marking 10 years after Canada ended Afghan mission' with the CBC News logo. The scene transitions to a split-screen interview featuring the News Anchor (Studio) on the left, dressed in a dark suit and purple tie, standing in a studio with a blue-lit backdrop, and Murray Brewster on the right, a CBC News correspondent in Ottawa, wearing a dark suit with a red tie, seated before a nighttime cityscape backdrop featuring illuminated buildings and the Parliament Hill towers. Murray Brewster is identified on-screen with his name and location. The two engage in a discussion, with the News Anchor gesturing as he speaks. The segment then cuts to a full-screen view of Murray Brewster, who continues speaking, before returning to the split-screen format. The final shot shows the News Anchor (Studio) alone, now with a graphic behind him displaying various packaged substances labeled 'Prince George RCMP,' and the on-screen text changes to 'B.C. premier agrees to inter-provincial meeting over 'safer drugs''.",
+            "active_entities": {
+                "Frozan Rahmani": "An Afghan-Canadian journalist with dark hair pulled back, wearing a blue blazer, speaking from a well-lit room with a plain background, her expression serious and focused.",
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with a blue-lit backdrop, delivering a report on Canada’s 10-year anniversary of ending its Afghan mission."
+            },
+            "discovered_new_entities": {
+                "Murray Brewster": "A CBC News correspondent in Ottawa, wearing a dark suit with a red tie, seated before a nighttime cityscape backdrop featuring illuminated buildings and the Parliament Hill towers, identified on-screen with his name and location.",
+                "Prince George RCMP Drug Display": "A graphic showing multiple clear plastic bags containing various substances—white powders, orange and green plant materials—arranged in rows, labeled 'Prince George RCMP', displayed behind the News Anchor (Studio) during a report on safer drugs."
+            }
+        },
+        {
+            "minute": 14,
+            "caption": "The video begins with the News Anchor (Studio) in a dark suit and purple tie, standing in a news studio with a blue-lit backdrop, delivering a report on B.C.'s agreement to an inter-provincial meeting over 'safer drugs'. Behind him, a graphic displays the Prince George RCMP Drug Display — multiple clear plastic bags containing various substances, including white powders, orange and green plant materials, arranged in rows and labeled 'EXHIBITS'. The scene transitions to a press conference in Vancouver, where David Eby, identified as B.C. Premier, stands at a podium with a 'Taking action for you' sign and a 'StrongerBC' logo, flanked by officials. He speaks while others, including a woman in a black blazer and a man in a grey suit, listen attentively. The camera pans across the group, capturing their formal attire and serious expressions. The video then cuts to close-up shots of hands handling medication: a green spoon scooping pills from a blue pill organizer, a syringe being filled with liquid, and a vial being capped. This is followed by a return to the Prince George RCMP Drug Display, now shown in full view with the credit 'Prince George RCMP' on screen. The scene shifts to Cpl. Jennifer Cooper, a woman in a dark uniform with glasses, speaking directly to the camera in an office setting. Finally, the video ends with a woman in a green blazer speaking at a podium under purple lighting, with on-screen text stating 'Alberta has been warning for years that diversion of high-potency opioids from...'. The overall tone is serious and informative, focusing on drug policy and public health concerns.",
+            "active_entities": {
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with a blue-lit backdrop, delivering a report on B.C.'s inter-provincial meeting over 'safer drugs'.",
+                "Prince George RCMP Drug Display": "A graphic showing multiple clear plastic bags containing various substances—white powders, orange and green plant materials—arranged in rows, labeled 'EXHIBITS' and credited to 'Prince George RCMP'."
+            },
+            "discovered_new_entities": {
+                "David Eby": "B.C. Premier, wearing a dark suit and light blue shirt, speaking at a podium with a 'Taking action for you' sign and 'StrongerBC' logo, flanked by officials in a Vancouver press conference.",
+                "Cpl. Jennifer Cooper": "A woman in a dark uniform with glasses, speaking directly to the camera in an office setting, identified as from Prince George RCMP.",
+                "Woman in Green Blazer": "A woman in a green blazer speaking at a podium under purple lighting, with on-screen text about Alberta's warnings on opioid diversion.",
+                "Officials at Press Conference": "A group of individuals, including a woman in a black blazer and a man in a grey suit, standing beside David Eby at the Vancouver press conference, dressed formally and listening attentively."
+            }
+        },
+        {
+            "minute": 15,
+            "caption": "The video opens with a woman in a green blazer speaking at a podium under purple lighting, with on-screen text quoting Danielle Smith, Premier of Alberta, warning about the diversion of high-potency opioids from safer drug programs. The scene transitions to a laptop screen showing a bald man with glasses, identified as Guy Felicella, a harm reduction and recovery advocate, speaking during a video call. The setting then shifts to a formal press conference where Dr. Bonnie Henry, B.C. Provincial Health Officer, stands at a podium with British Columbia flags behind her, delivering a statement in Victoria on June 5, 2023. The video then moves to an outdoor park in Port Coquitlam, B.C., where Greg Sword, a man in a camouflage jacket and cap, sits at a picnic table holding a photograph of a young woman with colorful hair. He speaks emotionally, showing the photo to the camera, before standing and walking away along a paved path in the park, with trees and playground equipment visible in the background. The overall tone shifts from political and medical discourse to a personal, emotional narrative of loss and advocacy.",
+            "active_entities": {
+                "Woman in Green Blazer": "A woman in a green blazer speaking at a podium under purple lighting, with on-screen text quoting Danielle Smith, Premier of Alberta, warning about opioid diversion."
+            },
+            "discovered_new_entities": {
+                "Guy Felicella": "A bald man with glasses, identified as a harm reduction and recovery advocate, speaking during a video call on a laptop screen.",
+                "Dr. Bonnie Henry": "A woman with short blonde hair and red-rimmed glasses, wearing a beige blazer, speaking at a podium with British Columbia flags behind her, identified as B.C. Provincial Health Officer in Victoria on June 5, 2023.",
+                "Greg Sword": "A man with a gray beard, wearing a camouflage jacket and a black cap, sitting at a picnic table in a park, holding a photograph of a young woman with colorful hair, and later walking along a paved path.",
+                "Photograph of Young Woman": "A printed photo of a young woman with vibrant pink and yellow hair, held by Greg Sword, showing her smiling and wearing a patterned top, symbolizing personal loss and advocacy."
+            }
+        },
+        {
+            "minute": 16,
+            "caption": "The video begins with a close-up of a person holding a photograph of a young woman with dark hair, wearing a pink top, in a dimly lit room with a TV screen visible in the background; the on-screen text reads 'B.C. premier agrees to inter-provincial meeting over 'safer drugs''. The scene transitions to a news anchor in a dark suit and purple tie, standing in a studio with a blue-lit backdrop, delivering a report. The next sequence shows snowy urban scenes in Montreal, with people shoveling snow, walking with children, and a cyclist navigating icy streets, under the headline 'Winter storm knocks out power to Quebec customers'. The footage shifts to St. John's, Newfoundland, where a snowplow clears a road, a man shovels snow from a driveway, and a gas station is nearly buried under snow, with the text 'Newfoundland digs out'. The segment then cuts back to the news anchor, now with a background image of a man in a vest standing beside a black cow in a snowy field, as the text changes to 'Some farmers forced to make tough decisions amid drought'. The final shot shows the man in the vest walking with the cow in a fenced, snow-covered area near Drayton Valley, Alberta, under the same drought-related headline.",
+            "active_entities": {
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with a blue-lit backdrop, delivering reports on B.C.'s 'safer drugs' meeting, Quebec's winter storm, and Alberta's drought-affected farmers.",
+                "Photograph of Young Woman": "A printed photo of a young woman with vibrant pink and yellow hair, held by Greg Sword, showing her smiling and wearing a patterned top, symbolizing personal loss and advocacy.",
+                "Couple Walking": "An older couple walking outdoors in a snowy field with a black dog, the man in a plaid jacket and cap, the woman in a scarf, under the segment 'Treating terminal cancer.'",
+                "Man in Blue Jays Cap": "A man in a Blue Jays cap and blue shirt, speaking in front of a Rogers-branded backdrop, under the segment 'Hometown hope.'",
+                "Child in Blue Jays Shirt": "A young child in a Blue Jays shirt, sitting at a table with a lit candle, under the segment 'Hometown hope.'",
+                "Baby in Blue Jays Outfit": "A baby in a Blue Jays-themed outfit, being held by an adult, under the segment 'Hometown hope.'",
+                "Bear in Snow": "A large black bear walking in a snowy landscape, shown in a montage.",
+                "Indigenous Performers": "A group of individuals in traditional Indigenous regalia, including headdresses and colorful attire, performing in a snowy setting.",
+                "Armed Individuals": "Israeli security personnel in tactical gear, including a female officer, managing crowds at a checkpoint in Jerusalem, gesturing authoritatively and interacting with civilians.",
+                "Child Drinking Water": "A young child in a red shirt, sitting on a yellow bucket, drinking from a water bottle, shown in a montage.",
+                "Richard Phillips": "A man in a black shirt, speaking from a home office with a window view of greenery, under the headline 'Canadians stranded.'",
+                "White Pickup Truck": "A white pickup truck with visible markings, parked on a street in Port-au-Prince, with armed individuals nearby.",
+                "Street Scene in Port-au-Prince": "A sunlit urban street with vehicles, pedestrians, and armed personnel, indicating a tense environment.",
+                "Robert Fatton": "An older man with white hair and glasses, wearing a black Real Madrid polo shirt, speaking from an office with academic posters on the wall, identified as from the University of Virginia, Charlottesville, Virginia.",
+                "Police Station": "A damaged building with a blue wall reading 'POLICE NATIONALE D'HAITI' and 'COMMISSARIAT SALOMON', showing debris and a burning vehicle through a gate.",
+                "Man at Podium": "A bald man in a suit and glasses speaking at a podium with the Haitian Prime Minister’s seal, indicating an official address.",
+                "Bob Rae": "Canada's Ambassador to the UN, speaking from Juno Beach, Florida, wearing a light blue button-up shirt, with framed artwork behind him.",
+                "U.S. Army vessel": "A large gray military ship marked 'GEN FRANK S. BESSON JR.', docked in murky water with its rear ramp lowered, revealing soldiers and military vehicles inside, preparing for deployment to the Mediterranean.",
+                "Aerial Bridge Scene": "An overhead view of a crowded bridge over a river, with people and vehicles moving across, indicating displacement or migration in Haiti.",
+                "Man in striped sweater": "A man in a gray and brown striped sweater, standing on a sandy beach in Gaza City, speaking directly to the camera with expressive hand gestures, with the sea and debris in the background.",
+                "Religious figure in Al-Ram": "An older man wearing a white cap and dark suit, seated in a wooden chair, speaking to a woman with blonde hair in a room with a Palestinian flag and a small model of a mosque on the table.",
+                "Civilians at Checkpoint": "A diverse group of men, women, and children, including a boy in a Nike hoodie, navigating a crowded stone alley under the supervision of armed security personnel.",
+                "Praying Men in Cemetery": "A group of men, including one with a white beard and cap, standing in rows and performing Islamic prayer rituals in a cemetery with stone tombs and a hillside backdrop.",
+                "Woman with Blonde Hair": "A woman with blonde hair, wearing a beige jacket and carrying a backpack, seen conversing with the Religious figure in Al-Ram in a cemetery setting.",
+                "Raquela Karamson": "Israeli Government spokesperson, standing before the Israeli flag and the emblem of the Prime Minister’s Office, wearing a light beige blazer and speaking into a microphone.",
+                "Man in Rafah, Gaza": "A bearded man wearing a dark cap and jacket, speaking directly to the camera in a crowded street in Rafah, Gaza, with a serious and concerned expression.",
+                "Man Decorating Tree": "A man in a green long-sleeve shirt, hanging string lights and red-and-white flags on a tree at night, creating a festive atmosphere.",
+                "Woman with Lantern": "A woman in a black abaya and patterned hijab, holding a glowing yellow lantern, standing in a dimly lit shelter with children around her.",
+                "Children in Shelter": "Several children in colorful clothing, playing and interacting in a shelter decorated with balloons and streamers, under a corrugated metal roof.",
+                "Donald Trump": "A man in a dark suit and red-striped tie, speaking at a campaign rally in Georgia, standing at a podium with 'TRUMP MAKE AMERICA GREAT AGAIN! 2024' and 'TEXT GEORGIA TO 88022' displayed, surrounded by American flags and an enthusiastic crowd.",
+                "Supporters at Trump Rally": "A diverse group of rally attendees, including a woman in a red 'MAKE AMERICA GREAT AGAIN' cap and red jacket with Trump buttons, seated in a formal setting, showing engagement with the event.",
+                "Young Woman in Denim Jacket": "A young woman wearing a denim jacket, interacting with Donald Trump at the rally, who places his hand on her shoulder as she stands beside him.",
+                "Young Woman in Lab Coat": "A still image of a young woman in a white lab coat over a blue shirt, smiling, possibly a campaign photo or symbolic representation of a supporter or volunteer.",
+                "Joe Biden": "A man in a dark suit over a blue checkered shirt with an American flag pin, speaking in a dimly lit interview setting with an 'MSNBC EXCLUSIVE' watermark.",
+                "Kamala Harris": "A woman in a black suit, seated beside Joe Biden during his speech in the House chamber, appearing attentive and composed.",
+                "Mike Johnson": "A man in a dark suit and red tie, seated beside Joe Biden during his speech in the House chamber, wearing glasses and maintaining a serious expression.",
+                "University of Georgia Police Officer": "A police officer in a black uniform with 'POLICE' on the back, arresting a man in a red shirt beside a white police vehicle marked 'UNIVERSITY OF GEORGIA'.",
+                "Man in Red Shirt": "A man in a red collared shirt, shown being arrested and later in a mugshot, with short dark hair and a beard, appearing in both front and side profile.",
+                "Police Officer Directing Traffic": "A police officer in a black uniform with 'POLICE' on the back, standing near a wooden fence and gesturing to direct traffic, wearing a cap and tactical gear.",
+                "Woman in Red Cap at Formal Event": "A woman with blonde hair wearing a red 'MAKE AMERICA GREAT AGAIN' cap and a red jacket with Trump buttons, seated in a formal setting, appearing engaged and expressive.",
+                "MSNBC Interview Setting": "A dimly lit interview environment with Joe Biden seated, wearing a dark suit over a blue checkered shirt, with an American flag in the background and an 'MSNBC EXCLUSIVE' watermark in the corner.",
+                "Katie Simpson": "A CBC News correspondent in Washington, wearing an orange blazer over a striped shirt and large tortoiseshell glasses, speaking with a blurred White House in the background.",
+                "Canada Remembers Graphic": "A still image of a woman in a beige coat laying a wreath at a memorial, wearing a red poppy pin, shown on a screen behind the News Anchor (Studio).",
+                "General Wayne Eyre": "A man in full military dress uniform with medals, a red-and-gold hat, and a 'CANADA' patch, speaking at a ceremony in Ottawa and saluting during the event.",
+                "Military Personnel (Ottawa)": "Soldiers in dark green uniforms with medals and berets, saluting during a ceremony in front of a stone monument in Ottawa.",
+                "Civilians at Ceremony (Ottawa)": "A group of civilians, including a woman in a pink knitted hat, standing respectfully during the commemorative event in Ottawa.",
+                "Military Band (Ottawa)": "A group of uniformed musicians playing brass instruments, including a tuba, during the ceremony in Ottawa.",
+                "Canadian Flag (Ottawa)": "A large Canadian flag waving in front of a stone monument in Ottawa, with bare trees and a historic building in the background.",
+                "Archival Footage (Kabul, March 2014)": "Soldiers in desert camouflage walking through dust, followed by a military helicopter landing with soldiers disembarking, set against a backdrop of trees and buildings.",
+                "Archival Footage (Afghanistan Landscape)": "Soldiers in a dusty, mountainous terrain, likely Afghanistan, with a hazy sky and rugged terrain in the background.",
+                "Wreath-Laying Ceremony (Ottawa)": "A formal event where military personnel and civilians lay wreaths at a stone monument, with red poppies and purple ribbons on the wreaths, under overcast skies.",
+                "Stone Monument (Ottawa)": "A large, gray stone monument with inscriptions and statues, located in a public square in Ottawa, serving as the focal point of the commemoration.",
+                "Sean Maloney": "A historian with a white beard and glasses, wearing a black shirt, seated in a cluttered home office filled with books, papers, and a corkboard, gesturing while speaking.",
+                "Frozan Rahmani": "An Afghan-Canadian journalist with dark hair pulled back, wearing a blue blazer, speaking from a well-lit room with a plain background, her expression serious and focused.",
+                "Archival Footage (Kabul, October 2011)": "Footage showing armed men in civilian clothing, including one with a rifle and another in a headscarf, walking among vehicles like a white truck and a yellow taxi on a busy street in Kabul.",
+                "Soldiers in Desert Camouflage": "Canadian soldiers in desert camouflage uniforms, one holding a rifle, walking cautiously along a dusty path beside a stone wall in an arid landscape.",
+                "Murray Brewster": "A CBC News correspondent in Ottawa, wearing a dark suit with a red tie, seated before a nighttime cityscape backdrop featuring illuminated buildings and the Parliament Hill towers, identified on-screen with his name and location.",
+                "Prince George RCMP Drug Display": "A graphic showing multiple clear plastic bags containing various substances—white powders, orange and green plant materials—arranged in rows, labeled 'EXHIBITS' and credited to 'Prince George RCMP'.",
+                "David Eby": "B.C. Premier, wearing a dark suit and light blue shirt, speaking at a podium with a 'Taking action for you' sign and 'StrongerBC' logo, flanked by officials in a Vancouver press conference.",
+                "Cpl. Jennifer Cooper": "A woman in a dark uniform with glasses, speaking directly to the camera in an office setting, identified as from Prince George RCMP.",
+                "Woman in Green Blazer": "A woman in a green blazer speaking at a podium under purple lighting, with on-screen text quoting Danielle Smith, Premier of Alberta, warning about opioid diversion.",
+                "Officials at Press Conference": "A group of individuals, including a woman in a black blazer and a man in a grey suit, standing beside David Eby at the Vancouver press conference, dressed formally and listening attentively.",
+                "Guy Felicella": "A bald man with glasses, identified as a harm reduction and recovery advocate, speaking during a video call on a laptop screen.",
+                "Dr. Bonnie Henry": "A woman with short blonde hair and red-rimmed glasses, wearing a beige blazer, speaking at a podium with British Columbia flags behind her, identified as B.C. Provincial Health Officer in Victoria on June 5, 2023.",
+                "Greg Sword": "A man with a gray beard, wearing a camouflage jacket and a black cap, sitting at a picnic table in a park, holding a photograph of a young woman with colorful hair, and later walking along a paved path."
+            },
+            "discovered_new_entities": {
+                "Man with Black Cow": "A man in a white shirt and black vest, standing beside a large black cow in a snowy field with hay, near Drayton Valley, Alberta, under the headline 'Some farmers forced to make tough decisions amid drought'."
+            }
+        },
+        {
+            "minute": 17,
+            "caption": "The video opens with a wide shot of a snowy farm near Drayton Valley, Alberta, where cattle are seen grazing or standing in fenced enclosures, some eating hay. The scene transitions to a close-up of a man in a black vest and white shirt, identified as Bart Guyon, a rancher, speaking directly to the camera with a serious expression, as cows move in the background. The footage then cuts to an indoor livestock auction in Thorsby, Alberta, where a man in a blue and white cap and glasses, identified as Chance Martin from Thorsby Stockyards, speaks into a microphone while gesturing toward the auction ring, where cattle are being herded. The scene shifts to a snowy mountain landscape near Canmore, Alberta, with snow-covered trees and a river, followed by a close-up of a man with a white beard and a red-and-black knit hat adjusting his glasses, standing near a weather station in the snow. The video concludes with a wide shot of the weather station, where two individuals in winter gear are working with equipment, emphasizing the harsh winter conditions and the challenges faced by farmers during drought.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "Bart Guyon": "A rancher wearing a black vest over a white shirt, standing in a snowy field with cattle in the background, speaking with a serious expression.",
+                "Chance Martin": "A man in a blue and white cap with 'Thorsby Stockyards' logo, glasses, and a gray vest, speaking into a microphone at the Thorsby Stockyards auction, gesturing toward the auction ring.",
+                "Man with White Beard": "A man with a white beard, wearing a red-and-black knit hat and sunglasses, adjusting his glasses while standing near a weather station in a snowy landscape.",
+                "Man in Blue and White Cap": "A man in a blue and white cap with 'Thorsby Stockyards' logo, glasses, and a gray vest, speaking into a microphone at the livestock auction, gesturing toward the auction ring.",
+                "Weather Station Crew": "Two individuals in winter gear, one in a yellow jacket and blue pants, the other in dark clothing, working with equipment at a weather station in a snowy field, surrounded by snow-covered trees and a tall metal tower."
+            }
+        },
+        {
+            "minute": 18,
+            "caption": "The video opens with a wide, serene winter landscape featuring snow-covered mountains and a snow-laden pine tree in the foreground, with two people walking in the distance across a frozen field. The scene transitions to John Pomeroy, Director of Global Water Futures Observatory, standing outdoors in a snowy environment, wearing a blue jacket and a red-and-black knit hat with 'SOLUTE' visible, speaking about drought conditions. The setting shifts to an office where Trevor Hadwen from Agriculture and Agri-Food Canada is seated at a desk, pointing to a map of Canada on a large screen displaying drought data, with a green 'University of Regina' banner behind him. The video then cuts to a snowy farm with cattle in fenced pens, a large white water tank, and a red tractor, emphasizing the agricultural context. A man in a black vest over a white shirt, identified as Bart Guyon, stands beside a black cow in a snowy field, speaking with a serious expression, with cattle visible in the background. The segment concludes with a news anchor in a dark suit and purple tie, standing in a studio with a blue-lit cityscape backdrop, delivering a report on the drought’s impact on Alberta farmers. Throughout, the on-screen text 'Some farmers forced to make tough decisions amid drought' and the CBC News logo are consistently displayed.",
+            "active_entities": {
+                "Bart Guyon": "A man in a black vest over a white shirt, standing beside a black cow in a snowy field with hay, speaking with a serious expression, with cattle visible in the background, under the headline 'Some farmers forced to make tough decisions amid drought'.",
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with a blue-lit cityscape backdrop, delivering a report on B.C.'s 'safer drugs' meeting, Quebec's winter storm, and Alberta's drought-affected farmers.",
+                "Weather Station Crew": "Two individuals in winter gear, one in a yellow jacket and blue pants, the other in dark clothing, working with equipment at a weather station in a snowy field, surrounded by snow-covered trees and a tall metal tower."
+            },
+            "discovered_new_entities": {
+                "John Pomeroy": "A man with a white beard and glasses, wearing a blue jacket and a red-and-black knit hat with 'SOLUTE' visible, speaking outdoors in a snowy environment as Director of Global Water Futures Observatory.",
+                "Trevor Hadwen": "A man in a checkered shirt and glasses, seated at a desk in an office with a large screen displaying drought maps of Canada, with a green 'University of Regina' banner behind him, identified as from Agriculture and Agri-Food Canada."
+            }
+        },
+        {
+            "minute": 19,
+            "caption": "The video opens with a dark, atmospheric shot of a long, dimly lit corridor lined with small lights, possibly a film set or underground passage, transitioning to a chaotic scene of people running in panic through a dusty, war-torn environment. This is followed by a close-up of a man in a suit and tie, looking intense and focused, possibly a character in a dramatic film. The scene shifts to a red carpet event, where a woman in a red dress walks confidently, followed by a man in a suit waving to the crowd, indicating a high-profile awards ceremony. The video then cuts to a baseball game, showing a player in a white and red uniform swinging a bat, followed by a man in a Blue Jays cap and blue shirt walking on a field, suggesting a sports segment. The next scene features a man in a striped shirt speaking from a home office, likely a news contributor. The video transitions to a dramatic desert landscape with a military vehicle and soldiers, followed by a fiery explosion, hinting at a war or disaster film. The final scenes show a man in a suit and hat standing in front of a futuristic structure, and then a red carpet event with a man in a tuxedo waving, with on-screen text indicating the 96th Academy Awards at Hollywood’s Dolby Theatre. The segment concludes with a black screen and the title 'The National' from CBC News, suggesting a news broadcast.",
+            "active_entities": {
+                "Baseball Player (Reds)": "A baseball player in a white and red Reds uniform with the number 19, swinging a bat during a game, shown in a dynamic action shot.",
+                "Man in Blue Jays Cap": "A man in a Blue Jays cap and blue shirt, walking on a baseball field, likely a coach or player, with a focused expression."
+            },
+            "discovered_new_entities": {
+                "Man in suit and tie": "A man in a dark suit and tie, with a serious expression, possibly a character in a dramatic film, shown in a close-up shot.",
+                "Woman in red dress": "A woman in a red dress walking confidently on a red carpet, likely at an awards ceremony, with a poised and elegant demeanor.",
+                "Man in tuxedo": "A man in a black tuxedo with a bow tie, waving to the crowd on a red carpet, identified as being at the 96th Academy Awards at Hollywood’s Dolby Theatre.",
+                "Man in striped shirt": "A man in a gray and brown striped shirt, speaking from a home office, likely a news contributor or expert, with a calm and professional demeanor.",
+                "Man in suit and hat": "A man in a dark suit and hat, standing in front of a futuristic structure, possibly a character in a sci-fi or thriller film, with a serious and contemplative look.",
+                "CBC News Logo": "The CBC News logo is consistently visible in the bottom right corner throughout the segment, indicating the source of the broadcast.",
+                "Desert Military Scene": "A wide shot of a desert landscape with a military vehicle and soldiers, suggesting a war or disaster film, with a dusty and arid environment.",
+                "Fiery Explosion": "A close-up of a fiery explosion, likely from a film or dramatic reenactment, with intense orange and yellow flames filling the screen.",
+                "Futuristic Structure": "A large, geometric structure with blue and white patterns, possibly a sci-fi or futuristic setting, with a man in a suit and hat standing in front of it.",
+                "Red Carpet Crowd": "A crowd of people on a red carpet, including photographers and attendees, with bright lights and cameras, indicating a high-profile event like the Academy Awards."
+            }
+        },
+        {
+            "minute": 20,
+            "caption": "The video opens with a black-and-white archival-style clip of a man in a suit and fedora being surrounded by photographers in a hallway, evoking a classic film noir atmosphere. This transitions to a modern, color scene inside a dimly lit, industrial-looking room where a man in a dark suit stands beside a large, metallic, spherical object, suggesting a sci-fi or thriller setting. The scene cuts to a split-screen news segment: on the left, a News Anchor in a dark suit and purple tie speaks from a studio with a blue-lit cityscape backdrop; on the right, a man in a white tuxedo with a black bow tie and round glasses reports live from outside the Dolby Theatre at night, with palm trees and illuminated buildings in the background. The report continues with the man in the tuxedo speaking directly to the camera, gesturing as he describes the 96th Academy Awards. The video then cuts to a montage of dramatic film clips: a man in a white shirt is shown in a dimly lit room, followed by a close-up of a large, dark mechanical object, then back to the man in the fedora being photographed. The sequence continues with a man in a suit pointing dramatically in a dark room, followed by a fiery explosion, and then a wide shot of a desert landscape with a tall metal tower. The final scene shows a man in a dark coat walking through a grand, ornate doorway in a black-and-white setting, with a dog lying nearby, suggesting a period or fantasy film. Throughout, the on-screen text reads '96th Academy Awards underway at Hollywood's Dolby Theatre' and credits 'Universal Pictures' and 'Searchlight Pictures' for the film clips, with the CBC News logo consistently in the bottom right corner.",
+            "active_entities": {
+                "News Anchor": "A man in a dark suit and purple tie, standing before a blurred cityscape backdrop, delivering a news report on the 96th Academy Awards.",
+                "Man in tuxedo": "A man in a white tuxedo with a black bow tie and round glasses, reporting live from outside the Dolby Theatre at night, with palm trees and illuminated buildings in the background.",
+                "Man in suit and hat": "A man in a dark suit and fedora, being surrounded by photographers in a black-and-white hallway, evoking a classic film noir style.",
+                "Man in suit and tie": "A man in a dark suit and tie, standing beside a large metallic spherical object in a dimly lit industrial room, suggesting a sci-fi or thriller setting.",
+                "Fiery Explosion": "A close-up of a fiery explosion with intense orange and yellow flames, likely from a dramatic film sequence.",
+                "Desert Military Scene": "A wide shot of a desert landscape with a tall metal tower and scattered equipment, suggesting a military or scientific operation in an arid environment.",
+                "Futuristic Structure": "A large, geometric structure with blue and white patterns, possibly a sci-fi or futuristic setting, with a man in a suit and hat standing in front of it.",
+                "Red Carpet Crowd": "A crowd of people on a red carpet, including photographers and attendees, with bright lights and cameras, indicating a high-profile event like the Academy Awards.",
+                "CBC News Logo": "The CBC News logo is consistently visible in the bottom right corner throughout the segment, indicating the source of the broadcast."
+            },
+            "discovered_new_entities": {
+                "Man in white shirt": "A man in a white shirt, shown in a dimly lit room, appearing to be in distress or deep thought.",
+                "Man in dark coat": "A man in a dark coat walking through a grand, ornate doorway in a black-and-white setting, with a dog lying nearby, suggesting a period or fantasy film."
+            }
+        },
+        {
+            "minute": 21,
+            "caption": "The video opens with a black-and-white sequence from a period film, showing a woman in a flowing white dress walking through an ornate interior with a small dog, followed by a close-up of a man in a dark coat holding a fluffy object, possibly a puppet or stuffed animal, as he interacts with a woman in a ruffled dress. The scene shifts to a man in a tuxedo standing in a dimly lit room, then to a wide shot of a courtyard with stone pathways, fountains, and people in period attire, suggesting a historical or fantasy setting. The tone shifts dramatically to a modern, colorful scene with a young girl playing the violin in a warmly lit auditorium, followed by a boy playing a French horn and another girl with a saxophone, all smiling and engaged in music. The segment concludes with a split-screen news report: on the left, a News Anchor in a dark suit and purple tie stands before a cityscape backdrop, while on the right, a Man in a white tuxedo with a black bow tie and round glasses reports live from outside the Dolby Theatre at night, with palm trees and illuminated buildings in the background. The on-screen text consistently reads '96th Academy Awards underway at Hollywood's Dolby Theatre' with the CBC News logo in the bottom right corner.",
+            "active_entities": {
+                "News Anchor": "A man in a dark suit and purple tie, standing before a blurred cityscape backdrop, delivering a news report on the 96th Academy Awards.",
+                "Man in tuxedo": "A man in a white tuxedo with a black bow tie and round glasses, reporting live from outside the Dolby Theatre at night, with palm trees and illuminated buildings in the background.",
+                "CBC News Logo": "The CBC News logo is consistently visible in the bottom right corner throughout the segment, indicating the source of the broadcast."
+            },
+            "discovered_new_entities": {
+                "Woman in white dress (period film)": "A woman in a flowing white dress with long dark hair, walking through an ornate interior with a small dog, in a black-and-white film sequence.",
+                "Man in dark coat (period film)": "A man in a dark coat walking through a grand, ornate doorway in a black-and-white setting, with a dog lying nearby, suggesting a period or fantasy film.",
+                "Woman in ruffled dress (period film)": "A woman in a ruffled, textured dress with dark hair styled in a bun, interacting with a man in a dark coat in a black-and-white film scene.",
+                "Man in tuxedo (period film)": "A man in a formal tuxedo with a bow tie, standing in a dimly lit room with a serious expression, in a black-and-white sequence.",
+                "Courtyard scene (period film)": "A wide shot of a stone courtyard with fountains, arches, and people in period attire, under a cloudy sky, in a black-and-white film.",
+                "Young girl with violin": "A young girl with braided hair, wearing a pink top and a necklace, smiling as she plays the violin in a warmly lit auditorium.",
+                "Boy with French horn": "A boy with curly hair, wearing a dark shirt, playing a French horn with focused expression in a dimly lit auditorium.",
+                "Girl with saxophone": "A girl with long dark hair, wearing a light-colored top, smiling as she holds a saxophone in a warmly lit auditorium.",
+                "Man in white shirt (period film)": "A man in a white shirt, shown in a dimly lit room, appearing to be in distress or deep thought, in a black-and-white sequence."
+            }
+        },
+        {
+            "minute": 22,
+            "caption": "The segment opens with a split-screen view: on the left, the News Anchor in a dark suit and purple tie stands before a blue-lit cityscape backdrop, while on the right, the Man in tuxedo (reporter) appears live from outside Hollywood's Dolby Theatre at night, wearing a white tuxedo, black bow tie, round glasses, and a blue patterned pocket square, with palm trees and illuminated buildings in the background. The lower third reads '96th Academy Awards underway at Hollywood's Dolby Theatre | CBCNEWS'. The scene transitions to a full-screen view of the Man in tuxedo, who speaks and gestures with his right hand, emphasizing points. The video then cuts to dramatic clips from the film 'Godzilla Minus One', showing a colossal monster emerging from smoke, attacking a naval fleet, and a soldier shouting 'Now!' as a massive creature looms. Next, a clip from 'The Holdovers' features a man in a cowboy hat and red cape holding a sword, followed by a red carpet moment with Ryan Gosling and Margot Robbie posing together. The segment continues with a performance clip from 'Barbie', featuring a man in a pink suit and sunglasses singing on stage with dancers in cowboy attire, and another clip of a man in a white fur coat dancing in a vibrant, pink-themed setting. The video returns to the Man in tuxedo, who continues his report with a composed expression. Throughout, the CBCNEWS logo remains in the bottom right corner, and the lower third text is consistent.",
+            "active_entities": {
+                "News Anchor": "A man in a dark suit and purple tie, standing before a blurred cityscape backdrop, delivering a news report on the 96th Academy Awards.",
+                "Man in tuxedo": "A man in a white tuxedo with a black bow tie, round glasses, and a blue patterned pocket square, reporting live from outside the Dolby Theatre at night, with palm trees and illuminated buildings in the background.",
+                "CBC News Logo": "The CBC News logo is consistently visible in the bottom right corner throughout the segment, indicating the source of the broadcast."
+            },
+            "discovered_new_entities": {
+                "Godzilla Minus One Clip": "A cinematic sequence showing a giant monster emerging from smoke, attacking a naval fleet, and a soldier shouting 'Now!' as a massive creature looms, credited to Toho.",
+                "The Holdovers Clip": "A scene featuring a man in a cowboy hat and red cape holding a sword, followed by a red carpet moment with Ryan Gosling and Margot Robbie posing together.",
+                "Barbie Performance Clip": "A vibrant stage performance with a man in a pink suit and sunglasses singing, surrounded by dancers in cowboy attire, and another scene of a man in a white fur coat dancing in a pink-themed environment."
+            }
+        },
+        {
+            "minute": 23,
+            "caption": "The video begins with a news anchor in a dark suit and purple tie, standing before a blurred cityscape backdrop, delivering a report on the 96th Academy Awards. The scene transitions to a doctor in scrubs with a stethoscope, wearing a blue mask and glasses, in a medical setting. Next, a woman in a hospital bed, wearing a green top, is shown with an IV drip, under the segment 'Treating terminal cancer.' The video then cuts to a man in a blue plaid shirt speaking from a home office with a guitar and lamp in the background. A title card for 'The National' appears, followed by a man in a suit and colorful shirt working at a computer in a studio. The scene shifts to a close-up of a soundboard with glowing meters, then to a man adjusting knobs on a mixing console in a studio with speakers and a microphone. Another 'The National' title card is shown, followed by a red neon 'ON AIR' sign. The video then displays a family photo of a woman with three children, smiling outdoors, with a text overlay stating 'New Kate Middleton picture pulled over manipulation concerns.' The scene transitions to Kate Middleton in a formal gown with a tiara, interacting with others at an event, and then to her in a blue blazer, smiling while engaging with someone off-camera. The segment ends with a black screen and the CBC News logo.",
+            "active_entities": {
+                "News Anchor": "A man in a dark suit and purple tie, standing before a blurred cityscape backdrop, delivering a news report on the 96th Academy Awards.",
+                "Doctor in Scrubs": "A man in a purple scrub top with a stethoscope, standing in a medical setting, under the segment 'Treating terminal cancer.'",
+                "Woman in Hospital": "A woman lying in a hospital bed, wearing a green top, with an IV drip, under the segment 'Treating terminal cancer.'"
+            },
+            "discovered_new_entities": {
+                "Man in Blue Plaid Shirt": "A man with a white beard, wearing a blue plaid shirt, speaking from a home office with a guitar and lamp in the background.",
+                "Man in Suit and Colorful Shirt": "A man in a suit and colorful shirt, working at a computer in a studio, under the title 'The National.'",
+                "Soundboard": "A close-up of a soundboard with glowing orange meters and black knobs, indicating audio equipment in use.",
+                "Mixing Console": "A man adjusting knobs on a wooden mixing console in a studio with speakers and a microphone, under the title 'The National.'",
+                "ON AIR Sign": "A red neon 'ON AIR' sign mounted on a wall, glowing brightly.",
+                "Family Photo": "A woman with three children, smiling outdoors, with a text overlay stating 'New Kate Middleton picture pulled over manipulation concerns.'",
+                "Kate Middleton": "A woman in a formal gown with a tiara, interacting with others at an event, and later in a blue blazer, smiling while engaging with someone off-camera."
+            }
+        },
+        {
+            "minute": 24,
+            "caption": "The video begins with a brief shot of Prince William and Kate Middleton in a public setting, with on-screen text indicating a new picture of Kate Middleton was pulled due to manipulation concerns. The scene quickly transitions to a news studio where a male news anchor, dressed in a dark suit and purple tie, stands before a blue-lit backdrop, delivering a report. To his right, a large screen displays an image of a baseball player in a red 'Reds' uniform, identified as Joey Votto. The anchor speaks about 'Hometown hero Joey Votto at training camp with Toronto Blue Jays,' as the on-screen text confirms. The video then cuts to live-action footage of a baseball game, showing a batter in a red uniform swinging at a pitch, followed by a crowd in the stands reaching for a fly ball. The scene shifts to an outdoor training facility where a man in a Blue Jays cap and blue shirt walks past a large Blue Jays logo on a brick wall. Next, a man with a beard, wearing a dark blazer and jeans, is shown sitting on a bench, eating a snack, with a baseball bat beside him. This is followed by a split-screen showing a social media post from Joey Votto’s account, captioned 'missing ball,' with engagement metrics displayed. Another social media post appears, showing a baby in a Blue Jays outfit with the caption 'Minor league contract signed. It’s official, I’m a little Blue Jay now.' The video then cuts to Joey Votto, now in a Blue Jays hoodie and cap, speaking at a press conference in front of a blue backdrop with Rogers and Blue Jays logos, identified as a professional baseball player in Dunedin, Florida. The segment maintains a professional news tone, blending studio reporting with live sports footage and social media content to tell the story of Joey Votto’s return to baseball with the Toronto Blue Jays.",
+            "active_entities": {
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with a blue-lit cityscape backdrop, delivering a report on Joey Votto’s training camp with the Toronto Blue Jays.",
+                "Baseball Player (Reds)": "A baseball player in a red 'Reds' uniform with the number 19, shown in a still image on the news screen, holding a glove and looking upward.",
+                "Man in Blue Jays Cap": "A man in a Blue Jays cap and blue shirt, walking on a baseball field, likely a coach or player, with a focused expression.",
+                "Child in Blue Jays Shirt": "A young child in a Blue Jays shirt, sitting at a table with a lit candle, shown in a social media post celebrating a minor league contract signing.",
+                "Baby in Blue Jays Outfit": "A baby in a Blue Jays-themed outfit, shown in a social media post with a cake and a single candle, celebrating a minor league contract signing."
+            },
+            "discovered_new_entities": {
+                "Man with Bearded": "A man with a beard, wearing a dark blazer and jeans, sitting on a bench, eating a snack, with a baseball bat beside him.",
+                "Joey Votto": "A professional baseball player, shown in a Blue Jays hoodie and cap, speaking at a press conference in front of a blue backdrop with Rogers and Blue Jays logos, identified as being in Dunedin, Florida.",
+                "Social Media Post (Joey Votto)": "A screenshot of Joey Votto’s social media post with the caption 'missing ball,' showing a man on a bench with a baseball bat, dated March 5, 2024, with 6M views and 38.8K likes.",
+                "Social Media Post (Contract Signing)": "A screenshot of Joey Votto’s social media post with the caption 'Minor league contract signed. It’s official, I’m a little Blue Jay now,' featuring two images of a baby in a Blue Jays outfit, dated March 10, 2024, with 376.6K views and 14K likes."
+            }
+        },
+        {
+            "minute": 25,
+            "caption": "The video opens with Joey Votto, a professional baseball player, speaking at a press conference in front of a blue backdrop featuring the Toronto Blue Jays and Rogers logos. He is wearing a Blue Jays cap and a blue hoodie, addressing reporters with a microphone labeled 'SN'. The scene transitions to footage of Votto at a training camp, fielding a ground ball and throwing it to first base. Archival game footage from May 7, 2008, shows Votto in a Cincinnati Reds uniform hitting a home run, followed by a celebratory high-five with a teammate. The video returns to the present, with Votto continuing his interview. A split-screen interview features two commentators, Nick Gosse and Peter Vryonis, discussing the event. The video then cuts to Votto interacting with a female player on the field, followed by a baseball analyst, Tom Valcke, speaking from Statesboro, Georgia, with an American flag behind him. The final scene shows a woman walking down stairs outside the Jays Shop in Toronto, wearing a white puffer jacket and jeans, smiling as she descends. Throughout, the CBC News logo is visible in the bottom right corner, and on-screen text identifies the segment as 'Hometown hero Joey Votto at training camp with Toronto Blue Jays'.",
+            "active_entities": {
+                "Joey Votto": "A professional baseball player wearing a Blue Jays cap and blue hoodie, speaking at a press conference and participating in training camp activities, including fielding and throwing a ball."
+            },
+            "discovered_new_entities": {
+                "Nick Gosse": "A young man with dark hair, wearing a black cap and earphones, speaking from a home office with a framed photo and LED lights in the background.",
+                "Peter Vryonis": "A man with a beard, wearing a black cap and a gray puffer jacket with red lining, speaking from a room with a visible ceiling structure.",
+                "Tom Valcke": "A baseball analyst from Statesboro, Georgia, wearing glasses, a light blue cap, and a white polo shirt with a logo, speaking in front of an American flag.",
+                "Woman in White Puffer Jacket": "A woman with long dark hair, wearing a white puffer jacket, blue jeans, and black gloves, walking down stairs outside the Jays Shop in Toronto, smiling."
+            }
+        },
+        {
+            "minute": 26,
+            "caption": "The video opens with an exterior shot of a large building, likely a stadium, featuring a prominent 'First Base' sign and a large Blue Jays logo with a red maple leaf, indicating a Toronto Blue Jays location. Two individuals, one in a dark jacket and the other in a white puffer jacket, are seen conversing outside. The camera then focuses on the woman in the white puffer jacket, identified as Veronica Chung, a Blue Jays Nation contributor, who speaks directly to the camera with expressive hand gestures. The scene transitions to a sunny baseball field where a player in a Blue Jays hoodie and cap, identified as Joey Votto, is seen fielding and throwing a ball during training camp. The video then cuts to a news studio where a man in a dark suit and purple tie, the News Anchor (Studio), delivers a report. This is followed by a man in a blue suit and colorful floral shirt walking down a hallway and then sitting at a computer, likely a media professional. The scene shifts to a man in a blue plaid shirt with a white beard, speaking from a home office with a guitar and lamp in the background. The final shot is a close-up of an IV drip, suggesting a medical context, possibly related to the earlier mention of terminal cancer treatment. The CBC News logo is consistently visible in the bottom right corner throughout the segment.",
+            "active_entities": {
+                "Joey Votto": "A professional baseball player wearing a Blue Jays cap and blue hoodie, actively participating in training camp by fielding and throwing a ball on a sunny baseball field.",
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with a blue-lit cityscape backdrop, delivering a report on Joey Votto’s training camp with the Toronto Blue Jays.",
+                "Man in Suit and Colorful Shirt": "A man in a blue suit and a vibrant floral shirt, walking down a hallway and then sitting at a computer in a studio setting, under the title 'The National.'",
+                "Man in Blue Plaid Shirt": "A man with a white beard, wearing a blue plaid shirt, speaking from a home office with a guitar and lamp in the background."
+            },
+            "discovered_new_entities": {
+                "Veronica Chung": "A woman with long dark hair, wearing a white puffer jacket, blue jeans, and black gloves, speaking as a Blue Jays Nation contributor outside a stadium with a large Blue Jays logo and 'First Base' signage in the background.",
+                "IV Drip": "A close-up of a medical IV drip with fluid flowing, indicating a hospital or medical setting, likely related to the segment on treating terminal cancer."
+            }
+        },
+        {
+            "minute": 27,
+            "caption": "The video opens with a close-up of a woman with dark hair and glasses, wearing a black top, speaking in a dimly lit indoor setting, likely an interview. The scene transitions to an older couple walking outdoors in a snowy field, the man in a plaid jacket and cap, the woman in a checkered coat and scarf, with a black dog beside them, suggesting a peaceful, reflective moment. The video then cuts to a news anchor in a dark suit and purple tie, standing in a studio with medical-themed black-and-white images on screens behind him—one showing an IV bag and the other a surgeon in scrubs—delivering a report. A title card appears: 'The Breakdown,' followed by a medical scan of lungs with a gloved hand pointing to an area, overlaid with text: 'Why stopping cancer treatment can be about life not death.' The video continues with a series of text overlays—'End-stage,' 'No cure,' 'Terminal'—over dark, abstract medical imagery, reinforcing the gravity of the topic. The woman from the opening reappears, now identified by on-screen text as 'Reporting by Christine Birak.' The scene shifts to Kingston, Ontario, showing a woman in a hospital bed, wearing a green top and a face mask, with an IV drip and medical monitors, indicating a patient undergoing treatment. Close-ups show a hand adjusting an IV pump and a monitor displaying vital signs (150/96, 99 bpm). A doctor in a light blue shirt and stethoscope speaks in a hospital corridor, followed by an older man with a white beard in a blue plaid shirt, speaking in a home setting, likely a patient or family member. The segment maintains a somber, reflective tone, focusing on the emotional and medical realities of end-of-life cancer care, with consistent CBC News branding in the corner.",
+            "active_entities": {
+                "Woman in Hospital": "A woman lying in a hospital bed in Kingston, Ontario, wearing a green top and a blue face mask, with an IV drip and medical monitors, indicating she is undergoing treatment for terminal cancer.",
+                "Doctor in Scrubs": "A man in a light blue shirt with a stethoscope around his neck, speaking in a hospital corridor, likely discussing patient care or treatment decisions.",
+                "Man in Blue Plaid Shirt": "An older man with a white beard, wearing a blue plaid shirt, speaking in a home setting, likely sharing a personal story or perspective on end-of-life care.",
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with medical-themed black-and-white images on screens behind him, delivering a report on cancer treatment and end-of-life decisions.",
+                "Couple Walking": "An older couple walking outdoors in a snowy field with a black dog, the man in a plaid jacket and cap, the woman in a checkered coat and scarf, suggesting a moment of peace or reflection.",
+                "IV Drip": "A close-up of a medical IV drip with fluid flowing, shown in a hospital setting, indicating ongoing treatment for a patient."
+            },
+            "discovered_new_entities": {
+                "Woman with Glasses (Interview)": "A woman with dark hair and glasses, wearing a black top, speaking in a dimly lit indoor setting, identified as 'Reporting by Christine Birak,' likely the correspondent for the segment.",
+                "CBC News Title Card": "A black screen with white text reading 'The Breakdown,' followed by a medical scan of lungs with a gloved hand pointing, overlaid with the text 'Why stopping cancer treatment can be about life not death,' introducing the segment's theme.",
+                "Medical Monitor": "A close-up of a hospital monitor displaying vital signs: '150' (systolic), '96' (diastolic), and '99' (heart rate), with 'No alarms' indicated, showing a patient's current physiological status.",
+                "Text Overlays": "Sequential text overlays—'End-stage,' 'No cure,' 'Terminal'—appearing over dark, abstract medical imagery, emphasizing the severity and finality of the condition being discussed."
+            }
+        },
+        {
+            "minute": 28,
+            "caption": "The video opens with a close-up of a man in a blue plaid shirt, identified as the 'Man in Blue Plaid Shirt,' speaking earnestly in a home setting, with a guitar and shelves visible in the background. The scene transitions to a wider shot showing him seated at a table with a woman, likely his partner, who listens intently; she wears a gray jacket and a blue scarf. The mood shifts as the man is later shown in silhouette, standing by a window in a dimly lit room, gazing outside at a bleak, overcast landscape, his hand resting on the windowsill, suggesting contemplation or sorrow. The video then cuts to a series of outdoor and personal photos: the man in a black hooded jacket with a woman under an umbrella, both smiling; another photo shows him in an orange jacket with two younger men, possibly family or friends, in a wooded area. The narrative returns to the man speaking directly to the camera, his expression serious and reflective. The segment concludes with a female correspondent, 'Woman with Glasses (Interview),' standing outdoors in a cold urban environment, wearing a black coat and white scarf, speaking with a concerned expression, likely reporting on the topic introduced by the on-screen text: 'Why stopping cancer treatment can be about life not death.' The CBC News logo is consistently displayed in the bottom right corner throughout.",
+            "active_entities": {
+                "Man in Blue Plaid Shirt": "An older man with a white beard, wearing a blue plaid shirt, speaking in a home setting with a guitar and shelves in the background, later shown in silhouette by a window and in photos with family and friends.",
+                "Woman with Glasses (Interview)": "A woman with dark hair and glasses, wearing a black coat and white scarf, standing outdoors in a cold urban environment, speaking with a concerned expression, identified as 'Reporting by Christine Birak.'",
+                "CBC News Logo": "The CBC News logo is consistently visible in the bottom right corner throughout the segment, indicating the source of the broadcast."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 29,
+            "caption": "The segment opens with a woman standing outdoors in a cold urban environment, wearing a black coat and a white knitted scarf, speaking directly to the camera with a concerned expression. The setting includes a blurred background of a street with cars and buildings, suggesting a public location. The scene transitions to a hospital environment, where a close-up shows a medical IV drip with fluid flowing, followed by a patient’s arm with an IV line and a hospital wristband, indicating active treatment. A doctor in a light blue shirt, wearing glasses and a blue face mask with a stethoscope around his neck, is then shown walking through a hospital corridor, interacting with medical equipment and patients. He appears to be engaged in patient care, adjusting an IV pump and observing a patient. The video then cuts to a close-up of a research paper titled 'End-of-life interventions in patients with cancer' from the National Library of Medicine, with text overlays highlighting that '40% of terminally ill patients' received potentially inappropriate interventions. The on-screen text throughout reads 'Why stopping cancer treatment can be about life not death,' and the CBC News logo is consistently displayed in the bottom right corner. The overall tone is serious and informative, focusing on end-of-life medical decisions in cancer care.",
+            "active_entities": {
+                "Woman with Glasses (Interview)": "A woman with dark hair and glasses, wearing a black coat and white scarf, standing outdoors in a cold urban environment, speaking with a concerned expression, identified as 'Reporting by Christine Birak.'",
+                "Doctor in Scrubs": "A man in a light blue shirt with a stethoscope around his neck, wearing glasses and a blue face mask, speaking in a hospital corridor, likely discussing patient care or treatment decisions.",
+                "IV Drip": "A close-up of a medical IV drip with fluid flowing, shown in a hospital setting, indicating ongoing treatment for a patient.",
+                "CBC News Title Card": "A black screen with white text reading 'The Breakdown,' followed by a medical scan of lungs with a gloved hand pointing, overlaid with the text 'Why stopping cancer treatment can be about life not death,' introducing the segment's theme.",
+                "Text Overlays": "Sequential text overlays—'End-stage,' 'No cure,' 'Terminal'—appearing over dark, abstract medical imagery, emphasizing the severity and finality of the condition being discussed."
+            },
+            "discovered_new_entities": {
+                "Research Paper Display": "A digital display of a research paper titled 'End-of-life interventions in patients with cancer' from the National Library of Medicine, with text overlays highlighting key statistics such as '40% of terminally ill patients' receiving inappropriate interventions."
+            }
+        },
+        {
+            "minute": 30,
+            "caption": "The segment opens with a digital display of a research paper titled 'End-of-life interventions in patients with cancer' from the National Library of Medicine, overlaid with bold text stating '40% of terminally ill patients at least one intervention in their last 30 days' and citing the British Medical Journal. The scene transitions to a hospital corridor where a doctor in a light blue shirt with a stethoscope and glasses walks and speaks with a woman in a red blouse, likely a reporter. The camera focuses on the doctor as he explains, his expression serious and engaged. The scene then cuts to the woman in the red blouse seated in a hospital room, speaking directly to the camera with a medical bed and equipment in the background. A calendar graphic appears beside her, highlighting days marked with 'X' in March, then zooming out to show '2 extra months' and '$10,000/month' as she discusses treatment costs and time. The segment concludes with an aerial view of a hospital complex and surrounding cityscape, emphasizing the institutional context of the discussion. Throughout, the on-screen text 'Why stopping cancer treatment can be about life not death' and the CBC News logo remain visible, reinforcing the segment’s theme.",
+            "active_entities": {
+                "Doctor in Scrubs": "A man in a light blue shirt with a stethoscope around his neck, wearing glasses, speaking in a hospital corridor with a serious and engaged expression.",
+                "Research Paper Display": "A digital display of a research paper titled 'End-of-life interventions in patients with cancer' from the National Library of Medicine, with text overlays highlighting key statistics such as '40% of terminally ill patients' receiving inappropriate interventions.",
+                "CBC News Logo": "The CBC News logo is consistently visible in the bottom right corner throughout the segment, indicating the source of the broadcast."
+            },
+            "discovered_new_entities": {
+                "Woman in Red Blouse": "A woman with long dark hair, wearing a bright red blouse, first seen walking and conversing with the doctor, then seated in a hospital room speaking directly to the camera with expressive hand gestures.",
+                "Calendar Graphic": "A visual overlay showing a yearly calendar with days marked with 'X' in March, then zooming out to display '2 extra months' and '$10,000/month', used to illustrate treatment duration and cost.",
+                "Hospital Room Setting": "A clinical room with a hospital bed, medical equipment, and large windows, serving as the backdrop for the woman in the red blouse’s direct address to the camera.",
+                "Aerial Hospital View": "An overhead shot of a hospital complex with a rooftop 'H' sign, surrounded by urban buildings and green spaces, providing context to the healthcare system discussed."
+            }
+        },
+        {
+            "minute": 31,
+            "caption": "The video opens with an aerial view of a hospital complex, establishing a medical context, before cutting to a close-up of a woman with short brown hair, wearing a red blouse and black blazer, speaking earnestly in front of a bookshelf filled with red and white binders. The scene transitions to a meeting room where she is seated at a table with two men—one in a plaid shirt and another in a light blue shirt with a lanyard—engaged in a serious discussion. The camera then shifts to clinical visuals: a gloved hand adjusting a medical device, a close-up of a microscope slide showing tissue with purple-stained cells, and a hand pointing to a lung CT scan on a monitor, highlighting a tumor with an orange arrow. The woman reappears, continuing her interview with a focused expression, reinforcing the theme of end-of-life cancer treatment decisions. Throughout, the on-screen text 'Why stopping cancer treatment can be about life not death' and the CBC News logo remain visible, grounding the segment in a journalistic and medical narrative.",
+            "active_entities": {
+                "Woman in Red Blouse": "A woman with short brown hair, wearing a red blouse under a black blazer, speaking with a serious and reflective expression in front of a bookshelf filled with red and white binders, later seen in a meeting room discussing medical topics.",
+                "Medical Monitor": "A close-up of a medical device screen labeled 'EPICS™_C GRAPHICS DISPLAY' showing technical data, with a hand adjusting controls, indicating clinical monitoring or treatment planning.",
+                "CBC News Logo": "The CBC News logo is consistently displayed in the bottom right corner, identifying the broadcast source."
+            },
+            "discovered_new_entities": {
+                "Man in Plaid Shirt": "A man with gray hair and glasses, wearing a black-and-white plaid shirt, seated at a conference table during a discussion with the woman in red, appearing attentive and engaged.",
+                "Man in Light Blue Shirt": "A man with glasses and a lanyard, wearing a light blue button-down shirt, seated at the same table, listening intently during the discussion.",
+                "Microscope Slide": "A circular view of a stained tissue sample under a microscope, showing pink and purple cellular structures, with an orange arrow pointing to a specific area, likely indicating cancerous tissue.",
+                "Lung CT Scan": "A black-and-white cross-sectional image of lungs on a monitor, with a hand pointing to a white mass in the lower lobe, marked by an orange arrow, illustrating a tumor or lesion.",
+                "Meeting Room Setting": "A clinical or administrative room with a large wooden table, pink chairs, and bookshelves filled with binders, serving as the backdrop for the discussion among the woman and two men.",
+                "Gloved Hand Adjusting Device": "A close-up of a hand in a white glove manipulating a black medical control panel with dials and buttons, suggesting technical medical equipment operation."
+            }
+        },
+        {
+            "minute": 32,
+            "caption": "The video opens with a close-up of a woman in a red blouse under a black blazer, speaking seriously in front of a bookshelf filled with red and white binders, setting a professional and reflective tone. The on-screen text reads 'Why stopping cancer treatment can be about life not death,' establishing the segment’s theme. The scene transitions to a woman in a bright orange blazer with long dark hair, standing in what appears to be a lab or classroom with a chalkboard and shelves of lab supplies in the background. She presents information, with graphics appearing beside her: first, a news article from The Independent about a 'breakthrough' lung cancer drug, then a report from Memorial Sloan Kettering Cancer Center titled 'After Four Decades, a Breakthrough for Lung Cancer,' followed by a research paper from the NIH titled 'CodeBreak 200: Sotorasib Has Not Broken the KRASG12C Enigma Code.' She then displays a comparison chart between two treatments—Sotorasib and Docetaxel—showing survival times (10.6 months vs. 11.3 months) and costs ($17,000 vs. $1,700 per month). The scene shifts to a man in a dark suit with a striped shirt and glasses, speaking in a hallway with warm lighting, likely a medical or academic setting. He gestures as he speaks, and a brief shot shows him at an ASCO (American Society of Clinical Oncology) event, indicating his expertise. He continues speaking directly to the camera, emphasizing points with hand movements, as the segment maintains its focus on the ethical and financial complexities of cancer treatment decisions.",
+            "active_entities": {
+                "Woman in Red Blouse": "A woman with short brown hair, wearing a red blouse under a black blazer, speaking with a serious and reflective expression in front of a bookshelf filled with red and white binders."
+            },
+            "discovered_new_entities": {
+                "Woman in Orange Blazer": "A woman with long dark hair, wearing a bright orange blazer, standing in a lab or classroom setting with a chalkboard and lab supplies in the background, presenting medical information with on-screen graphics.",
+                "Man in Dark Suit and Glasses": "A man with dark hair and glasses, wearing a dark suit over a striped shirt, speaking in a hallway with warm lighting, gesturing as he discusses cancer treatment, with a brief appearance at an ASCO event.",
+                "ASCO Event Backdrop": "A blue backdrop with the white text 'AMERICAN SOCIETY OF CLINICAL ONCOLOGY' and the ASCO logo, indicating a professional medical conference setting."
+            }
+        },
+        {
+            "minute": 33,
+            "caption": "The video opens with a close-up of a woman with dark hair and glasses, wearing a black top, speaking in a dimly lit, neutral-toned room in Toronto. The on-screen text reads 'Why stopping cancer treatment can be about life not death' with the CBC News logo. She appears emotional and reflective as she speaks. The scene transitions to her hands flipping through a black-and-white photo album, revealing cherished memories: a man with a child, the man running, family gatherings, and a photo of him singing into a microphone with the caption 'My Dad was brave!' The album includes text like 'I LOVE YOU' and 'My Dad loved being with his family at the cottage!' The woman looks down at the album with a somber expression, then returns to speaking directly to the camera. The video then cuts to an older man with a white beard, wearing a blue plaid shirt, seated in a home setting with a guitar and shelves in the background, speaking earnestly. The same CBC News headline remains on screen throughout, maintaining the theme of end-of-life decisions in cancer care.",
+            "active_entities": {
+                "Woman with Glasses (Interview)": "A woman with dark hair and black-rimmed glasses, wearing a black top, speaking emotionally in a dimly lit room in Toronto, later shown flipping through a photo album of her father.",
+                "Man in Blue Plaid Shirt": "An older man with a white beard, wearing a blue plaid shirt, seated in a home setting with a guitar and shelves in the background, speaking earnestly about the topic of cancer treatment."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 34,
+            "caption": "The video opens with a close-up of the Man in Blue Plaid Shirt, an older man with a white beard, speaking earnestly in a home setting with a guitar and shelves in the background. The on-screen text reads 'Why stopping cancer treatment can be about life not death' with the CBCNEWS logo. The scene transitions to a bleak, overcast outdoor landscape with bare trees and a faint sun, followed by a wide shot of a rural field with hay bales and a white house with a porch. Next, a weathered wooden shed with a green tractor inside is shown, set against a backdrop of leafless trees. The video returns to the Man in Blue Plaid Shirt, then cuts to the Couple Walking—an older man in a green plaid jacket and cap and a woman in a black-and-white checkered coat and blue scarf—walking arm-in-arm through a snowy field with a black dog running ahead. They walk toward a wooded area, then turn to face the camera, smiling gently. The scene shifts to a split-screen news studio: on the left, the News Anchor (Studio), a man in a dark suit and purple tie, stands before a backdrop of medical-themed black-and-white images; on the right, a Woman in Red Blouse with long dark hair and a silver necklace speaks with a serious expression. The on-screen text remains consistent throughout, emphasizing the theme of end-of-life cancer treatment decisions.",
+            "active_entities": {
+                "Man in Blue Plaid Shirt": "An older man with a white beard, wearing a blue plaid shirt, seated in a home setting with a guitar and shelves in the background, speaking earnestly about cancer treatment.",
+                "Couple Walking": "An older man in a green plaid jacket and cap and a woman in a black-and-white checkered coat and blue scarf, walking arm-in-arm through a snowy field with a black dog, suggesting a moment of peace or reflection.",
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with medical-themed black-and-white images on screens behind him, delivering a report on cancer treatment and end-of-life decisions.",
+                "Woman in Red Blouse": "A woman with long dark hair, wearing a red blouse and a silver necklace, speaking with a serious expression in a news studio setting, likely discussing medical or ethical issues related to cancer treatment."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 35,
+            "caption": "The video opens with Christine Birak, a CBC News correspondent in Toronto, delivering a news segment in a studio setting. She is dressed in a bright red blazer over a black top, with long dark wavy hair, a silver choker, and a pendant necklace. The backdrop is a blurred cityscape with grid-like patterns, and the lower third displays the headline 'Why stopping cancer treatment can be about life not death' alongside the CBC News logo. As she speaks, her expressions shift from serious to empathetic, emphasizing the emotional weight of the topic. The segment transitions with a dynamic graphic overlay of 'The Breakdown' appearing over a laptop screen showing a man in a suit and colorful shirt, then cuts to a street view from a car driving through a small town with brick buildings and parked cars. The scene shifts to a studio environment where a man in a blue suit and vibrant floral shirt sits at a desk with a laptop, a phone, and a framed certificate, with a wall behind him reading 'we don’t do average we do AWESOME.' The video then cuts to a close-up of a sound editing software interface displaying green audio waveforms, with a microphone and a photo of a baby visible on the desk. The segment concludes with a black screen and a title card for 'The Breakdown' in bold white text on a gray gradient background, with the CBC News logo in the corner.",
+            "active_entities": {
+                "Man in Suit and Colorful Shirt": "A man in a blue suit and vibrant floral shirt, seated at a desk in a studio with a laptop, phone, and certificate, with a wall behind him reading 'we don’t do average we do AWESOME.'",
+                "CBC News Logo": "Consistently displayed in the bottom right corner throughout the segment, identifying the broadcast source."
+            },
+            "discovered_new_entities": {
+                "Christine Birak": "A CBC News correspondent in Toronto, wearing a bright red blazer over a black top, with long dark wavy hair, a silver choker, and a pendant necklace, delivering a segment on cancer treatment in a studio with a blurred cityscape backdrop.",
+                "Laptop Screen with Man": "A laptop screen showing a man in a suit and colorful shirt, with the text 'The Breakdown' overlaid, indicating a transition to a different segment or contributor.",
+                "Sound Editing Software Interface": "A close-up of a computer screen displaying green audio waveforms in a sound editing program, with a microphone and a photo of a baby on the desk, suggesting a radio or podcast production environment.",
+                "Street View from Car": "A point-of-view shot from inside a car driving through a small town with brick buildings, parked cars, and a clock tower, providing a brief real-world context before returning to the studio.",
+                "Title Card for 'The Breakdown'": "A black screen with bold white text 'The Breakdown' on a gray gradient background, serving as a segment introduction or transition graphic."
+            }
+        },
+        {
+            "minute": 36,
+            "caption": "The video opens with a man in a black t-shirt and jeans, wearing headphones, operating a soundboard in a radio studio labeled 'Studio 2 myFM in the Morning,' adjusting knobs and interacting with equipment. The scene transitions to a close-up of a soundboard with glowing orange meters and a digital display reading '2:46 12:32,' emphasizing the technical environment. Next, a man in a blue suit and vibrant floral shirt sits at a desk with a laptop, phone, and certificate, in front of a wall with the slogan 'we don’t do average we do AWESOME.' The setting shifts to an outdoor park with people sitting on benches, flags waving, and a historic building in the background, suggesting a community or public space. The video returns to the studio, showing a hand adjusting a wooden mixing console with speakers and a microphone nearby. A news anchor in a dark suit and purple tie appears in a studio with black-and-white images of a microphone and the man in the floral shirt on screens behind him, delivering a report. The scene cuts to a wide shot of a modern radio studio with red and white CBC branding, where the man in the floral shirt is now on a laptop screen, engaged in a video call with another man in a plaid shirt, who is speaking into a microphone. The video alternates between close-ups of the man in the plaid shirt gesturing while speaking and the man in the floral shirt on the laptop screen, with the on-screen text 'Entrepreneur explains why local radio is not dead' displayed throughout. The final frames show the man in the floral shirt back at his desk, continuing his interview, reinforcing the theme of local radio's relevance.",
+            "active_entities": {
+                "Man in Suit and Colorful Shirt": "A man in a blue suit and vibrant floral shirt, seated at a desk in a studio with a laptop, phone, and certificate, with a wall behind him reading 'we don’t do average we do AWESOME.'",
+                "Soundboard": "A close-up of a soundboard with glowing orange meters and black knobs, indicating audio equipment in use.",
+                "Mixing Console": "A man adjusting knobs on a wooden mixing console in a studio with speakers and a microphone, under the title 'The National.'",
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with medical-themed black-and-white images on screens behind him, delivering a report on cancer treatment and end-of-life decisions.",
+                "Man in Plaid Shirt": "A man in a plaid shirt, speaking into a microphone in a radio studio, engaged in a video call with the man in the floral shirt, with the on-screen text 'Entrepreneur explains why local radio is not dead.'"
+            },
+            "discovered_new_entities": {
+                "CBC Radio Studio": "A modern radio studio with red and white CBC branding, featuring a curved desk, multiple microphones, and a laptop displaying a video call, indicating a live broadcast or interview setting."
+            }
+        },
+        {
+            "minute": 37,
+            "caption": "The video opens with a man in a dark suit and vibrant floral shirt, identified as the 'Man in Dark Suit and Colorful Shirt,' seated at a desk in a modern studio setting. He speaks directly to the camera, with a laptop open before him, and the wall behind him displays the bold green text 'we don’t do average we do AWESOME.' The scene cuts to a close-up of a vintage radio, then transitions to archival black-and-white footage of a woman listening to a radio in a 1950s-style kitchen, followed by a man in a radio studio. The video then shows a hand tuning a car radio, displaying '98.1' on the screen, and cuts to a street view from a moving car driving through a small town with brick buildings and a clock tower. The segment returns to the man at the desk, continuing his explanation, with the same motivational wall text visible. Throughout, the lower third reads 'Entrepreneur explains why local radio is not dead' and the CBC News logo is present in the corner. The sequence blends present-day commentary with historical and contemporary visuals of radio use, emphasizing its enduring relevance.",
+            "active_entities": {
+                "CBC News Logo": "Consistently displayed in the bottom right corner, identifying the broadcast source.",
+                "Laptop Screen with Man": "A laptop screen showing the same man in the dark suit and colorful shirt, with the text 'The Breakdown' overlaid, indicating a transition or segment branding.",
+                "Sound Editing Software Interface": "A close-up of a computer screen displaying green audio waveforms in a sound editing program, with a microphone and a photo of a baby on the desk, suggesting a radio or podcast production environment.",
+                "Street View from Car": "A point-of-view shot from inside a car driving through a small town with brick buildings, parked cars, and a clock tower, providing a real-world context before returning to the studio."
+            },
+            "discovered_new_entities": {
+                "Man in Dark Suit and Colorful Shirt": "A man wearing a dark suit over a bright blue floral shirt, seated at a desk with a laptop, speaking in a studio with a wall that reads 'we don’t do average we do AWESOME.'",
+                "Vintage Radio": "A close-up of an old-fashioned radio with dials and a speaker grille, shown in a dimly lit setting, evoking nostalgia for early radio technology.",
+                "Archival Kitchen Scene": "Black-and-white footage of a woman in a 1950s-style kitchen, holding a baby and listening to a radio on the counter, illustrating historical domestic radio use.",
+                "Radio Studio Archival Footage": "Black-and-white footage of a man in a radio studio, speaking into a microphone, representing the professional side of radio broadcasting in the past.",
+                "Car Radio Close-Up": "A modern car radio display showing '98.1' in green digits, with a hand adjusting the tuning knob, highlighting current in-vehicle radio usage."
+            }
+        },
+        {
+            "minute": 38,
+            "caption": "The video opens with a man in a dark suit and vibrant blue floral shirt seated at a desk in a modern studio, speaking into a laptop. Behind him, a white wall displays the bold green text 'we don’t do average we do AWESOME.' The desk holds a laptop, smartphone, and various papers, including a green and white branded item. The on-screen text reads 'Entrepreneur explains why local radio is not dead' with the CBC News logo. The scene cuts to a second man in a plaid shirt with glasses, seated in a radio studio with a CBC-branded backdrop, listening intently and gesturing thoughtfully. The video alternates between the two men, showing the first man speaking and the second man responding with expressive hand gestures. A close-up reveals the laptop screen displaying the first man’s video call, confirming the remote interview setup. The scene briefly shifts to an outdoor shot of a marina with boats and a sign reading 'Welcome to Port Colborne, Canada,' followed by a wide shot of a grand neoclassical building with a dome and Canadian flags, likely a courthouse or municipal building, under a clear sky with green trees and a fountain in the foreground. The video returns to the studio, maintaining the focus on the discussion about local radio’s relevance.",
+            "active_entities": {
+                "Man in Dark Suit and Colorful Shirt": "A man wearing a dark suit over a bright blue floral shirt, seated at a desk in a studio with a laptop, speaking during a remote interview. The wall behind him reads 'we don’t do average we do AWESOME.'",
+                "Man in Plaid Shirt": "A man in a brown and green plaid shirt with glasses, seated in a CBC radio studio, listening and responding with expressive hand gestures during a video call interview.",
+                "CBC Radio Studio": "A modern radio studio with red and white CBC branding, featuring a curved desk, multiple microphones, and a laptop displaying a video call, indicating a live broadcast or interview setting.",
+                "Laptop Screen with Man": "A laptop screen showing the man in the dark suit and colorful shirt during a video call, with the text 'The Breakdown' overlaid, indicating a segment branding.",
+                "Street View from Car": "A point-of-view shot from inside a car driving through a small town with brick buildings, parked cars, and a clock tower, providing a real-world context before returning to the studio."
+            },
+            "discovered_new_entities": {
+                "Welcome Sign (Port Colborne)": "A black sign reading 'Welcome to Port Colborne, Canada' with a Canadian flag, located near a marina with boats docked in calm water.",
+                "Grand Neoclassical Building": "A large, white, neoclassical building with a central dome, columns, and Canadian flags, likely a courthouse or municipal building, surrounded by green trees, a fountain, and a white tent."
+            }
+        },
+        {
+            "minute": 39,
+            "caption": "The video opens with a street-level view of a small town, showcasing historic buildings like 'The Prince George Hotel' and a red trolley, establishing a local, community-focused atmosphere. The scene transitions to a man in a dark suit over a vibrant blue floral shirt, seated at a desk in a modern studio with a laptop, speaking during a remote interview. Behind him, a wall displays the slogan 'we don’t do average we do AWESOME' in green and black text. The camera cuts to a radio studio with a man operating a mixing console, then to a street view from a moving car, passing storefronts like 'Renfrew Resale' and a 'K' convenience store, reinforcing the local setting. The video then shifts to a second man, wearing glasses and a patterned shirt, speaking animatedly in a CBC studio with a laptop and microphone, engaging in a discussion about local radio. The segment includes close-ups of a soundboard with glowing orange meters, a red neon 'ON AIR' sign, and a laptop screen showing the first man during the video call, emphasizing the live, interactive nature of the broadcast. The narrative weaves together personal commentary, studio production, and real-world local imagery to argue that local radio remains vibrant and relevant.",
+            "active_entities": {
+                "Man in Dark Suit and Colorful Shirt": "A man wearing a dark suit over a bright blue floral shirt, seated at a desk in a studio with a laptop, speaking during a remote interview. The wall behind him reads 'we don’t do average we do AWESOME.'",
+                "Man in Plaid Shirt": "A man in a brown and green plaid shirt with glasses, seated in a CBC radio studio, listening and responding with expressive hand gestures during a video call interview.",
+                "CBC Radio Studio": "A modern radio studio with red and white CBC branding, featuring a curved desk, multiple microphones, and a laptop displaying a video call, indicating a live broadcast or interview setting.",
+                "Soundboard": "A close-up of a soundboard with glowing orange meters and black knobs, indicating audio equipment in use.",
+                "ON AIR Sign": "A red neon 'ON AIR' sign mounted on a wall, glowing brightly.",
+                "Laptop Screen with Man": "A laptop screen showing the man in the dark suit and colorful shirt during a video call, with the text 'The Breakdown' overlaid, indicating a segment branding.",
+                "Street View from Car": "A point-of-view shot from inside a car driving through a small town with brick buildings, parked cars, and a clock tower, providing a real-world context before returning to the studio."
+            },
+            "discovered_new_entities": {
+                "Man in Radio Studio": "A man in a dark polo shirt, seated at a mixing console in a radio studio with a large microphone and speakers, adjusting controls and speaking into the mic, under the title 'The National.'"
+            }
+        },
+        {
+            "minute": 40,
+            "caption": "The video opens with a man in a plaid shirt and glasses, seated in a modern CBC radio studio, engaging in a video call interview. He gestures expressively while speaking, with a laptop and microphone in front of him, and a colorful, abstract backdrop visible behind him. The scene cuts to a second man, wearing a dark suit over a vibrant blue floral shirt and glasses, seated at a desk in a minimalist studio with a white wall behind him that reads 'we don’t do average we do AWESOME' in green and black text. He speaks animatedly, using hand gestures to emphasize his points, with a laptop, phone, and documents on the desk. The video then transitions to exterior shots of Bell Media buildings, including a storefront with a large 'Bell' sign and a historic building with 'Bell Media Studios' and a CTV logo, establishing the media context. The video returns to the man in the suit, who continues his passionate explanation, before cutting back to the man in the plaid shirt, who listens thoughtfully with his hand to his chin. The segment maintains a professional, informative tone, focusing on the resilience of local radio, as indicated by the on-screen text 'Entrepreneur explains why local radio is not dead' and the CBC News logo in the corner.",
+            "active_entities": {
+                "Man in Plaid Shirt": "A man with dark, curly hair and glasses, wearing a brown and green plaid shirt, seated in a CBC radio studio, gesturing while speaking during a video call interview.",
+                "Man in Dark Suit and Colorful Shirt": "A man with short dark hair and glasses, wearing a dark suit over a bright blue floral shirt, seated at a desk in a studio with a laptop and documents, speaking passionately with hand gestures. The wall behind him reads 'we don’t do average we do AWESOME.'"
+            },
+            "discovered_new_entities": {
+                "Bell Media Studios": "A historic building with ornate architecture, featuring a large 'Bell Media Studios' sign and a CTV logo, located in an urban setting with pedestrians and vehicles passing by.",
+                "Bell Storefront": "A modern storefront with a large blue 'Bell' sign, an 'OPEN' sign, and a glass facade, located on a city street with pedestrians walking by."
+            }
+        },
+        {
+            "minute": 41,
+            "caption": "The video opens with the Man in Dark Suit and Colorful Shirt seated at a desk in a modern studio, speaking passionately with hand gestures. Behind him, a white wall displays the slogan 'we don’t do average we do AWESOME' in green and black text. He is engaged in a video call, visible on his laptop screen, with the Man in Plaid Shirt, who is in a CBC radio studio with red and white branding, including a 'CBC ENTREPRISE' backdrop. The Man in Plaid Shirt, wearing glasses and a multi-colored plaid shirt, speaks into a microphone while gesturing, with a laptop and audio equipment on his desk. The scene cuts to archival black-and-white footage of a radio host in a studio, credited to Ron Bickell, followed by a return to the Man in Plaid Shirt speaking. The video then shows a hallway with a sign for 'Studio 2 myFM in the Morning' and a man in a dark polo shirt working at a radio console. The final shot is a close-up of a computer screen displaying a sound editing interface with colorful audio tracks and a waveform, indicating live radio production. The CBC News logo is consistently displayed in the bottom right corner, and the on-screen text reads 'Entrepreneur explains why local radio is not dead.'",
+            "active_entities": {
+                "Man in Dark Suit and Colorful Shirt": "A man with short dark hair and glasses, wearing a dark suit over a bright blue floral shirt, seated at a desk in a studio with a laptop and documents, speaking passionately with hand gestures. The wall behind him reads 'we don’t do average we do AWESOME.'",
+                "Man in Plaid Shirt": "A man with dark, curly hair and glasses, wearing a brown and green plaid shirt, seated in a CBC radio studio, gesturing while speaking during a video call interview. He is positioned in front of a microphone and laptop, with CBC branding visible in the background.",
+                "CBC News Logo": "Consistently displayed in the bottom right corner, identifying the broadcast source.",
+                "Sound Editing Software Interface": "A close-up of a computer screen displaying green audio waveforms in a sound editing program, with a microphone and a photo of a baby on the desk, suggesting a radio or podcast production environment.",
+                "CBC Radio Studio": "A modern radio studio with red and white CBC branding, featuring a curved desk, multiple microphones, and a laptop displaying a video call, indicating a live broadcast or interview setting."
+            },
+            "discovered_new_entities": {
+                "Archival Radio Host Footage": "Black-and-white footage of a man in a radio studio, speaking into a microphone, representing the professional side of radio broadcasting in the past, credited to Ron Bickell.",
+                "Studio 2 Sign": "A clear sign on a glass door reading 'Studio 2 myFM in the Morning' with a colorful dot pattern, indicating a specific radio studio location.",
+                "Radio Console Operator": "A man in a dark polo shirt, seated at a mixing console in a radio studio with a large microphone and speakers, adjusting controls and speaking into the mic, under the title 'The National.'"
+            }
+        },
+        {
+            "minute": 42,
+            "caption": "The video opens with close-up shots of professional audio equipment, including a vintage-style mixing console with black knobs and a wooden frame, and a soundboard with glowing orange meters, establishing a radio or podcast production environment. The camera then shifts to a computer screen displaying green audio waveforms in a sound editing software, with a microphone and a photo of a baby visible on the desk, suggesting content creation. The scene transitions to a man in a blue suit and vibrant floral shirt seated at a desk in a modern studio, speaking passionately with hand gestures. Behind him, a white wall displays the slogan 'we don’t do average we do AWESOME' in green and black text. He is positioned in front of a laptop, with a smartphone and documents on the desk, and the CBC News logo is visible in the corner. The video cuts briefly to another man with glasses and graying hair, listening intently, before returning to the main speaker, who continues his explanation with expressive hand movements, emphasizing his points. The setting is bright and professional, with a focus on the man’s dynamic delivery and the studio’s motivational decor.",
+            "active_entities": {
+                "Man in Dark Suit and Colorful Shirt": "A man with short dark hair and glasses, wearing a dark suit over a bright blue floral shirt, seated at a desk in a studio with a laptop and documents, speaking passionately with hand gestures. The wall behind him reads 'we don’t do average we do AWESOME.'",
+                "Soundboard": "A close-up of a soundboard with glowing orange meters and black knobs, indicating audio equipment in use.",
+                "Sound Editing Software Interface": "A close-up of a computer screen displaying green audio waveforms in a sound editing program, with a microphone and a photo of a baby on the desk, suggesting a radio or podcast production environment.",
+                "CBC News Logo": "Consistently displayed in the bottom right corner, identifying the broadcast source."
+            },
+            "discovered_new_entities": {
+                "Man with Graying Hair and Glasses": "A man with graying hair and black-rimmed glasses, wearing a light-colored shirt, shown in a close-up listening intently, likely an interviewer or audience member."
+            }
+        },
+        {
+            "minute": 43,
+            "caption": "The video segment opens with a split-screen view: on the left, a man in a dark suit and colorful floral shirt (Man in Dark Suit and Colorful Shirt) speaks passionately from a modern office, while on the right, a man in a plaid shirt (Man in Plaid Shirt) listens intently in a CBC radio studio, with a microphone and laptop in front of him. The office setting features a white wall with the bold green text 'we don’t do average we do AWESOME' behind the speaker, who gestures expressively as he discusses the vitality of local radio. The desk holds a laptop, a smartphone, and some documents, including a green and white branded item. The scene alternates between close-ups of the speaker’s face and wider shots showing his animated hand movements. The radio studio on the right has CBC branding, including a red 'ON AIR' sign and a laptop displaying the speaker’s video call. The lower third consistently reads 'Entrepreneur explains why local radio is not dead' with the CBC News logo. The segment emphasizes the dynamic conversation between the two men, highlighting the speaker’s enthusiasm and the listener’s engaged demeanor, with occasional cuts to the radio studio’s equipment and the speaker’s screen, reinforcing the theme of modern radio’s relevance.",
+            "active_entities": {
+                "Man in Dark Suit and Colorful Shirt": "A man with short dark hair and glasses, wearing a dark suit over a bright blue floral shirt, seated at a desk in a studio with a laptop and documents, speaking passionately with expressive hand gestures. The wall behind him displays the text 'we don’t do average we do AWESOME.'",
+                "Man in Plaid Shirt": "A man with dark, curly hair and glasses, wearing a brown and green plaid shirt, seated in a CBC radio studio, listening intently during a video call. He is positioned in front of a microphone and laptop, with CBC branding visible in the background.",
+                "CBC News Logo": "Consistently displayed in the bottom right corner, identifying the broadcast source.",
+                "Laptop Screen with Man": "A laptop screen showing the Man in Dark Suit and Colorful Shirt during a video call, with the text 'The Breakdown' overlaid, indicating a segment branding.",
+                "Sound Editing Software Interface": "A close-up of a computer screen displaying green audio waveforms in a sound editing program, with a microphone and a photo of a baby on the desk, suggesting a radio or podcast production environment."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 44,
+            "caption": "The video opens with a split-screen interview between two men: the Man in Dark Suit and Colorful Shirt, seated in a modern studio with a wall that reads 'we don’t do average we do AWESOME,' and the Man in Plaid Shirt, in a CBC radio studio with red and white branding, engaged in a video call. The Man in Dark Suit and Colorful Shirt gestures expressively while speaking, and the Man in Plaid Shirt listens intently, occasionally responding. The scene transitions to a news anchor, the News Anchor (Studio), in a dark suit and purple tie, standing before a backdrop of black-and-white cityscapes, introducing a segment titled 'The Breakdown.' The segment then cuts to dramatic footage of a lightning strike hitting an airplane mid-flight, shown on a large screen in the studio, with the credit 'Ethan West' displayed. The footage is interspersed with a brief close-up of a man in a blue shirt, likely a witness or expert, speaking directly to the camera. The segment concludes with the lightning strike footage displayed prominently on the studio screen, emphasizing the visual impact of the event.",
+            "active_entities": {
+                "Man in Dark Suit and Colorful Shirt": "A man with short dark hair and glasses, wearing a dark suit over a bright blue floral shirt, seated at a desk in a studio with a laptop and documents, speaking passionately with expressive hand gestures. The wall behind him displays the text 'we don’t do average we do AWESOME.'",
+                "Man in Plaid Shirt": "A man with dark, curly hair and glasses, wearing a brown and green plaid shirt, seated in a CBC radio studio with red and white branding, listening intently during a video call. He is positioned in front of a microphone and laptop.",
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with medical-themed black-and-white images on screens behind him, delivering a report. He gestures with his right hand as he speaks."
+            },
+            "discovered_new_entities": {
+                "Man in Blue Shirt": "A man with short brown hair, wearing a blue collared shirt, speaking directly to the camera in a close-up shot, likely providing commentary or testimony about the lightning strike incident.",
+                "Lightning Strike Footage": "Dramatic vertical footage of a lightning bolt striking an airplane mid-flight, shown in a purple-hued sky, with a bright blue flash at the point of impact. The footage is credited to 'Ethan West' and displayed on a large studio screen."
+            }
+        },
+        {
+            "minute": 45,
+            "caption": "The video opens with a dramatic studio shot of a large screen displaying a lightning strike hitting an airplane mid-flight, credited to Ethan West, with a bright blue flash at the point of impact. The scene transitions to a news anchor in a dark suit and purple tie, standing before a backdrop of black-and-white cityscapes, delivering a report. The segment then cuts to a vertical, grainy nighttime video labeled 'The Moment an Air Canada plane was struck by lightning,' showing a distant airplane in a stormy sky. The footage, credited to Ethan West and dated March 3 in Vancouver, captures a vivid lightning bolt striking the plane, illuminating it with a bright blue flash. The video alternates between this dramatic footage and interviews: first with Ethan West, a young man in a blue shirt, speaking from an indoor setting, and then with Keith Mackey, an older man in a striped shirt, identified as President of Mackey International Airlines, speaking from a home environment with a chandelier visible in the background. The sequence emphasizes the rare and powerful moment of the lightning strike, combining real-time footage with expert commentary.",
+            "active_entities": {
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with black-and-white cityscape screens behind him, gesturing as he speaks.",
+                "Lightning Strike Footage": "Dramatic vertical footage of a lightning bolt striking an airplane mid-flight, shown in a purple-hued sky with a bright blue flash at the point of impact, credited to 'Ethan West'."
+            },
+            "discovered_new_entities": {
+                "Ethan West": "A young man with short brown hair, wearing a blue collared shirt, speaking directly to the camera in an indoor setting, identified as the footage’s source from Vancouver.",
+                "Keith Mackey": "An older man with graying hair, wearing a striped shirt, speaking from a home environment with a chandelier visible in the background, identified as President of Mackey International Airlines."
+            }
+        },
+        {
+            "minute": 46,
+            "caption": "The video opens with a man in a blue striped shirt, identified as Keith Mackey, speaking from a home environment with a chandelier visible in the background, likely discussing an aviation incident. The scene abruptly shifts to dramatic vertical footage of a lightning bolt striking an airplane mid-flight against a purple-hued sky, with a bright blue flash at the point of impact, credited to Ethan West. This is followed by a news anchor, the News Anchor (Studio), in a dark suit and purple tie, standing in a studio with black-and-white cityscape screens behind him, gesturing as he reports. The segment then cuts to a sunlit street scene in Port-au-Prince, showing a group of people, including children, carrying goods and water, indicating hardship. Next, a display of various substances in labeled plastic bags, identified as Prince George RCMP Drug Display, is shown, followed by a solemn ceremony in Ottawa with General Wayne Eyre and other military personnel saluting during a wreath-laying event. The video then transitions to a desolate urban landscape with damaged buildings, followed by a pastoral scene of cattle grazing in a field. The final shot is a still image of a baseball player in a red 'Reds' uniform with the number 19, identified as Baseball Player (Reds), standing on a field with a focused expression. The CBC News logo is consistently displayed in the bottom right corner throughout.",
+            "active_entities": {
+                "Keith Mackey": "An older man with graying hair, wearing a striped shirt, speaking from a home environment with a chandelier visible in the background, identified as President of Mackey International Airlines.",
+                "Lightning Strike Footage": "Dramatic vertical footage of a lightning bolt striking an airplane mid-flight, shown in a purple-hued sky with a bright blue flash at the point of impact, credited to 'Ethan West'.",
+                "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with black-and-white cityscape screens behind him, gesturing as he speaks.",
+                "Street Scene in Port-au-Prince": "A sunlit urban street with vehicles, pedestrians, and armed personnel, indicating a tense environment.",
+                "Prince George RCMP Drug Display": "A graphic showing multiple clear plastic bags containing various substances—white powders, orange and green plant materials—arranged in rows, labeled 'EXHIBITS' and credited to 'Prince George RCMP'.",
+                "General Wayne Eyre": "A man in full military dress uniform with medals, a red-and-gold hat, and a 'CANADA' patch, speaking at a ceremony in Ottawa and saluting during the event.",
+                "Military Personnel (Ottawa)": "Soldiers in dark green uniforms with medals and berets, saluting during a ceremony in front of a stone monument in Ottawa.",
+                "Archival Footage (Afghanistan Landscape)": "Soldiers in a dusty, mountainous terrain, likely Afghanistan, with a hazy sky and rugged terrain in the background.",
+                "Baseball Player (Reds)": "A baseball player in a red 'Reds' uniform with the number 19, shown in a still image on the news screen, holding a glove and looking upward."
+            },
+            "discovered_new_entities": {}
+        }
+    ],
+    "entity_library": {
+        "News Anchor": "A man in a dark suit and purple tie, standing before a blurred cityscape backdrop, delivering a news report on the 96th Academy Awards.",
+        "Man in Home Office": "A man speaking from a home office with a window view of greenery, under the headline 'Canadians stranded.'",
+        "Woman in Hospital": "A woman lying in a hospital bed in Kingston, Ontario, wearing a green top and a blue face mask, with an IV drip and medical monitors, indicating she is undergoing treatment for terminal cancer.",
+        "Doctor in Scrubs": "A man in a light blue shirt with a stethoscope around his neck, wearing glasses, speaking in a hospital corridor with a serious and engaged expression.",
+        "Couple Walking": "An older man in a green plaid jacket and cap and a woman in a black-and-white checkered coat and blue scarf, walking arm-in-arm through a snowy field with a black dog, suggesting a moment of peace or reflection.",
+        "Baseball Player (Reds)": "A baseball player in a red 'Reds' uniform with the number 19, shown in a still image on the news screen, holding a glove and looking upward.",
+        "Young Boy (Blue Jays)": "A young boy in a blue Blue Jays jersey and cap, holding a bat, under the segment 'Hometown hope.'",
+        "Man in Blue Jays Cap": "A man in a Blue Jays cap and blue shirt, walking on a baseball field, likely a coach or player, with a focused expression.",
+        "Child in Blue Jays Shirt": "A young child in a Blue Jays shirt, sitting at a table with a lit candle, shown in a social media post celebrating a minor league contract signing.",
+        "Baby in Blue Jays Outfit": "A baby in a Blue Jays-themed outfit, shown in a social media post with a cake and a single candle, celebrating a minor league contract signing.",
+        "Bear in Snow": "A large black bear walking in a snowy landscape, shown in a montage.",
+        "Indigenous Performers": "A group of individuals in traditional Indigenous regalia, including headdresses and colorful attire, performing in a snowy setting.",
+        "Armed Individuals": "Israeli security personnel in tactical gear, including a female officer, managing crowds at a checkpoint in Jerusalem, gesturing authoritatively and interacting with civilians.",
+        "Child Drinking Water": "A young child in a red shirt, sitting on a yellow bucket, drinking from a water bottle, shown in a montage.",
+        "Richard Phillips": "A man in a black shirt, speaking from a home office with a window view of greenery, under the headline 'Canadians stranded.'",
+        "White Pickup Truck": "A white pickup truck with visible markings, parked on a street in Port-au-Prince, with armed individuals nearby.",
+        "Street Scene in Port-au-Prince": "A sunlit urban street with vehicles, pedestrians, and armed personnel, indicating a tense environment.",
+        "Robert Fatton": "An older man with white hair and glasses, wearing a black Real Madrid polo shirt, speaking from an office with academic posters on the wall, identified as from the University of Virginia, Charlottesville, Virginia.",
+        "Police Station": "A damaged building with a blue wall reading 'POLICE NATIONALE D'HAITI' and 'COMMISSARIAT SALOMON', showing debris and a burning vehicle through a gate.",
+        "Man at Podium": "A bald man in a suit and glasses speaking at a podium with the Haitian Prime Minister’s seal, indicating an official address.",
+        "Bob Rae": "Canada's Ambassador to the UN, speaking from Juno Beach, Florida, wearing a light blue button-up shirt, with framed artwork behind him.",
+        "U.S. Army vessel": "A large gray military ship marked 'GEN FRANK S. BESSON JR.', docked in murky water with its rear ramp lowered, revealing soldiers and military vehicles inside, preparing for deployment to the Mediterranean.",
+        "Aerial Bridge Scene": "An overhead view of a crowded bridge over a river, with people and vehicles moving across, indicating displacement or migration in Haiti.",
+        "Man in striped sweater": "A man in a gray and brown striped sweater, standing on a sandy beach in Gaza City, speaking directly to the camera with expressive hand gestures, with the sea and debris in the background.",
+        "Religious figure in Al-Ram": "An older man wearing a white cap and dark suit, seated in a wooden chair, speaking to a woman with blonde hair in a room with a Palestinian flag and a small model of a mosque on the table.",
+        "Civilians at Checkpoint": "A diverse group of men, women, and children, including a boy in a Nike hoodie, navigating a crowded stone alley under the supervision of armed security personnel.",
+        "Praying Men in Cemetery": "A group of men, including one with a white beard and cap, standing in rows and performing Islamic prayer rituals in a cemetery with stone tombs and a hillside backdrop.",
+        "Woman with Blonde Hair": "A woman with blonde hair, wearing a beige jacket and carrying a backpack, seen conversing with the Religious figure in Al-Ram in a cemetery setting.",
+        "Raquela Karamson": "Israeli Government spokesperson, standing before the Israeli flag and the emblem of the Prime Minister’s Office, wearing a light beige blazer and speaking into a microphone.",
+        "Man in Rafah, Gaza": "A bearded man wearing a dark cap and jacket, speaking directly to the camera in a crowded street in Rafah, Gaza, with a serious and concerned expression.",
+        "Man Decorating Tree": "A man in a green long-sleeve shirt, hanging string lights and red-and-white flags on a tree at night, creating a festive atmosphere.",
+        "Woman with Lantern": "A woman in a black abaya and patterned hijab, holding a glowing yellow lantern, standing in a dimly lit shelter with children around her.",
+        "Children in Shelter": "Several children in colorful clothing, playing and interacting in a shelter decorated with balloons and streamers, under a corrugated metal roof.",
+        "News Anchor (Studio)": "A man in a dark suit and purple tie, standing in a news studio with black-and-white cityscape screens behind him, gesturing as he speaks.",
+        "Donald Trump": "A man in a dark suit and red-striped tie, speaking at a campaign rally in Georgia, standing at a podium with 'TRUMP MAKE AMERICA GREAT AGAIN! 2024' and 'TEXT GEORGIA TO 88022' displayed, surrounded by American flags and an enthusiastic crowd.",
+        "Supporters at Trump Rally": "A diverse group of rally attendees, including a woman in a red 'MAKE AMERICA GREAT AGAIN' cap and red jacket with Trump buttons, seated in a formal setting, showing engagement with the event.",
+        "Young Woman in Denim Jacket": "A young woman wearing a denim jacket, interacting with Donald Trump at the rally, who places his hand on her shoulder as she stands beside him.",
+        "Young Woman in Lab Coat": "A still image of a young woman in a white lab coat over a blue shirt, smiling, possibly a campaign photo or symbolic representation of a supporter or volunteer.",
+        "Joe Biden": "A man in a dark suit over a blue checkered shirt with an American flag pin, speaking in a dimly lit interview setting with an 'MSNBC EXCLUSIVE' watermark.",
+        "Kamala Harris": "A woman in a black suit, seated beside Joe Biden during his speech in the House chamber, appearing attentive and composed.",
+        "Mike Johnson": "A man in a dark suit and red tie, seated beside Joe Biden during his speech in the House chamber, wearing glasses and maintaining a serious expression.",
+        "University of Georgia Police Officer": "A police officer in a black uniform with 'POLICE' on the back, arresting a man in a red shirt beside a white police vehicle marked 'UNIVERSITY OF GEORGIA'.",
+        "Man in Red Shirt": "A man in a red collared shirt, shown being arrested and later in a mugshot, with short dark hair and a beard, appearing in both front and side profile.",
+        "Police Officer Directing Traffic": "A police officer in a black uniform with 'POLICE' on the back, standing near a wooden fence and gesturing to direct traffic, wearing a cap and tactical gear.",
+        "Woman in Red Cap at Formal Event": "A woman with blonde hair wearing a red 'MAKE AMERICA GREAT AGAIN' cap and a red jacket with Trump buttons, seated in a formal setting, appearing engaged and expressive.",
+        "MSNBC Interview Setting": "A dimly lit interview environment with Joe Biden seated, wearing a dark suit over a blue checkered shirt, with an American flag in the background and an 'MSNBC EXCLUSIVE' watermark in the corner.",
+        "Katie Simpson": "A CBC News correspondent in Washington, wearing an orange blazer over a striped shirt and large tortoiseshell glasses, speaking with a blurred White House in the background.",
+        "Canada Remembers Graphic": "A still image of a woman in a beige coat laying a wreath at a memorial, wearing a red poppy pin, shown on a screen behind the News Anchor (Studio).",
+        "General Wayne Eyre": "A man in full military dress uniform with medals, a red-and-gold hat, and a 'CANADA' patch, speaking at a ceremony in Ottawa and saluting during the event.",
+        "Military Personnel (Ottawa)": "Soldiers in dark green uniforms with medals and berets, saluting during a ceremony in front of a stone monument in Ottawa.",
+        "Civilians at Ceremony (Ottawa)": "A group of civilians, including a woman in a pink knitted hat, standing respectfully during the commemorative event in Ottawa.",
+        "Military Band (Ottawa)": "A group of uniformed musicians playing brass instruments, including a tuba, during the ceremony in Ottawa.",
+        "Canadian Flag (Ottawa)": "A large Canadian flag waving in front of a stone monument in Ottawa, with bare trees and a historic building in the background.",
+        "Archival Footage (Kabul, March 2014)": "Soldiers in desert camouflage walking through dust, followed by a military helicopter landing with soldiers disembarking, set against a backdrop of trees and buildings.",
+        "Archival Footage (Afghanistan Landscape)": "Soldiers in a dusty, mountainous terrain, likely Afghanistan, with a hazy sky and rugged terrain in the background.",
+        "Wreath-Laying Ceremony (Ottawa)": "A formal event where military personnel and civilians lay wreaths at a stone monument, with red poppies and purple ribbons on the wreaths, under overcast skies.",
+        "Stone Monument (Ottawa)": "A large, gray stone monument with inscriptions and statues, located in a public square in Ottawa, serving as the focal point of the commemoration.",
+        "Sean Maloney": "A historian with a white beard and glasses, wearing a black shirt, seated in a cluttered home office filled with books, papers, and a corkboard, gesturing while speaking.",
+        "Frozan Rahmani": "An Afghan-Canadian journalist with dark hair pulled back, wearing a blue blazer, speaking from a well-lit room with a plain background, her expression serious and focused.",
+        "Archival Footage (Kabul, October 2011)": "Footage showing armed men in civilian clothing, including one with a rifle and another in a headscarf, walking among vehicles like a white truck and a yellow taxi on a busy street in Kabul.",
+        "Soldiers in Desert Camouflage": "Canadian soldiers in desert camouflage uniforms, one holding a rifle, walking cautiously along a dusty path beside a stone wall in an arid landscape.",
+        "Murray Brewster": "A CBC News correspondent in Ottawa, wearing a dark suit with a red tie, seated before a nighttime cityscape backdrop featuring illuminated buildings and the Parliament Hill towers, identified on-screen with his name and location.",
+        "Prince George RCMP Drug Display": "A graphic showing multiple clear plastic bags containing various substances—white powders, orange and green plant materials—arranged in rows, labeled 'EXHIBITS' and credited to 'Prince George RCMP'.",
+        "David Eby": "B.C. Premier, wearing a dark suit and light blue shirt, speaking at a podium with a 'Taking action for you' sign and 'StrongerBC' logo, flanked by officials in a Vancouver press conference.",
+        "Cpl. Jennifer Cooper": "A woman in a dark uniform with glasses, speaking directly to the camera in an office setting, identified as from Prince George RCMP.",
+        "Woman in Green Blazer": "A woman in a green blazer speaking at a podium under purple lighting, with on-screen text quoting Danielle Smith, Premier of Alberta, warning about opioid diversion.",
+        "Officials at Press Conference": "A group of individuals, including a woman in a black blazer and a man in a grey suit, standing beside David Eby at the Vancouver press conference, dressed formally and listening attentively.",
+        "Guy Felicella": "A bald man with glasses, identified as a harm reduction and recovery advocate, speaking during a video call on a laptop screen.",
+        "Dr. Bonnie Henry": "A woman with short blonde hair and red-rimmed glasses, wearing a beige blazer, speaking at a podium with British Columbia flags behind her, identified as B.C. Provincial Health Officer in Victoria on June 5, 2023.",
+        "Greg Sword": "A man with a gray beard, wearing a camouflage jacket and a black cap, sitting at a picnic table in a park, holding a photograph of a young woman with colorful hair, and later walking along a paved path.",
+        "Photograph of Young Woman": "A printed photo of a young woman with vibrant pink and yellow hair, held by Greg Sword, showing her smiling and wearing a patterned top, symbolizing personal loss and advocacy.",
+        "Man with Black Cow": "A man in a white shirt and black vest, standing beside a large black cow in a snowy field with hay, near Drayton Valley, Alberta, under the headline 'Some farmers forced to make tough decisions amid drought'.",
+        "Bart Guyon": "A man in a black vest over a white shirt, standing beside a black cow in a snowy field with hay, speaking with a serious expression, with cattle visible in the background, under the headline 'Some farmers forced to make tough decisions amid drought'.",
+        "Chance Martin": "A man in a blue and white cap with 'Thorsby Stockyards' logo, glasses, and a gray vest, speaking into a microphone at the Thorsby Stockyards auction, gesturing toward the auction ring.",
+        "Man with White Beard": "A man with a white beard, wearing a red-and-black knit hat and sunglasses, adjusting his glasses while standing near a weather station in a snowy landscape.",
+        "Man in Blue and White Cap": "A man in a blue and white cap with 'Thorsby Stockyards' logo, glasses, and a gray vest, speaking into a microphone at the livestock auction, gesturing toward the auction ring.",
+        "Weather Station Crew": "Two individuals in winter gear, one in a yellow jacket and blue pants, the other in dark clothing, working with equipment at a weather station in a snowy field, surrounded by snow-covered trees and a tall metal tower.",
+        "John Pomeroy": "A man with a white beard and glasses, wearing a blue jacket and a red-and-black knit hat with 'SOLUTE' visible, speaking outdoors in a snowy environment as Director of Global Water Futures Observatory.",
+        "Trevor Hadwen": "A man in a checkered shirt and glasses, seated at a desk in an office with a large screen displaying drought maps of Canada, with a green 'University of Regina' banner behind him, identified as from Agriculture and Agri-Food Canada.",
+        "Man in suit and tie": "A man in a dark suit and tie, standing beside a large metallic spherical object in a dimly lit industrial room, suggesting a sci-fi or thriller setting.",
+        "Woman in red dress": "A woman in a red dress walking confidently on a red carpet, likely at an awards ceremony, with a poised and elegant demeanor.",
+        "Man in tuxedo": "A man in a white tuxedo with a black bow tie, round glasses, and a blue patterned pocket square, reporting live from outside the Dolby Theatre at night, with palm trees and illuminated buildings in the background.",
+        "Man in striped shirt": "A man in a gray and brown striped shirt, speaking from a home office, likely a news contributor or expert, with a calm and professional demeanor.",
+        "Man in suit and hat": "A man in a dark suit and fedora, being surrounded by photographers in a black-and-white hallway, evoking a classic film noir style.",
+        "CBC News Logo": "Consistently displayed in the bottom right corner, identifying the broadcast source.",
+        "Desert Military Scene": "A wide shot of a desert landscape with a tall metal tower and scattered equipment, suggesting a military or scientific operation in an arid environment.",
+        "Fiery Explosion": "A close-up of a fiery explosion with intense orange and yellow flames, likely from a dramatic film sequence.",
+        "Futuristic Structure": "A large, geometric structure with blue and white patterns, possibly a sci-fi or futuristic setting, with a man in a suit and hat standing in front of it.",
+        "Red Carpet Crowd": "A crowd of people on a red carpet, including photographers and attendees, with bright lights and cameras, indicating a high-profile event like the Academy Awards.",
+        "Man in white shirt": "A man in a white shirt, shown in a dimly lit room, appearing to be in distress or deep thought.",
+        "Man in dark coat": "A man in a dark coat walking through a grand, ornate doorway in a black-and-white setting, with a dog lying nearby, suggesting a period or fantasy film.",
+        "Woman in white dress (period film)": "A woman in a flowing white dress with long dark hair, walking through an ornate interior with a small dog, in a black-and-white film sequence.",
+        "Man in dark coat (period film)": "A man in a dark coat walking through a grand, ornate doorway in a black-and-white setting, with a dog lying nearby, suggesting a period or fantasy film.",
+        "Woman in ruffled dress (period film)": "A woman in a ruffled, textured dress with dark hair styled in a bun, interacting with a man in a dark coat in a black-and-white film scene.",
+        "Man in tuxedo (period film)": "A man in a formal tuxedo with a bow tie, standing in a dimly lit room with a serious expression, in a black-and-white sequence.",
+        "Courtyard scene (period film)": "A wide shot of a stone courtyard with fountains, arches, and people in period attire, under a cloudy sky, in a black-and-white film.",
+        "Young girl with violin": "A young girl with braided hair, wearing a pink top and a necklace, smiling as she plays the violin in a warmly lit auditorium.",
+        "Boy with French horn": "A boy with curly hair, wearing a dark shirt, playing a French horn with focused expression in a dimly lit auditorium.",
+        "Girl with saxophone": "A girl with long dark hair, wearing a light-colored top, smiling as she holds a saxophone in a warmly lit auditorium.",
+        "Man in white shirt (period film)": "A man in a white shirt, shown in a dimly lit room, appearing to be in distress or deep thought, in a black-and-white sequence.",
+        "Godzilla Minus One Clip": "A cinematic sequence showing a giant monster emerging from smoke, attacking a naval fleet, and a soldier shouting 'Now!' as a massive creature looms, credited to Toho.",
+        "The Holdovers Clip": "A scene featuring a man in a cowboy hat and red cape holding a sword, followed by a red carpet moment with Ryan Gosling and Margot Robbie posing together.",
+        "Barbie Performance Clip": "A vibrant stage performance with a man in a pink suit and sunglasses singing, surrounded by dancers in cowboy attire, and another scene of a man in a white fur coat dancing in a pink-themed environment.",
+        "Man in Blue Plaid Shirt": "An older man with a white beard, wearing a blue plaid shirt, seated in a home setting with a guitar and shelves in the background, speaking earnestly about cancer treatment.",
+        "Man in Suit and Colorful Shirt": "A man in a blue suit and vibrant floral shirt, seated at a desk in a studio with a laptop, phone, and certificate, with a wall behind him reading 'we don’t do average we do AWESOME.'",
+        "Soundboard": "A close-up of a soundboard with glowing orange meters and black knobs, indicating audio equipment in use.",
+        "Mixing Console": "A man adjusting knobs on a wooden mixing console in a studio with speakers and a microphone, under the title 'The National.'",
+        "ON AIR Sign": "A red neon 'ON AIR' sign mounted on a wall, glowing brightly.",
+        "Family Photo": "A woman with three children, smiling outdoors, with a text overlay stating 'New Kate Middleton picture pulled over manipulation concerns.'",
+        "Kate Middleton": "A woman in a formal gown with a tiara, interacting with others at an event, and later in a blue blazer, smiling while engaging with someone off-camera.",
+        "Man with Bearded": "A man with a beard, wearing a dark blazer and jeans, sitting on a bench, eating a snack, with a baseball bat beside him.",
+        "Joey Votto": "A professional baseball player wearing a Blue Jays cap and blue hoodie, actively participating in training camp by fielding and throwing a ball on a sunny baseball field.",
+        "Social Media Post (Joey Votto)": "A screenshot of Joey Votto’s social media post with the caption 'missing ball,' showing a man on a bench with a baseball bat, dated March 5, 2024, with 6M views and 38.8K likes.",
+        "Social Media Post (Contract Signing)": "A screenshot of Joey Votto’s social media post with the caption 'Minor league contract signed. It’s official, I’m a little Blue Jay now,' featuring two images of a baby in a Blue Jays outfit, dated March 10, 2024, with 376.6K views and 14K likes.",
+        "Nick Gosse": "A young man with dark hair, wearing a black cap and earphones, speaking from a home office with a framed photo and LED lights in the background.",
+        "Peter Vryonis": "A man with a beard, wearing a black cap and a gray puffer jacket with red lining, speaking from a room with a visible ceiling structure.",
+        "Tom Valcke": "A baseball analyst from Statesboro, Georgia, wearing glasses, a light blue cap, and a white polo shirt with a logo, speaking in front of an American flag.",
+        "Woman in White Puffer Jacket": "A woman with long dark hair, wearing a white puffer jacket, blue jeans, and black gloves, walking down stairs outside the Jays Shop in Toronto, smiling.",
+        "Veronica Chung": "A woman with long dark hair, wearing a white puffer jacket, blue jeans, and black gloves, speaking as a Blue Jays Nation contributor outside a stadium with a large Blue Jays logo and 'First Base' signage in the background.",
+        "IV Drip": "A close-up of a medical IV drip with fluid flowing, shown in a hospital setting, indicating ongoing treatment for a patient.",
+        "Woman with Glasses (Interview)": "A woman with dark hair and black-rimmed glasses, wearing a black top, speaking emotionally in a dimly lit room in Toronto, later shown flipping through a photo album of her father.",
+        "CBC News Title Card": "A black screen with white text reading 'The Breakdown,' followed by a medical scan of lungs with a gloved hand pointing, overlaid with the text 'Why stopping cancer treatment can be about life not death,' introducing the segment's theme.",
+        "Medical Monitor": "A close-up of a medical device screen labeled 'EPICS™_C GRAPHICS DISPLAY' showing technical data, with a hand adjusting controls, indicating clinical monitoring or treatment planning.",
+        "Text Overlays": "Sequential text overlays—'End-stage,' 'No cure,' 'Terminal'—appearing over dark, abstract medical imagery, emphasizing the severity and finality of the condition being discussed.",
+        "Research Paper Display": "A digital display of a research paper titled 'End-of-life interventions in patients with cancer' from the National Library of Medicine, with text overlays highlighting key statistics such as '40% of terminally ill patients' receiving inappropriate interventions.",
+        "Woman in Red Blouse": "A woman with long dark hair, wearing a red blouse and a silver necklace, speaking with a serious expression in a news studio setting, likely discussing medical or ethical issues related to cancer treatment.",
+        "Calendar Graphic": "A visual overlay showing a yearly calendar with days marked with 'X' in March, then zooming out to display '2 extra months' and '$10,000/month', used to illustrate treatment duration and cost.",
+        "Hospital Room Setting": "A clinical room with a hospital bed, medical equipment, and large windows, serving as the backdrop for the woman in the red blouse’s direct address to the camera.",
+        "Aerial Hospital View": "An overhead shot of a hospital complex with a rooftop 'H' sign, surrounded by urban buildings and green spaces, providing context to the healthcare system discussed.",
+        "Man in Plaid Shirt": "A man with dark, curly hair and glasses, wearing a brown and green plaid shirt, seated in a CBC radio studio with red and white branding, listening intently during a video call. He is positioned in front of a microphone and laptop.",
+        "Man in Light Blue Shirt": "A man with glasses and a lanyard, wearing a light blue button-down shirt, seated at the same table, listening intently during the discussion.",
+        "Microscope Slide": "A circular view of a stained tissue sample under a microscope, showing pink and purple cellular structures, with an orange arrow pointing to a specific area, likely indicating cancerous tissue.",
+        "Lung CT Scan": "A black-and-white cross-sectional image of lungs on a monitor, with a hand pointing to a white mass in the lower lobe, marked by an orange arrow, illustrating a tumor or lesion.",
+        "Meeting Room Setting": "A clinical or administrative room with a large wooden table, pink chairs, and bookshelves filled with binders, serving as the backdrop for the discussion among the woman and two men.",
+        "Gloved Hand Adjusting Device": "A close-up of a hand in a white glove manipulating a black medical control panel with dials and buttons, suggesting technical medical equipment operation.",
+        "Woman in Orange Blazer": "A woman with long dark hair, wearing a bright orange blazer, standing in a lab or classroom setting with a chalkboard and lab supplies in the background, presenting medical information with on-screen graphics.",
+        "Man in Dark Suit and Glasses": "A man with dark hair and glasses, wearing a dark suit over a striped shirt, speaking in a hallway with warm lighting, gesturing as he discusses cancer treatment, with a brief appearance at an ASCO event.",
+        "ASCO Event Backdrop": "A blue backdrop with the white text 'AMERICAN SOCIETY OF CLINICAL ONCOLOGY' and the ASCO logo, indicating a professional medical conference setting.",
+        "Christine Birak": "A CBC News correspondent in Toronto, wearing a bright red blazer over a black top, with long dark wavy hair, a silver choker, and a pendant necklace, delivering a segment on cancer treatment in a studio with a blurred cityscape backdrop.",
+        "Laptop Screen with Man": "A laptop screen showing the Man in Dark Suit and Colorful Shirt during a video call, with the text 'The Breakdown' overlaid, indicating a segment branding.",
+        "Sound Editing Software Interface": "A close-up of a computer screen displaying green audio waveforms in a sound editing program, with a microphone and a photo of a baby on the desk, suggesting a radio or podcast production environment.",
+        "Street View from Car": "A point-of-view shot from inside a car driving through a small town with brick buildings, parked cars, and a clock tower, providing a real-world context before returning to the studio.",
+        "Title Card for 'The Breakdown'": "A black screen with bold white text 'The Breakdown' on a gray gradient background, serving as a segment introduction or transition graphic.",
+        "CBC Radio Studio": "A modern radio studio with red and white CBC branding, featuring a curved desk, multiple microphones, and a laptop displaying a video call, indicating a live broadcast or interview setting.",
+        "Man in Dark Suit and Colorful Shirt": "A man with short dark hair and glasses, wearing a dark suit over a bright blue floral shirt, seated at a desk in a studio with a laptop and documents, speaking passionately with expressive hand gestures. The wall behind him displays the text 'we don’t do average we do AWESOME.'",
+        "Vintage Radio": "A close-up of an old-fashioned radio with dials and a speaker grille, shown in a dimly lit setting, evoking nostalgia for early radio technology.",
+        "Archival Kitchen Scene": "Black-and-white footage of a woman in a 1950s-style kitchen, holding a baby and listening to a radio on the counter, illustrating historical domestic radio use.",
+        "Radio Studio Archival Footage": "Black-and-white footage of a man in a radio studio, speaking into a microphone, representing the professional side of radio broadcasting in the past.",
+        "Car Radio Close-Up": "A modern car radio display showing '98.1' in green digits, with a hand adjusting the tuning knob, highlighting current in-vehicle radio usage.",
+        "Welcome Sign (Port Colborne)": "A black sign reading 'Welcome to Port Colborne, Canada' with a Canadian flag, located near a marina with boats docked in calm water.",
+        "Grand Neoclassical Building": "A large, white, neoclassical building with a central dome, columns, and Canadian flags, likely a courthouse or municipal building, surrounded by green trees, a fountain, and a white tent.",
+        "Man in Radio Studio": "A man in a dark polo shirt, seated at a mixing console in a radio studio with a large microphone and speakers, adjusting controls and speaking into the mic, under the title 'The National.'",
+        "Bell Media Studios": "A historic building with ornate architecture, featuring a large 'Bell Media Studios' sign and a CTV logo, located in an urban setting with pedestrians and vehicles passing by.",
+        "Bell Storefront": "A modern storefront with a large blue 'Bell' sign, an 'OPEN' sign, and a glass facade, located on a city street with pedestrians walking by.",
+        "Archival Radio Host Footage": "Black-and-white footage of a man in a radio studio, speaking into a microphone, representing the professional side of radio broadcasting in the past, credited to Ron Bickell.",
+        "Studio 2 Sign": "A clear sign on a glass door reading 'Studio 2 myFM in the Morning' with a colorful dot pattern, indicating a specific radio studio location.",
+        "Radio Console Operator": "A man in a dark polo shirt, seated at a mixing console in a radio studio with a large microphone and speakers, adjusting controls and speaking into the mic, under the title 'The National.'",
+        "Man with Graying Hair and Glasses": "A man with graying hair and black-rimmed glasses, wearing a light-colored shirt, shown in a close-up listening intently, likely an interviewer or audience member.",
+        "Man in Blue Shirt": "A man with short brown hair, wearing a blue collared shirt, speaking directly to the camera in a close-up shot, likely providing commentary or testimony about the lightning strike incident.",
+        "Lightning Strike Footage": "Dramatic vertical footage of a lightning bolt striking an airplane mid-flight, shown in a purple-hued sky with a bright blue flash at the point of impact, credited to 'Ethan West'.",
+        "Ethan West": "A young man with short brown hair, wearing a blue collared shirt, speaking directly to the camera in an indoor setting, identified as the footage’s source from Vancouver.",
+        "Keith Mackey": "An older man with graying hair, wearing a striped shirt, speaking from a home environment with a chandelier visible in the background, identified as President of Mackey International Airlines."
+    }
+}

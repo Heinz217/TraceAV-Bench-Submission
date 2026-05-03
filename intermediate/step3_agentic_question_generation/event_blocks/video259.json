@@ -1,0 +1,939 @@
+{
+  "video_id": "video259",
+  "audio_id": "video259_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 6,
+      "summary": "Under bright, sunny skies at the IAAF World U20 Championships 10,000m Race Walk Men Final in Tampere 2018, a field of 34 athletes prepared for the 25-lap event on the red track. Announcers highlighted top contenders, including Japan's Sho SAKAZAKI, the world leader, and Tatsuhiko NAGAYAMA, ranked second globally. Athletes like Anderson CALLEJAS, Bálint SÁROSSI, Othman CHIBANI, Dongmin IM, and Abdulaziz DANIS walked through a tunnel of cheering children before the start. Officials, including chief judge Rolf Muller, monitored closely, with commentary noting the strict 'three reds and you go in there' rule and recalling the women's race had minimal disqualifications due to excellent technical discipline. Specific athletes like David HURTADO (ECU), David KUSTER (FRA), Declan TINGAY (AUS), José Gilberto MENJIVAR (ESA), Georgios TZATZIMAKIS (GRE), Álvaro LÓPEZ NUÑEZ (ESP), Aníbal ZAPETA (GUA), Nicolas FANELLI (ITA), Lukasz NIEDZIALEK (POL), Viktor KONONENKO (UKR), Yao ZHANG (CHN), Dominic Samson NDIGITI (KEN), Kyle SWAN (AUS), Mingyu KIM (KOR), Pavel OLKHOVIK (BLR), Abdulrahman MAHMOUD (EGY), Abdulsalam IMUK (TUR), Antonio LOJA (ECU), and Mikita KALIADA (BLR) were identified with their bib numbers and personal bests. The race commenced with a clear command, and the athletes quickly established a rhythmic pace, with the lead pack including SAKAZAKI, NAGAYAMA, KUSTER, Yohanis ALGAW (ETH), and José ORTIZ (GUA) maintaining a disciplined formation. Advertising banners for Ford, DEFA, Coca-Cola, and City of Tampere lined the track, while a SEIKO timing display tracked the elapsed time. The stadium seats were sparsely populated with spectators, and the atmosphere was one of calm focus and anticipation.",
+      "involved_entities": {
+        "Matheus CORREA": {
+          "description": "Brazilian athlete in a green and yellow uniform with bib number 173, wearing a white cap and sunglasses, standing attentively.",
+          "attribute": "visual"
+        },
+        "David HURTADO": {
+          "description": "Ecuadorian athlete in a blue and yellow uniform with bib number 222, wearing a blue cap and sunglasses, standing at the starting line with a focused expression. Commentary identifies him as David Hurtado of Ecuador, noting his disqualification in the final in Bidgosh two years ago, and his current status as the 19-year-old South American junior champion.",
+          "attribute": "audio-visual"
+        },
+        "Dongmin IM": {
+          "description": "South Korean athlete in a white and red uniform with bib number 466, wearing a white cap and sunglasses, standing calmly.",
+          "attribute": "visual"
+        },
+        "Ricardo ORSONI": {
+          "description": "Italian athlete in a white and green uniform with bib number 410, standing near the starting line with a serious expression.",
+          "attribute": "visual"
+        },
+        "José Gilberto MENJIVAR": {
+          "description": "Salvadoran athlete in a blue and white uniform with bib number 228, listed on the starting lineup graphic.",
+          "attribute": "visual"
+        },
+        "Jan MOREU": {
+          "description": "Puerto Rican athlete in a red and white uniform with bib number 536, listed on the starting lineup graphic.",
+          "attribute": "visual"
+        },
+        "Anderson CALLEJAS": {
+          "description": "Colombian athlete in a white and red uniform with bib number 201, standing at the starting line with a focused demeanor.",
+          "attribute": "visual"
+        },
+        "Abdulaziz DANIS": {
+          "description": "Turkish athlete in a white and red uniform with bib number 608, standing at the starting line with a composed posture.",
+          "attribute": "visual"
+        },
+        "Georgios TZATZIMAKIS": {
+          "description": "Greek athlete in a blue and white uniform with bib number 344, listed on the starting lineup graphic.",
+          "attribute": "visual"
+        },
+        "José Manuel PÉREZ": {
+          "description": "Spanish athlete in a red and yellow uniform with bib number 243, listed on the starting lineup graphic.",
+          "attribute": "visual"
+        },
+        "Bálint SÁROSSI": {
+          "description": "Hungarian athlete in a green and white uniform with bib number 359, participating in the high-five tunnel with children.",
+          "attribute": "visual"
+        },
+        "Yohanis ALGAW": {
+          "description": "Ethiopian athlete in a green and white uniform with bib number 254, walking with a determined stride, visible in the front group.",
+          "attribute": "visual"
+        },
+        "Sho SAKAZAKI": {
+          "description": "Japanese athlete in a black and red uniform with bib number 448, wearing a white cap and sunglasses, actively walking in the pack with a focused expression, consistently positioned near the front.",
+          "attribute": "visual"
+        },
+        "Zhaozhao WANG": {
+          "description": "Chinese athlete in a red and yellow uniform with bib number 197, listed on the leaderboard.",
+          "attribute": "visual"
+        },
+        "David KUSTER": {
+          "description": "French athlete in a white and blue uniform with bib number 284, wearing a white cap and reflective sunglasses, walking with a steady, focused pace in the lead pack.",
+          "attribute": "visual"
+        },
+        "Andriy SYNDYUK": {
+          "description": "Ukrainian athlete in a blue and yellow uniform with bib number 631, listed on the starting lineup graphic.",
+          "attribute": "visual"
+        },
+        "Othman CHIBANI": {
+          "description": "Algerian athlete in a red and white uniform with bib number 103, standing at the starting line with a focused look.",
+          "attribute": "visual"
+        },
+        "José ORTIZ": {
+          "description": "Guatemalan athlete in a blue and white uniform with bib number 345, walking with a serious expression, positioned near the front of the pack.",
+          "attribute": "visual"
+        },
+        "Abdulsalam IMUK": {
+          "description": "Turkish athlete in a white and red uniform with bib number 609, standing with a focused expression.",
+          "attribute": "visual"
+        },
+        "Lukasz NIEDZIALEK": {
+          "description": "Polish athlete in a white and red uniform with bib number 520, wearing a red cap, standing attentively.",
+          "attribute": "visual"
+        },
+        "Mingyu KIM": {
+          "description": "South Korean athlete in a white and red uniform with bib number 467, wearing sunglasses, standing calmly.",
+          "attribute": "visual"
+        },
+        "Álvaro LÓPEZ NUÑEZ": {
+          "description": "Spanish athlete in a red and yellow uniform with bib number 237, wearing a white cap, standing calmly at the starting line.",
+          "attribute": "visual"
+        },
+        "Viktor KONONENKO": {
+          "description": "Ukrainian athlete in a blue and yellow uniform with bib number 628, wearing a yellow cap, standing with hands on hips.",
+          "attribute": "visual"
+        },
+        "Stadium Spectators": {
+          "description": "Audience members seated in red and white stadium seats, sparsely distributed, observing the race.",
+          "attribute": "visual"
+        },
+        "Yao ZHANG": {
+          "description": "Chinese athlete in a red and yellow uniform with bib number 198, wearing a white cap, standing with a composed posture, introduced by the announcer as the winner of the World Race Walking Team Championships in Taisang with a personal best, and the world leader on the road this year.",
+          "attribute": "audio-visual"
+        },
+        "Abdulrahman MAHMOUD": {
+          "description": "Egyptian athlete in a white and red uniform with bib number 224, wearing a red cap, standing with hands on hips.",
+          "attribute": "visual"
+        },
+        "Starting Line Equipment": {
+          "description": "Yellow and black timing devices and cones marking the start of the 10,000m race walk event, with a digital display showing elapsed time. The commentator specifically mentions 'yellow cones' in the context of the pit lane coming into view.",
+          "attribute": "audio-visual"
+        },
+        "Declan TINGAY": {
+          "description": "Australian athlete in a blue and white uniform with bib number 130, wearing green-tinted sunglasses, standing with a focused expression, noted by the announcer for starting walking at nine months old and never stopping, pursuing a career in race walking.",
+          "attribute": "audio-visual"
+        },
+        "Nicolas FANELLI": {
+          "description": "Italian athlete in a white and green uniform with bib number 395, wearing a red cap, standing with a serious demeanor.",
+          "attribute": "visual"
+        },
+        "Kyle SWAN": {
+          "description": "Australian athlete in a blue and white uniform with bib number 129, walking with hands on hips, maintaining pace in the middle of the pack.",
+          "attribute": "visual"
+        },
+        "Aníbal ZAPETA": {
+          "description": "Guatemalan athlete in a blue and white uniform with bib number 346, standing with hands on hips, looking forward.",
+          "attribute": "visual"
+        },
+        "Trackside Camera Operator": {
+          "description": "A cameraman in dark clothing, positioned near the track, actively filming the athletes as they pass.",
+          "attribute": "visual"
+        },
+        "Tatsuhiko NAGAYAMA": {
+          "description": "Japanese athlete in a red and white uniform with bib number 446, wearing red-tinted sunglasses, walking steadily in the front group with a composed, rhythmic stride.",
+          "attribute": "visual"
+        },
+        "Antonio LOJA": {
+          "description": "Ecuadorian athlete in a yellow and blue uniform with bib number 223, wearing a red cap, standing with hands on hips.",
+          "attribute": "visual"
+        },
+        "Mikita KALIADA": {
+          "description": "Belarusian athlete in a red and white uniform with bib number 158, wearing a red cap and reflective sunglasses, standing with a focused look, mentioned by the announcer as having placed eighth in Taisang and won in Minsk and Gomel in 2018.",
+          "attribute": "audio-visual"
+        },
+        "Race Officials": {
+          "description": "Officials in white shirts and black pants, seen standing near the track, monitoring the athletes and managing the event. The commentator notes that 'the judges' had a 'very quiet morning' due to the athletes' excellent technique and 'did a great job'.",
+          "attribute": "audio-visual"
+        },
+        "Pavel OLKHOVIK": {
+          "description": "Belarusian athlete in a red and white uniform with bib number 159, standing with a serious look.",
+          "attribute": "visual"
+        },
+        "Dominic Samson NDIGITI": {
+          "description": "Kenyan athlete in a green and black uniform with bib number 461, walking with a determined stride, positioned near the front.",
+          "attribute": "visual"
+        },
+        "Advertising Banners": {
+          "description": "Large banners along the track displaying logos and text for 'Ford', 'DEFA', 'Coca-Cola', 'City of Tampere', and 'IAAF Tampere 2019', visible as the athletes pass by.",
+          "attribute": "visual"
+        },
+        "Scoreboard Display": {
+          "description": "A yellow electronic scoreboard showing 'Discus M Qual B' and athlete names such as 'BERNARDSON', 'BENJAMIN', 'BEBERIS', 'CHRISTIN', positioned on the field near the track.",
+          "attribute": "visual"
+        },
+        "400m Marker Sign": {
+          "description": "A digital sign on the track displaying '400m' and the elapsed time, indicating the distance covered by the athletes as they progress.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a wide-angle view of the sunny IAAF World U20 Championships 10,000m Race Walk Men Final in Tampere 2018, showcasing a stadium with red and white seating, a running track, and a green field, while an announcer confirms the event as the \"men's 10,000 meters race walk.\" On-screen graphics display the event title and a leaderboard with top records, including Viktor BURAYEV, Daisuke MATSUNAGA, and Sho SAKAZAKI. Upbeat background music begins as the announcer notes \"Japanese targeting gold\" and that \"34\" athletes will compete in \"25 laps around the Tampere stadium.\" The camera transitions to a close-up of athletes, including Anderson CALLEJAS (COL), Bálint SÁROSSI (HUN), Sho SAKAZAKI (JPN), Othman CHIBANI (ALG), Dongmin IM (KOR), and Abdulaziz DANIS (TUR), walking through a tunnel of clapping and high-fiving young children in blue uniforms and caps. The announcer specifically highlights \"a world leader, Sho Sakazaki of Japan,\" just before a whistle blows and crowd cheering erupts. The segment concludes with a full leaderboard graphic listing all 16 competitors, their bib numbers, names, and countries, displayed over the stadium backdrop, as the announcer describes them as a \"huge group of national champions.\"",
+        "The video opens with a graphic overlay displaying the starting lineup for the IAAF World U20 Championships 10,000m Race Walk Men Final in Tampere 2018. A commentator introduces the event, noting the presence of \"many in the world's top 10\" and stating, \"Here's the full list in the men's 10,000-meter race walk final.\" The graphic cycles through three groups of athletes, listing their bib numbers, names, and nationalities, including Othman CHIBANI (ALG), Dongmin IM (KOR), Abdulaziz DANIS (TUR), Jan MOREU (PUR), Andriy SYNDYUK (UKR), José Manuel PÉREZ (ESP), José Gilberto MENJIVAR (ESA), David KUSTER (FRA), Georgios TZATZIMAKIS (GRE), Álvaro LÓPEZ NUÑEZ (ESP), Aníbal ZAPETA (GUA), Declan TINGAY (AUS), Nicolas FANELLI (ITA), Lukasz NIEDZIALEK (POL), Tatsuhiko NAGAYAMA (JPN), Viktor KONONENKO (UKR), Yao ZHANG (CHN), Dominic Samson NDIGITI (KEN), Kyle SWAN (AUS), Mingyu KIM (KOR), Pavel OLKHOVIK (BLR), Abdulrahman MAHMOUD (EGY), Abdulsalam IMUK (TUR), Antonio LOJA (ECU), and Mikita KALIADA (BLR). The commentator specifically highlights Tatsuhiko Nagayama of Japan, mentioning he is \"second in the world this year,\" and later refers to Mikita Kaliada as \"the dangerous Belarusian\" who is \"at the bottom of the list.\" The scene then transitions to live footage of the athletes gathering on the track, preparing for the race, seen stretching, adjusting their gear, and interacting with officials and coaches. The camera pans across the track, showing the athletes lined up in their respective lanes at the clearly marked starting line. The stadium is partially filled with spectators, whose indistinct crowd noise and occasional shouts are audible, contributing to the calm and focused atmosphere under a clear, sunny sky. The red synthetic track and green infield are visible as the competitors, totaling \"34 in all\" according to the commentator, await the official start of the race with palpable anticipation.",
+        "The minute opens with a wide-angle view of a sunlit athletics stadium, showcasing the red running track and green infield, where athletes and officials gather near the starting line for a 10,000m race walk event. Commentary notes the competitors will be \"on the start line\" and references the \"pit lane\" being \"totally unused in the women's race.\" The camera pans across the track, capturing athletes lining up in their respective lanes, many wearing sunglasses and caps to shield from the bright sun. Officials in white shirts and black pants manage the starting area, while a trackside camera operator records the scene. The commentary explains the rules, stating \"three reds and you go in there,\" and recalling that \"no athletes in the women's race got beyond two reds.\" The camera then zooms in on the athletes, revealing their national uniforms and bib numbers. Close-ups highlight individual competitors such as David HURTADO (ECU, bib 222), Sho SAKAZAKI (JPN, bib 448), David KUSTER (FRA, bib 284), Anderson CALLEJAS (COL, bib 201), Ricardo ORSONI (ITA, bib 410), Matheus CORREA (BRA, bib 173), Othman CHIBANI (ALG, bib 103), Dongmin IM (KOR, bib 466), Abdulaziz DANIS (TUR, bib 608), Yohanis ALGAW (ETH, bib 254), and José ORTIZ (GUA, bib 345), with on-screen graphics displaying their personal bests and season bests. The commentator highlights that \"the five judges [are] watching on.\" David Hurtado of Ecuador is specifically mentioned, with commentary noting he \"was disqualified in the final in Bidgosh two years ago\" and is the \"19-year-old South American junior champion.\" Sho Sakazaki of Japan is also identified, having \"finished fifth at the World Race Walking Team Championships in this race in Taisang\" and being the \"world leader this year.\" The athletes appear focused and composed, some adjusting their gear or shielding their eyes from the sun. The stadium seats are partially filled with spectators, and branding from sponsors like SEIKO, KOTI PIZZA, and EUROVISION is visible around the track. The atmosphere is calm and anticipatory as the competitors prepare for the race to begin, with the commentary concluding by mentioning \"Draw 17 for France.\"",
+        "The 10km race walk event at the Tampere 2018 World U20 Championships is set to begin, with male race walkers lining up on the red track under bright sunlight, casting sharp shadows. The camera smoothly pans across the athletes, showcasing their national uniforms, bib numbers, and on-screen personal and season best times, while a clear announcer's voice provides commentary. Frenchman David KUSTER (bib 284), a national champion who placed seventh in Taisang this year, is introduced first. The camera then highlights Australia's Declan TINGAY (bib 130), noted by the announcer for starting walking at nine months old and never stopping, pursuing a career in race walking. As the pan continues past focused athletes like Spain's Álvaro LÓPEZ NUÑEZ and Guatemala's Aníbal ZAPETA, Japan's Tatsuhiko NAGAYAMA (bib 446) is identified as second in the world in 2018. China's Yao ZHANG (bib 198), seen in a white cap, is introduced as the winner of the World Race Walking Team Championships in Taisang with a personal best, and the world leader on the road this year. The camera moves past Kenya's Dominic Samson NDIGITI and Australia's Kyle SWAN before the announcer mentions Mikita KALIADA (bib 158) from Belarus, who placed eighth in Taisang and has already won in Minsk and Gomel in 2018. Throughout the scene, spectators partially fill the red and white stadium seats, 'TAMPERE 2018' banners are visible, and officials and a trackside cameraman are present, contributing to an atmosphere of anticipation and calm focus, underscored by the announcer's voice over the general stadium ambiance.",
+        "The video opens with a wide-angle view of the 10,000m race walk starting line, where athletes in colorful national uniforms are lined up under bright sunlight. A clear voice commands, \"On your marks!\" followed by a sharp starting signal. The athletes, including Sho SAKAZAKI (Japan, bib 448, black and red), Tatsuhiko NAGAYAMA (Japan, bib 446, red and white), Dominic Samson NDIGITI (Kenya, bib 461, green and black), Kyle SWAN (Australia, bib 129, blue and white), and José ORTIZ (Guatemala, bib 345, blue and white), begin walking briskly. A commentator notes, \"Off they go then. 25 laps to tackle,\" explaining that there are \"17 in each group on either side of the track at the moment,\" and they will \"come together down that back straight as the cones merge them together.\" The commentator elaborates on the \"five judges watching on very carefully,\" led by \"Rolf Muller, the chief judge, who carries the ultimate power to disqualify an athlete.\" As the athletes maintain their steady pace, timing displays show elapsed seconds (e.g., 2.0, 5.8, 13.5, 23.0, 30.8, 36.7, 42.2, 48.1, 50.9). The camera pans past advertising banners for 'Ford', 'DEFA', 'Coca-Cola', and 'City of Tampere', and a scoreboard displaying 'Discus M Qual B' and names like 'BERNARDSON'. Trackside, officials in white shirts monitor the event, while a cameraman films. The stadium seats are mostly empty, with scattered spectators. Yellow cones mark the lanes, and a large '10k RACE WALK' timing device is visible. The camera zooms in on the athletes' focused expressions and rhythmic strides. The commentator questions whether \"we see the pit lane employed, will we see more red cards?\" and praises the women's performance, stating they \"were excellent this morning, they're obviously technically superb as they didn't attract too much attention from the judges.\" The clear skies and strong daylight emphasize the competitive atmosphere.",
+        "The 10,000m race walk at the IAAF Tampere 2019 competition unfolds under bright sunlight on a red track, showcasing a tightly packed group of athletes maintaining a focused, rhythmic walking pace. A female commentator praises the competitors, noting their 'really high level of technical discipline and maturity,' highlighting that they are 'young, teenage athletes' who are 'finding their feet in this sport' and are 'so good on their technique.' Prominent athletes like Sho SAKAZAKI (Japan, bib 448), Tatsuhiko NAGAYAMA (Japan, bib 446), and David KUSTER (France, bib 284) are consistently visible in the lead pack, alongside Yohanis ALGAW (Ethiopia, bib 254) and José ORTIZ (Guatemala, bib 345), all maintaining a disciplined formation with minimal overtaking as they approach the 400m mark. The commentator explains the pit lane rules, mentioning the requirement of 'three red cards' and that the pit lane, marked by 'yellow cones,' is coming into view 'to the left of the screen.' Trackside officials in white shirts and black pants monitor the race, with the commentator remarking that 'the judges' had a 'very quiet morning' and 'did a great job' due to the athletes' excellent performance. A cameraman in dark clothing films the action, while advertising banners for 'Ford', 'DEFA', 'Coca-Cola', 'City of Tampere', and 'IAAF Tampere 2019' line the track. A large yellow 'SEIKO' timing display shows the elapsed time progressing from 53.8 seconds to 1:49.5. The stadium seats are mostly empty, with sparse spectators in the red and white stands, and a scoreboard on the green infield displays 'Discus M Qual B' and athlete names. The atmosphere is calm and professional, reinforced by the commentator's positive assessment, with indistinct stadium announcements audible in the background."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 7,
+      "end_minute": 7,
+      "summary": "The IAAF World U20 Championships 2018 Men's Discus Throw Qualification event is presented with a wide-angle view of the sparsely populated Tampere Stadium, national flags visible above the stands, accompanied by upbeat, muffled background music. On-screen graphics detail the event, records, and qualification criteria: automatic at 60.00m and provisional for the top 12, alongside a leaderboard for Qualification Group B. A male commentator announces the introduction of the second group, while a female voice in Finnish clarifies that Qualification Group B is the focus and the limit is 60 meters. The male commentator reiterates that the top 12 across both groups advance to the final and highlights that Group B includes the reigning World U20 Champion. The camera shifts to a close-up of Yaouheni Bahutski (BLR, bib 1119), standing focused under a beige umbrella, wearing a red and white uniform, red cap, and a white towel on his head and shoulders, with his personal and season bests (64.76m) displayed. The male commentator initially mentions \"the world leader... Mohammed Moaaz on the top\" before identifying the athlete on screen as \"Bahutski of Belarus.\"",
+      "involved_entities": {
+        "Discus Throw Equipment": {
+          "description": "The discus throwing circle, measuring devices, and surrounding safety barriers set up on the field, with officials and athletes gathered nearby.",
+          "attribute": "visual"
+        },
+        "Umbrella Shelter": {
+          "description": "Large beige umbrellas providing shade for athletes and officials near the discus throwing area, with Yaouheni Bahutski standing under one.",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Graphics": {
+          "description": "Digital overlays displaying event information, including 'IAAF WORLD U20 CHAMPIONSHIPS', 'DISCUS THROW MEN', 'QUALIFICATION GROUP B', world records, qualification criteria (60.00m auto, top 12 provisional), and athlete leaderboards with names, bib numbers, national flags, and positions. These graphics are discussed by a male commentator and a female commentator speaking in Finnish.",
+          "attribute": "audio-visual"
+        },
+        "Yaouheni BAHUTSKI": {
+          "description": "Belarusian athlete in a red and white uniform with bib number 1119, wearing a red cap and a white towel draped over his head and shoulders, standing under a beige umbrella, appearing focused and adjusting his posture. He is identified by the male commentator as 'Bahutski of Belarus'.",
+          "attribute": "audio-visual"
+        },
+        "Tampere Stadium": {
+          "description": "Large outdoor athletics stadium with red and white seating, a green field, a red running track, and national flags lining the upper stands, hosting the IAAF World U20 Championships 2018. Upbeat, slightly muffled background music plays throughout the segment.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a wide-angle view of the Tampere Stadium during the IAAF World U20 Championships 2018 Men's Discus Throw Qualification event. The stadium's red and white seats are sparsely populated, with national flags fluttering above the stands, all set to the backdrop of upbeat, slightly muffled background music. On-screen graphics identify the event, display world and championship records, and detail the qualification criteria: automatic at 60.00m and provisional for the top 12 positions. A leaderboard for Qualification Group B, listing 17 athletes, is also shown. A male commentator begins speaking over the music, explaining they will \"introduce the discus second group.\" A female voice, speaking in Finnish, then clarifies that \"Qualification Group B is in question. The qualification limit is 60 meters,\" a point echoed by the male commentator who adds that \"the best 12 performances at least across the two groups make the final\" and that \"Group B features the reigning World Champion at under 20 level.\" The camera then cuts to a close-up of Yaouheni Bahutski (BLR, bib 1119), standing focused under a large beige umbrella, wearing a red and white uniform with a red cap and a white towel draped over his head and shoulders. His personal and season bests (64.76m) are displayed on screen. The male commentator, while Bahutski is visible, initially refers to \"the world leader... Mohammed Moaaz on the top,\" before finally identifying the athlete on screen as \"Bahutski of Belarus.\""
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 8,
+      "end_minute": 19,
+      "summary": "Under bright, sunny conditions at the IAAF World U20 Championships 2018 in Tampere Stadium, the men's 10,000m race walk unfolds with athletes maintaining a tight, rhythmic pace on the red track, their sharp shadows stretching across the infield. Commentators provide detailed analysis, introducing Mohamed Ibrahim MOAAZ as a top contender and discussing the stringent rules of race walking, emphasizing the need for continuous ground contact and straight knees, with officials monitoring technique and issuing warnings via yellow paddles and red cards, leading to potential disqualification. Sho SAKAZAKI (Japan) and Tatsuhiko NAGAYAMA (Japan) are noted as leading the pack early on, with Dominic Samson NDIGITI (Kenya) and Zhaozhao WANG (China) also prominent. Athletes, including Kyle SWAN (Australia) and David HURTADO (Ecuador), navigate the course, passing advertising banners for SEIKO, Coca-Cola, and TDK, while volunteers in blue shirts hand out water bottles and sponges without breaking stride, a crucial aid in the 'searing heat' and 'heat trap' stadium environment. The race progresses through various markers, with the scoreboard displaying times and bib numbers, including those flagged with red indicators on a Mondo timing board. Despite the intense competition and the physical demands, described as a 'brutally tough event' and a 'remarkable test of human strength and character,' the athletes maintain disciplined, focused strides, with officials diligently observing and documenting their performance amidst sparse spectator presence and occasional Finnish commentary.",
+      "involved_entities": {
+        "Advertising Banners": {
+          "description": "Large banners along the track displaying logos and text for 'SEIKO', 'Coca-Cola', 'TDK', 'Visit Tampere', and 'IAAF Tampere 2018', visible as the athletes pass by.",
+          "attribute": "visual"
+        },
+        "Sho SAKAZAKI": {
+          "description": "Japanese athlete in a black and red uniform with bib number 448, wearing red-tinted sunglasses, leading the pack with a focused, steady walk, consistently positioned at the front, and accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "Zhaozhao WANG": {
+          "description": "Chinese athlete in a red and yellow uniform with bib number 197, walking with a determined stride in the front group, accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "David KUSTER": {
+          "description": "French athlete in a white and blue uniform with bib number 284, wearing a white cap and reflective sunglasses, walking with a steady, focused pace in the lead pack, and accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "Trackside Camera Operator": {
+          "description": "A cameraman in dark clothing, positioned near the track, actively filming the athletes as they pass.",
+          "attribute": "visual"
+        },
+        "Yaouheni BAHUTSKI": {
+          "description": "Belarusian athlete in a red and white uniform with bib number 1119, wearing a red cap and a white towel draped over his head and shoulders, standing under a beige umbrella, appearing focused and adjusting his posture.",
+          "attribute": "visual"
+        },
+        "400m Marker Sign": {
+          "description": "A digital sign on the track displaying '1200m' and the elapsed time, indicating the distance covered by the athletes as they progress.",
+          "attribute": "visual"
+        },
+        "Stadium Spectators": {
+          "description": "Audience members seated in red and white stadium seats, sparsely distributed, observing the race.",
+          "attribute": "visual"
+        },
+        "Race Officials": {
+          "description": "Officials in white shirts and black pants, seen standing near the track, monitoring the athletes and managing the event; one is writing notes on a clipboard, another is walking and gesturing along the track.",
+          "attribute": "visual"
+        },
+        "Mohamed Ibrahim MOAAZ": {
+          "description": "Qatari athlete with bib number 1260, wearing a dark jacket and a white towel over his head, standing under an umbrella, with on-screen graphics showing his personal best (PB) and season best (SB) of 66.47 meters, likely from a discus throw event. Commentators describe him as 'fourth in the world this year,' 'the man they might have to beat,' 'the winner in Bydgoszcz,' and the 'defending champion,' a 'superstar' in Qatar training out of Aspire Academy, and 'on top of the world this year as well' for his 66.47m throw.",
+          "attribute": "audio-visual"
+        },
+        "Starting Line Equipment": {
+          "description": "Yellow and black timing devices and cones marking the start of the 10,000m race walk event, with a digital display showing elapsed time.",
+          "attribute": "visual"
+        },
+        "Tampere Stadium": {
+          "description": "Large outdoor athletics stadium with red and white seating, a green field, a red running track, and national flags lining the upper stands, hosting the IAAF World U20 Championships 2018, with a general stadium ambiance and occasional announcements from a Finnish announcer.",
+          "attribute": "audio-visual"
+        },
+        "José ORTIZ": {
+          "description": "Guatemalan athlete in a blue and white uniform with bib number 345, walking with a serious expression, positioned near the front of the pack.",
+          "attribute": "visual"
+        },
+        "Tatsuhiko NAGAYAMA": {
+          "description": "Japanese athlete in a red and white uniform with bib number 446, wearing red-tinted sunglasses, walking steadily in the front group with a composed, rhythmic stride, and accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "Scoreboard Display": {
+          "description": "A yellow electronic scoreboard showing '3600m' and elapsed time, updating with athlete positions and times, including Sho SAKAZAKI in first place.",
+          "attribute": "visual"
+        },
+        "Dominic Samson NDIGITI": {
+          "description": "Kenyan athlete in a green and black uniform with bib number 461, walking with a determined stride, positioned near the front, maintaining a strong pace, accepting a water bottle from a volunteer, and noted by the commentator for having 'shunned either' sunglasses or hats.",
+          "attribute": "audio-visual"
+        },
+        "Volunteer Hydration Staff": {
+          "description": "Individuals in blue shirts and gloves, positioned along the track, handing out water bottles to athletes as they pass.",
+          "attribute": "visual"
+        },
+        "Abdulrahman MAHMOUD": {
+          "description": "Egyptian athlete in a white and red uniform with bib number 224, wearing a red cap, standing with hands on hips, and whose name is called out by the commentator.",
+          "attribute": "audio-visual"
+        },
+        "Yohanis ALGAW": {
+          "description": "Ethiopian athlete in a green and white uniform with bib number 254, walking with a determined stride, visible in the front group.",
+          "attribute": "visual"
+        },
+        "Kyle SWAN": {
+          "description": "Australian athlete in a blue and white uniform with bib number 129, walking with hands on hips, maintaining pace in the middle of the pack, referred to by the commentator as 'Carl Swan' who 'finds a little bit of move out on the outside' on the home straight.",
+          "attribute": "audio-visual"
+        },
+        "Declan TINGAY": {
+          "description": "Australian athlete in a blue and white uniform with bib number 130, wearing green-tinted sunglasses, standing with a focused expression, now walking in the pack.",
+          "attribute": "visual"
+        },
+        "Yao ZHANG": {
+          "description": "Chinese athlete in a red and yellow uniform with bib number 198, wearing a white cap, standing with a composed posture, now walking in the front pack.",
+          "attribute": "visual"
+        },
+        "Umbrella Shelter": {
+          "description": "Large beige umbrellas providing shade for athletes and officials near the discus throwing area, with Yaouheni Bahutski standing under one.",
+          "attribute": "visual"
+        },
+        "Discus Throw Equipment": {
+          "description": "The discus throwing circle, measuring devices, and surrounding safety barriers set up on the field, with officials and athletes gathered nearby.",
+          "attribute": "visual"
+        },
+        "Mikita KALIADA": {
+          "description": "Belarusian athlete in a red and white uniform with bib number 158, wearing a red cap and reflective sunglasses, standing with a focused look.",
+          "attribute": "visual"
+        },
+        "Abdulsalam IMUK": {
+          "description": "Turkish athlete in a white and red uniform with bib number 609, standing with a focused expression.",
+          "attribute": "visual"
+        },
+        "Trackside Equipment": {
+          "description": "Yellow and black timing devices and cones marking the start of the 10,000m race walk event, with a digital display showing elapsed time.",
+          "attribute": "visual"
+        },
+        "Yellow Timing Marker": {
+          "description": "A yellow digital sign on the track displaying '15' and the elapsed time, indicating the distance covered by the athletes as they progress.",
+          "attribute": "visual"
+        },
+        "Bálint SÁROSSI": {
+          "description": "Hungarian athlete in a green and white uniform with bib number 359, participating in the high-five tunnel with children.",
+          "attribute": "visual"
+        },
+        "Aníbal ZAPETA": {
+          "description": "Guatemalan athlete in a blue and white uniform with bib number 346, standing with hands on hips, looking forward.",
+          "attribute": "visual"
+        },
+        "Othman CHIBANI": {
+          "description": "Algerian athlete in a red and white uniform with bib number 103, standing at the starting line with a focused look.",
+          "attribute": "visual"
+        },
+        "Matheus CORREA": {
+          "description": "Brazilian athlete in a green and yellow uniform with bib number 173, wearing a white cap and sunglasses, walking attentively in the middle of the pack.",
+          "attribute": "visual"
+        },
+        "David HURTADO": {
+          "description": "Ecuadorian athlete in a blue and yellow uniform with bib number 222, wearing a blue cap and sunglasses, walking with a focused expression in the front pack, identified by the commentator as 'The Ecuadorian Hurtado' and the 'South American Junior Champion'.",
+          "attribute": "audio-visual"
+        },
+        "Mondo Timing Board": {
+          "description": "A white scoreboard with black grid lines labeled 'EVENTO:' and 'DORSAL:', showing bib numbers 359, 346, 609, 103, and 395 marked with red circles, indicating penalties or disqualifications.",
+          "attribute": "visual"
+        },
+        "4400m Distance Marker": {
+          "description": "A large digital sign on the track displaying '4400m' and the elapsed time, indicating the current distance covered by the athletes as they progress through the race.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of Belarusian athlete Yaouheni BAHUTSKI, appearing focused under a beige umbrella with a white towel draped over his head and shoulders, wearing his red cap and national team uniform. Simultaneously, a male commentator introduces Mohamed Ibrahim MOAAZ of Qatar, highlighting him as \"fourth in the world this year,\" \"the man they might have to beat,\" \"the winner in Bydgoszcz,\" and the \"defending champion\" with a 66.47m throw, noting he's \"on top of the world this year as well.\" The visual then transitions to a wide-angle view of the 10,000m race walk event at Tampere Stadium, where a large group of athletes, including Sho SAKAZAKI (Japan), David KUSTER (France), José ORTIZ (Guatemala), and Zhaozhao WANG (China), are seen walking in a tightly packed formation on the red track, with the on-screen timer progressing from 3:06.2 to 3:46.8. A female commentator adds that the \"Qatari athlete\" (referring to Moaaz) is a \"superstar\" training at Aspire Academy, before shifting focus to the \"race walkers coming around again and just really getting into the flow of this race.\" The camera pans across the track, capturing the athletes' synchronized strides and the surrounding environment, including red and white stadium seating, advertising banners for 'SEIKO', 'DEFA', 'Coca-Cola', and 'IAAF World U20 Championships Tampere 2018' signage. The female commentator explains that \"there's two simple rules all these judges are looking at\" that the athletes must maintain, as a female official in a white hat and shirt is seen writing notes on a clipboard, an action the commentator directly points out. Another official in similar attire walks along the track, gesturing and monitoring the event. The commentator then identifies \"two more judges\" and believes \"that's Rolf Muller who's just gone out of screen, who is the chief judge here.\" The bright, sunny atmosphere casts clear shadows, emphasizing the outdoor setting and the disciplined, methodical nature of race walking, with officials and camera operators documenting the event from the sidelines.",
+        "The 10,000m race walk at the IAAF World U20 Championships 2018 in Tampere unfolds under bright sunlight, casting sharp shadows on the red track. A female commentator explains the stringent rules of race walking, emphasizing that athletes \"must maintain contact with the ground at all times\" and that their \"knee must be straight from the moment of first contact with the ground until it passes under the body.\" She highlights the \"incredibly difficult\" nature of the sport, noting that \"all these athletes will be acutely aware of their technique the whole time.\" Visually, Sho SAKAZAKI (Japan, bib 448) leads the tightly packed group, wearing a black and red uniform and red-tinted sunglasses, maintaining a steady pace. He is closely followed by Tatsuhiko NAGAYAMA (Japan, bib 446) in red and white, and Dominic Samson NDIGITI (Kenya, bib 461) in green and black, all displaying intense focus and rhythmic strides. Other competitors like Zhaozhao WANG (China, bib 197), José ORTIZ (Guatemala, bib 345), and David KUSTER (France, bib 284) are also in the lead pack, walking with purposeful determination. As they navigate the curved track, they pass advertising banners for SEIKO, Coca-Cola, TDK, and 'Visit Tampere'. Trackside officials in white shirts and black pants are seen monitoring the athletes, a crucial role as the commentator explains they are \"looking for that\" perfect technique and that \"if you get three red flags, you're into the pit,\" with a judge even seen giving a \"yellow\" (card). The scoreboard displays elapsed times and positions, confirming Sho SAKAZAKI in first place, while a cameraman actively films the focused endurance of the race.",
+        "The segment opens with a dynamic view of the men's 10,000m race walk at the IAAF World U20 Championships 2018 in Tampere, where athletes progress along the red track under bright sunlight. Commentators explain that a \"yellow paddle\" is a warning from a judge regarding a walker's technique, emphasizing it's a \"careful\" signal rather than a disqualification, and that athletes can receive two such warnings from the five judges positioned around the track. Visually, Sho SAKAZAKI (Japan, bib 448) leads the pack in a black and red uniform, closely followed by Dominic Samson NDIGITI (Kenya, bib 461) in green and black, David KUSTER (France, bib 284) in white and blue, and Tatsuhiko NAGAYAMA (Japan, bib 446) in red and white, all maintaining a steady, rhythmic walk. The camera pans across the curved track, revealing sparsely populated red and white stadium seating, advertising banners for SEIKO, Coca-Cola, TDK, and Visit Tampere, and race officials monitoring the event, one with a clipboard. A trackside camera operator films the action. The commentators highlight the \"extremely warm\" conditions on the track, describing it as a \"brutally tough event\" for these athletes competing under \"searing heat.\" At a hydration station, volunteers in blue shirts and gloves hand out water bottles, which SAKAZAKI and NDIGITI accept without breaking stride, underscoring the endurance challenge. The on-screen timer advances from 4:59.8 to 5:49.5, with a 1200m marker visible, as the athletes' long shadows stretch across the green infield and red track, emphasizing the midday sun and the disciplined atmosphere of the early race stages.",
+        "The minute opens with a high-angle view of the 10,000m race walk at the IAAF World U20 Championships 2018 in Tampere, showcasing a large pack of athletes progressing steadily along the red running track. A commentator immediately provides context, noting the athletes completed the first 1000 meters in 4 minutes and 3.3 seconds, led by a \"Japanese 1-2.\" Visually, Sho SAKAZAKI (Japan, bib 448, in a black and red uniform with red-tinted sunglasses) is prominently leading, followed closely by Tatsuhiko NAGAYAMA (Japan, bib 446, in a red and white uniform with red-tinted sunglasses), both explicitly named by the commentator as the leading duo. Dominic Samson NDIGITI (Kenya, bib 461, in a green and black uniform) is also visible near the front, with the commentator mentioning he \"has moved up.\" David KUSTER (France, bib 284, in a white and blue uniform with a white cap and reflective sunglasses) maintains a steady pace within the lead group. The camera smoothly pans, following the athletes as they pass prominent advertising banners for SEIKO, Coca-Cola, TDK, and Visit Tampere. As the on-screen timer advances from 5:49.5 to 6:53.8, passing the 1200m and 1600m markers, volunteers in blue shirts hand out water bottles, which SAKAZAKI, NDIGITI, and KUSTER accept without breaking stride. Trackside officials in white shirts monitor the event, while a cameraman films the action. The stadium's red and white seating is sparsely populated, with a few spectators visible under bright sunlight that casts sharp shadows, emphasizing the athletes' focused movements and vibrant uniforms. The atmosphere remains competitive as the pack approaches the 1600m mark, with an on-screen graphic indicating the race is 1:41.94 into the first of 25 laps.",
+        "The IAAF World U20 Championships 2018 10,000m race walk unfolds at Tampere Stadium, with athletes progressing along the red track under bright daylight. Commentators discuss how many of these athletes were also in Taicang for the Race Walking World Team Championships earlier in the year, noting the competitive history. The camera alternates between wide-angle views of the stadium and close-ups of the leading pack, where Sho SAKAZAKI, Dominic Samson NDIGITI, and Abdulrahman MAHMOUD are identified by the commentators as they maintain focused, rhythmic strides in a tight formation. As the on-screen timer advances from 6:53.8 to 10:52.8, athletes pass hydration stations, where volunteers in blue shirts and gloves hand out water bottles. The commentators highlight the athletes' eagerness for these refreshments, especially given the \"searing heat\" and the stadium's design, which is \"built down into the ground,\" making it a \"real heat trap.\" The stadium's red and white seating, sparse spectators, and advertising banners for 'SEIKO', 'Coca-Cola', 'TDK', and 'Visit Tampere' are visible. The green infield is dotted with camera operators and yellow timing equipment. Towards the end of the minute, a female commentator discusses the race's clean status, noting only one red card issued to Sarosi, the Hungarian athlete, in this race walk final.",
+        "Under bright, sunny conditions at the IAAF World U20 Championships 2018 in Tampere Stadium, the men's 10,000m race walk progresses from the 10:52.8 to 13:36.8 mark, with athletes maintaining a tight pack on the red track. A commentator highlights the athletes' diligent technique, noting their acute awareness of the judges positioned around the course, who are meticulously watching their form to ensure they are 'on point.' The camera captures synchronized, rhythmic strides, with prominent figures like Sho SAKAZAKI (Japan, bib 448), David KUSTER (France, bib 284), and Tatsuhiko NAGAYAMA (Japan, bib 446) leading. The commentator specifically identifies Dominic Samson NDIGITI (Kenya, bib 461) at the front, emphasizing his strong position. Volunteers in blue shirts hand out water bottles, while race officials in white shirts monitor the event, with one seen writing notes. The commentator also points out a 'yellow paddle' being shown, cautioning an athlete to consider their technique, and explains the function of the digital scoreboard as a 'disqualification board' on the left, updating walkers on any issued red cards. Advertising banners for SEIKO, Coca-Cola, TDK, and Visit Tampere line the track, and the scoreboard displays '3200m' at 13:19.12, with Sho SAKAZAKI in first. The commentator notes '17 laps to go' as the race continues, with sparse spectators in the background.",
+        "The minute captures a dynamic segment of the men's 10,000m race walk at the IAAF World U20 Championships 2018 in Tampere Stadium, under bright daylight, with the on-screen timer progressing from 13:36 to 14:36. A tightly packed group of athletes, including Sho SAKAZAKI (Japan, bib 448) visually leading in a black and red uniform, and Dominic Samson NDIGITI (Kenya, bib 461) in green and black, walk with rhythmic, controlled strides on the red running track. The English commentator identifies Ndigiti as leading, and mentions \"Carl Swan of Australia\" (visually Kyle SWAN, bib 129) in a blue and white uniform, as being up there with the leaders. The commentator provides background on Kyle Swan, noting he is the Australian youth champion from 2015 for 10 kilometers, and is coached by Brett Vallance. Further commentary highlights another Australian in the field, Declan Tingay, who is coached by his father Steven, is the Adelaide junior champion, and is chasing a long-standing Australian junior record set by Dane Bird-Smith. Athletes pass advertising banners for SEIKO, Coca-Cola, TDK, and Visit Tampere, while volunteers in blue shirts hand out water bottles. Race officials in white shirts monitor the event, and the commentator reports that Kyle Swan is issued a warning by one of these judges. Yao ZHANG (China, bib 198) in a red and yellow uniform with a white cap is also visible among the focused competitors. The stadium seats are mostly empty, with sparse spectators scattered in the red and white stands, and a trackside cameraman films the action as the pack maintains a tight formation, occasionally shifting positions while approaching the 3200m mark. Background sounds include the continuous English commentary and occasional indistinct Finnish commentary.",
+        "The men's 10,000m race walk at the IAAF World U20 Championships 2018 in Tampere is captured under bright sunlight, with the on-screen timer advancing from 14:36 to 15:34. A tightly packed group of athletes, including Sho SAKAZAKI (Japan, bib 448), Zhaozhao WANG (China, bib 197), Dominic Samson NDIGITI (Kenya, bib 461), Kyle SWAN (Australia, bib 129), and David KUSTER (France, bib 284), maintains a steady, rhythmic pace along the red track. The announcer's voice clearly identifies 'Kuster of France' and highlights the presence of two strong Chinese walkers, including 'Tai Tsao,' the World Team Race Walking Champion, among the front group. The camera alternates between close-ups of their intense focus and wide-angle shots revealing the expansive Tampere Stadium with its red and white seating, sparsely populated by murmuring spectators. Various event infrastructure, such as timing devices, advertising banners for SEIKO, TDK, and Coca-Cola, and a discus throw area with officials and umbrellas, are visible. A digital display indicates the 3600m mark with a lap time of 1:39.09. Volunteers in blue shirts hand out water bottles, which athletes like NDIGITI, KUSTER, SAKAZAKI, and Tatsuhiko NAGAYAMA accept mid-stride. The announcer observes the walkers adhering closely to the rules, noting that only three red cards have been issued by the carefully watching race officials. As the field begins to stretch, the announcer specifically notes 'a little stretch from the Kenyan,' Dominic Samson NDIGITI, who is later seen reaching out for a sponge, confirming his strong presence and adherence to race protocols amidst the competitive yet orderly atmosphere.",
+        "The IAAF World U20 Championships 2018 10,000m Race Walk Men's Final in Tampere continues under bright daylight, casting sharp shadows on the red track as the elapsed time progresses from 15:33 to 16:34. A tight pack of athletes, including Dominic Samson NDIGITI (Kenya, bib 461), José ORTIZ (Guatemala, bib 345), and Zhaozhao WANG (China, bib 197), maintains a focused, rhythmic stride along the curved sections of the track. Commentators note that \"it's got warmer for them\" and highlight the diligent monitoring by race officials in white shirts, one of whom is seen writing notes on a clipboard, while another judge is observed having \"stepped in and indicated to the walker in question,\" emphasizing that \"they're being watched carefully.\" Volunteers in blue shirts offer water bottles to the passing athletes. The scoreboard overlay displays leading athletes like Bálint SÁROSSI, Othman CHIBANI, Aníbal ZAPETA, and Abdulsalam IMUK, some marked with red flags, as commentators mention \"the list of red cards so far, four of them in total through this field of 34 walkers.\" A male commentator recalls not having seen \"Ndigiti in action\" at previous World Race Walking Team Championships, prompting a female commentator to inquire about the experience of such events. This leads to a discussion about race walking distances, from \"10 kilometers\" up to \"50 kilometers\" on road, described as an \"extraordinary test of strength and endurance.\" Towards the end of the segment, a commentator observes that \"a paddle is dropped there, so there was a warning,\" indicating an official's action. The stadium features red and white seating with sparse spectators, and advertising banners for SEIKO, TDK, Coca-Cola, and Visit Tampere line the track, as a trackside camera operator films the intense competition.",
+        "The 10,000m race walk at the IAAF World U20 Championships 2018 in Tampere Stadium is captured under bright daylight, with the camera following a tightly packed group of athletes on the red track. The on-screen scoreboard updates positions and times, displaying '4000m' and 'KM 4:04.71', as commentators confirm the race is currently at 4000 meters. Leading the pack is Dominic Samson NDIGITI of Kenya, in green and black, maintaining a determined stride. Behind him, Zhaozhao WANG of China (red and yellow) and David HURTADO of Ecuador (blue and yellow) are visible, with WANG, Sho SAKAZAKI, and Tatsuhiko NAGAYAMA accepting water bottles from volunteers in blue shirts. A male commentator notes a previous incident where a judge dropped a water bottle for a walker. The athletes, including Sho SAKAZAKI and Tatsuhiko NAGAYAMA wearing red-tinted sunglasses, walk with rhythmic precision, embodying what the commentator describes as a \"remarkable test of human strength and character.\" Race officials in white shirts monitor the event, and a cameraman films from the side, all against a backdrop of advertising banners for SEIKO and Coca-Cola. As the group rounds a bend, a wider view of the stadium reveals sparse spectators in red and white seats and athletes resting under beige umbrellas. The commentators delve into the extreme endurance required for such events, referencing 50-kilometer race walks that can last \"in excess of four hours\" and the severe penalty of a \"pit lane\" entry, which can mean \"game over.\" A female commentator adds that it truly is \"a test of mental fortitude and resilience being a race walker,\" underscoring the intense nature of the competition as athletes like José ORTIZ and Matheus CORREA continue with focused expressions under clear skies and strong sunlight.",
+        "The 10,000m race walk at the IAAF World U20 Championships 2018 unfolds in Tampere Stadium under bright, sunny conditions, with a tightly packed group of athletes rhythmically walking on the red track, their sharp shadows trailing. Commentators discuss a 'paddle' that was indicated for 'loss of contact,' clarifying it as a warning that puts an athlete 'in risk of incurring a red card.' Leading the pack are athletes like Zhaozhao WANG (China, bib 197) in red and yellow, Dominic Samson NDIGITI (Kenya, bib 461) in green and black, and Kyle SWAN (Australia, bib 129) in blue and white. The commentators note 'Two Chinese athletes' are 'side by side' behind 'the leader from Kenya,' who 'leads them through' with '14 laps to go.' As the on-screen timer advances from 17:34 to 20:23, athletes pass advertising banners for Coca-Cola, TDK, and SEIKO, and a digital scoreboard displaying '4400m.' Volunteers in blue shirts efficiently hand water bottles to competitors including David KUSTER (France, bib 284) and Tatsuhiko NAGAYAMA (Japan, bib 446). A close-up reveals a Mondo timing board, which commentators identify as the 'disqualification board,' showing bib numbers 359, 346, 609, 103, and 395 marked with red indicators, signifying penalties 'by numbers,' specifically 'a loss of contact warning.' The camera pans across the stadium, revealing sparse red and white seating, trackside officials in white shirts monitoring the race, and a cameraman actively filming. The rhythmic sounds of race walking and general stadium ambiance underscore the intense yet orderly atmosphere, with athletes focused on form and pace, despite commentators mentioning 'a few more red cards' appearing in this race compared to the women's, though 'no one at the moment in any imminent danger.'",
+        "The 10,000m race walk at the IAAF World U20 Championships 2018 unfolds under bright daylight in Tampere Stadium, with a commentator noting athletes \"going into the pit lane\" for support. A tight leading pack maintains a steady, rhythmic pace along the red track, passing advertising banners for SEIKO, TDK, Coca-Cola, and Asics, while on-screen graphics update their positions and times. The commentator highlights the composition of the front group, mentioning \"Australians, one behind the other,\" and identifying \"Kenya from the two Chinese walkers,\" confirming \"Two Australians are up there as well.\" Dominic Samson NDIGITI (Kenya, bib 461) leads at the 5000m mark with a time of 4:08.18 per km, closely followed by Zhaozhao WANG (China, bib 197) and Yao ZHANG (China, bib 198). David HURTADO (Ecuador, bib 222), described by the commentator as \"The Ecuadorian Hurtado\" and the \"South American Junior Champion,\" is also in the front pack, wearing a blue cap and sunglasses. José ORTIZ (Guatemala, bib 345) and Tatsuhiko NAGAYAMA (Japan, bib 446) are also visible, with NAGAYAMA accepting a water bottle from a volunteer. The commentator observes that NDIGITI has \"shunned either\" sunglasses or hats, unlike some competitors. Volunteers in blue shirts hand out water bottles to NDIGITI, WANG, and NAGAYAMA. Kyle SWAN (Australia, bib 129) is seen maintaining pace, with the commentator later noting \"Carl Swan finds a little bit of move out on the outside\" on the \"home straight.\" A race official holds a Mondo timing board showing bib numbers 359, 346, 609, 103, and 395 marked with red circles, indicating potential penalties. The commentator concludes by noting \"some eight seconds separate the top 12.\" The stadium seats are sparsely populated, but the atmosphere is focused and competitive, with the athletes' determined expressions and synchronized strides reflecting the intensity of the race, as a Finnish announcer's voice occasionally echoes in the background, alongside the general stadium ambiance."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 20,
+      "end_minute": 20,
+      "summary": "The Mondo Timing Board displays penalties for bib numbers 359, 346, 609, 103, and 395 as commentators discuss Menjivar from El Salvador receiving a third red card, resulting in an enforced one-minute time penalty due to improper technique, a significant setback; the commentators emphasize athletes' awareness of red cards and the need for caution. Simultaneously, Sho SAKAZAKI (448), David KUSTER (284), Zhaozhao WANG (197), Yohanis ALGAW (254), and Dominic Samson NDIGITI (461) maintain a rhythmic walk on the red track under bright sunlight, passing yellow timing markers, a digital display showing '5200m', the discus throw area, and the '4400m Distance Marker' on the green infield, while Volunteer Hydration Staff in blue shirts distribute water; the race progresses within Tampere Stadium, featuring sparse Stadium Spectators and Advertising Banners for Coca-Cola, TDK, and Asics.",
+      "involved_entities": {
+        "Volunteer Hydration Staff": {
+          "description": "Individuals in blue shirts and gloves, positioned along the track, handing out water bottles to athletes as they pass.",
+          "attribute": "visual"
+        },
+        "Yellow Timing Marker": {
+          "description": "A yellow digital sign on the track displaying '15' and the elapsed time, indicating the distance covered by the athletes as they progress.",
+          "attribute": "visual"
+        },
+        "Race Officials": {
+          "description": "Officials in white shirts and hats are seen monitoring the race, their role further clarified by commentators stating 'judges weren't happy' with athletes' 'flappy' techniques, resulting in 'three red cards' and subsequent penalties.",
+          "attribute": "audio-visual"
+        },
+        "Stadium Spectators": {
+          "description": "Audience members seated in red and white stadium seats, sparsely distributed, observing the race.",
+          "attribute": "visual"
+        },
+        "Scoreboard Display": {
+          "description": "A yellow electronic scoreboard showing '3600m' and elapsed time, updating with athlete positions and times, including Sho SAKAZAKI in first place.",
+          "attribute": "visual"
+        },
+        "Starting Line Equipment": {
+          "description": "Yellow and black timing devices and cones marking the start of the 10,000m race walk event, with a digital display showing elapsed time.",
+          "attribute": "visual"
+        },
+        "Yohanis ALGAW": {
+          "description": "Ethiopian athlete in a green and white uniform with bib number 254, walking with a determined stride, visible in the front group.",
+          "attribute": "visual"
+        },
+        "Advertising Banners": {
+          "description": "Large banners along the track displaying logos and text for 'SEIKO', 'Coca-Cola', 'TDK', 'Visit Tampere', and 'IAAF Tampere 2018', visible as the athletes pass by.",
+          "attribute": "visual"
+        },
+        "Mondo Timing Board": {
+          "description": "A white scoreboard displaying bib numbers with red circles, visually indicating penalties, which commentators confirm as 'red cards' leading to a 'one-minute time penalty' in the 'pit lane' for an athlete.",
+          "attribute": "audio-visual"
+        },
+        "Sho SAKAZAKI": {
+          "description": "Japanese athlete in a black and red uniform with bib number 448, wearing red-tinted sunglasses, leading the pack with a focused, steady walk, consistently positioned at the front, and accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "Zhaozhao WANG": {
+          "description": "Chinese athlete in a red and yellow uniform with bib number 197, walking with a determined stride in the front group, accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "David KUSTER": {
+          "description": "French athlete in a white and blue uniform with bib number 284, wearing a white cap and reflective sunglasses, walking with a steady, focused pace in the lead pack, and accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "Trackside Camera Operator": {
+          "description": "A cameraman in dark clothing, positioned near the track, actively filming the athletes as they pass.",
+          "attribute": "visual"
+        },
+        "400m Marker Sign": {
+          "description": "A digital sign on the track displaying '1200m' and the elapsed time, indicating the distance covered by the athletes as they progress.",
+          "attribute": "visual"
+        },
+        "Tampere Stadium": {
+          "description": "Large outdoor athletics stadium with red and white seating, a green field, a red running track, and national flags lining the upper stands, hosting the IAAF World U20 Championships 2018.",
+          "attribute": "visual"
+        },
+        "4400m Distance Marker": {
+          "description": "A large digital sign on the track displaying '4400m' and the elapsed time, indicating the current distance covered by the athletes as they progress through the race.",
+          "attribute": "visual"
+        },
+        "Dominic Samson NDIGITI": {
+          "description": "Kenyan athlete in a green and black uniform with bib number 461, walking with a determined stride, positioned near the front, maintaining a strong pace, and accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of the Mondo Timing Board, visually displaying bib numbers 359, 346, 609, 103, and 395 marked with red circles, indicating penalties. Over this, commentators discuss a \"third red card\" being issued, leading to an athlete facing a \"pit lane\" penalty for the first time this morning. They identify the athlete as \"Menjivar\" from El Salvador, who will incur an \"enforced one-minute time penalty,\" a \"big blow\" to his competition. The commentators explain that \"techniques obviously got a little bit flappy,\" and the \"judges weren't happy,\" emphasizing that athletes \"know when they get red cards\" and need to be \"much more careful\" before receiving a third. The camera then pans to follow a tightly packed group of athletes, including Sho SAKAZAKI (448), David KUSTER (284), Zhaozhao WANG (197), Yohanis ALGAW (254), and Dominic Samson NDIGITI (461), as they maintain a focused, rhythmic walk along the red track under bright sunlight. They pass trackside equipment, including yellow timing markers and a digital display showing '5200m' and elapsed time, then the discus throw area, and a '4400m' distance sign on the green infield. Volunteers in blue shirts are seen handing out water bottles. The athletes, in their varied uniforms, continue their determined strides, with on-screen graphics consistently displaying the race's progression, all within the Tampere Stadium with its sparse spectators and advertising banners for Coca-Cola, TDK, and Asics."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 21,
+      "end_minute": 21,
+      "summary": "Under bright sunlight on the red running track of Tampere Stadium, the 10,000m race walk at the IAAF World U20 Championships in Tampere 2018 features athletes maintaining a steady, rhythmic pace. Sho SAKAZAKI (bib 448) in black and red leads the pack, closely followed by David KUSTER (bib 284), Tatsuhiko NAGAYAMA (bib 446), and Dominic Samson NDIGITI (bib 461). English commentary highlights split times, noting that \"Ndigiti is taking them through\" with the last thousand meters covered in an impressive average of 4 minutes 8.67 seconds. As the group navigates a curve, passing a large yellow SEIKO timing board that updates from '3600m' to '5600m', volunteer hydration staff in blue shirts efficiently hand out water bottles, which SAKAZAKI, KUSTER, and NAGAYAMA accept without breaking stride. A high-angle perspective reveals the green infield, advertising banners for SEIKO, Coca-Cola, Ford, and DEFA, and red stadium seating, while a trackside camera operator films and race officials monitor. On-screen graphics display the race progress. Amidst the competitive yet orderly atmosphere, the commentary reveals a significant development: an athlete named Menjivar from El Salvador has been disqualified, receiving \"four reds.\" The race continues with a \"tight, clustered movement,\" and Ndigiti is observed getting \"back to the front,\" while \"Australia's looking to make a bit of a difference\" as athletes approach the 5600m mark.",
+      "involved_entities": {
+        "Advertising Banners": {
+          "description": "Large banners along the track displaying logos and text for 'SEIKO', 'Coca-Cola', 'Ford', 'DEFA', 'Visit Tampere', and 'IAAF Tampere 2018', visible as the athletes pass by.",
+          "attribute": "visual"
+        },
+        "Sho SAKAZAKI": {
+          "description": "Japanese athlete in a black and red uniform with bib number 448, wearing red-tinted sunglasses, leading the pack with a focused, steady walk, consistently positioned at the front, and accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "David KUSTER": {
+          "description": "French athlete in a white and blue uniform with bib number 284, wearing a white cap and reflective sunglasses, walking with a steady, focused pace in the lead pack, and accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "Volunteer Hydration Staff": {
+          "description": "Individuals in blue shirts and gloves, positioned along the track, handing out water bottles to athletes as they pass.",
+          "attribute": "visual"
+        },
+        "Tatsuhiko NAGAYAMA": {
+          "description": "Japanese athlete in a red and white uniform with bib number 446, wearing red-tinted sunglasses, walking steadily in the front group with a composed, rhythmic stride, and accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "Trackside Camera Operator": {
+          "description": "A cameraman in dark clothing, positioned near the track, actively filming the athletes as they pass.",
+          "attribute": "visual"
+        },
+        "On-Screen Graphics": {
+          "description": "Digital overlays displaying event information, including 'IAAF WORLD U20 CHAMPIONSHIPS', '10,000m Race Walk', distance markers ('3600m', '5600m'), and elapsed time.",
+          "attribute": "visual"
+        },
+        "Scoreboard Display": {
+          "description": "A yellow electronic scoreboard showing '3600m' and elapsed time, updating with athlete positions and times, including Sho SAKAZAKI in first place.",
+          "attribute": "visual"
+        },
+        "Race Officials": {
+          "description": "Officials in white shirts and black pants, seen standing near the track, monitoring the athletes and managing the event; one is writing notes on a clipboard, another is walking and gesturing along the track.",
+          "attribute": "visual"
+        },
+        "Tampere Stadium": {
+          "description": "Large outdoor athletics stadium with red and white seating, a green field, a red running track, and national flags lining the upper stands, hosting the IAAF World U20 Championships 2018.",
+          "attribute": "visual"
+        },
+        "Dominic Samson NDIGITI": {
+          "description": "Kenyan athlete in a green and black uniform with bib number 461, walking with a determined stride, positioned near the front, maintaining a strong pace, and accepting a water bottle from a volunteer. English commentary identifies him as 'Ndigiti,' noting he is 'taking them through' the last thousand meters in 4:08.67 and later observed getting 'back to the front,' highlighting his active role in leading the race.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The 10,000m race walk at the IAAF World U20 Championships in Tampere 2018 unfolds under bright sunlight on the red running track, with athletes maintaining a steady, rhythmic pace. Sho SAKAZAKI (bib 448) in black and red leads the pack, closely followed by David KUSTER (bib 284), Tatsuhiko NAGAYAMA (bib 446), and Dominic Samson NDIGITI (bib 461). English commentary highlights \"split times,\" noting that \"Ndigiti is taking them through\" with the last thousand meters covered in an impressive average of 4 minutes 8.67 seconds. As the group navigates a curve, passing a large yellow SEIKO timing board that updates from '3600m' to '5600m', volunteers in blue shirts efficiently hand out water bottles, which SAKAZAKI, KUSTER, and NAGAYAMA accept without breaking stride. A high-angle perspective reveals the green infield, advertising banners for SEIKO, Coca-Cola, Ford, and DEFA, and red stadium seating, while a trackside cameraman films and officials monitor. On-screen graphics display the race progress. Amidst the competitive yet orderly atmosphere, the commentary reveals a significant development: an athlete named Menjivar from El Salvador has been disqualified, receiving \"four reds,\" a disappointing turn for his country. The race continues with a \"tight, clustered movement,\" and Ndigiti is observed getting \"back to the front,\" while \"Australia's looking to make a bit of a difference\" as athletes approach the 5600m mark."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 22,
+      "end_minute": 22,
+      "summary": "Under bright daylight at Tampere Stadium, the 10,000m race walk progresses with athletes maintaining focused, rhythmic strides on the red running track as the on-screen timer advances from 23:27 to 24:20. Dominic Samson NDIGITI, identified as the Kenyan leader in a green and black uniform, is closely followed by Declan TINGAY in a blue and white uniform with green-tinted sunglasses, and David HURTADO in a blue and yellow uniform with a blue cap, who is in third. The leading trio passes advertising banners for Coca-Cola, Ford, and Seiko, and a digital sign displaying '4400m' and elapsed time, while volunteer hydration staff in blue shirts distribute water bottles. Commentators note the leaders attempting to break away from a pursuing group. Suddenly, NDIGITI experiences an issue with his shoe, momentarily breaking stride and surrendering his advantage to drop back. However, with remarkable determination and pace, NDIGITI quickly recovers and returns to the front of the race, astonishing the commentators. Sparse spectators are visible in the stadium seats, and race officials observe the event.",
+      "involved_entities": {
+        "Declan TINGAY": {
+          "description": "Australian athlete in a blue and white uniform with bib number 130, wearing green-tinted sunglasses, walking in the pack with a focused expression, maintaining a steady rhythm. Commentators identify him as 'the Australian' and 'Tingay,' noting his position behind the leader.",
+          "attribute": "audio-visual"
+        },
+        "Advertising Banners": {
+          "description": "Large banners along the track displaying logos and text for 'SEIKO', 'Coca-Cola', 'Ford', 'DEFA', 'Visit Tampere', and 'IAAF Tampere 2018', visible as the athletes pass by.",
+          "attribute": "visual"
+        },
+        "David HURTADO": {
+          "description": "Ecuadorian athlete in a blue and yellow uniform with bib number 222, wearing a blue cap and sunglasses, walking with a focused expression in the front pack, maintaining a consistent pace. Commentators identify him as 'Hurtado' and note his position in third.",
+          "attribute": "audio-visual"
+        },
+        "Volunteer Hydration Staff": {
+          "description": "Individuals in blue shirts and gloves, positioned along the track, handing out water bottles to athletes as they pass.",
+          "attribute": "visual"
+        },
+        "Trackside Camera Operator": {
+          "description": "A cameraman in dark clothing, positioned near the track, actively filming the athletes as they pass.",
+          "attribute": "visual"
+        },
+        "Yellow Timing Marker": {
+          "description": "A yellow digital sign on the track displaying '15' and the elapsed time, indicating the distance covered by the athletes as they progress.",
+          "attribute": "visual"
+        },
+        "On-Screen Graphics": {
+          "description": "Digital overlays displaying event information, including 'IAAF WORLD U20 CHAMPIONSHIPS', '10,000m Race Walk', distance markers ('4400m'), and elapsed time.",
+          "attribute": "visual"
+        },
+        "Stadium Spectators": {
+          "description": "Audience members seated in red and white stadium seats, sparsely distributed, observing the race.",
+          "attribute": "visual"
+        },
+        "Race Officials": {
+          "description": "Officials in white shirts and black pants, seen standing near the track, monitoring the athletes and managing the event; one is writing notes on a clipboard, another is walking and gesturing along the track.",
+          "attribute": "visual"
+        },
+        "Tampere Stadium": {
+          "description": "Large outdoor athletics stadium with red and white seating, a green field, a red running track, and national flags lining the upper stands, hosting the IAAF World U20 Championships 2018.",
+          "attribute": "visual"
+        },
+        "4400m Distance Marker": {
+          "description": "A large digital sign on the track displaying '4400m' and the elapsed time, indicating the current distance covered by the athletes as they progress through the race.",
+          "attribute": "visual"
+        },
+        "Dominic Samson NDIGITI": {
+          "description": "Kenyan athlete in a green and black uniform with bib number 461, walking with a determined stride, positioned near the front, maintaining a strong pace, and accepting a water bottle from a volunteer. Commentators identify him as 'the Kenyan' and 'Ingitiv,' noting his lead, then expressing surprise and concern when he experiences a shoe problem, causing him to drop back, only to quickly regain his leading position with impressive speed.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The 10,000m race walk at the IAAF World U20 Championships 2018 unfolds in Tampere Stadium under bright daylight, with the camera panning across the red running track. Athletes in various uniforms maintain focused, rhythmic strides as the on-screen timer progresses from 23:27 to 24:20. Commentators immediately highlight the action, stating, \"Still the Kenyan leads from the Australian,\" identifying Dominic Samson NDIGITI (bib 461, green and black uniform) as \"Ingitiv\" in the lead, followed by Declan TINGAY (bib 130, blue and white, green-tinted sunglasses). David HURTADO (bib 222, blue and yellow, blue cap) is noted as \"Hurtado up in third,\" completing the leading pack. The athletes pass advertising banners for Coca-Cola, Ford, and Seiko, and a digital sign indicating '4400m' and elapsed time. Volunteers in blue shirts hand out water bottles, and the commentators observe \"these three now trying to move away from a group behind.\" Suddenly, the commentary turns urgent as NDIGITI encounters a problem: \"Oh, Ingitiv, what's happened here? Oh, I think he's got a problem with his shoe!\" Visually, NDIGITI is seen momentarily breaking stride. The commentator explains he \"surrendered his advantage and dropped right back,\" but with remarkable determination and pace, NDIGITI quickly recovers, prompting an amazed, \"He's come right back to the front again!\" Sparse spectators are visible in the red and white stadium seats, and race officials monitor the event."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 23,
+      "end_minute": 31,
+      "summary": "The 10,000m race walk final at the IAAF World U20 Championships in Tampere 2018 saw intense competition under bright daylight, with elapsed times progressing from 24:31 to 34:14. Early in the race, José Gilberto MENJIVAR was disqualified after receiving four red cards, a moment debated by commentators regarding his attempt to rejoin the race. The lead pack, featuring athletes like Sho SAKAZAKI, David HURTADO, and Zhaozhao WANG, maintained a steady, rhythmic pace on the red track, with volunteers providing hydration. On-screen graphics and Mondo Timing Boards displayed distance markers and penalties, with several athletes accumulating red cards. As the race progressed, commentators highlighted the technical aspects of race walking, including potential 'yellow paddle' warnings for loss of contact or bent knees, and discussed innovations aimed at making the sport more accessible. David HURTADO (Ecuador) and Yao ZHANG (China) emerged as leading contenders, with José ORTIZ (Guatemala) and Riccardo ORSONI (Italy) also in contention. Despite the demanding pace and visible exertion, such as HURTADO puffing his cheeks, the athletes maintained focus, with advertising banners for SEIKO, Coca-Cola, and Ford lining the track, and sparse spectators observing from the stadium seats.",
+      "involved_entities": {
+        "Abdulsalam IMUK": {
+          "description": "Turkish athlete in a white and red uniform with bib number 609, visible in the pack and later listed with a penalty on the scoreboard, confirmed by commentators as being among 'six' athletes currently on one red card.",
+          "attribute": "audio-visual"
+        },
+        "David HURTADO": {
+          "description": "Ecuadorian athlete in a blue and yellow uniform with bib number 222, leading the race with a steady, focused walk, visible in the front pack, accepting a water bottle from a volunteer, and explicitly named by English commentators as 'Hurtado' and noted for not having incurred any red cards.",
+          "attribute": "audio-visual"
+        },
+        "Volunteer Hydration Staff": {
+          "description": "Individuals in blue shirts and gloves, positioned along the track, handing out water bottles to athletes as they pass.",
+          "attribute": "visual"
+        },
+        "José Gilberto MENJIVAR": {
+          "description": "Salvadoran athlete in a blue and white uniform with bib number 228, shown bending over in distress, later listed as DQ on the scoreboard.",
+          "attribute": "visual"
+        },
+        "Scoreboard Display": {
+          "description": "A yellow electronic scoreboard showing '3600m' and elapsed time, updating with athlete positions and times, including Sho SAKAZAKI in first place.",
+          "attribute": "visual"
+        },
+        "Stadium Spectators": {
+          "description": "Audience members seated in red and white stadium seats, sparsely distributed, observing the race.",
+          "attribute": "visual"
+        },
+        "Yao ZHANG": {
+          "description": "Chinese athlete in a red and yellow uniform with bib number 198, walking in the front pack, visible alongside David HURTADO, maintaining a steady pace, explicitly named by English commentators as 'Yao' and 'Zhang Yao of China', noted for leading the race and not having incurred any red cards.",
+          "attribute": "audio-visual"
+        },
+        "Abdulrahman MAHMOUD": {
+          "description": "Egyptian athlete in a white and red uniform with bib number 224, visible in the pack and later listed with a penalty on the scoreboard, confirmed by commentators as being among 'six' athletes currently on one red card.",
+          "attribute": "audio-visual"
+        },
+        "Yohanis ALGAW": {
+          "description": "Ethiopian athlete in a green and white uniform with bib number 254, walking with a determined stride, visible in the front group, maintaining a steady pace.",
+          "attribute": "visual"
+        },
+        "Advertising Banners": {
+          "description": "Large banners along the track displaying logos and text for 'SEIKO', 'TDK', 'Ford', 'DEFA', and 'IAAF World U20 Championships Tampere 2018', visible as the athletes pass by.",
+          "attribute": "visual"
+        },
+        "Nicolas FANELLI": {
+          "description": "Italian athlete in a white and green uniform with bib number 395, visible in the pack and later listed with a penalty on the scoreboard, confirmed by commentators as being among 'six' athletes currently on one red card.",
+          "attribute": "audio-visual"
+        },
+        "Mondo Timing Board": {
+          "description": "A white scoreboard with black grid lines labeled 'EVENTO:' and 'DORSAL:', showing bib numbers 359, 346, 609, 103, 395, 228, and 224 marked with red circles, indicating penalties or disqualifications, which a female commentator explains are often due to athletes pushing too hard and their technique breaking down, prompting innovations like 'pit stop areas' to manage these infractions and improve the sport's marketability.",
+          "attribute": "audio-visual"
+        },
+        "Kyle SWAN": {
+          "description": "Australian athlete in a blue and white uniform with bib number 129, walking with hands on hips, maintaining pace in the middle of the pack, visible as the group rounds the bend.",
+          "attribute": "visual"
+        },
+        "Sho SAKAZAKI": {
+          "description": "Japanese athlete in a black and red uniform with bib number 448, leading the pack with a focused, steady walk, consistently positioned at the front, and accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "Aníbal ZAPETA": {
+          "description": "Guatemalan athlete in a blue and white uniform with bib number 346, visible in the pack, later listed with a penalty on the scoreboard.",
+          "attribute": "visual"
+        },
+        "Zhaozhao WANG": {
+          "description": "Chinese athlete in a red and yellow uniform with bib number 197, walking with a determined stride in the front group, maintaining a steady pace alongside HURTADO and Ortiz.",
+          "attribute": "visual"
+        },
+        "David KUSTER": {
+          "description": "French athlete in a white and blue uniform with bib number 284, walking with a steady, focused pace in the lead pack, and accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "Trackside Camera Operator": {
+          "description": "A cameraman in dark clothing, positioned near the track, actively filming the athletes as they pass.",
+          "attribute": "visual"
+        },
+        "Tatsuhiko NAGAYAMA": {
+          "description": "Japanese athlete in a red and white uniform with bib number 446, walking steadily in the front group with a composed, rhythmic stride, and accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "Othman CHIBANI": {
+          "description": "Algerian athlete in a red and white uniform with bib number 103, visible in the pack and later listed with a penalty on the scoreboard, confirmed by commentators as being among 'six' athletes currently on one red card.",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Graphics": {
+          "description": "Digital overlays displaying event information, including 'IAAF WORLD U20 CHAMPIONSHIPS', '10,000m Race Walk', distance markers ('3600m', '4400m'), and elapsed time, updating with athlete positions and times.",
+          "attribute": "visual"
+        },
+        "Race Officials": {
+          "description": "Officials in white shirts and black pants, seen standing near the track, monitoring the athletes and managing the event; one is writing notes on a clipboard, another is walking and gesturing along the track.",
+          "attribute": "visual"
+        },
+        "Tampere Stadium": {
+          "description": "Large outdoor athletics stadium with red and white seating, a green field, a red running track, and national flags lining the upper stands, hosting the IAAF World U20 Championships 2018, and mentioned by a female announcer in Finnish.",
+          "attribute": "audio-visual"
+        },
+        "Dominic Samson NDIGITI": {
+          "description": "Kenyan athlete in a green and black uniform with bib number 461, walking with a determined stride, positioned near the front, maintaining a strong pace, and accepting a water bottle from a volunteer. Commentators note he is now struggling due to an unfortunate incident with his walking spikes, though he showed great fortitude to continue, suggesting the effort may have taken too much out of him.",
+          "attribute": "audio-visual"
+        },
+        "José ORTIZ": {
+          "description": "Guatemalan athlete in a blue and white uniform with bib number 345, walking with a serious expression, positioned near the front of the pack, visible in the group as they round the bend, and explicitly named by English commentators as 'Jose Ortiz of Guatemala' and placed in third position.",
+          "attribute": "audio-visual"
+        },
+        "6400m Distance Marker": {
+          "description": "A large digital sign on the track displaying '6400m' and the elapsed time, indicating the current distance covered by the athletes as they progress through the race.",
+          "attribute": "visual"
+        },
+        "Trackside Equipment": {
+          "description": "Yellow and black timing devices and cones marking the start of the 10,000m race walk event, with a digital display showing elapsed time.",
+          "attribute": "visual"
+        },
+        "Yellow Timing Marker": {
+          "description": "A yellow digital sign on the track displaying '15' and the elapsed time, indicating the distance covered by the athletes as they progress.",
+          "attribute": "visual"
+        },
+        "Starting Line Equipment": {
+          "description": "Yellow and black timing devices and cones marking the start of the 10,000m race walk event, with a digital display showing elapsed time.",
+          "attribute": "visual"
+        },
+        "400m Marker Sign": {
+          "description": "A digital sign on the track displaying '1200m' and the elapsed time, indicating the distance covered by the athletes as they progress.",
+          "attribute": "visual"
+        },
+        "4400m Distance Marker": {
+          "description": "A large digital sign on the track displaying '4400m' and the elapsed time, indicating the current distance covered by the athletes as they progress through the race.",
+          "attribute": "visual"
+        },
+        "Umbrella Shelter": {
+          "description": "Large beige umbrellas providing shade for athletes and officials near the discus throwing area.",
+          "attribute": "visual"
+        },
+        "Discus Throw Equipment": {
+          "description": "The discus throwing circle, measuring devices, and surrounding safety barriers set up on the field, with officials and athletes gathered nearby.",
+          "attribute": "visual"
+        },
+        "Declan TINGAY": {
+          "description": "Australian athlete in a blue and white uniform with bib number 130, wearing green-tinted sunglasses, walking in the pack with a focused expression, maintaining a steady rhythm.",
+          "attribute": "visual"
+        },
+        "Mikita KALIADA": {
+          "description": "Belarusian athlete in a red and white uniform with bib number 158, wearing a red cap and reflective sunglasses, standing with a focused look, visible further back in the pack.",
+          "attribute": "visual"
+        },
+        "Riccardo ORSONI": {
+          "description": "Italian athlete in a white and green uniform with bib number 410, standing near the starting line with a serious expression, now visible walking in the lead pack with a focused stride.",
+          "attribute": "visual"
+        },
+        "SEIKO Timing Equipment": {
+          "description": "Yellow and black timing devices and digital displays along the track, showing elapsed time and distance markers such as '3600m' and '4400m'.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of José Gilberto MENJIVAR, a Salvadoran athlete in a blue and white uniform (bib 228), bending over in apparent distress. Commentators discuss a replay, speculating it was due to the heel of his shoe causing discomfort, making it impossible to continue with ten laps remaining. They debate his decision to stop briefly and then try to rejoin the race, questioning if it was the right move to accelerate back into the group. As the camera pulls back to a wide-angle view of the 10,000m race walk final at the IAAF World U20 Championships in Tampere 2018, the elapsed time progresses from 24:31 to 25:26. A scoreboard overlay confirms José Gilberto MENJIVAR's disqualification with \"four red cards,\" as commentators announce he is \"out.\" The tightly packed group of race walkers, including leaders like Sho SAKAZAKI (Japanese, black and red, bib 448), David HURTADO (Ecuadorian, blue and yellow, bib 222), and Zhaozhao WANG (Chinese, red and yellow, bib 197), maintain a steady, rhythmic pace on the curved red track. Several athletes, including Zhaozhao WANG, David KUSTER, Tatsuhiko NAGAYAMA, and Dominic Samson NDIGITI, receive water from volunteer hydration staff. Advertising banners for SEIKO, TDK, and IAAF Tampere 2018 line the track, while the green infield hosts officials. The commentators also note that six other athletes, including Othman CHIBANI, Aníbal ZAPETA, Nicolas FANELLI, Abdulrahman MAHMOUD, and Abdulsalam IMUK, are currently on one red card, as indicated by red penalty marks on a Mondo Timing Board overlay. The camera pans across the vast red seating of Tampere Stadium, showing the track's curvature and sparsely populated but engaged spectators, before returning to the athletes passing the 50m marker. The bright, sunny lighting casts sharp shadows, highlighting the endurance challenge under midday heat, all set against a backdrop of general crowd noise and stadium ambiance.",
+        "Under bright midday sun at the IAAF World U20 Championships 2018 in Tampere, the 10,000m race walk unfolds on the red track, with the elapsed time progressing from 25:26 to 26:23. As athletes in colorful uniforms—including Zhaozhao WANG (red and yellow, bib 197), Yohanis ALGAW (green and white, bib 254), José ORTIZ (blue and white, bib 345), and David KUSTER (white and blue, bib 284)—maintain a steady, rhythmic walk, a female commentator notes the \"lots of drama unfolding in this men's race walk,\" mentioning a disqualification and \"lots of red cards.\" A Finnish announcer's voice is heard periodically over the stadium's PA system. The camera pans smoothly, following the front group, some of whom accept water bottles from volunteers. A male commentator then highlights that \"it's the two Chinese\" walkers leading, referring to a \"disqualified walker from El Salvador\" who received \"four red cards\" and is being \"taken away.\" He further observes that \"Gedeti is now dropping off as the pace increases,\" and confirms the lead is held by \"the two Chinese walkers,\" specifically naming \"Wang Zhaozhao\" and his \"fellow countryman Jang Yao, the winner in Taisang.\" Trackside, prominent advertising banners for SEIKO, TDK, and Coca-Cola are visible, alongside a large yellow timing board displaying '26:05.6' and later '26:22.99' as the 6400m mark is passed, confirmed by on-screen graphics. Race officials in white shirts monitor the event, a cameraman films, and sparse spectators watch from the red and white stadium seats, while the male commentator notes that \"Ortiz is making a move\" among the front walkers.",
+        "The 10,000m race walk event at the IAAF World U20 Championships Tampere 2018 unfolds under bright sunlight on the red track, with the on-screen timer advancing from 26:22.99 to 27:23.5, indicating the race's later stages. The camera pans across the stadium, capturing athletes from various nations, including China, Ecuador, and Japan, maintaining a steady, rhythmic walk. Commentators note that Dominic Samson NDIGITI (Kenya, bib 461), initially walking with a determined stride near the front, is now struggling, likely due to an unfortunate incident with his walking spikes earlier, though he showed great fortitude to come back. Kyle SWAN (Australia, bib 129), seen walking with hands on hips in the middle of the pack, is described as being among the chasers with nine laps remaining. Yao ZHANG (China, bib 198), walking in the front pack, is clearly identified by the commentator. David HURTADO (Ecuador, bib 222), visually focused and maintaining a consistent pace in the front pack, is confirmed by the commentator as the current leader. Volunteers in blue shirts hand out water bottles to athletes like Sho SAKAZAKI (Japan, bib 448), David KUSTER (France, bib 284), and Tatsuhiko NAGAYAMA (Japan, bib 446). José Gilberto MENJIVAR (Salvador, bib 228) is visibly fatigued, bending over in distress. Trackside advertising banners for SEIKO, Coca-Cola, and Ford are prominent, while officials in white shirts monitor the race. The commentators also discuss the lightweight race-walking shoes worn by the athletes and the immense mileage they cover. A Mondo timing board and digital signs display distance markers like 6400m and 4400m. No front walkers have incurred a red card yet. The stadium seating is sparsely populated, and officials gather under beige umbrellas near the discus throw area, as athletes remain focused on their form, approaching the final laps.",
+        "The 10,000m race walk at the IAAF World U20 Championships in Tampere 2018 unfolds between 27:25 and 28:25 elapsed time, with a tight pack of athletes maintaining a steady, rhythmic pace on the red track under a bright sun. On-screen graphics display distance markers like '6800m' and '4400m'. David HURTADO (Ecuador, bib 222) in his blue and yellow uniform is prominent in the front group, walking with a focused expression. English commentators provide detailed background on HURTADO, identifying him as 'First in the South American Junior 10K this year' and the 'Pan American Junior Champion 2017,' noting his 17th place finish in Cali in 2015. They discuss his current race as a recovery from a previous disqualification in Bydgoszcz, emphasizing how 'disqualification in race walking, the connotation of it is so different from so many other sports.' Zhaozhao WANG (China, bib 197) in red and yellow, Declan TINGAY (Australia, bib 130) in blue and white with green-tinted sunglasses, Aníbal ZAPETA (Guatemala, bib 346), Yao ZHANG (China, bib 198), José ORTIZ (Guatemalan, bib 345), and Kyle SWAN (Australia, bib 129) are also visible in the pack, with some adjusting caps or accepting water bottles from volunteers in blue shirts. A female commentator agrees with the male commentator, adding that she spoke to 'Ross Muller, the chief judge here,' who explained the implications of disqualifications for young athletes. The stadium ambiance includes sparse spectators, advertising banners for SEIKO, Coca-Cola, Ford, and Visit Tampere, and trackside equipment, while race officials monitor the event and discus throw equipment is visible on the field.",
+        "The 10,000m race walk at the IAAF World U20 Championships 2018 unfolds under bright sunlight at Tampere Stadium, where athletes maintain a steady, rhythmic pace on the red track. David HURTADO (Ecuador, bib 222) leads a tight front pack, including Zhaozhao WANG (China, bib 197), José ORTIZ (Guatemala, bib 345), and Declan TINGAY (Australia, bib 130). On-screen graphics confirm HURTADO's first-place position at the 7000m mark with a time of 28:43.08. As the camera pans across the stadium, revealing sparse red seating and advertising banners for brands like SEIKO and Ford, a Mondo Timing Board prominently displays penalties marked with red circles for several bib numbers, indicating infractions. A female commentator explains that disqualification in race walking often occurs when athletes push too hard and their technique breaks down, contrasting it with the different reasons for a red card in soccer. She highlights ongoing innovations, such as a 'pit stop area,' designed to prevent automatic disqualification and mitigate the negative connotations associated with it, especially for young athletes. The commentator emphasizes that while the race walking community understands disqualification as an inherent part of the sport, these changes aim to make the event more appealing and marketable to a broader audience. Meanwhile, Kyle SWAN (Australia, bib 129) and Yohanis ALGAW (Ethiopia, bib 254) trail behind, with Mikita KALIADA (Belarus, bib 158) and Tatsuhiko NAGAYAMA (Japan, bib 446) further back. Volunteers in blue shirts offer water bottles to passing athletes, while officials in white shirts diligently monitor the race. The segment concludes with HURTADO still leading as the athletes approach the 8000m mark, the pack tightening behind him amidst the competitive yet orderly atmosphere.",
+        "The minute opens with commentators describing race walking as a \"cult following\" for passionate athletes and an \"incredibly tough event,\" as the 10,000m race walk at the IAAF World U20 Championships 2018 in Tampere unfolds under bright, sunny skies. The camera follows the lead pack on the red track, passing the 7200m and 7300m markers, with elapsed times progressing from 29:23.8 to 30:23.0 displayed on-screen. Commentators highlight that \"the pace has really gone up now,\" noting that David HURTADO (Ecuador, bib 222, blue and yellow) completed his last 1000 meters in 3:52.19. Close behind, Yao ZHANG (China, bib 198, red and yellow) and José ORTIZ (Guatemala, bib 345, blue and white) are mentioned to have gone through 3:51 for the same distance, maintaining their steady, rhythmic walk alongside Zhaozhao WANG (China, bib 197, red and yellow). As the athletes round the bend, the stadium's red and white seating, sparsely populated with spectators, and the green infield with discus throw equipment are visible. Volunteers in blue shirts offer water bottles, with HURTADO accepting one. Advertising banners for SEIKO, Coca-Cola, and Visit Tampere line the track, while on-screen graphics continuously update the race details. The commentators further discuss historical winning times and current average paces, estimating the athletes are \"bang around that kind of 40-minute mark\" for the race, and referencing the world lead mark by Sho Sakazaki of Japan, as the camera captures the athletes' determination and fatigue.",
+        "The 10,000m race walk at the IAAF World U20 Championships 2018 unfolds in Tampere Stadium under bright daylight, with the on-screen timer progressing from 30:24 to 32:16. A commentator notes an athlete in 11th position, 37 seconds behind the leading group, while a female announcer's voice, likely a stadium announcement, is heard in Finnish, mentioning 'Tampereella.' The camera closely follows the tight front group of three athletes: David HURTADO (Ecuador, bib 222, blue and yellow), Yao ZHANG (China, bib 198, red and yellow), and José ORTIZ (Guatemala, bib 345, blue and white). The commentator confirms, 'Hurtado leads,' with 'Zhang Yao' in second, noting his past victory in his home country's World Race Walking Team Championships, and 'José Ortiz is third.' The commentator emphasizes, 'It's a front three now, pulling away from the rest.' As the athletes maintain their steady, rhythmic walk along the red track, passing a yellow timing device and a 400m marker sign, background crowd noise and rhythmic clapping are audible. HURTADO and ORTIZ occasionally glance at each other. The camera shifts from a close side view to a wide aerial perspective, revealing the vast stadium with its red and white seating, green infield, and advertising banners for brands like SEIKO and Coca-Cola. Volunteers in blue shirts hand out water bottles, and a trackside camera operator films. The commentator then announces, 'A warning there for Zhang Yao,' clarifying that it's 'just a warning' and a 'yellow paddle there issued for loss of contact,' which doesn't carry a penalty. The IAAF World Athletics Series logo briefly flashes as the athletes round a bend, maintaining their formation.",
+        "The video captures a minute of the 10,000m race walk at the IAAF World U20 Championships 2018 in Tampere, under bright, sunny conditions, with the elapsed time progressing from 32:15 to 33:15. A commentator explains the strict race walking rules, mentioning potential 'yellow paddle' warnings for 'loss of contact or a bent knee,' indicating athletes are 'close to being in breach of the rules.' The camera follows a tight lead pack on the red track, featuring David HURTADO (Ecuador, bib 222, blue/yellow) and Zhaozhao WANG (China, bib 197, red/yellow) maintaining a steady, rhythmic walk alongside José ORTIZ (Guatemala, bib 345, blue/white) and Riccardo ORSONI (Italy, bib 410, white/green). Hurtado is seen 'puffing out the cheeks' in exertion, and a volunteer in a blue shirt hands him a water bottle. The commentator highlights a shift in dynamics as 'the front two now breaking away from Ortiz,' noting that the Guatemalan, despite being 'just outside the world top 10 this year at 8000 meters,' is 'struggling to keep pace now.' David Hurtado is identified as 'the 19-year-old.' On-screen graphics display distance markers like 8000m and the elapsed time, while advertising banners for SEIKO, Coca-Cola, and Visit Tampere are visible trackside, along with a cameraman actively filming. The commentator also briefly references a 'World Race Walking Team Championships winner' from a previous event, underscoring the high caliber of the competition. Spectators are sparsely seated in the red and white stadium stands, observing the disciplined pace and synchronized strides of the focused athletes.",
+        "The 10,000m race walk at the IAAF World U20 Championships in Tampere 2018 progresses under bright daylight, with the on-screen timer advancing from 33:15 to 34:14. English commentators note the race is moving into its final chapter, highlighting the presence of \"Ecuador from China\" in the lead pack. The camera follows the athletes, including David HURTADO (Ecuador, bib 222, blue and yellow) and Yao ZHANG (China, bib 198, red and yellow), as they navigate a curve and continue along the straightaway, maintaining a consistent, rhythmic pace. Commentators explicitly name HURTADO and ZHANG, confirming neither has incurred any red cards, and identify Yao ZHANG as leading. José ORTIZ (Guatemala, bib 345, blue and white) is also in the front group, with commentators placing him in third position. Riccardo ORSONI (Italy, bib 410, white and green) is visible among the leaders. Volunteers in blue shirts hand out water bottles, which HURTADO and ORSONI accept. Trackside, yellow SEIKO timing equipment and digital distance markers, including '3600m' and '4400m', are visible alongside advertising banners for SEIKO, TDK, Ford, and DEFA. The stadium seats remain sparsely populated, and shadows indicate strong overhead sunlight. Finnish commentary is also heard, mentioning \"Mexico\" and \"Roberto,\" while the English commentator provides context on the local time being half past 11, three hours ahead of GMT, and anticipates a head-to-head battle."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 32,
+      "end_minute": 42,
+      "summary": "The IAAF World U20 Championships Tampere 2018 10,000m race walk final unfolded under bright sunlight on the red track, with on-screen graphics and SEIKO timing equipment displaying real-time progress. Initially, David HURTADO (ECU) led, but Yao ZHANG (CHN) mounted a challenge, with commentators noting HURTADO received a red card for loss of contact and later a yellow paddle. Despite HURTADO's efforts to regain the lead, ZHANG made decisive moves, particularly in the final laps and at the bell, pulling ahead. The race culminated in a dramatic photo finish, with both ZHANG and HURTADO crossing the line almost simultaneously, both clocked at 40:32.06. ZHANG was ultimately declared the winner, with HURTADO taking second and José ORTIZ (GUA) securing third. Post-race, ZHANG celebrated with the Chinese flag, while HURTADO and ORTIZ also carried their national flags, exchanging gestures of sportsmanship. Athletes like Dominic Samson NDIGITI and Declan TINGAY were also noted, with NDIGITI facing shoe issues and TINGAY achieving a national record in fourth. The sparsely populated Tampere Stadium, lined with advertising banners and national flags, provided a backdrop to this closely contested event, with officials in white shirts monitoring and volunteers distributing water.",
+      "involved_entities": {
+        "Advertising Banners": {
+          "description": "Large banners along the track displaying logos and text for 'SEIKO', 'TDK', 'ESPN', and 'IAAF World U20 Championships Tampere 2018', visible as the athletes pass by.",
+          "attribute": "visual"
+        },
+        "Umbrella Shelter": {
+          "description": "Large beige umbrellas providing shade for athletes and officials near the discus throwing area.",
+          "attribute": "visual"
+        },
+        "David HURTADO": {
+          "description": "Ecuadorian athlete in a blue and yellow uniform with bib number 222, walking with the Ecuadorian flag draped over his shoulders, waving it proudly, celebrating his second-place finish with a time of 40:32.06, marked as a personal best (PB). Commentators highlight his performance, stating he 'found a burst out of somewhere' and 'produced an incredible finish,' confirming he 'gets the silver'.",
+          "attribute": "audio-visual"
+        },
+        "Zhaozhao WANG": {
+          "description": "Chinese athlete in a red and yellow uniform with bib number 197, walking with a determined stride in the front group, maintaining a steady pace alongside HURTADO and Ortiz.",
+          "attribute": "visual"
+        },
+        "Volunteer Hydration Staff": {
+          "description": "Individuals in blue shirts and gloves, positioned along the track, handing out water bottles to athletes as they pass.",
+          "attribute": "visual"
+        },
+        "Trackside Camera Operator": {
+          "description": "A cameraman in dark clothing, positioned near the track, actively filming the athletes as they pass, crouched with a large lens, capturing the post-race celebrations.",
+          "attribute": "visual"
+        },
+        "SEIKO Timing Equipment": {
+          "description": "Yellow and black timing devices and digital displays along the track, including a large screen showing the finish line timing and a replay graphic with timestamps from 40:32.0 to 40:32.7, capturing the decisive moment of the race.",
+          "attribute": "visual"
+        },
+        "On-Screen Graphics": {
+          "description": "Digital overlays displaying event information, including 'IAAF WORLD U20 CHAMPIONSHIPS', '10,000m Race Walk', and the winner's name, country, time, and 'PB' (personal best) designation, with David HURTADO's result shown as 2nd place with 40:32.06 PB.",
+          "attribute": "visual"
+        },
+        "Stadium Spectators": {
+          "description": "Audience members seated in red and white stadium seats, sparsely distributed, observing the race and interacting with athletes, some waving and cheering.",
+          "attribute": "visual"
+        },
+        "Race Officials": {
+          "description": "Officials in white shirts and black pants, seen standing near the track, monitoring the athletes and managing the event; one is writing notes on a clipboard, another is walking and gesturing along the track.",
+          "attribute": "visual"
+        },
+        "Yao ZHANG": {
+          "description": "Chinese athlete in a red and yellow uniform with bib number 26, draped in the Chinese flag, smiling and waving to the crowd, later embracing a man in a dark blue shirt and white cap, showing joy and pride. His victory is explicitly announced by commentators as 'victory to Zhang Yao' despite sharing the same finish time as Hurtado.",
+          "attribute": "audio-visual"
+        },
+        "Tampere Stadium": {
+          "description": "Large outdoor athletics stadium with red and white seating, a green field, a red running track, and national flags lining the upper stands, hosting the IAAF World U20 Championships 2018, under bright sunlight.",
+          "attribute": "visual"
+        },
+        "José ORTIZ": {
+          "description": "Guatemalan athlete in a blue and white uniform with bib number 345, carrying the Guatemalan flag over his shoulder, walking beside Yao ZHANG, appearing respectful and composed, and exchanging a handshake and brief interaction. Commentators announce he receives 'the bronze'.",
+          "attribute": "audio-visual"
+        },
+        "Declan TINGAY": {
+          "description": "Australian athlete in a blue and white uniform with bib number 130, wearing green-tinted sunglasses, walking in the pack with a focused expression, maintaining a steady rhythm. Commentators mention him by name, noting 'Tingay of Australia, a national record mark in fourth'.",
+          "attribute": "audio-visual"
+        },
+        "Andriy SYNDYUK": {
+          "description": "Ukrainian athlete in a blue and yellow uniform with bib number 631, visible walking in the pack, accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "Scoreboard Display": {
+          "description": "A yellow electronic scoreboard showing '9000m' and elapsed time, updating with athlete positions and times, including David HURTADO in first place and later Yao ZHANG taking the lead.",
+          "attribute": "visual"
+        },
+        "Kyle SWAN": {
+          "description": "Australian athlete in a blue and white uniform with bib number 129, walking with hands on hips, maintaining pace in the middle of the pack, visible as the group rounds the bend.",
+          "attribute": "visual"
+        },
+        "Dominic Samson NDIGITI": {
+          "description": "Kenyan athlete in a green and black uniform with bib number 461, walking steadily along the track, later slowing down near the finish line area, with 'KENYA' and 'NDIGITI' visible on his bib.",
+          "attribute": "visual"
+        },
+        "Riccardo ORSONI": {
+          "description": "Italian athlete in a white and green uniform with bib number 410, visible walking in the lead pack with a focused stride, positioned behind HURTADO and ZHANG.",
+          "attribute": "visual"
+        },
+        "Yellow Timing Marker": {
+          "description": "A yellow digital sign on the track displaying '15' and the elapsed time, indicating the distance covered by the athletes as they progress.",
+          "attribute": "visual"
+        },
+        "Bálint SÁROSSI": {
+          "description": "Hungarian athlete in a green and white uniform with bib number 359, visible in the pack behind the leaders, walking with a determined stride.",
+          "attribute": "visual"
+        },
+        "4400m Distance Marker": {
+          "description": "A large digital sign on the track displaying '4400m' and the elapsed time, indicating the current distance covered by the athletes as they progress through the race.",
+          "attribute": "visual"
+        },
+        "Chinese Flag": {
+          "description": "A large red flag with five yellow stars, draped over Yao ZHANG's shoulders as he walks, symbolizing national pride and celebration of his performance.",
+          "attribute": "visual"
+        },
+        "Sho SAKAZAKI": {
+          "description": "Japanese athlete in a black and red uniform with bib number 448, walking with a focused, steady pace, visible in the front pack, and later seen accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "Coach/Official": {
+          "description": "Man in a dark blue shirt and white cap, interacting with Yao ZHANG, sharing a high-five and a brief embrace, likely a coach or team official, showing support and celebration.",
+          "attribute": "visual"
+        },
+        "Georgios TZATZIMAKIS": {
+          "description": "Greek athlete in a blue and white uniform with bib number 344, listed on the starting lineup graphic.",
+          "attribute": "visual"
+        },
+        "Starting Line Equipment": {
+          "description": "Yellow and black timing devices and cones marking the start of the 10,000m race walk event, with a digital display showing elapsed time.",
+          "attribute": "visual"
+        },
+        "Yohanis ALGAW": {
+          "description": "Ethiopian athlete in a green and white uniform with bib number 254, walking with a determined stride, visible in the front group, maintaining a steady pace.",
+          "attribute": "visual"
+        },
+        "Tatsuhiko NAGAYAMA": {
+          "description": "Japanese athlete in a red and white uniform with bib number 446, walking steadily in the front group with a composed, rhythmic stride, and accepting a water bottle from a volunteer.",
+          "attribute": "visual"
+        },
+        "Mikita KALIADA": {
+          "description": "Belarusian athlete in a red and white uniform with bib number 158, wearing a red cap and reflective sunglasses, standing with a focused look, visible further back in the pack.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The 10,000m race walk event at the IAAF World U20 Championships Tampere 2018 unfolds under bright daylight on the red track, with on-screen graphics displaying distances like 8400m and 8800m, and elapsed times such as 34:15.91 and 36:02.7. Commentators observe the lead pack, noting that David HURTADO (ECU, bib 222) in blue and yellow, initially leading with a steady, focused walk, \"cannot shake\" Yao ZHANG (CHN, bib 198) in red and yellow. Zhaozhao WANG (CHN, bib 197) in red and yellow, and José ORTIZ (GUA, bib 345) in blue and white, also maintain rhythmic strides, though commentators mention \"a big gap to Ortiz.\" A critical development is announced as HURTADO \"has received a red card\" for \"loss of contact.\" Following this, Yao ZHANG, referred to as \"Jang Yao\" and potentially the \"World Race Walking Team Champion,\" makes his move on HURTADO with \"three laps to go,\" as only \"1200 meters left\" remain in this men's 10,000 meters race walk final. Trackside, officials in white shirts monitor the race, volunteers in blue shirts hand out water bottles, and cameramen capture the event. Advertising banners for SEIKO, TDK, Ford, and Coca-Cola line the track, while large beige umbrellas provide shade. The stadium seating is sparsely populated, and the green infield contrasts with the red track, creating a competitive yet orderly atmosphere.",
+        "The 10,000m race walk at the IAAF World U20 Championships in Tampere unfolds under bright sunlight, with athletes maintaining a focused, rhythmic pace on the red track. Commentary immediately highlights a key development: \"And now Zhang Yao is looking to mount a charge away from Hurtado,\" with the commentator questioning if he's gone \"too early.\" The camera tracks the lead pack, featuring Yao ZHANG (CHN, bib 198) in red and yellow, David HURTADO (ECU, bib 222) in blue and yellow, and José ORTIZ (GUA, bib 345) in blue and white. As they pass the 9000m mark, on-screen graphics initially show HURTADO leading with a 3:57.00 per km pace, closely trailed by ZHANG. The commentator confirms, \"This is a decisive move by Zhang,\" describing him as looking \"comfortable\" with a \"slight look around,\" while HURTADO is \"now in second\" and \"Ortiz of Guatemala in third.\" The 3:57 split for the last thousand meters is noted, and the commentator emphasizes that HURTADO's previous \"0.23 of a second advantage\" has now \"changed,\" explicitly stating, \"it is actually the Chinese athlete Zhang Yao who is the leader.\" Volunteers in blue shirts offer water bottles to athletes like Andriy SYNDYUK (UKR, bib 631) and Declan TINGAY (AUS, bib 130) as they continue their stride. Trackside, advertising banners for TDK, SEIKO, Coca-Cola, and OP are visible, along with digital distance markers. The stadium seating is sparsely populated. As the camera pans across the track, capturing the athletes rounding the bend towards the 10,000m finish area, the scoreboard updates to reflect ZHANG's lead, followed by HURTADO and TINGAY. The commentary also provides context, mentioning \"105 meters on Wang of China\" and the world lead mark of \"40 minutes 17.82 seconds\" as the race progresses towards its final two laps.",
+        "The 10,000m race walk at the IAAF World U20 Championships Tampere 2018 unfolds under bright daylight on the red track, with the scoreboard updating to show distances like 9200m and elapsed times nearing 38 minutes. Commentary notes an athlete named \"Tingay\" in fourth place, 18 seconds behind the leaders. The camera smoothly follows the front pack around a curved section, capturing their focused expressions. Yao ZHANG (China, bib 198) in red and yellow, initially leading, is now intensely challenged by David HURTADO (Ecuador, bib 222) in blue and yellow, whom commentators identify as \"Cam Hatardo,\" praising his \"cracking finish\" and noting he has \"forced his way back into the reckoning\" after ZHANG was thought to have made a \"decisive break.\" Kyle SWAN (Australia, bib 129) in blue and white, Dominic Samson NDIGITI (Kenya, bib 461) in green and black (seen accepting water), and Zhaozhao WANG (China, bib 197) in red and yellow, maintain their steady, rhythmic pace within the leading group. With \"800 meters to go,\" the race is anticipated to conclude around the \"40-minute mark,\" with the championship record standing at \"39 minutes 27,\" set four years prior in Eugene. Volunteers in blue shirts distribute water bottles, while officials in white monitor the event. Advertising banners for SEIKO, Coca-Cola, and TDK line the track, and the stadium's sparsely populated red and white seating is visible under clear skies, all complemented by on-screen graphics displaying real-time positions, times, and penalties.",
+        "The 10,000m race walk at the IAAF World U20 Championships in Tampere unfolds under bright, sunny skies, with the on-screen timer advancing from 38:29 to 39:18. David HURTADO (Ecuador, bib 222, blue and yellow) and Yao ZHANG (China, bib 198, red and yellow) dominate the front, maintaining a steady, rhythmic walk side-by-side on the red track. Commentators highlight their intense 'battle of wills,' noting that HURTADO is 'not ready to give this up easily' while ZHANG is 'trying to go again,' pushing hard in this 'latter stage of the race.' As the camera pulls back, other athletes like Bálint SÁROSSI (Hungary) and Riccardo ORSONI (Italy) are seen further behind, with trackside features including yellow SEIKO timing equipment, Ford, asics, and DEFA advertising banners, and a scoreboard displaying '9600m.' Commentary then shifts to race walking rules, explaining that Chief Judge Ralph Muller has the power to disqualify athletes outright for breaches. Crucially, a 'yellow paddle' is noted for the Chinese athlete, Jiang Yao (Yao ZHANG). As they approach the bell, ZHANG makes a decisive move, with commentators exclaiming, 'Jiang Yao's made a move on the bell! He's trying to break Hurtado again!' ZHANG then 'moves away,' pulling ahead, leaving HURTADO to respond, having 'done so once' already.",
+        "The 10,000m race walk at the IAAF World U20 Championships Tampere 2018 progresses under bright sunlight on a red track, with athletes maintaining a steady pace. Commentators immediately focus on David Hurtado (Ecuador, bib 222) in blue and yellow, noting he received a yellow paddle but wasn't deterred, as he now attempts to challenge a decisive 'break' made by Yao Zhang (China, bib 198) in red and yellow. Zhang, referred to as 'Yang' and 'Zhang Yao' by the commentators, walks with a focused, rhythmic stride, gradually extending his lead, while Hurtado struggles to respond to his surge, with commentators questioning if he can catch 'Yang' at this stage. The camera follows the lead pack, which also includes Riccardo Orsoni (Italy, bib 410) and Zhaozhao Wang (China, bib 197), as they navigate the curved sections of the track, passing yellow SEIKO timing markers and digital distance displays showing '9600m' and elapsed times around 39:20 to 40:18. Commentators emphasize the 'very close finish' to this 'Men's 10,000 meters race walk final here in Tampere,' highlighting that Zhang Yao has already won a world event this year in Taicang and is now closing in on a World Under 20 title. Trackside, advertising banners for 'SEIKO', 'Ford', 'DEFA', 'asics', and 'Coca-Cola' are visible, and volunteer hydration staff in blue shirts offer water bottles. Race officials in white shirts monitor the event, with commentators specifically mentioning 'three judges on the home straight' who will be watching 'very, very carefully.' As Zhang Yao enters the home straight, commentators conclude that Hurtado, despite his efforts to 'nudge back' and 'chase Zhang Yao,' likely 'has not got enough to give,' unless he can find an unexpected burst. The stadium seating remains sparsely populated, and the camera smoothly captures the athletes' determined expressions and consistent walking technique as the on-screen timer advances.",
+        "Under bright sunlight at the IAAF World U20 Championships Tampere 2018, the 10,000m race walk unfolds on the red track, with judges \"watching carefully\" as athletes progress. The camera follows the leading pack from a high-angle perspective, prominently featuring Zhaozhao WANG (bib 197) and Yao ZHANG (bib 198) in red and yellow, alongside David HURTADO (bib 222) in blue and yellow, all maintaining a steady, rhythmic walk. The commentator identifies \"Zhang Yao\" as \"the winner in Taisung\" with a \"world best mark.\" As the on-screen timer reads around 40:20–41:15 and a KM marker shows 3:54.70, athletes approach the 4000m mark, passing yellow SEIKO timing equipment and a '4400m' digital marker. Suddenly, the commentator exclaims, \"Hurtado's making a late charge! Hurtado on the line! Well, that's incredible!\" describing a dramatic photo finish. They initially believe \"Zhang Yao\" \"is just about got it,\" but note \"Hurtado came from nowhere with a burst of speed,\" which \"may require some investigation,\" emphasizing that \"judges will have watched that very, very carefully\" and \"will report back to the chief judge.\" Race officials in white shirts and black pants monitor the event, while volunteers in blue shirts hand out water bottles, one being accepted by Dominic Samson NDIGITI (bib 461) from the trailing pack, which also includes Bálint SÁROSSI (bib 359). Trackside advertising banners for SEIKO, Ford, and DEFA are visible, and the green infield with discus throw equipment is seen. The stadium seats are mostly empty with sparse spectators. The camera had briefly zoomed on WANG and ZHANG earlier, then panned to show the trailing pack. The commentator then mentions \"Ortiz of Guatemala who got the bronze,\" before reiterating that \"Zhang Yao\" \"was celebrating his victory, his arms were in the air as he went across the line,\" and that \"Hurtado came with a massive burst which appeared to be in vain.\" The scoreboard continues to update with times and distances, reflecting the race's progression. The commentator concludes by stating they \"will just wait to get confirmation\" on the finish, and notes \"there comes Ndigiti.\"",
+        "The 10,000m race walk at the IAAF World U20 Championships Tampere 2018 unfolds under bright, sunny midday conditions, casting sharp shadows across the track. A Kenyan athlete, Dominic Samson NDIGITI (bib 461), in a green and black uniform, is seen walking steadily past the 41:19 mark. Commentators note that Ndigiti faced \"all sorts of problems\" during the race, including an \"issue with his shoe,\" and appeared to be \"hurting at various points,\" yet they commend his \"strong\" finish. The camera then follows a focused Japanese athlete, Sho SAKAZAKI (bib 448), in black and red, and other competitors, including a Chinese athlete, Yao ZHANG (bib 198), who is later seen celebrating draped in the Chinese flag. The commentators discuss the dramatic finish, mentioning a \"photo finish\" and a \"burst of speed\" from another athlete, Hurtado, in the final 15-20 meters, questioning if he \"bend the knee\" and noting that \"judges will have a close look\" at the exciting conclusion. Yellow SEIKO timing devices and digital distance markers, like '42:07.2' and '9000m', line the track. Officials in white shirts and black pants monitor the race, while volunteers in blue shirts offer water bottles. The stadium, with its red and white seating, has sparse spectators, and advertising banners for SEIKO, TDK, and ESPN are visible. The atmosphere remains competitive yet calm as athletes approach the final stretch.",
+        "The segment opens under bright, sunny conditions at the IAAF World U20 Championships Tampere 2018, capturing the final moments of the 10,000m race walk. Chinese athlete Yao ZHANG, in a red and yellow uniform with bib 198, walks confidently with a large Chinese flag draped over his shoulders, smiling and waving to the sparse crowd, exuding pride and joy. Commentators immediately note that \"Chinese flags are out\" while discussing the ongoing wait for official race results, emphasizing that the finish \"did go down to the line.\" The camera then pans to José ORTIZ, the Guatemalan athlete in blue and white with bib 345, also walking with his national flag, appearing composed and respectful, as the commentary confirms \"Ortiz guaranteed third.\" Visually, the track is marked with white lanes, surrounded by green grass, with yellow SEIKO timing equipment displaying elapsed times like '42:32.2'. Other athletes, including David HURTADO in blue and yellow (bib 222), are seen cooling down and receiving water from volunteers. The commentators repeatedly question Hurtado's technique, asking if he was \"able to maintain contact at all times,\" and discussing the \"possibility that Hurtado could be disqualified because in the last 100 meters you can be outright disqualified,\" with the chief judge, Ralph Muller, expected to review. The stadium features red and white seating, national flags lining the upper stands, and advertising banners for 'SEIKO', 'TDK', and 'ESPN', creating a celebratory and relaxed atmosphere despite the commentary's focus on the pending results. The segment concludes with a dynamic transition to the IAAF World Athletics Series logo, as commentators reiterate, \"We are still waiting for the result of this 10,000 meters.\"",
+        "The segment opens with a close-up of Chinese athlete Yao ZHANG (bib 26) and Ecuadorian athlete David HURTADO (bib 222) intensely walking side-by-side near the finish line of the IAAF World U20 Championships 10,000m Race Walk Men event in Tampere 2018. A male commentator immediately confirms Yao ZHANG's victory, stating \"Yao has been credited with victory\" and \"Yao's got it.\" As the camera pulls back to an aerial view, showing the athletes approaching the SEIKO-marked finish line, the commentator urges viewers to \"Watch the end here,\" describing Yao ZHANG making his way towards the line, seeing \"glory,\" while HURTADO comes \"storming along.\" A slow-motion replay highlights Yao ZHANG edging ahead, with the SEIKO timing system capturing the split-second difference. The commentator confirms \"Jang Yao got there\" and HURTADO is given second, emphasizing they were given \"the same time\" for the 10,000 meters. A female commentator expresses disbelief at the \"drama,\" noting they \"still cannot be separated on times.\" The male commentator then confirms the official time of \"40:32:06,\" with HURTADO given second and Guatemalan athlete José ORTIZ (bib 345) getting third. Post-finish, Yao ZHANG, draped in the Chinese flag, smiles and waves to the crowd, celebrating his win. HURTADO and ORTIZ, also carrying their national flags, walk beside him. The male commentator notes Yao ZHANG can celebrate, being a \"double world champion in 2018\" and achieving a \"personal best mark,\" though he might not realize how incredibly close the finish was. The female commentator echoes this sentiment, mentioning \"Zhang Yao\" again. The bright, sunny Tampere Stadium, with its red and white seating, national flags, and advertising banners for SEIKO, TDK, and ESPN, provides a celebratory backdrop to the athletes' post-race interactions, captured by photographers. On-screen graphics confirm Yao ZHANG's win and PB.",
+        "The post-race celebration of the 10,000m Race Walk Men at the IAAF World U20 Championships Tampere 2018 unfolds under bright sunlight, as commentators express astonishment at the \"incredible finish\" of the 10,000-meter race, noting the drama of a photo finish split by \"thousands of a second.\" Yao ZHANG, the Chinese athlete in red and yellow, proudly drapes himself in the Chinese flag, smiling and waving to the spectators in the red and white stadium seats, while exchanging a friendly handshake with José ORTIZ, the Guatemalan athlete carrying his nation's flag. ZHANG then shares a high-five and embrace with a coach or official, reflecting the celebratory mood. Meanwhile, David HURTADO, the Ecuadorian athlete, is seen waving his flag, celebrating his second-place finish and personal best time of 40:32.06. Commentators specifically highlight HURTADO, stating he \"made it exciting for us in that final 100 meters\" and noting his confident demeanor, believing the judges have nothing to review. The stadium, adorned with event and sponsor banners like 'SEIKO' and 'TDK', buzzes with crowd murmurs and cheers, capturing a moment of triumph and sportsmanship as the camera follows the athletes along the track.",
+        "The segment opens with a dramatic replay of the final moments of the 10,000m Race Walk Men's event at the IAAF World U20 Championships in Tampere 2018, as a male commentator exclaims, \"Here it is again. Look at this. It's unbelievable finish.\" Yao ZHANG (CHN, bib 26) and David HURTADO (ECU, bib 222) cross the finish line nearly simultaneously, both clocking 40:32.06, with ZHANG ultimately declared the winner. The commentator notes, \"Hurtado found a burst out of somewhere and managed, as far as we're aware at the moment, not...\" while a female commentator adds, \"You could not write this. Such is the excitement and drama on the track here today.\" The camera follows the athletes past the finish line, where SEIKO timing equipment and a digital display confirm the final times. Another male commentator wraps up, \"Let's wrap up what was an incredible men's 10,000-meter race walk final. The same time for the athletes who finished in first and second, but victory to Zhang Yao.\" He continues, \"Hurtado produced an incredible finish. He gets the silver. Ortiz the bronze. Tingay of Australia, a national record mark in fourth.\" Visually, Yao ZHANG, draped in the Chinese flag, celebrates alongside José ORTIZ (GUA, bib 345) and David HURTADO, who proudly carries the Ecuadorian flag, exchanging smiles and gestures of sportsmanship. ZHANG embraces a coach or official in a dark blue shirt and white cap. The scoreboard graphic then appears, listing the final results: Yao ZHANG (1st, 40:32.06 PB), David HURTADO (2nd, 40:32.06 PB), José ORTIZ (3rd, 40:45.26 PB), and Declan TINGAY (AUS) in fourth, among others. The Tampere Stadium, with its red and white seating and national flags, is shown under bright sunlight, conveying a celebratory atmosphere with athletes and officials interacting, and sparse but engaged spectators. The video concludes with a panoramic view of the stadium, track, and field under a clear blue sky."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Matheus CORREA": "Brazilian athlete in a green and yellow uniform with bib number 173, wearing a white cap and sunglasses, walking attentively in the middle of the pack.",
+    "David HURTADO": "Ecuadorian athlete in a blue and yellow uniform with bib number 222, walking with the Ecuadorian flag draped over his shoulders, waving it proudly, celebrating his second-place finish with a time of 40:32.06, marked as a personal best (PB). Commentators highlight his performance, stating he 'found a burst out of somewhere' and 'produced an incredible finish,' confirming he 'gets the silver'.",
+    "Dongmin IM": "South Korean athlete in a white and red uniform with bib number 466, wearing a white cap and sunglasses, standing calmly.",
+    "Ricardo ORSONI": "Italian athlete in a white and green uniform with bib number 410, standing near the starting line with a serious expression.",
+    "José Gilberto MENJIVAR": "Salvadoran athlete in a blue and white uniform with bib number 228, shown bending over in distress, later listed as DQ on the scoreboard.",
+    "Jan MOREU": "Puerto Rican athlete in a red and white uniform with bib number 536, listed on the starting lineup graphic.",
+    "Anderson CALLEJAS": "Colombian athlete in a white and red uniform with bib number 201, standing at the starting line with a focused demeanor.",
+    "Abdulaziz DANIS": "Turkish athlete in a white and red uniform with bib number 608, standing at the starting line with a composed posture.",
+    "Georgios TZATZIMAKIS": "Greek athlete in a blue and white uniform with bib number 344, listed on the starting lineup graphic.",
+    "José Manuel PÉREZ": "Spanish athlete in a red and yellow uniform with bib number 243, listed on the starting lineup graphic.",
+    "Bálint SÁROSSI": "Hungarian athlete in a green and white uniform with bib number 359, visible in the pack behind the leaders, walking with a determined stride.",
+    "Yohanis ALGAW": "Ethiopian athlete in a green and white uniform with bib number 254, walking with a determined stride, visible in the front group, maintaining a steady pace.",
+    "Sho SAKAZAKI": "Japanese athlete in a black and red uniform with bib number 448, walking with a focused, steady pace, visible in the front pack, and later seen accepting a water bottle from a volunteer.",
+    "Zhaozhao WANG": "Chinese athlete in a red and yellow uniform with bib number 197, walking with a determined stride in the front group, maintaining a steady pace alongside HURTADO and Ortiz.",
+    "David KUSTER": "French athlete in a white and blue uniform with bib number 284, walking with a steady, focused pace in the lead pack, and accepting a water bottle from a volunteer.",
+    "Andriy SYNDYUK": "Ukrainian athlete in a blue and yellow uniform with bib number 631, visible walking in the pack, accepting a water bottle from a volunteer.",
+    "Othman CHIBANI": "Algerian athlete in a red and white uniform with bib number 103, visible in the pack and later listed with a penalty on the scoreboard, confirmed by commentators as being among 'six' athletes currently on one red card.",
+    "José ORTIZ": "Guatemalan athlete in a blue and white uniform with bib number 345, carrying the Guatemalan flag over his shoulder, walking beside Yao ZHANG, appearing respectful and composed, and exchanging a handshake and brief interaction. Commentators announce he receives 'the bronze'.",
+    "Abdulsalam IMUK": "Turkish athlete in a white and red uniform with bib number 609, visible in the pack and later listed with a penalty on the scoreboard, confirmed by commentators as being among 'six' athletes currently on one red card.",
+    "Lukasz NIEDZIALEK": "Polish athlete in a white and red uniform with bib number 520, wearing a red cap, standing attentively.",
+    "Mingyu KIM": "South Korean athlete in a white and red uniform with bib number 467, wearing sunglasses, standing calmly.",
+    "Álvaro LÓPEZ NUÑEZ": "Spanish athlete in a red and yellow uniform with bib number 237, wearing a white cap, standing calmly at the starting line.",
+    "Viktor KONONENKO": "Ukrainian athlete in a blue and yellow uniform with bib number 628, wearing a yellow cap, standing with hands on hips.",
+    "Stadium Spectators": "Audience members seated in red and white stadium seats, sparsely distributed, observing the race and interacting with athletes, some waving and cheering.",
+    "Yao ZHANG": "Chinese athlete in a red and yellow uniform with bib number 26, draped in the Chinese flag, smiling and waving to the crowd, later embracing a man in a dark blue shirt and white cap, showing joy and pride. His victory is explicitly announced by commentators as 'victory to Zhang Yao' despite sharing the same finish time as Hurtado.",
+    "Abdulrahman MAHMOUD": "Egyptian athlete in a white and red uniform with bib number 224, visible in the pack and later listed with a penalty on the scoreboard, confirmed by commentators as being among 'six' athletes currently on one red card.",
+    "Starting Line Equipment": "Yellow and black timing devices and cones marking the start of the 10,000m race walk event, with a digital display showing elapsed time.",
+    "Declan TINGAY": "Australian athlete in a blue and white uniform with bib number 130, wearing green-tinted sunglasses, walking in the pack with a focused expression, maintaining a steady rhythm. Commentators mention him by name, noting 'Tingay of Australia, a national record mark in fourth'.",
+    "Nicolas FANELLI": "Italian athlete in a white and green uniform with bib number 395, visible in the pack and later listed with a penalty on the scoreboard, confirmed by commentators as being among 'six' athletes currently on one red card.",
+    "Kyle SWAN": "Australian athlete in a blue and white uniform with bib number 129, walking with hands on hips, maintaining pace in the middle of the pack, visible as the group rounds the bend.",
+    "Aníbal ZAPETA": "Guatemalan athlete in a blue and white uniform with bib number 346, visible in the pack, later listed with a penalty on the scoreboard.",
+    "Trackside Camera Operator": "A cameraman in dark clothing, positioned near the track, actively filming the athletes as they pass, crouched with a large lens, capturing the post-race celebrations.",
+    "Tatsuhiko NAGAYAMA": "Japanese athlete in a red and white uniform with bib number 446, walking steadily in the front group with a composed, rhythmic stride, and accepting a water bottle from a volunteer.",
+    "Antonio LOJA": "Ecuadorian athlete in a yellow and blue uniform with bib number 223, wearing a red cap, standing with hands on hips.",
+    "Mikita KALIADA": "Belarusian athlete in a red and white uniform with bib number 158, wearing a red cap and reflective sunglasses, standing with a focused look, visible further back in the pack.",
+    "Race Officials": "Officials in white shirts and black pants, seen standing near the track, monitoring the athletes and managing the event; one is writing notes on a clipboard, another is walking and gesturing along the track.",
+    "Pavel OLKHOVIK": "Belarusian athlete in a red and white uniform with bib number 159, standing with a serious look.",
+    "Dominic Samson NDIGITI": "Kenyan athlete in a green and black uniform with bib number 461, walking steadily along the track, later slowing down near the finish line area, with 'KENYA' and 'NDIGITI' visible on his bib.",
+    "Advertising Banners": "Large banners along the track displaying logos and text for 'SEIKO', 'TDK', 'ESPN', and 'IAAF World U20 Championships Tampere 2018', visible as the athletes pass by.",
+    "Scoreboard Display": "A yellow electronic scoreboard showing '9000m' and elapsed time, updating with athlete positions and times, including David HURTADO in first place and later Yao ZHANG taking the lead.",
+    "400m Marker Sign": "A digital sign on the track displaying '1200m' and the elapsed time, indicating the distance covered by the athletes as they progress.",
+    "Discus Throw Equipment": "The discus throwing circle, measuring devices, and surrounding safety barriers set up on the field, with officials and athletes gathered nearby.",
+    "Umbrella Shelter": "Large beige umbrellas providing shade for athletes and officials near the discus throwing area.",
+    "On-Screen Graphics": "Digital overlays displaying event information, including 'IAAF WORLD U20 CHAMPIONSHIPS', '10,000m Race Walk', and the winner's name, country, time, and 'PB' (personal best) designation, with David HURTADO's result shown as 2nd place with 40:32.06 PB.",
+    "Yaouheni BAHUTSKI": "Belarusian athlete in a red and white uniform with bib number 1119, wearing a red cap and a white towel draped over his head and shoulders, standing under a beige umbrella, appearing focused and adjusting his posture.",
+    "Tampere Stadium": "Large outdoor athletics stadium with red and white seating, a green field, a red running track, and national flags lining the upper stands, hosting the IAAF World U20 Championships 2018, under bright sunlight.",
+    "Mohamed Ibrahim MOAAZ": "Qatari athlete with bib number 1260, wearing a dark jacket and a white towel over his head, standing under an umbrella, with on-screen graphics showing his personal best (PB) and season best (SB) of 66.47 meters, likely from a discus throw event. Commentators describe him as 'fourth in the world this year,' 'the man they might have to beat,' 'the winner in Bydgoszcz,' and the 'defending champion,' a 'superstar' in Qatar training out of Aspire Academy, and 'on top of the world this year as well' for his 66.47m throw.",
+    "Volunteer Hydration Staff": "Individuals in blue shirts and gloves, positioned along the track, handing out water bottles to athletes as they pass.",
+    "Trackside Equipment": "Yellow and black timing devices and cones marking the start of the 10,000m race walk event, with a digital display showing elapsed time.",
+    "Yellow Timing Marker": "A yellow digital sign on the track displaying '15' and the elapsed time, indicating the distance covered by the athletes as they progress.",
+    "Mondo Timing Board": "A white scoreboard with black grid lines labeled 'EVENTO:' and 'DORSAL:', showing bib numbers 359, 346, 609, 103, 395, 228, and 224 marked with red circles, indicating penalties or disqualifications, which a female commentator explains are often due to athletes pushing too hard and their technique breaking down, prompting innovations like 'pit stop areas' to manage these infractions and improve the sport's marketability.",
+    "4400m Distance Marker": "A large digital sign on the track displaying '4400m' and the elapsed time, indicating the current distance covered by the athletes as they progress through the race.",
+    "6400m Distance Marker": "A large digital sign on the track displaying '6400m' and the elapsed time, indicating the current distance covered by the athletes as they progress through the race.",
+    "Riccardo ORSONI": "Italian athlete in a white and green uniform with bib number 410, visible walking in the lead pack with a focused stride, positioned behind HURTADO and ZHANG.",
+    "SEIKO Timing Equipment": "Yellow and black timing devices and digital displays along the track, including a large screen showing the finish line timing and a replay graphic with timestamps from 40:32.0 to 40:32.7, capturing the decisive moment of the race.",
+    "Chinese Flag": "A large red flag with five yellow stars, draped over Yao ZHANG's shoulders as he walks, symbolizing national pride and celebration of his performance.",
+    "Coach/Official": "Man in a dark blue shirt and white cap, interacting with Yao ZHANG, sharing a high-five and a brief embrace, likely a coach or team official, showing support and celebration."
+  }
+}

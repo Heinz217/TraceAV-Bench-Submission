@@ -1,0 +1,555 @@
+{
+  "video_id": "video138",
+  "audio_id": "video138_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 2,
+      "summary": "Savannah XYZ, in an orange suit with a pink visor, initiates a game segment by announcing the intention to 'shove Alejandro' into an inverse teleporter within a vibrant, cartoonish outdoor environment. After a male voice exclaims 'I love public transportation!' and other male voices confirm readiness with 'Okay, you ready?' and 'Let's go!', a device activates with a distinct sound. The scene abruptly shifts to a darker, industrial setting featuring a large, yellow-and-black striped apparatus. A character in an orange suit with a green visor screams 'Run! Run! Run away! Leave me!' amidst chaotic sounds and an explosion. The character with the blue visor falls, and a performance report appears, listing all players as 'DECEASED' with a 'GRADE: F'. A detached male voice questions 'Oh, what just happened? I uh, got back from the bathroom,' while Savannah XYZ asks, 'You guys want to play again?'. The environment then transitions to a desaturated, sepia-toned post-disaster scenario. Savannah XYZ, in first-person view with a flashlight, explores a ruined area, strategizing to split into 'team Alejandro' and 'team B,' reflected in a team interface with cartoon avatars. Alejandro jokes 'I go team die. Let's go die,' and later expresses concern about being 'team also die.' Savannah XYZ asks 'Are you ready, Alejandro?', and another male voice questions if Alejandro is 'coming with you or is he still outside?'. The player navigates a dimly lit industrial interior where Alejandro notices a 'glowing yellow apparatus.' Sounds of a device powering up and a metallic clang are heard, followed by a male voice saying 'I got it.' A 'WARNING INCREASED LEVELS OF RADIATION 70 mSv' overlay appears, accompanied by visible health and weight indicators, and a male voice expresses apprehension: 'I hope we didn't do anything stupid by doing this.' Later, in a dark, industrial environment, a red 'WARNING INCREASED LEVELS OF RADIATION 70 mSv' overlay appears as an alarmed female voice exclaims, 'Oh no. Oh no. Radiation.' The player encounters a character in an orange suit with a green visor reacting with alarm near a large, yellow-and-black striped apparatus, prompting a female voice to ask, 'So, what do we do with that now?' and suggest, 'Okay, let's just leave that.' A male voice states, 'It's not possible,' before another male voice reveals, 'So you may have noticed we found... we found... Big water fucking factory,' referring to the apparatus. The scene shifts to a red 'Performance Report Interface' displaying 'DECEASED' status for players like Alejandro with a 'GRADE: F' and notes like 'The laziest employee'; a male voice confirms, 'Oh, yeah, she's dead. I don't know why, but she's dead,' while a female voice adds, 'But didn't he say 'lazy'? Well, they died,' with another male voice commenting, 'Anything to get out of a day of work.' The setting transitions to a brighter, enclosed control room with metallic walls, control panels, and bunk beds, where three characters in orange suits are gathered around a console; a male voice asks, 'Do you guys get any loot?' and a female voice responds, 'Yeah, we got the apparatus. What do you mean?'. The player interacts with a terminal displaying planetary data ('HAZARD LEVEL: C,' 'POPULATION: Abandoned,' 'FAUNA: A competitive ecosystem supports aggressive lifeforms') as a male voice discusses mission strategy: 'So, I'll tell you guys about the strat, I learn. We only sell the minimum amount. The more stuff you sell, the higher the next quota is,' explaining, 'We do too good of a job, they like give us more assignments.' As the player moves toward a circular hatch, text overlays 'wait' and 'when i picked it up' coincide with a male voice realizing, 'Wait, wait, wait. I don't have it anymore. I think I threw it away when I picked it up,' while a female voice offers reassurance, 'Don't worry, we got you.'",
+      "involved_entities": {
+        "Character in orange suit with pink visor": {
+          "description": "Wears an orange spacesuit with black straps, a pink visor, and has a cartoonish, expressive face; appears distressed in the control room, leaning over a console.",
+          "attribute": "visual"
+        },
+        "Team Avatars Interface": {
+          "description": "Cartoon-style avatars labeled 'team alejandro' and 'team b', with one avatar marked 'DECEASED' in red text. The team names are explicitly mentioned by Savannah XYZ during strategy ('I get to be on team Alejandro, and you guys will be team B').",
+          "attribute": "audio-visual"
+        },
+        "Performance Report Interface": {
+          "description": "A red overlay displaying player names with 'DECEASED' status and a 'GRADE: F' at the end of the sequence, whose content is verbally confirmed and discussed by characters acknowledging the deaths and the 'lazy employee' status as a potential motivation for death.",
+          "attribute": "audio-visual"
+        },
+        "Character in orange suit with blue visor": {
+          "description": "Wears an orange suit with a blue visor and holds a clipboard; appears in the outdoor scene and later in the industrial setting, where they are shown falling or being thrown.",
+          "attribute": "visual"
+        },
+        "Yellow-and-Black Striped Apparatus": {
+          "description": "A large, suspended device with yellow and black stripes, visually causing alarm and verbally identified as a significant, potentially hazardous item, possibly part of a 'big water fucking factory,' and a point of discussion and confusion among the crew.",
+          "attribute": "audio-visual"
+        },
+        "Radiation Warning Overlay": {
+          "description": "A red triangular warning sign with text 'WARNING INCREASED LEVELS OF RADIATION 70 mSv' appearing during exploration of the dark industrial area, which is verbally acknowledged with alarm by a female voice.",
+          "attribute": "audio-visual"
+        },
+        "First-Person HUD Elements": {
+          "description": "On-screen interface including health bar, weight indicator, flashlight controls, and time display (e.g., '9:02 AM'), visible throughout the desaturated survival segments.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with green visor": {
+          "description": "Wears an orange suit with a green visor and reacts with alarm near the yellow-and-black striped apparatus, actively participating in an alarmed discussion about radiation and the apparatus, and later about the deceased 'lazy' employee, and offering reassurance.",
+          "attribute": "audio-visual"
+        },
+        "Control Room Environment": {
+          "description": "A brightly lit, enclosed space with metallic walls, control panels, bunk beds, and a central console, serving as the setting for strategic and operational discussions among the crew regarding mission quotas and equipment.",
+          "attribute": "audio-visual"
+        },
+        "Planetary Data Terminal": {
+          "description": "A screen displaying information such as 'HAZARD LEVEL: C,' 'POPULATION: Abandoned,' and 'FAUNA: A competitive ecosystem supports aggressive lifeforms,' providing context for the mission or environment.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with black visor": {
+          "description": "Wears an orange suit with a black visor and holds a clipboard; stands near the console in the control room, appearing to lead or observe the situation.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a first-person perspective from a character in an orange spacesuit with a pink visor, identified as Savannah XYZ, who introduces 'Savannah XYZ Gaming' and announces they're about to 'shove Alejandro here in the inverse teleporter.' She gestures in a vibrant, cartoonish outdoor environment before turning to another character in a similar suit with a blue visor, holding a clipboard. A male voice exclaims 'I love public transportation!' followed by other male voices asking 'Okay, you ready?' and shouting 'Let's go!' as a device activates with a distinct sound. The scene abruptly shifts to a darker, industrial setting where a large, yellow-and-black striped object is suspended. A character in an orange suit with a green visor reacts with alarm, screaming 'Run! Run! Run away! Leave me!' amidst chaotic sounds and an explosion. The character with the blue visor is seen falling, and a performance report appears, listing all players as 'DECEASED' with a 'GRADE: F'. A male voice, seemingly detached, asks 'Oh, what just happened? I uh, got back from the bathroom,' while Savannah XYZ asks, 'You guys want to play again?' The environment then transitions to a desaturated, sepia-toned post-disaster scenario, with Savannah XYZ in a first-person view, using a flashlight to explore a ruined area. She strategizes, mentioning 'two flashlights' and splitting into 'team Alejandro' and 'team B,' which is reflected in a team interface with cartoon avatars. A male voice, likely Alejandro, jokes 'I go team die. Let's go die,' and later expresses concern about being 'team also die.' Savannah XYZ asks 'Are you ready, Alejandro?' and another male voice questions if Alejandro is 'coming with you or is he still outside?' The player navigates a dimly lit industrial interior, where Alejandro notices a 'glowing yellow apparatus.' Sounds of a device powering up and a metallic clang are heard, followed by a male voice saying 'I got it.' A warning flashes: 'WARNING INCREASED LEVELS OF RADIATION 70 mSv', as health and weight indicators are visible, and a male voice expresses apprehension: 'I hope we didn't do anything stupid by doing this.'",
+        "The video opens in a dark, industrial environment from a first-person perspective, with the player navigating using a flashlight and a HUD displaying health, weight, and flashlight controls, setting a survival tone. A red 'WARNING INCREASED LEVELS OF RADIATION 70 mSv' overlay appears as an alarmed female voice exclaims, \"Oh no. Oh no. Radiation.\" The player encounters a character in an orange suit with a green visor reacting with alarm near a large, yellow-and-black striped apparatus, prompting a female voice to ask, \"So, what do we do with that now?\" and later suggest, \"Okay, let's just leave that.\" A male voice echoes the on-screen text overlay, stating, \"It's not possible,\" before another male voice reveals, \"So you may have noticed we found... we found... Big water fucking factory,\" implying the apparatus's nature. The scene shifts to a red 'Performance Report Interface' displaying 'DECEASED' status for players like Alejandro with a 'GRADE: F' and notes like 'The laziest employee'; a male voice confirms, \"Oh, yeah, she's dead. I don't know why, but she's dead,\" while a female voice adds, \"But didn't he say 'lazy'? Well, they died,\" with another male voice commenting, \"Anything to get out of a day of work.\" The setting transitions to a brighter, enclosed control room with metallic walls, control panels, and bunk beds, where three characters in orange suits are gathered around a console; a male voice asks, \"Do you guys get any loot?\" and a female voice responds, \"Yeah, we got the apparatus. What do you mean?\" The player interacts with a terminal displaying planetary data ('HAZARD LEVEL: C,' 'POPULATION: Abandoned,' 'FAUNA: A competitive ecosystem supports aggressive lifeforms') as a male voice discusses mission strategy: \"So, I'll tell you guys about the strat, I learn. We only sell the minimum amount. The more stuff you sell, the higher the next quota is,\" explaining, \"We do too good of a job, they like give us more assignments.\" As the player moves toward a circular hatch, text overlays 'wait' and 'when i picked it up' coincide with a male voice realizing, \"Wait, wait, wait. I don't have it anymore. I think I threw it away when I picked it up,\" while a female voice offers reassurance, \"Don't worry, we got you.\""
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 3,
+      "end_minute": 4,
+      "summary": "From a first-person perspective in a foggy, desaturated outdoor environment, a character in an orange suit with a pink visor stands near a broken bridge, as HUD elements display health, weight, and the time (8:16 AM). A companion questions the map's scale and the bridge's integrity before the scene shifts to a character in an orange suit with a blue visor examining a cookie mold pan labeled 'Value: 25', prompting an excited \"Cookies! Let's go! We are so back!\". The player then picks up a large axle, indicated by 'HANDS FULL', and carries it through a dimly lit industrial area, with the companion suggesting using an alternative bridge due to the first being rickety. As the time advances to 6:36 PM, the player enters a tense control room where a character in an orange suit with a black visor appears distressed near a console, and a character in an orange suit with a green visor reacts alarm near a yellow-and-black striped apparatus. Urgent calls of \"Alejandro, run! Run!\" are heard, followed by speculation about a bridge's structural integrity under duress. Navigating the control room, featuring bunk beds and monitors, the companion notes the bridge is not breaking, but then exclaims \"Oh god! No! Don't look back, Savannah!\" amidst upbeat, chaotic electronic music and a 'Radiation Warning Overlay' indicating 'WARNING INCREASED LEVELS OF RADIATION 70 mSv'. The sequence concludes with the player interacting with a Planetary Data Terminal showing 'HAZARD LEVEL: C', 'POPULATION: Abandoned', and 'FAUNA: A competitive ecosystem supports aggressive lifeforms', a 'NEW FOLLOWER' notification for 'MELOKOMUPPET', and a deep voice stating, \"You're smart now, you fucked up.\"",
+      "involved_entities": {
+        "Control Room Environment": {
+          "description": "A brightly lit, enclosed space with metallic walls, control panels, bunk beds, and a central console, suggesting a spaceship or research facility interior.",
+          "attribute": "visual"
+        },
+        "Large Axle": {
+          "description": "A heavy, cylindrical metal object picked up by the player, causing the 'HANDS FULL' status to appear on the HUD.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with pink visor": {
+          "description": "Wears an orange spacesuit with black straps, a pink visor, and has a cartoonish, expressive face; appears distressed in the control room, leaning over a console.",
+          "attribute": "visual"
+        },
+        "Walkie-Talkie": {
+          "description": "A handheld communication device with controls for power and voice transmission, visible in the player's hand, and explicitly mentioned in the audio as 'wasting the walkie-talkie battery' during communication attempts.",
+          "attribute": "audio-visual"
+        },
+        "Planetary Data Terminal": {
+          "description": "A screen displaying information such as 'HAZARD LEVEL: C', 'POPULATION: Abandoned', and 'FAUNA: A competitive ecosystem supports aggressive lifeforms', providing context for the mission or environment.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with blue visor": {
+          "description": "Wears an orange suit with a blue visor and holds a clipboard; appears in the outdoor scene and later in the industrial setting, where they are shown falling or being thrown.",
+          "attribute": "visual"
+        },
+        "Yellow-and-Black Striped Apparatus": {
+          "description": "A large, suspended device with yellow and black stripes, possibly a bomb or hazardous object, located in the industrial setting, which causes alarm among the characters.",
+          "attribute": "visual"
+        },
+        "Cookie Mold Pan": {
+          "description": "A metallic pan with a cookie-shaped mold, labeled 'Value: 25', interacted with by the character in the orange suit with a blue visor.",
+          "attribute": "visual"
+        },
+        "Radiation Warning Overlay": {
+          "description": "A red triangular warning sign with text 'WARNING INCREASED LEVELS OF RADIATION 70 mSv' appearing during exploration of the dark industrial area, indicating environmental danger.",
+          "attribute": "visual"
+        },
+        "First-Person HUD Elements": {
+          "description": "On-screen interface including health bar, weight indicator, flashlight controls, and time display (e.g., '9:02 AM'), visible throughout the desaturated survival segments.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with green visor": {
+          "description": "Wears an orange suit with a green visor and reacts with alarm near the yellow-and-black striped apparatus, visually indicating fear or surprise, which is reinforced by a voice exclaiming, 'I'm terrified now, I think.'",
+          "attribute": "audio-visual"
+        },
+        "Character in orange suit with black visor": {
+          "description": "Wears an orange suit with a black visor and holds a clipboard; stands near the console in the control room, appearing to lead or observe the situation.",
+          "attribute": "visual"
+        },
+        "Performance Report Interface": {
+          "description": "A red overlay displaying player names (Alejandro, savannahXYZ, Scorpius, Wolf) with 'DECEASED' status and a 'GRADE: F' at the end of the sequence, visually indicating mission failure, which is underscored by the audio's progression from initial confidence ('This game is so easy,' 'It's in the bag') to increasing panic and eventual resignation ('I do not know if this is in the bag').",
+          "attribute": "audio-visual"
+        },
+        "Team Avatars Interface": {
+          "description": "Cartoon-style avatars labeled 'team alejandro' and 'team b', with one avatar marked 'DECEASED' in red text, indicating team status during gameplay.",
+          "attribute": "visual"
+        },
+        "Monitoring Screen Interface": {
+          "description": "A green-tinted screen displaying a map with coordinates, icons (including a teddy bear), and the text 'MONITORING: Wolf', used for tracking team members or objectives, directly referencing one of the player names later listed as 'DECEASED' in the performance report.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a first-person perspective in a foggy, desaturated outdoor environment, showing a character in an orange suit with a pink visor standing near a broken bridge. As the player, accompanied by a companion, approaches a wooden bridge, the companion's voice asks, \"Oh wait, is this map? This is the big boy map. I don't like it here. Should we go down?\" and then, \"What is going on with the bridge?\", as on-screen HUD elements display a health bar, weight indicator, and the time (8:16 AM). The scene shifts to a close-up of a character in an orange suit with a blue visor, holding a clipboard, interacting with a cookie mold pan labeled 'Value: 25', prompting the companion to exclaim \"Cookies!\" and \"Let's go! We are so back!\" The player then picks up a large axle, indicated by the 'HANDS FULL' status, and carries it through a dimly lit industrial area, while the companion suggests, \"Do we want to carry this stuff back and see what it is? ... I'm going to use the other bridge because that one's rickety.\" As the time progresses to 6:36 PM, the player enters a tense control room, where a character in an orange suit with a black visor appears distressed near a console, and a character in an orange suit with a green visor reacts with alarm near a yellow-and-black striped apparatus. The companion's voice expresses urgency, saying \"Oh no! Oh no! Alejandro, run! Run!\" and later, \"I don't know if that thing can use this type of bridge. Let's test if this guy comes, will it break? I hope it does.\" The player navigates the control room, which features bunk beds and monitors, as the companion notes, \"It's not breaking. Let's go! It's not breaking. Oh god! No! Don't look back, Savannah!\" An upbeat, slightly chaotic electronic music track underscores the tension, while a 'Radiation Warning Overlay' appears, indicating 'WARNING INCREASED LEVELS OF RADIATION 70 mSv'. The sequence concludes with the player interacting with a Planetary Data Terminal displaying 'HAZARD LEVEL: C', 'POPULATION: Abandoned', and 'FAUNA: A competitive ecosystem supports aggressive lifeforms', while a 'NEW FOLLOWER' notification for 'MELOKOMUPPET' appears, culminating in a distinct, deeper voice stating, \"You're smart now, you fucked up.\"",
+        "The video opens from a first-person perspective in a dimly lit, industrial control room, displaying a console with multiple screens and a health/weight HUD, as confident voices declare, \"This game is so easy\" and \"It's in the bag.\" The player, holding a flashlight, navigates a dark corridor where a character in an orange suit with a black visor is seen. The environment quickly shifts to a more hazardous area, marked by a radiation warning overlay indicating 70 mSv, prompting a voice to exclaim, \"I'm terrified now, I think.\" The player then encounters a character in an orange suit with a green visor, who appears visibly alarmed near a yellow-and-black striped apparatus. The scene transitions to a brighter control room where a character in an orange suit with a pink visor is distressed, leaning over a console, while another in an orange suit with a blue visor holds a clipboard. Amidst this, a voice attempts communication, stating, \"Roger, this is a Roger over. I am wasting the walkie-talkie battery, over, over.\" The player interacts with a Planetary Data Terminal displaying 'HAZARD LEVEL: C' and 'POPULATION: Abandoned', providing grim context. Subsequently, the player monitors a screen showing a map with a teddy bear icon and coordinates, holding a walkie-talkie, as panicked voices are heard, questioning \"Wait, what?\" and exclaiming \"Oh my god!\" and \"We gotta head back!\" The player switches camera views, with on-screen text indicating 'MONITORING: Wolf' and a red overlay warning of increased radiation, while voices desperately note, \"We got a bolt, that's all we got.\" A brief moment of relief with \"Hello, we're alive!\" is quickly overshadowed by growing doubt, with a voice admitting, \"I do not know if this is in the bag.\" The sequence concludes with a performance report interface displaying 'DECEASED' status for multiple players and a 'GRADE: F', confirming the mission's ultimate failure."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 5,
+      "end_minute": 5,
+      "summary": "From a first-person perspective within a dimly lit industrial control room, the player, holding a walkie-talkie, expresses feelings of distress while monitoring surveillance feeds of team members like 'Alejandro', 'Savannah', 'Scorpius', and 'Wolf' on multiple screens, alongside a green-tinted map. A panicked female voice announces the presence of a large monster, described as a 'big zombie boy.' The player navigates the control room, observing a distressed character in an orange suit with a black visor near a console, amidst a male voice crying out, 'It's off to me!' followed by a monster's growl and screams. This orange-suited character is later seen near a yellow-and-black striped apparatus, reacting with alarm as the female voice shouts, 'No, the monster!' After a loud thud and the female voice's concerned 'Oh no,' she informs Alejandro that he appears to be alone. Alejandro's cryptic response is interrupted by a warning that someone is approaching him, prompting him to state he has nowhere to go. The player, via walkie-talkie, reassures Alejandro they are en route. The female voice urgently warns Alejandro of a threat behind him, then tells him it's time to leave, apologizing to 'John.' The player then navigates a dark, hazardous area using thermal vision, noting a '70 mSv' radiation warning, and interacts with a control panel, pressing a red 'Start ship' button. The segment concludes with a 'Base44' advertisement showcasing a laptop screen and a voiceover promoting an AI building capability.",
+      "involved_entities": {
+        "Control Room Environment": {
+          "description": "A brightly lit, enclosed space with metallic walls, control panels, bunk beds, and a central console, suggesting a spaceship or research facility interior; features multiple monitors, a walkie-talkie, and a yellow-and-black striped apparatus.",
+          "attribute": "visual"
+        },
+        "Walkie-Talkie": {
+          "description": "A handheld communication device used by the player to speak (\"I am going insane,\" \"Alright, I'm on my way. Don't you worry about it\") and receive urgent communications from other team members, including a female voice warning of a monster and addressing 'Alejandro' and 'John'.",
+          "attribute": "audio-visual"
+        },
+        "Monitoring Screen Interface": {
+          "description": "A green-tinted screen displaying a map with coordinates and icons, used for tracking team members or objectives, including 'Wolf', 'Alejandro', 'Savannah', and 'Scorpius', whose names are referenced in the audio as active participants in the unfolding events.",
+          "attribute": "audio-visual"
+        },
+        "Planetary Data Terminal": {
+          "description": "A screen displaying information such as 'HAZARD LEVEL: C', 'POPULATION: Abandoned', and 'FAUNA: A competitive ecosystem supports aggressive lifeforms', providing context for the mission or environment.",
+          "attribute": "visual"
+        },
+        "Yellow-and-Black Striped Apparatus": {
+          "description": "A large, suspended device with yellow and black stripes, possibly a bomb or hazardous object, located in the industrial setting; causes alarm among the characters, with the character in the orange suit with black visor reacting with fear, and a female voice shouting \"No, the monster!\" in response to its perceived danger.",
+          "attribute": "audio-visual"
+        },
+        "Radiation Warning Overlay": {
+          "description": "A red triangular warning sign with text 'WARNING INCREASED LEVELS OF RADIATION 70 mSv' appearing during exploration of the dark industrial area, indicating environmental danger.",
+          "attribute": "visual"
+        },
+        "First-Person HUD Elements": {
+          "description": "On-screen interface including health bar, weight indicator, flashlight controls, and time display (e.g., '9:02 AM'), visible throughout the desaturated survival segments; also includes 'Switch camera : [E]' and 'Start ship : [E]' prompts.",
+          "attribute": "visual"
+        },
+        "Base44 Advertisement": {
+          "description": "A promotional ad featuring a laptop screen with the tagline 'Let’s make your dream a reality. Right now.' and a 'Start now' button, accompanied by a promotional voiceover stating, \"Imagine being able to build anything, just by thinking about it. Meet Base 44. A complete AI...\"",
+          "attribute": "audio-visual"
+        },
+        "Character in orange suit with black visor": {
+          "description": "Wears an orange spacesuit with black straps and a black visor; appears distressed, leaning over a console in the control room, and later stands near a yellow-and-black striped apparatus with an alarmed expression, audibly crying \"It's off to me!\" and emitting frantic screams.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a first-person view inside a dimly lit, industrial control room, where the player, holding a walkie-talkie, states, \"I am going insane. But I hope you guys are having a good time.\" Multiple monitors display surveillance feeds of team members like 'Alejandro', 'Savannah', 'Scorpius', and 'Wolf', alongside a green-tinted map. A female voice then urgently exclaims, \"I hear a monster! It's a big zombie boy. It's the big boy, you guys.\" The player moves through the control room, encountering a character in an orange suit with a black visor who appears distressed, leaning over a console, and a male voice cries, \"It's off to me!\" followed by a monster's growl and frantic screams. This character is later seen standing near a yellow-and-black striped apparatus, reacting with alarm as the female voice shouts, \"No, the monster!\" After a loud thud, the female voice expresses concern, \"Oh no,\" then addresses a team member, \"Alejandro, I'm gonna be real with you, I think it's just you out there.\" Alejandro responds, \"Well, you know what they say,\" before the female voice warns, \"Someone's coming towards you, run!\" Alejandro replies, \"Uh, I have nowhere to go now.\" The player, possibly speaking through the walkie-talkie, reassures, \"Alright, I'm on my way. Don't you worry about it.\" The female voice frantically warns, \"Behind you, behind you! Oh no,\" followed by another monster growl. She then tells Alejandro, \"I think it's time to go. I'm sorry, John.\" The player navigates a dark, hazardous area in thermal vision, revealing a '70 mSv' radiation warning, before interacting with a control panel to press a red button labeled 'Start ship'. The segment concludes with a promotional ad for 'Base44', featuring a laptop screen and a voiceover stating, \"Imagine being able to build anything, just by thinking about it. Meet Base 44. A complete AI...\""
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 6,
+      "end_minute": 6,
+      "summary": "Following a desaturated view of a table with a walkie-talkie and cookie mold pan, the scene shifts to a vibrant, outdoor Martian-like environment where three characters in orange spacesuits with pink, green, and black visors stand near a base structure. The pink visor character expresses relief and a need for therapy, while the black visor character wishes good luck and the green visor character admits to being scared. The pink visor character confirms possession of a walkie-talkie, which the black visor character also claims. From a first-person perspective, the player, equipped with a walkie-talkie and displaying HUD elements, navigates rocky terrain. The green visor character humorously offers their personality, and the pink visor character suggests the player take a flashlight. During navigation, the green visor character advises taking an 'L' to survive, prompting a playful retort from the pink visor character and a stern warning from the black visor character. The black visor character makes a jest about the player's perceived Britishness, and the green visor character warns about hitting the ceiling while attempting vertical movement. Transitioning into a dimly lit industrial corridor, the green visor character is seen falling or being thrown. The pink visor character notes the convenience of not having to walk back to the ship, a statement the black visor character humorously labels as destructive. The player discovers the deceased body of 'savannahXYZ', marked with a yellow emoji avatar. The green visor character suggests collecting their own body, which the black visor character acknowledges. The green visor character then urgently questions if a 'red thing' is present, immediately preceding a loud explosion. A red light and radiation warning overlay appear, indicating the death of Alejandro. The pink visor character observes the threat is 'in the wall,' and the black visor character calls out. The green visor character questions if they died by the same cause, and the pink visor character laments seeing the word 'landmine' too slowly. The player reflects on the situation, comparing it to reality show interviews, as the green visor character comments on the perceived value of something. The scene concludes with the pink visor character sitting distressed in a chair, the player's walkie-talkie showing deceased teammate statuses, and the black visor character musing about post-event interviews.",
+      "involved_entities": {
+        "Control Room Environment": {
+          "description": "A brightly lit, enclosed space with metallic walls, control panels, bunk beds, and a central console; features multiple monitors, a walkie-talkie, and a yellow-and-black striped apparatus, suggesting a spaceship or research facility interior.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with pink visor": {
+          "description": "Wears an orange spacesuit with black straps and a pink visor; appears in the outdoor scene and later seated in a chair, looking distressed and reflective. She has a female voice, expressing relief and humor ('Wow, great job you guys. Now I need therapy.'), confirming she has the walkie-talkie, playfully stating 'You're not my dad,' expressing relief about not walking back to the ship, observing 'It's in the wall,' and lamenting her slow reaction to danger ('I saw the words landmine way too slowly.').",
+          "attribute": "audio-visual"
+        },
+        "Walkie-Talkie": {
+          "description": "A handheld communication device with a digital screen showing time and channel; held by the player throughout the segment, used for team communication and displaying status updates for deceased teammates. It is explicitly mentioned by the pink visor character ('I've got the walkie-talkie') and the black visor character ('I have walkie-talkie').",
+          "attribute": "audio-visual"
+        },
+        "Team Avatars Interface": {
+          "description": "Cartoon-style avatars labeled 'savannahXYZ (Dead)' and 'Alejandro (Dead)' with red text and speaker icons, indicating deceased teammates and their status during gameplay.",
+          "attribute": "visual"
+        },
+        "Yellow-and-Black Striped Apparatus": {
+          "description": "A large, suspended device with yellow and black stripes, possibly a bomb or hazardous object, located in the industrial setting. The green visor character asks 'Is that a red thing?' just before an explosion, and the pink visor character says 'It's in the wall,' possibly referring to this or a related hazard, indicating its dangerous nature.",
+          "attribute": "audio-visual"
+        },
+        "Deceased Teammate Bodies": {
+          "description": "The physical remains of teammates 'savannahXYZ' and 'Alejandro', shown lying on the ground in the industrial corridor, marked with red text and avatars, indicating their death and the player's discovery of them.",
+          "attribute": "visual"
+        },
+        "Radiation Warning Overlay": {
+          "description": "A red triangular warning sign with text 'WARNING INCREASED LEVELS OF RADIATION 70 mSv' appearing during exploration of the dark industrial area, indicating environmental danger.",
+          "attribute": "visual"
+        },
+        "First-Person HUD Elements": {
+          "description": "On-screen interface including health bar, weight indicator, flashlight controls, and time display (e.g., '9:02 AM'); also shows 'Drop Walkie-talkie : [G]', 'Power button : [Q]', and 'Send voice : [LMB]'.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with green visor": {
+          "description": "Wears an orange suit with a green visor; initially seen standing outdoors, later shown falling or being thrown in the industrial corridor, and marked as deceased. He has a male voice, expressing fear ('I've never been so scared in my life'), giving advice ('You gotta take the L, otherwise you won't make it'), warning to 'Try to hit the vertical careful, you get the ceiling,' suggesting 'You might have to collect mine,' urgently asking 'Is that a red thing?' before an explosion, questioning 'We died by the same thing, right?', and remarking 'It just looked valuable.'",
+          "attribute": "audio-visual"
+        },
+        "Character in orange suit with black visor": {
+          "description": "Wears an orange spacesuit with black straps and a black visor; seen from behind in the first-person view, navigating the environment and interacting with the walkie-talkie. He has a male voice, offering a hopeful 'Good luck, I'll see you back here alive hopefully,' confirming 'I have walkie-talkie,' sternly stating 'Don't fucking tell me that again, can't watch you,' jokingly commenting 'Don't be so British,' humorously labeling a comment 'the most destructive thing you've ever spoken,' calling out 'Buddy?', and reflecting on the situation by comparing it to 'reality shows where there are interviews after something happens?'",
+          "attribute": "audio-visual"
+        },
+        "Industrial Corridor Environment": {
+          "description": "A dimly lit, metallic corridor with grated floors, pipes, and structural beams, creating a claustrophobic and hazardous atmosphere; features red lights and warning signs, indicating danger and decay.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a desaturated, top-down view of a table scattered with items including a cookie mold pan and a walkie-talkie, accompanied by the on-screen text '[Wait for ship to land]' and a gentle, ethereal background music with a metallic clink. The scene transitions to a vibrant, outdoor Martian-like environment where three characters in orange spacesuits with distinct visors (pink, green, and black) stand near a base structure. The character with the pink visor, a female voice, expresses relief and humor, stating, \"Wow, great job you guys. Now I need therapy.\" A male voice (black visor) offers a hopeful \"Good luck, I'll see you back here alive hopefully,\" while another male voice (green visor) admits, \"I've never been so scared in my life.\" The pink visor character confirms, \"Alright, so I've got the walkie-talkie, you guys have stuff too?\" to which the black visor character replies, \"I have walkie-talkie.\" From a first-person perspective, the player holds a walkie-talkie, with the HUD displaying health, weight, and flashlight controls. The green visor character humorously states, \"I have my personality and...\", before the pink visor character interjects, \"Alright, why don't you take the flashlight?\" The player navigates rocky, debris-strewn terrain, communicating with teammates via the walkie-talkie. The green visor character advises, \"You gotta take the L, otherwise you won't make it,\" which is met with a playful \"You're not my dad\" from the pink visor character, followed by a stern \"Don't fucking tell me that again, can't watch you\" from the black visor character. The player continues, with the black visor character jokingly commenting, \"Don't be so British,\" and the green visor character warning, \"Try to hit the vertical careful, you get the ceiling.\" As the player moves through a dimly lit industrial corridor, the character with the green visor is seen falling or being thrown. The pink visor character expresses relief, \"The good part of this is I do not have to walk back to the ship,\" which the black visor character humorously labels \"the most destructive thing you've ever spoken.\" The player discovers the body of 'savannahXYZ' (Dead), marked with a yellow emoji avatar. The green visor character suggests, \"You might have to collect mine,\" followed by the black visor character's \"I see...\" The green visor character then urgently asks, \"You might want to stop. Is that a red thing?\" just before a loud explosion sound. A red light and a radiation warning overlay appear, revealing that another teammate, Alejandro, is also deceased. The pink visor character observes, \"It's in the wall,\" while the black visor character calls out, \"Buddy?\" The green visor character questions, \"We died by the same thing, right?\" and the pink visor character laments, \"I saw the words landmine way too slowly.\" The player reflects on the situation, comparing it to reality show interviews, as the green visor character remarks, \"It just looked valuable.\" The scene ends with the character in the pink visor sitting in a chair, appearing distressed, as the player’s walkie-talkie displays the status of deceased teammates, while the black visor character muses, \"Is this like, you know, in those reality shows where there are interviews after something happens?\""
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 7,
+      "end_minute": 11,
+      "summary": "In a post-mission debriefing, characters in orange suits express regret over recent deaths, with one mentioning calling a teammate 'British' before their demise and another lamenting an inability to see a teammate's location on the map, attributing their deaths to landmines and a \"funny coincidence.\" A 'Performance Report' interface confirms 'Alejandro', 'savannahXYZ', and 'Wolf' as deceased, 'Scorpius' as alive, and the mission as a failure with a 'GRADE: F'. The perspective shifts to first-person within a dusty, industrial control room, where the player, in an orange suit with a black visor and holding a walkie-talkie, panics amidst static and beeping, declaring innocence. Navigating the environment, the player encounters a yellow-and-black striped apparatus and later discovers the bodies of Alejandro and Wolf in a metallic corridor. The player attempts to distract swarming bees with money, resulting in an attack and the loss of $53, with a suggestion to distract the bees for profit. Urgent shouts of \"Get in the car!\" follow. A 'Fines' screen displays a $53 penalty for one casualty and zero bodies recovered. The player tests a yellow-handled shovel, confirming its effectiveness on others, before encountering a 'portal turret' which is subsequently destroyed. Deceased teammates 'Alejandro' and 'savannahXYZ' are found, but looting is hindered by a 'HANDS FULL' status due to a picked-up large axle. The player reacts with alarm to a suspended yellow-and-black striped apparatus. Amidst red warning lights, the player drops a body, identified as 'Yasha', and panics about losing 'bees' and suffering heavy losses, with the HUD displaying 'LIFE SUPPORT: OFFLINE'. The player character, speaking with a distorted, panicked voice, expresses distress over losing 'bees' and heavy team losses, while the Team Avatars Interface shows 'Scorpius (Dead)' and 'savannahXYZ (Dead)'. A teammate admits to not understanding the situation, and the player frantically asks how to use equipment, lacking a license. The player questions if the shovel works on people, receiving confirmation that it has been tested. A large yellow-and-black striped apparatus causes alarm, prompting shouts of \"Get out!\". A distorted radio voice warns the facility is unsafe, contradicted by another voice. A sharp metallic clang is heard, followed by cries of \"No! Oh, they dragged them away!\". Descending a metal staircase, the player discovers the bodies of Alejandro and savannahXYZ, vowing revenge. The HUD displays 'HANDS FULL' after picking up a large axle, and the character loots a body with a shovel. A male voice repeatedly says \"No, no, no, no, no\" as a scraping sound is heard, followed by an exclamation, \"Proving excuse!\". An invention to support a teammate named Tom is discussed, with the decision to keep him as part of the team. Upbeat, retro-futuristic music plays as the player, 'Fixer', communicates via walkie-talkie with a distressed 'Breaker'. A loud impact or explosion sound follows. The player states, \"I could take her.\" Muffled voices are heard, with one remarking, \"It could be worse.\" An authoritative voice suggests splitting up. The player navigates a dark, narrow industrial corridor with red warning lights and a 'WARNING INCREASED LEVELS OF RADIATION 70 mSv' overlay. Deceased teammates 'Alejandro' and 'Wolf' are encountered, and a teammate dismisses the shovel, siding with 'Yasha'. The player questions \"Wait, where's Yasha?\" and \"Yasha?\" A plea for a \"mental safe\" is made, followed by gasps. A fire exit is chosen over returning. A \"bracket\" and a \"battery\" are mentioned. A loud, mechanical whirring/rumbling sound occurs as the player interacts with a large, yellow-and-black striped apparatus, causing alarm. A male voice questions, \"What's the worst thing that could get us?\" followed by another loud impact/explosion and a startled \"Oh!\". The sequence ends with the player approaching a door labeled 'Scorpius,' with walkie-talkie controls displayed.",
+      "involved_entities": {
+        "Control Room Environment": {
+          "description": "A brightly lit, enclosed space with metallic walls, control panels, bunk beds, and a central console; features multiple monitors, a walkie-talkie, and a yellow-and-black striped apparatus, suggesting a spaceship or research facility interior.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with pink visor": {
+          "description": "Wears an orange spacesuit with black straps and a pink visor; appears seated in a chair, looking distressed and reflective during the debriefing scene, and is heard communicating via walkie-talkie, stating \"Fixer, I'm broken, over.\"",
+          "attribute": "audio-visual"
+        },
+        "Performance Report Interface": {
+          "description": "A red overlay displaying player names (Alejandro, savannahXYZ, Scorpius, Wolf) with 'DECEASED' status and a 'GRADE: F' at the end of the sequence, indicating failure or death.",
+          "attribute": "visual"
+        },
+        "Walkie-Talkie": {
+          "description": "A handheld communication device used by the player (\"Fixer\") to initiate calls (\"Breaker, this is Fixer\") and receive distressed responses (\"Fixer, I'm broken, over\") from teammates, displaying status updates like 'Drop Walkie-talkie : [G]' and 'Send voice : [LMB]'.",
+          "attribute": "audio-visual"
+        },
+        "Character in orange suit with blue visor": {
+          "description": "Wears an orange suit with a blue visor and holds a clipboard; appears seated in a chair during the debriefing. While not explicitly identified by voice, an authoritative male voice suggesting, \"Okay, let's split up now,\" could potentially be this character.",
+          "attribute": "audio-visual"
+        },
+        "Yellow-and-Black Striped Apparatus": {
+          "description": "A large, suspended device with yellow and black stripes, possibly a bomb or hazardous object, located in the industrial setting; visually causes alarm and is audibly associated with a loud, mechanical whirring/rumbling sound and sudden impacts/explosions.",
+          "attribute": "audio-visual"
+        },
+        "Cookie Mold Pan": {
+          "description": "A metallic pan with a cookie-shaped mold, labeled 'Value: 25', interacted with by the character in the orange suit with a blue visor.",
+          "attribute": "visual"
+        },
+        "Radiation Warning Overlay": {
+          "description": "A red triangular warning sign with text 'WARNING INCREASED LEVELS OF RADIATION 70 mSv' appearing during exploration of the dark industrial area, indicating environmental danger.",
+          "attribute": "visual"
+        },
+        "First-Person HUD Elements": {
+          "description": "On-screen interface including health bar, weight indicator, flashlight controls, and time display; also shows 'Drop Walkie-talkie : [G]', 'Power button : [Q]', and 'Send voice : [LMB]'.",
+          "attribute": "visual"
+        },
+        "Industrial Corridor Environment": {
+          "description": "A dimly lit, metallic corridor with grated floors, pipes, and structural beams, creating a claustrophobic and hazardous atmosphere; features red lights and warning signs, indicating danger and decay, and is the setting for discussions about \"fire exit\" and the source of loud impacts and mechanical whirring.",
+          "attribute": "audio-visual"
+        },
+        "Large Axle": {
+          "description": "A heavy, cylindrical metal object picked up by the player, causing the 'HANDS FULL' status to appear on the HUD, preventing further looting.",
+          "attribute": "visual"
+        },
+        "Team Avatars Interface": {
+          "description": "Cartoon-style avatars labeled 'Alejandro (Dead)' and 'Wolf (Dead)' with red text and speaker icons, indicating deceased teammates and their status during gameplay. The dialogue also mentions 'Savannah' and 'Yasha' as teammates.",
+          "attribute": "audio-visual"
+        },
+        "Monitoring Screen Interface": {
+          "description": "A green-tinted screen displaying a map with coordinates, icons (including a teddy bear), and the text 'MONITORING: Wolf'. This screen visually tracks 'Wolf', whose death is confirmed and discussed by teammates. It also displays 'PROFIT QUOTA: 10 / 1253' and 'DEADLINE: 2 Days'.",
+          "attribute": "audio-visual"
+        },
+        "Planetary Data Terminal": {
+          "description": "A screen displaying information such as 'HAZARD LEVEL: C', 'POPULATION: Abandoned', and 'FAUNA: A competitive ecosystem supports aggressive lifeforms', providing context for the mission or environment, aligning with audio discussions of dangerous creatures and deceased teammates.",
+          "attribute": "audio-visual"
+        },
+        "Deceased Teammate Bodies": {
+          "description": "The physical remains of teammates 'Alejandro' and 'Wolf,' shown lying on the ground in the industrial corridor, marked with red text and avatars. Another teammate, 'Savannah,' is mentioned in dialogue (\"Uh, yeah, Savannah, I guess\"), implying her status as a team member, possibly deceased.",
+          "attribute": "audio-visual"
+        },
+        "Bees": {
+          "description": "Swarming insects that attack the characters; appear in the industrial setting, causing panic and distraction, and are referenced in the dialogue as being ordered for $100, with a plan to 'distract the bees'.",
+          "attribute": "audio-visual"
+        },
+        "Base44 Advertisement": {
+          "description": "A promotional ad featuring a laptop screen with the tagline 'Let’s make your dream a reality. Right now.' and a 'Start now' button; includes a website URL 'base44.com' and a logo with an orange circle and horizontal lines.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with black visor": {
+          "description": "Wears an orange spacesuit with black straps and a black visor; seen from a first-person perspective, holding a flashlight and walkie-talkie. Audibly identifies as \"Fixer\" (\"Breaker, this is Fixer\"), states \"I could take her,\" mentions \"Savannah,\" and asks \"Wait, where's Yasha?\" and \"Yasha?\". This character also utters the initial \"No, no, no, no, no\" and a startled \"Oh!\" at the end.",
+          "attribute": "audio-visual"
+        },
+        "Shovel": {
+          "description": "A yellow-handled shovel tested by the player and later looted; audibly mentioned by a female voice who says, \"I've had enough of you and your shovel.\"",
+          "attribute": "audio-visual"
+        },
+        "Life Support System": {
+          "description": "An in-game system indicated by the on-screen text '[LIFE SUPPORT: OFFLINE]', signaling a critical failure that coincides with the player's frantic shouts about losing 'so much'.",
+          "attribute": "audio-visual"
+        },
+        "Fines Screen": {
+          "description": "A purple overlay displaying 'Fines' with text '1 casualty: -20% (0 bodies recovered)' and 'DUE: $53,' visually confirming the penalty, which is also mentioned by a player who states, \"We lost $53.\"",
+          "attribute": "audio-visual"
+        },
+        "Turret": {
+          "description": "A white, robotic turret with a red eye, identified by the player as a \"fucking portal turret\" and later confirmed to be \"dead\" after sounds of gunfire and lasers.",
+          "attribute": "audio-visual"
+        },
+        "Rubber ducky": {
+          "description": "A small, yellow rubber duck found on the floor, labeled 'Value: 77', picked up by the player and held in hand, adding a surreal or humorous element to the tense environment.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a post-mission debriefing where two distressed characters in orange suits sit, their voices echoing with regret. The character with the pink visor confesses, \"I will be honest, I called him British moments before I died, and I can't help but wonder if those two things are connected.\" The character with the blue visor, holding a clipboard, adds, \"So I don't know what got Alejandro. I couldn't see anything on the map for him,\" before revealing, \"We both died to landmines, and I think it's still a little bit of a funny coincidence.\" A 'Performance Report' overlay then appears, marking 'Alejandro', 'savannahXYZ', and 'Wolf' as deceased, 'Scorpius' as alive, and the mission with a failing 'GRADE: F'. The scene abruptly shifts to a first-person perspective inside a control room, where the player, wearing an orange suit with a black visor and holding a walkie-talkie, panics amidst static and beeping, shouting, \"I'M INNOCENT!\" as they navigate a dusty, industrial environment. The player encounters a yellow-and-black striped apparatus, reacting with alarm, and later discovers the bodies of Alejandro and Wolf in a metallic corridor, confirming their deaths. Amidst the tense, claustrophobic atmosphere, the player attempts to distract swarming bees with money, only to be attacked, leading to the realization that the team has lost $53, with a voice suggesting, \"So that hive they have is worth 100 bucks. So maybe I could distract the bees while I quickly go grab it, then it'll go towards me.\" Another voice remarks, \"You look like you had it in the bag.\" The player then reacts to a sudden event with shouts of \"Oh my god, oh my god! What just happened?\" as a voice confirms, \"Alejandro and Wolf are not moving.\" A brief moment of hope arises as a voice exclaims, \"Oh, he's alive!\" referring to Wolf, who apparently went \"all the way around,\" before urgent shouts of \"Get in the car! Get in the car!\" conclude the segment.",
+        "The segment opens with a close-up of a purple 'Fines' screen, displaying a $53 penalty for one casualty and zero bodies recovered, a cost echoed by a player's voice stating, \"We lost $53.\" The scene transitions to a first-person perspective within a dimly lit, industrial corridor, filled with mechanical whirring and clanking. The player, in an orange suit with a black visor, holds a walkie-talkie and confidently declares, \"I gave the shovel a test swing and you know what? I feel pretty confident with our chances,\" after testing a yellow-handled shovel. Another player asks if the shovel works on others, followed by a distinct impact sound and the first player confirming, \"It does.\" As they navigate metal walkways with yellow railings and grated floors, the player suddenly exclaims, \"What is that? Oh my god! There's a fucking portal turret over there, you guys!\" accompanied by rapid gunfire and laser sounds. The player then confirms, \"It's gone. It's dead.\" They discover deceased teammates, 'Alejandro' and 'savannahXYZ,' lying on the ground, but are hindered from looting by a 'HANDS FULL' status due to a large axle they've picked up. Another player asks if they can at least get a shovel from the bodies. Moving forward, the player spots a yellow-and-black striped apparatus suspended above, reacting with an alarmed, \"Oh! What's that?\" Amidst red warning lights and industrial decay, the player drops a body, shouting, \"I'm dropping Yasha, I think,\" and then, in a panic, cries out, \"Oh my god! My bees! My bees! Oh my god! We lost so much!\" as heavy breathing and a final mechanical whirring underscore the escalating danger. The HUD displays health, weight, and communication controls, while on-screen text confirms the 'LIFE SUPPORT: OFFLINE' status, leaving the player overwhelmed and running through the corridor as the segment concludes.",
+        "The scene opens from a first-person perspective, showing a character in an orange spacesuit with a black visor navigating a dimly lit, industrial control room. The character, speaking with a distorted, panicked voice, exclaims \"What? Oh, damn it!\" and expresses distress over losing 'bees' and heavy team losses, stating \"We can't lose our bees\" and \"We've lost so much,\" echoed by a female teammate. The Team Avatars Interface confirms 'Scorpius (Dead)' and 'savannahXYZ (Dead)' in red. The player character questions, \"Does he know?\" if a teammate understands the situation, while another calm male voice initially claims to understand, then admits, \"I don't understand actually.\" The player character frantically asks, \"How do I use this? I never learned how to use this!\" as the female teammate adds, \"No, he doesn't have a license!\" The player character then asks, \"Do you think the shovel works on people?\" to which the calm male voice replies, \"We already tested that,\" and the female teammate questions, \"I don't know, did we?\" As the character moves through a corridor, a large yellow-and-black striped apparatus causes alarm, prompting the player to shout, \"Oh my god!\" and \"Get out!\" A distorted radio voice identifies as 'John Gamer,' warning, \"the facility is not safe,\" which another male voice immediately contradicts, stating, \"The facility is as safe as it's ever been,\" before John Gamer advises, \"Don't listen to her.\" A sharp metallic clang is heard, followed by the player character's horrified cries of \"No! Oh, they dragged them away!\" and \"No!\" The character descends a metal staircase into a darker, hazardous industrial corridor, discovering the bodies of deceased teammates, including 'Alejandro' and 'savannahXYZ'. The player character reacts with profound shock, exclaiming \"MY BOY!\" and vowing, \"I'll avenge you, brothers, the last thing I do!\" The HUD displays 'HANDS FULL' after picking up a large axle, and the sequence ends with the character looting a body, holding a shovel, amidst red warning lights, emphasizing the grim atmosphere and mission failure.",
+        "The segment opens with a first-person perspective of a character in an orange spacesuit with a black visor, navigating a dimly lit industrial corridor with grated floors and yellow railings, accompanied by a high-pitched, distorted squeal and guttural sounds of struggle. The HUD displays health, weight, and flashlight controls as the character moves cautiously, flashlight in hand. A calm male voice states, \"Facility's still not clear,\" followed by another male voice remarking on someone being \"lonely\" and \"held up,\" before a third, authoritative voice instructs, \"You stay here.\" As the character proceeds, a male voice asks, \"I'm just looking for a little girl is here,\" prompting confused inquiries of \"What little girl?\" from two other voices, which is then punctuated by a sudden, loud, distorted scream. The scene shifts to a third-person view, showing the character being spectated as 'Wolf' and later 'savannahXYZ', both marked as deceased, while a male voice asks, \"Are you in there, still, Wolf?\" and then grimly confirms, \"Wolf has something killing him actively,\" and later, \"I think he's definitely dead.\" The player character continues through the dark, claustrophobic corridor, passing the bodies of fallen teammates amidst flickering lights and ominous red warnings. Upon entering a control room, multiple monitors display a 'PROFIT QUOTA: 10 / 1253' and 'DEADLINE: 2 Days', alongside planetary data warning of 'FAUNA: Dangerous creatures'. A male voice sighs, \"Hey guys, this is good,\" but is interrupted by a female voice exclaiming, \"You're wasting our inhaler! Dude, I have asthma, I need that!\" to which a male voice replies, \"I only need one hit. If I did two, that would be a problem.\" Another sudden, sharp \"No!\" and gurgling sound briefly punctuate the tension. The player then discovers a yellow 'Rubber ducky' on the floor, picking it up as an excited male voice declares, \"Let's go! Look what I found!\" and exclaims, \"Whoa, yeah! A collectible!\" The item's value (77) is displayed, and another female voice comments, \"That's cool. I like your Funko Pop,\" as the player stands in the tense control room, holding the flashlight and their new, quirky find.",
+        "The minute opens in a dimly lit, industrial control room with metallic walls, control panels, and bunk beds, where a group of characters in orange spacesuits are gathered. A male voice repeatedly says \"No, no, no, no, no\" as a scraping sound is heard, followed by an exclamation, \"Proving excuse!\" Another male voice explains, \"It's my invention to support friend Tom,\" adding that \"He's gonna be supporting us for the rest of the journey.\" A female voice questions, \"Are we not gonna sell him or?\" to which the male voice firmly replies, \"No, he's part of the team. And he's gonna stay.\" Another male voice then discusses, \"This is anything like my baby orc, uh, he's gonna sell that thing, but it's done.\" As upbeat, retro-futuristic music begins, the first-person perspective shows the player, in an orange suit with a black visor, holding a yellow flashlight and a walkie-talkie. The player communicates, \"Uh, Breaker, this is Fixer,\" with the on-screen text confirming the call. A distressed female voice, likely from the character with the pink visor who is seen seated and looking troubled, responds, \"Fixer, I'm broken, over.\" A loud impact or explosion sound follows. The player, \"Fixer,\" then states, \"I could take her.\" Muffled voices are heard, with one male voice remarking, \"It could be worse.\" An authoritative male voice suggests, \"Okay, let's split up now.\" The scene shifts as the player moves through a dark, narrow industrial corridor with grated floors and pipes, using the flashlight to navigate. The environment becomes increasingly hazardous, with red warning lights and a 'WARNING INCREASED LEVELS OF RADIATION 70 mSv' overlay appearing. The player mentions, \"Uh, yeah, Savannah, I guess,\" as deceased teammates 'Alejandro' and 'Wolf' are encountered lying on the ground, marked with red text and avatars, implying 'Savannah' is also a teammate. A female voice, possibly interacting with the player, dismissively says, \"No, no, no,\" then adds, \"I've had enough of you and your shovel. I'm team Yasha this game.\" The player or another male voice questions, \"Wait, where's Yasha?\" and \"Yasha?\" Another male voice pleads, \"The mental safe for all of us, please,\" followed by gasps. A female voice asks for direction, \"Are we going back in here or the fire exit?\" Two male voices emphatically respond, \"Fire exit!\" One male voice then informs, \"Um, we have a bracket, by the way,\" to which a female voice replies, \"Wait, we do?\" The male voice explains, \"Yeah, 'cause we have a battery.\" A loud, mechanical whirring/rumbling sound fills the air as the player interacts with a large, yellow-and-black striped apparatus, causing alarm. A male voice reassures, \"Nobody's gonna be down,\" then questions, \"What's the worst thing that could get us?\" This is immediately followed by another loud impact/explosion and a startled \"Oh!\" The sequence ends with the player approaching a door labeled 'Scorpius,' with the walkie-talkie displaying 'Drop Walkie-talkie : [G]' and 'Send voice : [LMB],' indicating ongoing communication and mission progression amidst the escalating danger."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 12,
+      "end_minute": 13,
+      "summary": "The narrative begins in a dark, industrial corridor from a first-person perspective, with the player, clad in an orange suit and black visor, navigating using a flashlight, their HUD displaying vital statistics. A teammate exclaims, \"Oh, Scorpius!\" as the player encounters a large, grotesque creature on the ceiling, triggering panicked shouts of \"Bug! I thought on the ceiling!\" and \"Get the fuck back in!\" Following a brief screen blackout indicating \"LIFE SUPPORT: OFFLINE,\" the perspective shifts to observing 'Alejandro' in a control room filled with monitors displaying \"MONITORING: Scorpius,\" cluttered equipment, a yellow rubber ducky, and a walkie-talkie. The player moves through this control room, passing a large yellow-and-black striped apparatus, amidst shouts of \"Come on, man!\" and \"Hey, bitch!\" culminating in a frantic \"What the hell happened?!\" A commercial for 'Twirla' interrupts, featuring a calm female voice discussing commitments and introducing \"The Twirla patch.\" Returning to the game, the player continues exploring the control room, interacting with consoles and noting the \"Monitoring Screen Interface\" showing \"PROFIT QUOTA: 10 / 1253\" and \"DEADLINE: 2 Days.\" Red text indicating deceased teammates 'Alejandro (Dead)' and 'Wolf (Dead)' underscores the tense atmosphere, prompting a sarcastic comment, \"Oh, look, you died together. That's really cute,\" met with the response, \"That's not cute.\" The team plans to \"go back and recover the items that we are missing,\" before a player states, \"before we do this, I gotta...\" The segment opens in a dimly lit, industrial control room where the player, in an orange spacesuit, uses a flashlight and takes a hit from a 'Tetraethylpurine Inhalant,' stating, 'So I'm using my inhaler.' The player communicates via walkie-talkie with 'Savannah,' asking, 'Hey Savannah, I can hear you back,' who inquires about the inhalant's contents. After the player announces, 'I'm gonna go ahead, I'll see you guys in there,' and collects a yellow rubber ducky, they move into a narrow, dark corridor. Savannah's voice exclaims, 'I think it's empty, you fuck!' followed by the player's frustrated reply, 'No, no, I can't hear you, I can't hear you!' As the player navigates the claustrophobic space, HUD updates show 'Scorpius,' 'Wolf,' and 'Alejandro' joining the ship. Savannah's voice expresses, 'This place is huge down here, I need a buddy,' and later asks about a 'red dot' on the wall. The atmosphere intensifies with frantic shouts, metallic clanging, and impact sounds, as a male voice yells, 'No, get back, you son of a bitch!' The player discovers the deceased body of 'savannahXYZ,' marked 'Dead,' and acquires a yellow shovel from it, while a 'Life Support: Offline' warning appears. The player then encounters a large, yellow-and-black striped apparatus, the apparent source of the commotion. The scene concludes with the player spectating 'Scorpius' in the same corridor, as a male voice confirms, 'She's already dead!' and another expresses relief, 'I'm just so lucky I had the shovel on me.' Eerie, low background music begins, and the team discusses strange sounds, with one person identifying them as 'Minecraft cave sound,' and another confirming, 'It actually was,' before a final, unsettling noise.",
+      "involved_entities": {
+        "Control Room Environment": {
+          "description": "A brightly lit, enclosed space with metallic walls, control panels, bunk beds, and a central console; features multiple monitors, a walkie-talkie, and a yellow-and-black striped apparatus, suggesting a spaceship or research facility interior.",
+          "attribute": "visual"
+        },
+        "Rubber ducky": {
+          "description": "A small, yellow rubber duck found on the floor, labeled 'Value: 77', picked up by the player and held in hand, adding a surreal or humorous element to the tense environment.",
+          "attribute": "visual"
+        },
+        "Monitoring Screen Interface": {
+          "description": "A green-tinted screen displaying a map with coordinates, icons (including a teddy bear), and the text 'MONITORING: Wolf', used for tracking team members or objectives; also shows 'PROFIT QUOTA: 10 / 1253' and 'DEADLINE: 2 Days'.",
+          "attribute": "visual"
+        },
+        "Team Avatars Interface": {
+          "description": "Cartoon-style avatars labeled 'Alejandro (Dead)' and 'Wolf (Dead)' with red text and speaker icons, indicating deceased teammates and their status during gameplay, visible in the top-left corner. The HUD shows 'Scorpius,' 'Wolf,' and 'Alejandro' joining, and 'Scorpius' starting the ship, while dialogue confirms 'savannahXYZ' is dead.",
+          "attribute": "audio-visual"
+        },
+        "Twirla Advertisement": {
+          "description": "A commercial featuring a woman applying a transdermal patch, with text 'Twirla® Sticks With You'. Audio provides the full commercial voiceover, stating, \"Our commitments are what shape our lives... They're what make you, you. And when it comes to selecting a birth control method, the Twirla patch...\"",
+          "attribute": "audio-visual"
+        },
+        "Yellow-and-Black Striped Apparatus": {
+          "description": "A large, suspended device with yellow and black stripes, possibly a bomb or hazardous object, located in the industrial setting; causes alarm among the characters, with the character in the orange suit with black visor reacting with fear. Its appearance coincides with frantic shouts and metallic impact sounds, suggesting a dangerous encounter.",
+          "attribute": "audio-visual"
+        },
+        "Deceased Teammate Bodies": {
+          "description": "The physical remains of teammates 'savannahXYZ' and 'Alejandro,' shown lying on the ground in the industrial corridor, marked with red text and avatars, indicating their death and the player's discovery of them. 'savannahXYZ' is initially heard communicating via walkie-talkie, then later found deceased, prompting a teammate to exclaim, 'She's already dead!'",
+          "attribute": "audio-visual"
+        },
+        "First-Person HUD Elements": {
+          "description": "On-screen interface including health bar, weight indicator, flashlight controls, and time display; also shows 'Drop Walkie-talkie : [G]', 'Power button : [Q]', and 'Send voice : [LMB]'.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with black visor": {
+          "description": "Wears an orange spacesuit with black straps and a black visor; seen from a first-person perspective, holding a flashlight and walkie-talkie, navigating industrial corridors and control rooms, reacting to environmental dangers and looting items like the rubber ducky and shovel. This character is a male voice, heard communicating with teammates, using the inhalant, and expressing relief about having the shovel.",
+          "attribute": "audio-visual"
+        },
+        "Industrial Corridor Environment": {
+          "description": "A dimly lit, metallic corridor with grated floors, pipes, and structural beams, creating a claustrophobic and hazardous atmosphere; features red lights and warning signs, indicating danger and decay. The tension is heightened by frantic shouts, metallic clanging, impact sounds, and later, eerie 'Minecraft cave sounds' and other strange noises.",
+          "attribute": "audio-visual"
+        },
+        "Life Support System": {
+          "description": "An in-game system indicated by the on-screen text '[LIFE SUPPORT: OFFLINE]', signaling a critical failure in the environment, adding to the urgency and danger of the situation.",
+          "attribute": "visual"
+        },
+        "Walkie-Talkie": {
+          "description": "A handheld communication device with a digital screen showing time and channel; held by the player throughout, used for team communication, and displaying status updates like 'Drop Walkie-talkie : [G]' and 'Send voice : [LMB]'. It is actively used for communication between the player and teammates, though sometimes with difficulty, as the player states, 'I can't hear you.'",
+          "attribute": "audio-visual"
+        },
+        "Shovel": {
+          "description": "A yellow-handled shovel tested by the player, used to interact with the environment, and later looted from a deceased teammate; appears to be a tool for digging or combat. The player later expresses relief at having it during a dangerous situation, stating, 'I'm just so lucky I had the shovel on me.'",
+          "attribute": "audio-visual"
+        },
+        "Tetraethylpurine Inhalant": {
+          "description": "A large white canister labeled 'Tetraethylpurine Inhalant', collected by the player from the control room, with on-screen prompts to 'Drop TZP-Inhalant : [G]' and 'Take TZP : [LMB]'. It is collected and used by the player, who is heard stating, 'So I'm using my inhaler.'",
+          "attribute": "audio-visual"
+        },
+        "Radiation Warning Overlay": {
+          "description": "A red triangular warning sign with text 'WARNING INCREASED LEVELS OF RADIATION 70 mSv' appearing during exploration of the dark industrial area, indicating environmental danger.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute begins in a dark, industrial corridor from a first-person perspective, where the player, in an orange suit with a black visor, navigates with a flashlight. The HUD displays vital stats. A teammate exclaims, \"Oh, Scorpius!\" as the player encounters a large, grotesque creature on the ceiling, prompting a panicked shout of \"Bug! I thought on the ceiling!\" and other frantic cries like \"Get the fuck back in!\" and \"Move!\" as the player and teammates react to the threat. After a brief screen black-out showing '[LIFE SUPPORT: OFFLINE]', the perspective shifts to spectating 'Alejandro' in a control room. Here, multiple monitors display 'MONITORING: Scorpius', amidst cluttered equipment, a yellow rubber ducky, and a walkie-talkie. The player then moves through the control room, passing a large yellow-and-black striped apparatus, which seems to be the source of the earlier panic, with shouts of \"Come on, man!\" and \"Hey, bitch!\" followed by a frantic \"What the hell happened?!\" The scene abruptly cuts to a commercial for 'Twirla', where a calm female voice describes how \"Our commitments are what shape our lives\" and introduces \"The Twirla patch.\" Returning to the game, the player continues exploring the control room, interacting with consoles and observing the 'Monitoring Screen Interface' showing 'PROFIT QUOTA: 10 / 1253' and 'DEADLINE: 2 Days'. The tense atmosphere is underscored by red text indicating deceased teammates 'Alejandro (Dead)' and 'Wolf (Dead)', prompting a sarcastic comment, \"Oh, look, you died together. That's really cute,\" to which another voice responds, \"That's not cute.\" The conversation continues with a plan to \"go back and recover the items that we are missing,\" before someone states, \"before we do this, I gotta...\"",
+        "The segment opens in a dimly lit, industrial control room where the player, in an orange spacesuit, uses a flashlight and is heard taking 'one more hit' from a 'Tetraethylpurine Inhalant', stating, 'So I'm using my inhaler.' The player communicates via walkie-talkie with a female teammate, 'Savannah,' asking 'Hey Savannah, I can hear you back,' who then inquires about the inhalant's contents. After the player announces, 'I'm gonna go ahead, I'll see you guys in there,' and collects a yellow rubber ducky, they move into a narrow, dark corridor. Savannah's voice is heard exclaiming, 'I think it's empty, you fuck!' followed by the player's frustrated reply, 'No, no, I can't hear you, I can't hear you!' As the player navigates the claustrophobic space, HUD updates show 'Scorpius,' 'Wolf,' and 'Alejandro' joining the ship. Savannah's voice expresses, 'This place is huge down here, I need a buddy,' and later asks about a 'red dot' seen on the wall. The atmosphere intensifies with frantic shouts, metallic clanging, and impact sounds, as a male voice yells, 'No, get back, you son of a bitch!' The player discovers the deceased body of 'savannahXYZ,' marked 'Dead,' and acquires a yellow shovel from it, while a 'Life Support: Offline' warning appears. The player then encounters a large, yellow-and-black striped apparatus, which seems to be the source of the commotion. The scene concludes with the player spectating 'Scorpius' in the same foreboding corridor, as a male voice confirms, 'She's already dead!' and another expresses relief, 'I'm just so lucky I had the shovel on me.' Eerie, low background music begins, and the team discusses strange sounds, with one person identifying them as 'Minecraft cave sound,' and another confirming, 'It actually was,' before a final, unsettling noise."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 14,
+      "end_minute": 14,
+      "summary": "The Character in orange suit with black visor navigates a dimly lit industrial corridor, the atmosphere underscored by a low hum and metallic sounds, reassuringly stating, \"I'll be here, buddy, don't worry, I got your back.\" The character encounters the Deceased Teammate Bodies of 'savannahXYZ' and 'Alejandro', prompting the Character in orange suit with blue visor to remark, \"Well, well, well, guess it's just the three of us, bozos.\" Panic erupts with the Character in orange suit with green visor exclaiming, \"Is that? running the fuck away!\", followed by interjections from the Character in orange suit with pink visor. A shift to a recording interface reveals a hand holding a purple object with a smiley face, as voices discuss camera film before a commercial-like voice thanks viewers and promotes liking and subscribing, accompanied by a whimsical electronic jingle. The scene transitions to a brightly lit Debriefing Room where characters in orange suits with pink, blue, and green visors, some holding Name Tags like 'man' and 'uwu', appear distressed on a couch. A large screen displays a SPOOK TUBE Interface. A female voice inquires about the mission's success, to which the Character in orange suit with pink visor expresses a desire to distance themselves from the content. The Character in orange suit with blue visor asks 'Tom', identified as the Yellow Rubber Ducky with Name Tag, for his opinion, eliciting a desperate plea, \"Don't post this, please! Please!\" The Character in orange suit with black visor concludes with, \"I think that not saying anything is the best compliment sometimes. Like right now,\" and the Character in orange suit with green visor adds, \"All right, yeah. You know what? Thanks, guys.\"",
+      "involved_entities": {
+        "Rubber ducky": {
+          "description": "A small, yellow rubber duck found on the floor, labeled 'Value: 77', picked up by the player and held in hand, adding a surreal or humorous element to the tense environment.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with pink visor": {
+          "description": "Wears an orange spacesuit with black straps and a pink visor; appears seated in a chair during the debriefing scene, looking distressed and reflective, with a hand gesture indicating frustration or exhaustion. Speaks in a calm male voice, greeting 'Fellas,' and later with a slightly theatrical tone, expressing a desire to distance himself from the mission's outcome ('There's definitely an audience for this. It's not me though. In fact, I'm going to distance myself as quickly as possible.').",
+          "attribute": "audio-visual"
+        },
+        "Team Avatars Interface": {
+          "description": "Cartoon-style avatars labeled 'Alejandro (Dead)' and 'Wolf (Dead)' with red text and speaker icons, indicating deceased teammates and their status during gameplay, visible in the top-left corner.",
+          "attribute": "visual"
+        },
+        "Yellow Rubber Ducky with Name Tag": {
+          "description": "A bright yellow rubber duck with a red and white 'Hello my name is TOM' tag, held by a character in the debriefing room. A high-pitched, pleading male voice, attributed to 'Tom' by another character, cries out, 'Don't post this, please! Please!'",
+          "attribute": "audio-visual"
+        },
+        "Debriefing Room Environment": {
+          "description": "A brightly lit, colorful room with purple walls, a couch, and a large screen displaying the 'SPOOK TUBE' interface, creating a stark contrast to the dark industrial setting and serving as a post-mission review space.",
+          "attribute": "visual"
+        },
+        "SPOOK TUBE Interface": {
+          "description": "A video-sharing platform interface with a 'REC' indicator, battery icon, and options like 'SAVE VIDEO TO DESKTOP', 'REPLAY', and 'CLOSE', displaying comments and views, suggesting a post-mission review or debriefing.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with blue visor": {
+          "description": "Wears an orange suit with a blue visor and holds a clipboard; appears seated in a chair during the debriefing. Speaks in a male voice, observing the reduced team size ('Well, well, well, guess it's just the three of us, bozos') and later directly addressing 'Tom' ('What do you think, Tom?').",
+          "attribute": "audio-visual"
+        },
+        "Deceased Teammate Bodies": {
+          "description": "The physical remains of teammates 'savannahXYZ' and 'Alejandro,' shown lying on the ground in the industrial corridor, marked with red text and avatars, indicating their death and the player's discovery of them.",
+          "attribute": "visual"
+        },
+        "Name Tags (man, uwu)": {
+          "description": "Small, colorful paper tags with text ('man', 'uwu') held or worn by characters during the debriefing, indicating playful or absurd identity markers.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with green visor": {
+          "description": "Wears an orange suit with a green visor; initially seen standing outdoors, later shown falling or being thrown in the industrial corridor, and marked as deceased. Despite this, they are present and speak in the debriefing, first in a panicked male voice exclaiming 'Is that? running the fuck away!' and later offering a simple 'Thanks, guys'.",
+          "attribute": "audio-visual"
+        },
+        "Character in orange suit with black visor": {
+          "description": "Wears an orange spacesuit with black straps and a black visor; seen from a first-person perspective, navigating a dark industrial corridor, then switching to a recording interface, and later appearing in a brightly lit room as part of a group debriefing. Speaks in a calm male voice, identifying 'coil heads' and offering reassurance ('I'll be here, buddy, don't worry, I got your back'), and later offering a measured observation about compliments ('I think that not saying anything is the best compliment sometimes. Like right now.').",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a first-person perspective of the Character in orange suit with black visor navigating a dim, industrial corridor, where a low hum and metallic sounds underscore the tense atmosphere. The character, speaking in a calm male voice, identifies \"coil heads\" and offers reassurance, stating \"I'll be here, buddy, don't worry, I got your back.\" The player encounters the bodies of deceased teammates, 'savannahXYZ' and 'Alejandro', marked with red text, while another male voice, belonging to the Character in orange suit with blue visor, observes, \"Well, well, well, guess it's just the three of us, bozos.\" A third male voice, from the Character in orange suit with green visor, then exclaims in panic, \"Is that? running the fuck away!\" followed by a calm \"Fellas,\" and \"Hey!\" from the Character in orange suit with pink visor. The player then switches to a recording interface, showing a close-up of a hand holding a purple object with a smiley face, as multiple voices quickly discuss \"our camera\" and \"how much film do we have left?\" before a cheerful, almost commercial-like voice interjects, \"Thanks so much for watching! Don't forget to like and subscribe!\" A whimsical electronic jingle plays, transitioning the scene to a brightly lit, colorful debriefing room. Here, multiple characters in orange suits with various visors (pink, blue, green) are seated on a couch, appearing distressed or exhausted, some holding name tags like 'man' and 'uwu'. The room features a large screen displaying a cartoonish 'SPOOK TUBE' interface with comments and a replay button, suggesting a post-mission review. A female voice asks, \"So, uh, what'd you guys think? Pretty good, right?\" The Character in orange suit with pink visor, with a slightly theatrical tone, responds, \"There's definitely an audience for this. It's not me though. In fact, I'm going to distance myself as quickly as possible.\" The Character in orange suit with blue visor then asks, \"What do you think, Tom?\" prompting a high-pitched, pleading male voice, presumably from the Yellow Rubber Ducky with Name Tag, to cry out, \"Don't post this, please! Please!\" The Character in orange suit with black visor concludes with a calm, measured tone, \"I think that not saying anything is the best compliment sometimes. Like right now.\" Finally, the Character in orange suit with green visor offers a simple, \"All right, yeah. You know what? Thanks, guys.\""
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 15,
+      "end_minute": 15,
+      "summary": "In a brightly lit debriefing room with purple walls, footsteps echo as a character in an orange suit with a pink visor exits, leaving characters in orange suits with blue ('man') and green ('uwu') visors seated. A spiky black silhouette entity with glowing white eyes dramatically gestures while interacting with a character in an orange suit with a red visor, as a male voice comments, \"I thought it was pretty good.\" The scene shifts to a 'SPOOK TUBE' interface displaying a mission recording accompanied by upbeat, electronic, arcade-style music. The recording shows the character with the blue visor holding a clipboard in a control room, the character with the black visor reacting to a yellow-and-black striped apparatus, the black silhouette in a dark environment, and the character with the blue visor falling. The 'SPOOK TUBE' interface also features a scrolling list of 'PATRONS'. The segment concludes with the character with the blue visor and the character with the pink visor seated in a dimly lit room, both appearing distressed, the blue visor character holding a yellow rubber ducky with a 'Hello my name is TOM' tag.",
+      "involved_entities": {
+        "Character in orange suit with pink visor": {
+          "description": "Wears an orange spacesuit with black straps and a pink visor; initially visible, then exits the frame, and later appears distressed and reflective in a dimly lit room.",
+          "attribute": "audio-visual"
+        },
+        "Yellow Rubber Ducky with Name Tag": {
+          "description": "A bright yellow rubber duck with a red and white 'Hello my name is TOM' tag, held by the distressed character with the blue visor in the debriefing room, adding a surreal and humorous element to the scene.",
+          "attribute": "audio-visual"
+        },
+        "Debriefing Room Environment": {
+          "description": "A brightly lit, colorful room with purple walls, a couch, and a large screen displaying the 'SPOOK TUBE' interface, creating a stark contrast to the dark industrial setting and serving as a post-mission review space, where footsteps are heard and a male voice makes a comment.",
+          "attribute": "audio-visual"
+        },
+        "Character in orange suit with red visor": {
+          "description": "Wears an orange suit with a red visor and a black helmet; seated on a couch during the debriefing, interacting with the black silhouette, and appearing calm yet attentive.",
+          "attribute": "audio-visual"
+        },
+        "SPOOK TUBE Interface": {
+          "description": "A video-sharing platform interface with a 'REC' indicator, battery icon, and options like 'SAVE VIDEO TO DESKTOP', 'REPLAY', and 'CLOSE', displaying comments and views, suggesting a post-mission review or debriefing, accompanied by upbeat, electronic, arcade-style music.",
+          "attribute": "audio-visual"
+        },
+        "Character in orange suit with blue visor": {
+          "description": "Wears an orange suit with a blue visor and holds a clipboard; appears seated in a chair during the debriefing, later seen in the industrial setting, and eventually falls or is thrown. He is later seen distressed, holding a yellow rubber ducky with a 'Hello my name is TOM' tag.",
+          "attribute": "audio-visual"
+        },
+        "Character in orange suit with green visor": {
+          "description": "Wears an orange suit with a green visor; initially seen standing outdoors, later shown falling or being thrown in the industrial corridor.",
+          "attribute": "audio-visual"
+        },
+        "Black Silhouette Entity": {
+          "description": "A dark, humanoid figure with glowing white eyes and spiky, wing-like appendages; appears in the debriefing room, gesturing dramatically, and later in the 'SPOOK TUBE' recording in a dark environment, suggesting a mysterious or antagonistic role.",
+          "attribute": "audio-visual"
+        },
+        "Name Tags (man, uwu)": {
+          "description": "Small, colorful paper tags with text ('man', 'uwu') held or worn by characters during the debriefing, indicating playful or absurd identity markers.",
+          "attribute": "visual"
+        },
+        "Character in orange suit with black visor": {
+          "description": "Wears an orange spacesuit with black straps and a black visor; seen from a first-person perspective, navigating a dark industrial corridor, then switching to a recording interface, and later appearing in a brightly lit room as part of a group debriefing, reacting to a yellow-and-black striped apparatus.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens in a brightly lit, colorful debriefing room with purple walls, where the distinct sound of footsteps echoes. Three characters in orange spacesuits are present; the character with the pink visor is initially visible before exiting the frame, revealing the character with the blue visor (labeled 'man') and the character with the green visor (labeled 'uwu') seated. A new, spiky black silhouette entity with glowing white eyes gestures dramatically while interacting with the character in the orange suit with the red visor. A male voice from the room comments, \"I thought it was pretty good,\" likely referring to the mission being reviewed. The scene then cuts to a 'SPOOK TUBE' interface, a video-sharing platform, displaying a recording of the mission. As the recording plays, an upbeat, electronic, arcade-style music track begins, accompanying various scenes: the character with the blue visor holding a clipboard in a control room, the character with the black visor reacting to a yellow-and-black striped apparatus, the black silhouette in a dark environment, and the character with the blue visor falling or being thrown. The interface also shows a scrolling list of 'PATRONS' with avatars and heart icons. The segment concludes with the character with the blue visor and the character with the pink visor seated in a dimly lit room, both appearing distressed, with the blue visor character holding a yellow rubber ducky with a 'Hello my name is TOM' tag, creating a surreal and humorous contrast to the tense mission review."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Character in orange suit with pink visor": "Wears an orange spacesuit with black straps and a pink visor; initially visible, then exits the frame, and later appears distressed and reflective in a dimly lit room.",
+    "Team Avatars Interface": "Cartoon-style avatars labeled 'Alejandro (Dead)' and 'Wolf (Dead)' with red text and speaker icons, indicating deceased teammates and their status during gameplay, visible in the top-left corner.",
+    "Performance Report Interface": "A red overlay displaying player names (Alejandro, savannahXYZ, Scorpius, Wolf) with 'DECEASED' status and a 'GRADE: F' at the end of the sequence, indicating failure or death.",
+    "Character in orange suit with blue visor": "Wears an orange suit with a blue visor and holds a clipboard; appears seated in a chair during the debriefing, later seen in the industrial setting, and eventually falls or is thrown. He is later seen distressed, holding a yellow rubber ducky with a 'Hello my name is TOM' tag.",
+    "Yellow-and-Black Striped Apparatus": "A large, suspended device with yellow and black stripes, possibly a bomb or hazardous object, located in the industrial setting; causes alarm among the characters, with the character in the orange suit with black visor reacting with fear. Its appearance coincides with frantic shouts and metallic impact sounds, suggesting a dangerous encounter.",
+    "Radiation Warning Overlay": "A red triangular warning sign with text 'WARNING INCREASED LEVELS OF RADIATION 70 mSv' appearing during exploration of the dark industrial area, indicating environmental danger.",
+    "First-Person HUD Elements": "On-screen interface including health bar, weight indicator, flashlight controls, and time display; also shows 'Drop Walkie-talkie : [G]', 'Power button : [Q]', and 'Send voice : [LMB]'.",
+    "Character in orange suit with green visor": "Wears an orange suit with a green visor; initially seen standing outdoors, later shown falling or being thrown in the industrial corridor.",
+    "Control Room Environment": "A brightly lit, enclosed space with metallic walls, control panels, bunk beds, and a central console; features multiple monitors, a walkie-talkie, and a yellow-and-black striped apparatus, suggesting a spaceship or research facility interior.",
+    "Planetary Data Terminal": "A screen displaying information such as 'HAZARD LEVEL: C', 'POPULATION: Abandoned', and 'FAUNA: A competitive ecosystem supports aggressive lifeforms', providing context for the mission or environment, aligning with audio discussions of dangerous creatures and deceased teammates.",
+    "Character in orange suit with black visor": "Wears an orange spacesuit with black straps and a black visor; seen from a first-person perspective, navigating a dark industrial corridor, then switching to a recording interface, and later appearing in a brightly lit room as part of a group debriefing, reacting to a yellow-and-black striped apparatus.",
+    "Large Axle": "A heavy, cylindrical metal object picked up by the player, causing the 'HANDS FULL' status to appear on the HUD, preventing further looting.",
+    "Walkie-Talkie": "A handheld communication device with a digital screen showing time and channel; held by the player throughout, used for team communication, and displaying status updates like 'Drop Walkie-talkie : [G]' and 'Send voice : [LMB]'. It is actively used for communication between the player and teammates, though sometimes with difficulty, as the player states, 'I can't hear you.'",
+    "Cookie Mold Pan": "A metallic pan with a cookie-shaped mold, labeled 'Value: 25', interacted with by the character in the orange suit with a blue visor.",
+    "Monitoring Screen Interface": "A green-tinted screen displaying a map with coordinates, icons (including a teddy bear), and the text 'MONITORING: Wolf', used for tracking team members or objectives; also shows 'PROFIT QUOTA: 10 / 1253' and 'DEADLINE: 2 Days'.",
+    "Base44 Advertisement": "A promotional ad featuring a laptop screen with the tagline 'Let’s make your dream a reality. Right now.' and a 'Start now' button; includes a website URL 'base44.com' and a logo with an orange circle and horizontal lines.",
+    "Deceased Teammate Bodies": "The physical remains of teammates 'savannahXYZ' and 'Alejandro,' shown lying on the ground in the industrial corridor, marked with red text and avatars, indicating their death and the player's discovery of them.",
+    "Industrial Corridor Environment": "A dimly lit, metallic corridor with grated floors, pipes, and structural beams, creating a claustrophobic and hazardous atmosphere; features red lights and warning signs, indicating danger and decay. The tension is heightened by frantic shouts, metallic clanging, impact sounds, and later, eerie 'Minecraft cave sounds' and other strange noises.",
+    "Bees": "Swarming insects that attack the characters; appear in the industrial setting, causing panic and distraction, and are referenced in the dialogue as being ordered for $100, with a plan to 'distract the bees'.",
+    "Shovel": "A yellow-handled shovel tested by the player, used to interact with the environment, and later looted from a deceased teammate; appears to be a tool for digging or combat. The player later expresses relief at having it during a dangerous situation, stating, 'I'm just so lucky I had the shovel on me.'",
+    "Life Support System": "An in-game system indicated by the on-screen text '[LIFE SUPPORT: OFFLINE]', signaling a critical failure in the environment, adding to the urgency and danger of the situation.",
+    "Fines Screen": "A purple overlay displaying 'Fines' with text '1 casualty: -20% (0 bodies recovered)' and 'DUE: $53,' visually confirming the penalty, which is also mentioned by a player who states, \"We lost $53.\"",
+    "Turret": "A white, robotic turret with a red eye, identified by the player as a \"fucking portal turret\" and later confirmed to be \"dead\" after sounds of gunfire and lasers.",
+    "Rubber ducky": "A small, yellow rubber duck found on the floor, labeled 'Value: 77', picked up by the player and held in hand, adding a surreal or humorous element to the tense environment.",
+    "Twirla Advertisement": "A commercial featuring a woman applying a transdermal patch, with text 'Twirla® Sticks With You'. Audio provides the full commercial voiceover, stating, \"Our commitments are what shape our lives... They're what make you, you. And when it comes to selecting a birth control method, the Twirla patch...\"",
+    "Tetraethylpurine Inhalant": "A large white canister labeled 'Tetraethylpurine Inhalant', collected by the player from the control room, with on-screen prompts to 'Drop TZP-Inhalant : [G]' and 'Take TZP : [LMB]'. It is collected and used by the player, who is heard stating, 'So I'm using my inhaler.'",
+    "Yellow Rubber Ducky with Name Tag": "A bright yellow rubber duck with a red and white 'Hello my name is TOM' tag, held by the distressed character with the blue visor in the debriefing room, adding a surreal and humorous element to the scene.",
+    "Debriefing Room Environment": "A brightly lit, colorful room with purple walls, a couch, and a large screen displaying the 'SPOOK TUBE' interface, creating a stark contrast to the dark industrial setting and serving as a post-mission review space, where footsteps are heard and a male voice makes a comment.",
+    "SPOOK TUBE Interface": "A video-sharing platform interface with a 'REC' indicator, battery icon, and options like 'SAVE VIDEO TO DESKTOP', 'REPLAY', and 'CLOSE', displaying comments and views, suggesting a post-mission review or debriefing, accompanied by upbeat, electronic, arcade-style music.",
+    "Name Tags (man, uwu)": "Small, colorful paper tags with text ('man', 'uwu') held or worn by characters during the debriefing, indicating playful or absurd identity markers.",
+    "Character in orange suit with red visor": "Wears an orange suit with a red visor and a black helmet; seated on a couch during the debriefing, interacting with the black silhouette, and appearing calm yet attentive.",
+    "Black Silhouette Entity": "A dark, humanoid figure with glowing white eyes and spiky, wing-like appendages; appears in the debriefing room, gesturing dramatically, and later in the 'SPOOK TUBE' recording in a dark environment, suggesting a mysterious or antagonistic role."
+  }
+}

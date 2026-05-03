@@ -1,0 +1,966 @@
+{
+  "video_id": "video526",
+  "audio_id": "video526_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "An upbeat pop song with female vocals introduces a 'Top 10 Rio Olympics Swimming Races' title card, followed by a call-to-action for the 'OhSean Swims' channel. The focus shifts to the '10. Men's 100m Backstroke' at the brightly lit Rio 2016 Pool, set to motivational electronic pop music. Swimmers, including Ryan Murphy in lane 4 and a Romanian swimmer in a white 'ROU' cap, prepare for the race. A commentator notes Ryan Murphy's narrow semi-final victory over David Plummer by 1/100th of a second and their close proximity in the current race. The race commences with a dive, amplified by loud crowd cheers and splashing. Underwater and overhead views showcase powerful backstroke techniques. The commentator observes David Plummer's strong start in the middle lanes, marked by yellow lane ropes. Approaching the 50m mark, split times appear on-screen, indicating 'WR SPLIT 25.35 -0.17' and '50M', alongside rankings for M. Larkin (AUS), Xu J. (CHN), and D. Plummer (USA). The commentator adds that Ryan Murphy was not in medal contention at the halfway turn, with Mitchell Larkin of Australia leading, all underscored by continuous, intense crowd cheering and splashing.",
+      "involved_entities": {
+        "Omega Timer": {
+          "description": "On-screen digital timer displaying race progress, including split times like '25.35' and '50M', with the Omega logo visible.",
+          "attribute": "visual"
+        },
+        "Xu J.": {
+          "description": "Chinese swimmer in lane 2, identified by on-screen graphics during the 50m split, ranked 2nd with a time of +0.08 behind the leader.",
+          "attribute": "visual"
+        },
+        "Swimmer in ROU cap": {
+          "description": "Romanian swimmer wearing a white cap with 'ROU' and a blue swimsuit, shown adjusting goggles and diving into the pool at the start of the race.",
+          "attribute": "visual"
+        },
+        "M. Larkin": {
+          "description": "Australian swimmer, identified by on-screen graphics during the 50m split, ranked 3rd with a time of +0.08 behind the leader. A commentator identifies him by name as Mitchell Larkin of Australia, stating he was leading at the halfway turn.",
+          "attribute": "audio-visual"
+        },
+        "D. Plummer": {
+          "description": "American swimmer, identified by on-screen graphics during the 50m split, ranked 5th with a time of +0.17 behind the leader. A commentator mentions he was 1/100th of a second slower than Ryan Murphy in the semi-finals, was swimming side-by-side with Murphy, and made a stronger start in this race.",
+          "attribute": "audio-visual"
+        },
+        "OhSean Swims": {
+          "description": "YouTube channel name displayed on a call-to-action screen with a red 'Subscribed' button and 284 subscribers, promoting viewer engagement, presented over upbeat pop music.",
+          "attribute": "audio-visual"
+        },
+        "Rio 2016 Pool": {
+          "description": "Olympic-sized swimming pool with blue water, colorful lane dividers (red, yellow, blue, green), and Rio 2016 branding on the walls and starting blocks, where the sounds of loud crowd cheering and splashing are heard during the race.",
+          "attribute": "audio-visual"
+        },
+        "Ryan Murphy": {
+          "description": "American swimmer in lane 4, wearing a black cap with 'USA' and a white swimsuit, shown adjusting his goggles and preparing for the race. A commentator mentions he was 1/100th of a second faster than David Plummer in the semi-finals, was swimming side-by-side with Plummer, but wasn't in a medal position at the halfway turn.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with an upbeat, pop-like background song featuring female vocals, as a title card announces 'Top 10 Rio Olympics Swimming Races' over footage of swimmers diving. This transitions to a call-to-action for the 'OhSean Swims' channel, displaying 20,193 views and 284 subscribers, followed by a 'PRESENTED BY OHSEAN SWIMS' screen. The scene then shifts to the '10. Men's 100m Backstroke' event, accompanied by a more motivational, electronic pop track. Swimmers prepare at the brightly lit Rio 2016 Pool, adjusting goggles and caps, including an American swimmer, Ryan Murphy, in lane 4, and a Romanian swimmer in a white 'ROU' cap. A male commentator notes that Ryan Murphy in lane 4 had been just 1/100th of a second faster than David Plummer in the semi-finals, and that Murphy and Plummer were swimming side by side. The race begins with a dive, met by loud crowd cheering and splashing sounds. Underwater and overhead shots capture the powerful backstroke movements. The commentator highlights that Plummer, swimming in the middle lanes with yellow lane ropes, made the stronger start. As the swimmers approach the 50m mark, on-screen graphics display split times, including 'WR SPLIT 25.35 -0.17' and '50M', along with rankings for M. Larkin (AUS), Xu J. (CHN), and D. Plummer (USA). The commentator further explains that Murphy wasn't even in a medal position at the halfway turn, with Mitchell Larkin of Australia leading at that stage, all while the intense crowd cheering and splashing continue, adding to the competitive atmosphere."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 2,
+      "summary": "The Men's 100m Backstroke final at the Rio 2016 Olympics commenced with swimmers mid-race, the roar of the crowd and splashing water filling the air. Ryan Murphy, initially trailing, executed a decisive 'incredible turn' to take the lead, a strategy previously employed in the semi-finals. Despite Xu J. and M. Larkin leading at the 50m mark, Murphy surged in the latter half, swimming near world record pace, leaving competitors unable to respond. The Omega Timer registered his victory in 51.97 seconds, a new Olympic record and narrowly missing the world record by 3/100ths of a second. Murphy finished first, followed by Xu J. and D. Plummer. Post-race, Murphy celebrated in the pool before the victory ceremony where he received his gold medal, with Xu J. earning silver and D. Plummer taking bronze. Uplifting music accompanied Murphy on the podium with Xu J. and D. Plummer. A text overlay highlighted Murphy’s comeback and Plummer's bronze medal win at age 30 in his Olympic debut, before the broadcast transitioned to the Women's 400m IM.",
+      "involved_entities": {
+        "Omega Timer": {
+          "description": "On-screen digital timer displaying race progress, including split times like '25.35' and '50M', and final time '51.97' with 'OR' (Olympic Record) label. The commentator confirms the 'winning time of 51.97 seconds' and its status as a 'new Olympic record'.",
+          "attribute": "audio-visual"
+        },
+        "Victory Ceremony Screen": {
+          "description": "On-screen graphic displaying the medalists: USA Ryan Murphy (gold), CHN Xu Jiayu (silver), USA David Plummer (bronze), with Olympic rings and Rio 2016 branding.",
+          "attribute": "visual"
+        },
+        "Xu J.": {
+          "description": "Chinese swimmer in lane 2, wearing a blue cap with 'CHN', leading at the 50m mark and finishing second with a silver medal. The commentator identifies him by name as 'Zu Jiayu of China' receiving silver.",
+          "attribute": "audio-visual"
+        },
+        "M. Larkin": {
+          "description": "Australian swimmer in lane 3, wearing a blue cap with 'AUS', shown in 3rd place at the 50m split but finishing outside the podium.",
+          "attribute": "visual"
+        },
+        "D. Plummer": {
+          "description": "American swimmer in lane 5, wearing a black cap with 'USA', trailing at the 50m mark but finishing third to win bronze in his first Olympic Games at age 30. The commentator identifies him by name as 'David Plummer of the United States' receiving bronze.",
+          "attribute": "audio-visual"
+        },
+        "Text Overlay": {
+          "description": "White text on a blue wooden background summarizing key race insights: Murphy’s comeback and Plummer’s first Olympic medal at 30.",
+          "attribute": "visual"
+        },
+        "Rio 2016 Pool": {
+          "description": "Olympic-sized swimming pool with blue water, colorful lane dividers (red, yellow, blue, green), and Rio 2016 branding on the walls and starting blocks, visible throughout the race and ceremony.",
+          "attribute": "visual"
+        },
+        "Ryan Murphy": {
+          "description": "American swimmer in lane 4, wearing a black cap with 'USA' and a white swimsuit, shown initially trailing but making a powerful comeback to win gold and break the Olympic Record. The commentator highlights his 'incredible turn,' his strategy of being the 'quickest swimmer in the second half,' and his 'world record pace,' confirming his winning time of '51.97 seconds' as a 'new Olympic record'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The Men's 100m Backstroke final at the Rio 2016 Olympics opens with an overhead view of the pool, capturing swimmers mid-race amidst the roar of the crowd and splashing water. Ryan Murphy (USA, lane 4), initially behind, executes an 'incredible turn' to surface in the lead, a tactic the commentator notes he used successfully in the semi-finals. While Xu J. (CHN, lane 2) and M. Larkin (AUS, lane 3) led at the 50m split, Murphy makes a dramatic surge, swimming 'close to world record pace' in the second half, leaving his rivals unable to fight back. The Omega Timer confirms his victory with a final time of '51.97' seconds, which the commentator proudly declares is a 'new Olympic record,' just 3/100ths of a second outside the world record. Murphy crosses the finish line first, followed by Xu J. and D. Plummer (USA, lane 5). The scene shifts to Murphy celebrating in the pool, then to the victory ceremony where he receives his gold medal. The commentator announces silver for 'Zu Jiayu of China' and bronze for 'David Plummer of the United States.' Uplifting, emotional background music with male vocals begins as Murphy stands on the podium alongside Xu J. and D. Plummer. The video concludes with a text overlay highlighting Murphy’s comeback and Plummer’s achievement at 30 in his first Olympics, before transitioning to the next event, the Women's 400m IM, with a blurred pool view and title card."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 3,
+      "end_minute": 3,
+      "summary": "In lane 4 of the Rio 2016 Olympics, Hungarian swimmer Katinka Hosszú, the favorite and a four-time Olympian seeking her first medal, prepared for the Women's 400m Individual Medley. She executed a powerful dive, transitioning seamlessly through freestyle, breaststroke, backstroke, and butterfly strokes. Dominating the race from above, Hosszú established a significant lead, notably pulling away during the 100m backstroke, with competitors like Maya Dirado (USA) and Emily Overholt (CAN) trailing by over 3 seconds at the 200m mark. The Omega timer displayed her split times as she approached the finish, where an on-screen update revealed her breaking the World Record with a time of 4:26.36, more than two seconds faster than the previous record, to the crowd's roaring cheers. Emerging from the pool visibly emotional, Hosszú was later seen on the victory podium, wearing a red 'HUNGARY' jacket and proudly holding her gold medal. She was flanked by silver medalist Maya Dirado (USA) and bronze medalist Mireia Belmonte García (ESP), both smiling under the Olympic rings. Text overlays emphasized her gold medal win after three previous Olympic Games and her commanding lead of at least 4 seconds. The segment concluded with a transition to the Women's 800m Freestyle, signaled by a title card over the pool, accompanied by uplifting, emotional background music featuring a female vocalist.",
+      "involved_entities": {
+        "Omega Timer": {
+          "description": "On-screen digital timer displaying race progress, including split times like '2:08.39' and final time '4:26.36' with 'WR' (World Record) label.",
+          "attribute": "visual"
+        },
+        "Katinka Hosszú": {
+          "description": "Hungarian swimmer in lane 4, wearing a white cap with 'HUN' and a red jacket, later seen in a black 'arena' swimsuit during the race, and then in a red 'HUNGARY' jacket during the victory ceremony, holding a gold medal. The commentator identifies her as 'the favorite' and notes she was competing in her 'fourth Olympic Games' having 'never won a medal' before, and that her world record time of '4 minutes 26.36 seconds was more than two seconds faster than the previous world record.'",
+          "attribute": "audio-visual"
+        },
+        "Victory Ceremony Screen": {
+          "description": "On-screen graphic displaying the medalists: HUN Katinka Hosszú (gold), USA Maya Dirado (silver), ESP Mireia Belmonte García (bronze), with Olympic rings and Rio 2016 branding.",
+          "attribute": "visual"
+        },
+        "Women’s 800m Freestyle Title Card": {
+          "description": "White text on a blurred pool background reading '8. Women's 800m Freestyle', signaling the next event in the video sequence.",
+          "attribute": "visual"
+        },
+        "Maya Dirado": {
+          "description": "American swimmer in lane 3, wearing a white cap with 'USA', shown trailing behind Hosszú during the race and later on the podium with a silver medal. The commentator identifies her by name as 'Maya Dirado of the United States' who won the 'silver medal.'",
+          "attribute": "audio-visual"
+        },
+        "Text Overlay": {
+          "description": "White text on a blue wooden background summarizing key race insights: Hosszú’s gold medal win after three Olympics and her 4-second lead over the field.",
+          "attribute": "visual"
+        },
+        "Rio 2016 Pool": {
+          "description": "Olympic-sized swimming pool with blue water, colorful lane dividers (red, yellow, blue, green), and Rio 2016 branding on the walls and starting blocks, visible throughout the race and ceremony.",
+          "attribute": "visual"
+        },
+        "Mireia Belmonte García": {
+          "description": "Spanish swimmer in lane 8, wearing a white cap with 'ESP', shown trailing during the race and later on the podium with a bronze medal. The commentator identifies her by name as 'Mireia Belmonte Garcia of Spain' who won the 'bronze.'",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with Hungarian swimmer Katinka Hosszú, identified by the commentator as \"the favorite\" in lane 4, wearing a white cap with 'HUN' and a red jacket, preparing at the starting block for the Women’s 400m Individual Medley at the Rio 2016 Olympics. The commentator notes this is her \"fourth Olympic Games\" and she had \"never won a medal\" before. She dives into the pool with powerful form, transitioning smoothly into freestyle, breaststroke, backstroke, and butterfly. The camera follows her from above as she dominates the race, maintaining a significant lead over competitors like Maya Dirado (USA) and Emily Overholt (CAN), who trail by over 3 seconds at the 200m mark. The commentator highlights her strong start, pulling away during the 100m backstroke. The Omega timer shows her split times, and as she approaches the finish, the on-screen display updates to show her breaking the World Record with a time of 4:26.36. The commentator confirms her time of \"4 minutes 26.36 seconds was more than two seconds faster than the previous world record,\" as the crowd's excitement builds into roaring cheers. After touching the wall, she emerges from the pool, visibly emotional, and is later shown on the podium in a red 'HUNGARY' jacket, holding her gold medal with pride. The victory ceremony features her flanked by silver medalist Maya Dirado (USA) and bronze medalist Mireia Belmonte García (ESP), both explicitly named by the commentator, all smiling under the Olympic rings. Text overlays highlight her achievement: winning gold after three Olympic Games and being at least 4 seconds ahead of the field. The segment transitions to the Women’s 800m Freestyle, with a title card appearing over the pool, signaling the next event, accompanied by uplifting, emotional background music featuring a female vocalist."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 4,
+      "end_minute": 12,
+      "summary": "The Women's 800m Freestyle final at the Rio 2016 Olympics commenced with K. Ledecky (USA) in lane 4, S. Kohler (GER) in lane 1, L. Friis (DEN) in lane 2, J. Carlin (GBR) in lane 3, B. Kapas (HUN) in lane 5, L. Smith (USA) in lane 6, J. Ashwood (AUS) in lane 7, and M. Belmonte García (ESP) in lane 8 positioned on the starting blocks amidst a murmuring crowd. Following the official command \"Take your mark\" and a sharp electronic beep from the Omega timer, the race began with a synchronized dive, captured from an underwater angle, accompanied by loud cheering and splashing. K. Ledecky immediately established a significant lead, her stroke described as effortless and her body position exceptionally high in the water, contrasting with other swimmers. At the 50m mark, Ledecky's split was 28.03, ahead of the world record split of 28.35, with J. Carlin and S. Kohler trailing. By 100m, Ledecky maintained her lead with a 57.98 split, followed by Carlin at +1.91 and Belmonte García at a greater distance. Ledecky continued to extend her lead, reaching a two-body length advantage by 150m. Commentators highlighted Ledecky's exceptional technique, including her attention to detail on turns, a two-beat distance freestyle kick, and a streamlined hydrofoil-like movement, while noting other swimmers had parts of their backs above water. At the 200m mark, Ledecky held a 2.59-second lead over Carlin and a 3.20-second lead over Belmonte García, swimming under the world record pace. As she approached 250m, her time was 2:29.0 against a WR SPLIT of 2:31.03, extending her lead to over 3 seconds. By 300m, her lead surpassed 4 seconds, with the timer showing 3:01.80 against a 3:00.76 WR mark, prompting commentators to focus on the battle for silver and bronze. Ledecky's fast stroke rate, strength, and power-to-weight ratio were evident as she maintained her lead, with splits like 4:03.22 at 400m and 4:33.87 at 450m, consistently under world record pace. At 500m, her time was 5:02.94, still inside the WR split of 5:04.62, leading by 10 seconds. She continued to swim faster on subsequent laps, reaching 600m with a world record pace and 700m in 7:07.37, accelerating into a sprinter's kick with increased ratings and a quick head turn for breath. In the final stretch, Ledecky maintained her dominant lead, racing against herself and anticipating a new world record. She touched the wall at 8:04.79, breaking the previous World Record of 8:06.68, securing the gold medal, a new world record, and a new Olympic record. J. Carlin secured the silver medal for Great Britain, and B. Kapas took the bronze for Hungary, amidst an electric atmosphere fueled by the roaring crowd and bright Olympic lighting.",
+      "involved_entities": {
+        "Omega Timer": {
+          "description": "On-screen digital timer displaying race progress, including the 750m mark (7:35.80), a specific lap split of 30.76 seconds mentioned by commentators, and the 800m finish time (8:04.79), which commentators confirm as the new World and Olympic Record.",
+          "attribute": "audio-visual"
+        },
+        "M. Belmonte García": {
+          "description": "Spanish swimmer in lane 8, wearing a black cap with 'ESP', trailing behind the leaders, and explicitly mentioned by commentators as having 'dropped away' from the leading two (Kapas and Carlin).",
+          "attribute": "audio-visual"
+        },
+        "S. Kohler": {
+          "description": "German swimmer in lane 1, wearing a black cap with 'GER', visible in the pack during the early stages, swimming steadily but not challenging for the lead.",
+          "attribute": "visual"
+        },
+        "Women’s 800m Freestyle Title Card": {
+          "description": "White text on a blurred pool background reading '8. Women's 800m Freestyle', signaling the event being shown, visible at the start of the segment.",
+          "attribute": "visual"
+        },
+        "J. Carlin": {
+          "description": "British swimmer in lane 3, wearing a black cap with 'GBR', swimming in second place, trailing behind Ledecky, and confirmed by commentators to have won the silver medal for Great Britain.",
+          "attribute": "audio-visual"
+        },
+        "J. Ashwood": {
+          "description": "Australian swimmer in lane 7, wearing a black cap with 'AUS', shown swimming behind the leaders, visible in the pack during the early stages.",
+          "attribute": "visual"
+        },
+        "B. Kapas": {
+          "description": "Hungarian swimmer in lane 5, wearing a black cap with 'HUN', swimming in the pack behind Ledecky, and confirmed by commentators to have won the bronze medal for Hungary.",
+          "attribute": "audio-visual"
+        },
+        "K. Ledecky": {
+          "description": "American swimmer in lane 4, wearing a black Speedo cap with 'LEDECKY' and a USA-branded swimsuit, dominating the race with powerful freestyle strokes, consistently shown with a 'WR' indicator on-screen, and ultimately breaking the World Record with a time of 8:04.79, which commentators confirm as a new World and Olympic Record, earning her a gold medal, as the crowd roars in celebration.",
+          "attribute": "audio-visual"
+        },
+        "L. Friis": {
+          "description": "Danish swimmer in lane 2, wearing a black cap with 'DEN', visible in the middle of the pack during the early stages, swimming steadily but not challenging for the lead.",
+          "attribute": "visual"
+        },
+        "Rio 2016 Pool": {
+          "description": "Olympic-sized swimming pool with blue water, colorful lane dividers (red, yellow, blue, green), and Rio 2016 branding on the walls and starting blocks, visible throughout the race, with bright, even lighting.",
+          "attribute": "visual"
+        },
+        "L. Smith": {
+          "description": "American swimmer in lane 6, wearing a black cap with 'USA', shown swimming in the middle of the pack, maintaining a consistent pace.",
+          "attribute": "visual"
+        },
+        "Underwater Camera View": {
+          "description": "Brief underwater shot capturing K. Ledecky’s streamlined form and strong kick, showing bubbles and water dynamics as she swims with powerful strokes.",
+          "attribute": "visual"
+        },
+        "Crowd Reaction": {
+          "description": "Spectators in the stands, including fans waving American flags, cheering and recording the moment with phones and cameras as Ledecky finishes, with commentators noting the crowd's increasing roar and encouragement.",
+          "attribute": "audio-visual"
+        },
+        "Text Overlay": {
+          "description": "On-screen graphics displaying 'K. LEDECKY WR', 'NEW WR', and the American flag, visually confirming her world record-breaking performance at the finish line, which is verbally reinforced by commentators.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with an upbeat, slightly melancholic pop song as a wide-angle view showcases the Rio 2016 Olympic swimming pool, set for the Women’s 800m Freestyle. Lane assignments are clearly displayed, featuring S. Kohler (GER) in lane 1, L. Friis (DEN) in lane 2, J. Carlin (GBR) in lane 3, K. Ledecky (USA) in lane 4, B. Kapas (HUN) in lane 5, L. Smith (USA) in lane 6, J. Ashwood (AUS) in lane 7, and M. Belmonte García (ESP) in lane 8. A male commentator identifies \"Sarah Cola\" (S. Kohler) and confirms the \"800 freestyle\" event. Swimmers prepare on the blocks, adjusting goggles and caps, with a close-up on K. Ledecky, wearing her USA-branded cap and suit, composing herself amidst the murmuring crowd. An official voice commands \"Take your mark,\" followed by a sharp electronic beep as the Omega timer counts down from 22:20:30. The race begins with a synchronized dive, captured from an underwater angle, accompanied by loud cheering and splashing. An overhead view tracks the swimmers as the commentator notes, \"They're away now,\" predicting Ledecky will \"instantly go into the lead\" and describing her stroke as \"effortless.\" Underwater shots reveal streamlined freestyle technique. At the 50m mark, the on-screen split time reads 28.03, with K. Ledecky in lane 4 clearly leading, followed by J. Carlin (GBR) and S. Kohler (GER). The commentator further emphasizes Ledecky's speed, stating \"the fight for second is starting\" and that she races \"close to world record even in training.\" Rio 2016 branding is visible on the pool walls and starting blocks, and the Omega timer tracks progress, displaying a world record split comparison of 28.35, as Ledecky establishes a significant early advantage.",
+        "The segment opens with the Women's 800m Freestyle final at the Rio 2016 Olympics, showcasing the vibrant blue Rio 2016 Pool with colorful lane dividers and visible Rio 2016 branding. A male commentator highlights K. Ledecky's \"extraordinary ability to just constantly pump out quick times over this distance,\" while a female commentator elaborates on Ledecky's technique, noting her existing \"three gold medals already\" and pursuit of a \"fourth,\" alongside a \"silver in the 4x100 freestyle relay.\" The camera alternates between underwater, side-angle, and overhead views, capturing Ledecky (USA, lane 4) in her black Speedo cap and USA swimsuit, leading decisively. At the 50m mark, Ledecky's split is 28.03, just under the world record split of 28.35. The female commentator notes Ledecky \"sprinting out in the first 100 meters,\" mentioning her 57.98 split in the 800m doesn't \"cost her a lot\" compared to her 52-second relay split. J. Carlin (GBR, lane 3), wearing a black cap with 'GBR', follows in second, with the male commentator identifying her as \"Carlin of Great Britain\" and describing her as \"the woman in the red cap\" (despite her visible black cap). By 100m, Ledecky maintains her lead with a 57.98 split, while Carlin is +1.91 behind and M. Belmonte García (ESP, lane 8), identified by the male commentator as \"Maria Belmonte of Spain in third place,\" trails further back. The Omega Timer and on-screen graphics consistently display Ledecky's dominance. As the male commentator states, Ledecky \"cruises out over 150 to a two-body length lead,\" with Carlin now +2.19 behind and Belmonte García +2.79 behind, showcasing her powerful strokes and breath control. The crowd's presence adds to the electric atmosphere as the female commentator praises Ledecky's technique, even \"world records aside.\"",
+        "The segment opens with a 'Women's 800m Freestyle Title Card' before transitioning to the high-stakes Rio 2016 Olympic women's 800m freestyle race, set in a brightly lit pool with colorful lane dividers. K. Ledecky (USA, lane 4), identifiable by her black Speedo cap with 'LEDECKY' and USA-branded swimsuit, dominates from the start. Commentators immediately analyze her exceptional technique, noting her 'good attention to detail on the turn,' performing 'only one dolphin kick' before transitioning to a 'two-beat distance freestyle kick.' They emphasize her remarkable 'body position,' being 'so high in the water' with 'all of her back clear,' likening her movement to 'watching a hydrofoil.' In contrast, they observe that 'parts of their back are above the water' for 'the other girls.' The Omega timer tracks the race, displaying splits like 1:35.4, 1:45.0, and a 200m WR SPLIT of 2:00.20, with Ledecky consistently ahead of the 'World Record mark.' At the 200m mark, she holds a significant lead over J. Carlin (GBR, lane 3) by +2.59 seconds and M. Belmonte García (ESP, lane 8) by +3.20 seconds. The commentators explicitly state, 'Ladecky leads in lane 4,' and describe her as 'driving away.' As the race progresses towards the 250m mark, where the WR SPLIT is 2:31.03 and her current time is 2:29.0, Ledecky extends her lead, prompting commentators to shift focus to 'who's likely to finish second' as 'the battle continues' behind her. Underwater shots reveal the swimmers' streamlined movements and powerful kicks, while Rio 2016 branding is visible on the pool walls and starting blocks, underscoring the intense Olympic atmosphere.",
+        "The segment opens with a '8. Women's 800m Freestyle' title card before revealing the high-stakes Rio 2016 Olympic pool, where K. Ledecky, in lane 4, is already dominating the Women's 800m Freestyle final. Wearing her black Speedo cap with 'LEDECKY' and a USA-branded swimsuit, she maintains a powerful and consistent freestyle stroke, creating a strong wake. An elevated, wide-angle camera pans along as she approaches the 250m mark, where the Omega Timer reads 2:31.03, displaying a 'WR' indicator and showing Ledecky with a lead of over 3 seconds. A commentator notes the gap between \"Jazz Carlin\" and \"Maria Belmonte\" as Ledecky is seen \"bouncing off the wall.\" Carlin, in lane 3 with a 'GBR' cap, is confirmed in second place, while Belmonte, Smith, and Ashwood are described as \"trailing in the wake of this quite superb superwoman of the pool.\" The camera briefly zooms on Ledecky’s streamlined underwater form, highlighting her powerful kicks. As the race progresses to the 300m mark, the timer shows 3:01.80, with Ledecky's lead expanding to over 4 seconds, leaving J. Carlin and B. Kapas (HUN, lane 5) behind. Another commentator emphasizes Ledecky is \"sitting on the world record line and it's sitting on her at her legs,\" noting the 300-meter mark at \"3 minutes .76.\" The commentator adds that \"the race is certainly on for silver and bronze,\" amidst the cheering crowd and prominent Rio 2016 branding on the colorful pool walls. Ledecky's \"beautiful rhythm\" and \"quite fast stroke rate\" are highlighted, with her arm turnover cadence being \"much faster than everybody else,\" showcasing her exceptional \"strength\" and \"power-to-weight ratio.\"",
+        "The Women's 800m Freestyle final at the Rio 2016 Olympics unfolds with intense energy, captured through alternating wide overhead and underwater close-up shots of the vibrant blue pool. K. Ledecky, in lane 4, dominates with a commanding lead, her black Speedo cap and USA suit visible as she maintains a powerful freestyle stroke. Commentators highlight her exceptional technique, noting how she \"rotates faster\" and \"pulls through the water underwater so much stronger\" with a \"high elbow pitch,\" utilizing her entire shoulder and back, and employing a \"rolling kick.\" The Omega timer tracks her world-record pace, showing splits like 4:03.22 at 400m and 4:33.87 at 450m, with a 'WR' indicator. J. Carlin (GBR) holds second place in lane 3, while B. Kapas (HUN) is identified as potentially third in lane 5, both trailing significantly. The commentators emphasize Ledecky's speed, noting she's \"in front of this world record,\" which currently stands at 8:06.68. They recall her previous world record where she split 4:03 at the 400m mark and predict she could achieve an \"8:03\" if she maintains her current \"even splits.\" The atmosphere is charged with constant crowd noise and the sounds of splashing water, underscoring the high stakes as Ledecky extends her lead, poised for a potential new world record.",
+        "The video segment opens with an underwater view of the Rio 2016 Olympic pool, showcasing the lane dividers and the Omega Timer displaying 4:32.20 at the 450m mark, with K. Ledecky’s split time of 4:33.87 marked as a world record (WR) pace. Commentators immediately highlight her incredible performance, noting her 'very big program' and consistent world record-breaking ability even at US trials. The camera then transitions to an overhead, forward-facing shot, following Ledecky in lane 4 as she executes powerful, rhythmic freestyle strokes, her black Speedo cap with 'LEDECKY' and USA-branded swimsuit clearly visible against the vibrant blue water and colorful lane dividers (yellow, red, blue, green). A commentator praises her technique, observing her 'focus and her concentration is right there' as she swims precisely with the lane line directly underneath her, unlike other swimmers. As Ledecky approaches the 500m mark, the camera shifts to a wide overhead view, revealing the full field of swimmers, with J. Carlin (GBR) in lane 3, B. Kapas (HUN) in lane 5, and M. Belmonte García (ESP) in lane 8 visible trailing behind. The Omega Timer displays Ledecky's time at 5:02.94 at 500m, still under the WR split of 5:04.62, with a commentator confirming she's 'inside world record still' at 500 meters. The commentators emphasize her unparalleled dominance, stating she is 'without peer among freestylers in the world now or ever before,' and despite being in the Olympic final with 300 meters remaining, she 'leads by 10.' The electric atmosphere is palpable with crowd noise in the background. Ledecky continues her relentless pace, reaching 5:29.4 at 550m, with on-screen WR indicators reinforcing her world-record trajectory, as commentators analyze her split times, noting she's 'just slightly faster' on this lap. The bright, even lighting consistently highlights the clarity of the water and the swimmers’ movements, with Rio 2016 Olympic branding visible throughout the pool and arena, underscoring the monumental nature of her unchallenged lead.",
+        "The minute opens with K. Ledecky (USA) in lane 4 dominating the Women’s 800m Freestyle at the Rio 2016 Olympics, her powerful freestyle stroke propelling her significantly ahead of the field. Commentators note her increased speed on this 50-meter segment, speculating if she's drawing energy from family in the crowd. The overhead view of the Olympic-sized pool, with its vibrant lane dividers and Rio 2016 branding, highlights her commanding lead. As the Omega Timer progresses from 5:33.4 at the 550m mark to 6:04.30 at 600m, and then 6:32.6 at 650m, the 'WR' indicator consistently emphasizes her world-record pace. Commentators describe her as moving into the 600-meter turn, praising her balance and comparing her stable body to a 'plank' as her arms and legs efficiently drive her forward. The race is framed as Ledecky against the clock, with the rest of the swimmers, including J. Carlin (GBR) in lane 3 and B. Kapas (HUN) in lane 5, competing for second and third place. Indeed, the commentators confirm Kapas has moved into second, with Carlin in third, and M. Belmonte García (ESP) dropping slightly behind. Underwater views reveal Ledecky's streamlined form and efficient kicks, which commentators note are creating 'white water' at her feet, indicating powerful propulsion. The bright Olympic lighting and the blue pool water contrast with the colorful lane lines, while on-screen graphics display 'K. LEDECKY' and the American flag, reinforcing her identity as she maintains her significant lead, visually represented by the yellow tracking line far ahead of the competition.",
+        "The segment opens with the '8. Women's 800m Freestyle' title card, quickly transitioning to K. Ledecky (USA) in lane 4, dominating the Rio 2016 Olympic final. As she powers through the vibrant blue pool with a powerful freestyle stroke, a female commentator observes her technique, noting her 'holding with those feet' and transitioning into a 'two-beat kick' on the return lap, with 'more action in her feet.' Overhead wide shots and underwater close-ups emphasize her relentless pace and the significant gap she maintains over competitors like J. Carlin (GBR) in lane 3 and B. Kapas (HUN) in lane 5. On-screen graphics consistently display 'WR' (World Record) and her split times, such as 6:36.75 at 650m and 7:07.37 at 700m, underscoring her record-breaking performance. The commentator highlights her accelerating pace, stating she's 'consistently faster' and 'getting towards the last 100 meters,' 'really lifting it up' and going into a 'freestyle 100-meter sprinter's kick,' with 'the ratings increased' and a 'short sharp turn of the head to get the breath in.' Rio 2016 branding is visible on the pool walls and starting blocks. As Ledecky approaches the 700m mark, the Omega timer shows 7:05.44 with a -1.93 split advantage. A male commentator takes over, announcing 'a little over 100 to go' for the 'World Record holder, defending Olympic champion.' He observes her feet, noting the 'two-beat kick early on' and now 'plenty of splash there' as she 'staves off the world record line,' having 'well and truly beaten off the opposition,' making it 'her against the clock.' The male commentator confirms 'Kapash is still in second' and 'Jaz Carlin's got a fantastic battle for this silver medal.' The crowd's roar intensifies throughout, adding to the electric atmosphere as Ledecky continues her dominant, record-breaking swim.",
+        "The video captures the final stretch of the Women’s 800m Freestyle at the Rio 2016 Olympics, focusing on K. Ledecky (USA) in lane 4 as she powerfully dominates the race, with commentators noting she's \"racing against herself\" and anticipating a new world record. The overhead view shows the Olympic-sized pool with vibrant lane dividers, while the Omega timer tracks her progress, displaying splits like 7:37.84 at 750m, and a commentator highlights a \"30.76\" lap. Ledecky, wearing a black Speedo cap with 'LEDECKY' and a USA-branded swimsuit, maintains a commanding lead, with commentators emphasizing her distance from competitors, stating they \"won't even be able to see the feet of Katie Ledecky.\" As she approaches the finish, the crowd's roar builds, with commentators confirming the \"crowd urges her on.\" She crosses the finish line at 8:04.79, breaking the World Record of 8:06.68, which is immediately confirmed by on-screen graphics displaying 'NEW WR' and her name alongside the American flag, while commentators excitedly declare \"Ledecky, gold medal! Ledecky, world record! Katie Ledecky of the USA reigns supreme yet again!\" and confirm the time as \"a new world record, a new Olympic record.\" A brief underwater shot captures Ledecky’s streamlined form and strong kick. Behind her, J. Carlin (GBR) in lane 3 and B. Kapas (HUN) in lane 5 trail, with commentators confirming Carlin wins the silver medal for Great Britain and Kapas the bronze for Hungary, also mentioning other trailing swimmers. The atmosphere is electric, with bright lighting illuminating the pool and the celebratory reactions of spectators, who are seen waving flags and recording the moment, their cheers erupting into a crescendo as Ledecky touches the wall."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 13,
+      "end_minute": 14,
+      "summary": "Following her dominant Women’s 800m Freestyle victory and world record of 8:04.79, K. Ledecky, visibly elated in the Rio 2016 Pool, was celebrated by commentators for her historic achievement of winning the 200m, 400m, and 800m freestyle events, a feat not seen since Debbie Meyer in 1968. The on-screen graphic confirmed her win, and a close-up showed her holding her gold medal amidst enthusiastic crowd cheers. At the Victory Ceremony, K. Ledecky stood on the top podium step, receiving her gold medal alongside Jazz Carlin (silver) and Boglarka Kapas (bronze), with commentators noting tears of joy. A text overlay highlighted her breaking her own world record by nearly 2 seconds and beating the field by at least 11 seconds, as upbeat music played. The scene then transitioned to the Men’s 100m Breaststroke final, introduced by a title card and a shot of swimmers, including those in AUS and USA caps, on the starting blocks. The race began with a loud crowd cheer and splash as swimmers dove into the Rio 2016 Pool. Commentators noted strong starts from C. VAN DER BURGH and K. CORDES, but quickly focused on A. PEATY in lane 4, who commentator 1 described as 'brilliant off the blocks' and 'flying' with a 'so fast' stroke rate. The Omega timer tracked Peaty's progress, showing him below world record pace at the 50-meter mark (26.61 seconds). Despite C. VAN DER BURGH's efforts, Peaty established a significant lead, described as 'three-quarters of a body length clear' with 25 meters remaining. A. PEATY ultimately won gold for Great Britain, setting a new world record of 57.13 seconds, a victory not achieved by Britain in this event since 1988. The crowd reaction was electric, with waving flags and visible excitement, underscoring the thrilling race and Peaty's dominance.",
+      "involved_entities": {
+        "Omega Timer": {
+          "description": "On-screen digital timer displaying race progress, including split times (e.g., 26.61 at 50m, confirmed by commentators, and 57.13 at finish), and graphics such as 'WR', 'OR', and 'NEW WR', tracking the race in real-time.",
+          "attribute": "audio-visual"
+        },
+        "Boglarka Kapas": {
+          "description": "Hungarian swimmer in a red cap with 'HUN', shown on the podium with a bronze medal, standing to the right of Ledecky during the Victory Ceremony.",
+          "attribute": "visual"
+        },
+        "Victory Ceremony Screen": {
+          "description": "On-screen graphic displaying the medalists: USA Katie Ledecky (gold), GBR Jazz Carlin (silver), HUN Boglarka Kapas (bronze), with Olympic rings and Rio 2016 branding.",
+          "attribute": "visual"
+        },
+        "Swimmer in AUS cap": {
+          "description": "Australian swimmer in a blue cap with 'AUS', shown on the starting block for the Men’s 100m Breaststroke, poised for the race.",
+          "attribute": "visual"
+        },
+        "Women’s 800m Freestyle Title Card": {
+          "description": "White text on a blurred pool background reading '8. Women's 800m Freestyle', signaling the event being shown, visible at the start of the segment.",
+          "attribute": "visual"
+        },
+        "Crowd Reaction": {
+          "description": "Spectators in the stands, including fans waving flags and recording the race on phones, reacting with loud cheers and excitement, especially at the start and end, as PEATY breaks the World Record, adding to the electric atmosphere.",
+          "attribute": "audio-visual"
+        },
+        "Swimmer in USA cap (Men's event)": {
+          "description": "American swimmer in a black cap with 'USA', shown on the starting block for the Men’s 100m Breaststroke, positioned next to the swimmer in the AUS cap.",
+          "attribute": "visual"
+        },
+        "K. Ledecky": {
+          "description": "American swimmer in a black Speedo cap with 'LEDECKY' and USA-branded swimsuit, shown post-race in the Rio 2016 Pool, smiling, holding her gold medal, and standing on the top podium step during the Victory Ceremony. Commentators describe her as 'in a class of her own,' 'against the clock,' making history with wins in the 200m, 400m, and 800m, and note 'tears flowing' as she reacts emotionally to her victory.",
+          "attribute": "audio-visual"
+        },
+        "Jazz Carlin": {
+          "description": "British swimmer in a white cap with 'GBR', shown on the podium with a silver medal, standing to the left of Ledecky during the Victory Ceremony.",
+          "attribute": "visual"
+        },
+        "Text Overlay": {
+          "description": "On-screen graphics displaying swimmer names, national flags, split times, and a 'NEW WR' notification, which is confirmed and highlighted by commentators as PEATY’s record-breaking performance at the finish line.",
+          "attribute": "audio-visual"
+        },
+        "Rio 2016 Pool": {
+          "description": "Olympic-sized swimming pool with blue water, colorful lane dividers (red, yellow, blue, green), and Rio 2016 branding on the walls and starting blocks, visible throughout the race, with bright, even lighting.",
+          "attribute": "visual"
+        },
+        "7. Men's 100m Breaststroke": {
+          "description": "Title card displayed over the pool, indicating the next event, with swimmers on starting blocks visible below, including one in a blue cap with 'AUS' and another in a black cap with 'USA'.",
+          "attribute": "visual"
+        },
+        "C. MILLER": {
+          "description": "American swimmer in lane 5, wearing a black cap with 'USA' and a dark swimsuit, identified by commentators as 'Cody Miller in five' among the leading swimmers, finishing in 3rd place with a time of 57.55 seconds, matching the Olympic Record (OR).",
+          "attribute": "audio-visual"
+        },
+        "C. VAN DER BURGH": {
+          "description": "South African swimmer in lane 3, wearing a red cap with 'RSA' and a dark swimsuit, noted by commentators for getting 'away very well' at the start and later 'trying to go with' PEATY, trailing behind by +0.63 seconds at the 50m mark.",
+          "attribute": "audio-visual"
+        },
+        "K. CORDES": {
+          "description": "American swimmer in lane 2, wearing a black cap with 'USA' and a dark swimsuit, mentioned by commentators as being 'in two' and among 'the ones at the moment' early in the race, trailing behind PEATY by +0.78 seconds at the 50m mark.",
+          "attribute": "audio-visual"
+        },
+        "A. PEATY": {
+          "description": "British swimmer in lane 4, wearing a blue cap with 'GBR' and a dark swimsuit, described by commentators as 'brilliant off the blocks' and flying once in the water with a 'so fast' stroke rate, 'fingertipping the world record line' and being 'below it by 8100s of a second' at the 50m mark (26.61s). He is called 'stunning' and 'in a class of his own' by commentators, leading the race by 'three-quarters of a body length clear' and breaking the World Record with a time of 57.13 seconds, securing 'a gold medal to the Great Britain team'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with K. Ledecky, the American swimmer in a black Speedo cap with 'LEDECKY' and a USA-branded swimsuit, emerging from the Rio 2016 Pool after winning the Women’s 800m Freestyle. She is visibly elated, smiling broadly as she leans on the red lane divider, with a male commentator declaring, \"Katie Ledecky in a class of her own. She against the clock,\" as the on-screen graphic confirms her victory and world record time of 8:04.79. The enthusiastic crowd's cheers and applause are audible as the camera captures her joyful reaction, including a close-up of her holding up her gold medal. The commentator continues, highlighting her historical achievement: \"That makes it the 200, the 400, and the 800. Not since Debbie Meyer in 1968 has that happened. And so, again, we're seeing history in the pool.\" A female voice briefly adds to the commentary. The scene transitions to the Victory Ceremony, where K. Ledecky stands on the top podium step, flanked by Jazz Carlin (GBR, silver) and Boglarka Kapas (HUN, bronze), all holding their medals and smiling, with the commentator noting \"tears flowing for Katie Ledecky.\" A text overlay emphasizes her dominance, breaking her own world record by almost 2 seconds and beating the rest of the field by at least 11 seconds. Upbeat pop/rock music with vocals then plays, featuring lyrics like \"Until I broke the rules, my life destroyed,\" as the segment concludes with a transition to the next event, the Men’s 100m Breaststroke, shown with a title card over the pool and a brief shot of swimmers on the starting blocks, including one in a blue cap with 'AUS' and another in a black cap with 'USA', poised for the race, before the music fades and the crowd noise returns briefly.",
+        "The high-intensity Men's 100m Breaststroke final at the Rio 2016 Olympics erupts with a loud crowd cheer and splash as swimmers dive into the vibrant Rio 2016 Pool. An underwater view captures their synchronized power, transitioning to an overhead shot as they surface. Commentator 1 immediately exclaims, \"Peaty, brilliant off the blocks,\" though noting that C. VAN DER BURGH, who \"gets away very well,\" and K. CORDES in lane 2 are also strong contenders. The Omega timer begins tracking the race, displaying split times and rankings, while Commentator 1 identifies \"Cody Miller in five\" among the leading pack. As A. PEATY, in lane 4, executes his powerful breaststroke, Commentator 2 enthusiastically states, \"once he hits the water, Adam Peaty just flies,\" praising his \"so fast\" stroke rate and observing he's \"fingertipping the world record line.\" At the 50-meter mark, the Omega timer shows Peaty's split at 26.61 seconds, with Commentator 2 confirming he's \"below it by 8100s of a second.\" Despite C. VAN DER BURGH \"trying to go with him,\" Peaty's dominance is undeniable. Commentator 1 declares Peaty, who has \"already set a world record here,\" is \"stunning,\" with \"three-quarters of a body length clear\" and \"25 meters to go,\" asserting he's \"got this race won already\" and is \"in a class of his own.\" The on-screen Text Overlay confirms a 'NEW WR' as PEATY crosses the finish line in a record-breaking 57.13 seconds, securing \"a gold medal to the Great Britain team,\" a feat not achieved by Britain in this event since 1988. The electric atmosphere is palpable, with the Crowd Reaction visible in the stands, waving flags and recording the historic moment, while the commentators' excited voices underscore the thrilling victory."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 15,
+      "end_minute": 18,
+      "summary": "Adam Peaty of Great Britain triumphed in the Men's 100m Breaststroke at the Rio 2016 pool, shattering the world record with a 57.13-second performance and securing a comfortable victory, celebrated with a Union Jack flag and '#TEAM PEATY' signs from cheering fans. At the subsequent victory ceremony, Peaty stood atop the podium, gold medal in hand, flanked by silver medalist Cameron van der Burgh of South Africa and bronze medalist Cody Miller of the United States, with on-screen graphics underscoring his record-breaking achievement as his third world record in the event and a margin of victory exceeding 1.5 seconds. Peaty expressed his resolve, stating, \"All the hard work's actually paid off now and uh, no, we're not giving in now, we're gonna push it forward for the next year.\" The focus then shifted to the Women's 100m Freestyle, with swimmers including Pernille Oleksik, Sarah Sjostrom, Simone Manuel, Cate Campbell, Bronte Campbell, and Anya Weitzeil preparing on the starting blocks amidst an electric atmosphere, punctuated by whistle/buzzer sounds and dramatic rock music. During the race, Cate Campbell led at the 50m mark with a 24.77 split, followed closely by Bronte Campbell and Simone Manuel, who was identified as a significant threat. The race concluded with a surprising dead heat for gold between Simone Manuel and Penny Oleksik, both clocking 52.70 and setting a new Olympic Record, while Sarah Sjostrom secured bronze. Manuel, the first African American to win an individual Olympic swimming gold, and Oleksik, Canada's most decorated summer Olympian at 16 with her fourth medal, shared a moment of sportsmanship before their medal ceremony, accompanied by an upbeat pop song. The segment concluded by introducing the Men's 200m Butterfly final, featuring Chad Guy Bertrand Le Clos and Michael Phelps. In this event, Michael Phelps, after a close start where he was initially behind L. Cseh, quickly took the lead by the 50m mark and maintained it throughout, ultimately winning with an Olympic and World Record time of 1:53.36, reclaiming his title and eliciting a triumphant celebration amidst a midst the crowd' explosive roar of the crowd.",
+      "involved_entities": {
+        "C. CAMPBELL": {
+          "description": "Australian swimmer Kate Campbell, wearing a white cap with 'AUS', confirmed by the commentator to be in lane 4, shown adjusting goggles on the starting block, noted by the commentator for a slightly slower start but a strong first 50, leading the race at the 50m mark with a split of 24.77, identified as one of 'the sisters' competing.",
+          "attribute": "audio-visual"
+        },
+        "A. PEATY": {
+          "description": "British swimmer in lane 4, wearing a blue cap with 'GBR' and a dark swimsuit, celebrating his victory with a Union Jack flag, later seen on the podium holding his gold medal with a joyful expression. A commentator confirms his world record time of 57.13 seconds, and PEATY himself is heard stating, 'All the hard work's actually paid off now and uh, no, we're not giving in now, we're gonna push it forward for the next year.'",
+          "attribute": "audio-visual"
+        },
+        "C. MILLER": {
+          "description": "American swimmer in lane 5, wearing a black cap with 'USA' and a dark swimsuit, standing on the podium with a bronze medal, smiling and holding his medal up. A commentator identifies him as 'Cody Miller in the black hat' who was delighted with third place, and later as 'Cody Miller of the United States' receiving bronze.",
+          "attribute": "audio-visual"
+        },
+        "Victory Ceremony Screen": {
+          "description": "On-screen graphic displaying the medalists: USA Simone MANUEL (gold), CAN Penny OLEKSIK (silver), SWE Sarah SJOSTROM (bronze), with Olympic rings and Rio 2016 branding.",
+          "attribute": "visual"
+        },
+        "P. OLEKSIK": {
+          "description": "Canadian swimmer in lane 5, wearing a white cap with 'OLEKSIK' and a Canadian maple leaf, initially shown winning with a time of 52.70 and setting a new OR on the scoreboard, but then described by commentators as part of a 'dead heat', shown looking exhausted but triumphant, then on the podium holding a silver medal, and highlighted by text as the most successful Canadian athlete in a single summer Olympics by winning her fourth medal.",
+          "attribute": "audio-visual"
+        },
+        "A. WEITZEIL": {
+          "description": "American swimmer A. Weitzeil of the USA, wearing a black cap with 'USA', confirmed by the commentator to be in lane 8, shown on the starting block, adjusting her goggles and cap, swimming in the pack during the race.",
+          "attribute": "audio-visual"
+        },
+        "Crowd Reaction": {
+          "description": "Spectators in the stands, including fans waving flags and recording the race on phones, reacting with excitement as PEATY breaks the World Record, adding to the electric atmosphere, with distinct whistle/buzzer sounds heard during the transition to the next race.",
+          "attribute": "audio-visual"
+        },
+        "Rio 2016 Pool": {
+          "description": "Olympic-sized swimming pool with vibrant blue water, colorful lane dividers, and Rio 2016 branding, visible throughout the race. The atmosphere is filled with the sounds of splashing water, a distinct starting buzzer, and an increasingly excited and roaring crowd.",
+          "attribute": "audio-visual"
+        },
+        "Omega Timer": {
+          "description": "On-screen digital timer displaying race progress, including split times at 50m (24.77), 100m (53.35), 150m (1:22.68), and the final time of 1:53.36, with 'WR' and 'OR' graphics visible, visually confirming the commentator's remarks about Phelps's lead and record-breaking performance.",
+          "attribute": "audio-visual"
+        },
+        "J. OTTESEN": {
+          "description": "Danish swimmer in lane 7, wearing a black cap with 'DEN', shown on the starting block, focused and ready.",
+          "attribute": "visual"
+        },
+        "B. CAMPBELL": {
+          "description": "Australian swimmer Bronte Campbell, wearing a white cap with 'AUS', confirmed by the commentator to be in lane 2, shown adjusting goggles on the starting block and leading at the 50m mark with a split of 24.77, identified as one of 'the sisters' competing.",
+          "attribute": "audio-visual"
+        },
+        "C. VAN DER BURGH": {
+          "description": "South African swimmer in lane 3, wearing a red cap with 'RSA' and a dark swimsuit, standing on the podium with a silver medal, smiling and embracing PEATY. A commentator identifies him by name as 'Cameron Van der Burgh of South Africa'.",
+          "attribute": "audio-visual"
+        },
+        "R. KROMOWIDJOJO": {
+          "description": "Dutch swimmer in lane 1, wearing a black cap with 'NED', shown on the starting block for the Women’s 100m Freestyle, preparing for the race.",
+          "attribute": "visual"
+        },
+        "S. SJOSTROM": {
+          "description": "Swedish swimmer in lane 6, wearing a yellow cap with 'SWE', confirmed by a commentator to have gotten into 'third place', then on the podium holding a bronze medal.",
+          "attribute": "audio-visual"
+        },
+        "Text Overlay": {
+          "description": "On-screen graphics displaying swimmer names, national flags, split times, and positions, including Phelps in 1st, LE CLOS in 2nd, and CSEH in 3rd at the finish, with +0.08 and +0.29 second deficits respectively, visually reinforcing the commentator's updates on the race standings.",
+          "attribute": "audio-visual"
+        },
+        "6. Women's 100m Freestyle": {
+          "description": "Title card displayed over the pool, indicating the next event, with swimmers on starting blocks visible below, including one in a yellow cap with 'SWE' and another in a black cap with 'USA'.",
+          "attribute": "visual"
+        },
+        "S. MANUEL": {
+          "description": "American swimmer in lane 3, wearing a black cap with 'MANUEL' and an American flag, whose name is called out by commentators during the race, shown celebrating with an arm raised after finishing second (though audio suggests a dead heat), then on the podium holding a gold medal, and highlighted by text as the first African American to win an individual Olympic gold in swimming.",
+          "attribute": "audio-visual"
+        },
+        "Michael Phelps": {
+          "description": "American swimmer in lane 5, wearing a black cap with 'PHELPS' and an American flag, shown diving into the pool, swimming with powerful butterfly strokes, leading throughout the race, touching the wall first with a time of 1:53.36, breaking the Olympic Record and setting a new World Record, and celebrating his victory with arms raised. The commentator repeatedly mentions his name, highlighting his powerful start, taking control of the race, maintaining his lead, and ultimately being 'number one in the 200 meters butterfly once again'.",
+          "attribute": "audio-visual"
+        },
+        "Title Card - Men's 200m Butterfly": {
+          "description": "White text on a blurred pool background reading '5. Men's 200m Butterfly', signaling the event being shown, visible at the start of the segment.",
+          "attribute": "visual"
+        },
+        "Chad Guy Bertrand LE CLOS": {
+          "description": "South African swimmer in lane 6, wearing a green cap with 'RSA' and 'LE CLOS', shown swimming in the race, trailing behind Phelps. The commentator identifies him as 'Le Clo', recalling his victory over Phelps at London 2012, noting his position in third place during the race, and observing that he was 'keeping his eye on Phelps' but 'didn't have the strength to close the gap'.",
+          "attribute": "audio-visual"
+        },
+        "D. SETO": {
+          "description": "Japanese swimmer in lane 2, wearing a white cap with 'JPN', shown swimming in the race, trailing behind Phelps at 50m with a +0.29 second deficit, and finishing in 3rd place.",
+          "attribute": "visual"
+        },
+        "L. CSEH": {
+          "description": "Hungarian swimmer in lane 3, wearing a white cap with 'HUN', shown swimming in the race, initially in 3rd place at 50m. The commentator refers to him as 'Lazlo Che', mentioning Phelps was just behind him at the initial touch.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a triumphant A. PEATY, the British swimmer in lane 4, emerging from the Rio 2016 pool after winning the Men’s 100m Breaststroke, breaking the world record with a time of 57.13 seconds, as a commentator confirms his comfortable victory. He celebrates draped in a Union Jack flag amidst cheering fans waving '#TEAM PEATY' signs, before the scene transitions to the victory ceremony. Here, PEATY stands on the top podium step, proudly holding his gold medal, flanked by silver medalist C. VAN DER BURGH of South Africa and bronze medalist C. MILLER of the United States, both named by the commentator. On-screen graphics highlight PEATY’s record-breaking performance, noting it was his third world record in the event and that he beat the field by over 1.5 seconds. PEATY's own voice is heard, expressing his determination: \"All the hard work's actually paid off now and uh, no, we're not giving in now, we're gonna push it forward for the next year.\" The segment then shifts to the Women’s 100m Freestyle, introduced by a title card displayed over the pool. Swimmers, including R. KROMOWIDJOJO, B. CAMPBELL, S. MANUEL, C. CAMPBELL, P. OLEKSIK, S. SJOSTROM, J. OTTESEN, and A. WEITZEIL, are shown on the starting blocks, adjusting goggles and caps. A commentator discusses the impressive times of \"Bronte the second fastest\" (referring to B. Campbell) and \"Oleksiak... the third fastest\" (P. Oleksiak) from earlier heats, and explicitly names \"Simone Manuel\" as the Omega timer counts down. The atmosphere is electric, with spectators capturing the moment on their phones, punctuated by distinct whistle/buzzer sounds, as an intense, dramatic rock music track plays in the background.",
+        "The video opens at the Rio 2016 Olympic Pool, showcasing swimmers on starting blocks for the Women’s 100m Freestyle. A commentator identifies A. Weitzeil of the USA in lane 8, while other swimmers including B. Campbell (AUS, white cap), S. Manuel (USA, black cap with blue swimsuit), and C. Campbell (AUS, white cap) are seen adjusting their goggles and caps, poised and focused. The Omega Timer displays 23:29:45. The command \"Take your marks\" is heard, followed by the starting buzzer, initiating a synchronized dive captured from an underwater angle, showing streamlined entries. The commentator confirms this is the 100 freestyle final for women, identifying the two Campbells as Kate (C. Campbell) and Bronte (B. Campbell), with Bronte in lane 2 and Kate in lane 4. The camera shifts to a side view, tracking the swimmers powering through the water with freestyle strokes. At the 50m mark, on-screen graphics show C. Campbell (Kate) leading with a split of 24.77, a performance the commentator highlights as a great first 50 despite a slightly slower start. B. Campbell (Bronte) follows (+0.27), and S. Manuel (+0.47) is positioned between the sisters, identified by the commentator as \"the threat at the moment.\" The race continues with intense competition, an overhead view revealing the swimmers’ positions as they approach the 100m finish, all against the backdrop of visible Rio 2016 branding on the pool walls, an engaged crowd, and photographers capturing the high-stakes Olympic event, with the Omega Timer and split times continuously displayed.",
+        "The minute opens with a wide-angle view of the Rio 2016 Olympic swimming pool during the Women’s 100m Freestyle final, showing swimmers in full sprint across the lanes. A male commentator notes, \"There's quite a few lining up now. This is not clear cut at all,\" as the Omega timer tracks the race, displaying on-screen graphics for S. MANUEL in lane 3, P. OLEKSIK in lane 5, and S. SJOSTROM in lane 6. As the race concludes, the scoreboard shows P. OLEKSIK winning with a time of 52.70, setting a new Olympic Record, while S. MANUEL finishes in second. However, commentators express confusion, with a female voice exclaiming, \"It's a dead heat! Oh my goodness!\" and elaborating, \"We have dual Olympic champions... and it's happened again in 2016,\" while a male commentator speculates they might have \"tossed a coin for who would get the first medal.\" The female commentator also confirms S. SJOSTROM \"got into third place.\" The camera then cuts to close-ups of the swimmers at the wall: S. MANUEL, wearing a black cap with 'MANUEL' and an American flag, raises her arm in celebration, while P. OLEKSIK, in a white cap with 'OLEKSIK' and a Canadian maple leaf, looks exhausted but triumphant. The two athletes share a moment of sportsmanship, touching hands in the water. The scene transitions to the victory ceremony, set to an upbeat, inspirational pop song with male vocals singing \"Can I be your superhero?\" A French announcer is briefly heard. S. MANUEL (gold), P. OLEKSIK (silver), and S. SJOSTROM (bronze) stand on the podium, smiling and holding their medals. Text overlays highlight Simone Manuel as the first African American to win an individual Olympic gold in swimming, and Penny Oleksiak, at 16, becoming the most successful Canadian athlete in a single summer Olympics by winning her fourth medal. The segment ends with a title card for the Men’s 200m Butterfly, followed by a shot of Chad Guy Bertrand LE CLOS (RSA) in a green cap and Michael Phelps (USA) in a black cap with 'PHELPS' and an American flag, both preparing for their event, as a male commentator identifies them: \"Le Clo of South Africa was swimming in lane six. Michael Phelps of the United States in lane five,\" with crowd noise audible in the background.",
+        "The video opens with a close-up of swimmers, including Michael Phelps in lane 5 with a black cap featuring 'PHELPS' and the American flag, poised on starting blocks at the vibrant Rio 2016 Olympic pool for the Men’s 200m Butterfly final. A distinct starting buzzer sounds, and the swimmers dive in unison, creating a splash as they begin their underwater dolphin kicks. The commentator immediately sets the scene, noting that Chad Guy Bertrand Le Clos had won this event at London 2012, narrowly beating Phelps. As the camera shifts to an overhead view, tracking the swimmers' powerful butterfly strokes, the commentator observes Phelps looking powerful in the first 50 meters, even though he initially touched just behind L. Cseh. On-screen graphics and the Omega timer display split times, showing Phelps quickly taking control and leading at the 50m mark. The intense, rhythmic movements of the swimmers are captured through alternating overhead and underwater shots, with the commentator confirming Phelps's lead as they approach the halfway point. The crowd's excitement builds with a palpable roar as the commentator updates that Le Clos turned in third place, more than half a second behind. By 150m, Phelps maintains his decisive lead, with the commentator stating he was still leading as they turned for the final time. In the final stretch, Phelps pulls ahead, and the commentator notes Le Clos, visible in his green cap, was keeping his eye on Phelps but ultimately \"didn't have the strength to close the gap.\" Phelps touches the wall first with a time of 1:53.36, breaking the Olympic Record and setting a new World Record, confirmed by on-screen graphics. The commentator exclaims that Phelps held everybody off and was \"number one in the 200 meters butterfly once again.\" Phelps emerges from the water, raising both arms in triumph with a joyful expression, celebrating his gold medal victory amidst the explosive roar of the crowd, as the commentator begins to describe his reclamation of the title."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 19,
+      "end_minute": 21,
+      "summary": "The Men's 200m Butterfly final at the Rio 2016 Olympics commenced with an overhead view of swimmers, including Michael Phelps in lane 4, T. Pereira in lane 3, and R. Lochte in lane 5, diving into the Rio 2016 Pool and executing powerful butterfly strokes, with commentators noting Phelps' strong start and impressive underwater phase. As the Omega Timer tracked progress, showing Phelps's splits at 50m (24.74) and 100m (53.44), just 0.01 seconds behind the leader, commentators highlighted his 'company' and that he was 'right on the world record line,' with the crowd reacting with excitement. The camera alternated between overhead, side, and underwater views, capturing dynamic water splashes and swimmer technique, as commentators named the leading contenders: 'Phelps, Pereira, Lochte,' noting 'Brazil [is] looking for a medal.' In the final stretch, Phelps surged ahead, with on-screen text overlay confirming his 1st place at 150m (1:26.51), and commentators exclaimed, 'The mighty Michael Phelps! The champion is leading,' noting he was 'increasing the lead, increasing his stroke rate,' and declaring, 'There has never been a better swimmer. The most decorated swimmer is miles ahead!' The race concluded with Phelps winning gold, breaking the Olympic Record with a time of 1:54.00, followed by K. Hagino (Japan) in 2nd and S. Wang (China) in 3rd, as displayed on the finish screen, while spectators waved flags. The scene then transitioned to the victory ceremony where Phelps, wearing a red and navy USA jacket, received his gold medal and stood on the podium alongside Masato Sakai (silver) and Tamas Kenderesi (bronze), as upbeat electronic music played and text overlays highlighted Phelps reclaiming his signature event. The video then shifted to the Men's 200m IM event, with a title card displayed over the pool, and Phelps, in a navy USA jacket, walked toward the pool amidst crowd noise, with commentators exclaiming about his achievements. Swimmers, including Phelps and Ryan Lochte, prepared at the starting blocks, with the crowd chanting and commentators discussing Pereira's past achievements before the swimmers dove into the pool for the race.",
+      "involved_entities": {
+        "Victory Ceremony Screen": {
+          "description": "On-screen graphic displaying the medalists: USA Michael Phelps (gold), JPN Masato Sakai (silver), HUN Tamas Kenderesi (bronze), with Olympic rings and Rio 2016 branding.",
+          "attribute": "visual"
+        },
+        "Swimmer in USA jacket (Men's 200m IM)": {
+          "description": "American swimmer wearing a navy USA jacket with 'USA' on the back, walking toward the pool before the Men's 200m IM race, not previously identified in the context.",
+          "attribute": "visual"
+        },
+        "Title Card - Men's 200m IM": {
+          "description": "White text on a blurred pool background reading '4. Men's 200m IM', signaling the next event, visible at the start of the segment.",
+          "attribute": "visual"
+        },
+        "Rio 2016 Pool": {
+          "description": "Olympic-sized swimming pool with blue water, colorful lane dividers (red, yellow, blue, green), and Rio 2016 branding on the walls and starting blocks, visible throughout the race.",
+          "attribute": "visual"
+        },
+        "Omega Timer": {
+          "description": "On-screen digital timer displaying race progress, including split times at 50m (24.74) and 100m (53.44), with 'WR' and 'OR' graphics visible, and a red 'OMEGA' logo at the 100m mark, later showing the final time of 1:54.00 for Phelps.",
+          "attribute": "visual"
+        },
+        "Michael Phelps": {
+          "description": "American swimmer in lane 4, wearing a black cap with 'PHELPS' and an American flag, executing powerful butterfly strokes. Commentators praise his impressive underwater phase and powerful stroke, noting he's 'right on the world record line.' He is identified as 'the mighty Michael Phelps' and 'the champion' who is 'increasing the lead' and 'increasing his stroke rate,' ultimately winning gold and breaking the Olympic Record with a time of 1:54.00, hailed as 'the most decorated swimmer' who is 'miles ahead.'",
+          "attribute": "audio-visual"
+        },
+        "Tamas Kenderesi": {
+          "description": "Hungarian swimmer, visually seen receiving his bronze medal on the podium, and explicitly stated by a commentator to have won the 'bronze.'",
+          "attribute": "audio-visual"
+        },
+        "Title Card - Men's 200m Butterfly": {
+          "description": "White text on a blurred pool background reading '5. Men's 200m Butterfly', signaling the event being shown, visible at the start of the segment.",
+          "attribute": "visual"
+        },
+        "Chad Guy Bertrand LE CLOS": {
+          "description": "South African swimmer, mentioned in text overlay as failing to medal, and explicitly stated by a commentator to have 'finished outside the medal positions.'",
+          "attribute": "audio-visual"
+        },
+        "Masato Sakai": {
+          "description": "Japanese swimmer, visually seen receiving his silver medal on the podium, and explicitly stated by a commentator to have won the 'silver medal.'",
+          "attribute": "audio-visual"
+        },
+        "Text Overlay": {
+          "description": "On-screen graphics displaying swimmer names, national flags, split times, and positions, including Phelps in 1st, K. Hagino in 2nd, and S. Wang in 3rd at the finish, with final times of 1:54.00, 1:54.23, and 1:54.66 respectively.",
+          "attribute": "visual"
+        },
+        "Ryan Lochte": {
+          "description": "American swimmer in lane 5, wearing a black cap with 'LOCHTE', shown adjusting goggles and preparing for the Men's 200m IM race.",
+          "attribute": "visual"
+        },
+        "Underwater Camera View": {
+          "description": "Brief underwater shot capturing swimmers' streamlined forms and powerful kicks, showing bubbles and water dynamics as they execute butterfly strokes, aligning with commentators' remarks about Phelps's 'impressive underwater' phase.",
+          "attribute": "audio-visual"
+        },
+        "T. Pereira": {
+          "description": "Brazilian swimmer in lane 3, wearing a green cap with 'BRA', swimming with strong butterfly technique. Commentators identify him as a key competitor, noting he is 'throwing everything at' Phelps, and that 'Brazil [is] looking for a medal.'",
+          "attribute": "audio-visual"
+        },
+        "R. Lochte": {
+          "description": "American swimmer in lane 5, wearing a black cap with 'LOCHTE', shown adjusting goggles at the start, then swimming with consistent power. Commentators identify him as one of the top contenders alongside Phelps and Pereira.",
+          "attribute": "audio-visual"
+        },
+        "Crowd Reaction": {
+          "description": "Spectators in the stands, including fans waving flags and recording the race on phones, reacting with excitement as Phelps breaks the Olympic Record, contributing to the 'deafening' and electric atmosphere.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with the results screen for the Men's 200m Butterfly final at the Rio 2016 Olympics, showing Michael Phelps of the USA in first place with a time of 1:53.36, as a commentator notes Phelps' history and that Chad Guy Bertrand LE CLOS finished \"outside the medal positions.\" The scene transitions to the victory ceremony, where Phelps, wearing a red and navy USA jacket, receives his gold medal and stands proudly on the podium alongside Masato Sakai of Japan (silver) and Tamas Kenderesi of Hungary (bronze), all smiling and holding their medals, as the commentator announces their respective medals. Upbeat, heroic electronic instrumental music plays throughout the ceremony. Text overlays highlight Phelps reclaiming his signature event. The video then shifts to the Men's 200m IM event, with a title card displayed over the pool. Phelps, now in a navy USA jacket, walks toward the pool amidst crowd noise, and an excited commentator exclaims about \"this man\" and his \"25, 21 gold medals.\" The camera shows the starting blocks with swimmers preparing, including Phelps in a black cap with 'PHELPS' and an American flag adjusting his goggles, and Ryan Lochte in a black cap with 'LOCHTE' also preparing. The crowd is heard chanting, and commentators discuss another athlete, Pereira, mentioning his 'six world championships' and 'four Olympic' achievements. The swimmers dive into the pool, with Phelps in lane 4, as the race begins under bright arena lights, accompanied by the distinct sound of water splashing.",
+        "The high-intensity Men's 200m Butterfly race at the Rio 2016 Olympics commences with the sharp sound of a starting gun, immediately followed by an underwater view of swimmers diving into the pool, their streamlined bodies cutting through the blue water. Commentators quickly highlight T. Pereira, exclaiming, \"Now watch Pereira go,\" noting that \"the crowd has got him pumped.\" The camera swiftly transitions to an overhead shot, showing the swimmers in their respective lanes, marked by vibrant dividers. Commentators identify Pereira, \"third from your right, towards the top of the screen,\" as he edges slightly in front, swimming \"alongside Phelps\" and Lochte, confirming \"they're all in a line.\" The Omega Timer displays the race progress, with Michael Phelps in lane 4 (black cap, 'PHELPS', American flag), T. Pereira in lane 3 (green cap, 'BRA'), and R. Lochte in lane 5 (black cap, 'LOCHTE'). At the 50m mark, on-screen graphics show Phelps with a split of 24.74, just 0.15 seconds behind the World Record, while Pereira trails by +0.17 and Lochte by +0.29 seconds. The commentators audibly read out \"24.74\" for Phelps, noting he's \"lurking though,\" and that Pereira is \"0.17 behind.\" Despite commentators mistakenly referring to \"backstroke\" and \"breaststroke\" at various points, the swimmers are clearly executing powerful butterfly strokes, creating splashes and bubbles. The crowd's excitement is palpable, with commentators stating, \"The crowd will go crazy! They do!\" The camera alternates between overhead and underwater views, capturing the intense competition and synchronized movements. Commentators also praise Phelps' \"underwaters\" and warn, \"Don't write off Ryan Lochte,\" mentioning he's a \"past champion.\" By the 100m mark, the timer reads 53.44, with Lochte now leading slightly, followed closely by Pereira and Phelps, all within 0.01 seconds of each other, swimming at \"world record pace.\" The Rio 2016 branding is visible on the pool walls as the race remains tightly contested, setting the stage for a dramatic finish.",
+        "The high-intensity Men's 200m Butterfly race at the Rio 2016 Olympics begins with an overhead view of swimmers, including Michael Phelps in lane 4, T. Pereira in lane 3, and R. Lochte in lane 5, diving into the vibrant Rio 2016 Pool and executing powerful butterfly strokes. Two male commentators immediately note Phelps's strong start, despite a slightly wanting semi-final, praising his impressive underwater phase and powerful stroke, which they describe as 'working pretty well' for him in this Olympic campaign. As the Omega Timer tracks progress, showing Phelps's splits at 50m (24.74) and 100m (53.44), just 0.01 seconds behind the leader, the commentators highlight that he has 'company' and isn't easily shaking off competitors like Pereira, who is 'throwing everything at him.' They excitedly declare that Phelps is 'right on the world record line.' The camera alternates between overhead, side, and underwater views, capturing the dynamic water splashes and swimmers' technique. The atmosphere is electric, with the 'deafening' crowd reacting with excitement, especially as commentators name the leading contenders: 'Phelps, Pereira, Lochte,' noting 'Brazil [is] looking for a medal.' As the race progresses, Phelps maintains and then surges ahead, with the on-screen text overlay confirming his 1st place at 150m (1:26.51). In the final stretch, commentators exclaim, 'The mighty Michael Phelps! The champion is leading,' noting he is 'increasing the lead, increasing his stroke rate.' They declare, 'There has never been a better swimmer. The most decorated swimmer is miles ahead!' The race concludes with Phelps winning gold, breaking the Olympic Record with a time of 1:54.00, followed by K. Hagino (Japan) in 2nd and S. Wang (China) in 3rd, as displayed on the finish screen, while spectators wave flags and capture the triumphant moment."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 22,
+      "end_minute": 23,
+      "summary": "Following his Men's 200m Individual Medley victory at the Rio 2016 Pool, Michael Phelps, visibly exhausted, emerged to a roaring crowd, with the Omega Timer showing his winning time of 1:54.66 and a commentator noting his significant 1.95-second margin of victory, emphasizing his unprecedented fourth consecutive win in the event. The scene shifted to the victory ceremony where Phelps, wearing a navy USA jacket, received his gold medal alongside silver medalist Kosuke Hagino and bronze medalist Wang Shun, amidst cheers and an announcer's declaration. A text overlay highlighted Phelps' achievement as an upbeat instrumental track began. The focus then moved to the Men's 50m Freestyle final, with swimmers like N. Adrian in lane 6 preparing at the starting blocks under bright arena lights. After an official's call of \"Take your marks\" and the sharp sound of the starting gun, the race commenced with a synchronized dive. An underwater view captured the start, followed by an overhead shot tracking the swimmers, including A. Ervin in lane 3, F. Manaudou in lane 4, and N. Adrian in lane 6. Despite A. Ervin's early lead and the commentator's focus on him, N. Adrian surged in the final stretch to win, confirmed by an on-screen graphic. Adrian emerged from the water, raising his arms in triumph to the cheering crowd, including a fan waving a 'TEAM USA' flag.",
+      "involved_entities": {
+        "Swimmer in lane 1 (Men's 50m Freestyle)": {
+          "description": "Swimmer in lane 1, wearing a black cap with 'S. BILIS' and a yellow swimsuit, shown on the starting block, diving into the pool, and swimming in the race.",
+          "attribute": "visual"
+        },
+        "Victory Ceremony Screen": {
+          "description": "On-screen graphic displaying the medalists: USA Michael Phelps (gold), JPN Kosuke Hagino (silver), CHN Wang Shun (bronze), with Olympic rings and Rio 2016 branding.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 3 (Men's 50m Freestyle)": {
+          "description": "Swimmer in lane 3, wearing a black cap with 'A. ERVIN' and a white swimsuit, shown on the starting block, diving into the pool, and leading the race before finishing second, despite the commentator repeatedly calling his name and mistakenly declaring him the winner with exclamations like \"He wins the gold again!\"",
+          "attribute": "audio-visual"
+        },
+        "Swimmer in lane 8 (Men's 50m Freestyle)": {
+          "description": "Swimmer in lane 8, wearing a black cap with 'B. TANDY' and a red swimsuit, shown on the starting block, diving into the pool, and swimming in the race, identified by the commentator as \"Tandy of South Africa.\"",
+          "attribute": "audio-visual"
+        },
+        "Swimmer in lane 5 (Men's 50m Freestyle)": {
+          "description": "Swimmer in lane 5, wearing a black cap with 'A. GOVOROV' and a blue swimsuit, shown on the starting block, diving into the pool, and swimming in the race.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 4 (Men's 50m Freestyle)": {
+          "description": "Swimmer in lane 4, wearing a black cap with 'F. MANAUDOU' and a blue swimsuit, shown on the starting block, diving into the pool, and swimming in the race, with the commentator calling his name during the race.",
+          "attribute": "audio-visual"
+        },
+        "Title Card - Men's 50m Freestyle": {
+          "description": "White text on a blurred pool background reading '3. Men's 50m Freestyle', signaling the event being shown, visible at the start of the segment.",
+          "attribute": "visual"
+        },
+        "Rio 2016 Pool": {
+          "description": "Olympic-sized swimming pool with blue water, colorful lane dividers (red, yellow, blue, green), and Rio 2016 branding on the walls and starting blocks, visible throughout the race and celebration.",
+          "attribute": "visual"
+        },
+        "Wang Shun": {
+          "description": "Chinese swimmer in a red jacket with yellow trim, standing on the podium with a bronze medal, smiling beside Phelps.",
+          "attribute": "visual"
+        },
+        "N. Adrian": {
+          "description": "American swimmer in lane 6, wearing a black cap with 'USA' and a black swimsuit, shown on the starting block, diving into the pool, and celebrating victory with arms raised after winning the Men's 50m Freestyle, to the sound of an electric crowd roar and cheers.",
+          "attribute": "audio-visual"
+        },
+        "Omega Timer": {
+          "description": "On-screen digital timer displaying split times (e.g., 10.2, 14.0, 19.0, 21.40 seconds) during the race, with the 'OMEGA' logo visible in the background.",
+          "attribute": "visual"
+        },
+        "Michael Phelps": {
+          "description": "American swimmer in a black cap with 'PHELPS' and an American flag, later seen in a navy USA jacket with red sleeves, celebrating his gold medal win in the Men's 200m Individual Medley at the Rio 2016 Olympics, as the crowd roars and a commentator exclaims, 'Extraordinary, yet again.' The commentator emphasizes his significant lead of '1.95 seconds' and highlights his achievement: 'Four times he wins the 200 meters individual medley, the first swimmer... No one has achieved... No one's got close to achieving what he has,' adding, 'Remember he thought three was enough.' He is later seen receiving his medal amidst continued crowd cheers and a Portuguese announcer declaring, 'Senhoras e senhores, medalhistas olímpicos' (Ladies and gentlemen, Olympic medalists).",
+          "attribute": "audio-visual"
+        },
+        "Kosuke Hagino": {
+          "description": "Japanese swimmer in a white and red jacket, standing on the podium with a silver medal, smiling beside Phelps.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 2 (Men's 50m Freestyle)": {
+          "description": "Swimmer in lane 2, wearing a black cap with 'B. PROUD' and a blue swimsuit, shown on the starting block, diving into the pool, and swimming in the race.",
+          "attribute": "visual"
+        },
+        "Text Overlay": {
+          "description": "On-screen graphics displaying 'Men's 200m Individual Medley', 'WINNER - FINAL', 'USA Michael Phelps', and his time of 1:54.66, followed by a summary of his achievement, appearing as an upbeat, heroic instrumental track begins to play.",
+          "attribute": "audio-visual"
+        },
+        "Swimmer in lane 7 (Men's 50m Freestyle)": {
+          "description": "Swimmer in lane 7, wearing a black cap with 'B. FRATUS' and a green swimsuit, shown on the starting block, diving into the pool, and swimming in the race.",
+          "attribute": "visual"
+        },
+        "Crowd Reaction": {
+          "description": "Spectators in the stands, including fans waving flags and recording the race on phones, reacting with excitement and erupting in cheers as N. Adrian wins, contributing to the electric atmosphere with anticipatory murmurs, \"sympathetic shushers,\" and a \"deafening crowd roar\" during the race.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with Michael Phelps, wearing a black swim cap, emerging visibly exhausted from the Rio 2016 Pool after his Men's 200m Individual Medley win, as the crowd roars and a commentator exclaims, \"Extraordinary, yet again.\" The Omega Timer displays his winning time of 1:54.66, with an on-screen graphic confirming his victory, and the commentator emphasizing the significant lead: \"1.95 seconds was the margin in victory.\" The commentator continues to laud his achievement, stating, \"Four times he wins the 200 meters individual medley, the first swimmer... No one has achieved... No one's got close to achieving what he has,\" adding, \"Remember he thought three was enough.\" The scene transitions to the victory ceremony, where Phelps, now in a navy USA jacket, receives his gold medal amidst continued crowd cheers and a Portuguese announcer declaring, \"Senhoras e senhores, medalhistas olímpicos\" (Ladies and gentlemen, Olympic medalists). He stands on the podium with silver medalist Kosuke Hagino and bronze medalist Wang Shun, all smiling with their medals. A text overlay highlights Phelps' fourth consecutive 200m IM win, beating the field by at least 1.95 seconds, as an upbeat, heroic instrumental track with a strong beat and synth elements begins to play. The segment then shifts to a title card for the 'Men's 50m Freestyle,' followed by a wide shot of the brightly lit Olympic arena and starting blocks, where swimmers like N. Adrian in lane 6 are preparing for the next race, with the music continuing. A commentator briefly interjects over the music, stating, \"He can't help but be affected by...\" before the audio cuts off.",
+        "The segment opens with a wide-angle view of the brightly lit Rio 2016 Olympic swimming pool, showcasing the starting blocks and swimmers preparing for the Men's 50m Freestyle final. The atmosphere is tense with anticipatory crowd murmurs and \"sympathetic shushers\" noted by a commentator. Colorful lane dividers and Rio 2016 branding are prominent as swimmers, including N. Adrian (lane 6, black cap 'USA') and B. TANDY (lane 8, red swimsuit 'RSA'), adjust their gear with focused expressions, engaging in their \"personal rituals.\" The tension builds to an official's clear call of \"Take your marks,\" followed by the sharp sound of the starting gun. The race begins with a synchronized dive, captured from an underwater angle, as the commentator declares, \"The final of the 50 freestyle,\" amidst a deafening crowd roar. An overhead view tracks the swimmers powering through the water, with the Omega timer displaying split times. A. ERVIN (lane 3) takes an early lead, closely pursued by F. MANAUDOU (lane 4) and N. ADRIAN (lane 6). The commentator excitedly calls out \"Manadou and Ervan!\" repeatedly, focusing on Ervin's performance. In a dramatic final stretch, N. ADRIAN surges ahead to win, with the on-screen graphic confirming his victory in lane 6, even as the commentator mistakenly exclaims, \"16 years on! He wins the gold again!\" and \"16 years later! He wins the gold again!\" seemingly referring to A. Ervin. Adrian emerges from the water, raising his arms in triumph to the electric atmosphere of cheering spectators, including a fan waving a 'TEAM USA' flag, while the Olympic rings and 'Rio 2016' branding remain visible."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 24,
+      "end_minute": 27,
+      "summary": "In the Men's 50m Freestyle at Rio 2016, Anthony Ervin, wearing a black swim cap with 'ERVIN' and an American flag, won gold in 21.40 seconds, narrowly beating French swimmer Florent Manaudou by 1/100th of a second, who secured the silver medal. Ervin, visibly emotional and celebrating in the pool, later stood on the podium in a navy USA jacket with red sleeves, waving to the crowd alongside Manaudou and a bronze medalist. Commentators highlighted Ervin's remarkable comeback, noting his return to the US National team after a period of personal struggle, and his achievement as the oldest swimmer to win individual Olympic gold, 16 years after his first win in the event. The narrative then shifted to the Men's 100m Butterfly, with Michael Phelps in lane 2, A. SADOVNIKOV in lane 1, J. SCHOOLING in lane 4, and C. LE CLOS in lane 5, poised at the starting blocks of the Rio 2016 Pool, with the Omega timer visible. The race commenced with a whistle and synchronized dives, with commentators immediately noting J. SCHOOLING's strong start and pace, while Michael Phelps' underwater performance was anticipated. At the 50m mark, A. SADOVNIKOV led, with J. SCHOOLING in fourth. In the final stretch, Joseph Schooling of Singapore surged ahead, securing gold with a new Olympic Record of 50.39 seconds, celebrated by roaring crowds and waving Singaporean flags. The podium ceremony for the 100m Butterfly recognized Schooling with gold, and a historic three-way tie for silver between Chad Guy Bertrand LE CLOS of South Africa, Michael Phelps of the USA, and Laszlo Cseh of Hungary, all receiving silver medals. The event concluded with a text overlay detailing Schooling's record and the unprecedented silver tie, before transitioning to a title card for the Men's 4 x 100m Medley Relay.",
+      "involved_entities": {
+        "Victory Ceremony Screen": {
+          "description": "On-screen graphic displaying 'Men's 100m Butterfly Victory Ceremony' with medalists listed: SIN Joseph Schooling (gold), USA Michael Phelps (silver), RSA Chad Guy Bertrand LE CLOS (silver), HUN Laszlo Cseh (silver), with Olympic rings and Rio 2016 branding.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 3 (Men's 50m Freestyle)": {
+          "description": "Swimmer in lane 3, wearing a black cap with 'A. ERVIN' and a white swimsuit, shown on the starting block, diving into the pool, and leading the race before finishing second.",
+          "attribute": "visual"
+        },
+        "A. SADOVNIKOV": {
+          "description": "Russian swimmer in lane 1, wearing a black cap with 'RUS', shown on the starting block, bending forward and preparing for the race, later leading at the 50m mark.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 8 (Men's 50m Freestyle)": {
+          "description": "Swimmer in lane 8, wearing a black cap with 'B. TANDY' and a red swimsuit, shown on the starting block, diving into the pool, and swimming in the race.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 5 (Men's 50m Freestyle)": {
+          "description": "Swimmer in lane 5, wearing a black cap with 'A. GOVOROV' and a blue swimsuit, shown on the starting block, diving into the pool, and swimming in the race.",
+          "attribute": "visual"
+        },
+        "Title Card - Men's 100m Butterfly": {
+          "description": "White text on a blurred pool background reading '2. Men's 100m Butterfly', signaling the event being shown, visible at the start of the segment.",
+          "attribute": "visual"
+        },
+        "Rio 2016 Pool": {
+          "description": "Olympic-sized swimming pool with blue water, colorful lane dividers (red, yellow, blue, green), and Rio 2016 branding on the walls and starting blocks, visible throughout the race and podium ceremony.",
+          "attribute": "visual"
+        },
+        "Omega Timer": {
+          "description": "On-screen digital timer displaying split times during the race, culminating in '50.39' with 'NEW OR' indicating a new Olympic Record, visible in the bottom right corner throughout the race and finish. The time is confirmed by commentators as an 'Olympic record time'.",
+          "attribute": "audio-visual"
+        },
+        "Michael Phelps": {
+          "description": "American swimmer in a navy and red USA jacket, holding a silver medal, smiling, and standing beside Schooling on the podium. His country, 'the US,' is mentioned by a male announcer in the context of medal counts.",
+          "attribute": "audio-visual"
+        },
+        "Swimmer in AUS cap": {
+          "description": "Australian swimmer in a blue cap with 'AUS', visible in the pool near Ervin, wearing a blue swimsuit, and later not seen in the podium scene.",
+          "attribute": "visual"
+        },
+        "Anthony Ervin": {
+          "description": "American swimmer, visibly emotional and celebrating in the pool after winning gold in 21.40 by 0.01s, wearing a black swim cap with 'ERVIN' and an American flag, adjusting goggles and smiling broadly. Later, on the podium in a navy USA jacket with red sleeves, waving to the crowd with a joyful expression, proudly displaying his gold medal, having been described by commentators as a 'leader on this US team' who 'lost his way' but 'swimming helped him find himself' and he 'returned to the US National team'.",
+          "attribute": "audio-visual"
+        },
+        "J. SCHOOLING": {
+          "description": "Jamaican swimmer in lane 4, wearing a black cap with 'JAM', shown on the starting block, bending forward and preparing for the race. Commentators highlight his 'best reaction time' in the semifinals, his strong start, and that he is 'looking good and right on that world record time.' He is later shown in 4th place at the 50m mark.",
+          "attribute": "audio-visual"
+        },
+        "Swimmer in USA cap (Men's 50m Freestyle)": {
+          "description": "American swimmer in lane 4, wearing a black cap with 'USA' and a white swimsuit, seen in the pool after the race, later on the podium in a navy USA jacket with red sleeves, holding a gold medal.",
+          "attribute": "visual"
+        },
+        "Swimmer in ROU cap": {
+          "description": "Romanian swimmer wearing a white cap with 'ROU' and a blue swimsuit, seen in the pool near Ervin, adjusting goggles and diving into the pool at the start of the race.",
+          "attribute": "visual"
+        },
+        "Text Overlay": {
+          "description": "White text on a blue wooden background stating: 'Joseph Schooling's gold became Singapore's first gold medal in Olympic history. Joseph Schooling broke the Olympic record and the textile world record in the 100m Butterfly. Historic three-way tie for silver by Phelps, le Clos, and Cseh.'",
+          "attribute": "visual"
+        },
+        "C. LE CLOS": {
+          "description": "South African swimmer in lane 5, wearing a green cap with 'RSA', shown on the starting block, bending forward and preparing for the race. He is referred to as 'Le Clo' by commentators, swimming next to Schooling.",
+          "attribute": "audio-visual"
+        },
+        "Swimmer in lane 7 (Men's 50m Freestyle)": {
+          "description": "Swimmer in lane 7, wearing a black cap with 'B. FRATUS' and a green swimsuit, shown on the starting block, diving into the pool, and swimming in the race.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 7 (Men's 100m Butterfly)": {
+          "description": "Swimmer in lane 7, wearing a black cap with 'USA' and a blue swimsuit, shown on the starting block, bending forward and preparing for the race, later swimming in the pack.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 6 (Men's 100m Butterfly)": {
+          "description": "Swimmer in lane 6, wearing a black cap with 'USA' and a blue swimsuit, shown on the starting block, bending forward and preparing for the race, later swimming in the pack.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 2 (Men's 100m Butterfly)": {
+          "description": "This is Michael Phelps, identified by commentators as being in lane two, with his performance compared to Schooling's early speed.",
+          "attribute": "audio-visual"
+        },
+        "Swimmer in lane 3 (Men's 100m Butterfly)": {
+          "description": "Swimmer in lane 3, wearing a black cap with 'CHN' and a blue swimsuit, shown on the starting block, bending forward and preparing for the race, later shown in 3rd place at the 50m mark.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 8 (Men's 100m Butterfly)": {
+          "description": "Swimmer in lane 8, wearing a black cap with 'USA' and a blue swimsuit, shown on the starting block, bending forward and preparing for the race, later swimming in the pack.",
+          "attribute": "visual"
+        },
+        "Joseph Schooling": {
+          "description": "Singaporean swimmer in a red and white tracksuit, holding a gold medal, smiling broadly, and raising his arms in celebration on the podium. He is identified by a male announcer as 'Schooling!' and 'Singapore's new sporting hero, Joseph Schooling,' amidst crowd cheers.",
+          "attribute": "audio-visual"
+        },
+        "Chad Guy Bertrand LE CLOS": {
+          "description": "South African swimmer in a green and yellow tracksuit, holding a silver medal, smiling, and standing next to Schooling on the podium. He is explicitly named by a male announcer as 'Le Clos' from 'South Africa,' noted for having 'three silvers.'",
+          "attribute": "audio-visual"
+        },
+        "Crowd Reaction": {
+          "description": "Spectators in the stands, including fans waving Singaporean flags and recording the race on phones, reacting with excitement and celebration as Joseph Schooling wins, adding to the electric atmosphere. Their audible cheers align with the commentators' excited announcement of a historic win.",
+          "attribute": "audio-visual"
+        },
+        "Laszlo Cseh": {
+          "description": "Hungarian swimmer in a red 'HUNGARY' jacket, holding a silver medal, smiling, and standing on the podium beside Le Clos.",
+          "attribute": "visual"
+        },
+        "Title Card - Men's 4 x 100m Medley Relay": {
+          "description": "White text on a blurred pool background reading '1. Men's 4 x 100m Medley Relay', signaling the next event.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of Anthony Ervin, an American swimmer, in the pool after a race, visibly emotional and celebrating, wearing a black swim cap with 'ERVIN' and an American flag, adjusting his goggles and smiling broadly. A commentator exclaims, \"What a story! Anthony Ervin takes it in a 21.40,\" noting the margin was \"1/100th of a second.\" The camera pulls back to show Ervin in lane 4 with other swimmers, including one in a blue cap with 'USA' and another in a black cap with 'AUS'. The commentator adds that it was \"heartbreaking for Florent Manaudou,\" who \"gets the silver\" and \"missed it by a hundredth of a second,\" having \"wanted the gold.\" The scene transitions to Ervin on the podium, now in a navy USA jacket with red sleeves, waving to the crowd with a joyful expression. He stands alongside the silver medalist, identified as French swimmer Florent Manaudou in a dark blue jacket with 'FRANCE' and Olympic rings, and the bronze medalist, an American swimmer in a similar USA jacket, both holding their medals. The trio smiles and poses for the camera, with Ervin proudly displaying his gold medal. Commentators reflect on Ervin's journey, stating, \"He's been a leader on this US team,\" who \"lost his way for a little bit,\" but \"swimming helped him find himself\" and he \"returned to the US National team.\" Cheers and an emotional orchestral piece swell, transitioning into an upbeat pop/rock song with vocals about dreaming and believing. A text overlay appears on a blue wooden background, stating: 'Anthony Ervin became the oldest swimmer to win gold in an individual event in Olympic history. 16 years after Anthony Ervin won gold in this event in the 2000 Sydney Olympics, he won the Olympic title back.' The video then cuts to a title card reading '2. Men's 100m Butterfly' over a blurred pool background. The final shot shows the starting blocks for the Men's 100m Butterfly event, with swimmers in their lanes, including Michael Phelps in lane 2, A. SADOVNIKOV in lane 1, J. SCHOOLING in lane 4, and C. LE CLOS in lane 5, all poised and ready for the race, with Rio 2016 branding and the Omega timer visible. A commentator briefly mentions, \"South Africa's won a silver,\" as the segment concludes.",
+        "The segment opens with a close-up of Michael Phelps, intensely focused in his black cap and green-tinted goggles, as commentators discuss past medal performances of various nations like Hungary, Singapore, China, and Russia. The scene then widens to the starting blocks of the Rio 2016 Pool for the Men's 100m Butterfly. Swimmers, including A. SADOVNIKOV (lane 1, RUS), J. SCHOOLING (lane 4, JAM), and C. LE CLOS (lane 5, RSA), are poised, bending forward, hands gripping the blocks, while the digital Omega timer counts down from 22:13:03. A whistle sounds, followed by a loud 'BEEP' as the official commands 'Take your mark,' and then a second 'BEEP' signals the start of the race. The swimmers execute a synchronized dive, their powerful underwater glides and butterfly strokes captured from an overhead perspective amidst the sounds of splashing and a murmuring crowd. Commentators immediately highlight J. SCHOOLING's excellent reaction time and strong start in lane four, noting he's 'looking good and right on that world record time,' with C. LE CLOS ('Le Clo') swimming next to him. Michael Phelps is also identified in lane two, though a commentator observes he 'doesn't have the same kind of first 50 speed as Schooling,' but anticipates his 'underwater will be impressive,' questioning the toll of racing on his body. As the swimmers surface and continue with strong, rhythmic strokes, creating splashes and ripples, the Omega timer displays split times. At the 50m mark, on-screen graphics show A. SADOVNIKOV in 1st place, a Chinese swimmer (LIZ) in 3rd, and J. SCHOOLING in 4th, with split times and margins. The intense focus and speed of the swimmers persist into the final stretch, amplified by the visibly engaged crowd, contributing to the electric Olympic atmosphere.",
+        "The minute opens with the intense final stretch of the Men's 100m Butterfly at the Rio 2016 Olympics, as commentators highlight Joseph Schooling's commanding lead, noting he's '10 years younger' than a competitor and has maintained his exceptional form from heats to the final, now 'a body length clear.' Swimmers execute powerful butterfly strokes in the Olympic-sized pool, marked by colorful lane dividers, with the Omega timer approaching 50 seconds. As they near the finish, on-screen graphics display 'WR 49.82' and 'OR 50.58'. The commentators erupt with excitement, declaring, 'History because Singapore has won an Olympic gold medal and an Olympic record time!' The race concludes with Joseph Schooling setting a new Olympic Record of 50.39, which the commentator calls 'simply sensational.' He is shown in a close-up celebrating in the water, removing his goggles and smiling triumphantly, while the crowd erupts in audible cheers, with fans waving Singaporean flags. The video then transitions to the podium ceremony, where the commentators confirm a unique 'triple way second' finish. Joseph Schooling, described as a '21-year-old Singaporean... what a superstar!' who trains at the University of Texas in Austin, stands in the center wearing a green and yellow Singaporean tracksuit with his gold medal. He is flanked by silver medalists Chad Guy Bertrand LE CLOS of South Africa and Michael Phelps of the USA, both named by the commentator, along with Lazlo Cseh, who also received a silver. Phelps is in a navy USA jacket with red sleeves, and Le Clos in a green and yellow tracksuit. The trio raises their hands in unison under the bright stadium lighting and Rio 2016 branding, celebrating this grand Olympic moment.",
+        "The video opens with a vibrant celebratory scene from the Rio 2016 Olympics, as fans in the stands wave American and Hungarian flags and cheer loudly. A male announcer's voice is heard, first highlighting \"South Africa, Le Clos with three silvers,\" then mentioning \"the US\" moving up. The focus then shifts to the podium ceremony for the Men's 100m Butterfly, where four swimmers stand. Joseph Schooling, in a red and white tracksuit, proudly displays Singapore's first Olympic gold medal. Michael Phelps, in a navy and red USA jacket, Chad Guy Bertrand Le Clos, in a green and yellow tracksuit, and Laszlo Cseh, in a red 'HUNGARY' jacket, stand beside him, all holding their silver medals from a historic three-way tie. The crowd's cheers intensify as the announcer exclaims, \"Schooling! Singapore!\" and later refers to him as \"their new sporting hero, Joseph Schooling.\" The athletes smile, interact, and pose for cameras, with Schooling raising his arms in triumph. On-screen graphics confirm the 'Men's 100m Butterfly Victory Ceremony' and list the medalists. A female voice then offers commentary about inspiring people, specifically \"Singaporeans too,\" through swimming and other sports. The segment concludes with a text overlay on a blue wooden background detailing Schooling's record-breaking gold and the unprecedented silver tie, before transitioning to a title card for the 'Men's 4 x 100m Medley Relay' over an upbeat pop/electronic music track with male vocals."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 28,
+      "end_minute": 29,
+      "summary": "The Men's 200m Breaststroke final at the Rio 2016 Olympics commenced with swimmers, including C. MILLER for USA in lane 5, executing powerful dives into the Rio 2016 Pool, accompanied by significant splashes and the audible 'BEEP' and 'BUZZ' of the start sequence. The Omega Timer tracked split times as commentators discussed race dynamics, noting Ryan Murphy's 'fantastic start' and 'big responsibility' to build a lead for C. MILLER, while also mentioning Walker Hebborn of Great Britain in lane 4. Underwater and overhead camera views revealed the pack, with Murphy and China in lane 2 leading at the 50m mark, Murphy ahead by 0.40 seconds, and Brazil in lane 1 in third. The narrative then shifted to the breaststroke race, with C. MILLER leading at the 150m mark (1:19.69), ahead of GBR and JPN, while commentators excitedly confirmed Ryan Murphy had broken the world record in the 100m backstroke. As the breaststroke race continued, with C. MILLER, K. CORDES, and C. VAN DER BURGH executing powerful strokes, Adam Peaty of Great Britain, the 'world record holder,' began 'making ground' and 'closing' on the leaders, despite Great Britain potentially being fourth at the turn. The intense atmosphere was amplified by a growing crowd roar and the visual of vividly lit blue water and colorful lane dividers, culminating in a close finish as swimmers pushed toward the wall.",
+      "involved_entities": {
+        "Underwater Camera View": {
+          "description": "Brief underwater shot capturing swimmers' streamlined forms and powerful kicks, showing bubbles and water dynamics as they execute breaststroke with precision and speed.",
+          "attribute": "visual"
+        },
+        "Omega Timer": {
+          "description": "On-screen digital timer displaying split times during the race, culminating in '1:37.0' at the end of the segment, visible in the bottom right corner throughout the race.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 5 (Men's 100m Butterfly)": {
+          "description": "Swimmer in lane 5, wearing a black cap with 'USA' and a blue swimsuit, identified by commentators as 'Ryan Murphy', the 'backstroke champion' and 'lead-out swimmer for the USA', who had a 'fantastic start', shown leading at the 50m mark with a split of 25.13, ahead of China by 0.40 seconds, swimming with strong form.",
+          "attribute": "audio-visual"
+        },
+        "Swimmer in lane 2 (Men's 100m Butterfly)": {
+          "description": "Swimmer in lane 2, wearing a black cap with 'CHN' and a blue swimsuit, identified by commentators as 'China in lane number two', shown in 2nd place at the 50m mark, trailing the USA swimmer by 0.40 seconds, swimming with consistent butterfly technique.",
+          "attribute": "audio-visual"
+        },
+        "Rio 2016 Pool": {
+          "description": "Olympic-sized swimming pool with blue water, colorful lane dividers (red, yellow, blue, green), and Rio 2016 branding on the walls and starting blocks, visible throughout the race.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 8 (Men's 100m Butterfly)": {
+          "description": "Swimmer in lane 8, wearing a black 'arena' cap and goggles, shown from a first-person perspective on the starting block, arms extended forward, then diving into the pool and swimming with powerful butterfly strokes.",
+          "attribute": "audio-visual"
+        },
+        "C. MILLER": {
+          "description": "American swimmer in lane 5, wearing a black cap with 'USA' and a dark swimsuit, visually leading at the 150m mark with a split of 1:19.69. Commentators refer to him by name, 'Cody Miller,' discussing the strategy of giving him 'as big a lead as possible' and noting him touching the wall for the first half of his discipline.",
+          "attribute": "audio-visual"
+        },
+        "K. CORDES": {
+          "description": "American swimmer in lane 2, wearing a black cap with 'USA' and a dark swimsuit, trailing behind C. MILLER by +0.78 seconds at the 50m mark, swimming with consistent form but finishing behind the leaders.",
+          "attribute": "visual"
+        },
+        "C. VAN DER BURGH": {
+          "description": "South African swimmer in lane 3, wearing a red cap with 'RSA' and a dark swimsuit, shown swimming in the pack, maintaining a steady pace, and later seen on the podium with a silver medal.",
+          "attribute": "visual"
+        },
+        "Crowd Reaction": {
+          "description": "Spectators in the stands, including fans waving Chinese and Brazilian flags, reacting with excitement and recording the race on phones, adding to the electric atmosphere.",
+          "attribute": "visual"
+        },
+        "Title Card - Men's 200m Breaststroke": {
+          "description": "White text on a blurred pool background reading '7. Men's 100m Breaststroke', signaling the event being shown, visible at the start of the segment.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a wide-angle view of the Rio 2016 Olympic swimming pool, set for the Men's 100m Butterfly, with lanes clearly marked by country flags and names. Over an initial upbeat, slightly distorted pop/rock music track, which quickly fades, male commentators discuss team dynamics. A distinct 'BEEP' then signals the start sequence, followed by an authoritative voice commanding, 'Take your mark,' and a loud 'BUZZ' for the race start. Swimmers, including a first-person perspective from the lane 8 swimmer in a black 'arena' cap, execute powerful dives, captured from an underwater angle showing streamlined bodies cutting through the water. As the Omega timer tracks split times, commentators identify the USA swimmer in lane 5 as Ryan Murphy, a backstroke champion and the lead-out swimmer, noting his 'fantastic start.' They also mention Walker Hebborn of Great Britain in lane 4. The camera alternates between overhead and underwater views, showing the pack spread out, with Murphy (USA) and China in lane 2 leading at the 50m mark, Murphy ahead by 0.40 seconds. Commentators confirm China in lane 2 is 0.4 seconds behind, and Brazil in lane 1 is in third, 0.58 seconds behind the leader, as a growing crowd roar builds, reflecting the intense atmosphere of the vividly lit pool with its blue water and colorful lane dividers.",
+        "The segment opens with a 'Men's 100m Breaststroke' title card, though the visual immediately transitions to the high-intensity Men's 200m Breaststroke final at the Rio 2016 Olympics. We see an overhead view of swimmers, including C. MILLER in lane 5 for USA, diving into the Rio 2016 Pool, creating significant splashes. Throughout the race, the Omega Timer in the bottom right corner tracks splits, showing times like 43.6, 50.8, and later 1:37.0. Commentators discuss the race dynamics, noting a swimmer (Ryan Murphy) 'losing no ground' and having 'such a big responsibility' to give 'Cody Miller' (C. MILLER) 'as big a lead as possible.' The camera alternates between wide-angle shots of the entire pool, side views capturing powerful breaststroke technique, and underwater perspectives highlighting streamlined forms and kicking mechanics amidst churning water. On-screen graphics display lane positions and national flags for USA, RUS, AUS, GBR, and JPN. C. MILLER is shown leading at the 150m mark with a split of 1:19.69, ahead of GBR and JPN. The commentators continue to discuss strategy, mentioning Great Britain handing over to 'Adam Peaty' and speculating that Great Britain might have been fourth at the turn, setting up a 'long catch up for Peaty.' They also excitedly confirm that Ryan Murphy 'broke the world record in the 100m backstroke,' while visually, the breaststroke race continues. The crowd in the stands, including fans waving Chinese and Brazilian flags, generates an electric atmosphere, with their cheers audible. As the swimmers, including C. MILLER, K. CORDES, and C. VAN DER BURGH, execute synchronized arm pulls and powerful kicks, the commentators highlight 'Cody Miller' touching the wall for the first half of his discipline, and 'Peaty' (Adam Peaty) in the red cap for Great Britain, the 'world record holder,' 'making ground' and 'closing' in on the leaders. The race culminates in a close finish, with the swimmers pushing toward the wall, their determination evident."
+      ]
+    },
+    {
+      "event_id": 11,
+      "start_minute": 30,
+      "end_minute": 30,
+      "summary": "The Men's 200m Breaststroke final at the Rio 2016 Olympics, held in the Rio 2016 Pool, is characterized by the crowd's intense cheering and ambient noise. Swimmers propel themselves through the water with powerful breaststroke cycles, generating significant splashes and bubbles, while the Omega Timer displays split times such as 1:38.9, 1:48.9, and 1:50.27, ultimately reaching 2:39.0. Commentators praise A. PEATY's performance, stating he has taken the lead for Great Britain after a \"superb swim.\" On-screen graphics show Great Britain (GBR) in 4th, USA in 5th, and China (CHN) in 2nd. The female commentator highlights A. PEATY's \"incredible\" 100m breaststroke split of \"56.59,\" noting it was the \"fastest\" by a full second. The race is described as \"exhausting,\" with C. MILLER also mentioned. The commentary shifts to focus on MICHAEL PHELPS of the USA competing against JAMES GUY, with GUY racing against the \"greatest swimmer of all time.\" PHELPS is seen taking \"a big look underwater\" at GUY, despite a \"not great touch on the wall.\" Swimmers in all lanes are competing fiercely, executing turns at various marks as the race remains closely contested.",
+      "involved_entities": {
+        "Omega Timer": {
+          "description": "On-screen digital timer displaying split times during the race, culminating in '2:39.0' at the end of the segment, visible in the bottom right corner throughout the race. The commentators specifically mention '56.59 for the 100 meters breaststroke split.'",
+          "attribute": "audio-visual"
+        },
+        "Underwater Camera View": {
+          "description": "Brief underwater shot capturing swimmers' streamlined forms and powerful kicks, showing bubbles and water dynamics as they execute breaststroke with precision and speed.",
+          "attribute": "visual"
+        },
+        "C. MILLER": {
+          "description": "American swimmer in lane 5, wearing a black cap with 'USA' and a dark swimsuit, leading at the 150m mark with a split of 1:19.69, shown swimming with strong, consistent form and maintaining a narrow lead over competitors. Commentator mentions 'Cody Miller' in the context of an 'exhausting race.'",
+          "attribute": "audio-visual"
+        },
+        "C. VAN DER BURGH": {
+          "description": "South African swimmer in lane 3, wearing a red cap with 'RSA' and a dark swimsuit, shown swimming with consistent form, maintaining a steady pace, and later seen on the podium with a silver medal.",
+          "attribute": "visual"
+        },
+        "K. CORDES": {
+          "description": "American swimmer in lane 2, wearing a black cap with 'USA' and a dark swimsuit, trailing behind C. MILLER by +0.78 seconds at the 50m mark, swimming with consistent form but finishing behind the leaders.",
+          "attribute": "visual"
+        },
+        "Crowd Reaction": {
+          "description": "Spectators in the stands, including fans waving Chinese and Brazilian flags, reacting with excitement and recording the race on phones, adding to the electric atmosphere, with audible cheering and general crowd noise throughout the segment.",
+          "attribute": "audio-visual"
+        },
+        "Rio 2016 Pool": {
+          "description": "Olympic-sized swimming pool with blue water, colorful lane dividers (red, yellow, blue, green), and Rio 2016 branding on the walls and starting blocks, visible throughout the race.",
+          "attribute": "visual"
+        },
+        "A. PEATY": {
+          "description": "British swimmer in lane 4, wearing a blue cap with 'GBR' and a dark swimsuit, shown swimming with powerful breaststroke technique, maintaining a strong position in the race. Commentators describe his 'superb swim,' noting he's 'come up, gone alongside, now gone past,' and that 'Great Britain have the lead now through Peaty.' He achieved an 'incredible' '56.59 for the 100 meters breaststroke split,' which was the 'fastest 100 breaststroke split' by 'a second.'",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The high-intensity Men's 200m Breaststroke final at the Rio 2016 Olympics unfolds in the vibrant blue Rio 2016 Pool, filled with the palpable energy of the crowd, whose constant cheering and general noise underscore the competition. Swimmers execute powerful breaststroke cycles, creating dynamic splashes and bubbles, as the Omega Timer in the bottom right tracks progress with split times like 1:38.9, 1:48.9, 1:50.27, and culminating at 2:39.0. Commentators highlight the \"superb swim from Peaty,\" noting he's \"come up, gone alongside, now gone past,\" giving \"Great Britain the lead.\" The camera alternates between wide overhead, side-angle tracking, and underwater views, emphasizing streamlined forms and synchronized kicks. On-screen graphics display real-time rankings, with Great Britain (GBR) in 4th, USA in 5th, and China (CHN) in 2nd. The female commentator details A. Peaty's \"incredible\" 100m breaststroke split of \"56.59,\" which was the \"fastest\" by \"a second.\" The race is described as an \"exhausting\" one, with \"Cody Miller\" also mentioned. The commentators then shift focus to \"Phelps in the water for the USA against James Guy,\" noting Guy, usually a freestyler, is now racing \"the greatest swimmer of all time, Michael Phelps.\" Phelps is observed taking \"a big look underwater\" at Guy, though he \"didn't have a great touch on the wall.\" Swimmers in lanes 1 through 8 compete fiercely, with some executing turns at the 200m and 300m marks, as the segment culminates with the timer at 2:39.0, the race remaining tightly contested."
+      ]
+    },
+    {
+      "event_id": 12,
+      "start_minute": 31,
+      "end_minute": 32,
+      "summary": "The Men's 4 x 100m Medley Relay at the Rio 2016 Olympics culminated in a dramatic finish as the USA team, anchored by Nathan Adrian, secured a new Olympic Record with a time of 3:27.95. Adrian's strong anchor leg, following a dive that gave him a lead, propelled the USA past Great Britain's Duncan Scott, who took silver, and Australia's Kyle Chalmers, who earned bronze. The crowd's cheers were immense throughout the race, particularly as the USA surged ahead in the final 50 meters. Post-race, Michael Phelps, a key member of the victorious USA team, celebrated with his teammates, including Ryan Murphy, who contributed significantly with a 51.85 split. The team, later seen on the podium receiving gold medals, was hailed by commentators, with Phelps being called \"the greatest Olympian.\" A female voice expressed the significance of being part of the relay team, especially as it might be a final appearance for some. The segment concluded with on-screen graphics detailing \"Crazy splits\" for various swimmers, including Ryan Murphy (51.85 WR), Adam Peaty (56.59), Kyle Chalmers (46.72), and Nathan Adrian (46.74), followed by a celebratory animation and calls to \"THANKS FOR WATCHING\" and \"PLEASE LIKE & SUBSCRIBE.\"",
+      "involved_entities": {
+        "Victory Ceremony Screen": {
+          "description": "On-screen graphic displaying 'Men's 4 x 100m Medley Relay' with 'Winner - United States of America' and 'OR 3:27.95', visible during the podium scene.",
+          "attribute": "visual"
+        },
+        "Kyle Chalmers": {
+          "description": "Australian swimmer, seen celebrating with teammates and later on the podium. A text overlay highlights his '46.72' split.",
+          "attribute": "audio-visual"
+        },
+        "M. Larkin": {
+          "description": "Australian swimmer in lane 3, wearing a blue cap with 'AUS', shown in 3rd place at the 50m split but finishing outside the podium.",
+          "attribute": "visual"
+        },
+        "D. Plummer": {
+          "description": "American swimmer in lane 5, wearing a black cap with 'USA', trailing at the 50m mark but finishing third to win bronze in his first Olympic Games at age 30.",
+          "attribute": "visual"
+        },
+        "Rio 2016 Pool": {
+          "description": "Olympic-sized swimming pool with blue water, colorful lane dividers (red, yellow, blue, green), and Rio 2016 branding on the walls and starting blocks, visible throughout the race, filled with the sounds of cheering crowds.",
+          "attribute": "audio-visual"
+        },
+        "Title Card - Men's 4 x 100m Medley Relay": {
+          "description": "White text on a blurred pool background reading '1. Men's 4 x 100m Medley Relay', signaling the event at the start of the segment.",
+          "attribute": "audio-visual"
+        },
+        "Nathan Adrian": {
+          "description": "American swimmer, seen celebrating with teammates and later on the podium. A text overlay highlights his '46.74' split.",
+          "attribute": "audio-visual"
+        },
+        "Ryan Murphy": {
+          "description": "American swimmer, shirtless and smiling, celebrating with Phelps, later seen on the podium in a navy and red USA jacket holding a gold medal. A text overlay highlights his '51.85 (WR)' split.",
+          "attribute": "audio-visual"
+        },
+        "Omega Timer": {
+          "description": "On-screen digital timer displaying split times during the race, culminating in '3:27.95' at the end of the segment, visible in the bottom right corner throughout the race, confirming the Olympic Record.",
+          "attribute": "audio-visual"
+        },
+        "Xu J.": {
+          "description": "Chinese swimmer in lane 2, wearing a blue cap with 'CHN', leading at the 50m mark and finishing second with a silver medal.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 5 (Men's 100m Butterfly)": {
+          "description": "Swimmer in lane 5, wearing a black cap with 'USA' and a blue swimsuit, shown leading at the 50m mark with a split of 25.13, ahead of China by 0.40 seconds, swimming with strong form.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 2 (Men's 100m Butterfly)": {
+          "description": "Swimmer in lane 2, wearing a black cap with 'CHN' and a blue swimsuit, shown in 2nd place at the 50m mark, trailing the USA swimmer by 0.40 seconds, swimming with consistent butterfly technique.",
+          "attribute": "visual"
+        },
+        "Swimmer in lane 3 (Men's 100m Butterfly)": {
+          "description": "Swimmer in lane 3, wearing a black cap with 'CHN' and a blue swimsuit, shown on the starting block, bending forward and preparing for the race, later shown in 3rd place at the 50m mark.",
+          "attribute": "visual"
+        },
+        "Michael Phelps": {
+          "description": "American swimmer, shirtless and smiling, celebrating with teammates, later seen on the podium in a navy and red USA jacket holding a gold medal, waving to the crowd. An excited announcer refers to him and his team's 'extraordinary record of never having lost the medley' and hails him as 'the greatest Olympian.' A text overlay notes his career ended with an Olympic record.",
+          "attribute": "audio-visual"
+        },
+        "PLEASE LIKE & SUBSCRIBE": {
+          "description": "Bold text in black and red on a white background with falling snowflakes, serving as a call-to-action.",
+          "attribute": "visual"
+        },
+        "CONGRATS TO THE SWIMMERS!!": {
+          "description": "White text overlaid on an animated scene of a swimmer emerging from water with colorful confetti and streamers.",
+          "attribute": "visual"
+        },
+        "Text Overlay": {
+          "description": "White text on a blue wooden background stating: 'Phelps' career ended with an Olympic record (If he doesn't come back). Crazy splits: 1. Ryan Murphy's 51.85 (WR) 2. Adam Peaty's 56.59 3. Kyle Chalmers' 46.72 4. Nathan Adrian's 46.74'. This text is visually presented while an upbeat pop song plays.",
+          "attribute": "audio-visual"
+        },
+        "THANKS FOR WATCHING": {
+          "description": "Hand-drawn text on lined paper background with doodles of beach chairs, a beach ball, and a sandcastle.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a title card for the 'Men's 4 x 100m Medley Relay' at the Rio 2016 Olympics, quickly transitioning to the intense final stretch of the race. Commentators excitedly describe the action, noting the USA team, with Nathan Adrian as the anchor, slightly in front after his dive, as he \"hits the water\" and \"gets a lead\" over Great Britain's Duncan Scott. The palpable excitement of the crowd is heard through cheers and roars, echoing around the vibrant Rio 2016 pool. Great Britain is in second place, while China is initially in third in lane 2. Australia's Kyle Chalmers, an Olympic champion for the 100 freestyle, is making a strong push in lane 3, with his \"second 50 fantastic,\" aiming to take ground off Great Britain. The Omega timer tracks the splits as the USA, visually seen making a dramatic comeback, surges ahead in the final 50 meters. The commentators confirm, \"The USA have got it! Nathan Adrian will bring them home!\" As the USA team crosses the 400m finish line first, the Omega timer displays their winning time of 3:27.95, confirming a new Olympic Record, which the commentators loudly proclaim. Great Britain's Duncan Scott secures the silver, and Australia's Kyle Chalmers takes the bronze. The on-screen graphics confirm the USA's victory, and the team celebrates in the pool, with Ryan Murphy, who contributed to the team's lead, raising his arms in triumph, visibly elated amidst the continuing cheers. The segment concludes with the 'Winner - United States of America' graphic, prominently displaying their Olympic Record.",
+        "The minute opens with an excited announcer describing Michael Phelps and his team's \"extraordinary record of never having lost the medley\" as Phelps, shirtless and beaming, celebrates their Rio 2016 Men's 4 x 100m Medley Relay victory with teammates like Ryan Murphy, all in USA swimwear, laughing, embracing, and waving to the cheering crowd. The scene transitions to the U.S. team, now in matching navy and red USA jackets, proudly holding their gold medals on the podium, flanked by silver medalists from Great Britain and bronze from Australia, with an on-screen graphic confirming the results. The announcer hails Phelps as \"the greatest Olympian.\" A female voice, possibly a team member, then states, \"It means a lot being part of this relay team as the last time it happens,\" before the announcer adds, \"Well, we're not sure what might happen here.\" The video then cuts to a blue wooden-textured screen, accompanied by an upbeat pop song with male vocals singing \"You're a superhero.\" White text on screen details 'Phelps' career ended with an Olympic record (If he doesn't come back)' and lists 'Crazy splits' for Ryan Murphy (51.85 WR), Adam Peaty (56.59), Kyle Chalmers (46.72), and Nathan Adrian (46.74). The segment concludes with a celebratory animation of a swimmer emerging from water amidst confetti, followed by hand-drawn 'THANKS FOR WATCHING' and a 'PLEASE LIKE & SUBSCRIBE' call-to-action against a snowy backdrop, all set to the energetic pop music."
+      ]
+    },
+    {
+      "event_id": 13,
+      "start_minute": 33,
+      "end_minute": 33,
+      "summary": "The scene opens with a 'PLEASE LIKE & SUBSCRIBE' call-to-action screen, complete with falling snowflakes, before transitioning to a brightly lit Olympic-sized pool. Two swimmers, identified as Swimmer in white cap (foreground) and Swimmer in white cap (background), are captured mid-butterfly stroke, their powerful movements creating substantial splashes. A 'Subscribe' button graphic is overlaid on the action. A pop/electronic music track with a male vocalist singing 'Superhero, can I be your superhero?' accompanies the visuals.",
+      "involved_entities": {
+        "Swimmer in white cap (background)": {
+          "description": "Swimmer in a white cap and goggles, slightly behind the foreground swimmer, also performing a butterfly stroke with visible arm and leg movements.",
+          "attribute": "visual"
+        },
+        "Subscribe Button Graphic": {
+          "description": "Large, colorful 'Subscribe' button with a red-to-blue gradient arrow pointing left, overlaid on the swimming footage to encourage viewer engagement.",
+          "attribute": "visual"
+        },
+        "PLEASE LIKE & SUBSCRIBE": {
+          "description": "Bold text in black and red on a white background with falling snowflakes, serving as a call-to-action.",
+          "attribute": "visual"
+        },
+        "Swimmer in white cap (foreground)": {
+          "description": "Swimmer in a white cap and goggles, executing a butterfly stroke in the foreground, creating significant splashes in the pool.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a festive call-to-action screen displaying 'PLEASE LIKE & SUBSCRIBE' in bold black and red letters against a white background adorned with falling snowflakes. This transitions to a dynamic swimming scene featuring two swimmers in white caps and goggles executing powerful butterfly strokes in a brightly lit Olympic-sized pool, marked with yellow and purple lane dividers. One swimmer is prominent in the foreground, with another slightly behind, both creating significant splashes as they move through the water. Overlaid on this athletic action is a large, colorful 'Subscribe' button graphic with a red-to-blue gradient arrow pointing left, reinforcing viewer engagement. Throughout this visual sequence, a pop/electronic music track plays, featuring a male vocalist repeatedly singing the lyrics 'Superhero, can I be your superhero?'"
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Omega Timer": "On-screen digital timer displaying split times during the race, culminating in '3:27.95' at the end of the segment, visible in the bottom right corner throughout the race, confirming the Olympic Record.",
+    "Xu J.": "Chinese swimmer in lane 2, wearing a blue cap with 'CHN', leading at the 50m mark and finishing second with a silver medal.",
+    "Swimmer in ROU cap": "Romanian swimmer wearing a white cap with 'ROU' and a blue swimsuit, seen in the pool near Ervin, adjusting goggles and diving into the pool at the start of the race.",
+    "M. Larkin": "Australian swimmer in lane 3, wearing a blue cap with 'AUS', shown in 3rd place at the 50m split but finishing outside the podium.",
+    "D. Plummer": "American swimmer in lane 5, wearing a black cap with 'USA', trailing at the 50m mark but finishing third to win bronze in his first Olympic Games at age 30.",
+    "OhSean Swims": "YouTube channel name displayed on a call-to-action screen with a red 'Subscribed' button and 284 subscribers, promoting viewer engagement, presented over upbeat pop music.",
+    "Rio 2016 Pool": "Olympic-sized swimming pool with blue water, colorful lane dividers (red, yellow, blue, green), and Rio 2016 branding on the walls and starting blocks, visible throughout the race, filled with the sounds of cheering crowds.",
+    "Victory Ceremony Screen": "On-screen graphic displaying 'Men's 4 x 100m Medley Relay' with 'Winner - United States of America' and 'OR 3:27.95', visible during the podium scene.",
+    "Text Overlay": "White text on a blue wooden background stating: 'Phelps' career ended with an Olympic record (If he doesn't come back). Crazy splits: 1. Ryan Murphy's 51.85 (WR) 2. Adam Peaty's 56.59 3. Kyle Chalmers' 46.72 4. Nathan Adrian's 46.74'. This text is visually presented while an upbeat pop song plays.",
+    "Katinka Hosszú": "Hungarian swimmer in lane 4, wearing a white cap with 'HUN' and a red jacket, later seen in a black 'arena' swimsuit during the race, and then in a red 'HUNGARY' jacket during the victory ceremony, holding a gold medal. The commentator identifies her as 'the favorite' and notes she was competing in her 'fourth Olympic Games' having 'never won a medal' before, and that her world record time of '4 minutes 26.36 seconds was more than two seconds faster than the previous world record.'",
+    "Women’s 800m Freestyle Title Card": "White text on a blurred pool background reading '8. Women's 800m Freestyle', signaling the event being shown, visible at the start of the segment.",
+    "Maya Dirado": "American swimmer in lane 3, wearing a white cap with 'USA', shown trailing behind Hosszú during the race and later on the podium with a silver medal. The commentator identifies her by name as 'Maya Dirado of the United States' who won the 'silver medal.'",
+    "Mireia Belmonte García": "Spanish swimmer in lane 8, wearing a white cap with 'ESP', shown trailing during the race and later on the podium with a bronze medal. The commentator identifies her by name as 'Mireia Belmonte Garcia of Spain' who won the 'bronze.'",
+    "M. Belmonte García": "Spanish swimmer in lane 8, wearing a black cap with 'ESP', trailing behind the leaders, and explicitly mentioned by commentators as having 'dropped away' from the leading two (Kapas and Carlin).",
+    "S. Kohler": "German swimmer in lane 1, wearing a black cap with 'GER', visible in the pack during the early stages, swimming steadily but not challenging for the lead.",
+    "J. Carlin": "British swimmer in lane 3, wearing a black cap with 'GBR', swimming in second place, trailing behind Ledecky, and confirmed by commentators to have won the silver medal for Great Britain.",
+    "J. Ashwood": "Australian swimmer in lane 7, wearing a black cap with 'AUS', shown swimming behind the leaders, visible in the pack during the early stages.",
+    "B. Kapas": "Hungarian swimmer in lane 5, wearing a black cap with 'HUN', swimming in the pack behind Ledecky, and confirmed by commentators to have won the bronze medal for Hungary.",
+    "K. Ledecky": "American swimmer in a black Speedo cap with 'LEDECKY' and USA-branded swimsuit, shown post-race in the Rio 2016 Pool, smiling, holding her gold medal, and standing on the top podium step during the Victory Ceremony. Commentators describe her as 'in a class of her own,' 'against the clock,' making history with wins in the 200m, 400m, and 800m, and note 'tears flowing' as she reacts emotionally to her victory.",
+    "L. Friis": "Danish swimmer in lane 2, wearing a black cap with 'DEN', visible in the middle of the pack during the early stages, swimming steadily but not challenging for the lead.",
+    "L. Smith": "American swimmer in lane 6, wearing a black cap with 'USA', shown swimming in the middle of the pack, maintaining a consistent pace.",
+    "Underwater Camera View": "Brief underwater shot capturing swimmers' streamlined forms and powerful kicks, showing bubbles and water dynamics as they execute breaststroke with precision and speed.",
+    "Crowd Reaction": "Spectators in the stands, including fans waving Chinese and Brazilian flags, reacting with excitement and recording the race on phones, adding to the electric atmosphere, with audible cheering and general crowd noise throughout the segment.",
+    "Boglarka Kapas": "Hungarian swimmer in a red cap with 'HUN', shown on the podium with a bronze medal, standing to the right of Ledecky during the Victory Ceremony.",
+    "Swimmer in AUS cap": "Australian swimmer in a blue cap with 'AUS', visible in the pool near Ervin, wearing a blue swimsuit, and later not seen in the podium scene.",
+    "Swimmer in USA cap (Men's event)": "American swimmer in a black cap with 'USA', shown on the starting block for the Men’s 100m Breaststroke, positioned next to the swimmer in the AUS cap.",
+    "Jazz Carlin": "British swimmer in a white cap with 'GBR', shown on the podium with a silver medal, standing to the left of Ledecky during the Victory Ceremony.",
+    "7. Men's 100m Breaststroke": "Title card displayed over the pool, indicating the next event, with swimmers on starting blocks visible below, including one in a blue cap with 'AUS' and another in a black cap with 'USA'.",
+    "C. MILLER": "American swimmer in lane 5, wearing a black cap with 'USA' and a dark swimsuit, leading at the 150m mark with a split of 1:19.69, shown swimming with strong, consistent form and maintaining a narrow lead over competitors. Commentator mentions 'Cody Miller' in the context of an 'exhausting race.'",
+    "C. VAN DER BURGH": "South African swimmer in lane 3, wearing a red cap with 'RSA' and a dark swimsuit, shown swimming with consistent form, maintaining a steady pace, and later seen on the podium with a silver medal.",
+    "K. CORDES": "American swimmer in lane 2, wearing a black cap with 'USA' and a dark swimsuit, trailing behind C. MILLER by +0.78 seconds at the 50m mark, swimming with consistent form but finishing behind the leaders.",
+    "A. PEATY": "British swimmer in lane 4, wearing a blue cap with 'GBR' and a dark swimsuit, shown swimming with powerful breaststroke technique, maintaining a strong position in the race. Commentators describe his 'superb swim,' noting he's 'come up, gone alongside, now gone past,' and that 'Great Britain have the lead now through Peaty.' He achieved an 'incredible' '56.59 for the 100 meters breaststroke split,' which was the 'fastest 100 breaststroke split' by 'a second.'",
+    "C. CAMPBELL": "Australian swimmer Kate Campbell, wearing a white cap with 'AUS', confirmed by the commentator to be in lane 4, shown adjusting goggles on the starting block, noted by the commentator for a slightly slower start but a strong first 50, leading the race at the 50m mark with a split of 24.77, identified as one of 'the sisters' competing.",
+    "P. OLEKSIK": "Canadian swimmer in lane 5, wearing a white cap with 'OLEKSIK' and a Canadian maple leaf, initially shown winning with a time of 52.70 and setting a new OR on the scoreboard, but then described by commentators as part of a 'dead heat', shown looking exhausted but triumphant, then on the podium holding a silver medal, and highlighted by text as the most successful Canadian athlete in a single summer Olympics by winning her fourth medal.",
+    "A. WEITZEIL": "American swimmer A. Weitzeil of the USA, wearing a black cap with 'USA', confirmed by the commentator to be in lane 8, shown on the starting block, adjusting her goggles and cap, swimming in the pack during the race.",
+    "J. OTTESEN": "Danish swimmer in lane 7, wearing a black cap with 'DEN', shown on the starting block, focused and ready.",
+    "B. CAMPBELL": "Australian swimmer Bronte Campbell, wearing a white cap with 'AUS', confirmed by the commentator to be in lane 2, shown adjusting goggles on the starting block and leading at the 50m mark with a split of 24.77, identified as one of 'the sisters' competing.",
+    "R. KROMOWIDJOJO": "Dutch swimmer in lane 1, wearing a black cap with 'NED', shown on the starting block for the Women’s 100m Freestyle, preparing for the race.",
+    "S. SJOSTROM": "Swedish swimmer in lane 6, wearing a yellow cap with 'SWE', confirmed by a commentator to have gotten into 'third place', then on the podium holding a bronze medal.",
+    "6. Women's 100m Freestyle": "Title card displayed over the pool, indicating the next event, with swimmers on starting blocks visible below, including one in a yellow cap with 'SWE' and another in a black cap with 'USA'.",
+    "S. MANUEL": "American swimmer in lane 3, wearing a black cap with 'MANUEL' and an American flag, whose name is called out by commentators during the race, shown celebrating with an arm raised after finishing second (though audio suggests a dead heat), then on the podium holding a gold medal, and highlighted by text as the first African American to win an individual Olympic gold in swimming.",
+    "Title Card - Men's 200m Butterfly": "White text on a blurred pool background reading '5. Men's 200m Butterfly', signaling the event being shown, visible at the start of the segment.",
+    "Chad Guy Bertrand LE CLOS": "South African swimmer in a green and yellow tracksuit, holding a silver medal, smiling, and standing next to Schooling on the podium. He is explicitly named by a male announcer as 'Le Clos' from 'South Africa,' noted for having 'three silvers.'",
+    "D. SETO": "Japanese swimmer in lane 2, wearing a white cap with 'JPN', shown swimming in the race, trailing behind Phelps at 50m with a +0.29 second deficit, and finishing in 3rd place.",
+    "L. CSEH": "Hungarian swimmer in lane 3, wearing a white cap with 'HUN', shown swimming in the race, initially in 3rd place at 50m. The commentator refers to him as 'Lazlo Che', mentioning Phelps was just behind him at the initial touch.",
+    "Swimmer in USA jacket (Men's 200m IM)": "American swimmer wearing a navy USA jacket with 'USA' on the back, walking toward the pool before the Men's 200m IM race, not previously identified in the context.",
+    "Title Card - Men's 200m IM": "White text on a blurred pool background reading '4. Men's 200m IM', signaling the next event, visible at the start of the segment.",
+    "Tamas Kenderesi": "Hungarian swimmer, visually seen receiving his bronze medal on the podium, and explicitly stated by a commentator to have won the 'bronze.'",
+    "Masato Sakai": "Japanese swimmer, visually seen receiving his silver medal on the podium, and explicitly stated by a commentator to have won the 'silver medal.'",
+    "Ryan Lochte": "American swimmer in lane 5, wearing a black cap with 'LOCHTE', shown adjusting goggles and preparing for the Men's 200m IM race.",
+    "T. Pereira": "Brazilian swimmer in lane 3, wearing a green cap with 'BRA', swimming with strong butterfly technique. Commentators identify him as a key competitor, noting he is 'throwing everything at' Phelps, and that 'Brazil [is] looking for a medal.'",
+    "R. Lochte": "American swimmer in lane 5, wearing a black cap with 'LOCHTE', shown adjusting goggles at the start, then swimming with consistent power. Commentators identify him as one of the top contenders alongside Phelps and Pereira.",
+    "Swimmer in lane 1 (Men's 50m Freestyle)": "Swimmer in lane 1, wearing a black cap with 'S. BILIS' and a yellow swimsuit, shown on the starting block, diving into the pool, and swimming in the race.",
+    "Swimmer in lane 3 (Men's 50m Freestyle)": "Swimmer in lane 3, wearing a black cap with 'A. ERVIN' and a white swimsuit, shown on the starting block, diving into the pool, and leading the race before finishing second.",
+    "Swimmer in lane 8 (Men's 50m Freestyle)": "Swimmer in lane 8, wearing a black cap with 'B. TANDY' and a red swimsuit, shown on the starting block, diving into the pool, and swimming in the race.",
+    "Swimmer in lane 5 (Men's 50m Freestyle)": "Swimmer in lane 5, wearing a black cap with 'A. GOVOROV' and a blue swimsuit, shown on the starting block, diving into the pool, and swimming in the race.",
+    "Swimmer in lane 4 (Men's 50m Freestyle)": "Swimmer in lane 4, wearing a black cap with 'F. MANAUDOU' and a blue swimsuit, shown on the starting block, diving into the pool, and swimming in the race, with the commentator calling his name during the race.",
+    "Title Card - Men's 50m Freestyle": "White text on a blurred pool background reading '3. Men's 50m Freestyle', signaling the event being shown, visible at the start of the segment.",
+    "Wang Shun": "Chinese swimmer in a red jacket with yellow trim, standing on the podium with a bronze medal, smiling beside Phelps.",
+    "N. Adrian": "American swimmer in lane 6, wearing a black cap with 'USA' and a black swimsuit, shown on the starting block, diving into the pool, and celebrating victory with arms raised after winning the Men's 50m Freestyle, to the sound of an electric crowd roar and cheers.",
+    "Kosuke Hagino": "Japanese swimmer in a white and red jacket, standing on the podium with a silver medal, smiling beside Phelps.",
+    "Swimmer in lane 2 (Men's 50m Freestyle)": "Swimmer in lane 2, wearing a black cap with 'B. PROUD' and a blue swimsuit, shown on the starting block, diving into the pool, and swimming in the race.",
+    "Swimmer in lane 7 (Men's 50m Freestyle)": "Swimmer in lane 7, wearing a black cap with 'B. FRATUS' and a green swimsuit, shown on the starting block, diving into the pool, and swimming in the race.",
+    "A. SADOVNIKOV": "Russian swimmer in lane 1, wearing a black cap with 'RUS', shown on the starting block, bending forward and preparing for the race, later leading at the 50m mark.",
+    "Title Card - Men's 100m Butterfly": "White text on a blurred pool background reading '2. Men's 100m Butterfly', signaling the event being shown, visible at the start of the segment.",
+    "Anthony Ervin": "American swimmer, visibly emotional and celebrating in the pool after winning gold in 21.40 by 0.01s, wearing a black swim cap with 'ERVIN' and an American flag, adjusting goggles and smiling broadly. Later, on the podium in a navy USA jacket with red sleeves, waving to the crowd with a joyful expression, proudly displaying his gold medal, having been described by commentators as a 'leader on this US team' who 'lost his way' but 'swimming helped him find himself' and he 'returned to the US National team'.",
+    "J. SCHOOLING": "Jamaican swimmer in lane 4, wearing a black cap with 'JAM', shown on the starting block, bending forward and preparing for the race. Commentators highlight his 'best reaction time' in the semifinals, his strong start, and that he is 'looking good and right on that world record time.' He is later shown in 4th place at the 50m mark.",
+    "Swimmer in USA cap (Men's 50m Freestyle)": "American swimmer in lane 4, wearing a black cap with 'USA' and a white swimsuit, seen in the pool after the race, later on the podium in a navy USA jacket with red sleeves, holding a gold medal.",
+    "C. LE CLOS": "South African swimmer in lane 5, wearing a green cap with 'RSA', shown on the starting block, bending forward and preparing for the race. He is referred to as 'Le Clo' by commentators, swimming next to Schooling.",
+    "Swimmer in lane 7 (Men's 100m Butterfly)": "Swimmer in lane 7, wearing a black cap with 'USA' and a blue swimsuit, shown on the starting block, bending forward and preparing for the race, later swimming in the pack.",
+    "Swimmer in lane 6 (Men's 100m Butterfly)": "Swimmer in lane 6, wearing a black cap with 'USA' and a blue swimsuit, shown on the starting block, bending forward and preparing for the race, later swimming in the pack.",
+    "Swimmer in lane 2 (Men's 100m Butterfly)": "Swimmer in lane 2, wearing a black cap with 'CHN' and a blue swimsuit, shown in 2nd place at the 50m mark, trailing the USA swimmer by 0.40 seconds, swimming with consistent butterfly technique.",
+    "Swimmer in lane 3 (Men's 100m Butterfly)": "Swimmer in lane 3, wearing a black cap with 'CHN' and a blue swimsuit, shown on the starting block, bending forward and preparing for the race, later shown in 3rd place at the 50m mark.",
+    "Swimmer in lane 8 (Men's 100m Butterfly)": "Swimmer in lane 8, wearing a black 'arena' cap and goggles, shown from a first-person perspective on the starting block, arms extended forward, then diving into the pool and swimming with powerful butterfly strokes.",
+    "Joseph Schooling": "Singaporean swimmer in a red and white tracksuit, holding a gold medal, smiling broadly, and raising his arms in celebration on the podium. He is identified by a male announcer as 'Schooling!' and 'Singapore's new sporting hero, Joseph Schooling,' amidst crowd cheers.",
+    "Laszlo Cseh": "Hungarian swimmer in a red 'HUNGARY' jacket, holding a silver medal, smiling, and standing on the podium beside Le Clos.",
+    "Title Card - Men's 4 x 100m Medley Relay": "White text on a blurred pool background reading '1. Men's 4 x 100m Medley Relay', signaling the event at the start of the segment.",
+    "Swimmer in lane 5 (Men's 100m Butterfly)": "Swimmer in lane 5, wearing a black cap with 'USA' and a blue swimsuit, shown leading at the 50m mark with a split of 25.13, ahead of China by 0.40 seconds, swimming with strong form.",
+    "Title Card - Men's 200m Breaststroke": "White text on a blurred pool background reading '7. Men's 100m Breaststroke', signaling the event being shown, visible at the start of the segment.",
+    "Kyle Chalmers": "Australian swimmer, seen celebrating with teammates and later on the podium. A text overlay highlights his '46.72' split.",
+    "Nathan Adrian": "American swimmer, seen celebrating with teammates and later on the podium. A text overlay highlights his '46.74' split.",
+    "PLEASE LIKE & SUBSCRIBE": "Bold text in black and red on a white background with falling snowflakes, serving as a call-to-action.",
+    "CONGRATS TO THE SWIMMERS!!": "White text overlaid on an animated scene of a swimmer emerging from water with colorful confetti and streamers.",
+    "THANKS FOR WATCHING": "Hand-drawn text on lined paper background with doodles of beach chairs, a beach ball, and a sandcastle.",
+    "Swimmer in white cap (background)": "Swimmer in a white cap and goggles, slightly behind the foreground swimmer, also performing a butterfly stroke with visible arm and leg movements.",
+    "Subscribe Button Graphic": "Large, colorful 'Subscribe' button with a red-to-blue gradient arrow pointing left, overlaid on the swimming footage to encourage viewer engagement.",
+    "Swimmer in white cap (foreground)": "Swimmer in a white cap and goggles, executing a butterfly stroke in the foreground, creating significant splashes in the pool."
+  }
+}

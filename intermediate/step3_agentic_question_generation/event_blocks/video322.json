@@ -1,0 +1,1145 @@
+{
+  "video_id": "video322",
+  "audio_id": "video322_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 4,
+      "summary": "During the Intel Extreme Masters Chengdu 2024 Group Stage on the Ancient map, G2 Esports and Team Liquid engaged in a high-pressure match. Casters JUSTHARRY and HUGO provided commentary, noting the intense environment. In an early round, G2's Nexa, wielding a P2K, secured the first kill by eliminating Team Liquid's Twistzz, followed by huNter- taking down cadiaN, and m0NESY eliminating Yekindar. HooXi then eliminated NAF, leading to a 1v1 clutch between G2's m0NESY and Team Liquid's Skullz, which m0NESY won. Later, with Team Liquid leading 2-0, a round saw G2's Nexa eliminate Yekindar and Twistzz, while cadiaN planted the bomb. G2's huNter- eliminated cadiaN, and HooXi eliminated NAF, but the bomb exploded before G2 could defuse, awarding the round to Team Liquid. In another round, with TL leading 3-0, G2's HooXi eliminated NAF, and Nexa eliminated Yekindar and Twistzz. huNter- then eliminated cadiaN during a bomb plant, leading to a 1v1 clutch between huNter- and Skullz, which huNter- won with a knife kill, securing the round for G2. The match continued with G2's Niko securing a kill, followed by Skullz responding. Yekindar attempted to gain space, and Nexa was spotted. The round concluded with G2's m0NESY eliminating Skullz in a close-range firefight to win the round for G2. Throughout the gameplay, the HUD displayed player stats and sponsor logos including DHL, Predator, Qiddiya, Monster Energy, Coinbase, Honda, and Logitech, with ESL Pro Tour branding also visible. Observers JAK3YCSGO and JEYRAZZ were noted.",
+      "involved_entities": {
+        "Qiddiya": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, shown in the lower third.",
+          "attribute": "visual"
+        },
+        "Predator": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, displayed in the lower third.",
+          "attribute": "visual"
+        },
+        "ESL Pro Tour": {
+          "description": "Branding visible on the background wall behind the players, with logos for Intel, DHL, Predator, and other sponsors, reinforcing the competitive setting.",
+          "attribute": "visual"
+        },
+        "NAF": {
+          "description": "Team Liquid player, seen in the feed, eliminated by HooXi, wearing a blue and white jersey with a visible tattoo on his arm, reacting to the loss. His name is not explicitly spoken in this segment, but his elimination is part of the visual narrative.",
+          "attribute": "audio-visual"
+        },
+        "Monster Energy": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on G2's jerseys, appearing in the lower third.",
+          "attribute": "visual"
+        },
+        "Twistzz": {
+          "description": "Team Liquid player, eliminated by Nexa, shown in the feed with a calm demeanor, wearing a blue and white jersey. Caster HUGO names him while describing his movement, 'Twistzz turns away.'",
+          "attribute": "audio-visual"
+        },
+        "cadiaN": {
+          "description": "Team Liquid player, eliminated by huNter-, seen in the feed with a focused expression, wearing a blue and white jersey, planting the bomb at B-site.",
+          "attribute": "visual"
+        },
+        "DHL": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on the background wall, appearing in the lower third of the screen.",
+          "attribute": "visual"
+        },
+        "Intel Extreme Masters Chengdu 2024": {
+          "description": "Event branding visible on the initial graphic and throughout the HUD, featuring logos for Intel, ESL, and Pro Tour, with the match context displayed at the top center.",
+          "attribute": "visual"
+        },
+        "JAK3YCSGO": {
+          "description": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+          "attribute": "visual"
+        },
+        "HooXi": {
+          "description": "G2 player, shown in the feed, using dual pistols to eliminate NAF, with a determined look, contributing to the 1v1 situation.",
+          "attribute": "visual"
+        },
+        "Honda": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys, appearing on the sleeves of the blue and white jerseys.",
+          "attribute": "visual"
+        },
+        "HUGO": {
+          "description": "Caster name displayed in the top-right corner, providing initial commentary with a calm but descriptive voice, detailing Nexa's clutch and announcing the score.",
+          "attribute": "audio-visual"
+        },
+        "Yekindar": {
+          "description": "Team Liquid player, eliminated early by Nexa, seen in the feed with a focused expression, wearing a blue and white jersey. Caster JUSTHARRY names him while describing his attempt to take away space.",
+          "attribute": "audio-visual"
+        },
+        "Logitech": {
+          "description": "Sponsor logo visible on G2's jerseys, displayed on the black jerseys of the G2 players.",
+          "attribute": "visual"
+        },
+        "huNter-": {
+          "description": "G2 player, seen in the feed, using a pistol to eliminate cadiaN, with a calm demeanor, then securing the final kill in the 1v1 clutch against Skullz.",
+          "attribute": "visual"
+        },
+        "Nexa": {
+          "description": "G2 player in the bottom-left feed, initially holding a pistol, then switching to a dual-wielded weapon, actively engaging enemies and eliminating Yekindar and Twistzz. Casters HUGO and JUSTHARRY repeatedly name him, describing his clutch play and later being spotted on the cross back.",
+          "attribute": "audio-visual"
+        },
+        "Skullz": {
+          "description": "Team Liquid player, last remaining, shown in the feed during the 1v1 clutch, wearing a blue and white jersey, reacting with disappointment after being eliminated. Caster JUSTHARRY names him with surprise, 'there's the reply from Skullz!'",
+          "attribute": "audio-visual"
+        },
+        "m0NESY": {
+          "description": "G2 player with a black jersey, seen in the bottom-left camera feed, using a pistol and later a rifle, with a focused expression, remaining alive throughout the round. Caster JUSTHARRY names him as he is spotted, 'He sees m0NESY.'",
+          "attribute": "audio-visual"
+        },
+        "Team Liquid": {
+          "description": "Team represented by players YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, wearing blue and white jerseys with logos for Coinbase, Honda, and Monster Energy, pushing aggressively at B-site and planting the bomb.",
+          "attribute": "visual"
+        },
+        "JEYRAZZ": {
+          "description": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+          "attribute": "visual"
+        },
+        "G2 Esports": {
+          "description": "Team represented by players m0NESY, Niko, huNter-, nexa, and HooXi, wearing black jerseys with G2 logos and sponsor patches like Logitech and Monster Energy, actively engaging in combat and defending B-site.",
+          "attribute": "visual"
+        },
+        "Coinbase": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys and on the background wall, displayed on the players' sleeves and the arena backdrop.",
+          "attribute": "visual"
+        },
+        "Ancient Map": {
+          "description": "The game map, a sunlit ancient ruin with stone structures, tropical plants, and multiple pathways, shown in the top-left minimap and in-game environment, with B-site as the focal point.",
+          "attribute": "visual"
+        },
+        "JUSTHARRY": {
+          "description": "Caster name displayed in the top-right corner, providing excited and detailed commentary with a distinct, energetic voice, describing player actions, kills, and strategic movements.",
+          "attribute": "audio-visual"
+        },
+        "Team Liquid Coach": {
+          "description": "A man in a blue and white Team Liquid jersey with a headset, standing up from his seat with a clipboard, displaying a disappointed expression after the round loss.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a promotional graphic for the Intel Extreme Masters Chengdu 2024, showcasing G2 Esports and Team Liquid players, including m0NESY, Niko, huNter-, nexa, HooXi, YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, standing confidently. Two male casters, JUSTHARRY and HUGO, immediately begin commentary, noting the 'pressureful environment' and lightheartedly remarking that the players are 'not at all jet-lagged.' The scene transitions to a first-person perspective of a Counter-Strike: Global Offensive match on the 'Ancient' map, Team Liquid's pick, in Round 1 with a 0-0 score. As G2's Nexa, visible in the bottom-left, pushes the A site with a pistol, the caster exclaims, 'Watch this, P2K in the hand, and he finds that first headshot,' coinciding with Nexa eliminating Team Liquid's Twistzz amidst gunfire. The casters continue to narrate the intense gameplay, with more gunfire and grenade sounds, as huNter- takes down cadiaN, despite a caster's momentary miscall of 'cadiaN lives.' G2's m0NESY then eliminates Yekindar, prompting the caster to state, 'He will get run down, Yekindar.' The casters describe Team Liquid's 'sweaty' situation in the temple as G2 filters through, with HooXi, whose actions are noted by the caster, eliminating NAF. The caster confirms NAF's exit with 'No more for NAF.' The round culminates in a tense 1v1 clutch between G2's m0NESY and Team Liquid's Skullz. Despite a caster's misidentification of the opponent as 'Yekindar,' m0NESY secures the kill, leading to a celebratory 'Nice, boys!' from an unidentified male voice. The camera cuts to Team Liquid's reactions, showing NAF standing up in frustration and Skullz visibly disappointed, all set against the backdrop of a sunlit ancient ruin with stone structures and tropical foliage, with the HUD displaying player stats and sponsor logos like DHL, Predator, Qiddiya, Monster Energy, Coinbase, Honda, and Logitech.",
+        "The Intel Extreme Masters Chengdu 2024 Group Stage match on the Ancient map between G2 Esports and Team Liquid unfolds with TL holding a 2-0 lead. The round begins 5v5 at B-site, where Team Liquid pushes aggressively. Commentators note HooXi being chipped down, but then attribute a double kill to him, leading to an early 5v3 advantage for TL, despite the visual showing G2's Nexa, dual-wielding, eliminating Yekindar and Twistzz in quick succession. cadiaN plants the bomb at B-site, a moment confirmed by the commentators. G2 mounts a defensive push, with huNter- eliminating cadiaN with a pistol shot, and HooXi following up by eliminating NAF. Commentators highlight G2's lack of a defuse kit and the dwindling time, noting NAF's continued chip damage and cadiaN 'barreling through' before his elimination. The round culminates in a tense 1v1 clutch between huNter- and Skullz. huNter- secures the final kill, but the bomb explodes, awarding Team Liquid the round, a victory confirmed by the commentators as they note TL 'walked away with that one.' The sunlit ancient ruin environment, player feeds showing focused expressions, and sponsor logos like DHL and Monster Energy are visible throughout the high-stakes gameplay.",
+        "The video segment opens with a first-person perspective of a Counter-Strike 2 match on the Ancient map during the Intel Extreme Masters Chengdu 2024 Group Stage, showing Team Liquid (TL) leading 3-0 against G2 Esports as TL pushes aggressively at B-site. Casters JUSTHARRY and HUGO immediately provide high-energy commentary, noting NAF's post-plant situation and cadiaN \"leaping out in fear\" as he attempts to plant the bomb. The HUD displays the minimap, player health, weapons, scores, and sponsor logos like Intel and DHL. The casters observe G2's defense, remarking that \"everyone's leaving\" and G2 might be \"tired of this B-site\" getting rushed. Gunfire erupts as G2’s HooXi, wielding dual pistols, eliminates NAF in a close-range firefight, prompting an excited \"HooXi's got him!\" and \"What!\" from the casters. Nexa then follows up, using a dual-wielded weapon to eliminate Yekindar and Twistzz, reducing Team Liquid to two players, with the casters discussing Liquid's \"stuttering\" communication and the 4v2 situation. A brief cut shows a focused G2 player in a black jersey with Logitech and Monster Energy logos. Gameplay resumes as huNter- eliminates cadiaN with a precise pistol shot while he plants the bomb, leading to a 1v1 clutch situation between huNter- (G2) and Skullz (TL). The casters express sympathy, \"Oh, poor NAF and Skullz,\" and describe huNter-'s actions, noting he has a \"big old gun\" and is \"walking in slowly but surely.\" As huNter- secures the final kill with a knife, winning the round for G2, the casters exclaim that huNter- \"spotted, dealt with, cleaned up,\" despite their earlier, ironic comment that \"Liquid looking good to find this round after all.\" The sunlit stone ruins with tropical foliage of the Ancient map provide the backdrop for this intense round, with sponsor logos like Predator, Qiddiya, and Monster Energy visible on-screen, and observers JAK3YCSGO and JEYRAZZ noted.",
+        "The segment opens with the intense sounds of a Counter-Strike match, as caster HUGO describes a \"great save\" by G2's Nexa in a 1v2 clutch on the Ancient map's B-site. Nexa, wielding a dual-wielded weapon, swiftly eliminates Team Liquid's Yekindar and then Twistzz, whose movements are audibly tracked by HUGO as he \"turns away\" and is on the \"big wrap.\" HUGO notes Nexa's lack of awareness but ultimately confirms Nexa \"will take it,\" securing the round for G2. Amidst the action, HUGO announces \"4 and 0 for Team Liquid,\" though G2 is visually shown winning these crucial rounds. Casual background chatter about \"knuckles\" briefly fills a lull before caster JUSTHARRY takes over, his voice more energetic. He sets the stage for Round 5, where Team Liquid pushes B-site. JUSTHARRY excitedly calls out \"Niko back, question mark?\" and then exclaims \"Niko goes on a tear!\" as G2's Niko secures a kill. The intensity builds as JUSTHARRY reacts with an \"Oh god!\" to Team Liquid's Skullz, who \"replies\" with a kill, looking to take it \"one step further.\" JUSTHARRY continues to narrate the dynamic play, mentioning Yekindar trying to \"take away space in red\" and Nexa being \"spotted on the cross back.\" The round culminates in a 1v1, with JUSTHARRY spotting G2's m0NESY, who, armed with a rifle, engages and eliminates Skullz in a close-range firefight, winning the round for G2. Throughout, the HUD displays sponsor logos like DHL, Predator, Qiddiya, and Monster Energy, while the background wall features ESL Pro Tour branding with Intel, DHL, and Coinbase logos, all observed by JAK3YCSGO and JEYRAZZ."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 5,
+      "end_minute": 13,
+      "summary": "During the Intel Extreme Masters Chengdu 2024 Group Stage on the Ancient map, a series of intense rounds unfolded between G2 Esports and Team Liquid. In one pivotal moment, G2's m0NESY secured a crucial round by defusing the bomb with a knife in a 1v1 clutch against Skullz, despite Skullz having planted the bomb at B-site. Earlier, G2's Nexa dramatically shifted the momentum of a 3v5 disadvantage by eliminating YEKINDAR and Twistzz, though the round ultimately went to G2 after huNter- clutched a 1v1 against Skullz. Another round saw huNter- eliminate cadiaN with a pistol, leading to a 1v1 against Skullz, which huNter- won. Team Liquid's YEKINDAR also secured a clutch round against m0NESY, lighting up the server with his rifle. G2's defense on B-site saw Nexa, huNter-, and HooXi eliminate multiple Team Liquid players, with huNter- again winning a 1v1 against Skullz. In a later round, G2's defense faltered as Twistzz and YEKINDAR were eliminated, but huNter- secured a kill on cadiaN, leading to a 1v1 between m0NESY and Skullz, which m0NESY won. Team Liquid's aggressive push on B-site was met with precise pistol fire from G2's Nexa and huNter-, eliminating Yekindar, Twistzz, and cadiaN, with huNter- again winning a 1v1 against Skullz. In the final rounds, G2's m0NESY and huNter- secured kills, but Team Liquid ultimately secured the win at 12-5. Throughout the matches, commentators JUSTHARRY and HUGO provided detailed analysis, highlighting player actions, strategic decisions, and moments of tension, while sponsor logos from Intel, DHL, Predator, Qiddiya, Monster Energy, Coinbase, Honda, and Logitech were prominently displayed.",
+      "involved_entities": {
+        "Qiddiya": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, shown in the lower third.",
+          "attribute": "visual"
+        },
+        "Logitech": {
+          "description": "Sponsor logo visible on G2's jerseys, displayed on the black jerseys of the G2 players.",
+          "attribute": "visual"
+        },
+        "Predator": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, displayed in the lower third.",
+          "attribute": "visual"
+        },
+        "ESL Pro Tour": {
+          "description": "Branding visible on the background wall behind the players, with logos for Intel, DHL, Predator, and other sponsors, reinforcing the competitive setting.",
+          "attribute": "visual"
+        },
+        "Monster Energy": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on G2's jerseys, appearing in the lower third.",
+          "attribute": "visual"
+        },
+        "DHL": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on the background wall, appearing in the lower third of the screen.",
+          "attribute": "visual"
+        },
+        "Skullz": {
+          "description": "Team Liquid player, last remaining, shown in the feed during the 1v1 clutch, wearing a blue and white jersey, reacting with disappointment after being eliminated. He is the final opponent in huNter-'s clutch, and his role in the round's outcome is discussed by commentators.",
+          "attribute": "audio-visual"
+        },
+        "m0NESY": {
+          "description": "G2 player with a black jersey, seen in the bottom-left camera feed, using a pistol and later a rifle, with a focused expression, remaining alive throughout the round, and specifically mentioned by commentators for securing a kill.",
+          "attribute": "audio-visual"
+        },
+        "Intel Extreme Masters Chengdu 2024": {
+          "description": "Event branding visible on the initial graphic and throughout the HUD, featuring logos for Intel, ESL, and Pro Tour, with the match context displayed at the top center.",
+          "attribute": "visual"
+        },
+        "Team Liquid": {
+          "description": "Team represented by players YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, wearing blue and white jerseys with logos for Coinbase, Honda, and Monster Energy, pushing aggressively at B-site and planting the bomb, with their round loss and 'gamble' being analyzed by commentators.",
+          "attribute": "audio-visual"
+        },
+        "Honda": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys, appearing on the sleeves of the blue and white jerseys.",
+          "attribute": "visual"
+        },
+        "G2 Esports": {
+          "description": "Team represented by players m0NESY, Niko, huNter-, nexa, and HooXi, wearing black jerseys with G2 logos and sponsor patches, actively engaging in combat and defending B-site, with their successful plays and 'complete faith in the gamble' frequently discussed by commentators. Player comms from G2 members are heard during the round, adding to the in-game tension.",
+          "attribute": "audio-visual"
+        },
+        "HUGO": {
+          "description": "Caster name displayed in the top-right corner, providing analytical and play-by-play commentary throughout the segment, speculating on strategies and reacting to key eliminations and clutch plays.",
+          "attribute": "audio-visual"
+        },
+        "Coinbase": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys and on the background wall, displayed on the players' sleeves and the arena backdrop.",
+          "attribute": "visual"
+        },
+        "Ancient Map": {
+          "description": "The game map, a sunlit ancient ruin with stone structures, tropical plants, and multiple pathways, shown in the top-left minimap and in-game environment, with B-site as the focal point, and referred to by commentators as the setting for the match.",
+          "attribute": "audio-visual"
+        },
+        "Team Liquid Coach": {
+          "description": "A man in a blue and white Team Liquid jersey with a headset, standing up from his seat with a clipboard, displaying a disappointed expression after the round loss.",
+          "attribute": "visual"
+        },
+        "JUSTHARRY": {
+          "description": "Caster name displayed in the top-right corner, providing analytical and play-by-play commentary throughout the segment, speculating on strategies and reacting to key eliminations and clutch plays.",
+          "attribute": "audio-visual"
+        },
+        "Yekindar": {
+          "description": "Team Liquid player, eliminated early by Nexa, seen in the feed with a focused expression, wearing a blue and white jersey, his elimination contributing to G2's early advantage as noted by commentators.",
+          "attribute": "audio-visual"
+        },
+        "huNter-": {
+          "description": "G2 player, seen in the feed, using a pistol to eliminate cadiaN, with a calm demeanor, then securing the final kill in the 1v1 clutch against Skullz, with commentators highlighting his kills and the clutch play.",
+          "attribute": "audio-visual"
+        },
+        "NAF": {
+          "description": "Team Liquid player, seen in the feed, eliminated by HooXi, wearing a blue and white jersey with a visible tattoo on his arm, reacting to the loss. His elimination is met with an exclaimed 'Oh, NAF, why!' from commentators, though later commentators mistakenly call out a 'response' and 'double kill' from him.",
+          "attribute": "audio-visual"
+        },
+        "Twistzz": {
+          "description": "Team Liquid player, eliminated by Nexa, shown in the feed with a calm demeanor, wearing a blue and white jersey, his elimination contributing to G2's early advantage as noted by commentators.",
+          "attribute": "audio-visual"
+        },
+        "cadiaN": {
+          "description": "Team Liquid player, eliminated by huNter-, seen in the feed with a focused expression, wearing a blue and white jersey, planting the bomb at B-site before his elimination, a key moment in the round, with his elimination noted by commentators.",
+          "attribute": "audio-visual"
+        },
+        "Nexa": {
+          "description": "G2 player in the bottom-left feed, initially holding a pistol, then switching to a dual-wielded weapon, actively engaging enemies and eliminating Yekindar and Twistzz, with commentators noting his contribution to the kills.",
+          "attribute": "audio-visual"
+        },
+        "JAK3YCSGO": {
+          "description": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+          "attribute": "visual"
+        },
+        "JEYRAZZ": {
+          "description": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+          "attribute": "visual"
+        },
+        "HooXi": {
+          "description": "G2 player, shown in the feed, using dual pistols to eliminate NAF, with a determined look, contributing to the 1v1 situation, and mentioned by commentators for his kill.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with casters JUSTHARRY and HUGO setting the scene for a high-stakes 1v1 clutch on the Ancient map during the Intel Extreme Masters Chengdu 2024 Group Stage. Visually, Team Liquid’s Skullz has just planted the bomb at B-site, while G2’s m0NESY, in his black G2 jersey with Logitech and Monster Energy logos, is the last remaining defender. JUSTHARRY narrates the tension, stating it's \"the ace clutch needed for Skullz\" and \"just m0NESY left to beat.\" As Skullz, in his blue and white Team Liquid jersey adorned with Coinbase and Honda logos, pushes through the B-site tunnels, HUGO exclaims \"Oh!\" as m0NESY dodges an initial engagement. The casters discuss m0NESY's pressure and Skullz's cautious play, with HUGO questioning if it will be an \"ace clutch started with that crazy 3K spray down.\" The climax arrives as m0NESY, after switching from his rifle, uses a knife to successfully defuse the bomb, securing the round for G2. JUSTHARRY excitedly declares, \"m0NESY just locks it in!\" while HUGO reacts with a frustrated \"Damn it!\" The camera then cuts to the real-world arena, showing the G2 players celebrating their victory, contrasting sharply with Skullz and the Team Liquid coach, both visibly disappointed. HUGO reflects on the close call, lamenting, \"Oh, that hurts! What a round from Skullz, what an attempt, and it's still seconds, milliseconds off of the round.\" The ESL Pro Tour branding, along with sponsor logos like Intel, DHL, Predator, and Qiddiya, are prominently displayed throughout the competitive environment.",
+        "The high-stakes Intel Extreme Masters Chengdu 2024 Group Stage match on the sunlit Ancient map sees Team Liquid holding a 4-1 lead against G2 Esports. As the round begins with a 3v5 disadvantage for G2, the casters, JUSTHARRY and HUGO, provide dynamic commentary over the sounds of gameplay. Caster JUSTHARRY notes huNter- \"flowing around\" and praises NAF for being \"clean with it\" and having a \"nice scoreline\" of nine and three. The action intensifies as G2's Nexa, wearing a black jersey, visually eliminates YEKINDAR and Twistzz with precise shots. Caster JUSTHARRY exclaims, \"Oh no they won't! Nexa knocks them all down!\" highlighting how Nexa dramatically flips the round from a 5v3 for Liquid to a 1v3 for G2 in what felt like \"half a second.\" Caster HUGO then analyzes the round as \"winnable,\" suggesting Nexa could \"play to live\" off Niko's contact. However, HUGO soon describes Nexa \"jumping the gun\" and \"giv[ing] away the kill\" as he is eliminated. HUGO also mentions YEKINDAR knowing \"exactly what part he can manifest.\" Despite the visual context indicating Niko's eventual elimination, Caster HUGO describes Niko \"stepping in\" and going \"back for the tap,\" ultimately \"sav[ing] the round again,\" noting G2's tendency to make games difficult but still pull through. Visually, G2 players m0NESY, Niko, nexa, and HooXi (who took down NAF with dual pistols) are eliminated, leaving huNter- as the last G2 player. huNter-, intensely focused in his black G2 jersey, then eliminates cadiaN with a pistol, forcing a 1v1 clutch against Skullz. The camera switches to a live feed of the G2 players, showing huNter- maintaining composure, while the Team Liquid coach stands up in disappointment. huNter- secures the final kill on Skullz, winning the round for G2, and the scoreboard updates to 2-4. Caster JUSTHARRY concludes the minute by calling out \"Two players close A\" and \"Incoming Liquid through the...\" as the next phase of the game unfolds, with sponsor logos like Intel, DHL, Predator, Qiddiya, and Monster Energy visible on the HUD.",
+        "The segment opens with a tense 1v1 clutch on the sunlit Ancient map during the Intel Extreme Masters Chengdu 2024 Group Stage match between G2 Esports and Team Liquid. G2, with m0NESY, Niko, and huNter-, faces Team Liquid’s last player, NAF, holding a rifle in a stone corridor near B-site, with the bomb planted and timer ticking. Casters JUSTHARRY and HUGO comment on huNter-'s active role, noting he \"needs Nexa to watch his back\" and is \"doing everything.\" NAF eliminates Niko, leaving G2 with two players, as casters express surprise at \"missed shots from m0NESY again,\" calling it \"a couple of misses.\" The camera cuts to the G2 players at their stations, their coach (wearing a black G2 jacket with Logitech and Monster Energy logos) visibly tense, patting a player’s head and gesturing with concern. One caster (HUGO) expresses disbelief at m0NESY's performance, stating he's \"missed more shots in this round than in his career.\" Gameplay resumes with m0NESY, now with a rifle, engaging in a firefight at B-site, punctuated by gunshots, as a caster notes, \"Oh, there we go. Doesn't miss those,\" confirming \"that's a m0NESY kill.\" Team Liquid’s cadiaN plants the bomb, triggering a defensive push from G2, while casters describe Liquid \"moving in up through ramp\" and the B-site being \"fraught with danger.\" Nexa, using dual pistols, eliminates Yekindar and Twistzz in quick succession, as casters remark on Yekindar being \"hot on their heels\" and the round getting \"dicey\" and \"weird.\" While casters mention HooXi being \"trapped over in cave,\" huNter- takes down cadiaN with a precise pistol shot. The round culminates in a 1v1 between huNter- and Skullz, with huNter- securing the final kill to win the round for G2, as casters describe the chase and the secured kill. The scoreboard updates to 4-3 in favor of Team Liquid, but G2 wins the round, and the players celebrate, their focused expressions giving way to relief. The ancient ruin aesthetic, featuring stone walls, tropical plants, and bright daylight, remains consistent, with sponsor logos for DHL, Predator, Qiddiya, Monster Energy, Intel, ESL, and Coinbase visible on-screen and on jerseys, alongside the HUD and observer handles JAK3YCSGO and JEYRAZZ.",
+        "The segment opens with Team Liquid's YEKINDAR in a tense 1v1 clutch on Ancient's B-site against G2's m0NESY, with the score at G2 3, TL 4. Commentators excitedly narrate, \"YEKINDAR's playing the long game... right where they want him,\" as YEKINDAR, wielding a red-patterned rifle, hunts his opponent. They exclaim, \"All the info there for YEKINDAR, as he lights up the server! That's a YEKINDAR round right there!\" as he eliminates m0NESY, securing the round for Team Liquid, updating the score to 5-3. The crowd cheers as the camera cuts to Team Liquid players, including YEKINDAR, NAF, and Twistzz, celebrating with smiles and relief. Conversely, G2 players, including m0NESY, HooXi, and huNter-, appear dejected, with m0NESY covering his face in disappointment, as commentators highlight Team Liquid breaking G2's three-round streak. After a brief 'Intel CORE' sponsor graphic, the broadcast returns to gameplay. In the subsequent round, G2 defends B-site. m0NESY, now with a sniper rifle, eliminates cadiaN as he plants the bomb. Nexa then takes down YEKINDAR and Twistzz, followed by HooXi eliminating NAF, as commentators discuss past strategies and timings. huNter- then faces Skullz in a 1v1, securing the kill and winning the round for G2, updating the score to 6-4. During this, commentators continue to praise YEKINDAR's earlier clutch, stating, \"man, what a time to do it when Liquid's money was on the edge, and every headshot connects off the Tec-9. That's a beautiful clutch up for YEKINDAR.\" G2 players, including m0NESY and HooXi, celebrate their win with visible relief, while the Team Liquid coach stands, looking disappointed. The sunlit Ancient map, adorned with Intel Extreme Masters Chengdu 2024 and ESL Pro Tour branding, along with sponsor banners for DHL, Predator, Qiddiya, Monster Energy, Coinbase, Honda, and Logitech, forms the backdrop. Throughout the segment, game sounds like gunshots and a bomb plant are heard, interspersed with commentators discussing strategy, such as \"Bomb can wait to cross, and Liquid are in a fantastic position,\" and \"Nexa dives through the smoke.\"",
+        "The Intel Extreme Masters Chengdu 2024 Group Stage match on the Ancient map unfolds with G2 Esports defending B-site against an aggressive push from Team Liquid. Commentators describe G2's defense as potentially \"crumbling away\" with Twistzz taking early control, and m0NESY is seen in his feed attempting to push through smoke, a move one commentator calls \"wishful thinking.\" As Team Liquid pushes, commentators note their strong position for a seventh round, initially suggesting G2 might have to save. However, the round erupts with intense gunshots as G2 rallies. Nexa swiftly eliminates YEKINDAR and Twistzz in quick succession with precise pistol shots, while huNter- secures a kill on cadiaN. HooXi then takes down NAF with dual pistols, leaving Skullz as the last remaining Team Liquid player. Commentators highlight huNter-'s \"perfect bait setup\" for G2, noting Team Liquid's inability to \"keep going.\" The round culminates in a decisive 1v1 clutch where huNter- defeats Skullz, securing the round for G2. Skullz reacts with visible disappointment in his feed, a sentiment mirrored by the Team Liquid coach who stands up with a clipboard, clearly frustrated. The scoreboard updates to 4-8 in favor of Team Liquid, reflecting G2's hard-fought round win, as commentators discuss the evolving game state and strategies on the sunlit, stone-walled B-site of Ancient, with various sponsor logos like Intel, ESL, DHL, Predator, and Monster Energy visible throughout the HUD and background.",
+        "The segment opens on the Ancient map during the Intel Extreme Masters Chengdu 2024 Group Stage, capturing a high-stakes 1v1 clutch. As the first half concludes with Team Liquid holding an 8-3 lead, casters JUSTHARRY and HUGO detail cadiaN's wallbang and NAF's 'crispy shots' securing two kills, before NAF himself falls to a pistol. Visually, G2's HooXi, using dual pistols, eliminates NAF, leaving Team Liquid's Skullz as the last player standing, though the round concludes with Liquid still in control, marking the end of the half. Following a brief musical interlude, the scene shifts to the next round, with G2 now at a 4-8 deficit, defending B-site. While Team Liquid pushes aggressively at B, with cadiaN planting the bomb, caster HUGO describes an 'A rush' by Liquid that 'doesn't go too well,' as 'three in A main all get decapitated by G2.' Visually, G2's Nexa and huNter- respond with precise pistol fire at B-site, eliminating Yekindar, Twistzz, and cadiaN. The casters celebrate G2's 'convincing pistol round win' as huNter- outmaneuvers and eliminates Skullz in a final 1v1, securing the round for G2. Throughout, the HUD displays player stats, minimap, and sponsor logos like DHL, Predator, and Monster Energy, while real-life reactions show G2 players remaining focused and Team Liquid's coach, clipboard in hand, and NAF reacting with visible disappointment and frustration.",
+        "The segment opens with a wide shot of Team Liquid players, clad in blue and white jerseys featuring Coinbase, Honda, and Monster Energy logos, seated at their competitive desk under the Intel Extreme Masters Chengdu 2024 branding. The scene quickly shifts to intense in-game action on the Ancient map, where Team Liquid is defending B-site against G2 Esports, with the scoreboard showing TL leading 8-5 in Round 14. Commentators remark, \"It was pretty good... all the kills come through,\" as gunfire and game sounds punctuate the close-quarters combat, with one commentator briefly mentioning \"First quarter, merchants\" and \"even third quarter as well.\" G2’s HooXi eliminates NAF with dual pistols, while commentators describe \"Niko little jumpy here as he's chased down by Naps 5-7.\" Nexa then takes down Yekindar and Twistzz with precise rifle fire, with a commentator noting, \"Twist loves he's surely so blind is Twist\" and later, \"Next he needs all of them.\" huNter- secures a kill on cadiaN, who had just planted the bomb, leaving only Skullz alive for TL. The commentators describe G2's strategic movements, stating, \"G2 gonna respond to this by taking some real estate up through ramp... to get some control over the B-site,\" and mention \"Naf is still a threat back in the cave and Liquid are beginning to rotate over.\" The match culminates in a tense 1v1 clutch as huNter-, described by a commentator as \"holding for the ramp flank,\" calmly advances through the B-site corridors. He methodically eliminates Skullz with a clean shot, securing the round for G2, as the screen flashes 'WINS THE ROUND' at 0.00. Player feeds show huNter-'s focused expression contrasting with Skullz's visible disappointment, while the Team Liquid coach reacts with a disappointed expression, clipboard in hand. The HUD prominently displays sponsor logos including Intel, ESL, DHL, Predator, Qiddiya, and Monster Energy, with observer handles JAK3YCSGO and JEYRAZZ visible. Commentators conclude, \"G2 they're here for a good time, not a long time.\"",
+        "The video opens with a close-up of G2 Esports player m0NESY, intensely focused on his monitor at Intel Extreme Masters Chengdu 2024, with ESL Pro Tour branding visible. A caster's voice immediately speculates about a \"quick map\" after Team Liquid's \"force buy,\" then analyzes TL's strategy regarding a single flash grenade. The scene transitions to in-game footage on the Ancient map, where Team Liquid, holding a 9-5 lead in Round 16, pushes B-site with players YEKINDAR, NAF, Twistzz, cadiaN, and Skullz advancing aggressively against G2's m0NESY, Niko, huNter-, nexa, and HooXi. Gunfire erupts as a caster notes a \"crossfire between NAF and YEKINDAR\" that \"should be too strong.\" Nexa swiftly eliminates YEKINDAR and Twistzz with precise pistol shots, while HooXi takes down NAF amidst a flurry of gunshots. The caster describes the unfolding chaos, noting YEKINDAR's efforts and Twistzz being forced to \"back up.\" With only cadiaN and Skullz remaining, huNter- eliminates cadiaN, setting up a tense 1v1 clutch between m0NESY and Skullz. M0NESY secures the final kill, winning the round for G2, making the score 10-5. A caster comments on earlier \"quick work\" made of G2's push through B ramp. The next round begins with G2 on the offensive, but Skullz quickly eliminates m0NESY. The round concludes with Team Liquid winning, 11-5, as the camera cuts to the visibly disappointed Team Liquid coach, standing with a clipboard. Explosions and gunshots punctuate the action as a caster exclaims about a \"nade stack on the Molotov,\" anticipating Skullz to \"feast,\" followed by a rapid count of \"three, four, and two little shots,\" before crediting cadiaN for \"sav[ing] the day.\" In the final round shown, G2 pushes A-site; huNter- eliminates YEKINDAR and Twistzz, and Nexa takes down cadiaN, leaving only Skullz. The casters describe the unfolding strategy, noting a player being \"spotted out,\" \"four rotates assembl[ing] for Liquid,\" and the deployment of \"smoke down\" and a \"plant in,\" concluding that \"it's all on this post\" amidst the sounds of gunshots and utility. The round ends with Team Liquid winning, bringing the score to 12-5, as the caster's final comment is cut short.",
+        "The Intel Extreme Masters Chengdu 2024 match on the sunlit Ancient map intensifies as Team Liquid, holding an 11-5 lead, defends B-site against an aggressive G2 Esports push. Gunshots ring out as commentators immediately note, \"safe for G2 right now, and it only gets safer.\" m0NESY and huNter- engage in close-quarters combat, eliminating Yekindar and Twistzz respectively, with commentators confirming \"m0NESY and huNter- with kills a piece.\" Nexa follows up with a dual-pistol kill on cadiaN, who had just planted the bomb, while HooXi secures a kill on NAF, prompting an exclaimed \"Oh, NAF, why!\" from the commentators. This leaves Skullz as the last remaining Team Liquid player. The round culminates in a tense 1v1 clutch between huNter- and Skullz, with huNter- securing the final kill amidst a flurry of gunshots, bringing the score to 12-5. Post-round, commentators analyze Team Liquid's \"gamble\" and G2's \"complete faith,\" discussing how \"out of all the ways to lose around, that's an easy one to write off.\" Brief player comms are heard, with one G2 player stating, \"I've got one of you,\" followed by another asking, \"Do you feel that?\" and a \"Yeah\" in response, adding to the in-game tension. Visually, the Team Liquid coach is seen standing up, visibly disappointed with a clipboard. The HUD continuously displays sponsor logos like Intel, DHL, Predator, Qiddiya, and Monster Energy, while the bottom-left feed shows G2 players’ focused expressions. Commentators are heard mistakenly calling out \"NAF will respond and a double kill comes in quickly\" towards the end, despite NAF having been eliminated earlier."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 14,
+      "end_minute": 23,
+      "summary": "On the Ancient map during Intel Extreme Masters Chengdu 2024, Team Liquid, in Coinbase and Honda jerseys, pushed B-site against G2 Esports, clad in Logitech and Monster Energy gear. The commentators described the intense battle for control, noting huNter-'s aggression and a quick 4v2 advantage for Liquid. However, G2's m0NESY, wielding an AK-47, eliminated NAF, reducing Liquid to three. Niko then swiftly took down YEKINDAR and Twistzz with headshots, leading to a tense 1v1 between m0NESY and Skullz. The arena cameras showed G2 players celebrating as huNter- secured the clutch with a pistol kill on Skullz, a moment highlighted in an 'Intel Moments of Brilliance' replay, while Team Liquid players and their coach displayed visible disappointment. The scoreboard updated to 6-12 for G2, with commentators noting Ancient's popularity in the tournament. The action then shifted to the Anubis map. In a subsequent round, G2's defense at B-site saw Nexa eliminate Yekindar and Twistzz, HooXi take down NAF, and huNter- eliminate cadiaN, culminating in a 1v1 clutch where huNter- defeated Skullz, tying the score at 5-5. G2 players celebrated, while the Team Liquid coach remained disappointed. Throughout the matches, prominent branding for Intel, DHL, Predator, Qiddiya, and Monster Energy was visible, alongside casters JUSTHARRY and HUGO, and observers JAK3YCSGO and JEYRAZZ.",
+      "involved_entities": {
+        "Yekindar": {
+          "description": "Team Liquid player, eliminated early by Nexa, seen in the feed with a focused expression, wearing a blue and white jersey, with a commentator exclaiming 'Oh, Yekindar' upon his elimination.",
+          "attribute": "audio-visual"
+        },
+        "Qiddiya": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, shown in the lower third.",
+          "attribute": "visual"
+        },
+        "Logitech": {
+          "description": "Sponsor logo visible on G2's jerseys, displayed on the black jerseys of the G2 players.",
+          "attribute": "visual"
+        },
+        "huNter-": {
+          "description": "G2 player, seen in the feed, using a pistol to eliminate cadiaN, with a calm demeanor, then securing the final kill in the 1v1 clutch against Skullz.",
+          "attribute": "visual"
+        },
+        "Predator": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, displayed in the lower third.",
+          "attribute": "visual"
+        },
+        "ESL Pro Tour": {
+          "description": "Branding visible on the background wall behind the players, with logos for Intel, DHL, Predator, and other sponsors, reinforcing the competitive setting.",
+          "attribute": "visual"
+        },
+        "NAF": {
+          "description": "Team Liquid player, seen in the feed, eliminated by HooXi, wearing a blue and white jersey with a visible tattoo on his arm, reacting to the loss, with commentators stating he 'is even whittled down low' prior to his elimination.",
+          "attribute": "audio-visual"
+        },
+        "Monster Energy": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on G2's jerseys, appearing in the lower third.",
+          "attribute": "visual"
+        },
+        "Twistzz": {
+          "description": "Team Liquid player, eliminated by Nexa, shown in the feed with a calm demeanor, wearing a blue and white jersey, with commentators mentioning 'Twist throw it into long' and describing him as 'very low' before his elimination.",
+          "attribute": "audio-visual"
+        },
+        "cadiaN": {
+          "description": "Team Liquid player, eliminated by huNter-, seen in the feed with a focused expression, wearing a blue and white jersey, planting the bomb at B-site, with commentators mentioning his name multiple times and discussing a 'dark smoke for cadiaN'.",
+          "attribute": "audio-visual"
+        },
+        "DHL": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on the background wall, appearing in the lower third of the screen.",
+          "attribute": "visual"
+        },
+        "Nexa": {
+          "description": "G2 player in the bottom-left feed, initially holding a pistol, then switching to a dual-wielded weapon, actively engaging enemies and eliminating Yekindar and Twistzz, with commentators reacting to his multi-kill by stating 'this rifle will rid them of any heads' and exclaiming 'Oh, Yekindar' upon the first kill.",
+          "attribute": "audio-visual"
+        },
+        "Skullz": {
+          "description": "Team Liquid player, last remaining, shown in the feed during the 1v1 clutch, wearing a blue and white jersey, reacting with disappointment after being eliminated, with commentators mentioning 'Skullz can maybe...' and 'Skullz trade' during the round.",
+          "attribute": "audio-visual"
+        },
+        "m0NESY": {
+          "description": "G2 player with a black jersey, seen in the bottom-left camera feed, using a pistol and later a rifle, with a focused expression, remaining alive throughout the round and eliminating NAF.",
+          "attribute": "visual"
+        },
+        "Intel Extreme Masters Chengdu 2024": {
+          "description": "Event branding visible on the initial graphic and throughout the HUD, featuring logos for Intel, ESL, and Pro Tour, with the match context displayed at the top center.",
+          "attribute": "visual"
+        },
+        "Team Liquid": {
+          "description": "Team represented by players YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, wearing blue and white jerseys with logos for Coinbase, Honda, and Monster Energy, pushing aggressively at B-site and planting the bomb, ultimately losing the round in a 1v1 clutch, with commentators discussing their strategy, smoke placement, and time pressure. Their coach is seen standing up in disappointment.",
+          "attribute": "audio-visual"
+        },
+        "HooXi": {
+          "description": "G2 player, shown in the feed, using dual pistols to eliminate NAF, with a determined look, contributing to the 1v1 situation, with commentators noting 'NAF is even whittled down low' just before his elimination.",
+          "attribute": "audio-visual"
+        },
+        "Honda": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys, appearing on the sleeves of the blue and white jerseys.",
+          "attribute": "visual"
+        },
+        "G2 Esports": {
+          "description": "Team represented by players m0NESY, Niko, huNter-, nexa, and HooXi, wearing black jerseys with G2 logos and sponsor patches like Logitech and Monster Energy, actively engaging in combat and defending B-site, culminating in a 1v1 clutch win, with commentators praising their strong defense and clutch play.",
+          "attribute": "audio-visual"
+        },
+        "Coinbase": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys and on the background wall, displayed on the players' sleeves and the arena backdrop.",
+          "attribute": "visual"
+        },
+        "Ancient Map": {
+          "description": "The game map, a sunlit ancient ruin with stone structures, tropical plants, and multiple pathways, shown in the top-left minimap and in-game environment, with B-site as the focal point.",
+          "attribute": "visual"
+        },
+        "Team Liquid Coach": {
+          "description": "A man in a blue and white Team Liquid jersey with a headset, standing up from his seat with a clipboard, displaying a disappointed expression after the round loss.",
+          "attribute": "visual"
+        },
+        "JAK3YCSGO": {
+          "description": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+          "attribute": "visual"
+        },
+        "HUGO": {
+          "description": "Caster name displayed in the top-right corner, providing excited and emphatic commentary, particularly during key eliminations and clutch plays, using phrases like 'Oh, that's ugly' and 'No more! Stop YEKINDAR!'",
+          "attribute": "audio-visual"
+        },
+        "Anubis Map": {
+          "description": "The game map, a sunlit ancient ruin with stone structures, tropical plants, and multiple pathways, shown in the top-left minimap and in-game environment, with B-site as the focal point.",
+          "attribute": "visual"
+        },
+        "JEYRAZZ": {
+          "description": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+          "attribute": "visual"
+        },
+        "JUSTHARRY": {
+          "description": "Caster name displayed in the top-right corner, providing commentary on the game state, player actions, and team dynamics, sometimes with slight inaccuracies regarding specific player eliminations or team roles.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with Team Liquid, in their blue and white Coinbase and Honda jerseys, pushing B-site on the Ancient map, as commentators describe the intense \"battle for this B-site control.\" G2 Esports, in black Logitech and Monster Energy jerseys, defends, with a commentator noting huNter- trying \"his hand at aggression.\" The situation quickly becomes a 4v2 for Liquid, but G2's m0NESY, wielding a colorful AK-47, eliminates NAF, who a commentator notes \"repels them\" earlier, reducing TL to three. Despite a commentator's earlier remark that \"m0NESY can't close the gap,\" Niko, with a gold-patterned AK, then swiftly eliminates YEKINDAR and Twistzz, prompting an excited \"Headshot!\" and \"Immediately!\" from the commentators, forcing a tense 1v1 against Skullz. The commentators build anticipation, stating \"He's got a chance for a 1v1 here.\" The camera cuts to the real-world arena, showing G2 players reacting with intense focus and celebration as huNter- secures the clutch by eliminating Skullz with a pistol, highlighted in an 'Intel Moments of Brilliance' replay. Team Liquid's players and their coach are visibly disappointed. The scoreboard updates to 6-12, with commentators discussing the \"12 to 6\" score and the \"Ancient\" map being \"the flavor of the month,\" having been played for \"all five maps on this stream today.\" The ESL Pro Tour branding and sponsor logos like Intel, DHL, and Predator are visible throughout, as commentators discuss the series format.",
+        "The video segment opens with a first-person perspective of a Counter-Strike 2 match on the Ancient map during the Intel Extreme Masters Chengdu 2024 Group Stage, with Team Liquid (TL) leading 12-6 against G2 Esports. As Team Liquid pushes aggressively onto B-site and plants the bomb, a caster's voice describes the 'pitter-patter' of movement and a 'little poke and prod' as players make their way 'all the way out mid.' G2 defends fiercely, with m0NESY eliminating NAF, Nexa taking down Yekindar and Twistzz, and huNter- securing a kill on cadiaN. Another caster exclaims, 'You think Yekindar, you think you probably dealt with this,' and mentions 'Hooxi will cut it off' and 'Kadian JWP.' Despite the caster's earlier celebratory tone, stating 'Twist will hold the line and Liquid look to run away with this one cleanly,' and calling it a 'feel-good moment for Team Liquid as they dominate G2 on Ancient,' the round culminates in a dramatic 1v1 clutch between huNter- and Skullz, which huNter- ultimately wins for G2. The scene then cuts to the real-world arena, where Team Liquid players, particularly Twistzz and their coach, react with visible disappointment. The scoreboard highlights Team Liquid’s strong individual performances, especially NAF and Twistzz, before the video transitions to the next round on the Anubis map. With both teams on pistols, Team Liquid pushes A-site. A caster notes, 'It's looking to get bypassed entirely as G2 hit the go button on this B play,' even as the visual shows TL's A-site push. Yekindar eliminates m0NESY, and Nexa engages enemies. The caster emphasizes, 'Yekindar has got to hold the line,' and 'Twist is there to back him up from the spawn,' but then adds, 'Yekindar's hung out to dry,' and anticipates 'that will be a plant for G2 teed up,' as the HUD displays the ongoing match state with players alive and scores. Throughout the segment, the sunlit ruins of Ancient give way to the sandy, hieroglyph-adorned corridors of Anubis, with consistent branding for Intel, ESL, DHL, Predator, and Monster Energy visible, alongside casters JUSTHARRY and HUGO, and observers JAK3YCSGO and JEYRAZZ noted in the top-right corner.",
+        "The video opens with a first-person perspective of a Counter-Strike: Global Offensive match on the Ancient map during the Intel Extreme Masters Chengdu 2024 Group Stage. G2 Esports, in black jerseys, defends B-site against Team Liquid, in blue and white. As the round begins, commentators note that \"Liquid now have no kit\" and are \"in trouble.\" G2’s m0NESY and Nexa engage enemies, eliminating Yekindar and Twistzz with precise pistol shots, with a commentator specifically mentioning \"Twist pokes his head out.\" Gunshots punctuate the action as huNter- eliminates cadiaN, who had planted the bomb, following a commentator's call of \"Hunter's on the wrap around\" and a \"nice shot from Kadian.\" HooXi then takes down NAF, leaving Skullz as the last Team Liquid player. The commentators build tension around a potential 1v2, focusing on \"Monessy,\" before huNter- secures the final kill against Skullz in a 1v1 clutch, winning the round for G2. Despite a commentator's confusing remark about Liquid winning 4v5, the visual shows G2's m0NESY and huNter- displaying calm focus, while the Team Liquid coach stands, visibly disappointed. The scene transitions to the Anubis map for the next round, with Team Liquid pushing A-site. Game sounds, including a distinct bomb plant/defuse sound, are heard, followed by a commentator exclaiming \"Uh oh.\" After a brief moment of uncertainty where commentators question if the \"round not live,\" they excitedly confirm \"No, the round is live!\" as gunshots erupt. G2’s Nexa and Niko engage in a firefight, eliminating Twistzz and cadiaN, while Skullz is taken down by Niko. The commentators cheer \"Oh ho ho! And they will lock it in, convincingly done!\" as G2 wins the round 0-2. The camera cuts to the G2 players’ focused expressions, ready for the next round, with consistent branding for ESL Pro Tour, Intel, DHL, and Predator visible throughout the sunlit environments of Ancient and Anubis. Sponsor logos like Qiddiya, 1xBet, and White.Market also appear in the lower third.",
+        "The segment opens with two male commentators discussing a previous round, mentioning Team Liquid and YEKINDAR's lag and crash, as the visual displays a wide shot of the Intel Extreme Masters Chengdu 2024 esports arena. Team Liquid players, in blue and white jerseys with Coinbase, Honda, and Monster Energy logos, are seated at ESL-branded stations, with a referee in a black ESL shirt standing behind them. As the commentators transition to the current game, describing G2's control in mid and their B-split strategy, the scene shifts to intense gameplay on the sunlit, sandstone Anubis map, filled with hieroglyphs and open pathways. Team Liquid, with players YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, pushes aggressively at B-site. The audio intensifies with gunfire and explosions as YEKINDAR engages first, eliminating huNter- with a rifle. Nexa then eliminates both YEKINDAR and Twistzz with dual-wielded weapons, amidst continuous combat sounds and character death notifications. cadiaN plants the bomb at B-site, but is swiftly eliminated by huNter- with a pistol, with commentators noting cadiaN's late support for NAF. The round culminates in a tense 1v1 clutch, where HooXi eliminates NAF with dual pistols, leaving huNter- to face Skullz. huNter- secures the final kill, winning the round for G2, as the commentators declare the \"save is called.\" The camera cuts back to the arena, showing the Team Liquid coach standing with a clipboard, visibly disappointed, while the commentators continue to analyze the strategic implications, highlighting Team Liquid's immediate \"disbelief\" in the round's outcome and G2's exploitation of gun rounds. The HUD throughout displays sponsor logos like DHL, Predator, Qiddiya, and Monster Energy, alongside the minimap and player feeds.",
+        "The Intel Extreme Masters Chengdu 2024 Group Stage match on the Ancient map sees G2 Esports, trailing 1-3, secure a critical Round 6 clutch against Team Liquid. The action unfolds at B-site, where Team Liquid pushes aggressively. Commentator 1 highlights \"Yekindar smoke spam\" and notes \"He hears Nico come through,\" likely referring to G2's Nexa, who eliminates Yekindar and Twistzz. G2's m0NESY, starting with a pistol, takes down NAF. As cadiaN plants the bomb, commentator 1 exclaims, \"He's alone in the bomb site right now! And he drops the bomb!\" huNter- then swiftly eliminates cadiaN with a pistol. The round culminates in a tense 1v1 between m0NESY and Skullz. Commentator 1 builds the suspense, mentioning m0NESY's \"chance for the ace,\" before m0NESY survives a close-range exchange to secure the final kill as the timer hits 0:00, winning the round for G2, underscored by the \"Counter-Terrorists Win\" game sound. Post-round, commentator 3 reflects on the play, noting how a player \"puts that OP to use\" and that m0NESY was \"stopped... on his way to a crazy attempt at the ace clutch,\" confirming his clutch win but not an ace. Visually, G2 players erupt in celebration, while Team Liquid’s coach stands in disappointment, clipboard in hand. The broadcast features 'Moments of Brilliance' overlays and sponsor logos like Intel, DHL, Predator, and Qiddiya, all within the sunlit, stone-structured Ancient map, with the HUD providing real-time tactical data.",
+        "The high-stakes Round 6 of the Intel Extreme Masters Chengdu 2024 Group Stage match between G2 Esports and Team Liquid on the Anubis map unfolds at B-site, where Team Liquid, in their blue and white Coinbase and Honda-branded jerseys, pushes aggressively. G2, wearing black Logitech and Monster Energy jerseys, starts with a 1-4 deficit. Caster JUSTHARRY notes \"real nice shots as well out of cadiaN\" and describes Yekindar's engagement, while Caster HUGO provides strategic context, observing Liquid's advantage. As the action intensifies, Caster JUSTHARRY confirms Nexa \"will trade that out,\" securing kills on Yekindar and Twistzz. NAF is then \"left alone\" before G2's m0NESY, initially with a pistol, eliminates him. Caster JUSTHARRY highlights cadiaN \"moving in, and cadiaN gonna find one through the smoke\" to plant the bomb, with Caster HUGO adding that \"Orb is hitting\" and the rest of G2 are \"trapped down here in dark.\" The scene shifts as m0NESY \"finally gets his hand on an AWP,\" but a grenade \"is gonna get rid of Nexa,\" forcing m0NESY to \"fly solo, 1v3.\" Caster JUSTHARRY details m0NESY's awareness, noting he \"knew that swing was coming\" and \"could hear the tag\" as Twistzz was \"forced into it.\" huNter- eliminates cadiaN, leaving a tense 1v1 between m0NESY, now wielding his sniper rifle, and Team Liquid's Skullz. Caster JUSTHARRY describes m0NESY having \"a tango on the cross\" and swinging on the final opponent. m0NESY secures the final kill, winning the round for G2. The sunlit ancient ruin environment, adorned with stone structures and hieroglyphs, is visible throughout, alongside the HUD displaying sponsor logos like Intel, ESL, Predator, DHL, Qiddiya, and Monster Energy. The bottom-left feed shows G2 players, while Team Liquid players are in blue and white. Caster names JUSTHARRY and HUGO, and observer handles JAK3YCSGO and JEYRAZZ, are displayed. The Team Liquid coach is seen reacting with visible disappointment after the loss.",
+        "The segment opens with a tense 1v2 clutch on the sunlit Ancient map during the Intel Extreme Masters Chengdu 2024 Group Stage. Commentators build anticipation, noting G2's m0NESY is \"looking in the right place\" while Team Liquid's \"layered setup is perfect.\" The camera focuses on m0NESY’s sniper scope as commentators predict \"Skullz can swing off.\" Suddenly, m0NESY eliminates Skullz with a precise headshot, prompting an excited commentator to exclaim \"m0NESY grabs one!\" while another shouts \"NO!\" in disbelief. The clutch shifts to 1v1, with commentators hyping m0NESY, noting he's \"on for a round, now he's on for a 3K\" against an AWP, and that cadiaN \"has to cross for the bomb.\" As m0NESY secures the round win, commentators declare \"m0NESY wins the round!\" amidst a roaring crowd's cheers and shouts of \"NO!\". Visually, m0NESY is intensely focused, while the Team Liquid coach stands up in frustration. Commentators continue to laud m0NESY, calling him \"fast as ever\" and emphasizing, \"You don't give this guy a slither,\" and \"you take a swing for the king, you better not miss.\" The broadcast highlights an 'Intel Moments of Brilliance' replay of m0NESY’s clutch kill, with commentators discussing his low health (\"12 HP? 10 HP?\") and how \"nearly's not enough when you're up against m0NESY.\" They also analyze Liquid's strategy, questioning why \"cadiaN had the angle forever, then he leaves, Skullz takes it. Why did they swap?\" The round concludes with G2 winning 2-1. The next round begins with G2 pushing B-site, where huNter- eliminates cadiaN with a pistol shot, and Nexa secures kills on Yekindar and Twistzz, leading to G2 winning 3-4. The scoreboard and minimap update, with sponsor logos like Intel, DHL, Predator, Qiddiya, and Monster Energy visible throughout the stone-structured Ancient map.",
+        "The Intel Extreme Masters Chengdu 2024 Group Stage match between G2 Esports and Team Liquid on the Anubis map unfolds with G2 trailing 3-4. Commentators note Team Liquid's control of mid, with one player making a 'crazy move' with a 5-7 pistol, setting up a backstab. The bomb is secured by Liquid, prompting commentators to exclaim, 'That's the bomb! That's the bomb getting away from G2!' NAF arrives as m0NESY misses an initial shot, but the bomb remains contained. As Team Liquid pushes B-site aggressively, commentators identify G2's m0NESY making a 'pop skip and a grab' to escape, with one commentator expressing, 'I always have faith in m0NESY making those moves.' Liquid attempts a 'triple flank' without a defuse kit, with Twistzz having secured earlier kills in mid and Skullz acting as bait. G2's m0NESY, initially with a pistol, eliminates NAF, a moment commentators highlight as 'm0NESY doesn't miss on an AWP-like the second time around.' Nexa, wielding dual pistols, swiftly takes down Yekindar and Twistzz. The action continues as huNter- eliminates cadiaN, who had just planted the bomb, leaving only Skullz for Team Liquid. The round culminates in a tense 1v1 clutch, with huNter- securing the final kill against Skullz to win the round for G2. Throughout the high-intensity play, the HUD displays vital player health, weapons, and the minimap, while sponsor logos like DHL, Predator, Qiddiya, Monster Energy, and Intel are visible. Player feeds show G2's m0NESY, Nexa, huNter-, and HooXi with focused expressions, contrasting with Team Liquid's Yekindar, Twistzz, NAF, cadiaN, and Skullz reacting to their eliminations within the sunlit, stone-walled ancient ruin environment.",
+        "The minute opens with a first-person perspective from G2 Esports' m0NESY on the Anubis map, engaged in a critical 2v1 clutch at B-site against Team Liquid's cadiaN and Twistzz, with the score tied 3-4. Caster JUSTHARRY narrates the tense situation, noting \"it's just cadiaN and Twistzz\" and the \"time getting away from them\" after a missed AWP shot, suggesting Liquid's bomb defuse attempt \"won't even get attempted.\" He reflects that \"for a moment Liquid felt like they had G2 right where they wanted them, that bomb dropped in the backline,\" but m0NESY, wielding a colorful rifle, eliminates Twistzz, then switches to a sniper rifle to eliminate cadiaN, securing the round for G2. The casters express excitement, with one mentioning m0NESY \"able to pick it off, able to cement it with that kill on NAF\" (though visually m0NESY eliminated Twistzz and cadiaN in this clutch). The scene cuts to the G2 team celebrating in their black Logitech and Monster Energy jerseys. The next round begins with Team Liquid pushing B-site, and the camera switches to YEKINDAR’s perspective. Caster HUGO describes action \"through the smoke with a break\" as YEKINDAR is eliminated by Nexa in a smoke-filled corridor. HUGO exclaims \"NAF just baits for YEKINDAR. Oh, they're not gonna check him, they have no idea until it's too late,\" followed by \"Oh, that's ugly\" and an emphatic \"No more! Stop YEKINDAR!\" as huNter- eliminates cadiaN and HooXi eliminates NAF, leaving Skullz as the last remaining Team Liquid player. HUGO declares \"Three kills! Ices out this round in an instant!\" as huNter- eliminates Skullz in the final 1v1, securing another round for G2. The camera cuts to the G2 players celebrating, with huNter- raising his fist, while the Team Liquid coach, in his blue and white Coinbase and Honda jersey, stands up in disappointment. JUSTHARRY comments, \"Very well done from the B defense there across the board for Team Liquid,\" despite Liquid having been on offense, and adds, \"it all starts with YEKINDAR on that tear,\" before being cut off. The HUD displays 'Intel Extreme Masters Chengdu 2024' branding and sponsor logos like DHL, Predator, Qiddiya, and Monster Energy, while the background wall features ESL Pro Tour branding with Intel, DHL, and Coinbase logos, with observer feeds for JAK3YCSGO and JEYRAZZ visible.",
+        "The Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match on the Anubis map showcases a high-stakes round between G2 Esports and Team Liquid, with the score at 4-5 in favor of Team Liquid. As the round begins, G2 defends B-site, their players strategically positioned, while Team Liquid pushes aggressively. A commentator exclaims, \"Oh, Yekindar,\" as G2's Nexa, seen in the bottom-left feed, swiftly eliminates Yekindar and Twistzz with precise shots from his dual-wielded weapon, prompting the commentator to declare, \"this rifle will rid them of any heads.\" Supporting the defense, HooXi, also in the G2 feed, secures a kill on NAF, who the commentator notes \"is even whittled down low.\" Despite G2's strong defense, cadiaN manages to plant the bomb, with the commentator having mentioned \"dark smoke for cadiaN\" earlier. However, G2's huNter- quickly eliminates cadiaN with a clean pistol shot, setting up a tense 1v1 clutch against Skullz, whom the commentator had mentioned earlier, \"Skullz can maybe...\" and \"Skullz trade.\" With time ticking, and the commentator noting \"time is ticking as well for Liquid, half gone,\" huNter- secures the final kill, winning the round for G2 and tying the score at 5-5. G2 players celebrate with visible smiles and gestures, while the Team Liquid coach stands up in disappointment, clipboard in hand. The sunlit Anubis map, adorned with sponsor logos like Intel, ESL, DHL, Predator, Qiddiya, and Monster Energy, provides the backdrop, with player health, weapons, and utility displayed on the HUD, and focused G2 expressions contrasting with Team Liquid's reactions in the bottom feeds."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 24,
+      "end_minute": 27,
+      "summary": "At Intel Extreme Masters Chengdu 2024 on the Ancient map, G2 Esports and Team Liquid were locked in a tense match, with the score fluctuating between 5-5 and 6-6. In Round 11, with the score at 5-5, Team Liquid pushed aggressively at B-site. Nexa of G2, wielding dual pistols, eliminated YEKINDAR and Twistzz, while cadiaN planted the bomb amidst gunfire. huNter- then eliminated cadiaN with a pistol, leading to a 1v1 clutch between NAF and HooXi, where HooXi secured the round for G2. The commentators praised G2's comeback, noting the potential for Inferno as a decider. In Round 12, with G2 leading 6-5, Team Liquid again pushed, but Nexa eliminated Skullz, and HooXi took down NAF. huNter- secured the final kill against Skullz, winning the round for G2. The match continued with G2 leading 9-6, where Nexa eliminated Yekindar and Twistzz with dual pistols, and huNter- took down cadiaN, with HooXi securing NAF, leaving Skullz in a 1v1 against huNter-, which huNter- won, extending G2's lead to 10-6. The commentators noted G2's strong performance, particularly their focus on B-site. In a subsequent round, with G2 leading 10-6, HooXi eliminated NAF with dual pistols, and huNter- took down cadiaN, with Niko also contributing defensively. G2 secured the round, bringing the score to 11-6. Throughout the gameplay, the HUD prominently displayed sponsor logos including DHL, Predator, Qiddiya, Intel, Logitech, Monster Energy, and ESL Pro Tour, while the G2 players celebrated their victories with visible excitement, and the Team Liquid coach showed clear frustration.",
+      "involved_entities": {
+        "Yekindar": {
+          "description": "Team Liquid player, eliminated early by Nexa, seen in the feed with a focused expression, wearing a blue and white jersey.",
+          "attribute": "visual"
+        },
+        "Qiddiya": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, shown in the lower third.",
+          "attribute": "visual"
+        },
+        "Logitech": {
+          "description": "Sponsor logo visible on G2's jerseys, displayed on the black jerseys of the G2 players.",
+          "attribute": "visual"
+        },
+        "huNter-": {
+          "description": "G2 player, seen in the feed, using a pistol to eliminate cadiaN, with a calm demeanor, then securing the final kill in the 1v1 clutch against Skullz, and later eliminating cadiaN again, with commentators mentioning 'feed Hunter' in their analysis.",
+          "attribute": "audio-visual"
+        },
+        "Predator": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, displayed in the lower third.",
+          "attribute": "visual"
+        },
+        "ESL Pro Tour": {
+          "description": "Branding visible on the background wall behind the players, with logos for Intel, DHL, Predator, and other sponsors, reinforcing the competitive setting.",
+          "attribute": "visual"
+        },
+        "Anubis Map": {
+          "description": "The game map, a sunlit ancient ruin with stone structures, tropical plants, and multiple pathways, shown in the top-left minimap and in-game environment, with B-site as the focal point.",
+          "attribute": "visual"
+        },
+        "NAF": {
+          "description": "Team Liquid player, seen in the feed, eliminated by HooXi, wearing a blue and white jersey with a visible tattoo on his arm, reacting to the loss.",
+          "attribute": "visual"
+        },
+        "Monster Energy": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on G2's jerseys, appearing in the lower third.",
+          "attribute": "visual"
+        },
+        "Twistzz": {
+          "description": "Team Liquid player, eliminated by Nexa, shown in the feed with a calm demeanor, wearing a blue and white jersey.",
+          "attribute": "visual"
+        },
+        "cadiaN": {
+          "description": "Team Liquid player, eliminated by huNter-, seen in the feed with a focused expression, wearing a blue and white jersey, planting the bomb at B-site.",
+          "attribute": "visual"
+        },
+        "DHL": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on the background wall, appearing in the lower third of the screen.",
+          "attribute": "visual"
+        },
+        "Nexa": {
+          "description": "G2 player in the bottom-left feed, initially holding a pistol, then switching to a dual-wielded weapon, actively engaging enemies and eliminating Yekindar and Twistzz, with commentators noting he 'takes all the glory' and 'hounds down' opponents.",
+          "attribute": "audio-visual"
+        },
+        "Skullz": {
+          "description": "Team Liquid player, last remaining, shown in the feed during the 1v1 clutch, wearing a blue and white jersey, reacting with disappointment after being eliminated.",
+          "attribute": "visual"
+        },
+        "m0NESY": {
+          "description": "G2 player with a black jersey, seen in the bottom-left camera feed, using a pistol and later a rifle, with a focused expression, remaining alive throughout the round and contributing to kills, celebrated by commentators for a 'multi-kill' and receiving a 'celebratory hand slap' while pumping his fist.",
+          "attribute": "audio-visual"
+        },
+        "Intel Extreme Masters Chengdu 2024": {
+          "description": "Event branding visible on the initial graphic and throughout the HUD, featuring logos for Intel, ESL, and Pro Tour, with the match context displayed at the top center, serving as the setting for the intense gameplay and commentary.",
+          "attribute": "audio-visual"
+        },
+        "Team Liquid": {
+          "description": "Team represented by players YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, wearing blue and white jerseys with logos for Coinbase, Honda, and Monster Energy, pushing aggressively at B-site and planting the bomb, ultimately losing the round in a 1v1 clutch, with commentators noting the importance of the round for them to 'be competitive'.",
+          "attribute": "audio-visual"
+        },
+        "HooXi": {
+          "description": "G2 player, shown in the feed, using dual pistols to eliminate NAF, with a determined look, contributing to the 1v1 situation.",
+          "attribute": "visual"
+        },
+        "Honda": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys, appearing on the sleeves of the blue and white jerseys.",
+          "attribute": "visual"
+        },
+        "G2 Esports": {
+          "description": "Team represented by players m0NESY, Niko, huNter-, nexa, and HooXi, wearing black jerseys with G2 logos and sponsor patches like Logitech and Monster Energy, actively engaging in combat and defending B-site, culminating in a 1v1 clutch win, described by commentators as 'getting loud' and 'hyped up' after successful plays, with their wins being 'nice and easily done'.",
+          "attribute": "audio-visual"
+        },
+        "Coinbase": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys and on the background wall, displayed on the players' sleeves and the arena backdrop.",
+          "attribute": "visual"
+        },
+        "Ancient Map": {
+          "description": "The game map, a sunlit ancient ruin with stone structures, tropical plants, and multiple pathways, shown in the top-left minimap and in-game environment, with B-site as the focal point, and its strategic elements discussed by commentators.",
+          "attribute": "audio-visual"
+        },
+        "Team Liquid Coach": {
+          "description": "A man in a blue and white Team Liquid jersey with a headset, standing up from his seat with a clipboard, displaying a disappointed expression after the round loss.",
+          "attribute": "visual"
+        },
+        "JAK3YCSGO": {
+          "description": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+          "attribute": "visual"
+        },
+        "HUGO": {
+          "description": "Caster whose voice is heard providing commentary, describing Team Liquid's struggles, G2's 'Nico' making crucial plays, and Skullz's inability to 'finish the job', culminating in excited reactions to G2's win.",
+          "attribute": "audio-visual"
+        },
+        "JEYRAZZ": {
+          "description": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+          "attribute": "visual"
+        },
+        "JUSTHARRY": {
+          "description": "Caster whose voice is heard providing commentary, specifically noting m0NESY 'lightening the load' early in the round.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a live shot of G2 Esports players, clad in black jerseys with Logitech and Monster Energy logos, intensely focused at their Intel Extreme Masters Chengdu 2024 station. The scene transitions to the sunlit, stone-structured Ancient map, where G2 and Team Liquid are tied 5-5 in Round 11. As commentators remark on a \"very strange smoke\" and predict Liquid will \"pay that price,\" Team Liquid pushes aggressively at B-site. Gunshots erupt as Nexa, using dual pistols, swiftly eliminates YEKINDAR and Twistzz. Skullz and cadiaN continue the push, with cadiaN planting the bomb amidst more gunfire. A commentator exclaims \"What a play!\" as huNter- eliminates cadiaN with a pistol. The round culminates in a tense 1v1 clutch between NAF and HooXi, with a commentator shouting \"HooXi! Double kill secured and with it the round!\" as HooXi eliminates NAF with a precise pistol shot, causing Team Liquid's lead to \"disintegrate.\" G2 players celebrate, huNter- visibly relieved, as commentators praise G2 for returning \"back to their winning ways,\" with one briefly mentioning \"the promise of Inferno\" as a potential decider. Round 12 begins with G2 leading 6-5. Team Liquid pushes again, with commentators noting they \"break the smoke open and come straight through.\" Gunfire is heard as Nexa eliminates Skullz, and HooXi takes down NAF. Commentators describe G2 \"overwhelming cadiaN and Twist\" and then dealing with Skullz, while also noting a player attempting to \"grab the AWP\" but unable to \"fire it.\" m0NESY is seen crouching in as huNter- secures the final kill against Skullz in a 1v1, winning the round for G2. The HUD displays sponsor logos like DHL, Predator, Qiddiya, and Intel, while the disappointed Team Liquid coach is briefly shown with a clipboard.",
+        "The video opens with a first-person perspective of a Counter-Strike: Global Offensive match on the Anubis map during the Intel Extreme Masters Chengdu 2024 Group Stage, with G2 Esports leading Team Liquid 6-5 in Round 12. As G2 defends B-site, casters JUSTHARRY and HUGO provide live commentary. JUSTHARRY exclaims, \"Hunter will!\" as NAF (Team Liquid) is seen \"barreling in through the back line.\" HUGO notes Team Liquid has \"done far better than it was looking,\" referencing an earlier \"double kill from Skullz\" that gave them a \"leg up.\" G2's nexa, wielding dual weapons, swiftly eliminates Yekindar and Twistzz. HUGO describes Yekindar as \"fast on the flank\" and huNter- as \"back turned\" amidst the chaos, while JUSTHARRY highlights the \"many angles to be considering.\" As nexa continues his aggressive play, JUSTHARRY shouts, \"it's just Nexa! And they sandwich him in!\" huNter- then takes down cadiaN, who had planted the bomb, leading to a tense 1v1 clutch against Skullz. HUGO comments on Team Liquid's efforts to \"even out this first half\" as huNter- secures the final kill, winning the round for G2. The scene cuts to the real-world arena where G2 players celebrate with raised fists and high-fives, while Team Liquid players, including NAF, show clear disappointment, and their coach stands up, visibly frustrated, all set to a tense electronic background score. The next round begins with the score tied 6-6, and the camera switches to m0NESY (G2) holding a pistol. JUSTHARRY anticipates m0NESY \"will start strong,\" while HUGO calls it a \"Monster map for m0NESY,\" urging him to \"keep it going.\" JUSTHARRY also mentions \"Dex Kadian\" in this pistol round, and HUGO observes Yekindar is \"trapped right now\" with a Molotov, despite his earlier elimination. The HUD displays casters JUSTHARRY and HUGO, and observers @JAK3YCSGO and @JEYRAZZ, against the sunlit, stone-walled Anubis map with sponsor logos for Intel, ESL, DHL, Predator, Qiddiya, and Monster Energy.",
+        "The Intel Extreme Masters Chengdu 2024 Group Stage match on Anubis between G2 Esports and Team Liquid unfolds at B-site, with G2 holding a 6-6 score. As Team Liquid pushes aggressively, the round is filled with the sounds of intense gunshots and explosions. Caster JUSTHARRY notes G2's m0NESY \"lightening the load\" early on. G2’s Nexa eliminates Yekindar and Twistzz with precise pistol shots, while huNter- takes down cadiaN. Caster HUGO describes Team Liquid's slow rotation and their struggle, repeatedly referring to G2's huNter- (whose real name is Nikola, often nicknamed Nico) making crucial plays, putting a stop to Liquid's bomb plant attempt, which is audibly found. HUGO emphasizes Liquid being in a \"meat grinder\" as G2 \"churns them up,\" with m0NESY contributing significantly. The round culminates in a tense 1v1 clutch between huNter- and Skullz, with HUGO declaring Skullz \"can't finish the job.\" HuNter- secures the final kill, winning the round for G2. The real-world arena erupts in loud cheers and applause from the crowd as G2 players, in their black Logitech and Monster Energy jerseys, celebrate with focused intensity, while Team Liquid’s coach, in a blue and white jersey, stands up in clear disappointment. The HUD prominently displays sponsor logos like DHL, Predator, Qiddiya, and 1xBet, with observers @JAK3YCSGO and @JEYRAZZ overseeing the action in the sunlit ancient ruin environment of Anubis.",
+        "The video opens with a wide shot of the G2 Esports team at their Intel Extreme Masters Chengdu 2024 station, players in black jerseys with Logitech and Monster Energy logos intensely focused on their screens, as commentators exclaim about a 'multi-kill around for m0NESY' and how 'G2 are getting loud, they're getting hyped up on this one.' The background features prominent ESL Pro Tour, Intel, DHL, and Predator branding. The scene transitions to in-game footage on the Ancient map, where G2 (9-6) defends B-site against Team Liquid. The commentators describe the 'late bait' and the aggressive push, with 'gunning, crossfire, ready to swing,' accompanied by the sounds of gunshots. Nexa eliminates Yekindar and Twistzz with dual pistols, while huNter- takes down cadiaN with a pistol. HooXi secures NAF, leaving Skullz as the last Liquid player. The round becomes a 1v1 clutch between huNter- and Skullz, which huNter- secures with a precise shot, winning the round for G2 (10-6). The commentators declare it 'nice and easily done for G2,' noting 'this is it for Liquid' if they want to be competitive. The camera cuts back to the G2 booth, where players celebrate, m0NESY pumping his fist and receiving a 'celebratory hand slap' as mentioned by the commentators, and huNter- high-fiving a coach. The next round begins with G2 leading 10-6, gameplay continuing on B-site, with commentators analyzing G2's 'heavy' lean towards B. HooXi eliminates NAF with dual pistols, and cadiaN is taken down by huNter-. Commentators highlight Niko's defensive efforts, speculating if he's 'really on for the ace' before confirming he won't get it as Nexa 'hounds down.' The round ends with G2 winning 11-6, and the players react with excitement, the coach standing and clapping, as the in-game HUD consistently displays sponsor logos like Qiddiya, Monster Energy, and DHL, maintaining a tense, competitive atmosphere."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 28,
+      "end_minute": 29,
+      "summary": "During Intel Extreme Masters Chengdu 2024 on the Anubis map, G2 Esports secured a commanding lead against Team Liquid, with commentator praise for m0NESY's \"heart-stopping performance\" and Niko's \"racking up kills,\" particularly on B-site defense where Niko eliminated NAF, Twistzz, and cadiaN. Nexa and huNter- further bolstered G2's advantage by eliminating Yekindar and cadiaN respectively, culminating in a tense 1v1 clutch won by huNter- against Skullz. G2 players celebrated their success, while Team Liquid's coach showed disappointment. In a subsequent 3v1 clutch situation, m0NESY eliminated Skullz, and huNter- secured the final kill on cadiaN, with Nexa arriving \"just in time\" to support. G2 advanced towards a potential victory, leading 12-6. In Round 18, despite Team Liquid planting the bomb, G2's defense proved formidable: Nexa eliminated Yekindar and Twistzz with dual pistols, huNter- took out cadiaN, and HooXi eliminated NAF, leaving Skullz as the last defender. Although commentators noted HooXi's elimination and G2 losing Niko, the bomb exploded, resulting in a 12-7 win for G2. The HUD displayed sponsors like Qiddiya, Monster Energy, and DHL, alongside ESL Pro Tour and Intel branding, while player jerseys featured Logitech, Monster Energy, Coinbase, and Honda. The Anubis map environment was characterized by sunlit stone structures and tropical plants.",
+      "involved_entities": {
+        "Yekindar": {
+          "description": "Team Liquid player, eliminated early by Nexa, seen in the feed with a focused expression, wearing a blue and white jersey.",
+          "attribute": "audio-visual"
+        },
+        "Qiddiya": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, shown in the lower third.",
+          "attribute": "visual"
+        },
+        "Logitech": {
+          "description": "Sponsor logo visible on G2's jerseys, displayed on the black jerseys of the G2 players.",
+          "attribute": "visual"
+        },
+        "huNter-": {
+          "description": "G2 player, seen in the feed, using a pistol to eliminate cadiaN, with a calm demeanor, then securing the final kill in the 1v1 clutch against Skullz. The commentator states 'Hunter follows up' after a kill.",
+          "attribute": "audio-visual"
+        },
+        "Predator": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, displayed in the lower third.",
+          "attribute": "visual"
+        },
+        "ESL Pro Tour": {
+          "description": "Branding visible on the background wall behind the players, with logos for Intel, DHL, Predator, and other sponsors, reinforcing the competitive setting.",
+          "attribute": "visual"
+        },
+        "Anubis Map": {
+          "description": "The game map, a sunlit ancient ruin with stone structures, tropical plants, and multiple pathways, shown in the top-left minimap and in-game environment, with B-site as the focal point.",
+          "attribute": "visual"
+        },
+        "NAF": {
+          "description": "Team Liquid player, seen in the feed, eliminated by HooXi, wearing a blue and white jersey with a visible tattoo on his arm, reacting to the loss. The commentator announces 'NAF dead.'",
+          "attribute": "audio-visual"
+        },
+        "Monster Energy": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on G2's jerseys, appearing in the lower third.",
+          "attribute": "visual"
+        },
+        "Twistzz": {
+          "description": "Team Liquid player, eliminated by Nexa, shown in the feed with a calm demeanor, wearing a blue and white jersey.",
+          "attribute": "audio-visual"
+        },
+        "cadiaN": {
+          "description": "Team Liquid player, eliminated by huNter-, seen in the feed with a focused expression, wearing a blue and white jersey, planting the bomb at B-site. The commentator refers to him as 'Kady in the opener' when discussing a gifted opportunity.",
+          "attribute": "audio-visual"
+        },
+        "DHL": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on the background wall, appearing in the lower third of the screen.",
+          "attribute": "visual"
+        },
+        "Nexa": {
+          "description": "G2 player in the bottom-left feed, initially holding a pistol, then switching to a dual-wielded weapon, actively engaging enemies and eliminating Yekindar and Twistzz. The commentator announces 'Nexa arrives, just in time' and later humorously imagines him saying, 'no, I don't' when asked if he believes. The commentator also states 'Nexa will finish the job.'",
+          "attribute": "audio-visual"
+        },
+        "Skullz": {
+          "description": "Team Liquid player, last remaining, shown in the feed during the 1v1 clutch, wearing a blue and white jersey, reacting with disappointment after being eliminated. The commentator states that a kill 'leaves it all on Skullz' and laments, 'If only his arms were just like one inch longer, he would have had that in the bag,' implying a missed opportunity.",
+          "attribute": "audio-visual"
+        },
+        "m0NESY": {
+          "description": "G2 player with a black jersey, seen in the bottom-left camera feed, using a pistol and later a rifle, with a focused expression, remaining alive throughout the round and eliminating NAF. The commentator mentions his impressive stats, 'Monessy at 23 and 6,' and humorously imagines him saying, 'hell yeah, I believe we can do it.'",
+          "attribute": "audio-visual"
+        },
+        "Intel Extreme Masters Chengdu 2024": {
+          "description": "Event branding visible on the initial graphic and throughout the HUD, featuring logos for Intel, ESL, and Pro Tour, with the match context displayed at the top center.",
+          "attribute": "visual"
+        },
+        "Team Liquid": {
+          "description": "Team represented by players YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, wearing blue and white jerseys with logos for Coinbase, Honda, and Monster Energy, pushing aggressively at B-site and planting the bomb, ultimately losing the round in a 1v1 clutch. The commentator notes G2 'denying Team Liquid' and later mentions their push on B-site, with the bomb being planted.",
+          "attribute": "audio-visual"
+        },
+        "HooXi": {
+          "description": "G2 player, shown in the feed, using dual pistols to eliminate NAF, with a determined look, contributing to the 1v1 situation. The commentator states 'with Hooxi knocked out of the round,' which contradicts the visual of him eliminating NAF.",
+          "attribute": "audio-visual"
+        },
+        "Honda": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys, appearing on the sleeves of the blue and white jerseys.",
+          "attribute": "visual"
+        },
+        "G2 Esports": {
+          "description": "Team represented by players m0NESY, Niko, huNter-, nexa, and HooXi, wearing black jerseys with G2 logos and sponsor patches like Logitech and Monster Energy, actively engaging in combat and defending B-site, culminating in a 1v1 clutch win. The commentator describes G2 'sprint[ing] towards the promise of Inferno' and being 'one round away from taking this one the distance,' highlighting their strong performance and strategic position.",
+          "attribute": "audio-visual"
+        },
+        "Coinbase": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys and on the background wall, displayed on the players' sleeves and the arena backdrop.",
+          "attribute": "visual"
+        },
+        "Team Liquid Coach": {
+          "description": "A man in a blue and white Team Liquid jersey with a headset, standing up from his seat with a clipboard, displaying a disappointed expression after the round loss.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a wide shot of the G2 Esports team at their competitive desk during the Intel Extreme Masters Chengdu 2024, their coach clapping and gesturing encouragement, as a commentator notes that \"slowly but surely all the pieces are showing up here for G2.\" The scene transitions to in-game footage on the Anubis map, where G2 is defending B-site against Team Liquid, leading 10-6. Commentary highlights m0NESY's \"heart-stopping performance\" but observes \"for Liquid, there's no such luck,\" adding that \"No one's bailing them out individually\" and \"They're being beaten on all fronts right now.\" Amidst dynamic gunfire and smoke effects, G2’s Niko, wielding a white-patterned rifle, eliminates multiple Team Liquid players—NAF, Twistzz, and cadiaN—with the commentator specifically praising him for \"racking up kills as well, four in that,\" and attributing \"every single kill on the defense on that B bomb site from Niko.\" Nexa and huNter- join the fight, with Nexa eliminating Yekindar and Twistzz, and huNter- taking down cadiaN, accompanied by the distinct sound of a bomb being planted and a commentator exclaiming, \"I know there's a lot here.\" The round culminates in a tense 1v1 clutch between huNter- and Skullz, which huNter- wins with a decisive \"Boom!\" after a commentator asks \"What you got Niko?\", noting \"The util has been so punishing.\" The camera cuts back to the real-world setup, showing the G2 players celebrating with smiles while the Team Liquid coach displays a disappointed expression, as the commentator reflects that \"with Niko dead, that was the one player with any health left remove from the round.\" As the match continues into Round 18 with G2 now leading 11-6, huNter- secures another final kill amidst aggressive pushes and dynamic gunfire, leading the commentator to remark, \"Hunter's gonna have to try and make up for it as they lose HooXi,\" and that \"everyone is so hurt,\" with G2 \"pulling over these.\"",
+        "The video segment opens with a first-person perspective from G2 Esports' player m0NESY on the Anubis map during a critical 3v1 clutch situation at B-site, with G2 leading 11-6. m0NESY, wielding a purple and orange AWP, eliminates Team Liquid's Skullz with a precise headshot, followed by huNter- securing the final kill on cadiaN, completing the clutch. During this, a commentator announces \"Nexa arrives, just in time\" and \"NAF dead,\" then states \"Hunter follows up and that leaves it all on Skullz,\" lamenting Skullz's missed opportunity. The scene then cuts to the real-world arena, showing G2 players celebrating with high-fives and intense reactions, while Team Liquid's coach stands up in disappointment. The commentator continues, \"Nexa will finish the job as G2 sprint towards the promise of Inferno, one round away from taking this one the distance and denying Team Liquid.\" Gameplay resumes in Round 18, with G2 now leading 12-6. Team Liquid pushes B-site, planting the bomb via Twistzz. The commentator observes \"G2 just buying so much time\" and someone \"tries to break the smoke,\" gifting \"Kady in the opener.\" G2 defends fiercely: Nexa eliminates Yekindar and Twistzz with dual pistols, while huNter- takes out cadiaN. HooXi then eliminates NAF, leaving Skullz as the last defender. However, the commentator states, \"with Hooxi knocked out of the round, this one might just have to get written off here and now. They're even going to lose Nico back in the spawn,\" which contradicts HooXi's visual kill. The round ends with the bomb exploding, securing a 12-7 win for G2. The commentator humorously speculates on player morale, saying, \"Monessy at 23 and 6, he's like, hell yeah, I believe we can do it. Nexa, do you believe? Nexa's like, no, I don't,\" and concludes by emphasizing the score: \"And now 12, that's a lot. Five chances, that's a lot.\" Throughout, the HUD displays sponsor logos like Qiddiya, Monster Energy, and DHL, while the background wall features ESL Pro Tour and Intel branding. Players' jerseys show team-specific sponsors: G2 with Logitech and Monster Energy, Team Liquid with Coinbase and Honda. The minimap and in-game environment highlight the sunlit, stone-structured Anubis map with tropical plants and multiple pathways."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 30,
+      "end_minute": 32,
+      "summary": "The Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match on the Ancient and Anubis maps saw G2 Esports take a commanding lead against Team Liquid. Casters JUSTHARRY and HUGO provided commentary, with HUGO noting the return of 'Zeus' to Team Liquid and 'Twistzz' reuniting with him. In an intense round on Ancient, Team Liquid pushed B-site and planted the bomb, but G2 Esports, with m0NESY and Niko coordinating, defended fiercely. m0NESY eliminated NAF, while Nexa took down Yekindar and Twistzz. Despite cadiaN planting the bomb, huNter- secured a kill on him, leading to a 1v1 clutch where huNter- defeated Skullz, updating the score to 12-7. The Team Liquid coach showed visible disappointment. Later, on Anubis, with G2 leading 12-8, m0NESY eliminated NAF with a sniper rifle, and Nexa eliminated Yekindar and Twistzz. Although cadiaN planted the bomb at B-site, huNter- ultimately won the round in a 1v1 clutch against Skullz, securing the victory for G2 Esports. The G2 team celebrated, while the Team Liquid coach reacted with disappointment. Throughout the match, commentators discussed player strategies, eliminations, and the use of utility, highlighting moments of intense action and clutch plays within the sunlit, stone-walled environments.",
+      "involved_entities": {
+        "Yekindar": {
+          "description": "Team Liquid player, eliminated early by Nexa, seen in the feed with a focused expression, wearing a blue and white jersey.",
+          "attribute": "visual"
+        },
+        "Qiddiya": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, shown in the lower third.",
+          "attribute": "visual"
+        },
+        "Logitech": {
+          "description": "Sponsor logo visible on G2's jerseys, displayed on the black jerseys of the G2 players.",
+          "attribute": "visual"
+        },
+        "huNter-": {
+          "description": "G2 player, seen in the feed, using a pistol to eliminate cadiaN, with a calm demeanor, then securing the final kill in the 1v1 clutch against Skullz.",
+          "attribute": "visual"
+        },
+        "Predator": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, displayed in the lower third.",
+          "attribute": "visual"
+        },
+        "ESL Pro Tour": {
+          "description": "Branding visible on the background wall behind the players, with logos for Intel, DHL, Predator, and other sponsors, reinforcing the competitive setting.",
+          "attribute": "visual"
+        },
+        "Anubis Map": {
+          "description": "The game map, a sunlit ancient ruin with stone structures, tropical plants, and multiple pathways, shown in the top-left minimap and in-game environment, with B-site as the focal point, and mentioned by commentators when discussing Team Liquid's push: 'on Anubis'.",
+          "attribute": "audio-visual"
+        },
+        "NAF": {
+          "description": "Team Liquid player, seen in the feed, eliminated by HooXi, wearing a blue and white jersey with a visible tattoo on his arm, reacting to the loss.",
+          "attribute": "visual"
+        },
+        "Monster Energy": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on G2's jerseys, appearing in the lower third.",
+          "attribute": "visual"
+        },
+        "Twistzz": {
+          "description": "Team Liquid player, eliminated by Nexa, shown in the feed with a calm demeanor, wearing a blue and white jersey, heavily discussed by commentators who note 'no peak on the back of it for Twistz,' 'Twistz has missed all these timings,' 'Twistz is gonna trade it out,' and later, despite his elimination, 'Twistz is trying to have a real return of form' and 'riding on the wings of Twistz right now'.",
+          "attribute": "audio-visual"
+        },
+        "cadiaN": {
+          "description": "Team Liquid player, eliminated by huNter-, seen in the feed with a focused expression, wearing a blue and white jersey, planting the bomb at B-site, and referred to as 'Kadian' by commentators who state 'it's Kadian to deal with him'.",
+          "attribute": "audio-visual"
+        },
+        "DHL": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on the background wall, appearing in the lower third of the screen.",
+          "attribute": "visual"
+        },
+        "Nexa": {
+          "description": "G2 player in the bottom-left feed, initially holding a pistol, then switching to a dual-wielded weapon, actively engaging enemies and eliminating Yekindar and Twistzz, consistently referred to as 'Niko' by commentators who exclaim 'Niko's crept into the site' and 'Niko up close,' and later 'Nexa up close'.",
+          "attribute": "audio-visual"
+        },
+        "Skullz": {
+          "description": "Team Liquid player, last remaining, shown in the feed during the 1v1 clutch, wearing a blue and white jersey, reacting with disappointment after being eliminated.",
+          "attribute": "visual"
+        },
+        "m0NESY": {
+          "description": "G2 player with a black jersey, seen in the bottom-left camera feed, using a pistol and later a rifle, with a focused expression, remaining alive throughout the round and eliminating NAF, with commentators highlighting his precision: 'm0NESY's posted, he doesn't miss,' and later calling for 'support from m0NESY' and stating 'm0NESY's gotta do even more'.",
+          "attribute": "audio-visual"
+        },
+        "Intel Extreme Masters Chengdu 2024": {
+          "description": "Event branding visible on the initial graphic and throughout the HUD, featuring logos for Intel, ESL, and Pro Tour, with the match context displayed at the top center.",
+          "attribute": "visual"
+        },
+        "JAK3YCSGO": {
+          "description": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+          "attribute": "visual"
+        },
+        "Team Liquid": {
+          "description": "Team represented by players YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, wearing blue and white jerseys with logos for Coinbase, Honda, and Monster Energy, pushing aggressively at B-site and planting the bomb, ultimately losing the round in a 1v1 clutch, with commentators discussing their commitment and saying 'Team Liquid weren't committed there anymore' and 'keep Team Liquid on Anubis,' and later 'riding on the wings of Twistz'.",
+          "attribute": "audio-visual"
+        },
+        "JEYRAZZ": {
+          "description": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+          "attribute": "visual"
+        },
+        "HooXi": {
+          "description": "G2 player, shown in the feed, using dual pistols to eliminate NAF, with a determined look, contributing to the 1v1 situation.",
+          "attribute": "visual"
+        },
+        "Honda": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys, appearing on the sleeves of the blue and white jerseys.",
+          "attribute": "visual"
+        },
+        "G2 Esports": {
+          "description": "Team represented by players m0NESY, Niko (Nexa), huNter-, nexa, and HooXi, wearing black jerseys with G2 logos and sponsor patches like Logitech and Monster Energy, actively engaging in combat and defending B-site, culminating in a 1v1 clutch win, with commentators noting moments like 'G2 are out of position' and celebrating their victory.",
+          "attribute": "audio-visual"
+        },
+        "HUGO": {
+          "description": "Caster name displayed in the top-right corner, providing commentary, echoing 'Round by round. That's how you look at it,' and offering historical context about 'Zeus' and 'Twistzz's' motivations, as well as play-by-play analysis of m0NESY and huNter-.",
+          "attribute": "audio-visual"
+        },
+        "Coinbase": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys and on the background wall, displayed on the players' sleeves and the arena backdrop.",
+          "attribute": "visual"
+        },
+        "Ancient Map": {
+          "description": "The game map, a sunlit ancient ruin with stone structures, tropical plants, and multiple pathways, shown in the top-left minimap and in-game environment, with B-site as the focal point.",
+          "attribute": "visual"
+        },
+        "Team Liquid Coach": {
+          "description": "A man in a blue and white Team Liquid jersey with a headset, standing up from his seat with a clipboard, displaying a disappointed expression after the round loss.",
+          "attribute": "visual"
+        },
+        "JUSTHARRY": {
+          "description": "Caster name displayed in the top-right corner, providing commentary, including the phrase 'Surely. Round by round.'",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a wide shot of Team Liquid players, in their blue and white Coinbase, Honda, and Monster Energy jerseys, seated at their stations, focused on monitors against an ESL Pro Tour backdrop featuring Intel, DHL, and Predator logos, and 'CHENGDU 2024' branding. Caster JUSTHARRY is heard saying \"Surely. Round by round,\" with HUGO echoing, \"Round by round. That's how you look at it.\" HUGO then provides historical context, noting how he's enjoyed seeing 'Zeus' back behind Liquid, getting \"very hyped, get very loud\" when they were winning, and that 'Twistzz' left his previous team to reunite with 'Zeus' in this project. The scene transitions to intense gameplay on the sunlit, stone-walled Ancient map, where Team Liquid aggressively pushes B-site and plants the bomb. The HUD shows G2 Esports leading 12-6 as the round timer counts down. G2, in black Logitech and Monster Energy jerseys, defends fiercely. A caster observes, \"when you see m0NESY and Niko group up in middle like this, they're gonna do something,\" adding that \"m0NESY loves that group play out through middle.\" Visually, m0NESY eliminates NAF with a rifle, while Nexa, wielding a dual-wielded weapon, takes down Yekindar and Twistzz. Although a caster calls out \"m0NESY's now got the drop on cadiaN here,\" the visual confirms huNter- secures a kill on cadiaN with a pistol. The action culminates in a 1v1 clutch between huNter- and Skullz, with a caster noting that \"Hunter whittled down to 1 HP, barely surviving\" just before huNter- emerges victorious. The screen flashes 'Clutch Situation' as the scoreboard updates to 12-7. The Team Liquid coach, standing with a clipboard, reacts with visible disappointment. Sponsor logos for Intel, DHL, Predator, Qiddiya, and Monster Energy are displayed at the bottom, while caster names JUSTHARRY and HUGO, and observer handles JAK3YCSGO and JEYRAZZ, are visible in the top-right.",
+        "The video segment opens with a first-person perspective of G2 Esports' huNter- navigating the sunlit, stone-walled corridors of the Anubis map during Round 20/24 of the Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match, with G2 leading 12-7. Commentators praise a player's skill, noting \"two or three kills in this round, two of them very hard shots to hit while he's running,\" and how he \"cancels that strafe so well.\" In a tense 1 vs 3 clutch, huNter- eliminates an opponent with a pistol. The scene then cuts to the Team Liquid bench, where their coach, in a blue and white jersey, stands with a clipboard, visibly disappointed. Commentary reflects on the match flow, stating \"round by round, that's two in a row for Liquid,\" and observing that losing \"seven players total across six rounds\" is significant, though they \"do have a lot of money banked up.\" The gameplay returns to Round 21/24, with the score now 12-8, as G2 defends B-site in a 5 vs 5 situation. Commentators detail Team Liquid's strategy, noting \"Yekindar risks it all on a smoke walk in through dark,\" and \"a nice response out of cadiaN.\" They acknowledge G2's huNter-, stating \"they know about huNter, they know where he is, but they well, they'll deal with him.\" The action quickly brings the round \"down to a three on three,\" with the bomb \"dropped back over towards long,\" and \"Skullz might be the candidate nominated to go and get that.\" As tension builds, a commentator remarks, \"this is awkward, this guy takes some serious time.\" The camera follows m0NESY, who eliminates NAF with a pistol, while commentators observe \"Twistzz is leaving, that just leaves NAF alone in dark,\" and that Liquid \"might not even recommit towards B.\" Nexa then eliminates Yekindar and Twistzz with dual-wielded weapons, with commentators adding that \"smoke will not stop Twist, he can come through that gap.\" huNter- eliminates cadiaN, who had planted the bomb, leading to a final 1v1 between huNter- and Skullz. The HUD displays sponsor logos like Qiddiya, Monster Energy, and Intel, while the background wall behind the players features ESL Pro Tour branding with logos for Intel, DHL, and Predator. The minimap in the top-left corner shows strategic positioning around the ancient Egyptian-style B-site. The final moments show huNter- securing the kill in a tense 1v1 clutch, winning the round for G2, as commentators discuss utility like how \"the UTEL's gonna buy them more time,\" the use of \"a remolly,\" and how \"Flash will delay it,\" concluding that \"Remolly and Temple... long enough for the smoke to fade, that's a bit of an issue.\"",
+        "The Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match on the Anubis map unfolds with G2 Esports leading Team Liquid 12-8. As the round begins, G2 defends B-site, and commentators excitedly note \"m0NESY's posted, he doesn't miss\" as m0NESY, wielding a sniper rifle, eliminates NAF. The camera then switches to Nexa, whom the commentators refer to as \"Niko,\" engaging in a fierce firefight, eliminating Yekindar and Twistzz with precise shots, with exclamations of \"Niko up close!\" and discussions about Twistzz's missed timings. Despite Team Liquid's push, which sees cadiaN plant the bomb at B-site, with commentators mentioning \"it's Kadian to deal with him,\" the tension culminates in a 1v1 clutch. Although the commentators continue to discuss Nexa and m0NESY's contributions, huNter- calmly secures the final kill on Skullz, winning the round for G2. The G2 team celebrates with raised fists, while the Team Liquid coach stands up in disappointment. The sunlit ancient ruin environment, complete with stone structures and tropical plants, forms the backdrop, while the HUD displays sponsor logos like DHL, Predator, Qiddiya, Monster Energy, Coinbase, and Honda. G2 players in black jerseys and Team Liquid players in blue and white jerseys are visible in the bottom-left feed, all against a dynamic audio backdrop of commentators providing a play-by-play, noting moments of quiet and intense action, and even discussing Team Liquid's strategy and Twistzz's performance despite his earlier elimination."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 33,
+      "end_minute": 49,
+      "summary": "{\n  \"updated_summary\": \"The Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match on Inferno saw G2 Esports and Team Liquid locked in a fierce battle, with G2 ultimately securing a 13-11 victory. Early rounds on Inferno showcased Team Liquid's strong offensive push, with players like NAF, YEKINDAR, and Twistzz making aggressive plays towards B-site, often met by G2's coordinated defense led by Nexa, huNter-, and m0NESY. Despite Team Liquid establishing an early lead, G2 consistently fought back, often through clutch plays from m0NESY and huNter-. Key moments included m0NESY's impressive 1v1 clutches denying sneaky defuses and securing rounds for G2, while Nexa's dual-wielded pistol eliminations proved critical. The commentators highlighted G2's resilience, noting their ability to \"flip the script\" and \"chain some rounds together\" after falling behind. The match was punctuated by intense firefights, precise sniper shots, and strategic utility usage, with sounds of gunshots, explosions, and UI alerts forming a constant backdrop. Real-world footage showed G2 players celebrating hard-fought round wins with fist pumps and cheers, contrasting with the visible disappointment of the Team Liquid coach. Sponsor logos from Intel, DHL, Predator, Qiddiya, Monster Energy, Logitech, Coinbase, and Honda were prominently displayed throughout the broadcast, underscoring the high-stakes professional esports environment.\"\n}",
+      "involved_entities": {
+        "Yekindar": {
+          "description": "Team Liquid player, eliminated early by Nexa, seen in the feed with a focused expression, wearing a blue and white jersey, whose name is spoken by commentators as 'Yekindar's luck' and with an exclaimed reaction to his elimination: 'Oh, it's just a tag and Yekindar, wow!'",
+          "attribute": "audio-visual"
+        },
+        "Qiddiya": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, shown in the lower third.",
+          "attribute": "visual"
+        },
+        "Logitech": {
+          "description": "Sponsor logo visible on G2's jerseys, displayed on the black jerseys of the G2 players.",
+          "attribute": "visual"
+        },
+        "huNter-": {
+          "description": "G2 player, seen in the feed, using a pistol to eliminate cadiaN, with a calm demeanor, then securing the final kill in the 1v1 clutch against Skullz.",
+          "attribute": "visual"
+        },
+        "Predator": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, displayed in the lower third.",
+          "attribute": "visual"
+        },
+        "ESL Pro Tour": {
+          "description": "Branding visible on the background wall behind the players, with logos for Intel, DHL, Predator, and other sponsors, reinforcing the competitive setting.",
+          "attribute": "visual"
+        },
+        "Anubis Map": {
+          "description": "The game map, a sunlit ancient ruin with stone structures, tropical plants, and multiple pathways, shown in the top-left minimap and in-game environment, with B-site as the focal point.",
+          "attribute": "visual"
+        },
+        "NAF": {
+          "description": "Team Liquid player, seen in the feed, eliminated by HooXi, wearing a blue and white jersey with a visible tattoo on his arm, reacting to the loss, and praised by a commentator for 'great rooting for NAF' and his strategic play 'back port side through boiler'.",
+          "attribute": "audio-visual"
+        },
+        "Monster Energy": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on G2's jerseys, appearing in the lower third.",
+          "attribute": "visual"
+        },
+        "Twistzz": {
+          "description": "Team Liquid player, eliminated by Nexa, shown in the feed with a calm demeanor, wearing a blue and white jersey.",
+          "attribute": "visual"
+        },
+        "cadiaN": {
+          "description": "Team Liquid player, eliminated by huNter-, seen in the feed with a focused expression, wearing a blue and white jersey, planting the bomb at B-site.",
+          "attribute": "visual"
+        },
+        "DHL": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on the background wall, appearing in the lower third of the screen.",
+          "attribute": "visual"
+        },
+        "Nexa": {
+          "description": "G2 player in the bottom-left feed, initially holding a pistol, then switching to a dual-wielded weapon, actively engaging enemies and eliminating Yekindar and Twistzz.",
+          "attribute": "visual"
+        },
+        "Skullz": {
+          "description": "Team Liquid player, last remaining, shown in the feed during the 1v1 clutch, wearing a blue and white jersey, reacting with disappointment after being eliminated.",
+          "attribute": "visual"
+        },
+        "m0NESY": {
+          "description": "G2 player with a black jersey, seen in the bottom-left camera feed, using a pistol and later a rifle, with a focused expression, remaining alive throughout the round and eliminating NAF, whose name is spoken by a commentator in the context of 'Yekindar's luck, V m0NESY'.",
+          "attribute": "audio-visual"
+        },
+        "Intel Extreme Masters Chengdu 2024": {
+          "description": "Event branding visible on the initial graphic and throughout the HUD, featuring logos for Intel, ESL, and Pro Tour, with the match context displayed at the top center.",
+          "attribute": "visual"
+        },
+        "Team Liquid": {
+          "description": "Team represented by players YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, wearing blue and white jerseys with logos for Coinbase, Honda, and Monster Energy, pushing aggressively at B-site and planting the bomb, ultimately losing the round in a 1v1 clutch, with commentators discussing their lead, their push, being stopped by a molly, and hunting saving players.",
+          "attribute": "audio-visual"
+        },
+        "HooXi": {
+          "description": "G2 player, shown in the feed, using dual pistols to eliminate NAF, with a determined look, contributing to the 1v1 situation, and mentioned by a commentator as 'HooXi runs through his teammate's Molotov'.",
+          "attribute": "audio-visual"
+        },
+        "Honda": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys, appearing on the sleeves of the blue and white jerseys.",
+          "attribute": "visual"
+        },
+        "Inferno Map": {
+          "description": "The game map, a Mediterranean-style urban environment with stone buildings, graffiti, and narrow alleys, shown in the top-left minimap and in-game environment, with B-site as the focal point.",
+          "attribute": "visual"
+        },
+        "G2 Esports": {
+          "description": "Team represented by players m0NESY, Niko, huNter-, nexa, and HooXi, wearing black jerseys with G2 logos and sponsor patches like Logitech and Monster Energy, actively engaging in combat and defending B-site, culminating in a 1v1 clutch win, with commentators analyzing their strategy as a 'weird call to block'.",
+          "attribute": "audio-visual"
+        },
+        "Coinbase": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys and on the background wall, displayed on the players' sleeves and the arena backdrop.",
+          "attribute": "visual"
+        },
+        "Team Liquid Coach": {
+          "description": "A man in a blue and white Team Liquid jersey with a headset, standing up from his seat with a clipboard, displaying a disappointed expression after the round loss.",
+          "attribute": "visual"
+        },
+        "JAK3YCSGO": {
+          "description": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+          "attribute": "visual"
+        },
+        "JEYRAZZ": {
+          "description": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+          "attribute": "visual"
+        },
+        "HUGO": {
+          "description": "Caster name displayed in the top-right corner, whose voice contributes to the analytical and play-by-play commentary, alongside JUSTHARRY, describing player actions and strategic situations.",
+          "attribute": "audio-visual"
+        },
+        "JUSTHARRY": {
+          "description": "Caster name displayed in the top-right corner, whose voice provides analytical and play-by-play commentary throughout the segment, describing player actions and strategic situations.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with intense first-person gameplay on the sunlit ancient ruins of the Anubis map during the Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match between G2 Esports and Team Liquid. Commentators describe the critical 1v1 clutch situation, noting \"uncharacteristic misses\" and how \"the bomb lost here as well as NAF took it into this fight on the spawn.\" G2's huNter-, wielding a sniper rifle, eliminates NAF and then Skullz, securing the round for G2 amidst a flurry of game sounds like gunshots and UI alerts. The commentators erupt in excitement, exclaiming, \"G2! Lurch back into form! They shut down the Liquid comeback! And they lock in a third map of Inferno, vying for their spot in the playoffs!\" The scoreboard updates to 13-10 for G2, and the scene cuts to the real-world arena where G2 players, in black jerseys with Logitech and Monster Energy logos, celebrate with high-fives and hugs, their coach behind them. Team Liquid players, in blue and white jerseys with Coinbase and Honda logos, show visible disappointment. The camera then transitions to the Mediterranean-style streets of the Inferno map for the Decider round, with both teams starting with pistols. As gameplay resumes, a commentator analyzes the utility, stating, \"if Twistzz is able to get this smoke in in time, that is a bit of an issue.\" Twistzz from Team Liquid engages in a firefight, eliminating G2's nexa and HooXi before being eliminated himself, accompanied by rapid gunshots. The commentators' excitement builds again, with one exclaiming, \"This is very well countered and the doolies light up G2! Almost ace!\" and another adding, \"Sick guys!\" The round ends with G2 down to 1v5, and the scene cuts back to Team Liquid’s coach, clipboard in hand, visibly frustrated. Sponsor logos like DHL, Predator, Qiddiya, and Intel are prominently displayed on-screen and in the arena backdrop, reinforcing the professional esports setting.",
+        "The Intel Extreme Masters Chengdu 2024 arena opens with a wide shot, showing Team Liquid players in blue and white jerseys, adorned with Coinbase and Honda logos, seated at ESL-branded stations with Logitech peripherals. Energetic commentary begins, praising a 'very well counted' and 'very well handled' play, followed by an 'absolutely slam' as the scene transitions to intense in-game Counter-Strike: Global Offensive action on the Inferno map. This Decider match in the Group Stage sees Team Liquid leading 1-0 in Round 2, pushing aggressively onto B-site against G2 Esports, whose players wear black jerseys with Logitech and Monster Energy branding. The commentators build tension, noting 'all you can do is watch' and reacting with a simple 'nice' to early plays. Gunshots and game sounds punctuate the commentary as G2's Nexa swiftly eliminates Yekindar and Twistzz with precise pistol shots, with a commentator noting a 'Nova bought out for Twists' and recalling him 'warming up with that across this series.' The action intensifies with an 'Oh, oh!' from the commentators as HooXi secures a kill on NAF with dual pistols, and huNter- eliminates cadiaN, who is described as being 'in hot water' in 'enemy territory.' The commentators analyze the situation, mentioning 'think on Nexa' and predicting 'Skullz will block and live' as he becomes the last TL player. However, huNter- ultimately defeats Skullz in a decisive 1v1 clutch, securing the round for G2. The scoreboard updates to 1-1, visually contradicting a commentator's later statement of 'Liquid with 2-0.' Real-time reactions show a G2 player adjusting his headset with focus, while a visibly disappointed Team Liquid coach stands, holding a clipboard. The HUD displays sponsor logos like Intel, DHL, Predator, and Qiddiya, with the minimap highlighting B-site in the sunlit Mediterranean-style urban setting of Inferno, where commentators also mention G2 going 'back up the banana' and a player getting 'turned into mash' by 'that Nova' in a 'pump and dump' play, before anticipating the next round with a 'little D-go opener.'",
+        "The video segment opens with a first-person perspective of a Counter-Strike: Global Offensive match on the Inferno map during the Intel Extreme Masters Chengdu 2024 Group Stage Decider between G2 Esports and Team Liquid. The score is 0-2 in favor of Team Liquid as Round 3 begins, with G2 defending B-site. Commentators discuss players using 'Deagles' and one 'volunteering himself up as tribute' amidst the sounds of gunfire. G2’s Nexa, wielding a dual-wielded weapon, engages from a high vantage point, eliminating Yekindar and Twistzz. Simultaneously, commentators praise Twistzz, exclaiming 'He's having a great day,' and 'Finally! There's the ace! We've had so many nearly aces and it's Twistz to finally get one,' followed by 'Breaking through' and '4K's all day,' referring to his impressive performance. The camera then cuts to the real-world arena, showing G2 players in black jerseys with Logitech and Monster Energy logos, reacting with focus and intensity. The scene returns to gameplay, now Round 4/24, with Team Liquid pushing B-site. A grenade sound is heard as commentators note 'They can't even sit on ramp.' cadiaN plants the bomb, and commentators observe 'their barrel gives Kadian full warning, he hits his shot.' G2’s huNter- eliminates cadiaN with a pistol. The round becomes a tense 1v1 between m0NESY and Skullz. As m0NESY secures the clutch win, eliminating Skullz with a rifle from his perspective, the commentators declare, 'Even re-aggresses! Twistz still flawless! 11 and zero! Finally, they learn that he's mortal after all, but he's done enough to win the round for Team Liquid,' and later, 'Twistz is bottled up,' despite G2 visually winning the round. The HUD displays sponsor logos like Intel, DHL, Predator, Qiddiya, and Monster Energy, while the background wall features ESL Pro Tour branding. G2 players celebrate the round win, with Nexa standing up and clenching his fist in triumph. The Team Liquid coach, wearing a blue and white jersey with Coinbase and Honda logos, stands up with a clipboard, visibly disappointed. The match continues with G2 now leading 1-3, and the players reset for the next round.",
+        "The segment opens with a 'Counter-terrorists win' sound effect, followed by commentators discussing previous map performances and setting the stage for Round 6 of the Intel Extreme Masters Chengdu 2024 Group Stage on the Inferno map. The scoreboard shows G2 Esports at 0 and Team Liquid at 4, with commentators noting Liquid's 'flawless' scoreline and how they are 'absolutely rocking G2's world.' As G2’s m0NESY and HooXi defend B-site from a first-person perspective, Team Liquid pushes aggressively, accompanied by intense gunshots and commentator remarks highlighting 'pressure on YEKINDAR on the MP9' and how 'YEKINDAR takes it one step further.' G2's defense holds strong, with Nexa eliminating YEKINDAR and Twistzz, followed by huNter- taking down cadiaN. Commentators describe the B-site push as 'whittling down' and ultimately failing to 'take shape.' The round culminates in a tense 1v1 clutch between HooXi and Skullz, with HooXi securing the kill to win the round for G2. This prompts visible relief and celebration from G2 players in real-life footage, while Team Liquid’s coach stands up in disappointment. An 'Intel Moments of Brilliance' highlight then shows NAF’s elimination by HooXi, as commentators retrospectively praise NAF's 'play through the smoke' from a previous round and remark that 'Skullz isn't overdoing it.' The scene concludes with G2 players focused and composed, surrounded by ESL Pro Tour and sponsor logos like Intel, DHL, Predator, and Qiddiya, all within the sunlit Mediterranean-style Inferno map.",
+        "The Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match on Inferno unfolds at B-site, with G2 Esports (black jerseys) defending against Team Liquid (blue and white) while facing a 0-5 deficit. The sunlit Mediterranean urban environment, featuring stone buildings and a blue van, is quickly filled with intense gunfire and smoke grenades. Commentary highlights early action, noting Niko was 'naded again,' potentially for the fourth consecutive round. G2's Nexa, wielding dual weapons, swiftly eliminates Yekindar and Twistzz in quick succession. Despite commentators observing Twistzz 'going hog wild' and initially suggesting 'HooXi gets him by chance,' the visual confirms Nexa's double kill. HuNter- then secures a pistol kill on cadiaN, who was seen planting the bomb, with commentators noting 'Hunter has crept his way all up short.' The round escalates into a dramatic 1v1 clutch between HooXi and Skullz, with commentators exclaiming 'Skullz! Oh dear, he gets undone instead' as HooXi eliminates Skullz to win the round. The G2 players erupt in celebration, HooXi raising his fist, while the Team Liquid coach stands in visible disappointment. Sponsor logos like Intel, ESL, DHL, Predator, Qiddiya, and Monster Energy are prominently displayed on the HUD and jerseys throughout the high-stakes action.",
+        "The segment opens with a first-person perspective of a tense Counter-Strike: Global Offensive match on the Inferno map during IEM Chengdu 2024, showing Team Liquid leading G2 Esports 6-0 in Round 7. Caster HUGO sets the scene by highlighting G2's struggle, noting they've won \"only one of the last 11 rounds played\" and need to \"get back to their winning ways.\" As TL pushes the B-site, an explosion sounds, and Caster JUSTHARRY describes \"another nice nade,\" but criticizes G2's defensive play, stating they \"don't even clear [YEKINDAR] properly\" and that \"he is just completely forgotten about.\" Despite TL's aggressive push, YEKINDAR is eliminated by nexa, followed by Twistzz falling to Nexa's dual pistols. The round culminates in a dramatic 1v1 clutch as G2's huNter- eliminates cadiaN with a precise pistol shot, then secures the round by eliminating Skullz. The casters confirm G2's crucial win, with HUGO declaring, \"G2 make that 12 rounds now,\" shifting the score to 6-1. This victory is met with excited shouts of \"Good fucking shit!\" and \"Nice one!\" from G2 players, including huNter- and m0NESY who are seen celebrating on camera, while TL's coach stands up in disappointment. The scene transitions to Round 8, with TL again pushing the B-site in the sunlit Mediterranean environment. YEKINDAR engages, eliminating Niko before being eliminated himself by Nexa. JUSTHARRY observes G2 players looking \"mindful as heck,\" while HUGO describes \"two Mollys forced out very early.\" JUSTHARRY continues to comment on YEKINDAR's \"timing on the clear\" and Niko's inability to \"get in his groove,\" with HUGO adding that a missed opportunity \"felt like a guaranteed kill for him,\" as YEKINDAR is left \"still alone\" at the round's close. The HUD displays various sponsor logos, with casters JUSTHARRY and HUGO providing continuous, high-energy commentary throughout the intense firefights.",
+        "The segment opens with intense commentary describing a high-stakes round from Intel Extreme Masters Chengdu 2024 on the Inferno map, as G2 Esports, starting at 0-7, defends B-site against an aggressive Team Liquid push. Gunshots punctuate the action as commentators highlight G2's \"nice play\" and \"bursting heads.\" From a first-person perspective, Nexa is seen eliminating Yekindar and Twistzz with precise shots, while huNter- takes down cadiaN, who had just planted the bomb. Commentators note Team Liquid's initial confidence, believing the round \"should be over\" after Yekindar's actions, but G2 \"flips the script.\" Footsteps are heard as Skullz is spotted, leading to a tense 1v1 clutch. The commentators build suspense, stating \"now it's Skullz, do or die,\" as m0NESY, using a pistol and then a rifle, engages. After a flurry of gunshots, m0NESY secures the clutch against Skullz, prompting the commentators to exclaim, \"m0NESY is one step too far!\" and declare that G2 \"finally get on the board\" on the back of his clutch. Visually, G2 players Nexa and m0NESY celebrate their hard-fought win, while the Team Liquid coach stands up in visible disappointment, all against the backdrop of the sunlit Mediterranean map and prominent sponsor logos. The crowd erupts in cheers and applause, underscoring the high-stakes victory.",
+        "The video opens with a wide shot of the Intel Extreme Masters Chengdu 2024 stage, showcasing G2 Esports players in black jerseys and Team Liquid players in blue and white. The scene quickly transitions to intense in-game Counter-Strike: Global Offensive on the Inferno map, with G2 trailing 1-7 in Round 9. As the action unfolds, a commentator immediately sets the scene for \"the one-v-one.\" From G2’s cadiaN's perspective, using a sniper rifle at B-site, gunshots ring out, and a commentator exclaims \"woo!\" as cadiaN eliminates Yekindar with a precise headshot, described as \"plucked.\" The commentator identifies \"cadiaN\" and notes his \"stay mobile\" playstyle, adding that \"he's been quick\" despite rumors of being \"a little under the weather.\" The camera switches to Nexa, who, with dual-wielded weapons, eliminates Twistzz and then Yekindar again amidst more gunshots, prompting a commentator's \"Okay.\" The commentator then identifies \"Skullz\" as hearing more. huNter- follows up, eliminating cadiaN with a pistol, leaving G2 with three players. Commentators describe Team Liquid's \"comfortable position\" to \"reset and regroup.\" Nexa then engages Skullz, eliminating him with a rifle shot, and HooXi eliminates NAF with dual pistols, setting up a 1v1 clutch. The commentator highlights Nexa's previous performance, stating he \"was the guy who opened up the last round\" and is \"gonna have to do it all over again,\" describing him \"creeping up through short\" and \"keen to deliver,\" securing \"that opener onto Twist.\" They also note a player was \"blinded by the flashbang\" and \"cadiaN lending a helping hand to his teammate.\" huNter- secures the final kill with a pistol against Skullz, winning the round for G2. Throughout, sponsor logos like DHL, Predator, Qiddiya, and Monster Energy are visible, while the ESL Pro Tour and Intel branding appear on the HUD. The Team Liquid coach is seen visibly disappointed after the round loss.",
+        "The minute opens with a first-person perspective from G2's huNter- on the Inferno map during IEM Chengdu 2024, with G2 trailing 1-7 against Team Liquid in a 2v3 situation. A commentator describes huNter- taking a shot, noting he \"lands a tag to huNter-\" as he eliminates YEKINDAR, with game sounds of gunshots and smoke. The commentator then sets up Liquid for a retake, mentioning they are \"a man up in the 3v2,\" and describes huNter- being \"down low after that orb just sinks its teeth into him on the smoke break.\" The scene shifts to NIKO, with the commentator suggesting \"Niko might have to do the heavy lifting here\" and recalling \"I've seen Niko wreak havoc in this exact position\" amidst game sounds. NIKO engages in a firefight, eliminating NAF with a rifle, prompting intense commentary: \"One kill from Niko! Wide up the double! Just cadiaN left to deal with!\" and \"Niko lights up Team Liquid! That's now two in a row for G2!\", accompanied by gunshots and UI sounds. A live feed shows G2 players in black jerseys, adorned with Logitech and Monster Energy logos, reacting with intense focus and celebration. The commentator reflects on G2's performance, noting \"It's been a long time since they're winning ways, but they start to chain some rounds together now.\" Gameplay resumes with NAF from Team Liquid in a 1v1 against m0NESY, who eliminates him with a pistol, ending the round with G2 winning 2-7, leading to player celebrations. In the next round, with G2 on defense, the camera follows NAF from Team Liquid pushing B-site, where a commentator describes him as being \"in a very dedicated position here\" and that he \"gets out with the double kill!\", before NAF is eliminated by Nexa. The commentator also mentions \"Nexa trying to get out through the apartments.\" The round continues with Skullz from Team Liquid in a 1v1 against huNter-, who secures the kill, winning the round for G2. The final scene shows the Team Liquid coach, in a blue and white jersey with Coinbase and Honda logos, standing up with a clipboard, displaying clear disappointment. The sunlit Mediterranean-style urban environment of Inferno, with its stone buildings and graffiti, is consistently visible, along with HUD sponsor logos for DHL, Predator, Qiddiya, Monster Energy, and Intel, and background branding for Intel Extreme Masters and ESL Pro Tour.",
+        "The segment opens with intense Counter-Strike: Global Offensive gameplay on the Inferno map during the Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match, as casters JUSTHARRY and HUGO provide dynamic commentary. Visually, G2 Esports, in black jerseys with Logitech and Monster Energy logos, are defending B-site against Team Liquid, in blue and white jerseys with Coinbase and Honda logos, with the scoreboard showing G2 trailing 2-8. The audio features the casters discussing Team Liquid's strategy, noting \"Yekindar's missed the timing on this jiggle\" and a grenade coming out \"way too soon\" as HooXi chases an opponent down. Gunshots punctuate the action as G2’s Nexa engages enemies, with the caster exclaiming he's \"cleared out by Nexa!\" after eliminating Twistzz. The casters describe the situation as \"dire straits for Liquid\" despite their \"good damage.\" The intense firefight continues with more gunshots and the sound of a smoke grenade, as the casters suggest it \"might just seal the deal on attempting this round.\" Visually, HooXi takes down NAF with dual pistols, and the bomb is planted by cadiaN before G2’s huNter- eliminates him with a pistol. The round culminates in a dramatic 1v1 clutch between huNter- and Skullz, with huNter- securing the win amidst a flurry of gunshots. The camera then cuts to the real-world arena, showing the visibly disappointed Team Liquid coach with a clipboard, while G2 players celebrate their hard-fought round win. Sponsor logos like Intel, DHL, Predator, Qiddiya, and Monster Energy are visible on-screen and on jerseys, reinforcing the competitive environment, all observed by JAK3YCSGO and JEYRAZZ.",
+        "The Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match on Inferno unfolds with high tension. The first round sees G2 Esports defending B-site, where m0NESY, using a pistol, executes a \"cheeky\" 1v1 clutch against NAF, denying him a \"sneaky defuse\" as the bomb explodes, securing the \"G2 round.\" The casters highlight m0NESY's decisive play as G2 players celebrate, with m0NESY raising his fist in triumph, while the Team Liquid coach shows visible disappointment. The scene transitions to the next round, with Team Liquid pushing B-site and cadiaN planting the bomb. Commentary notes \"Yekindar's got one on B\" before G2 responds aggressively, with Nexa eliminating Yekindar and Twistzz. huNter- then takes down cadiaN with a pistol. As \"G2 try to battle back in,\" led by m0NESY and Niko, the round culminates in a 1v1 between HooXi and Skullz, with HooXi securing the kill to win the round. Throughout the intense gameplay, the HUD displays vital player information, sponsor logos like DHL, Predator, Qiddiya, and Monster Energy are visible, and the sunlit Mediterranean-style Inferno map provides the backdrop. Team branding is clear, with G2 in black (Logitech, Monster Energy) and Team Liquid in blue and white (Coinbase, Honda), all reinforcing the competitive ESL Pro Tour setting. Casters also provide context on G2's \"man disadvantages\" in previous rounds.",
+        "The Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match on the sunlit Inferno map captures a high-stakes round where G2 Esports, in black jerseys, defends B-site against Team Liquid, in blue and white, with G2 trailing 3-8. From G2’s m0NESY’s first-person perspective, the intense 4v3 situation unfolds as commentators describe Team Liquid as \"left wanting in this retake,\" desperately seeking a \"call to arms.\" Gunfire erupts, and the commentators announce \"Skullz falls as m0NESY is swift to deal with him,\" followed by \"Twistz dead.\" Visually, Nexa eliminates Yekindar and Twistzz, while HooXi takes down NAF. The commentators highlight \"just Kadyan left standing,\" noting he \"can't do it all alone\" and is \"pulling strings right now.\" As the action intensifies, Nexa is identified by commentators as the \"first point of contact,\" who \"lays waste to Team Liquid\" with \"m0NESY by his side.\" The round culminates in a critical 1v1 clutch between G2's huNter- and Team Liquid's Skullz, with huNter- securing the final kill to win the round for G2, bringing the score to 5-8. The commentators exclaim, \"that is a pistol round locked in,\" praising \"Hot hands, the best P2K player in the game right now.\" Post-round, G2 players celebrate their hard-fought victory, while Team Liquid's disappointment is palpable, with their coach standing with a clipboard. The HUD prominently displays sponsor logos like Intel, Predator, DHL, and Qiddiya, alongside match data and player feeds, all set against ESL Pro Tour branding.",
+        "The Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match on the sunlit Inferno map intensifies as G2 Esports, trailing 5-8, defends B-site against Team Liquid. Commentators set the scene, noting Liquid is \"looking for the B split\" and HooXi's potential to \"slow them down.\" G2's Nexa, dual-wielding, swiftly eliminates Yekindar and Twistzz. HooXi follows up with a pistol kill on NAF, reducing Team Liquid to two players, a turn of events the commentator observes as \"what was once looking so good for Team Liquid is all called into question.\" m0NESY then \"shines through\" by eliminating cadiaN, who had just planted the bomb, leading to a tense 1v1 clutch between G2's huNter- and Liquid's Skullz. huNter- secures the round, bringing G2's score to 6-8. The G2 players, particularly Nexa and huNter-, erupt in visible celebration at their desk, while the Team Liquid coach stands up in clear disappointment. The action quickly resumes in Round 16, with G2 now 5v4. Commentators exclaim, \"A positive desk slam for Nico! Thank goodness he's a game leader!\" as Niko repositions and \"tears through Team Liquid,\" eliminating Yekindar in a decisive firefight. The round concludes with G2 winning 6-8 as the timer hits zero, solidifying a \"fantastic round for Nico\" and G2's strong defense, all against the backdrop of the Mediterranean-style Inferno map with sponsor logos like Intel, ESL, DHL, Predator, Qiddiya, and Monster Energy prominently displayed on the HUD and player jerseys.",
+        "The Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match on the sunlit Inferno map unfolds with G2 Esports in a high-stakes 4v1 clutch against Team Liquid. Commentators set the scene, anticipating Team Liquid's push through B-site, noting the expiring molly. Rapid gunshots erupt as G2's Nexa eliminates YEKINDAR, followed by Niko taking down Twistzz, prompting an excited commentator to exclaim, \"Niko, Niko willt, Niko lends a helping hand!\" More intense gunshots and commentary about a player being \"deleted by the pistols\" accompany the action as huNter- eliminates cadiaN, who had just planted the bomb at B-site. The bomb is swiftly defused, confirmed by a distinct sound, securing an 8-7 round win for G2. The scene transitions to real-life footage of G2 players, including Nexa and huNter-, celebrating with visible relief, while the Team Liquid coach stands up in disappointment. The commentators continue to analyze Team Liquid's \"persistence\" and \"crosshairs\" as a 'Moments of Brilliance' replay showcases key eliminations, including HooXi taking out NAF and huNter- securing the final 1v1 against Skullz. The intense atmosphere is palpable, underscored by the continuous sounds of combat and the dynamic commentary, all set against the Mediterranean backdrop of the Inferno map, adorned with various sponsor logos like Intel, ESL, DHL, Predator, Qiddiya, Monster Energy, Coinbase, and Honda.",
+        "The video opens with a close-up of G2 Esports player m0NESY, intensely focused at his station during the Intel Extreme Masters Chengdu 2024 event, with ESL Pro Tour branding and sponsor logos like Intel, DHL, and Logitech visible. The segment is punctuated by rapid gunshots as commentators begin, with one noting a player is \"holding the line.\" The scene transitions to intense in-game footage on the Inferno map, where G2 is defending B-site in a critical 5v4 situation against Team Liquid, trailing 7-9. Commentators exclaim, \"he's ripe to get this one is m0NESY,\" as m0NESY, using a sniper rifle, eliminates YEKINDAR and Twistzz from long range. The commentator continues, \"he's having a field day, third kill in the round, it's all m0NESY,\" amidst more gunshots. HooXi and huNter- secure kills with pistols, reducing Team Liquid to one player. An explosion sound marks the round becoming a 1v1 clutch as NAF is eliminated by HooXi, leaving Skullz as the last man standing. Commentators declare, \"this one gets closed out cleanly, G2 right back to it.\" The camera cuts to the G2 players’ reactions—m0NESY celebrates with a fist pump, while Nexa and huNter- show relief. The round ends with huNter- eliminating Skullz, tying the score at 9-9. The next round begins with G2 on offense, and Nexa, referred to as \"the next\" by commentators, using a dual-wielded weapon, eliminates YEKINDAR and Twistzz in quick succession. The scene shifts to huNter- engaging cadiaN, who plants the bomb at B-site, with a commentator noting, \"that was the bomb on the back of cadiaN doing that as well.\" Despite heavy smoke and flashbangs, huNter- eliminates cadiaN, and Nexa secures the final kill on Skullz, winning the round 10-9. Commentators mention \"still huNter- here to find\" and YEKINDAR \"can't quite deal with him.\" The G2 players celebrate, with Nexa raising his hand in triumph, while the Team Liquid coach stands up, visibly disappointed. The HUD displays sponsor logos like Monster Energy, Qiddiya, and 1XBET, and the minimap shows the Inferno layout, enhancing the tense, high-stakes atmosphere with dynamic lighting and smoke effects.",
+        "The Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match between G2 Esports and Team Liquid, tied at 9-9 in Round 18 on the Inferno map, unfolds with intense commentary and the sounds of combat. The action begins near the B-site as G2’s m0NESY, wielding a colorful AWP, engages Team Liquid’s NAF. Commentators excitedly narrate, noting \"m0NESY needs more\" and his \"lightning fast\" actions, as m0NESY eliminates NAF with a precise headshot. Despite this, a commentator later mistakenly celebrates, exclaiming \"Naf swung on and he'll hold the line. Naf locks it in.\" The scene then shifts to G2’s Nexa, who swiftly eliminates Yekindar and Twistzz in quick succession, reducing Team Liquid to just cadiaN and Skullz. Game sounds of gunshots and a bomb plant are heard as cadiaN plants the bomb at B-site, with commentators confirming \"bomb plant in for Liquid\" and \"bomb has been planted,\" also mentioning \"Katie and naded out\" (referring to cadiaN). G2’s huNter- then takes down cadiaN with a clean pistol shot. The round culminates in a tense 1v1 between G2’s huNter- and Team Liquid’s Skullz, with huNter- securing the final kill after a brief firefight, winning the round for G2, even as a commentator earlier stated \"Hunter dealt with.\" The camera cuts to the real-world players, showing G2’s Nexa and huNter- celebrating with raised fists, while Team Liquid’s coach stands up in disappointment. The sunlit Mediterranean-style urban map, Inferno, with its stone buildings and graffiti, is visible, along with sponsor logos like Intel, ESL, Predator, DHL, Qiddiya, Monster Energy, Coinbase, and Honda on the HUD and background walls, reinforcing the competitive esports setting.",
+        "The segment opens with a close-up of Team Liquid players, in their blue and white jerseys featuring Coinbase, Honda, and Monster Energy logos, seated in ESL-branded gaming chairs at the Intel Extreme Masters Chengdu 2024 event, against a backdrop of prominent ESL, Intel, DHL, and Predator branding with purple ambient lighting. Commentators immediately highlight Team Liquid's performance, with one stating, \"And Liquid with nothing to go off of, secure double digits, maintain this lead over G2,\" and later adding, \"Refusing to let G2 have that lead for even a moment.\" The scene transitions to in-game footage from the Inferno map, where Team Liquid is pushing aggressively at B-site against G2 Esports, with the score tied at 9-9 in Round 19. A commentator praises NAF's strategic play, noting, \"What great rooting for NAF as well, they go back port side through boiler,\" as NAF is shown in a first-person perspective engaging enemies with a colorful rifle, leading to TL winning the round 10-9. As Round 20 begins with TL leading 10-9, the gameplay shifts to a tense 1v1 clutch situation at B-site. Commentators mention \"Yekindar's luck, V m0NESY\" and react to Yekindar's elimination with an exclaimed, \"Oh, it's just a tag and Yekindar, wow!\" G2’s m0NESY, HooXi, and huNter- are eliminated, leaving only Nexa alive, while on the TL side, Yekindar, Twistzz, and cadiaN are eliminated, leaving Skullz as the last man standing. A commentator observes, \"HooXi runs through his teammate's Molotov,\" and later analyzes G2's strategy as \"such a weird call for G2 to block.\" Nexa, using a dual-wielded weapon, eliminates Yekindar and Twistzz, and huNter- eliminates cadiaN, who had planted the bomb. The final 1v1 sees huNter- eliminate Skullz, securing the round for G2. Throughout the intense gameplay, gunshots, character movement, and UI sounds are prominent, alongside the commentators' detailed analysis. The video concludes with the G2 players celebrating their triumphant win, while the Team Liquid coach stands up, visibly disappointed, all within the sunlit Mediterranean-style urban setting of Inferno, with the HUD displaying match context, player stats, and sponsor logos like Intel, 1xBet, DHL, Predator, and Qiddiya."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 50,
+      "end_minute": 50,
+      "summary": "During the Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match on Inferno, Team Liquid secured a 10-9 round win against G2 Esports after cadiaN planted the bomb on the B-site, despite a fierce defense from G2's nexa and huNter-. Nexa eliminated Yekindar and Twistzz with a dual-wielded weapon, while huNter- used a pistol to kill cadiaN, but the bomb's explosion ultimately favored Team Liquid. Commentators noted G2's limited weaponry, with nexa potentially needing to buy a Famas. The subsequent round saw Team Liquid push again, with HooXi getting smoked off towards B and huNter- being neutralized, though G2's m0NESY and Niko were eliminated early. The round concluded in a 1v1 clutch where HooXi eliminated NAF, and huNter- secured the round for G2 by eliminating Skullz, leading to celebrations from the players and a relieved reaction from their coach against the backdrop of the sunlit Inferno map featuring sponsor logos from DHL, Predator, and Monster Energy.",
+      "involved_entities": {
+        "Yekindar": {
+          "description": "Team Liquid player, eliminated early by Nexa, seen in the feed with a focused expression, wearing a blue and white jersey, with commentators mentioning 'Monesy hits the tag on Yekindar' and speculating he's 'probably screaming, come B'.",
+          "attribute": "audio-visual"
+        },
+        "Qiddiya": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, shown in the lower third.",
+          "attribute": "visual"
+        },
+        "Logitech": {
+          "description": "Sponsor logo visible on G2's jerseys, displayed on the black jerseys of the G2 players.",
+          "attribute": "visual"
+        },
+        "huNter-": {
+          "description": "G2 player, seen in the feed, using a pistol to eliminate cadiaN, with a calm demeanor, then securing the final kill in the 1v1 clutch against Skullz, described by commentators as 'creeping down through middle' and, despite commentary stating he was 'mopped up' and his AK 'irretrievable,' visually secures the final kill.",
+          "attribute": "audio-visual"
+        },
+        "Predator": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, displayed in the lower third.",
+          "attribute": "visual"
+        },
+        "ESL Pro Tour": {
+          "description": "Branding visible on the background wall behind the players, with logos for Intel, DHL, Predator, and other sponsors, reinforcing the competitive setting.",
+          "attribute": "visual"
+        },
+        "NAF": {
+          "description": "Team Liquid player, seen in the feed, eliminated by HooXi, wearing a blue and white jersey with a visible tattoo on his arm, reacting to the loss, with commentators noting he 'does not give them the room'.",
+          "attribute": "audio-visual"
+        },
+        "Monster Energy": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on G2's jerseys, appearing in the lower third.",
+          "attribute": "visual"
+        },
+        "Twistzz": {
+          "description": "Team Liquid player, eliminated by Nexa, shown in the feed with a calm demeanor, wearing a blue and white jersey.",
+          "attribute": "visual"
+        },
+        "cadiaN": {
+          "description": "Team Liquid player, eliminated by huNter-, seen in the feed with a focused expression, wearing a blue and white jersey, planting the bomb at B-site.",
+          "attribute": "visual"
+        },
+        "DHL": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on the background wall, appearing in the lower third of the screen.",
+          "attribute": "visual"
+        },
+        "Nexa": {
+          "description": "G2 player in the bottom-left feed, initially holding a pistol, then switching to a dual-wielded weapon, actively engaging enemies and eliminating Yekindar and Twistzz, with commentators speculating he might 'buy a Famas'.",
+          "attribute": "audio-visual"
+        },
+        "Skullz": {
+          "description": "Team Liquid player, last remaining, shown in the feed during the 1v1 clutch, wearing a blue and white jersey, reacting with disappointment after being eliminated.",
+          "attribute": "visual"
+        },
+        "m0NESY": {
+          "description": "G2 player with a black jersey, seen in the bottom-left camera feed, using a pistol and later a rifle, with a focused expression, remaining alive throughout the round and eliminating NAF.",
+          "attribute": "visual"
+        },
+        "Intel Extreme Masters Chengdu 2024": {
+          "description": "Event branding visible on the initial graphic and throughout the HUD, featuring logos for Intel, ESL, and Pro Tour, with the match context displayed at the top center.",
+          "attribute": "visual"
+        },
+        "Team Liquid": {
+          "description": "Team represented by players YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, wearing blue and white jerseys with logos for Coinbase, Honda, and Monster Energy, pushing aggressively at B-site and planting the bomb, ultimately losing the round in a 1v1 clutch, with commentators stating they are 'a one round away from solidifying a spot'.",
+          "attribute": "audio-visual"
+        },
+        "HooXi": {
+          "description": "G2 player, shown in the feed, using dual pistols to eliminate NAF, with a determined look, contributing to the 1v1 situation, described by commentators as 'alone over towards B' before being 'smoked off' early, yet visually makes a key elimination in the clutch.",
+          "attribute": "audio-visual"
+        },
+        "Honda": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys, appearing on the sleeves of the blue and white jerseys.",
+          "attribute": "visual"
+        },
+        "Inferno Map": {
+          "description": "The game map, a Mediterranean-style urban environment with stone buildings, graffiti, and narrow alleys, shown in the top-left minimap and in-game environment, with B-site as the focal point.",
+          "attribute": "visual"
+        },
+        "G2 Esports": {
+          "description": "Team represented by players m0NESY, Niko, huNter-, nexa, and HooXi, wearing black jerseys with G2 logos and sponsor patches like Logitech and Monster Energy, actively engaging in combat and defending B-site, culminating in a 1v1 clutch win, with commentators noting their 'frustrating round' and limited 'two guns' and 'no more rifles'.",
+          "attribute": "audio-visual"
+        },
+        "Coinbase": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys and on the background wall, displayed on the players' sleeves and the arena backdrop.",
+          "attribute": "visual"
+        },
+        "Team Liquid Coach": {
+          "description": "A man in a blue and white Team Liquid jersey with a headset, standing up from his seat with a clipboard, displaying a disappointed expression after the round loss.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The Intel Extreme Masters Chengdu 2024 Group Stage Advancement Match on Inferno sees G2 Esports (9-10) battling Team Liquid (10-11) in a Decider round. Commentators note G2's 'frustrating round' as Team Liquid pushes B-site, with cadiaN planting the bomb, accompanied by a distinct beeping sound. G2, down to nexa and huNter-, defends fiercely. Nexa, wielding a colorful dual-wielded weapon, eliminates Yekindar and Twistzz in quick succession, while huNter- secures a kill on cadiaN with a pistol. Commentators mention 'Monesy hits the tag on Yekindar' and speculate 'Yekindar's probably screaming, come B' before he's headshot. The bomb explodes with a loud boom, and Team Liquid wins the round 11-9, leaving G2's nexa and huNter- focused but frustrated, and their coach visibly disappointed. Commentators discuss G2's limited weaponry, noting 'only two guns' and 'you will not have more rifles,' unless 'Nexa buys a Famas.' The next round begins with Team Liquid pushing again. Commentators describe 'Hunter will continue creeping down through middle' and 'HooXi alone over towards B,' who 'gets smoked off' early. They further state that 'even though Hunter is arriving... he's mopped up' and his AK is 'irretrievable.' Despite this commentary suggesting their neutralization, the visual shows G2’s m0NESY and Niko are eliminated early, but the round culminates in a thrilling 1v1 clutch where HooXi eliminates NAF, with commentators noting 'Naf does not give them the room,' and huNter- finishes off Skullz, securing the round for G2. The players celebrate, with huNter- raising his fist, and the coach reacting with relief and intensity, all against the backdrop of the sunlit Inferno map with its stone buildings and sponsor logos like DHL, Predator, and Monster Energy."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 51,
+      "end_minute": 51,
+      "summary": "At the Intel Extreme Masters Chengdu 2024, G2 Esports and Team Liquid engaged in a critical round on the Inferno map, with Team Liquid holding a 9-12 lead as G2 defended the B-site. Commentators highlighted Niko's risky play, supported by HooXi's flash support, as Team Liquid initiated a push with Yekindar's aggressive entry. G2's Nexa quickly eliminated Yekindar and Twistzz, and HooXi took down NAF, leaving Team Liquid with two players, a situation commentators suggested gave G2 a fighting chance with HooXi credited for three kills. Despite cadiaN planting the bomb at B-site, commentators initially stated it was not planted, describing cadiaN in an advantageous AWP position before huNter- eliminated him post-plant. Commentators then declared a Team Liquid victory, stating \"Liquid rise up! Stopping G2 in their tracks,\" however, the in-game visuals showed huNter- winning a tense 1v1 clutch against Skullz to secure the round for G2. The real-world stage captured G2 players celebrating with hugs and high-fives, a stark contrast to the disappointed Team Liquid coach and the audibly misreported commentary, all set against the backdrop of the professional esports arena featuring sponsors like Intel, ESL, DHL, Predator, Qiddiya, and Monster Energy.",
+      "involved_entities": {
+        "Yekindar": {
+          "description": "Team Liquid player, visually eliminated by Nexa, with commentators noting him 'running and gunning for the entry.'",
+          "attribute": "audio-visual"
+        },
+        "Qiddiya": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, shown in the lower third.",
+          "attribute": "visual"
+        },
+        "Logitech": {
+          "description": "Sponsor logo visible on G2's jerseys, displayed on the black jerseys of the G2 players.",
+          "attribute": "visual"
+        },
+        "huNter-": {
+          "description": "G2 player, visually eliminates CadiaN and then Skullz in a decisive 1v1 clutch to secure the round for G2.",
+          "attribute": "audio-visual"
+        },
+        "Predator": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay, displayed in the lower third.",
+          "attribute": "visual"
+        },
+        "ESL Pro Tour": {
+          "description": "Branding visible on the background wall behind the players, with logos for Intel, DHL, Predator, and other sponsors, reinforcing the competitive setting.",
+          "attribute": "visual"
+        },
+        "NAF": {
+          "description": "Team Liquid player, visually eliminated by HooXi.",
+          "attribute": "audio-visual"
+        },
+        "Monster Energy": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on G2's jerseys, appearing in the lower third.",
+          "attribute": "visual"
+        },
+        "Twistzz": {
+          "description": "Team Liquid player, visually eliminated by Nexa.",
+          "attribute": "audio-visual"
+        },
+        "cadiaN": {
+          "description": "Team Liquid player, visually plants the bomb at B-site and is then eliminated by huNter-, despite commentators describing him as 'posted back of the site on this AWP' and ultimately 'walking it over the line' to win the round for Team Liquid.",
+          "attribute": "audio-visual"
+        },
+        "DHL": {
+          "description": "Sponsor logo visible on the bottom of the screen during gameplay and on the background wall, appearing in the lower third of the screen.",
+          "attribute": "visual"
+        },
+        "Nexa": {
+          "description": "G2 player, visually eliminates Yekindar and Twistzz during the B-site defense.",
+          "attribute": "audio-visual"
+        },
+        "Skullz": {
+          "description": "Team Liquid player, last remaining, visually eliminated by huNter- in the final 1v1 clutch.",
+          "attribute": "audio-visual"
+        },
+        "m0NESY": {
+          "description": "G2 player with a black jersey, seen in the bottom-left camera feed, using a pistol and later a rifle, with a focused expression, remaining alive throughout the round and eliminating NAF.",
+          "attribute": "visual"
+        },
+        "Intel Extreme Masters Chengdu 2024": {
+          "description": "Event branding visible on the initial graphic and throughout the HUD, featuring logos for Intel, ESL, and Pro Tour, with the match context displayed at the top center.",
+          "attribute": "visual"
+        },
+        "Team Liquid": {
+          "description": "The team, visually seen losing the round, with their coach showing disappointment, while commentators mistakenly declare them the winners, with CadiaN 'walking it over the line' and the team 'rising up.'",
+          "attribute": "audio-visual"
+        },
+        "HooXi": {
+          "description": "G2 player, visually eliminates NAF, though commentators mistakenly attribute 'three kills in the round' to him and mention him 'holding flashes' for Niko.",
+          "attribute": "audio-visual"
+        },
+        "Honda": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys, appearing on the sleeves of the blue and white jerseys.",
+          "attribute": "visual"
+        },
+        "Inferno Map": {
+          "description": "The game map, a Mediterranean-style urban environment with stone buildings, graffiti, and narrow alleys, shown in the top-left minimap and in-game environment, with B-site as the focal point.",
+          "attribute": "visual"
+        },
+        "G2 Esports": {
+          "description": "The team, visually seen celebrating a crucial round win with hugs and high-fives, despite the commentators' mistaken declaration of a Team Liquid victory, with their 'fighting chance' being noted by the commentators.",
+          "attribute": "audio-visual"
+        },
+        "Coinbase": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys and on the background wall, displayed on the players' sleeves and the arena backdrop.",
+          "attribute": "visual"
+        },
+        "Team Liquid Coach": {
+          "description": "A man in a blue and white Team Liquid jersey, visually stands up with a disappointed expression after the round loss, contrasting with the commentators' declaration of a Liquid win.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens at the Intel Extreme Masters Chengdu 2024, showcasing G2 Esports and Team Liquid competing in a decisive round on the Inferno map. As the scene transitions to intense first-person in-game footage, G2 defends B-site with Team Liquid leading 9-12. Commentators discuss the playoffs, noting \"Niko risking it all here\" and \"HooXi's holding flashes for him.\" Team Liquid pushes, with a commentator exclaiming \"Yekindar comes running and gunning for the entry.\" Visually, G2's Nexa swiftly eliminates Yekindar and Twistzz, while HooXi takes down NAF, reducing Team Liquid to two players. The commentator, however, attributes \"three kills in the round\" to HooXi, stating it \"gives G2 a fighting chance.\" Despite the visual action of CadiaN planting the bomb at B-site, the commentator declares \"Bomb still not planted\" and describes \"CadiaN now posted back of the site on this AWP, dream position.\" Visually, huNter- quickly eliminates CadiaN after the plant. The commentator continues, describing CadiaN's AWP as a threat and then dramatically announcing \"CadiaN will walk it over the line!\" and \"Liquid rise up! Stopping G2 in their tracks,\" implying a Team Liquid victory. However, the visuals show huNter- securing a tense 1v1 clutch against the last remaining player, Skullz, to win the round for G2. The scene cuts back to the real-world stage where G2 players celebrate with hugs and high-fives, while Team Liquid’s coach stands disappointed, contrasting sharply with the audio commentary's declaration of a Liquid win. The professional esports arena, with sponsor logos like Intel, ESL, DHL, Predator, Qiddiya, and Monster Energy, provides the backdrop for this intense, if audibly misreported, round."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 52,
+      "end_minute": 52,
+      "summary": "Following a vibrant post-match celebration at Intel Extreme Masters Chengdu 2024, Team Liquid players, including YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, embraced in a joyous group hug, their blue and white jerseys featuring Coinbase, Honda, and Monster Energy logos. The background displayed a dark blue wall branded with Intel, ESL, DHL, and Predator logos. Commentators noted Team Liquid's victory in a lengthy BO3 series, stating that while Inferno might be a home map for G2 Esports, Liquid had now \"planted their flag here,\" having \"at least locked in quarter-finals.\" They further emphasized this was Liquid's first Tier 1 LAN since January, a significant opportunity they seized, marking a positive step in the right direction towards their high goals. The scene then transitioned to a dark screen before revealing a detailed scoreboard overlay showcasing comprehensive match statistics for G2 and Team Liquid, with Team Liquid’s Twistzz and NAF leading in performance metrics like K-D ratios, ADR, KAST, and ratings, all presented on a clean, dark interface with white text.",
+      "involved_entities": {
+        "Qiddiya": {
+          "description": "Sponsor logo visible in the lower third of the screen, shown in white text on a dark background.",
+          "attribute": "visual"
+        },
+        "Intel Extreme Masters Chengdu 2024": {
+          "description": "Event branding visible on the background wall and in the scoreboard overlay, featuring logos for Intel, ESL, DHL, Predator, and other sponsors, reinforcing the competitive setting.",
+          "attribute": "visual"
+        },
+        "Logitech": {
+          "description": "Sponsor logo visible on G2's jerseys, displayed on the black jerseys of the G2 players, though not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Team Liquid": {
+          "description": "Team represented by players YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, wearing blue and white jerseys with logos for Coinbase, Honda, and Monster Energy, seen celebrating together in a group hug, displaying joy and camaraderie after winning a lengthy BO3 series, securing their first Tier 1 LAN quarter-finals since January, with high expectations for their future performance.",
+          "attribute": "audio-visual"
+        },
+        "Predator": {
+          "description": "Sponsor logo visible on the background wall and in the lower third of the screen, displayed in black and white.",
+          "attribute": "visual"
+        },
+        "ESL Pro Tour": {
+          "description": "Branding visible on the background wall behind the players, with logos for Intel, DHL, Predator, and other sponsors, reinforcing the professional esports environment.",
+          "attribute": "visual"
+        },
+        "Honda": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys, appearing on the sleeves of the blue and white jerseys.",
+          "attribute": "visual"
+        },
+        "Scoreboard Overlay": {
+          "description": "A detailed statistical display showing player performance metrics for G2 and Team Liquid, including K-D, +/-, ADR, KAST, and Rating, with Team Liquid’s Twistzz and NAF highlighted for strong performance.",
+          "attribute": "visual"
+        },
+        "G2 Esports": {
+          "description": "Team represented by players m0NESY, Niko, huNter-, nexa, and HooXi, wearing black jerseys with G2 logos and sponsor patches, not visible in this segment but referenced by commentators as the opponent whose 'home map' might have been Inferno, and whose statistics are displayed on the scoreboard.",
+          "attribute": "audio-visual"
+        },
+        "Coinbase": {
+          "description": "Sponsor logo visible on Team Liquid's jerseys and on the background wall, displayed on the sleeves and backdrop.",
+          "attribute": "visual"
+        },
+        "Monster Energy": {
+          "description": "Sponsor logo visible on the background wall and on G2's jerseys, appearing in green and black.",
+          "attribute": "visual"
+        },
+        "Team Liquid Coach": {
+          "description": "Not visible in this segment, but referenced in the context as a man in a blue and white jersey with a headset, standing with a clipboard.",
+          "attribute": "visual"
+        },
+        "DHL": {
+          "description": "Sponsor logo visible on the background wall and in the lower third of the screen, appearing in yellow and black.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a vibrant post-match celebration at Intel Extreme Masters Chengdu 2024, as Team Liquid players, including YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, clad in their blue and white jerseys adorned with Coinbase, Honda, and Monster Energy logos, embrace in a joyous group hug, displaying profound camaraderie and relief. The background features a dark blue wall prominently branded with Intel, ESL, DHL, and Predator logos, reinforcing the professional esports setting. As the camera pans across the triumphant team, two commentators provide analysis, noting that Team Liquid secured their victory \"in a lengthy BO3 series.\" They elaborate that while \"Inferno might be a home map for the G2 squad,\" Liquid has now \"planted their flag here,\" having \"at least locked in quarter-finals.\" The second commentator adds that this marks \"Liquid's first Tier 1 LAN since Jan and they don't waste the opportunity,\" emphasizing that this is \"only the first step for Liquid, high expectations, high goals, but they're on the right direction.\" Following the commentators' remarks, the scene transitions to a dark screen before revealing a detailed scoreboard overlay. This professional graphic displays comprehensive match statistics for both G2 and Team Liquid, highlighting individual player performances with metrics like K-D ratios, ADR, KAST, and ratings, with Team Liquid’s Twistzz and NAF notably leading in performance, all presented with a clean, dark interface and white text, typical of esports broadcasts."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Qiddiya": "Sponsor logo visible in the lower third of the screen, shown in white text on a dark background.",
+    "Predator": "Sponsor logo visible on the background wall and in the lower third of the screen, displayed in black and white.",
+    "ESL Pro Tour": "Branding visible on the background wall behind the players, with logos for Intel, DHL, Predator, and other sponsors, reinforcing the professional esports environment.",
+    "NAF": "Team Liquid player, visually eliminated by HooXi.",
+    "Monster Energy": "Sponsor logo visible on the background wall and on G2's jerseys, appearing in green and black.",
+    "Twistzz": "Team Liquid player, visually eliminated by Nexa.",
+    "cadiaN": "Team Liquid player, visually plants the bomb at B-site and is then eliminated by huNter-, despite commentators describing him as 'posted back of the site on this AWP' and ultimately 'walking it over the line' to win the round for Team Liquid.",
+    "DHL": "Sponsor logo visible on the background wall and in the lower third of the screen, appearing in yellow and black.",
+    "Intel Extreme Masters Chengdu 2024": "Event branding visible on the background wall and in the scoreboard overlay, featuring logos for Intel, ESL, DHL, Predator, and other sponsors, reinforcing the competitive setting.",
+    "JAK3YCSGO": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+    "HooXi": "G2 player, visually eliminates NAF, though commentators mistakenly attribute 'three kills in the round' to him and mention him 'holding flashes' for Niko.",
+    "Honda": "Sponsor logo visible on Team Liquid's jerseys, appearing on the sleeves of the blue and white jerseys.",
+    "HUGO": "Caster name displayed in the top-right corner, whose voice contributes to the analytical and play-by-play commentary, alongside JUSTHARRY, describing player actions and strategic situations.",
+    "Yekindar": "Team Liquid player, visually eliminated by Nexa, with commentators noting him 'running and gunning for the entry.'",
+    "Logitech": "Sponsor logo visible on G2's jerseys, displayed on the black jerseys of the G2 players, though not visible in this segment.",
+    "huNter-": "G2 player, visually eliminates CadiaN and then Skullz in a decisive 1v1 clutch to secure the round for G2.",
+    "Nexa": "G2 player, visually eliminates Yekindar and Twistzz during the B-site defense.",
+    "Skullz": "Team Liquid player, last remaining, visually eliminated by huNter- in the final 1v1 clutch.",
+    "m0NESY": "G2 player with a black jersey, seen in the bottom-left camera feed, using a pistol and later a rifle, with a focused expression, remaining alive throughout the round and eliminating NAF.",
+    "Team Liquid": "Team represented by players YEKINDAR, NAF, Twistzz, cadiaN, and Skullz, wearing blue and white jerseys with logos for Coinbase, Honda, and Monster Energy, seen celebrating together in a group hug, displaying joy and camaraderie after winning a lengthy BO3 series, securing their first Tier 1 LAN quarter-finals since January, with high expectations for their future performance.",
+    "JEYRAZZ": "Observer handle displayed in the top-right corner, indicating live observer feed.",
+    "G2 Esports": "Team represented by players m0NESY, Niko, huNter-, nexa, and HooXi, wearing black jerseys with G2 logos and sponsor patches, not visible in this segment but referenced by commentators as the opponent whose 'home map' might have been Inferno, and whose statistics are displayed on the scoreboard.",
+    "Coinbase": "Sponsor logo visible on Team Liquid's jerseys and on the background wall, displayed on the sleeves and backdrop.",
+    "Ancient Map": "The game map, a sunlit ancient ruin with stone structures, tropical plants, and multiple pathways, shown in the top-left minimap and in-game environment, with B-site as the focal point.",
+    "JUSTHARRY": "Caster name displayed in the top-right corner, whose voice provides analytical and play-by-play commentary throughout the segment, describing player actions and strategic situations.",
+    "Team Liquid Coach": "Not visible in this segment, but referenced in the context as a man in a blue and white jersey with a headset, standing with a clipboard.",
+    "Anubis Map": "The game map, a sunlit ancient ruin with stone structures, tropical plants, and multiple pathways, shown in the top-left minimap and in-game environment, with B-site as the focal point.",
+    "Inferno Map": "The game map, a Mediterranean-style urban environment with stone buildings, graffiti, and narrow alleys, shown in the top-left minimap and in-game environment, with B-site as the focal point.",
+    "Scoreboard Overlay": "A detailed statistical display showing player performance metrics for G2 and Team Liquid, including K-D, +/-, ADR, KAST, and Rating, with Team Liquid’s Twistzz and NAF highlighted for strong performance."
+  }
+}

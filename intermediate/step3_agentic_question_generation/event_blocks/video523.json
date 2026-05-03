@@ -1,0 +1,526 @@
+{
+  "video_id": "video523",
+  "audio_id": "video523_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 6,
+      "summary": "The narrative of Earth's history begins with the PBS Digital Studios logo and an ethereal chime, transitioning to a view of Earth from space with inquisitive orchestral music. A man in a denim shirt explains the immense timescale of life on Earth, illustrated by scenes of a lioness and a pterosaur. He details how scientists use rocks, like layered formations and ancient marine life animations, to understand this history, with the geological timeline and 'EONS' appearing over a prehistoric landscape with dinosaurs. The man further explains the geologic timescale, referencing Nicolas Steno's laws of stratigraphy, visually supported by a layered sedimentary rock illustration, and Giovanni Arduino's rock layer naming, shown through snow-capped mountains and a historical geological sketch with 'PRIMARY,' 'SECONDARY,' 'TERTIARY,' and 'QUATERNARY' labels. The challenge of a universal time scale is highlighted by images of rugged cliffs, desert rock faces, and sedimentary rock close-ups, before William Smith is introduced as the one who found the solution: fossils, exemplified by trilobite and ammonite images. The segment then showcases ancient rocks, a 4.03 billion-year-old gneiss sample and a 3.8 billion-year-old supracrustal rock, as scientists look for early geologic events. Portraits of Steno, Arduino, and Smith appear, crediting them for the 'Geologic Time Scale,' which is then animated, detailing 'EONS,' 'ERAS,' 'PERIODS,' 'EPOCHS,' and 'AGES' from 4.6 billion years ago to the present. The man discusses the utility of time increments, with the timeline inset, and introduces the largest slices of time, eons, beginning with the Hadean Eon (4.6–4 billion years ago), characterized by molten Earth, volcanic eruptions, and lightning storms, where life may have begun despite the harsh conditions. Organic carbon in Hadean rocks suggests the earliest single-celled life, with the Earth's crust cooling to initiate the Archean Eon (4–2.5 billion years ago), named for 'origin,' where life flourished, forming stromatolites, illustrated by fossils from Glacier National Park and Western Australia. Cyanobacteria emerged, poised to transform the atmosphere, leading to the Proterozoic Eon ('earlier life,' 2.5 billion years ago – 541 million years ago), marked by photosynthetic bacteria and multicellular life. The development of 'ancestral eukaryotes,' cells with nuclei, is shown through animated cell division, leading to complex life forms like Charnia and Dickinsonia fossils. This diversification ushered in the Phanerozoic Eon ('visible life,' 541 million years ago – present), home to trees, dinosaurs, and humans, depicted by ferns, dinosaurs, and a cityscape. The narrative progresses to the Phanerozoic's 'eras,' starting with the Paleozoic Era (541–252 million years ago), the first era of the current eon.",
+      "involved_entities": {
+        "Earth Image Inset": {
+          "description": "A framed image of Earth from space, showing continents and oceans illuminated by sunlight, displayed to the left of the speaker during the Hadean Eon explanation.",
+          "attribute": "visual"
+        },
+        "Man in Denim Shirt": {
+          "description": "A man with short hair, wearing a dark denim shirt over a white t-shirt, standing against a dark textured background, using expressive hand gestures while speaking with a clear, informative, and occasionally humorous tone, engaging directly with the camera.",
+          "attribute": "audio-visual"
+        },
+        "Underwater Prehistoric Scene": {
+          "description": "An animated deep-sea environment with greenish hues, light rays penetrating from above, and floating particles, serving as the background for the Proterozoic Eon title card and transition, emphasizing the era's aquatic evolution and the emergence of photosynthetic bacteria and multicellular life.",
+          "attribute": "audio-visual"
+        },
+        "Layered Rock Formation": {
+          "description": "A cross-section of sedimentary rock with distinct horizontal layers of varying colors and textures, with a vertical white line and text labels 'NEWER' at the top and 'OLDER' at the bottom, visually illustrating Steno's principle that layers closer to the surface are younger than those below them.",
+          "attribute": "audio-visual"
+        },
+        "Geological Timeline": {
+          "description": "A full-screen animated timeline with horizontal bars labeled 'EONS', 'ERAS', 'PERIODS', 'EPOCHS', and 'AGES', color-coded and spanning from 4.6 billion years ago to the present day, appearing first as an inset highlighting the 'PHANEROZOIC EON' (identified by the speaker as the \"next and current eon\"), then expanding to full screen, and later reappearing as the speaker discusses exploring \"eras.\"",
+          "attribute": "audio-visual"
+        },
+        "PBS Digital Studios Logo": {
+          "description": "A colorful logo with the letters 'PBS' in blue, orange, and green, followed by 'DIGITAL STUDIOS' in gray, sketched-style text, accompanied by a distinct, ethereal electronic chime sound.",
+          "attribute": "audio-visual"
+        },
+        "Earth from Space": {
+          "description": "A view of Earth from orbit, showing its curvature, blue atmosphere, and cloud patterns against the blackness of space, used as a background for the Hadean Eon title card.",
+          "attribute": "visual"
+        },
+        "Pterosaur": {
+          "description": "A large flying reptile with a long beak and membranous wings, soaring over a dense green forest.",
+          "attribute": "visual"
+        },
+        "Prehistoric Landscape with Dinosaurs": {
+          "description": "A wide animated scene of a volcanic landscape with mountains, a shallow sea, and numerous stromatolite-like structures, visually representing the Phanerozoic Eon, specifically the era when \"dinosaurs\" existed, as mentioned by the speaker.",
+          "attribute": "audio-visual"
+        },
+        "Sedimentary Rock Inset": {
+          "description": "A close-up image of layered sedimentary rock, shown in a white-bordered frame to the right of the speaker.",
+          "attribute": "visual"
+        },
+        "Lioness": {
+          "description": "A tawny lioness walking through dry grassland with mountains in the background.",
+          "attribute": "visual"
+        },
+        "William Smith Portrait": {
+          "description": "A portrait of William Smith, an older man with white hair and a dark coat, labeled 'WILLIAM SMITH', identified by the speaker as the one who 'figured out the solution to this problem: fossils' by comparing ancient organisms, and later explicitly named as one of the 'early geologists' who contributed to the Geologic Time Scale.",
+          "attribute": "audio-visual"
+        },
+        "Giovanni Arduino Bust": {
+          "description": "A black-and-white bust image of Giovanni Arduino, labeled 'GIOVANNI ARDUINO', explicitly named by the speaker as one of the 'early geologists' who contributed to the Geologic Time Scale.",
+          "attribute": "audio-visual"
+        },
+        "Historical Geological Sketch": {
+          "description": "A hand-drawn geological cross-section with handwritten annotations, overlaid with the red text labels 'PRIMARY,' 'SECONDARY,' 'TERTIARY,' and 'QUATERNARY', representing Arduino's classification of rock layers based on their depth and composition, including metamorphic, volcanic, hard sedimentary, and softer alluvial deposits.",
+          "attribute": "audio-visual"
+        },
+        "Snow-Capped Mountains Image": {
+          "description": "A photograph of a mountain range with sharp peaks and snow-covered slopes, shown in a white-bordered frame, visually representing the 'Italian Alps' that Giovanni Arduino studied.",
+          "attribute": "audio-visual"
+        },
+        "Nicolas Steno Portrait": {
+          "description": "A historical portrait of Nicolas Steno in clerical attire, holding a cross, labeled 'NICOLAS STENO', explicitly named by the speaker as one of the 'early geologists' who contributed to the Geologic Time Scale.",
+          "attribute": "audio-visual"
+        },
+        "Desert Rock Face": {
+          "description": "A wide shot of a desert rock formation with visible sedimentary layers and sparse vegetation, shown in a white-bordered frame.",
+          "attribute": "visual"
+        },
+        "Rugged Cliff Formation": {
+          "description": "A close-up of a steep, layered rock cliff with gray and brown strata, shown in a white-bordered frame.",
+          "attribute": "visual"
+        },
+        "Geological Timeline Inset": {
+          "description": "A smaller version of the geological timeline, shown in a white-bordered frame to the right of the speaker, as he continues to explain the Hadean Eon.",
+          "attribute": "visual"
+        },
+        "Fossil Illustration": {
+          "description": "A framed illustration showing various fossilized shells and marine organisms, including a nautiloid, brachiopod, and trilobite, displayed to the left of the speaker as he discusses the importance of 'fossils' and 'ancient organisms'.",
+          "attribute": "audio-visual"
+        },
+        "4.03 Billion Year Old Gneiss Sample": {
+          "description": "A close-up image of a dark, layered rock with yellowish veins, labeled '4.03 BILLION YEAR OLD SAMPLE OF GNEISS FROM CANADA' with credit to Mike Beauregard, shown as the speaker discusses 'ancient rocks' and 'earliest major geologic events'.",
+          "attribute": "audio-visual"
+        },
+        "3.8 Billion Year Old Supracrustal Rock": {
+          "description": "A greenish, layered rock sample with white and dark green bands, labeled 'SUPRACRUSTAL ROCK FROM GREENLAND, DATED 3.8 BILLION YEARS OLD' with credit to James St. John, shown as the speaker discusses 'ancient rocks' and 'earliest major geologic events'.",
+          "attribute": "audio-visual"
+        },
+        "Fossil Images Stack": {
+          "description": "A vertical stack of three fossil images—trilobites, ammonites, and another trilobite—each in a white-bordered frame, separated by dotted lines, shown to the right of the speaker as he explains how 'trilobites are found below ammonite fossils'.",
+          "attribute": "audio-visual"
+        },
+        "Lightning Storm Image": {
+          "description": "A framed image of a stormy sky with multiple lightning strikes, used to depict the violent weather and 'raging storms' of the Hadean Eon as described by the speaker.",
+          "attribute": "audio-visual"
+        },
+        "Hadean Eon Title Card": {
+          "description": "A dark, atmospheric title card with white text reading 'HADEAN EON' and '4.6 - 4 billion years ago', set against a blurred background of Earth from space, explicitly named and dated by the speaker as the 'earliest eon' and described as a 'hellish' period.",
+          "attribute": "audio-visual"
+        },
+        "Molten Earth Image": {
+          "description": "A framed image of a partially molten Earth with glowing red lava cracks and blue oceans, credited to 'IMAGE BY SIMONE MARCHI', illustrating the early planet's state and the cooling of the Earth's crust that ended the Hadean Eon.",
+          "attribute": "audio-visual"
+        },
+        "Volcanic Eruption Image": {
+          "description": "A framed image of a fiery volcanic eruption with lava and ash, shown to illustrate the speaker's description of the chaotic, 'hellish' conditions of the early Earth, including 'volcanic activity'.",
+          "attribute": "audio-visual"
+        },
+        "Glowing Microbial Colonies Inset": {
+          "description": "A framed image of numerous green, glowing circular shapes resembling microbial colonies, shown as the speaker discusses the appearance of cyanobacteria that changed the atmosphere.",
+          "attribute": "audio-visual"
+        },
+        "Stromatolite Fossils in Glacier National Park": {
+          "description": "A close-up image of layered, colorful rock with wavy patterns, labeled 'STROMATOLITE FOSSILS IN GLACIER NATIONAL PARK' and credited to James St. John, shown as an example of fossils left by early microbes, specifically called stromatolites.",
+          "attribute": "audio-visual"
+        },
+        "Stromatolites in Western Australia": {
+          "description": "A photograph of rounded, grayish stromatolite structures in shallow water, labeled 'STROMATOLITES IN WESTERN AUSTRALIA' and credited to Ruth Ellison, presented as an example of the very oldest stromatolites dating from the Archean.",
+          "attribute": "audio-visual"
+        },
+        "Proterozoic Eon Title Card": {
+          "description": "A full-screen title card with white text 'PROTEROZOIC EON' and '2.5 billion years ago – 541 million years ago', set against a deep green underwater scene with light rays, with a timeline on the left, signifying the era of 'earlier life' and the emergence of photosynthetic bacteria and multicellular forms.",
+          "attribute": "audio-visual"
+        },
+        "Archean Eon Title Card": {
+          "description": "A dark, atmospheric title card with white text reading 'ARCHEAN EON' and '4 - 2.5 billion years ago', set against a blurred background with a timeline on the left listing eons and eras, marking the beginning of the Archean Eon, which is named for the Greek word for origin.",
+          "attribute": "audio-visual"
+        },
+        "Hadean Rock Collection Site": {
+          "description": "A framed image of a red, layered desert rock formation with sparse vegetation, labeled 'HADEAN ROCK COLLECTION SITE' and credited to R. Buick / Univ. of Washington, presented as visual evidence of organic carbon in Hadean rocks, suggesting the earliest life.",
+          "attribute": "audio-visual"
+        },
+        "Dickinsonia Fossil Image": {
+          "description": "A framed fossil image of a fan-shaped, ribbed organism labeled 'DICKINSONIA', credited to Verisimilus at English Wikipedia, shown against a dark background, explicitly described by the speaker as \"plate-shaped.\"",
+          "attribute": "audio-visual"
+        },
+        "ERAS Title Card": {
+          "description": "A large, bold white text 'ERAS' overlaid on a dramatic animated scene of dinosaurs in a misty, prehistoric landscape, serving as a visual transition as the speaker introduces the concept of exploring the Phanerozoic Eon through its \"eras.\"",
+          "attribute": "audio-visual"
+        },
+        "Modern Cityscape": {
+          "description": "An aerial view of a bustling city square with pedestrians, a yellow tram, and modern buildings under bright sunlight, visually representing \"us humans\" and \"life as we know it\" as mentioned by the speaker when describing the Phanerozoic Eon.",
+          "attribute": "audio-visual"
+        },
+        "Eukaryotes Animation": {
+          "description": "An animated sequence showing a single green, textured eukaryotic cell dividing into two within a blue, glowing environment, with the label 'EUKARYOTES' in the lower-left corner, explicitly described by the speaker as \"ancestral eukaryotes\" with a nucleus and organelles wrapped in membranes.",
+          "attribute": "audio-visual"
+        },
+        "Paleozoic Era Title Card": {
+          "description": "A dark title card with white text reading 'PALEOZOIC ERA' and '541–252 million years ago', set against a blurred background of the prehistoric dinosaur scene, with the geological timeline visible on the left, explicitly named by the speaker as \"the first era of our current eon.\"",
+          "attribute": "audio-visual"
+        },
+        "Charnia Fossil Image": {
+          "description": "A framed fossil image of a segmented, leaf-like organism labeled 'CHARNIA', credited to Verisimilus at English Wikipedia, shown against a dark background, explicitly described by the speaker as \"frond-like.\"",
+          "attribute": "audio-visual"
+        },
+        "Ferns in Forest": {
+          "description": "A close-up of vibrant green ferns with curled fronds in a lush, sun-dappled forest environment, visually representing \"trees\" as mentioned by the speaker when describing life in the Phanerozoic Eon.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with the PBS Digital Studios logo, accompanied by a distinct, ethereal electronic chime. This transitions to a breathtaking view of Earth from space, set to a gentle, inquisitive orchestral background score. A man in a denim shirt and beige pants then appears against a dark textured background, speaking expressively about the 4-billion-year tale of life on Earth and the difficulty humans have in comprehending such vast stretches of time. As he narrates, scenes of a tawny lioness walking through a savanna and a large pterosaur flying over a lush forest are interspersed. The man continues, explaining how scientists use rocks to understand life's history, which is visually reinforced by a layered rock formation and an animated underwater scene featuring ancient marine creatures like a trilobite and a nautiloid. The background music swells to a grander, more prominent orchestral sound as a geological timeline appears, followed by the word 'EONS' overlaid on a misty prehistoric landscape with dinosaurs. The man reappears, gesturing as he explains the geologic timescale, first with an inset image of layered sedimentary rock, then with an image of Earth from space, continuing his articulate and engaging explanation of Earth's ancient history.",
+        "The video opens with the Man in Denim Shirt, speaking expressively against a dark textured background, discussing what actually happened in deep time and in what order. He introduces Danish scientist Nicolas Steno, whose portrait in clerical attire and a book cover titled 'NICOLAI STENONIS DE SOLIDO INTRA SOLIDUM NATURALITER CONTENTO DISSERTATIONIS PRODROMUS' appear to his right, noting Steno published the first laws of stratigraphy—the science of interpreting the strata or layers of rock in Earth's outer surface. A close-up of a Layered Rock Formation, with a vertical white line and text labels 'NEWER' at the top and 'OLDER' at the bottom, visually illustrates Steno's principle that layers closer to the surface must be younger than the layers below them. The speaker returns, gesturing with open hands, emphasizing that this was a pretty revolutionary idea in Steno's day. He then introduces Italian geologist Giovanni Arduino, whose black-and-white bust image appears, explaining that Arduino went a step further by naming the layers of rock. A photograph of snow-capped mountains appears as the speaker mentions that in the 1760s, Arduino studied the Italian Alps, organizing their layers based on their depth and composition. This is followed by a historical sketch of a geological cross-section with handwritten annotations, overlaid with the red text labels 'PRIMARY,' 'SECONDARY,' 'TERTIARY,' and 'QUATERNARY,' representing Arduino's classification of the lowest metamorphic and volcanic rocks, hard sedimentary rocks, and softer alluvial deposits. A series of real rock formations—first a rugged, layered cliff, then a desert rock face with visible strata, and finally a close-up of a sedimentary rock layer—are shown as the speaker explains that because rock layers don't appear in the same order all over the world, there was no way for geologists to compare rocks from one location to another, meaning there could be no universal time scale. The speaker reappears, gesturing with his hands, before introducing English geologist William Smith, whose portrait appears to his right.",
+        "The segment opens with the Man in Denim Shirt, speaking directly to the camera with expressive hand gestures, explaining how William Smith \"figured out the solution to this problem: fossils.\" As he elaborates, a framed illustration of various fossilized shells and marine organisms appears to his side, followed by a vertical stack of three fossil images—trilobites, ammonites, and another trilobite—as he details how Smith \"realized that fossils of many early species of trilobites are found below ammonite fossils.\" The scene then transitions to close-up images of ancient rocks: a 4.03 billion-year-old gneiss sample from Canada, and a 3.8 billion-year-old supracrustal rock from Greenland, both labeled with age and credits, as the speaker notes that scientists can \"look for signs of the very earliest major geologic events.\" The speaker reappears, now with historical portraits of Nicolas Steno, Giovanni Arduino, and William Smith displayed to his right, labeled with their names, as he credits these \"early geologists\" for the \"Geologic Time Scale\" (GTS). The text 'GEOLOGIC TIME SCALE' appears below the portraits. The video then shifts to a full-screen animated Geological Timeline, showing color-coded horizontal bars for 'EONS', 'ERAS', 'PERIODS', 'EPOCHS', and 'AGES', progressing from 4.6 billion years ago to the present, as the speaker explains the GTS \"has been reworked many times\" and \"is organized into five subgroups.\" The speaker returns, gesturing as he continues to explain the utility of organizing time in increments, with the Geological Timeline now shown in a smaller inset to his right.",
+        "The video opens with the Man in Denim Shirt, speaking directly to the camera with expressive hand gestures, discussing what life might have looked like in the past, as a white-bordered inset to his right displays a color-coded geological timeline labeled 'EONS' and 'ERAS'. He explains that while they'll take a top-level view, smaller increments like periods and epochs allow for more specific questions about climate and life adaptation. The scene transitions to a full-screen version of the detailed geological timeline, now showing 'PERIODS' and 'EPOCHS' with a finer color gradient, as the speaker continues, stating they will explore the biggest picture of Earth's history by touring all the eons and eras. He defines eons as the largest slices of time, ranging from a half billion to nearly 2 billion years long. A dramatic animated scene labeled 'EONS' then appears, depicting a prehistoric underwater environment with ancient marine life like trilobites and nautiloids, accompanied by a subtle, informative background music. This transitions to a dark, atmospheric title card for the 'HADEAN EON' (4.6–4 billion years ago), set against a blurred Earth from space, as the speaker introduces it as the earliest eon, beginning with Earth's formation around 4.6 billion years ago and ending 4 billion years ago. The speaker reappears full-body, with a vertical timeline on the left listing the Hadean, Archean, Proterozoic, and Paleozoic eras, explaining that the Hadean is unique for having no fossils because the world back then was \"just hell,\" named after the Greek underworld Hades. The video then shows a series of dramatic, white-bordered visualizations illustrating the chaotic conditions of the early Earth: a molten Earth with glowing lava cracks, a fiery volcanic eruption, and a stormy sky with lightning, as the speaker describes the planet being \"racked by volcanic activity, cosmic bombardments, raging storms and temperatures that were at times hot enough to melt rock.\" The Man in Denim Shirt returns, gesturing with open hands to emphasize the immense scale and harshness of the Hadean Eon, noting that even in this \"searing wasteland,\" life may have been able to begin.",
+        "The Man in Denim Shirt, speaking directly to the camera with expressive hand gestures, begins by discussing the Hadean Eon. He explains that while no fossils have been found, organic carbon in Hadean rocks (illustrated by an inset of a red, layered desert rock formation labeled 'HADEAN ROCK COLLECTION SITE') suggests the earliest life. He describes these first organisms as tiny and single-celled, yet capable of shaping the planet's future, marking a major benchmark. The Hadean Eon concluded with the Earth's crust cooling (visualized by a framed image of a molten Earth with glowing red lava cracks and blue oceans), preparing for continent formation. This cooling initiated the Archean Eon, spanning 4 to 2.5 billion years ago, as a full-screen title card for the 'ARCHEAN EON' appears against a dark, starry background with a timeline. The Man in Denim Shirt returns, explaining the Archean Eon's name derives from the Greek word for origin, and clarifies it was when life truly flourished, forming microbial mats in primordial seas. The scene cuts to a wide animated prehistoric landscape featuring volcanic mountains and a shallow sea filled with stromatolite-like structures. He states the fossils left by these microbes are called stromatolites or stromatoliths, illustrated by a close-up of layered rock labeled 'STROMATOLITE FOSSILS IN GLACIER NATIONAL PARK,' followed by an image of stromatolites in Western Australia, which he notes are among the oldest, dating from the Archean. The speaker returns, gesturing, explaining that during this time, the atmosphere was primarily carbon dioxide, but the emergence of cyanobacteria (shown in an inset of glowing green microbial colonies) was poised to transform it. Then, 2.5 billion years ago, the Archean transitioned into the Proterozoic Eon, meaning 'earlier life,' as a full-screen title card for the 'PROTEROZOIC EON' appears against a deep green underwater scene with light rays. The timeline remains visible on the left as the scene fades into the underwater environment, emphasizing the era's aquatic evolution, while the speaker mentions the emergence of photosynthetic bacteria and multicellular life around this time.",
+        "The video opens with an animated depiction of eukaryotic cells dividing in a blue, ethereal environment, labeled 'EUKARYOTES', accompanied by a consistent, light instrumental background music. The Man in Denim Shirt, speaking with a clear, informative tone, explains how increased oxygen led to the development of \"ancestral eukaryotes,\" describing them as cells with a nucleus and organelles wrapped in membranes. He continues, stating that eukaryotes evolved into \"really big, complex, and sometimes kind of weird forms of life,\" which are visually represented by fossil images of 'CHARNIA', described as frond-like, and 'DICKINSONIA', described as plate-shaped. The Man in Denim Shirt then states these larger organisms diversified, leading to the \"next and current eon, the Phanerozoic,\" as a timeline graphic highlights the 'PHANEROZOIC EON' (541 million years ago – present). The full geological timeline expands, and the speaker explains that the Phanerozoic's name means \"visible life,\" becoming home to \"trees, dinosaurs, newts, ardvarks, us humans, basically life as we know it,\" illustrated by scenes of lush ferns, a prehistoric landscape with dinosaurs, and a modern cityscape. The Man in Denim Shirt reappears, humorously checking on the viewer, noting they've covered \"three and a half billion years already\" and are moving to explore the Phanerozoic Eon through its \"eras,\" the next level down in the divisions of time, as the timeline is displayed again. A dramatic prehistoric scene with dinosaurs is then overlaid with the word 'ERAS', followed by a title card for the 'PALEOZOIC ERA' (541–252 million years ago) against a blurred prehistoric background with the geological timeline visible, as the speaker introduces it as \"the first era of our current eon.\""
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 7,
+      "end_minute": 7,
+      "summary": "The Paleozoic Era, spanning from 541 to 252 million years ago, is introduced by a man in a denim shirt against a fossil-etched backdrop, who describes its beginning as marked by the Cambrian explosion, an \"explosion\" of visible life, depicted by an animated underwater scene of segmented creatures and spiny organisms. He explains that the rapid diversification and complexity of life in the oceans during this period were so significant that all preceding eons—Hadean, Archean, and Proterozoic—are collectively termed the Precambrian. The Paleozoic's onset is characterized by the sudden appearance of complex animals with \"mineralized remains\" or \"hard parts\" in the fossil record, such as trilobites, identified as the first widespread new animals and valuable index fossils, shown in animation with sponges and a fossilized trilobite inset. The narrative continues with depictions of nautiloids and shark-like creatures, as the speaker details the development of teeth and jaws in fish, leading to their dominance in the seas, including the emergence of the first sharks and armored giants. Subsequently, the man in the denim shirt, with inset images of a fossilized trilobite and a 'COOKSONIA IMAGE BY SMITH609', explains that by 370 million years ago, land, previously barren, began to be populated by plants and then arthropods, before the audio fades, all accompanied by calm, slightly dramatic background music.",
+      "involved_entities": {
+        "Fossil Illustration": {
+          "description": "A framed illustration showing various fossilized shells and marine organisms, including a nautiloid, brachiopod, and trilobite, displayed to the left of the speaker.",
+          "attribute": "visual"
+        },
+        "Man in Denim Shirt": {
+          "description": "A man with short hair, wearing a dark denim shirt over a white t-shirt, standing against a dark textured background, using expressive hand gestures while speaking. He clearly and engagingly narrates the geological history, explaining the Paleozoic Era, the Cambrian explosion, the Precambrian eons, the evolution of complex animals like trilobites, fish, and sharks, and the colonization of land by plants and arthropods.",
+          "attribute": "audio-visual"
+        },
+        "Underwater Prehistoric Scene": {
+          "description": "Animated deep-sea environments with greenish hues and light rays, visually depicting the 'Cambrian explosion' with segmented creatures and spiny organisms, and later showing diverse marine life including trilobite-like creatures, sponges, nautiloids, and shark-like creatures, all described by the speaker as part of the evolution of life in the oceans.",
+          "attribute": "audio-visual"
+        },
+        "Geological Timeline": {
+          "description": "A full-screen animated timeline with horizontal bars, visible to the speaker's right as he discusses the Hadean, Archean, and Proterozoic Eons as part of the Precambrian.",
+          "attribute": "audio-visual"
+        },
+        "Paleozoic Era Title Card": {
+          "description": "A dark title card with white text reading 'PALEOZOIC ERA' and '541–252 million years ago', introduced by the speaker as the era that began 541 million years ago and was defined by the diversification of visible life.",
+          "attribute": "audio-visual"
+        },
+        "Cooksonia Image": {
+          "description": "A framed image of a green, segmented, worm-like creature labeled 'COOKSONIA IMAGE BY SMITH609', shown to the right of the speaker as he explains the colonization of land by plants and then arthropods.",
+          "attribute": "audio-visual"
+        },
+        "Proterozoic Eon Title Card": {
+          "description": "A full-screen title card with white text 'PROTEROZOIC EON' and '2.5 billion years ago – 541 million years ago', visually representing one of the eons that the speaker collectively refers to as the Precambrian.",
+          "attribute": "audio-visual"
+        },
+        "Fossil Images Stack": {
+          "description": "A vertical stack of three fossil images—trilobites, ammonites, and another trilobite—each in a white-bordered frame, separated by dotted lines, shown to the right of the speaker.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a title card for the 'Paleozoic Era' (541–252 million years ago), displayed over a dark, textured background with a geological timeline on the left. A man in a denim shirt, speaking clearly and expressively against a fossil-etched backdrop, introduces this era as beginning 541 million years ago, defined by the diversification of visible life, which started with a \"bang,\" an \"explosion\"—the Cambrian explosion. As he speaks, the word 'explosion' appears in glowing purple text, followed by an animated underwater scene depicting prehistoric marine life, including a large, segmented creature with claws and spiny organisms, swimming over a coral-like seabed. The scene then cuts to a 'Proterozoic Eon' title card (2.5 billion years ago – 541 million years ago) set against a deep green underwater environment with light rays. The speaker reappears, explaining that the rapid growth in diversity and complexity in the world's oceans was so significant that all prior eons—the Hadean, Archean, and Proterozoic (listed on a timeline to his right)—are collectively known as the Precambrian. He continues, detailing how the Paleozoic's start saw the fossil record suddenly reveal complex animals with \"mineralized remains,\" or \"hard parts\" like shells and exoskeletons. Another animated underwater environment then shows trilobite-like creatures and sponges, with a fossil image of a trilobite appearing in a white-bordered inset, as the speaker identifies trilobites as the first truly widespread new animals, used as index fossils for centuries. The animation continues with more diverse marine life, including a nautiloid and a shark-like creature, swimming among colorful coral and tube worms, as he describes fish developing teeth and jaws, dominating the seas, including the first sharks and armored giants. The speaker returns, now with two inset images to his right: a fossilized trilobite and a green, segmented 'COOKSONIA IMAGE BY SMITH609', explaining that the land, previously barren, was finally being populated by plants and then arthropods by 370 million years ago, before the audio fades. Throughout, a calm, slightly dramatic background music accompanies the speaker's clear, informative narration."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 8,
+      "end_minute": 11,
+      "summary": "{\n  \"updated_summary\": \"The narrative begins with fossilized footprints in cracked, reddish-brown sedimentary rock, illustrating the \\\"first vertebrate footprints in the mud\\\" left by early amphibians. Earth from space reveals the supercontinent Pangea with a vast desert, home to ancestors of reptiles and mammals, depicted alongside illustrations of prehistoric reptiles and an animated Dimetrodon. Underwater, trilobites swim among coral-like formations, noted as survivors of previous extinctions. The segment then focuses on \\\"The Great Dying,\\\" the most severe extinction event, with its cause unclear, though a possible meteorite impact off South America (highlighting the Falkland Islands) and massive volcanic eruptions in the Siberian Traps are presented as coinciding with the Paleozoic era's end, emphasizing the vastness of geological time and multiple extinction causes. Life's recovery took millions of years, leading to the \\\"Mesozoic Era,\\\" the age of reptiles, featuring dinosaurs like sauropods and T. rex, pterosaurs, and marine species. During this era, non-avian dinosaurs thrived, and modern groups like mammals, frogs, bees, and flowering plants evolved. The Mesozoic ended 66 million years ago with the \\\"Cretaceous-Paleogene (KPG) extinction event,\\\" primarily caused by a giant asteroid impact that ejected ash, blocked sunlight, and created a cold snap, leading to the demise of plant communities and dependent animals. The Chicxulub Crater in the Yucatán Peninsula is identified as the \\\"smoking gun\\\" for this impact. While non-avian dinosaurs perished, birds survived. The \\\"Cenozoic Era\\\" followed, marking the rise of mammals, including whales, bats, rodents, and primates. Climate shifts led to ice caps growing and drier conditions creating grasslands, where ancestral horses like Mesohippus thrived. Sahelanthropus, the first known primate to walk upright 7 million years ago, is highlighted. The \\\"Ice Age\\\" began 2.6 million years ago, with megafauna like woolly mammoths, ground sloths, and saber-tooth cats coexisting with early humans and predators like lionesses. The diversity of this era ended around 11,700 years ago with the extinction of Ice Age megafauna, prompting questions about humanity's role.\"\n' about humanity's role.\"\n}",
+      "involved_entities": {
+        "Prehistoric Reptile Illustrations": {
+          "description": "Three illustrations of prehistoric reptiles by Nobu Tamura, displayed vertically. They represent \"the ancestors of what would eventually become reptiles and mammals\" that thrived in dry conditions, as explained by the Man in Denim Shirt.",
+          "attribute": "audio-visual"
+        },
+        "Falkland Islands Map": {
+          "description": "A detailed map showing the Falkland Islands (Islas Malvinas) in the Scotia Sea, with geographical labels and a red circle highlighting the islands.",
+          "attribute": "visual"
+        },
+        "Dimetrodon Animation": {
+          "description": "An animated Dimetrodon with a large, colorful sail, standing on a rocky outcrop. It visually represents the kind of life that thrived before the cataclysmic end of the Paleozoic era.",
+          "attribute": "audio-visual"
+        },
+        "Siberian Traps": {
+          "description": "An aerial photograph of a rugged, green and gray mountainous landscape with patches of snow, labeled 'SIBERIAN TRAPS'. The Man in Denim Shirt links this location to \"massive volcanic eruptions\" that covered large swaths of Pangea in lava, another potential cause for the Great Dying.",
+          "attribute": "audio-visual"
+        },
+        "Trilobite Animation": {
+          "description": "An animated underwater scene showing multiple trilobites swimming among coral-like formations in a blue-green ocean. The Man in Denim Shirt refers to them as \"our friends the trilobites\" who were survivors of previous extinctions, and later, with a touch of personal sentiment, states, \"I still miss those guys.\" Their mention is accompanied by a gentle, melancholic synth sound.",
+          "attribute": "audio-visual"
+        },
+        "Map of Falkland Islands": {
+          "description": "A map highlighting the Falkland Islands (Islas Malvinas) in the Scotia Sea with a red circle. It is presented by the Man in Denim Shirt as a potential location for \"a possible meteorite impact off the coast of South America,\" which might be one clue to the Great Dying.",
+          "attribute": "audio-visual"
+        },
+        "THE GREAT DYING Title Card": {
+          "description": "Bold white text reading 'THE GREAT DYING' appearing beside the Man in Denim Shirt. It names the event described by the Man in Denim Shirt as \"the most severe extinction in our planet's history,\" with its exact cause still unclear.",
+          "attribute": "audio-visual"
+        },
+        "Man in Denim Shirt": {
+          "description": "A man with short hair, wearing a dark denim shirt over a white t-shirt, standing against a dark textured background, using expressive hand gestures while speaking. He narrates the evolution of mammal groups like whales, bats, rodents, and primates, discusses climate shifts leading to ice caps and grasslands, introduces Sahelanthropus as the first bipedal primate, describes the Ice Age and its megafauna including mammoths, and questions humanity's role in their extinction.",
+          "attribute": "audio-visual"
+        },
+        "Underwater Prehistoric Scene": {
+          "description": "An animated deep-sea environment with greenish hues, light rays penetrating from above, and floating particles, serving as a visual transition before the speaker continues his explanation.",
+          "attribute": "audio-visual"
+        },
+        "Fossilized Footprints": {
+          "description": "Close-up of fossilized footprints in cracked, reddish-brown sedimentary rock, labeled 'FOSSILIZED FOOTPRINTS'. They are described by the Man in Denim Shirt as \"the first vertebrate footprints in the mud\" left by early amphibians.",
+          "attribute": "audio-visual"
+        },
+        "Geological Timeline": {
+          "description": "A full-screen animated timeline with horizontal bars labeled 'EONS', 'ERAS', 'PERIODS', 'EPOCHS', and 'AGES', color-coded and spanning from 4.6 billion years ago to the present day, used by the speaker to highlight and transition to the Cenozoic Era.",
+          "attribute": "audio-visual"
+        },
+        "Earth from Space": {
+          "description": "A view of Earth from orbit, showing its curvature, blue atmosphere, and cloud patterns against the blackness of space, visually representing the growing ice caps and the planet entering a glacial period as described by the speaker.",
+          "attribute": "audio-visual"
+        },
+        "Siberian Traps Image": {
+          "description": "An aerial photograph of a mountainous, vegetated landscape with snow patches, labeled 'SIBERIAN TRAPS', illustrating a major volcanic region linked to the Great Dying.",
+          "attribute": "visual"
+        },
+        "Bee Illustration": {
+          "description": "A yellow and black bee illustration with translucent wings, shown in a white-bordered frame, presented as an example of modern groups of organisms that evolved during the Mesozoic.",
+          "attribute": "audio-visual"
+        },
+        "Shrew-like Mammal Illustration": {
+          "description": "A small, brown and gray illustration of a shrew-like mammal with large eyes and a long snout, shown in a white-bordered frame, presented as an example of modern groups of organisms that evolved during the Mesozoic.",
+          "attribute": "audio-visual"
+        },
+        "Asteroid Impact Animation": {
+          "description": "An animated scene of a massive asteroid burning brightly as it enters Earth's atmosphere, trailing fire and smoke, visually representing the asteroid impact discussed by the speaker as the cause of the KPG extinction.",
+          "attribute": "audio-visual"
+        },
+        "Pterosaur": {
+          "description": "A large flying reptile with a long beak and membranous wings, soaring over a dense green forest, serving as a visual example of the 'biggest reptiles of the sky' that were victims of the KPG extinction.",
+          "attribute": "audio-visual"
+        },
+        "T. rex Skeleton": {
+          "description": "A large, mounted T. rex skeleton in a museum exhibit, displayed on a raised platform with spotlights, surrounded by other dinosaur skeletons and informational panels, appearing as the speaker discusses non-avian dinosaurs.",
+          "attribute": "audio-visual"
+        },
+        "T. rex Animation": {
+          "description": "A dynamic, lifelike animation of a T. rex in a running pose, with textured skin, blue eyes, and a long tail, set against a plain gray background, shown as the speaker mentions dinosaurs.",
+          "attribute": "audio-visual"
+        },
+        "Flowers Illustration": {
+          "description": "A cluster of yellow flowers with green stems and leaves, shown in a white-bordered frame, presented as an example of modern groups of organisms that evolved during the Mesozoic.",
+          "attribute": "audio-visual"
+        },
+        "Layered Rock Formation": {
+          "description": "A cross-section of sedimentary rock with distinct horizontal layers of varying colors and textures.",
+          "attribute": "visual"
+        },
+        "MESOZOIC ERA Title Card": {
+          "description": "A dark, atmospheric title card with white text reading 'MESOZOIC ERA' and '252 - 66 million years ago', set against a smoky, dark background with faint fossil-like textures, appearing as the speaker introduces the Mesozoic Era.",
+          "attribute": "audio-visual"
+        },
+        "Frog Illustration": {
+          "description": "A green frog illustration with yellow eyes and dark spots, shown in a white-bordered frame, presented as an example of modern groups of organisms that evolved during the Mesozoic.",
+          "attribute": "audio-visual"
+        },
+        "Prehistoric Landscape with Dinosaurs": {
+          "description": "A wide animated scene of a volcanic landscape with mountains, a shallow sea, and numerous stromatolite-like structures, serving as a visual representation of the Archean Eon.",
+          "attribute": "visual"
+        },
+        "CRETACEOUS-PALEOGENE BOUNDARY Image": {
+          "description": "A wide shot of a desert rock formation with visible sedimentary layers and sparse vegetation, shown in a white-bordered frame with the label 'CRETACEOUS-PALEOGENE BOUNDARY' at the bottom, visually representing the geological evidence of the extinction event discussed by the speaker.",
+          "attribute": "audio-visual"
+        },
+        "CRETACEOUS-PALEOGENE EXTINCTION EVENT Title Card": {
+          "description": "A bold, white text title card reading 'CRETACEOUS-PALEOGENE EXTINCTION EVENT' on a dark, smoky background, appearing as the speaker names this specific extinction event.",
+          "attribute": "audio-visual"
+        },
+        "Stegosaurus Animation": {
+          "description": "An animated Stegosaurus with a row of plates along its back, walking through a misty, forested landscape, serving as a visual example of the 'biggest reptiles of the land' that were victims of the KPG extinction.",
+          "attribute": "audio-visual"
+        },
+        "Sauropod Animation": {
+          "description": "An animated long-necked dinosaur with a textured gray body and a row of spines along its back, walking across a plain with mountains in the background, serving as a visual example of the 'biggest reptiles of the land' that were victims of the KPG extinction.",
+          "attribute": "audio-visual"
+        },
+        "Map of Yucatán Peninsula": {
+          "description": "A map highlighting the Yucatán Peninsula with a red circle marking the Chicxulub Crater, visually representing the 'giant impact crater in the Gulf of Mexico' that the speaker identifies as the 'smoking gun' for the asteroid hypothesis.",
+          "attribute": "audio-visual"
+        },
+        "Lush Jungle Scene": {
+          "description": "A vibrant, dense jungle with a small stream flowing over moss-covered rocks, surrounded by large trees and lush green foliage, visually representing the 'jungles stretched across the planet' as the climate warmed after the KPG extinction.",
+          "attribute": "audio-visual"
+        },
+        "CENOZOIC ERA Title Card": {
+          "description": "A full-screen title card with white text 'CENOZOIC ERA' and '66 million years ago - present', set against a smoky, dark background, explicitly naming and dating the era that the speaker identifies as 'our era' and the period of mammal rise.",
+          "attribute": "audio-visual"
+        },
+        "Prehistoric Human and Hyenas Illustration": {
+          "description": "An animated scene of a bare-chested, dark-skinned prehistoric human running through tall grass alongside two hyenas in a dusty, arid landscape, visually representing the 'modern humans' who inhabited the globe and lived alongside 'Ice Age megafauna'.",
+          "attribute": "audio-visual"
+        },
+        "Stylized Earth Model": {
+          "description": "A small, simplified model of Earth with green continents and blue oceans, appearing to the left of the speaker during his discussion of Sahelanthropus.",
+          "attribute": "audio-visual"
+        },
+        "Sahelanthropus Fossil Skull": {
+          "description": "A framed image of a fossilized hominid skull, labeled 'SAHELANTHROPUS', with on-screen text stating '***PROBABLY? EXPERTS DISAGREE ABOUT THE FIRST BIPEDAL PRIMATE.' The speaker explicitly identifies it as 'Sahelanthropus' and highlights its significance as the 'first known primate to walk upright' 7 million years ago.",
+          "attribute": "audio-visual"
+        },
+        "Mesohippus Illustration": {
+          "description": "A framed illustration of a herd of small, spotted, horse-like animals running through tall grass, labeled 'MESOHIPPUS' and credited to Heinrich Harder, serving as a visual example of the 'ancestral horses' that thrived in the new grassland habitat.",
+          "attribute": "audio-visual"
+        },
+        "Woolly Mammoth Illustration": {
+          "description": "A detailed illustration of a woolly mammoth with long, curved tusks standing in a snowy landscape with pine trees and mountains, birds flying overhead, serving as a visual representation of the 'giants like mammoths' that thrived during the Ice Age.",
+          "attribute": "audio-visual"
+        },
+        "Lioness": {
+          "description": "A tawny lioness walking through dry grassland with mountains in the background, visually representing the 'first cats and dogs' that hunted in the newly formed grasslands, and later 'saber-tooth cats' mentioned as giants of the Ice Age.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of fossilized footprints in cracked, reddish-brown sedimentary rock, labeled 'FOSSILIZED FOOTPRINTS', as the Man in Denim Shirt narrates how early amphibians evolved and left these \"first vertebrate footprints in the mud.\" The scene transitions to a view of Earth from space, illustrating the supercontinent Pangea with an enormous desert at its center, which the Man in Denim Shirt explains was populated by ancestors of reptiles and mammals. He appears, speaking with expressive hand gestures, as three illustrations of prehistoric reptiles by Nobu Tamura appear beside him, representing these thriving creatures. An animated Dimetrodon with a vibrant sail is then shown, followed by an underwater scene of trilobites swimming among coral-like formations, which the Man in Denim Shirt refers to as \"our friends the trilobites\" who survived previous extinctions. A gentle, melancholic synth sound plays as he adds, \"I still miss those guys.\" The Man in Denim Shirt reappears, and the bold white text 'THE GREAT DYING' appears beside him, as he describes this event as \"the most severe extinction in our planet's history,\" with its exact cause still unclear. A map highlights the Falkland Islands (Islas Malvinas) in the Scotia Sea, presented as a possible site for \"a possible meteorite impact off the coast of South America,\" followed by an aerial view of the Siberian Traps, illustrating \"massive volcanic eruptions\" that covered Pangea in lava. The Man in Denim Shirt returns, explaining that both incidents coincided with the end of the Paleozoic era, as a vertical geological timeline appears to his left, listing the Hadean, Archean, Proterozoic, Paleozoic, Mesozoic, and Cenozoic eons, emphasizing the vastness of geological time and the multiple causes of the extinction.",
+        "The segment opens with the Man in Denim Shirt, wearing a dark denim shirt, speaking expressively against a dark textured background, explaining how a past chapter of life 'ended in nearly absolute death.' A vertical geological timeline, detailing eons and eras from Hadean to Phanerozoic, appears on the left. He continues, noting that 'it took millions of years for life to recover,' leading to 'a new world, the Mesozoic Era,' as a dark, smoky title card for 'MESOZOIC ERA 252 - 66 million years ago' appears. The Man in Denim Shirt describes this as 'the age of reptiles,' highlighting their success and 'most famous forms, like dinosaurs, pterosaurs, and a variety of marine species.' This is visually supported by animated scenes of a large sauropod dinosaur on a beach, a pterosaur flying over a green landscape, and a dynamic T. rex. He further explains that 'all of the non-avian dinosaurs lived only in the Mesozoic,' making them 'one of the best index fossils,' and that 'many modern groups of organisms also evolved in the shadows of the reptiles, like mammals, frogs, bees, and flowering plants.' A museum display of a T. rex skeleton is shown, then the Man in Denim Shirt reappears, gesturing towards a vertical stack of four small illustrations on the right: a shrew-like mammal, a green frog, a bee, and yellow flowers. He then states that 'the Mesozoic Era came to an end 66 million years ago with yet another episode of devastation,' known as 'the Cretaceous-Paleogene or KPG extinction event.' The geological timeline reappears before a bold title card announces the 'CRETACEOUS-PALEOGENE EXTINCTION EVENT.' The Man in Denim Shirt elaborates that 'the biggest' cause was 'a giant asteroid that struck the Earth,' sending 'enormous amounts of ash into the atmosphere, blocking out sunlight, and creating a vicious cold snap.' An animated scene of a massive, fiery asteroid streaking towards Earth illustrates this. He concludes that 'entire plant communities died, and the animals that relied on those plants perished with them,' as the video shows a wide shot of a desert rock formation labeled 'CRETACEOUS-PALEOGENE BOUNDARY,' featuring layered sedimentary rock and sparse vegetation under a cloudy sky. Throughout, a subtle, dramatic background music accompanies his clear, informative speech.",
+        "The segment opens with a dramatic animated asteroid descending through Earth's atmosphere, trailing fire and smoke, as the Man in Denim Shirt explains that an iridium layer found at the end of the Mesozoic, rare on Earth but common in asteroids, points to an impact. This is visually reinforced by a map highlighting the Chicxulub Crater in the Yucatán Peninsula, which he identifies as the 'smoking gun' for the asteroid hypothesis. Animated prehistoric creatures, including a pterosaur gliding, a Stegosaurus walking, and a long-necked sauropod, illustrate his description of the KPG extinction's victims: the biggest reptiles of land, sea, and sky, including non-avian dinosaurs, while birds survived. The Man then appears, stating, \"Okay, we have 66 million years to go,\" marking the last major extinction. In a lighthearted moment, he offers \"pre-moistened towellettes\" with the sound of a packet tearing and rustling, humorously suggesting they wipe 'iridium' from their foreheads. He then explains that with the great reptiles gone, smaller animals thrived in the next era, the Cenozoic. A vertical geological timeline appears, followed by a full-screen 'CENOZOIC ERA 66 million years ago - present' title card, as he declares, \"This is our era,\" marking the rise of mammals. A lush jungle scene then visually represents the climate warming and jungles stretching across the planet, before a brief dark underwater scene transitions back to the Man, who concludes that mammals quickly recovered in this 'hot house world'.",
+        "The Man in Denim Shirt, speaking expressively against a dark background, introduces the emergence of mammal groups like whales, bats, rodents, and primates, as corresponding framed illustrations appear to his right. As he describes ice caps growing and the planet's water being taken up, the scene transitions to a full-screen view of Earth from space, centered on Antarctica. He then explains how drier conditions created grasslands, where ancestral horses like the illustrated Mesohippus (credited to Heinrich Harder) were hunted by early predators. The speaker reappears, now with a framed fossilized skull of 'SAHELANTHROPUS' to his right, and a stylized Earth model to his left, as he details how this species became the first known primate to walk upright 7 million years ago. He continues, explaining that 2.6 million years ago, ice caps expanded further, leading to the Ice Age, where modern life forms, including giants like the vividly illustrated woolly mammoth, thrived alongside ground sloths and saber-tooth cats. The video then shows a lioness walking through a dry savanna, followed by a prehistoric human running with hyenas in a dusty plain, as the speaker discusses the end of this era of diversity and the extinction of Ice Age megafauna around 11,700 years ago, questioning humanity's role. Throughout, a consistent, slightly dramatic background music plays."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 12,
+      "end_minute": 13,
+      "summary": "The Man in Denim Shirt, against a dark, textured background, explained that humanity has \"shaped the earth to its will,\" exerting a \"huge impact on habitats, other organisms, and the biosphere itself,\" and that \"it's the most dominant forms of life that define each phase of deep time.\" He concluded that despite humanity's brief existence, \"we are the authors of the next chapter,\" speculating that \"the epoch of humans may be detected by the marks we make on the land, the traces of our cities and farms,\" and that \"our very bodies will be the index fossils of this time.\" He stated, \"No matter how our chapter ends, we get to be characters in a truly amazing story.\" Upbeat, adventurous background music began as the video transitioned through a T. rex Animation in a misty, prehistoric setting with sparks, followed by a Logging Operation where a red forklift moved logs in a mountainous area. This was succeeded by an aerial view of a Modern Cityscape at Night, showcasing light trails from vehicles on a highway, before cutting to a Tractor Plowing Field under a cloudy sky. The Man in Denim Shirt reappeared with a vertical Geological Timeline graphic, thanking viewers for joining him on this \"epic or epoch journey through geologic time\" and asking, \"Now, what do you want to know about the story of life on Earth?\" The scene transitioned to an Underwater Prehistoric Scene with the EONS Title Card, featuring swimming fish and a shark, as he encouraged viewers to \"Let us know in the comments, and don't forget to go to youtube.com/eons and subscribe,\" with the YOUTUBE.COM/EONS Text appearing on screen. He advised viewers to \"check out some of our sister channels from PBS Digital Studios,\" gesturing toward a BRAINCRAFT Inset. The video concluded with a full-screen Credits Sequence over the underwater background, listing production roles and acknowledging PBS Digital Studios, as the adventurous music played and faded out.",
+      "involved_entities": {
+        "PBS Digital Studios Logo": {
+          "description": "A colorful logo with the letters 'PBS' in blue, orange, and green, followed by 'DIGITAL STUDIOS' in gray, sketched-style text, located in the top left corner of the screen.",
+          "attribute": "visual"
+        },
+        "YOUTUBE.COM/EONS Text": {
+          "description": "White text displaying 'YOUTUBE.COM/EONS' on screen, appearing as the Man in Denim Shirt encourages viewers to subscribe to the channel.",
+          "attribute": "audio-visual"
+        },
+        "Logging Operation": {
+          "description": "A real-world shot of a red forklift moving logs in a mountainous area with cut timber, shown during an upbeat musical interlude.",
+          "attribute": "audio-visual"
+        },
+        "T. rex Animation": {
+          "description": "A dynamic, lifelike animation of a T. rex in a running pose, with textured skin, blue eyes, and a long tail, set against a plain gray background, appearing during an interlude with upbeat, adventurous background music.",
+          "attribute": "audio-visual"
+        },
+        "Man in Denim Shirt": {
+          "description": "A man with short hair, wearing a dark denim shirt over a white t-shirt, speaking directly to the camera with expressive hand gestures against a dark textured background. He has a clear, articulate male voice and discusses humanity's impact on Earth, geologic time, and promotes the EONS channel and PBS Digital Studios.",
+          "attribute": "audio-visual"
+        },
+        "Underwater Prehistoric Scene": {
+          "description": "An animated deep-sea environment with greenish hues, light rays penetrating from above, and floating particles, serving as the background for the credits, with atmospheric instrumental music playing throughout.",
+          "attribute": "audio-visual"
+        },
+        "Geological Timeline": {
+          "description": "A vertical graphic on the left side of the screen listing eons and eras from the Hadean Eon to the present, displayed while the Man in Denim Shirt discusses 'geologic time'.",
+          "attribute": "audio-visual"
+        },
+        "Tractor Plowing Field": {
+          "description": "A green tractor pulling a red plow across a field under a cloudy sky, shown during an upbeat musical interlude.",
+          "attribute": "audio-visual"
+        },
+        "Credits Sequence": {
+          "description": "A full-screen credits sequence displayed over an animated deep-sea environment, listing production roles, image sources, and social media handles for the EONS show, with the PBS Digital Studios logo visible in the top left corner, all underscored by atmospheric instrumental background music.",
+          "attribute": "audio-visual"
+        },
+        "Modern Cityscape at Night": {
+          "description": "An aerial view of a city at night with illuminated buildings and light trails from vehicles on a highway, featured during an upbeat musical interlude.",
+          "attribute": "audio-visual"
+        },
+        "BRAINCRAFT Inset": {
+          "description": "A small white-bordered frame in the top left corner showing a woman with dark hair, labeled 'BRAINCRAFT', toward which the Man in Denim Shirt gestures while promoting 'sister channels' from PBS Digital Studios.",
+          "attribute": "audio-visual"
+        },
+        "EONS Title Card": {
+          "description": "A full-screen title card with the word 'EONS' in large white letters, set against a deep blue underwater background with swimming fish and a shark, serving as the backdrop for the credits sequence, over which atmospheric instrumental music plays.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The Man in Denim Shirt, speaking directly to the camera with expressive hand gestures against a dark, textured background, articulates that \"our species has shaped the earth to its will,\" emphasizing humanity's \"huge impact on habitats, other organisms, and the biosphere itself.\" He explains that \"it's the most dominant forms of life that define each phase of deep time,\" concluding that despite humanity's brief existence, \"we are the authors of the next chapter.\" He speculates that \"the epoch of humans may be detected by the marks we make on the land, the traces of our cities and farms,\" and that \"our very bodies will be the index fossils of this time,\" before stating, \"No matter how our chapter ends, we get to be characters in a truly amazing story.\" Upbeat, adventurous background music with a driving beat and synth elements then begins as the video transitions through a dramatic animated T. rex in a misty, prehistoric setting with sparks, followed by a real-world logging operation where a red forklift moves logs in a mountainous area. This is succeeded by an aerial view of a modern cityscape at night, showcasing light trails from vehicles on a highway, before cutting to a green tractor plowing a field under a cloudy sky. The Man in Denim Shirt reappears, now with a vertical geological timeline graphic on the left side of the screen listing eons and eras, thanking viewers for joining him on this \"epic or epoch journey through geologic time.\" He then asks, \"Now, what do you want to know about the story of life on Earth?\" The scene transitions to a deep blue underwater animated background with the word 'EONS' in large white letters, featuring swimming fish and a shark, as the Man in Denim Shirt encourages viewers to \"Let us know in the comments, and don't forget to go to youtube.com/eons and subscribe.\" The text 'YOUTUBE.COM/EONS' appears on screen. He adds that \"the fun doesn't end here,\" advising viewers to \"check out some of our sister channels from PBS Digital Studios,\" as a small inset appears in the top left corner showing a woman with dark hair, labeled 'BRAINCRAFT', toward which he gestures. The video concludes with a full-screen credits sequence over the underwater background, listing production roles, image sources, and social media handles for the EONS show, with the PBS Digital Studios logo visible in the top left corner, as the adventurous background music continues to play and then fades out.",
+        "The segment opens with a full-screen credits sequence for 'EONS' by PBS Digital Studios, set against a serene, deep blue underwater scene. A large shark swims slowly from right to left across the lower portion of the frame, with smaller fish gliding in the mid-ground and faint light rays penetrating from above, creating an immersive aquatic atmosphere. White text credits are displayed on the left, listing production roles such as Executive Producer Hank Green, Co-Producer and Host Blake de Pastino, and Director Nick Jenkins, along with contributors like Seth Radley (Video Editor, Animator) and Mark Olsen (Main Titles, Animator). The credits also acknowledge Synema Studios for sound mixing and design, list various image sources, and credit APM for the music. On the right side, social media handles @EONSSHOW for Twitter and Instagram, and /EONSSHOW for Facebook, are shown with their respective platform icons. The PBS Digital Studios logo is visible in the top left corner. Throughout this calm and professional visual presentation, a consistent, atmospheric instrumental background music plays, enhancing the tranquil underwater visuals."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Earth Image Inset": "A framed image of Earth from space, showing continents and oceans illuminated by sunlight, displayed to the left of the speaker during the Hadean Eon explanation.",
+    "Man in Denim Shirt": "A man with short hair, wearing a dark denim shirt over a white t-shirt, speaking directly to the camera with expressive hand gestures against a dark textured background. He has a clear, articulate male voice and discusses humanity's impact on Earth, geologic time, and promotes the EONS channel and PBS Digital Studios.",
+    "Underwater Prehistoric Scene": "An animated deep-sea environment with greenish hues, light rays penetrating from above, and floating particles, serving as the background for the credits, with atmospheric instrumental music playing throughout.",
+    "Layered Rock Formation": "A cross-section of sedimentary rock with distinct horizontal layers of varying colors and textures.",
+    "Geological Timeline": "A vertical graphic on the left side of the screen listing eons and eras from the Hadean Eon to the present, displayed while the Man in Denim Shirt discusses 'geologic time'.",
+    "PBS Digital Studios Logo": "A colorful logo with the letters 'PBS' in blue, orange, and green, followed by 'DIGITAL STUDIOS' in gray, sketched-style text, located in the top left corner of the screen.",
+    "Earth from Space": "A view of Earth from orbit, showing its curvature, blue atmosphere, and cloud patterns against the blackness of space, visually representing the growing ice caps and the planet entering a glacial period as described by the speaker.",
+    "Pterosaur": "A large flying reptile with a long beak and membranous wings, soaring over a dense green forest, serving as a visual example of the 'biggest reptiles of the sky' that were victims of the KPG extinction.",
+    "Prehistoric Landscape with Dinosaurs": "A wide animated scene of a volcanic landscape with mountains, a shallow sea, and numerous stromatolite-like structures, serving as a visual representation of the Archean Eon.",
+    "Sedimentary Rock Inset": "A close-up image of layered sedimentary rock, shown in a white-bordered frame to the right of the speaker.",
+    "Lioness": "A tawny lioness walking through dry grassland with mountains in the background, visually representing the 'first cats and dogs' that hunted in the newly formed grasslands, and later 'saber-tooth cats' mentioned as giants of the Ice Age.",
+    "William Smith Portrait": "A portrait of William Smith, an older man with white hair and a dark coat, labeled 'WILLIAM SMITH', identified by the speaker as the one who 'figured out the solution to this problem: fossils' by comparing ancient organisms, and later explicitly named as one of the 'early geologists' who contributed to the Geologic Time Scale.",
+    "Giovanni Arduino Bust": "A black-and-white bust image of Giovanni Arduino, labeled 'GIOVANNI ARDUINO', explicitly named by the speaker as one of the 'early geologists' who contributed to the Geologic Time Scale.",
+    "Historical Geological Sketch": "A hand-drawn geological cross-section with handwritten annotations, overlaid with the red text labels 'PRIMARY,' 'SECONDARY,' 'TERTIARY,' and 'QUATERNARY', representing Arduino's classification of rock layers based on their depth and composition, including metamorphic, volcanic, hard sedimentary, and softer alluvial deposits.",
+    "Snow-Capped Mountains Image": "A photograph of a mountain range with sharp peaks and snow-covered slopes, shown in a white-bordered frame, visually representing the 'Italian Alps' that Giovanni Arduino studied.",
+    "Nicolas Steno Portrait": "A historical portrait of Nicolas Steno in clerical attire, holding a cross, labeled 'NICOLAS STENO', explicitly named by the speaker as one of the 'early geologists' who contributed to the Geologic Time Scale.",
+    "Desert Rock Face": "A wide shot of a desert rock formation with visible sedimentary layers and sparse vegetation, shown in a white-bordered frame.",
+    "Rugged Cliff Formation": "A close-up of a steep, layered rock cliff with gray and brown strata, shown in a white-bordered frame.",
+    "Geological Timeline Inset": "A smaller version of the geological timeline, shown in a white-bordered frame to the right of the speaker, as he continues to explain the Hadean Eon.",
+    "Fossil Illustration": "A framed illustration showing various fossilized shells and marine organisms, including a nautiloid, brachiopod, and trilobite, displayed to the left of the speaker.",
+    "4.03 Billion Year Old Gneiss Sample": "A close-up image of a dark, layered rock with yellowish veins, labeled '4.03 BILLION YEAR OLD SAMPLE OF GNEISS FROM CANADA' with credit to Mike Beauregard, shown as the speaker discusses 'ancient rocks' and 'earliest major geologic events'.",
+    "3.8 Billion Year Old Supracrustal Rock": "A greenish, layered rock sample with white and dark green bands, labeled 'SUPRACRUSTAL ROCK FROM GREENLAND, DATED 3.8 BILLION YEARS OLD' with credit to James St. John, shown as the speaker discusses 'ancient rocks' and 'earliest major geologic events'.",
+    "Fossil Images Stack": "A vertical stack of three fossil images—trilobites, ammonites, and another trilobite—each in a white-bordered frame, separated by dotted lines, shown to the right of the speaker.",
+    "Lightning Storm Image": "A framed image of a stormy sky with multiple lightning strikes, used to depict the violent weather and 'raging storms' of the Hadean Eon as described by the speaker.",
+    "Hadean Eon Title Card": "A dark, atmospheric title card with white text reading 'HADEAN EON' and '4.6 - 4 billion years ago', set against a blurred background of Earth from space, explicitly named and dated by the speaker as the 'earliest eon' and described as a 'hellish' period.",
+    "Molten Earth Image": "A framed image of a partially molten Earth with glowing red lava cracks and blue oceans, credited to 'IMAGE BY SIMONE MARCHI', illustrating the early planet's state and the cooling of the Earth's crust that ended the Hadean Eon.",
+    "Volcanic Eruption Image": "A framed image of a fiery volcanic eruption with lava and ash, shown to illustrate the speaker's description of the chaotic, 'hellish' conditions of the early Earth, including 'volcanic activity'.",
+    "Glowing Microbial Colonies Inset": "A framed image of numerous green, glowing circular shapes resembling microbial colonies, shown as the speaker discusses the appearance of cyanobacteria that changed the atmosphere.",
+    "Stromatolite Fossils in Glacier National Park": "A close-up image of layered, colorful rock with wavy patterns, labeled 'STROMATOLITE FOSSILS IN GLACIER NATIONAL PARK' and credited to James St. John, shown as an example of fossils left by early microbes, specifically called stromatolites.",
+    "Stromatolites in Western Australia": "A photograph of rounded, grayish stromatolite structures in shallow water, labeled 'STROMATOLITES IN WESTERN AUSTRALIA' and credited to Ruth Ellison, presented as an example of the very oldest stromatolites dating from the Archean.",
+    "Proterozoic Eon Title Card": "A full-screen title card with white text 'PROTEROZOIC EON' and '2.5 billion years ago – 541 million years ago', visually representing one of the eons that the speaker collectively refers to as the Precambrian.",
+    "Archean Eon Title Card": "A dark, atmospheric title card with white text reading 'ARCHEAN EON' and '4 - 2.5 billion years ago', set against a blurred background with a timeline on the left listing eons and eras, marking the beginning of the Archean Eon, which is named for the Greek word for origin.",
+    "Hadean Rock Collection Site": "A framed image of a red, layered desert rock formation with sparse vegetation, labeled 'HADEAN ROCK COLLECTION SITE' and credited to R. Buick / Univ. of Washington, presented as visual evidence of organic carbon in Hadean rocks, suggesting the earliest life.",
+    "Dickinsonia Fossil Image": "A framed fossil image of a fan-shaped, ribbed organism labeled 'DICKINSONIA', credited to Verisimilus at English Wikipedia, shown against a dark background, explicitly described by the speaker as \"plate-shaped.\"",
+    "ERAS Title Card": "A large, bold white text 'ERAS' overlaid on a dramatic animated scene of dinosaurs in a misty, prehistoric landscape, serving as a visual transition as the speaker introduces the concept of exploring the Phanerozoic Eon through its \"eras.\"",
+    "Modern Cityscape": "An aerial view of a bustling city square with pedestrians, a yellow tram, and modern buildings under bright sunlight, visually representing \"us humans\" and \"life as we know it\" as mentioned by the speaker when describing the Phanerozoic Eon.",
+    "Eukaryotes Animation": "An animated sequence showing a single green, textured eukaryotic cell dividing into two within a blue, glowing environment, with the label 'EUKARYOTES' in the lower-left corner, explicitly described by the speaker as \"ancestral eukaryotes\" with a nucleus and organelles wrapped in membranes.",
+    "Paleozoic Era Title Card": "A dark title card with white text reading 'PALEOZOIC ERA' and '541–252 million years ago', introduced by the speaker as the era that began 541 million years ago and was defined by the diversification of visible life.",
+    "Charnia Fossil Image": "A framed fossil image of a segmented, leaf-like organism labeled 'CHARNIA', credited to Verisimilus at English Wikipedia, shown against a dark background, explicitly described by the speaker as \"frond-like.\"",
+    "Ferns in Forest": "A close-up of vibrant green ferns with curled fronds in a lush, sun-dappled forest environment, visually representing \"trees\" as mentioned by the speaker when describing life in the Phanerozoic Eon.",
+    "Cooksonia Image": "A framed image of a green, segmented, worm-like creature labeled 'COOKSONIA IMAGE BY SMITH609', shown to the right of the speaker as he explains the colonization of land by plants and then arthropods.",
+    "Prehistoric Reptile Illustrations": "Three illustrations of prehistoric reptiles by Nobu Tamura, displayed vertically. They represent \"the ancestors of what would eventually become reptiles and mammals\" that thrived in dry conditions, as explained by the Man in Denim Shirt.",
+    "Falkland Islands Map": "A detailed map showing the Falkland Islands (Islas Malvinas) in the Scotia Sea, with geographical labels and a red circle highlighting the islands.",
+    "Dimetrodon Animation": "An animated Dimetrodon with a large, colorful sail, standing on a rocky outcrop. It visually represents the kind of life that thrived before the cataclysmic end of the Paleozoic era.",
+    "Siberian Traps": "An aerial photograph of a rugged, green and gray mountainous landscape with patches of snow, labeled 'SIBERIAN TRAPS'. The Man in Denim Shirt links this location to \"massive volcanic eruptions\" that covered large swaths of Pangea in lava, another potential cause for the Great Dying.",
+    "Trilobite Animation": "An animated underwater scene showing multiple trilobites swimming among coral-like formations in a blue-green ocean. The Man in Denim Shirt refers to them as \"our friends the trilobites\" who were survivors of previous extinctions, and later, with a touch of personal sentiment, states, \"I still miss those guys.\" Their mention is accompanied by a gentle, melancholic synth sound.",
+    "Map of Falkland Islands": "A map highlighting the Falkland Islands (Islas Malvinas) in the Scotia Sea with a red circle. It is presented by the Man in Denim Shirt as a potential location for \"a possible meteorite impact off the coast of South America,\" which might be one clue to the Great Dying.",
+    "THE GREAT DYING Title Card": "Bold white text reading 'THE GREAT DYING' appearing beside the Man in Denim Shirt. It names the event described by the Man in Denim Shirt as \"the most severe extinction in our planet's history,\" with its exact cause still unclear.",
+    "Fossilized Footprints": "Close-up of fossilized footprints in cracked, reddish-brown sedimentary rock, labeled 'FOSSILIZED FOOTPRINTS'. They are described by the Man in Denim Shirt as \"the first vertebrate footprints in the mud\" left by early amphibians.",
+    "Siberian Traps Image": "An aerial photograph of a mountainous, vegetated landscape with snow patches, labeled 'SIBERIAN TRAPS', illustrating a major volcanic region linked to the Great Dying.",
+    "Bee Illustration": "A yellow and black bee illustration with translucent wings, shown in a white-bordered frame, presented as an example of modern groups of organisms that evolved during the Mesozoic.",
+    "Shrew-like Mammal Illustration": "A small, brown and gray illustration of a shrew-like mammal with large eyes and a long snout, shown in a white-bordered frame, presented as an example of modern groups of organisms that evolved during the Mesozoic.",
+    "Asteroid Impact Animation": "An animated scene of a massive asteroid burning brightly as it enters Earth's atmosphere, trailing fire and smoke, visually representing the asteroid impact discussed by the speaker as the cause of the KPG extinction.",
+    "T. rex Skeleton": "A large, mounted T. rex skeleton in a museum exhibit, displayed on a raised platform with spotlights, surrounded by other dinosaur skeletons and informational panels, appearing as the speaker discusses non-avian dinosaurs.",
+    "T. rex Animation": "A dynamic, lifelike animation of a T. rex in a running pose, with textured skin, blue eyes, and a long tail, set against a plain gray background, appearing during an interlude with upbeat, adventurous background music.",
+    "Flowers Illustration": "A cluster of yellow flowers with green stems and leaves, shown in a white-bordered frame, presented as an example of modern groups of organisms that evolved during the Mesozoic.",
+    "MESOZOIC ERA Title Card": "A dark, atmospheric title card with white text reading 'MESOZOIC ERA' and '252 - 66 million years ago', set against a smoky, dark background with faint fossil-like textures, appearing as the speaker introduces the Mesozoic Era.",
+    "Frog Illustration": "A green frog illustration with yellow eyes and dark spots, shown in a white-bordered frame, presented as an example of modern groups of organisms that evolved during the Mesozoic.",
+    "CRETACEOUS-PALEOGENE BOUNDARY Image": "A wide shot of a desert rock formation with visible sedimentary layers and sparse vegetation, shown in a white-bordered frame with the label 'CRETACEOUS-PALEOGENE BOUNDARY' at the bottom, visually representing the geological evidence of the extinction event discussed by the speaker.",
+    "CRETACEOUS-PALEOGENE EXTINCTION EVENT Title Card": "A bold, white text title card reading 'CRETACEOUS-PALEOGENE EXTINCTION EVENT' on a dark, smoky background, appearing as the speaker names this specific extinction event.",
+    "Stegosaurus Animation": "An animated Stegosaurus with a row of plates along its back, walking through a misty, forested landscape, serving as a visual example of the 'biggest reptiles of the land' that were victims of the KPG extinction.",
+    "Sauropod Animation": "An animated long-necked dinosaur with a textured gray body and a row of spines along its back, walking across a plain with mountains in the background, serving as a visual example of the 'biggest reptiles of the land' that were victims of the KPG extinction.",
+    "Map of Yucatán Peninsula": "A map highlighting the Yucatán Peninsula with a red circle marking the Chicxulub Crater, visually representing the 'giant impact crater in the Gulf of Mexico' that the speaker identifies as the 'smoking gun' for the asteroid hypothesis.",
+    "Lush Jungle Scene": "A vibrant, dense jungle with a small stream flowing over moss-covered rocks, surrounded by large trees and lush green foliage, visually representing the 'jungles stretched across the planet' as the climate warmed after the KPG extinction.",
+    "CENOZOIC ERA Title Card": "A full-screen title card with white text 'CENOZOIC ERA' and '66 million years ago - present', set against a smoky, dark background, explicitly naming and dating the era that the speaker identifies as 'our era' and the period of mammal rise.",
+    "Prehistoric Human and Hyenas Illustration": "An animated scene of a bare-chested, dark-skinned prehistoric human running through tall grass alongside two hyenas in a dusty, arid landscape, visually representing the 'modern humans' who inhabited the globe and lived alongside 'Ice Age megafauna'.",
+    "Stylized Earth Model": "A small, simplified model of Earth with green continents and blue oceans, appearing to the left of the speaker during his discussion of Sahelanthropus.",
+    "Sahelanthropus Fossil Skull": "A framed image of a fossilized hominid skull, labeled 'SAHELANTHROPUS', with on-screen text stating '***PROBABLY? EXPERTS DISAGREE ABOUT THE FIRST BIPEDAL PRIMATE.' The speaker explicitly identifies it as 'Sahelanthropus' and highlights its significance as the 'first known primate to walk upright' 7 million years ago.",
+    "Mesohippus Illustration": "A framed illustration of a herd of small, spotted, horse-like animals running through tall grass, labeled 'MESOHIPPUS' and credited to Heinrich Harder, serving as a visual example of the 'ancestral horses' that thrived in the new grassland habitat.",
+    "Woolly Mammoth Illustration": "A detailed illustration of a woolly mammoth with long, curved tusks standing in a snowy landscape with pine trees and mountains, birds flying overhead, serving as a visual representation of the 'giants like mammoths' that thrived during the Ice Age.",
+    "YOUTUBE.COM/EONS Text": "White text displaying 'YOUTUBE.COM/EONS' on screen, appearing as the Man in Denim Shirt encourages viewers to subscribe to the channel.",
+    "Logging Operation": "A real-world shot of a red forklift moving logs in a mountainous area with cut timber, shown during an upbeat musical interlude.",
+    "Tractor Plowing Field": "A green tractor pulling a red plow across a field under a cloudy sky, shown during an upbeat musical interlude.",
+    "Credits Sequence": "A full-screen credits sequence displayed over an animated deep-sea environment, listing production roles, image sources, and social media handles for the EONS show, with the PBS Digital Studios logo visible in the top left corner, all underscored by atmospheric instrumental background music.",
+    "Modern Cityscape at Night": "An aerial view of a city at night with illuminated buildings and light trails from vehicles on a highway, featured during an upbeat musical interlude.",
+    "BRAINCRAFT Inset": "A small white-bordered frame in the top left corner showing a woman with dark hair, labeled 'BRAINCRAFT', toward which the Man in Denim Shirt gestures while promoting 'sister channels' from PBS Digital Studios.",
+    "EONS Title Card": "A full-screen title card with the word 'EONS' in large white letters, set against a deep blue underwater background with swimming fish and a shark, serving as the backdrop for the credits sequence, over which atmospheric instrumental music plays."
+  }
+}

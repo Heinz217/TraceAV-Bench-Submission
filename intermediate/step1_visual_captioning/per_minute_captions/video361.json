@@ -1,0 +1,805 @@
+{
+    "video_id": "video361",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video opens with a dark blue background and a title card reading 'HOW THE ECONOMIC MACHINE WORKS In 30 Minutes' in white, stylized text, framed by decorative lines and a small icon of a person. The title then transitions to 'THE ECONOMY' with letters dynamically rearranging and floating, accompanied by small cloud-like bursts. A hand holding a pen appears, drawing a wavy line that represents economic fluctuations, with labels like 'M*V=P*Y' and 'V=(P*Y)/M' appearing briefly. The scene shifts to interlocking gears made of stick figures, labeled with commodities like 'CORN', 'OIL', and 'STEEL', symbolizing interconnected economic sectors. These gears rotate and interlock, forming a complex network with labels such as 'CHEMICAL', 'FINANCE', 'COFFEE', and 'NATURAL GAS'. The central text 'THE ECONOMY' remains prominent as the gears continue to move. The video then transitions to a light beige background, showing a simple line graph labeled 'PRODUCTIVITY GROWTH' with a smooth upward curve, followed by a jagged line labeled 'SHORT TERM DEBT CYCLE', illustrating economic cycles.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "Title Card": "White text on dark blue background reading 'HOW THE ECONOMIC MACHINE WORKS In 30 Minutes' with decorative framing and a small person icon.",
+                "Animated Text 'THE ECONOMY'": "White letters dynamically rearranging and floating with cloud-like bursts, forming the word 'ECONOMY'.",
+                "Hand with Pen": "A stylized hand holding a pen, drawing a wavy line representing economic fluctuations, with equations like 'M*V=P*Y' appearing briefly.",
+                "Interlocking Gears": "Gears composed of stick figures, labeled with commodities and industries (e.g., 'CORN', 'OIL', 'STEEL', 'CHEMICAL', 'FINANCE'), rotating and interlocking to form a network.",
+                "Line Graph": "A simple graph on a beige background showing 'PRODUCTIVITY GROWTH' with a smooth upward curve and 'SHORT TERM DEBT CYCLE' with a jagged line."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The video begins with a beige background displaying three line graphs: 'PRODUCTIVITY GROWTH' as a smooth upward curve, 'SHORT TERM DEBT CYCLE' as a jagged oscillating line, and 'LONG TERM DEBT CYCLE' as a large arc. These graphs are then combined into a single graph where the jagged line overlays the upward trend, illustrating economic fluctuations around a growth path. The scene transitions to a dark green background with the word 'TRANSACTIONS' in white, flanked by two stick figures. The background shifts back to beige, and the figures are labeled 'BUYER' and 'SELLER', exchanging green money and brown boxes labeled 'STOCKS'. The transaction is marked with a red 'Transaction!' text. The exchange evolves to include 'CREDIT' notes alongside money, and the seller’s boxes are labeled 'FINANCIAL ASSETS'. The video then shows a formula: 'MONEY + CREDIT = TOTAL SPENDING', followed by 'TOTAL SPENDING / TOTAL QUANTITY = PRICE', visually represented with icons and a price tag. The final frame shows the buyer and seller again, with the transaction labeled 'Transaction!' and a price tag appearing, emphasizing the relationship between spending, quantity, and price.",
+            "active_entities": {
+                "Line Graph": "A simple graph on a beige background showing 'PRODUCTIVITY GROWTH' with a smooth upward curve, 'SHORT TERM DEBT CYCLE' with a jagged line, and 'LONG TERM DEBT CYCLE' as a large arc, later combined into one graph with the jagged line overlaying the growth trend."
+            },
+            "discovered_new_entities": {
+                "Animated Text 'TRANSACTIONS'": "White text on a dark green background, flanked by two stick figures with curved arrows indicating exchange.",
+                "Stick Figure Buyer and Seller": "Two minimalist stick figures, each wearing a gray vest with three buttons, labeled 'BUYER' and 'SELLER', exchanging green money and brown boxes labeled 'STOCKS', later including 'CREDIT' notes and 'FINANCIAL ASSETS'.",
+                "Money and Credit Icons": "Green dollar bills and white 'CREDIT' notes, used to represent total spending in a formulaic equation.",
+                "Financial Assets Icon": "Brown boxes labeled 'STOCKS' and a broom, later labeled 'FINANCIAL ASSETS', exchanged by the seller.",
+                "Formula Display": "A visual equation showing 'MONEY + CREDIT = TOTAL SPENDING' and 'TOTAL SPENDING / TOTAL QUANTITY = PRICE', with corresponding icons and a price tag.",
+                "Price Tag Icon": "A gray tag with three dollar signs ($$$), appearing to represent the result of the spending-to-quantity ratio."
+            }
+        },
+        {
+            "minute": 3,
+            "caption": "The video begins with two minimalist stick figures, each wearing a gray vest with three buttons, exchanging green money and brown boxes labeled 'STOCKS' under the red text 'Transaction!', illustrating a basic economic exchange. The scene transitions to show a man and a woman in similar attire exchanging a stack of money and a single box, emphasizing the simplicity of transactions. This evolves into a circular arrangement of multiple stick figures exchanging goods and money, forming a ring labeled 'MARKET' in bold black text. The background shifts to dark blue, and the market rings multiply, each labeled with different commodities like 'WHEAT', 'CAB', 'STEEL', 'CHEMICAL', and 'SUGAR', symbolizing diverse markets. These rings interlock and expand into a dense network, culminating in the central text 'THE ECONOMY' in white. The scene then transitions to a beige background with a formula: 'TOTAL SPENDING' (represented by stacks of green money and 'CREDIT' notes) divided by 'TOTAL QUANTITY' (represented by brown boxes labeled 'STOCKS' and a broom, now labeled 'FINANCIAL ASSETS'), visually forming a price equation. The video then shows a single transaction between two stick figures, which expands into a network of transactions involving buildings representing businesses, banks, and government (Capitol building), each with outstretched arms exchanging money and assets. The final frame focuses on the Capitol building, symbolizing government's role in the economy.",
+            "active_entities": {
+                "Stick Figure Buyer and Seller": "Two minimalist stick figures, each wearing a gray vest with three buttons, exchanging green money and brown boxes labeled 'STOCKS', later including 'CREDIT' notes and 'FINANCIAL ASSETS'.",
+                "Money and Credit Icons": "Green dollar bills and white 'CREDIT' notes, used to represent total spending in a formulaic equation.",
+                "Financial Assets Icon": "Brown boxes labeled 'STOCKS' and a broom, later labeled 'FINANCIAL ASSETS', exchanged by the seller.",
+                "Formula Display": "A visual equation showing 'TOTAL SPENDING' (money and credit) divided by 'TOTAL QUANTITY' (financial assets) to represent price.",
+                "Interlocking Gears": "Gears composed of stick figures, labeled with commodities and industries (e.g., 'WHEAT', 'CAB', 'STEEL', 'CHEMICAL', 'SUGAR'), rotating and interlocking to form a network.",
+                "Animated Text 'THE ECONOMY'": "White letters dynamically rearranging and floating with cloud-like bursts, forming the word 'ECONOMY'."
+            },
+            "discovered_new_entities": {
+                "Animated Text 'MARKET'": "Bold black text centered within a circular ring of stick figures exchanging goods and money.",
+                "Government Building (Capitol)": "A stylized drawing of the U.S. Capitol building with a dome and flag, appearing as a central entity in the economic network, with outstretched arms exchanging money and assets.",
+                "Business Building": "A simple rectangular building with windows, representing a corporate entity, with outstretched arms participating in transactions.",
+                "Bank Building": "A classical-style building with columns, representing a financial institution, with outstretched arms exchanging money and assets."
+            }
+        },
+        {
+            "minute": 4,
+            "caption": "The video begins with a stylized drawing of a government building, which then splits into two distinct entities: the 'CENTRAL GOVERNMENT' and the 'CENTRAL BANK', each labeled beneath their respective buildings. The Central Government extends an arm in a gesture of offering, while the Central Bank responds with a thumbs-down, indicating disapproval or independence. The focus then shifts entirely to the Central Bank, which is shown with two arms raised in a triumphant or powerful pose before returning to a neutral state. From the Central Bank, two arrows point to 'INTEREST RATES' (represented by a lever) and 'PRINTING MONEY' (a machine producing green bills), illustrating its key tools. The scene transitions to a dark background with the word 'CREDIT' in bold white letters, which then appears on a beige background with the phrase 'THE MOST IMPORTANT PART OF THE ECONOMY' beneath it. A long scroll labeled 'CREDIT' unfurls, leading to a transaction scene where a 'BUYER' and 'SELLER' exchange money and goods. This evolves into a lending scenario: a 'LENDER' (a classical bank building with an arm) gives money to a 'BORROWER' (a stick figure), who in turn gives a 'CREDIT' note. Thought bubbles appear above both: the Lender imagines stacks of money, while the Borrower imagines a house, then a car, and finally a house and car together, symbolizing aspirations funded by credit.",
+            "active_entities": {
+                "Government Building (Capitol)": "Stylized drawing of the U.S. Capitol building, initially whole, then split into two labeled entities: 'CENTRAL GOVERNMENT' and 'CENTRAL BANK'. The Central Government extends an arm, while the Central Bank gives a thumbs-down.",
+                "Stick Figure Buyer and Seller": "Minimalist stick figures wearing gray vests with three buttons. Initially, they exchange green money and a brown box. Later, the Buyer becomes a Borrower, and the Seller becomes a Lender (represented by a bank building).",
+                "Bank Building": "A classical-style building with columns, labeled 'LENDER', extending an arm to give money to a Borrower. It has a thought bubble of stacked green money.",
+                "Money and Credit Icons": "Green dollar bills and white 'CREDIT' notes, used in the exchange between Lender and Borrower. The Borrower's thought bubble evolves from a house to a car, then both, symbolizing credit-fueled aspirations."
+            },
+            "discovered_new_entities": {
+                "Central Bank Building": "A classical-style building with a flag and a bat-like emblem, labeled 'CENTRAL BANK'. It is shown with arms raised in a powerful gesture before returning to a neutral state. Arrows from it point to 'INTEREST RATES' and 'PRINTING MONEY'.",
+                "Animated Text 'CREDIT'": "Bold white text on a dark background, then appearing on a beige background with the phrase 'THE MOST IMPORTANT PART OF THE ECONOMY' beneath it. Later, it appears on a scroll and as a note exchanged in a transaction.",
+                "Animated Text 'THE MOST IMPORTANT PART OF THE ECONOMY'": "Text appearing beneath the 'CREDIT' icon on a beige background, emphasizing its economic significance.",
+                "Interest Rates Icon": "A lever with a circular knob, labeled 'INTEREST RATES', connected by an arrow from the Central Bank.",
+                "Printing Money Machine": "A rolling press machine, labeled 'PRINTING MONEY', producing green dollar bills, connected by an arrow from the Central Bank.",
+                "CREDIT Scroll": "A long, unfurling scroll with the word 'CREDIT' repeated, visually representing the flow or importance of credit in the economy.",
+                "Thought Bubbles": "Cloud-shaped bubbles above the Lender and Borrower, containing images of money, a house, a car, and both, illustrating their respective motivations and aspirations."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video segment begins with a classical-style Bank Building labeled 'LENDER' extending an arm to hand a green dollar bill to a Stick Figure Borrower, who is labeled 'BORROWER'. The Lender has a thought bubble showing stacks of green money, while the Borrower’s thought bubble initially shows a house and a car, symbolizing aspirations. As the transaction progresses, the Borrower receives a 'CREDIT' note along with the money. A speech bubble appears above the Borrower stating 'IN THE FUTURE', which then expands to show 'PRINCIPAL + INTEREST', illustrating the future repayment obligation. The Borrower’s thought bubble changes to reflect the future repayment. The scene then zooms in on the 'CREDIT' note, which flips to reveal 'DEBT' on the other side, emphasizing the dual nature of credit. The Lender’s 'CREDIT' note is labeled 'ASSET', while the Borrower’s 'DEBT' note is labeled 'LIABILITY', highlighting the accounting perspective. Finally, the Borrower repays the Lender with green money, and the word 'Settled!' appears in red, indicating the transaction is complete. The Borrower’s thought bubble reverts to the house and car, suggesting fulfillment of aspirations.",
+            "active_entities": {
+                "Bank Building": "Classical-style building with columns, labeled 'LENDER', extending an arm to give money and a 'CREDIT' note to the Borrower. Its thought bubble shows stacks of green money.",
+                "Money and Credit Icons": "Green dollar bills and white 'CREDIT' notes exchanged between Lender and Borrower. The 'CREDIT' note flips to reveal 'DEBT' on the reverse side.",
+                "Thought Bubbles": "Cloud-shaped bubbles above the Lender and Borrower. The Lender’s bubble shows stacks of money; the Borrower’s evolves from house/car to 'IN THE FUTURE' with 'PRINCIPAL + INTEREST', then back to house/car."
+            },
+            "discovered_new_entities": {
+                "Stick Figure Borrower": "Minimalist stick figure wearing a gray vest with three buttons, labeled 'BORROWER'. Initially has a thought bubble with a house and car, which later changes to reflect future repayment. Receives money and a 'CREDIT' note, then repays with money.",
+                "Speech Bubble": "White speech bubble above the Borrower labeled 'IN THE FUTURE', which expands to show 'PRINCIPAL + INTEREST' with corresponding money stacks.",
+                "Text Labels": "Labels 'ASSET' and 'LIABILITY' appear below the 'CREDIT' and 'DEBT' notes, respectively, to denote their accounting roles. The word 'Settled!' appears in red cursive after repayment.",
+                "Animated Text 'Credit!'": "Appears in red cursive above the 'CREDIT' note during the exchange, emphasizing the concept."
+            }
+        },
+        {
+            "minute": 6,
+            "caption": "The video begins with a classical-style Bank Building labeled 'LENDER' and a Stick Figure Borrower, who gives a thumbs-up as the word 'Settled!' appears in red cursive, indicating a completed transaction. The Lender extends an arm, offering a 'CREDIT' note to the Borrower, who receives it and then holds green money, symbolizing increased spending. The scene transitions to show the Borrower spending money on a product, which becomes 'INCOME' for a Stick Figure Seller. This income is then spent by the Seller on another product, creating a cycle of 'SPENT' and 'EARN' between two figures, illustrating the flow of money in the economy. The video then shows multiple Bank Buildings extending arms to give money to a single Borrower, emphasizing credit expansion. Finally, the focus shifts to a 'CREDITWORTHY BORROWER' flexing, with a scale showing 'DEBT' vs. 'INCOME' (favoring income) and a pile of collateral (stocks, house, credit) below, highlighting the two criteria for creditworthiness: ability to repay and collateral if unable to. The scale tips to 'CREDITWORTHY' in green, and the collateral items are replaced by a large stack of money, reinforcing financial security. The segment ends with the Lender giving money to the Borrower again, completing the cycle.",
+            "active_entities": {
+                "Bank Building": "Classical-style building with columns, labeled 'LENDER', extending an arm to give money or a 'CREDIT' note to the Borrower.",
+                "Stick Figure Borrower": "Minimalist stick figure in a gray vest with three buttons, labeled 'BORROWER', who receives credit, spends money, and is later shown as 'CREDITWORTHY' flexing.",
+                "Money and Credit Icons": "Green dollar bills and white 'CREDIT' notes exchanged between the Lender and Borrower; the 'CREDIT' note flips to reveal 'DEBT' on the reverse side.",
+                "Text Labels": "Labels such as 'LENDER', 'BORROWER', 'Settled!', 'Credit!', 'INCREASED SPENDING', 'INCOME', 'SPENT', 'EARN', 'CREDITWORTHY BORROWER', '1. THE ABILITY TO REPAY', '2. COLLATERAL IF HE CAN'T', and 'CREDITWORTHY' appear to explain the economic concepts.",
+                "Animated Text 'Credit!'": "Appears in red cursive above the 'CREDIT' note during the exchange, emphasizing the concept."
+            },
+            "discovered_new_entities": {
+                "Scale Icon": "A balance scale with 'DEBT' on one side and 'INCOME' on the other, tipping in favor of income, with a green 'CREDITWORTHY' label appearing below.",
+                "Collateral Icons": "A pile of assets including a house, stocks, and a 'CREDIT' note, representing collateral for a loan, later replaced by a large stack of money.",
+                "Stick Figure Seller": "Minimalist stick figure in a gray vest with three buttons, labeled 'INCOME', who receives money from the Borrower and then spends it, becoming part of the spending cycle.",
+                "Multiple Bank Buildings": "Several identical classical-style bank buildings, each extending an arm to give money to the Borrower, illustrating credit expansion and multiple lenders.",
+                "CREDITWORTHY BORROWER": "A Stick Figure Borrower flexing, labeled 'CREDITWORTHY BORROWER', positioned next to a scale and collateral, emphasizing financial reliability."
+            }
+        },
+        {
+            "minute": 7,
+            "caption": "The video begins with a minimalist animation on a light blue background, introducing a cycle of economic activity. A Stick Figure Borrower, labeled 'BORROWING', holds green money and passes it to a Stick Figure Seller labeled 'INCOME', who then spends it on a box, becoming a Stick Figure Spender. This spending flows to another Stick Figure Income, creating a chain. The cycle expands, showing multiple instances of Borrowing, Spending, Income, and Productivity, with red squiggly arrows indicating the flow. The word 'CYCLES' appears in bold white text, emphasizing the recurring nature of these economic interactions. The scene transitions to a beige background where two Stick Figure Sellers exchange green money and brown boxes labeled 'STOCKS', symbolizing financial assets. A circular arrow forms between them, illustrating a continuous exchange. A graph appears with 'GROWTH (GDP)' on the vertical axis and 'TIME' on the horizontal, showing a steady upward line. A Stick Figure Seller walks along this line, carrying a box, symbolizing productivity growth. The graph then displays multiple lines diverging from the same origin, with the text 'PRODUCTIVITY MATTERS' appearing above. The graph shifts to show a curved line labeled 'CREDIT' with the text 'CREDIT MATTERS IN THE SHORT RUN', followed by a wavy line intersecting the growth trend, labeled 'PRODUCTIVITY GROWTH', illustrating the interplay between credit and productivity over time.",
+            "active_entities": {
+                "Stick Figure Borrower": "Minimalist stick figure in a gray vest with three buttons, labeled 'BORROWING', holding green money and initiating the economic cycle by passing it to a Stick Figure Seller.",
+                "Stick Figure Seller": "Minimalist stick figure in a gray vest with three buttons, labeled 'INCOME', receiving money and then spending it on a box, becoming a Stick Figure Spender."
+            },
+            "discovered_new_entities": {
+                "Stick Figure Spender": "Minimalist stick figure in a gray vest with three buttons, labeled 'SPENDING', holding a brown box and passing it to another Stick Figure Income.",
+                "Stick Figure Income": "Minimalist stick figure in a gray vest with three buttons, labeled 'INCOME', receiving a box and then passing money to a Stick Figure Spender, continuing the cycle.",
+                "Stick Figure Productivity": "Minimalist stick figure in a gray vest with three buttons, labeled 'PRODUCTIVITY', bending over a box, symbolizing productive effort.",
+                "Animated Text 'CYCLES'": "Bold white text appearing centrally on a light blue background, emphasizing the recurring nature of the economic interactions shown.",
+                "Graph": "A simple line graph on a beige background with 'GROWTH (GDP)' on the vertical axis and 'TIME' on the horizontal, initially showing a steady upward line, then multiple diverging lines, and finally a wavy line intersecting the growth trend.",
+                "Stick Figure Seller (Financial Assets Exchange)": "Minimalist stick figure in a gray vest with three buttons, exchanging green money and brown boxes labeled 'STOCKS' with another Stick Figure Seller, symbolizing financial asset transactions.",
+                "Circular Arrow": "A curved arrow forming between two Stick Figure Sellers, indicating a continuous exchange of money and financial assets.",
+                "Text 'PRODUCTIVITY MATTERS'": "Bold black text appearing above the graph, emphasizing the importance of productivity in long-term growth.",
+                "Text 'CREDIT MATTERS IN THE SHORT RUN'": "Bold black text appearing above the graph, highlighting the role of credit in short-term economic fluctuations.",
+                "Text 'PRODUCTIVITY GROWTH'": "Label appearing below the graph, describing the wavy line that intersects the growth trend, illustrating the dynamic relationship between productivity and economic growth.",
+                "Red Squiggly Arrows": "Curved red lines with small loops, appearing between economic actors to indicate the flow of money and goods within the cycle.",
+                "Multiple Economic Cycles": "Repeating instances of Borrowing, Spending, Income, and Productivity, arranged in a pattern to show the expansion and repetition of the economic cycle.",
+                "Beige Background": "A plain, light beige background used for the latter part of the segment, providing a neutral canvas for the graph and financial asset exchange animations."
+            }
+        },
+        {
+            "minute": 8,
+            "caption": "The segment begins with a line graph on a beige background, plotting 'GROWTH (GDP)' against 'TIME', with a thick black curve representing economic growth and a gray diagonal line indicating a baseline trend. The x-axis is labeled 'DEBT', and the graph shows the growth curve rising above the trend line, then dipping below it, illustrating economic cycles. Text labels 'MORE THAN WE PRODUCE' and 'LESS THAN WE PRODUCE' appear with arrows pointing to the respective peaks and troughs, emphasizing the relationship between debt and production. The graph then evolves to show smaller, rapid oscillations superimposed on the main curve, representing short-term cycles, with text '5-8 YEARS' appearing to denote their duration. The view zooms out to reveal a larger cycle labeled '75-100 YEARS', indicating long-term debt cycles. The graph transitions to show 'CREDIT' on the x-axis, with labels 'MORE INNOVATION' and 'LESS INNOVATION' appearing at the peaks and troughs, linking credit expansion to innovation. The scene then shifts to a circular diagram on a light blue background, showing a cycle of 'INCOME', 'SPENDING', and 'PRODUCTIVITY' with stick figures and red squiggly arrows indicating the flow. The 'PRODUCTIVITY' figure is shown bending over a box, and a hand points to it, with text 'PRODUCTIVITY (GROWTH HERE)' appearing in green, underscoring its role as the true source of long-term growth. The graph reappears, now with 'CREDIT' on the x-axis, and the cycle of innovation is highlighted. The segment ends with the graph showing the wavy line of productivity growth intersecting the long-term trend, reinforcing the message that while credit drives short-term cycles, productivity is the foundation of sustainable growth.",
+            "active_entities": {
+                "Graph": "A line graph on a beige background with 'GROWTH (GDP)' on the vertical axis and 'TIME' on the horizontal, showing a thick black curve for economic growth and a gray diagonal trend line. The x-axis label changes from 'DEBT' to 'CREDIT' during the segment. The graph evolves to show short-term oscillations and long-term cycles, with text labels like '5-8 YEARS' and '75-100 YEARS' appearing to denote cycle durations. Later, it displays 'MORE INNOVATION' and 'LESS INNOVATION' to link credit to innovation. The graph reappears with 'CREDIT' on the x-axis and the wavy line of productivity growth intersecting the trend.",
+                "Text Labels": "Labels such as 'MORE THAN WE PRODUCE', 'LESS THAN WE PRODUCE', '5-8 YEARS', '75-100 YEARS', 'MORE INNOVATION', 'LESS INNOVATION', 'CREDIT', 'PRODUCTIVITY (GROWTH HERE)', and 'PRODUCTIVITY GROWTH' appear sequentially to explain the economic concepts. The text 'PRODUCTIVITY (GROWTH HERE)' appears in green, emphasizing its importance.",
+                "Stick Figure Productivity": "A minimalist stick figure in a gray vest with three buttons, labeled 'PRODUCTIVITY', bending over a box to symbolize productive effort. A hand points to it, and the text 'PRODUCTIVITY (GROWTH HERE)' appears in green below, highlighting its role as the source of true economic growth.",
+                "Red Squiggly Arrows": "Curved red lines with small loops, appearing between the 'INCOME', 'SPENDING', and 'PRODUCTIVITY' stick figures in the circular diagram, indicating the flow of money and goods within the economic cycle."
+            },
+            "discovered_new_entities": {
+                "Circular Diagram": "A circular layout on a light blue background showing three stick figures labeled 'INCOME', 'SPENDING', and 'PRODUCTIVITY', arranged in a cycle with red squiggly arrows connecting them to illustrate the flow of economic activity.",
+                "Hand": "A stylized hand pointing to the 'PRODUCTIVITY' stick figure, drawing attention to it as the source of growth, with the text 'PRODUCTIVITY (GROWTH HERE)' appearing in green below."
+            }
+        },
+        {
+            "minute": 9,
+            "caption": "The video begins with a circular diagram on a light blue background, showing three stick figures labeled 'INCOME', 'SPENDING', and 'PRODUCTIVITY (GROWTH HERE)', connected by red squiggly arrows to illustrate the flow of economic activity. The 'PRODUCTIVITY' figure is bent over a box, emphasizing productive effort, and a hand points to it, reinforcing its role as the source of growth. The scene transitions to a beige background where a line graph appears, labeled 'PRODUCTIVITY GROWTH' on the x-axis and 'GROWTH' on the y-axis, showing a smooth upward curve. This graph then evolves to include a wavy line representing economic cycles, with text labels '5-8 YEARS' and '75-100 YEARS' appearing to denote short-term and long-term cycles. The scene shifts to a bank building extending an arm to give money to a stick figure, with the text 'BECAUSE WE BORROW, WE HAVE CYCLES' appearing above. The bank is shown exchanging 'CREDIT' notes with the figure, and a graph of cycles is displayed next to it. The video then shows multiple stick figures, some holding stacks of 'CREDIT' notes, with a large hand pointing to them, illustrating the expansion of credit. The figures are shown in various states—some standing tall with credit, others bent over under its weight—highlighting the cyclical nature of borrowing. A large blue wave overlays the figures, visually representing the economic cycle. The scene concludes with the figures dispersing, some still holding credit, others empty-handed, as the cycle continues.",
+            "active_entities": {
+                "Circular Diagram": "A circular layout on a light blue background showing three stick figures labeled 'INCOME', 'SPENDING', and 'PRODUCTIVITY (GROWTH HERE)', arranged in a cycle with red squiggly arrows connecting them to illustrate the flow of economic activity.",
+                "Stick Figure Productivity": "A minimalist stick figure in a gray vest with three buttons, labeled 'PRODUCTIVITY', bending over a box to symbolize productive effort. A hand points to it, and the text 'PRODUCTIVITY (GROWTH HERE)' appears in green below, highlighting its role as the source of true economic growth.",
+                "Red Squiggly Arrows": "Curved red lines with small loops, appearing between the 'INCOME', 'SPENDING', and 'PRODUCTIVITY' stick figures in the circular diagram, indicating the flow of money and goods within the economic cycle.",
+                "Graph": "A line graph on a beige background with 'GROWTH (GDP)' on the vertical axis and 'TIME' on the horizontal, showing a thick black curve for economic growth and a gray diagonal trend line. The x-axis label changes from 'DEBT' to 'CREDIT' during the segment. The graph evolves to show short-term oscillations and long-term cycles, with text labels like '5-8 YEARS' and '75-100 YEARS' appearing to denote cycle durations. Later, it displays 'MORE INNOVATION' and 'LESS INNOVATION' to link credit to innovation. The graph reappears with 'CREDIT' on the x-axis and the wavy line of productivity growth intersecting the trend.",
+                "Bank Building": "Classical-style building with columns, labeled 'LENDER', extending an arm to give money or a 'CREDIT' note to the Borrower.",
+                "Stick Figure Borrower": "Minimalist stick figure in a gray vest with three buttons, labeled 'BORROWING', holding green money and initiating the economic cycle by passing it to a Stick Figure Seller.",
+                "Money and Credit Icons": "Green dollar bills and white 'CREDIT' notes exchanged between the Lender and Borrower; the 'CREDIT' note flips to reveal 'DEBT' on the reverse side.",
+                "Hand": "A stylized hand pointing to the 'PRODUCTIVITY' stick figure, drawing attention to it as the source of growth, with the text 'PRODUCTIVITY (GROWTH HERE)' appearing in green below.",
+                "Animated Text 'CYCLES'": "Bold white text appearing centrally on a light blue background, emphasizing the recurring nature of the economic interactions shown."
+            },
+            "discovered_new_entities": {
+                "Animated Text 'BECAUSE WE BORROW, WE HAVE CYCLES'": "Bold black text appearing above the bank and borrower, emphasizing the causal relationship between borrowing and economic cycles.",
+                "Multiple Stick Figures with Credit": "Several minimalist stick figures in gray vests with three buttons, some standing tall holding large stacks of 'CREDIT' notes, others bent over under the weight of their credit, illustrating the varying impacts of borrowing.",
+                "Large Blue Wave": "A thick blue wavy line overlaying the multiple stick figures, visually representing the economic cycle and its peaks and troughs."
+            }
+        },
+        {
+            "minute": 10,
+            "caption": "The video begins with a wide shot of multiple stick figures, some standing tall and others bent over, each holding stacks of 'CREDIT' notes, visually representing the varying burdens of debt. A large blue wave overlays them, symbolizing the economic cycle. The scene transitions to a beige background with a 'MONEY vs. CREDIT' comparison, showing green dollar bills on one side and white 'CREDIT' notes on the other. The narrative shifts to a bar setting where a stick figure customer and a bartender interact. Initially, the customer pays with money for a beer, marked 'Settled!'. The scene then shows an alternative: the customer receives a beer and a 'DEBT' note, while the bartender gets a 'TAB' note, labeled as an 'ASSET' for the bartender and a 'LIABILITY' for the customer. Later, the customer pays the debt with money, and the bartender’s 'CREDIT' note is settled. The video then displays a formula: 'TOTAL DOLLARS' (money and credit) divided by 'TOTAL QUANTITY' (financial assets), resulting in a price tag. This is followed by a visual of a vast sea of 'CREDIT' notes, with only a few green dollar bills, emphasizing the dominance of credit over actual money in the economy.",
+            "active_entities": {
+                "Multiple Stick Figures with Credit": "Several minimalist stick figures in gray vests with three buttons, some standing tall holding large stacks of 'CREDIT' notes, others bent over under the weight of their credit, illustrating the varying impacts of borrowing.",
+                "Large Blue Wave": "A thick blue wavy line overlaying the multiple stick figures, visually representing the economic cycle and its peaks and troughs.",
+                "Money and Credit Icons": "Green dollar bills and white 'CREDIT' notes exchanged between the Lender and Borrower; the 'CREDIT' note flips to reveal 'DEBT' on the reverse side.",
+                "Stick Figure Buyer and Seller": "Minimalist stick figures wearing gray vests with three buttons. Initially, they exchange green money and a brown box. Later, the Buyer becomes a Borrower, and the Seller becomes a Lender (represented by a bank building).",
+                "Formula Display": "A visual equation showing 'TOTAL SPENDING' (money and credit) divided by 'TOTAL QUANTITY' (financial assets) to represent price.",
+                "Price Tag Icon": "A gray tag with three dollar signs ($$$), appearing to represent the result of the spending-to-quantity ratio."
+            },
+            "discovered_new_entities": {
+                "Animated Text 'MONEY vs. CREDIT'": "White text on a beige background, flanked by green dollar bills and white 'CREDIT' notes, visually contrasting the two forms of payment.",
+                "Bar Setting": "A beige background with a clock, hanging light, and shelves of bottles, featuring a stick figure customer and a bartender in a vest with a bow tie, exchanging goods and notes.",
+                "Animated Text 'Settled!'": "Red cursive text appearing above the exchange of money and beer, indicating the transaction is complete.",
+                "Animated Text 'Instead'": "Beige text on a label, appearing to introduce an alternative transaction method using credit.",
+                "Animated Text 'Later'": "Beige text on a label, indicating a time shift to the settlement of the credit transaction.",
+                "DEBT Note": "A gray note labeled 'DEBT', exchanged by the customer, representing a liability.",
+                "TAB Note": "A white scroll labeled 'TAB', exchanged by the bartender, representing an asset.",
+                "CREDIT Note (Bar Context)": "A white note labeled 'CREDIT', exchanged by the bartender, representing the asset side of the credit transaction.",
+                "Liability and Asset Labels": "Text labels 'LIABILITY' and 'ASSET' appearing below the customer and bartender respectively, clarifying the financial nature of the credit transaction."
+            }
+        },
+        {
+            "minute": 11,
+            "caption": "The video begins with a dense field of stacks labeled 'CREDIT', visually overwhelming the viewer, before transitioning to a simplified beige background. The title 'AN ECONOMY WITHOUT CREDIT' appears, showing a small stack of green money labeled 'TOTAL SPENDING' alongside three stick figures: 'INCOME', 'SPENDING', and 'PRODUCTIVITY (GROWTH HERE)', with red squiggly arrows indicating a circular flow. The scene then shifts to 'AN ECONOMY WITH CREDIT', where the money stack is now surrounded by stacks of 'CREDIT' notes, and the 'INCOME' figure is labeled 'CREDIT (GROWTH HERE)', emphasizing credit's role in growth. A graph then appears, comparing 'WITH CREDIT' (a black curved line) and 'WITHOUT CREDIT' (a gray straight line), showing accelerated growth with credit. The black line then dips sharply, illustrating a credit-driven boom-and-bust cycle, with the text 'CREDIT ISN'T BAD' appearing. The narrative continues with 'CREDIT IS BAD WHEN:' showing two stick figures exchanging money for a TV, symbolizing consumption without productivity. This is contrasted with 'CREDIT IS GOOD WHEN:', where a farmer receives a tractor key from a lender, symbolizing productive investment. The farmer then drives the tractor, planting seeds that grow into corn stalks bearing money, visually representing productive growth. The final scene shows a repeating pattern of the 'INCOME', 'SPENDING', 'PRODUCTIVITY' cycle, now with credit notes flowing, reinforcing the idea that credit fuels economic activity when used productively. The background remains consistently beige, with clean, minimalist line art and bold text labels to guide the viewer through the economic concepts.",
+            "active_entities": {
+                "Stick Figure Income": "Minimalist stick figure in a gray vest with three buttons, labeled 'INCOME', initially receiving money, later labeled 'CREDIT (GROWTH HERE)' when credit is introduced.",
+                "Stick Figure Productivity": "Minimalist stick figure in a gray vest with three buttons, labeled 'PRODUCTIVITY (GROWTH HERE)', bending over a box, symbolizing productive effort, with a green text label emphasizing growth.",
+                "Red Squiggly Arrows": "Curved red lines with small loops connecting the 'INCOME', 'SPENDING', and 'PRODUCTIVITY' stick figures, indicating the flow of money and goods in the economic cycle.",
+                "Graph": "A line graph on a beige background with a vertical axis (growth) and horizontal axis (time). It shows a gray diagonal line for 'WITHOUT CREDIT' and a black curved line for 'WITH CREDIT', which initially rises faster but then dips sharply to illustrate a boom-bust cycle. Labels 'WITH CREDIT' and 'WITHOUT CREDIT' appear with arrows pointing to the respective lines.",
+                "Multiple Economic Cycles": "Repeating instances of the 'INCOME', 'SPENDING', 'PRODUCTIVITY' cycle, now with 'CREDIT' notes flowing, arranged in a pattern to show the expansion and repetition of the economic cycle."
+            },
+            "discovered_new_entities": {
+                "Animated Text 'AN ECONOMY WITHOUT CREDIT'": "Bold black text at the top of the screen, introducing the first economic scenario.",
+                "Animated Text 'AN ECONOMY WITH CREDIT'": "Bold black text replacing the previous title, introducing the second scenario with credit.",
+                "Stick Figure Spending": "Minimalist stick figure in a gray vest with three buttons, labeled 'SPENDING', holding a brown box, part of the circular flow.",
+                "Green Money Stack": "Stacks of green dollar bills labeled 'TOTAL SPENDING', initially alone, then surrounded by 'CREDIT' notes.",
+                "White 'CREDIT' Notes": "Stacks of white notes labeled 'CREDIT', appearing around the money stack to represent credit expansion.",
+                "Animated Text 'CREDIT ISN'T BAD'": "Bold black text appearing above the graph, emphasizing that credit itself is not inherently negative.",
+                "Animated Text 'CREDIT IS BAD WHEN:'": "Bold black text introducing a scenario where credit is misused, shown with two stick figures exchanging money for a TV.",
+                "Animated Text 'CREDIT IS GOOD WHEN:'": "Bold black text introducing a scenario where credit is used productively, shown with a farmer receiving a tractor key.",
+                "Stick Figure Farmer": "Minimalist stick figure in a gray vest with three buttons and a hat, receiving a key from a lender, then driving a tractor to plant seeds.",
+                "Tractor": "A gray vintage-style tractor with a large front wheel, driven by the farmer, pulling a plow to plant seeds.",
+                "Corn Stalks": "Rows of gray corn stalks growing from the soil, with green money bills sprouting from their leaves, symbolizing productive growth.",
+                "Animated Text 'PRODUCTIVITY (GROWTH HERE)'": "Green text label appearing below the 'PRODUCTIVITY' stick figure, emphasizing its role as the source of true economic growth."
+            }
+        },
+        {
+            "minute": 12,
+            "caption": "The video begins with a light blue background displaying a repeating pattern of a circular economic cycle involving four stick figures labeled 'INCOME', 'SPENDING', 'PRODUCTIVITY', and 'CREDIT'. Red squiggly arrows connect them, illustrating the flow of money and goods. As the sequence progresses, the cycle expands to show multiple iterations, with green money stacks and white 'CREDIT' notes appearing. Text labels such as '+$100,000' and '-$110,000' appear next to the figures, indicating financial gains and losses, while a blue ribbon labeled 'CREDITWORTHY' appears on the 'CREDIT' figure. The pattern grows horizontally, showing increasing complexity and debt accumulation. The scene then transitions to a beige background with a black wavy line forming a sine wave, accompanied by the text 'BORROWING CREATES CYCLES'. This is followed by a dark green background with a circular diagram labeled 'SHORT TERM DEBT CYCLE', featuring two curved arrows forming a loop between 'SHORT TERM' and 'DEBT CYCLE'.",
+            "active_entities": {
+                "Circular Diagram": "A circular layout on a light blue background showing three stick figures labeled 'INCOME', 'SPENDING', and 'PRODUCTIVITY (GROWTH HERE)', arranged in a cycle with red squiggly arrows connecting them to illustrate the flow of economic activity.",
+                "Stick Figure Income": "Minimalist stick figure in a gray vest with three buttons, labeled 'INCOME', initially receiving money, later labeled 'CREDIT (GROWTH HERE)' when credit is introduced.",
+                "Stick Figure Spender": "Minimalist stick figure in a gray vest with three buttons, labeled 'SPENDING', holding a brown box and passing it to another Stick Figure Income.",
+                "Stick Figure Productivity": "Minimalist stick figure in a gray vest with three buttons, labeled 'PRODUCTIVITY (GROWTH HERE)', bending over a box, symbolizing productive effort, with a green text label emphasizing growth.",
+                "Red Squiggly Arrows": "Curved red lines with small loops connecting the 'INCOME', 'SPENDING', and 'PRODUCTIVITY' stick figures, indicating the flow of money and goods in the economic cycle.",
+                "Multiple Economic Cycles": "Repeating instances of the 'INCOME', 'SPENDING', 'PRODUCTIVITY' cycle, now with 'CREDIT' notes flowing, arranged in a pattern to show the expansion and repetition of the economic cycle.",
+                "Text Labels": "Labels such as '+$100,000', '-$110,000', '+$110,000', '-$121,000', etc., appearing next to the stick figures to indicate financial changes over time."
+            },
+            "discovered_new_entities": {
+                "CREDIT Note": "White note labeled 'CREDIT', exchanged between figures, representing the flow of credit in the economic cycle.",
+                "Animated Text 'BORROWING CREATES CYCLES'": "Bold black text appearing above a wavy line on a beige background, emphasizing the causal relationship between borrowing and economic cycles.",
+                "Animated Text 'SHORT TERM DEBT CYCLE'": "White text on a dark green background, with two curved arrows forming a loop between 'SHORT TERM' and 'DEBT CYCLE', illustrating the cyclical nature of short-term debt.",
+                "Wavy Line Graph": "A black wavy line on a beige background, forming a sine wave to visually represent economic cycles created by borrowing.",
+                "Dark Green Background": "A solid dark green background used for the final diagram, providing contrast for the white text and arrows of the 'SHORT TERM DEBT CYCLE' illustration."
+            }
+        },
+        {
+            "minute": 13,
+            "caption": "The video begins with a light blue background showing a diagonal line of stick figures exchanging green money and brown boxes, symbolizing transactions. The word 'EXPANSION' appears in bold blue text as price tags with increasing dollar signs ($, $$, $$$, $$$$) emerge, illustrating rising prices. The scene transitions to a beige background where a stack of 'CREDIT' notes appears, followed by a visual equation: 'SPENDING' (green money and credit) divided by 'QUANTITY' (brown boxes labeled 'STOCKS') equals 'PRICE' (a $$$ tag), leading to the word 'INFLATION' in bold black text. The scene shifts to a classical-style 'CENTRAL BANK' building, with a hand from the bank adjusting an 'INTEREST RATES' lever from low to high. A bank building extends an arm to a stick figure, with a speech bubble showing 'PRINCIPAL + INTEREST' and the text 'LESS BORROWING' appearing below. The video then returns to a light blue background, showing a circular flow of three stick figures labeled 'BORROWING', 'DEBT REPAYMENT', and 'SPENDING', with red squiggly arrows connecting them, illustrating the short-term debt cycle. The cycle expands to show multiple figures repeating the same pattern, emphasizing the recurring nature of economic cycles driven by borrowing and repayment.",
+            "active_entities": {
+                "Price Tag Icon": "Gray tags with increasing dollar signs ($, $$, $$$, $$$$) appearing sequentially, visually representing rising prices during expansion.",
+                "Animated Text 'CREDIT'": "Bold black text on a beige background, shown on a stack of notes, emphasizing the role of credit in the economy.",
+                "Formula Display": "A visual equation showing 'SPENDING' (green money and credit) divided by 'QUANTITY' (brown boxes labeled 'STOCKS') equals 'PRICE' (a $$$ tag), illustrating the price mechanism.",
+                "Central Bank Building": "A classical-style building with a flag and bat-like emblem, labeled 'CENTRAL BANK', shown with a hand adjusting an interest rate lever.",
+                "Interest Rates Icon": "A lever with a circular knob, labeled 'INTEREST RATES', connected to the Central Bank, shown being moved from 'LOW %' to 'HIGH %'.",
+                "Bank Building": "A classical-style building with columns, extending an arm to a stick figure, with a speech bubble showing 'PRINCIPAL + INTEREST' and the text 'LESS BORROWING' below.",
+                "Stick Figure Borrower": "Minimalist stick figure in a gray vest with three buttons, labeled 'BORROWING', holding green money and initiating the cycle.",
+                "Stick Figure Spender": "Minimalist stick figure in a gray vest with three buttons, labeled 'SPENDING', holding a brown box and passing it to another figure.",
+                "Stick Figure Income": "Minimalist stick figure in a gray vest with three buttons, labeled 'DEBT REPAYMENT', receiving money and repaying debt.",
+                "Red Squiggly Arrows": "Curved red lines with small loops connecting the 'BORROWING', 'DEBT REPAYMENT', and 'SPENDING' stick figures, indicating the flow of money and goods in the cycle.",
+                "Circular Diagram": "A circular layout on a light blue background showing three stick figures labeled 'BORROWING', 'DEBT REPAYMENT', and 'SPENDING', arranged in a cycle with red squiggly arrows connecting them.",
+                "Multiple Economic Cycles": "Repeating instances of the 'BORROWING', 'DEBT REPAYMENT', 'SPENDING' cycle, now with 'CREDIT' notes flowing, arranged in a pattern to show the expansion and repetition of the economic cycle."
+            },
+            "discovered_new_entities": {
+                "Animated Text 'EXPANSION'": "Bold blue text appearing centrally on a light blue background, indicating the phase of economic growth.",
+                "Animated Text 'INFLATION'": "Bold black text appearing centrally on a beige background, following the price equation, indicating the result of increased spending relative to quantity.",
+                "Animated Text 'LESS BORROWING'": "Bold black text appearing below the bank and stick figure, indicating reduced borrowing due to high interest rates."
+            }
+        },
+        {
+            "minute": 14,
+            "caption": "The video begins with a light blue background showing multiple minimalist stick figures in gray vests exchanging green money and brown boxes, symbolizing transactions, with red squiggly arrows indicating the flow. The scene transitions to a beige background where a formula appears: 'SPENDING' (green money and credit) divided by 'QUANTITY' (brown boxes labeled 'STOCKS') equals 'PRICE' (a $$$ tag), illustrating the price mechanism. The price tag then multiplies in dollar signs ($, $$, $$$, $$$$), visually representing inflation. The word 'INFLATION' appears in bold black text, followed by 'DEFLATION' as the price tag shrinks, and then 'RECESSION' as the tag disappears. A stylized government building (Capitol) appears, split into 'CENTRAL GOVERNMENT' and 'CENTRAL BANK', with the Central Bank extending an arm to adjust an 'INTEREST RATES' lever from 'LOW %' to 'HIGH %'. This action leads to a bank building extending an arm to a stick figure, with a speech bubble showing 'PRINCIPAL + INTEREST' and the text 'LESS BORROWING' below, indicating reduced borrowing. The scene shifts to a wavy black line labeled 'SHORT TERM DEBT CYCLE', with segments highlighted as 'CREDIT AVAILABLE' and 'CREDIT UNAVAILABLE', visually depicting the cycle. The Central Bank's arm reappears, adjusting the lever again, reinforcing the control over interest rates and credit availability.",
+            "active_entities": {
+                "Stick Figure Buyer and Seller": "Minimalist stick figures in gray vests with three buttons, exchanging green money and brown boxes, with red squiggly arrows indicating transaction flow.",
+                "Formula Display": "Visual equation showing 'SPENDING' (green money and credit) divided by 'QUANTITY' (brown boxes labeled 'STOCKS') equals 'PRICE' (a $$$ tag), illustrating the price mechanism.",
+                "Price Tag Icon": "Gray tags with increasing dollar signs ($, $$, $$$, $$$$) appearing sequentially, visually representing rising prices during expansion.",
+                "Animated Text 'INFLATION'": "Bold black text appearing centrally on a beige background, following the price equation, indicating the result of increased spending relative to quantity.",
+                "Government Building (Capitol)": "Stylized drawing of the U.S. Capitol building, split into 'CENTRAL GOVERNMENT' and 'CENTRAL BANK', with the Central Bank extending an arm to adjust an interest rate lever.",
+                "Interest Rates Icon": "A lever with a circular knob, labeled 'INTEREST RATES', connected to the Central Bank, shown being moved from 'LOW %' to 'HIGH %'.",
+                "Bank Building": "A classical-style building with columns, extending an arm to a stick figure, with a speech bubble showing 'PRINCIPAL + INTEREST' and the text 'LESS BORROWING' below.",
+                "Animated Text 'LESS BORROWING'": "Bold black text appearing below the bank and stick figure, indicating reduced borrowing due to high interest rates.",
+                "Wavy Line Graph": "A black wavy line on a beige background, forming a sine wave to visually represent economic cycles created by borrowing.",
+                "Animated Text 'SHORT TERM DEBT CYCLE'": "White text on a dark green background, with two curved arrows forming a loop between 'SHORT TERM' and 'DEBT CYCLE', illustrating the cyclical nature of short-term debt.",
+                "Central Bank Building": "A classical-style building with a flag and bat-like emblem, labeled 'CENTRAL BANK', shown with a hand adjusting an interest rate lever."
+            },
+            "discovered_new_entities": {
+                "Animated Text 'DEFLATION'": "Bold black text appearing centrally on a beige background, following the shrinking price tag, indicating falling prices.",
+                "Animated Text 'RECESSION'": "Bold black text appearing centrally on a beige background, following the disappearance of the price tag, indicating economic downturn."
+            }
+        },
+        {
+            "minute": 15,
+            "caption": "The video begins with a stylized government building, labeled as the Central Bank, extending a mechanical arm to adjust an interest rate lever, symbolizing monetary policy. This action initiates a wavy black line that grows into a sine wave, representing economic fluctuations, with a label '5-8 YEARS' indicating the duration of a short-term cycle. The wave then overlays a rising diagonal line, illustrating long-term growth, while stacks of money labeled 'CREDIT' appear beneath, emphasizing credit's role in amplifying growth. The scene transitions to a classical bank building labeled 'LENDER' extending a hand to a stick figure labeled 'BORROWER', exchanging green money and a 'CREDIT' note, which flips to reveal 'DEBT' on the reverse. This exchange is shown again with the text 'BORROWING' below, reinforcing the cycle. A graph then appears with axes labeled 'GROWTH (GDP)' and 'TIME', showing a jagged black line (with credit) rising above a smooth gray line (without credit), illustrating the boom-bust pattern. The text 'LONG TERM DEBT CYCLE' appears in white over a dark green background, with an arrow tracing the arc. The scene returns to the lender-borrower exchange, now with the borrower acquiring a car and a house, symbolizing asset accumulation. The borrower is then shown holding a stack of 'CREDIT' notes, a house, a car, and a 'STOCKS' box, with the text 'MORE VALUABLE ASSETS' below, indicating wealth growth. The final frame shows the borrower joyfully holding money, with the text 'MORE INCOME' below, completing the cycle of borrowing, asset acquisition, and income growth.",
+            "active_entities": {
+                "Central Bank Building": "A classical-style building with a flag and bat-like emblem, labeled 'CENTRAL BANK', shown with a hand adjusting an interest rate lever.",
+                "Wavy Line Graph": "A black wavy line on a beige background, forming a sine wave to visually represent economic cycles created by borrowing, later overlaying a rising diagonal line to show long-term growth.",
+                "Text Labels": "Labels such as '5-8 YEARS' appearing below the wavy line, indicating the duration of a short-term economic cycle.",
+                "Bank Building": "A classical-style building with columns, extending an arm to a stick figure, with a speech bubble showing 'PRINCIPAL + INTEREST' and the text 'LESS BORROWING' below.",
+                "Stick Figure Borrower": "Minimalist stick figure in a gray vest with three buttons, labeled 'BORROWING', holding green money and initiating the cycle.",
+                "Money and Credit Icons": "Green dollar bills and white 'CREDIT' notes exchanged between the Lender and Borrower; the 'CREDIT' note flips to reveal 'DEBT' on the reverse side.",
+                "Graph": "A line graph on a beige background with a vertical axis (growth) and horizontal axis (time). It shows a gray diagonal line for 'WITHOUT CREDIT' and a black curved line for 'WITH CREDIT', which initially rises faster but then dips sharply to illustrate a boom-bust cycle. Labels 'WITH CREDIT' and 'WITHOUT CREDIT' appear with arrows pointing to the respective lines.",
+                "Financial Assets Icon": "Brown boxes labeled 'STOCKS' and a broom, later labeled 'FINANCIAL ASSETS', exchanged by the seller."
+            },
+            "discovered_new_entities": {
+                "Animated Text 'LONG TERM DEBT CYCLE'": "White text on a dark green background, with a curved white arrow tracing the arc of the cycle.",
+                "Animated Text 'BORROWING'": "Bold black text appearing below the lender-borrower exchange, emphasizing the act of borrowing.",
+                "Animated Text 'MORE VALUABLE ASSETS'": "Bold black text appearing below the borrower holding a house, car, and stocks, indicating wealth accumulation.",
+                "Animated Text 'MORE INCOME'": "Bold black text appearing below the borrower holding money, indicating the result of asset growth and borrowing.",
+                "Car with Balloons": "A beige car with yellow balloons tied to it, symbolizing a new purchase, appearing next to a 'CARS FOR SALE' sign.",
+                "House with Balloons": "A white house with yellow balloons tied to it, symbolizing a new purchase, appearing next to a 'HOME FOR SALE' sign.",
+                "Storemart Building": "A beige building with a sign reading 'STOREMART', representing a retail store, with a 'GRAND OPENING' banner and balloons.",
+                "Office Building": "A tall beige building with multiple windows, representing a commercial office, with a 'GRAND OPENING' banner and balloons."
+            }
+        },
+        {
+            "minute": 16,
+            "caption": "The video begins with a beige background where a classical-style Bank Building extends an arm to a Stick Figure Borrower, who joyfully holds a stack of green money, with the text 'MORE BORROWING' below. The scene transitions to a balance scale labeled 'CREDITWORTHY' at its base, with 'DEBT' on one side and 'INCOME' on the other. Initially, the scale tips toward 'INCOME' as green money accumulates, but then 'DEBT' grows rapidly, causing the scale to tip toward 'DEBT' and the label to change to 'NOT CREDITWORTHY'. The scale then rebalances as 'INCOME' increases, restoring 'CREDITWORTHY', and a 'DEBT BURDEN' label appears below. The scene shifts to multiple Stick Figure Borrowers, each receiving money from a Bank Building, while one holds a house with a '$$$$' price tag. The borrowers then spend the money, and the scene shows a single Stick Figure Borrower flexing, labeled 'STILL CREDITWORTHY BORROWER', with a scale and collateral (house, stocks, credit) beside them. The video then shows a large group of borrowers, some holding money, others bent under red squiggly arrows indicating strain, with a blue wave overlaying them to represent economic cycles. The final frame returns to the scale, now with 'DEBT BURDENS INCREASE' text pointing to the growing 'DEBT' side, as the scale tips again toward 'DEBT', emphasizing rising debt burdens.",
+            "active_entities": {
+                "Bank Building": "Classical-style building with columns, extending an arm to give money to borrowers, appearing multiple times in the scene.",
+                "Stick Figure Borrower": "Minimalist stick figure in a gray vest with three buttons, initially holding money, later shown flexing and labeled 'STILL CREDITWORTHY BORROWER'.",
+                "Scale Icon": "Balance scale with 'DEBT' and 'INCOME' pans, labeled 'CREDITWORTHY' or 'NOT CREDITWORTHY' at its base, visually representing creditworthiness.",
+                "Collateral Icons": "Pile of assets including a house, stocks, and a 'CREDIT' note, shown beside the 'STILL CREDITWORTHY BORROWER' to represent security for loans.",
+                "Text Labels": "Labels such as 'MORE BORROWING', 'CREDITWORTHY', 'NOT CREDITWORTHY', 'DEBT BURDEN', and 'DEBT BURDENS INCREASE' appear sequentially to explain the financial state.",
+                "Multiple Stick Figures with Credit": "Several minimalist stick figures in gray vests with three buttons, some standing tall holding money, others bent under red squiggly arrows, illustrating varying impacts of borrowing.",
+                "Large Blue Wave": "Thick blue wavy line overlaying the group of borrowers, visually representing the economic cycle and its peaks and troughs.",
+                "Red Squiggly Arrows": "Curved red lines with small loops connecting borrowers, indicating strain or financial pressure as debt burdens increase.",
+                "Multiple Bank Buildings": "Several identical classical-style bank buildings, each extending an arm to give money to borrowers, illustrating credit expansion and multiple lenders."
+            },
+            "discovered_new_entities": {
+                "DEBT BURDEN Label": "Rectangular label appearing below the scale, with cracked edges, indicating the weight or consequence of accumulated debt."
+            }
+        },
+        {
+            "minute": 17,
+            "caption": "The video begins with a light blue background featuring a circular diagram illustrating the economic cycle of debt repayment, less spending, less income, and less borrowing, with stick figures labeled accordingly and red squiggly arrows indicating strain. The cycle repeats, showing the interconnectedness of these phases. The scene transitions to a beige background with a graph plotting 'GROWTH (GDP)' over 'TIME', showing a peak labeled 'LONG TERM DEBT PEAK' followed by a sharp dip and recovery. This is followed by a dark blue graph titled 'THE UNITED STATES DEBT BURDEN', displaying 'TOTAL US DEBT AS A % OF GDP' from 1915 to 2008, with notable peaks in 1929 and 2008. The video then shifts to a dark green background with the word 'DELEVERAGING' appearing in white, followed by a stick figure holding a stack of money and a belt, symbolizing financial restraint. The final scene shows a stick figure holding a house and a 'CREDIT' note, with a bank building labeled 'NO' in a speech bubble, indicating credit denial, and a 'STOCKS' box, suggesting asset liquidation during deleveraging.",
+            "active_entities": {
+                "Circular Diagram": "A circular layout on a light blue background showing stick figures labeled 'DEBT REPAYMENT', 'LESS SPENDING', 'LESS INCOME', and 'LESS BORROWING', connected by red squiggly arrows to illustrate the economic cycle.",
+                "Graph": "A line graph on a beige background with 'GROWTH (GDP)' on the vertical axis and 'TIME' on the horizontal axis, showing a peak labeled 'LONG TERM DEBT PEAK' followed by a dip and recovery.",
+                "Bank Building": "A classical-style building with columns, labeled 'NO' in a speech bubble, representing a bank refusing credit.",
+                "Financial Assets Icon": "A brown box labeled 'STOCKS', held by the stick figure, symbolizing asset liquidation during deleveraging."
+            },
+            "discovered_new_entities": {
+                "Dark Blue Graph": "A graph on a dark blue background titled 'THE UNITED STATES DEBT BURDEN', plotting 'TOTAL US DEBT AS A % OF GDP' over time, with peaks marked at 1929 and 2008.",
+                "Animated Text 'DELEVERAGING'": "White text appearing on a dark green background, emphasizing the process of reducing debt.",
+                "Stick Figure with Money and Belt": "A minimalist stick figure in a gray vest holding a stack of green money and a belt, symbolizing financial discipline during deleveraging.",
+                "Stick Figure with House and Credit Note": "A stick figure holding a house and a 'CREDIT' note, standing next to a bank building with a 'NO' speech bubble, indicating credit denial."
+            }
+        },
+        {
+            "minute": 18,
+            "caption": "The video segment begins with a beige background showing a classical bank building with outstretched arms, one holding green money and the other a 'CREDIT' note, symbolizing the lender-borrower relationship. A red jagged line graph labeled 'SELL!' descends sharply, indicating a market crash, while stick figures labeled 'LENDER' and 'BORROWER' react. The scene transitions to a protest with a crowd of stick figures holding signs like 'Revolution!', 'Too Much Debt', and '99%'. The background shifts to light blue, showing a circular flow of stick figures exchanging green money and brown boxes, with red squiggly arrows indicating financial strain. One figure bends over a box, symbolizing hardship. The scene returns to beige, showing figures handing money to a house with a price tag, then the price tag drops as the house falls. A red graph plummets, then rebounds slightly. The bank reappears, now with arms holding 'STOCKS' and 'CREDIT' notes. A house is shown with 'STOCKS' and 'CREDIT' notes attached, then a scale appears with 'DEBT' outweighing 'INCOME', labeled 'NOT CREDITWORTHY'. A stick figure with a blue sash stands beside it. The final scene shows a circular diagram on a light blue background with stick figures labeled 'LESS SPENDING', 'LESS INCOME', 'LESS BORROWING', and 'LESS WEALTH', connected by red squiggly arrows, illustrating a downward economic spiral.",
+            "active_entities": {
+                "Bank Building": "Classical-style building with columns, initially with arms holding money and 'CREDIT' note, later holding 'STOCKS' and 'CREDIT' notes, symbolizing financial institutions' role in credit and asset markets.",
+                "Stick Figure Borrower": "Minimalist stick figure in a gray vest with three buttons, shown receiving money and holding a house with a price tag, later depicted as part of a downward spiral in the circular diagram.",
+                "Red Squiggly Arrows": "Curved red lines with small loops connecting borrowers, indicating strain or financial pressure as debt burdens increase, now appearing in the circular diagram to show the cycle of decline.",
+                "Price Tag Icon": "Gray tags with dollar signs, shown attached to a house, then dropping as the house falls, symbolizing falling asset prices during a downturn.",
+                "Line Graph": "A red jagged line graph labeled 'SELL!' that plummets sharply, then rebounds slightly, visually representing a market crash and partial recovery.",
+                "Scale Icon": "Balance scale with 'DEBT' and 'INCOME' pans, labeled 'NOT CREDITWORTHY' at its base, visually representing creditworthiness and financial distress.",
+                "Circular Diagram": "A circular layout on a light blue background showing stick figures labeled 'LESS SPENDING', 'LESS INCOME', 'LESS BORROWING', and 'LESS WEALTH', connected by red squiggly arrows to illustrate the economic cycle of decline."
+            },
+            "discovered_new_entities": {
+                "Stick Figure Lender": "Minimalist stick figure in a gray vest with three buttons, shown giving money to borrowers, later implied in the bank's role in credit expansion.",
+                "Animated Text 'SELL!'": "Red text appearing above the descending graph, emphasizing panic selling during a market crash.",
+                "Animated Text 'NOT CREDITWORTHY'": "Red text at the base of the scale, indicating the borrower's financial status when debt exceeds income.",
+                "Animated Text 'LESS SPENDING', 'LESS INCOME', 'LESS BORROWING', 'LESS WEALTH'": "Black text labels on the circular diagram, describing the stages of economic contraction in the downward spiral.",
+                "Protest Crowd": "A dense group of stick figures holding signs with messages like 'Revolution!', 'Too Much Debt', and '99%', symbolizing public unrest over economic conditions.",
+                "House with Price Tag": "A small house with a gray price tag attached, shown being handed money, then falling as the price tag drops, representing real estate market collapse.",
+                "Stick Figure with Blue Sash": "A minimalist stick figure in a gray vest with a blue sash, standing beside the 'NOT CREDITWORTHY' scale, possibly symbolizing a regulator or authority figure observing the crisis."
+            }
+        },
+        {
+            "minute": 19,
+            "caption": "The segment begins with a circular diagram on a light blue background, showing stick figures labeled 'LESS SPENDING', 'LESS INCOME', 'LESS BORROWING', and 'LESS WEALTH' arranged in a clockwise cycle, connected by red squiggly arrows to illustrate a downward economic spiral. This transitions to a beige background where a Central Bank Building, labeled 'CENTRAL BANK', extends a large arm to adjust an 'INTEREST RATES' lever from 'LOW %' to 'HIGH %', with a graph above showing a wavy line representing economic fluctuations. The text 'IN A RECESSION' appears, then changes to 'IN A DELEVERAGING' as the lever is pushed further. The scene shifts to a dark blue graph titled 'THE UNITED STATES INTEREST RATES', plotting U.S. short-term interest rates from 1920 to 2000, with a vertical line marking 0% around 1940. Next, a scale appears with 'DEBT' on one side and 'INCOME' on the other, labeled 'NOT CREDITWORTHY' at the base, with 'DEBT' piling up and 'INCOME' shrinking, indicating a high debt burden. A Bank Building extends an arm to offer money to a Stick Figure Borrower, who then receives a 'CREDIT' note and a house, but the bank later denies further credit with a 'NO' speech bubble. The borrower, now distressed, stands alone as the bank retracts its arm, emphasizing credit denial during deleveraging.",
+            "active_entities": {
+                "Circular Diagram": "A circular layout on a light blue background showing stick figures labeled 'LESS SPENDING', 'LESS INCOME', 'LESS BORROWING', and 'LESS WEALTH', connected by red squiggly arrows to illustrate the economic cycle of decline.",
+                "Central Bank Building": "A classical-style building with a flag and bat-like emblem, labeled 'CENTRAL BANK', shown with a hand adjusting an interest rate lever.",
+                "Interest Rates Icon": "A lever with a circular knob, labeled 'INTEREST RATES', connected to the Central Bank, shown being moved from 'LOW %' to 'HIGH %'.",
+                "Graph": "A line graph on a beige background with 'GROWTH (GDP)' on the vertical axis and 'TIME' on the horizontal axis, showing a peak labeled 'LONG TERM DEBT PEAK' followed by a dip and recovery.",
+                "Dark Blue Graph": "A graph on a dark blue background titled 'THE UNITED STATES INTEREST RATES', plotting 'U.S. SHORT TERM INTEREST RATE' over time from 1920 to 2000, with a vertical line marking 0% around 1940.",
+                "Scale Icon": "Balance scale with 'DEBT' and 'INCOME' pans, labeled 'NOT CREDITWORTHY' at its base, visually representing creditworthiness and financial distress.",
+                "Bank Building": "Classical-style building with columns, initially with arms holding money and 'CREDIT' note, later holding 'STOCKS' and 'CREDIT' notes, symbolizing financial institutions' role in credit and asset markets.",
+                "Stick Figure Borrower": "Minimalist stick figure in a gray vest with three buttons, shown receiving money and holding a house with a price tag, later depicted as part of a downward spiral in the circular diagram.",
+                "Speech Bubble": "White speech bubble above the Borrower labeled 'IN THE FUTURE', which expands to show 'PRINCIPAL + INTEREST' with corresponding money stacks.",
+                "Text Labels": "Labels such as 'MORE BORROWING', 'CREDITWORTHY', 'NOT CREDITWORTHY', 'DEBT BURDEN', and 'DEBT BURDENS INCREASE' appear sequentially to explain the financial state."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 20,
+            "caption": "The video begins with a scale labeled 'NOT CREDITWORTHY' at its base, balancing a large pile of 'DEBT' notes against a smaller stack of green 'INCOME' bills, visually representing financial distress. The background is filled with interlocking gears labeled with commodities like 'STEEL', 'GOLD', 'DOLLAR', and 'PLATINUM', symbolizing the interconnectedness of the economy. A stick figure appears under a spotlight with a question mark above its head, expressing confusion or uncertainty. The scene transitions to four solutions: 'CUT SPENDING' (a figure cutting money with a sword), 'REDUCE DEBT' (scissors cutting a 'DEFAULT' cloud and debt notes), 'REDISTRIBUTE WEALTH' (a wealthy figure handing money to a poorer one), and 'PRINT MONEY' (a machine producing green bills). The narrative then shifts to historical examples: a map of the United States labeled '1990s' and a map of Spain and Italy labeled '2010s', both illustrating austerity measures. The 'CUT SPENDING' solution is shown again, now labeled 'AUSTERITY', with the scale reappearing to show that even after cutting spending, the debt still outweighs income, reinforcing the 'NOT CREDITWORTHY' status. The overall tone is didactic, using simple animations to explain complex economic concepts like debt, austerity, and wealth redistribution.",
+            "active_entities": {
+                "Scale Icon": "Balance scale with 'DEBT' and 'INCOME' pans, labeled 'NOT CREDITWORTHY' at its base, visually representing creditworthiness and financial distress.",
+                "Interlocking Gears": "Gears composed of stick figures, labeled with commodities and industries (e.g., 'WHEAT', 'CAB', 'STEEL', 'CHEMICAL', 'SUGAR'), rotating and interlocking to form a network.",
+                "Printing Money Machine": "A rolling press machine, labeled 'PRINT MONEY', producing green dollar bills, connected by an arrow from the Central Bank."
+            },
+            "discovered_new_entities": {
+                "Stick Figure": "Minimalist stick figure in a gray vest with three buttons, standing under a spotlight with a question mark above its head, symbolizing confusion or uncertainty.",
+                "Animated Text 'CUT SPENDING'": "Bold black text appearing below a stick figure cutting a stack of green money with a sword, representing spending reduction.",
+                "Animated Text 'REDUCE DEBT'": "Bold black text below scissors cutting a 'DEFAULT' cloud and debt notes, symbolizing debt reduction.",
+                "Animated Text 'REDISTRIBUTE WEALTH'": "Bold black text below a wealthy stick figure handing money to a poorer one, illustrating wealth transfer.",
+                "Animated Text 'AUSTERITY'": "Bold black text appearing below the 'CUT SPENDING' figure, emphasizing the policy of spending cuts.",
+                "Map of the United States": "Outline of the United States with text '1990s' below, indicating a historical economic context.",
+                "Map of Spain and Italy": "Outlines of Spain and Italy with text '2010s' below, indicating a historical economic context for austerity measures.",
+                "Spotlight": "A conical beam of light illuminating the stick figure, creating a dramatic focus on the figure's confusion.",
+                "Sword": "A long, curved blade held by the stick figure to cut green money, symbolizing spending cuts.",
+                "Scissors": "Large scissors cutting a cloud labeled 'DEFAULT' and debt notes, symbolizing debt reduction.",
+                "Wealthy Stick Figure": "A stick figure with a mustache and bow tie, handing money to a poorer figure, symbolizing wealth redistribution.",
+                "Poorer Stick Figure": "A stick figure in a gray vest, receiving money from the wealthy figure, symbolizing the recipient of wealth redistribution."
+            }
+        },
+        {
+            "minute": 21,
+            "caption": "The segment begins with a Stick Figure Borrower labeled 'AUSTERITY' holding a stack of green money, standing beside a scale labeled 'NOT CREDITWORTHY' with 'DEBT' on one side and 'INCOME' on the other. The scale tips as the 'INCOME' side diminishes, visually representing financial distress. The text 'CUT SPENDING' appears as the figure cuts the money stack with a sword, symbolizing austerity measures. This leads to a sequence of falling price tags labeled 'DEFLATION', followed by a shrinking building that collapses into a cloud labeled 'DEFAULT', illustrating economic contraction. The scene shifts to a Bank Building labeled 'LENDER' extending an arm to a Stick Figure Borrower, demanding repayment with a 'PAY UP!' speech bubble. As more borrowers appear, the lender's arms stretch to collect money, but the borrower defaults, resulting in a 'DEFAULT' explosion. The final frames show the 'DEFAULT' cloud expanding and then shrinking, emphasizing the cyclical nature of debt crises.",
+            "active_entities": {
+                "Stick Figure Borrower": "Minimalist stick figure in a gray vest with three buttons, initially holding a stack of green money, then cutting it with a sword, and later depicted as defaulting in a cloud labeled 'DEFAULT'.",
+                "Scale Icon": "Balance scale with 'DEBT' and 'INCOME' pans, labeled 'NOT CREDITWORTHY' at its base, visually representing creditworthiness and financial distress, with the 'INCOME' side diminishing over time.",
+                "Animated Text 'AUSTERITY'": "Bold black text appearing below the Stick Figure Borrower, emphasizing the policy of spending cuts.",
+                "Animated Text 'CUT SPENDING'": "Bold black text appearing below the Stick Figure Borrower as it cuts a stack of green money with a sword, representing spending reduction.",
+                "Sword": "A long, curved blade held by the Stick Figure Borrower to cut green money, symbolizing spending cuts.",
+                "Price Tag Icon": "Gray tags with dollar signs, shown attached to a house, then dropping as the house falls, symbolizing falling asset prices during a downturn, now appearing as a chain of falling tags labeled 'DEFLATION'.",
+                "Business Building": "A simple rectangular building with windows, representing a corporate entity, shown shrinking and collapsing into a cloud labeled 'DEFAULT'.",
+                "Bank Building": "Classical-style building with columns, initially with arms holding money and 'CREDIT' note, later extending arms to collect money from borrowers, symbolizing financial institutions' role in credit and asset markets.",
+                "Animated Text 'DEFLATION'": "Bold black text appearing centrally on a beige background, following the shrinking price tag, indicating falling prices.",
+                "Speech Bubble": "White speech bubble above the Bank Building labeled 'PAY UP!', demanding repayment from the borrower."
+            },
+            "discovered_new_entities": {
+                "Animated Text 'DEFAULT'": "Bold black text appearing within a cloud explosion, indicating the borrower's failure to repay debt, shown multiple times as the cloud expands and shrinks."
+            }
+        },
+        {
+            "minute": 22,
+            "caption": "The video begins with a simple line drawing of a cloud labeled 'DEPRESSION' on a beige background, symbolizing economic downturn. A stick figure in a suit appears, looking distressed as a house, stocks, and a 'CREDIT' note float away, indicating asset loss. The scene transitions to a bar setting with a clock, hanging light, and shelves of bottles, where a customer in a vest exchanges a 'CREDIT' note for a beer with a bartender. The transaction is labeled 'LIABILITY' for the customer and 'ASSET' for the bartender, with a 'DEBT' note appearing as the customer drinks. The bartender then exclaims in frustration, showing the burden of credit. The scene shifts to a classical bank building, where a stick figure offers money, proposing 'DEBT RESTRUCTURING' with options like 'PAY BACK LESS', 'LONGER TERM', and 'LOWER RATE'. The bank reluctantly agrees, but the final frame shows a scale with 'DEBT' outweighing 'INCOME', labeled 'NOT CREDITWORTHY', and 'LESS INCOME' beneath, illustrating financial distress.",
+            "active_entities": {
+                "House with Balloons": "A white house with yellow balloons tied to it, symbolizing a new purchase, shown next to a 'HOME FOR SALE' sign, indicating asset acquisition.",
+                "Financial Assets Icon": "A brown box labeled 'STOCKS', held by the stick figure, symbolizing asset liquidation during deleveraging, now shown floating away.",
+                "CREDIT Note": "White note labeled 'CREDIT', exchanged between the customer and bartender, representing the flow of credit in the transaction.",
+                "Bar Setting": "A beige background with a clock, hanging light, and shelves of bottles, featuring a stick figure customer and a bartender in a vest with a bow tie, exchanging goods and notes.",
+                "DEBT Note": "Gray note labeled 'DEBT', exchanged by the customer after drinking, representing a liability, shown floating above the beer.",
+                "Liability and Asset Labels": "Text labels 'LIABILITY' and 'ASSET' appearing below the customer and bartender respectively, clarifying the financial nature of the credit transaction.",
+                "Bank Building": "Classical-style building with columns, initially with arms holding money and 'CREDIT' note, later extending arms to collect money from borrowers, symbolizing financial institutions' role in credit and asset markets.",
+                "Scale Icon": "Balance scale with 'DEBT' and 'INCOME' pans, labeled 'NOT CREDITWORTHY' at its base, visually representing creditworthiness and financial distress, with the 'INCOME' side diminishing over time."
+            },
+            "discovered_new_entities": {
+                "Animated Text 'DEPRESSION'": "Bold black text appearing within a cloud, symbolizing economic downturn, with small lines radiating outward to emphasize impact.",
+                "Stick Figure (Suit)": "Minimalist stick figure in a suit with a tie, standing with arms outstretched in distress as assets float away, representing financial loss during depression.",
+                "Stick Figure Customer (Bar)": "Minimalist stick figure in a vest with three buttons, exchanging a 'CREDIT' note for a beer, labeled 'LIABILITY' as the transaction occurs.",
+                "Bartender (Bar)": "Stick figure in a vest with a bow tie, receiving a 'CREDIT' note and giving a beer, labeled 'ASSET', then reacting with frustration.",
+                "Animated Text 'DEBT RESTRUCTURING'": "Bold black text appearing below a classical bank building, introducing the concept of renegotiating debt terms.",
+                "Stick Figure (Debt Restructuring)": "Minimalist stick figure in a vest with three buttons, holding a stack of money, proposing debt restructuring options like 'PAY BACK LESS', 'LONGER TERM', and 'LOWER RATE'.",
+                "Animated Text 'PAY BACK LESS'": "White text in a speech bubble above the stick figure during debt restructuring, proposing a reduced repayment amount.",
+                "Animated Text 'LONGER TERM'": "White text in a speech bubble above the stick figure, suggesting extended repayment duration.",
+                "Animated Text 'LOWER RATE'": "White text in a speech bubble above the stick figure, proposing reduced interest rates.",
+                "Animated Text 'UGH...'": "White text in a speech bubble above the bank building, expressing reluctance to agree to restructuring.",
+                "Animated Text 'FINE.'": "White text in a speech bubble above the bank building, indicating reluctant acceptance of the restructuring terms.",
+                "Animated Text 'LESS INCOME'": "Black text appearing below the scale, emphasizing the reduction in income contributing to the 'NOT CREDITWORTHY' status."
+            }
+        },
+        {
+            "minute": 23,
+            "caption": "The video segment begins with a balance scale labeled 'DEBT' and 'INCOME', where the 'DEBT' side is heavily weighted with gray 'DEBT' notes, and the 'INCOME' side has fewer green dollar bills. The scale tips downward on the debt side, and the base displays the red text 'NOT CREDITWORTHY', with 'LESS INCOME' written below. The scene transitions to a red jagged line graph labeled 'SELL!' plunging downward, symbolizing a market crash. A house, stocks, and a 'CREDIT' note are shown with price tags marked 'SELL!', indicating asset devaluation, and the text 'LESS VALUABLE ASSETS' appears below. The next scene shows a long chain of gray price tags with dollar signs, each connected to a stick figure holding a small amount of money, illustrating deflation and wealth erosion. The background shifts to a light beige, and a stylized Capitol building labeled 'CENTRAL GOVERNMENT' appears. Taxpayers, depicted as stick figures holding green money, approach the government building. The government extends an arm, receiving money from taxpayers and then distributing it to a group labeled 'UNEMPLOYED'. The unemployed figures receive money and begin purchasing 'GOODS & SERVICES' from other stick figures holding boxes and brooms. The government building grows multiple arms, receiving money from taxpayers and giving it to the unemployed and goods/services providers, creating a circular flow. The government’s arms then appear to be outstretched, receiving less money from taxpayers and giving more to the unemployed and goods/services, with the word 'DEFICIT' appearing above an arrow pointing from the smaller income to the larger outflow. The final frame shows the government at the center, with taxpayers on the left, unemployed on the right, and goods/services providers above, all connected by money flows, illustrating the government’s role in redistributing funds during economic downturns.",
+            "active_entities": {
+                "Scale Icon": "Balance scale with 'DEBT' and 'INCOME' pans, labeled 'NOT CREDITWORTHY' at its base, visually representing creditworthiness and financial distress, with the 'INCOME' side diminishing over time.",
+                "Line Graph": "A red jagged line graph labeled 'SELL!' that plummets sharply, then rebounds slightly, visually representing a market crash and partial recovery.",
+                "Price Tag Icon": "Gray tags with dollar signs, shown attached to a house, then dropping as the house falls, symbolizing falling asset prices during a downturn, now appearing as a chain of falling tags labeled 'DEFLATION'.",
+                "Government Building (Capitol)": "Stylized drawing of the U.S. Capitol building, split into 'CENTRAL GOVERNMENT' and 'CENTRAL BANK', with the Central Bank extending an arm to adjust an interest rate lever, now shown with multiple arms distributing money.",
+                "Stick Figure": "Minimalist stick figure in a gray vest with three buttons, standing under a spotlight with a question mark above its head, symbolizing confusion or uncertainty, now appearing as taxpayers, unemployed, and goods/services providers.",
+                "Text Labels": "Labels such as 'MORE BORROWING', 'CREDITWORTHY', 'NOT CREDITWORTHY', 'DEBT BURDEN', and 'DEBT BURDENS INCREASE' appear sequentially to explain the financial state, now including 'LESS INCOME', 'LESS VALUABLE ASSETS', 'DEFICIT', 'TAX PAYERS', 'UNEMPLOYED', and 'GOODS & SERVICES'."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 24,
+            "caption": "The video begins with a wide, beige-toned diagram illustrating the central government as a multi-armed Capitol building, receiving money from 'Lenders' and 'Tax Payers' while distributing it to 'Goods & Services' and 'Unemployed' groups, symbolizing fiscal policy. The scene transitions to a stark contrast: three stylized figures labeled 'THE RICH'—a tall man with a mustache, a woman in a hat with a handbag, and a shorter man—each holding towering stacks of green money, while a line of smaller, uniform figures to the right hold only single bills, emphasizing wealth disparity. A large hand descends from above, taking money from the rich, suggesting redistribution. The rich figures then shrink, leaving only the tall man with a large stack, while the others vanish, and the scene shifts to him standing alone, surrounded by a crowd of small figures raising their arms in protest. The atmosphere turns tense as the crowd, now in brown uniforms, holds signs reading 'Revolution!', 'Too Much Debt', and '99%', indicating social unrest. The scene culminates in a military-style line of soldiers in helmets and uniforms, holding rifles, advancing in formation, symbolizing state suppression of the uprising. The final frame shows a map of the United States with a '1990s' label, a 'NOT CREDITWORTHY' sign, and a 'DEBT' box, suggesting a historical context of economic crisis and austerity.",
+            "active_entities": {
+                "Government Building (Capitol)": "Stylized Capitol building with multiple arms, labeled 'CENTRAL GOVERNMENT', receiving money from 'Lenders' and 'Tax Payers' and distributing it to 'Goods & Services' and 'Unemployed'.",
+                "Stick Figure": "Minimalist stick figures in gray vests with three buttons, appearing as 'Lenders', 'Tax Payers', 'Unemployed', and 'Goods & Services' providers, holding green money or brown boxes.",
+                "Text Labels": "Labels such as 'LENDERS', 'TAX PAYERS', 'GOODS & SERVICES', 'UNEMPLOYED', and 'CENTRAL GOVERNMENT' appear to categorize the groups and central entity.",
+                "Hand": "A large, stylized hand descending from above, taking money from the rich figures, representing redistribution or taxation.",
+                "Protest Crowd": "A dense group of stick figures in brown uniforms, holding signs with messages like 'Revolution!', 'Too Much Debt', and '99%', symbolizing public unrest over economic inequality.",
+                "Map of the United States": "Outline of the United States with the text '1990s' below, indicating a historical economic context, accompanied by a 'NOT CREDITWORTHY' sign and a 'DEBT' box."
+            },
+            "discovered_new_entities": {
+                "The Rich": "Three stylized figures: a tall man with a mustache and vest, a woman in a hat with a handbag, and a shorter man, each holding large stacks of green money, symbolizing wealth concentration.",
+                "Soldiers": "Uniformed stick figures in helmets and military attire, holding rifles, marching in formation, representing state force suppressing the protest.",
+                "Animated Text 'THE RICH'": "Bold black text appearing below the three wealthy figures, labeling them and emphasizing their economic status.",
+                "Animated Text 'Revolution!'": "Handwritten-style text on protest signs, appearing prominently in the crowd, symbolizing the call for systemic change.",
+                "Animated Text 'TOO MUCH DEBT'": "Handwritten-style text on protest signs, appearing alongside 'Revolution!', highlighting the economic grievance.",
+                "Animated Text '99%'": "Handwritten-style text on protest signs, referencing the '99%' movement, symbolizing the majority's discontent with the wealthy elite."
+            }
+        },
+        {
+            "minute": 25,
+            "caption": "The video begins with a stylized world map, where the United States, Europe, and Japan are depicted with symbolic elements: the U.S. shows figures in suits, Europe features a knight-like figure with a sword, and Japan displays a scale labeled 'NOT CREDITWORTHY' with 'DEBT' outweighing 'INCOME'. This transitions to a beige background filled with circular icons labeled with commodities and industries (e.g., 'WHEAT', 'STEEL', 'CHEMICAL'), overlaid with a formula: 'TOTAL SPENDING' (stacks of green money and 'CREDIT' notes) divided by 'TOTAL QUANTITY' (brown boxes labeled 'STOCKS') equals 'PRICE'. The scene shifts to a protest crowd of stick figures in brown uniforms holding signs reading 'Revolution!', 'TOO MUCH DEBT', and '99%', symbolizing public unrest. Next, a 'CENTRAL BANK' building appears with arms raised, then splits into two tools: an 'INTEREST RATES' lever and a 'PRINTING MONEY' machine. The narrative continues with a red platform labeled 'DEFLATIONARY', where a stick figure cuts money with scissors, then transitions to a green platform labeled 'INFLATIONARY' with a money-printing machine. The Central Bank is shown again, now connected to the printing machine, with financial assets (stocks, bonds) appearing on the right. The final frames display two dark blue line graphs titled 'THE UNITED STATES', showing 'PRINTED MONEY (BILLIONS)' over time: one from 1925–1939 with a sharp rise, and another from 2000–2012 with a similar spike, visually comparing historical and modern monetary expansion.",
+            "active_entities": {
+                "Map of the United States": "Outline of the United States with stick figures in suits inside, symbolizing economic actors, and a 'NOT CREDITWORTHY' sign with a 'DEBT' box below, indicating financial distress.",
+                "Formula Display": "Visual equation showing 'TOTAL SPENDING' (green money and 'CREDIT' notes) divided by 'TOTAL QUANTITY' (brown boxes labeled 'STOCKS') equals 'PRICE', illustrating the price mechanism in a beige background filled with circular icons of commodities and industries.",
+                "Protest Crowd": "A dense group of stick figures in brown uniforms, holding signs with messages like 'Revolution!', 'TOO MUCH DEBT', and '99%', symbolizing public unrest over economic inequality.",
+                "Central Bank Building": "A classical-style building with a flag and bat-like emblem, labeled 'CENTRAL BANK', shown with arms raised, then splitting into two tools: an 'INTEREST RATES' lever and a 'PRINTING MONEY' machine.",
+                "Interest Rates Icon": "A lever with a circular knob, labeled 'INTEREST RATES', connected to the Central Bank, shown as a tool for monetary policy.",
+                "Printing Money Machine": "A rolling press machine, labeled 'PRINTING MONEY', producing green dollar bills, connected by an arrow from the Central Bank, shown on a green platform labeled 'INFLATIONARY'.",
+                "Financial Assets Icon": "Icons of 'STOCKS' and 'BONDS' appearing on the right side of the screen, representing financial instruments affected by monetary policy.",
+                "Dark Blue Graph": "A graph on a dark blue background titled 'THE UNITED STATES', plotting 'PRINTED MONEY (BILLIONS)' over time, with two separate timelines: 1925–1939 and 2000–2012, each showing a sharp rise in printed money."
+            },
+            "discovered_new_entities": {
+                "Map of Europe": "Outline of Europe with a knight-like stick figure in armor holding a sword, symbolizing military or political power, and a 'NOT CREDITWORTHY' sign with a 'DEBT' box below, indicating financial strain.",
+                "Map of Japan": "Outline of Japan with a scale labeled 'NOT CREDITWORTHY', where 'DEBT' outweighs 'INCOME', visually representing economic imbalance.",
+                "DEFLATIONARY Platform": "A red platform labeled 'DEFLATIONARY' with downward arrows, where a stick figure cuts green money with scissors, symbolizing spending reduction during deflation.",
+                "INFLATIONARY Platform": "A green platform labeled 'INFLATIONARY' with upward arrows, featuring a money-printing machine, symbolizing monetary expansion during inflation.",
+                "Circular Icons Background": "A beige background filled with circular icons labeled with commodities and industries (e.g., 'WHEAT', 'STEEL', 'CHEMICAL', 'CORN', 'PLATINUM'), representing the real economy's components."
+            }
+        },
+        {
+            "minute": 26,
+            "caption": "The segment begins with two line graphs on a dark blue background, labeled 'ENGLAND' and 'EUROPE', showing a sharp increase in 'PRINTED MONEY (BILLIONS)' from 2000 to 2012, with a dramatic spike after 2008. The scene transitions to a beige background where a series of minimalist stick figures interact with financial symbols: a woman holding money, a man holding a 'STOCKS' document with a '$$$' tag, a central bank building, and a money-printing machine producing green bills. The central bank is labeled 'CENTRAL BANK' and points to the printing machine, which feeds money to the man with stocks, now labeled 'FINANCIAL ASSETS'. The scene shifts to a 'CENTRAL GOVERNMENT' building with a dome, extending an arm to receive money from a figure holding a box labeled 'GOODS' and another holding a broom labeled 'SERVICES'. The government then receives 'GOVERNMENT BONDS' from the central bank, which in turn receives money from the government. The government distributes money to a group of people labeled 'GOODS & SERVICES' and another group labeled 'UNEMPLOYED', illustrating fiscal policy. The government's arm continues to distribute money, emphasizing its role in economic stimulus. The final frames show the government's arm reaching out to the unemployed, reinforcing the theme of public spending and economic support.",
+            "active_entities": {
+                "Dark Blue Graph": "Two line graphs on a dark blue background, titled 'ENGLAND' and 'EUROPE', plotting 'PRINTED MONEY (BILLIONS)' over time from 2000 to 2012, showing a sharp rise after 2008.",
+                "Central Bank Building": "A classical-style building with a flag and bat-like emblem, labeled 'CENTRAL BANK', shown with an arm pointing to a money-printing machine, which produces green bills.",
+                "Printing Money Machine": "A rolling press machine, labeled 'PRINTING MONEY', producing green dollar bills, connected by an arrow from the Central Bank, shown on a green platform labeled 'INFLATIONARY'.",
+                "Text Labels": "Labels such as 'CENTRAL BANK', 'FINANCIAL ASSETS', 'CENTRAL GOVERNMENT', 'GOODS & SERVICES', 'UNEMPLOYED', and 'GOVERNMENT BONDS' appear to categorize the entities and transactions."
+            },
+            "discovered_new_entities": {
+                "Stick Figure (Financial Assets Exchange)": "Minimalist stick figure in a gray vest with three buttons, holding a 'STOCKS' document with a '$$$' tag, now labeled 'FINANCIAL ASSETS', receiving money from the printing machine.",
+                "Central Government Building (Capitol)": "Stylized Capitol building with a dome, labeled 'CENTRAL GOVERNMENT', extending an arm to receive money from figures holding 'GOODS' and 'SERVICES', then receiving 'GOVERNMENT BONDS' from the central bank.",
+                "Stick Figure (Goods & Services)": "Minimalist stick figures in gray vests with three buttons, one holding a brown box labeled 'GOODS', another holding a broom labeled 'SERVICES', giving money to the central government.",
+                "Government Bonds": "A document labeled 'BONDS' exchanged between the central bank and the central government, symbolizing government debt issuance.",
+                "Stick Figure (Unemployed)": "Minimalist stick figures in gray vests with three buttons, standing with hands on hips, labeled 'UNEMPLOYED', receiving money from the central government's extended arm."
+            }
+        },
+        {
+            "minute": 27,
+            "caption": "The video begins with a split-screen comparison: on the left, a red platform labeled 'DEFLATIONARY' with downward arrows, where stick figures cut green money with scissors, symbolizing spending reduction; on the right, a green platform labeled 'INFLATIONARY' with upward arrows, featuring a money-printing machine producing green bills. The platforms shift and merge into a balanced blue platform labeled 'BALANCE', with the deflationary side now showing figures redistributing wealth and the inflationary side still printing money. The scene transitions to a dark green background with the text 'A BEAUTIFUL DELEVERAGING' above a rising then falling curve, followed by a beige background with the word 'Beautiful?' appearing with a cloud burst. The narrative continues with a stick figure in a top hat running up a steep curve, dropping 'CREDIT' notes, while stacks labeled 'DEBT' grow below. A scale appears with 'DEBT' outweighing 'INCOME', labeled 'NOT CREDITWORTHY', then shifts to show 'INCOME' outweighing 'DEBT', labeled 'CREDITWORTHY'. A government building with arms labeled 'BORROWING', 'DEBT REPAYMENT', and 'LESS SPENDING' appears, with a speech bubble saying 'NOT A PROBLEM!'. The final scene returns to the balanced blue platform, now with the deflationary side labeled 'REDISTRIBUTE WEALTH' and the inflationary side unchanged, emphasizing a balanced approach to deleveraging.",
+            "active_entities": {
+                "DEFLATIONARY Platform": "A red platform labeled 'DEFLATIONARY' with downward arrows, where stick figures cut green money with scissors, symbolizing spending reduction during deflation.",
+                "INFLATIONARY Platform": "A green platform labeled 'INFLATIONARY' with upward arrows, featuring a money-printing machine producing green bills, symbolizing monetary expansion during inflation.",
+                "Stick Figure": "Minimalist stick figures in gray vests with three buttons, appearing on the deflationary platform cutting money with scissors, and later redistributing wealth.",
+                "Scissors": "Large scissors used by stick figures to cut green money, symbolizing spending cuts during deflation.",
+                "Scale Icon": "A balance scale with 'DEBT' and 'INCOME' pans, initially showing 'DEBT' outweighing 'INCOME' and labeled 'NOT CREDITWORTHY', then shifting to 'INCOME' outweighing 'DEBT' and labeled 'CREDITWORTHY'.",
+                "Government Building (Capitol)": "A stylized Capitol building with multiple arms labeled 'BORROWING', 'DEBT REPAYMENT', and 'LESS SPENDING', with a speech bubble saying 'NOT A PROBLEM!', symbolizing government intervention.",
+                "Animated Text 'REDISTRIBUTE WEALTH'": "Black text appearing on the deflationary side of the balanced platform, replacing 'DEFLATIONARY', indicating a policy of wealth transfer to achieve balance."
+            },
+            "discovered_new_entities": {
+                "Money-Printing Machine": "A rolling press machine producing green dollar bills, connected to the inflationary platform, symbolizing monetary expansion.",
+                "Animated Text 'A BEAUTIFUL DELEVERAGING'": "White text on a dark green background, appearing above a rising then falling curve, introducing the concept of a balanced deleveraging.",
+                "Animated Text 'Beautiful?'": "Black cursive text with a cloud burst, appearing on a beige background, questioning the nature of the deleveraging process.",
+                "Stick Figure (Top Hat)": "A stick figure in a top hat and vest, running up a steep curve while dropping 'CREDIT' notes, symbolizing credit expansion and debt accumulation.",
+                "DEBT Stacks": "Tall stacks of gray notes labeled 'DEBT', growing progressively taller as the stick figure runs up the curve, representing increasing debt.",
+                "Animated Text 'NOT A PROBLEM!'": "Black text in a speech bubble above the government building, indicating a positive outlook on the deleveraging process.",
+                "Balanced Platform": "A blue platform labeled 'BALANCE' with dashed lines, connecting the deflationary and inflationary sides, now showing 'REDISTRIBUTE WEALTH' on the deflationary side and the money-printing machine on the inflationary side.",
+                "Rising Curve Diagram": "A black line graph on a beige background, rising steeply then curving downward, symbolizing the economic cycle of growth and contraction, with a stick figure running along it.",
+                "Cloud Burst": "A small cloud with radiating lines, appearing next to the word 'Beautiful?', symbolizing a moment of questioning or revelation."
+            }
+        },
+        {
+            "minute": 28,
+            "caption": "The video begins with a balanced platform labeled 'BALANCE' connecting two opposing sides: a 'DEFLATIONARY' side with stick figures cutting green money with scissors, and an 'INFLATIONARY' side with a money-printing machine producing green bills. The 'DEFLATIONARY' side is later relabeled 'REDISTRIBUTE WEALTH' as a wealthy stick figure hands money to a poorer one, while the 'INFLATIONARY' side remains unchanged. The scene transitions to three stick figures with question marks above their heads, one raising a hand with a speech bubble asking 'RAISE INFLATION?'. This leads to a visual equation: 'SPENDING' (green money and 'CREDIT' notes) divided by 'QUANTITY' (brown boxes and 'STOCKS') equals 'PRICE' (a gray price tag with '$$$'). The equation is shown with money and credit notes falling into the spending numerator. Next, a scale appears with 'DEBT' on one side and 'INCOME' on the other, initially labeled 'NOT CREDITWORTHY' as debt outweighs income. As income increases, the scale tips, and the label changes to 'CREDITWORTHY'. The final scene shows a map of the United States with a pile of 'DEBT' notes on the left and a pile of green money on the right, with the ratio '1:1' appearing between them, symbolizing a balanced debt-to-income relationship across the country.",
+            "active_entities": {
+                "Balanced Platform": "A blue platform labeled 'BALANCE' with dashed lines, connecting the deflationary and inflationary sides, now showing 'REDISTRIBUTE WEALTH' on the deflationary side and the money-printing machine on the inflationary side.",
+                "DEFLATIONARY Platform": "A red platform labeled 'DEFLATIONARY' with downward arrows, where stick figures cut green money with scissors, symbolizing spending reduction during deflation.",
+                "INFLATIONARY Platform": "A green platform labeled 'INFLATIONARY' with upward arrows, featuring a money-printing machine producing green bills, symbolizing monetary expansion during inflation.",
+                "Stick Figure (Suit)": "Minimalist stick figure in a suit with a tie, standing with arms outstretched in distress as assets float away, representing financial loss during depression.",
+                "Stick Figure (Financial Assets Exchange)": "Minimalist stick figure in a gray vest with three buttons, holding a 'STOCKS' document with a '$$$' tag, now labeled 'FINANCIAL ASSETS', receiving money from the printing machine.",
+                "Money-Printing Machine": "A rolling press machine producing green dollar bills, connected to the inflationary platform, symbolizing monetary expansion.",
+                "Stick Figure (Goods & Services)": "Minimalist stick figures in gray vests with three buttons, one holding a brown box labeled 'GOODS', another holding a broom labeled 'SERVICES', giving money to the central government.",
+                "Central Government Building (Capitol)": "Stylized Capitol building with a dome, labeled 'CENTRAL GOVERNMENT', extending an arm to receive money from figures holding 'GOODS' and 'SERVICES', then receiving 'GOVERNMENT BONDS' from the central bank.",
+                "Government Bonds": "A document labeled 'BONDS' exchanged between the central bank and the central government, symbolizing government debt issuance.",
+                "Stick Figure (Unemployed)": "Minimalist stick figures in gray vests with three buttons, standing with hands on hips, labeled 'UNEMPLOYED', receiving money from the central government's extended arm.",
+                "Scale Icon": "A balance scale with 'DEBT' and 'INCOME' pans, initially showing 'DEBT' outweighing 'INCOME' and labeled 'NOT CREDITWORTHY', then shifting to 'INCOME' outweighing 'DEBT' and labeled 'CREDITWORTHY'.",
+                "Map of the United States": "Outline of the United States with a pile of 'DEBT' notes on the left and a pile of green money on the right, with the ratio '1:1' appearing between them, symbolizing a balanced debt-to-income relationship across the country.",
+                "Animated Text 'REDISTRIBUTE WEALTH'": "Black text appearing on the deflationary side of the balanced platform, replacing 'DEFLATIONARY', indicating a policy of wealth transfer to achieve balance.",
+                "Wealthy Stick Figure": "A stick figure with a mustache and bow tie, handing money to a poorer figure, symbolizing wealth redistribution.",
+                "Poorer Stick Figure": "A stick figure in a gray vest, receiving money from the wealthy figure, symbolizing the recipient of wealth redistribution.",
+                "Formula Display": "Visual equation showing 'TOTAL SPENDING' (green money and 'CREDIT' notes) divided by 'TOTAL QUANTITY' (brown boxes labeled 'STOCKS') equals 'PRICE', illustrating the price mechanism in a beige background filled with circular icons of commodities and industries.",
+                "Price Tag Icon": "Gray tags with dollar signs, shown attached to a house, then dropping as the house falls, symbolizing falling asset prices during a downturn, now appearing as a chain of falling tags labeled 'DEFLATION'.",
+                "Animated Text 'INFLATION'": "Bold black text appearing centrally on a beige background, following the price equation, indicating the result of increased spending relative to quantity."
+            },
+            "discovered_new_entities": {
+                "Animated Text 'RAISE INFLATION?'": "White text in a speech bubble above a stick figure's head, questioning the policy of increasing inflation."
+            }
+        },
+        {
+            "minute": 29,
+            "caption": "The video begins with a stylized map of the United States, where a pile of gray 'DEBT' notes is on the left and a pile of green money is on the right, symbolizing a debt-to-income balance. The scene transitions to a balance scale with 'DEBT' on the left pan and 'INCOME' on the right, initially balanced. As the debt pile grows, the scale tips, and the label changes to 'NOT CREDITWORTHY' in red. The income side then increases, tipping the scale back, and the label changes to 'CREDITWORTHY' in green. The scene shifts to a vibrant green landscape where a money-printing machine produces endless green bills, overwhelming stick figures who are buried under the cash, illustrating inflation. Next, a diagram appears with two platforms labeled 'DEFLATIONARY' (with stick figures cutting money with scissors) and 'INFLATIONARY' (with a money-printing machine), connected by a 'BALANCE' zone. A large black curve arcs over the diagram, and the text 'A Beautiful Deleveraging' appears. The final scene shows a circular diagram with stick figures labeled 'LESS SPENDING', 'LESS INCOME', 'LESS BORROWING', and 'LESS WEALTH', connected by red squiggly arrows, depicting a downward economic spiral. The background is light blue, and the figures are minimalist, wearing gray vests with three buttons.",
+            "active_entities": {
+                "Map of the United States": "Outline of the United States with a pile of gray 'DEBT' notes on the left and a pile of green money on the right, symbolizing a debt-to-income relationship.",
+                "Scale Icon": "A balance scale with 'DEBT' and 'INCOME' pans, initially balanced, then tipping to show 'NOT CREDITWORTHY' in red, and later 'CREDITWORTHY' in green as income increases.",
+                "Printing Money Machine": "A rolling press machine producing green dollar bills, shown on a green platform labeled 'INFLATIONARY', overwhelming stick figures in a lush green landscape.",
+                "Stick Figure": "Minimalist stick figures in gray vests with three buttons, appearing on the deflationary platform cutting green money with scissors, and later buried under piles of cash.",
+                "DEFLATIONARY Platform": "A red platform labeled 'DEFLATIONARY' with downward arrows, where stick figures cut green money with scissors, symbolizing spending reduction during deflation.",
+                "INFLATIONARY Platform": "A green platform labeled 'INFLATIONARY' with upward arrows, featuring a money-printing machine producing green bills, symbolizing monetary expansion during inflation.",
+                "Balanced Platform": "A blue platform labeled 'BALANCE' with dashed lines, connecting the deflationary and inflationary sides, now showing 'REDISTRIBUTE WEALTH' on the deflationary side and the money-printing machine on the inflationary side.",
+                "Circular Diagram": "A circular layout on a light blue background showing stick figures labeled 'LESS SPENDING', 'LESS INCOME', 'LESS BORROWING', and 'LESS WEALTH', connected by red squiggly arrows to illustrate the economic cycle of decline.",
+                "Animated Text 'NOT CREDITWORTHY'": "Red text at the base of the scale, indicating the borrower's financial status when debt exceeds income.",
+                "Animated Text 'Beautiful?'": "Black cursive text with a cloud burst, appearing on a beige background, questioning the nature of the deleveraging process."
+            },
+            "discovered_new_entities": {
+                "Animated Text 'A Beautiful Deleveraging'": "White text on a dark green background, appearing above a rising then falling curve, introducing the concept of a balanced deleveraging.",
+                "Animated Text 'CREDITWORTHY'": "Green text at the base of the scale, indicating the borrower's financial status when income exceeds debt.",
+                "Animated Text 'DEFLATIONARY'": "White text on a red platform, indicating the economic state of falling prices and reduced spending.",
+                "Animated Text 'INFLATIONARY'": "White text on a green platform, indicating the economic state of rising prices and increased money supply.",
+                "Animated Text 'BALANCE'": "White text on a blue platform, indicating the equilibrium between deflationary and inflationary forces.",
+                "Green Landscape": "A vibrant green background with rolling hills, where a money-printing machine produces endless green bills, overwhelming stick figures who are buried under the cash, symbolizing inflation.",
+                "Large Black Curve": "A thick black arc drawn over the deflationary and inflationary platforms, visually representing the economic cycle or the path of deleveraging."
+            }
+        },
+        {
+            "minute": 30,
+            "caption": "The video segment begins with a light blue background featuring multiple classical-style bank buildings and stick figures engaged in economic activities such as borrowing, debt repayment, and spending, with red squiggly arrows indicating financial strain. The scene transitions to a beige background with a scale labeled 'DEBT' and 'INCOME', initially showing 'NOT CREDITWORTHY' in red as debt outweighs income, then flipping to 'CREDITWORTHY' in green as income increases. This is followed by a return to the light blue background with the word 'REFLATION' appearing. The narrative then shifts to a large black curve illustrating a 'HIGH DEBT BURDEN' descending into a 'LOW DEBT BURDEN', labeled as part of a long-term debt cycle. A U-shaped graph is shown with phases labeled 'LEVERAGING 50+ YEARS', 'DEPRESSION 2-3 YEARS', and 'REFLATION 7-10 YEARS', with the 'LOST DECADE' text appearing below. The final frames display a graph of 'GROWTH (GDP)' over 'TIME', showing a wavy line that dips sharply and then recovers, intersecting a rising diagonal trend line, symbolizing economic cycles and long-term growth. The background remains consistently beige for the graphs, providing a neutral canvas for the economic diagrams.",
+            "active_entities": {
+                "Multiple Bank Buildings": "Several identical classical-style bank buildings, each extending an arm to give money to borrowers, illustrating credit expansion and multiple lenders.",
+                "Stick Figure Borrower": "Minimalist stick figure in a gray vest with three buttons, initially holding a stack of green money, then cutting it with a sword, and later depicted as defaulting in a cloud labeled 'DEFAULT'.",
+                "Scale Icon": "A balance scale with 'DEBT' and 'INCOME' pans, initially balanced, then tipping to show 'NOT CREDITWORTHY' in red, and later 'CREDITWORTHY' in green as income increases.",
+                "Large Black Curve": "A thick black arc drawn over the deflationary and inflationary platforms, visually representing the economic cycle or the path of deleveraging.",
+                "Graph": "A line graph on a beige background with 'GROWTH (GDP)' on the vertical axis and 'TIME' on the horizontal axis, showing a peak labeled 'LONG TERM DEBT PEAK' followed by a dip and recovery.",
+                "Circular Icons Background": "A beige background filled with circular icons labeled with commodities and industries (e.g., 'WHEAT', 'STEEL', 'CHEMICAL', 'CORN', 'PLATINUM'), representing the real economy's components."
+            },
+            "discovered_new_entities": {
+                "Animated Text 'REFLATION'": "Bold blue text appearing centrally on a light blue background, indicating the phase of economic recovery after a depression.",
+                "Text 'LOST DECADE'": "Black text appearing below the U-shaped graph, indicating the prolonged period of economic stagnation during the reflation phase.",
+                "U-Shaped Graph": "A black U-shaped curve on a beige background, divided into three labeled phases: 'LEVERAGING 50+ YEARS', 'DEPRESSION 2-3 YEARS', and 'REFLATION 7-10 YEARS', illustrating the long-term debt cycle.",
+                "Text 'DEPRESSION 2-3 YEARS'": "Black text above the left side of the U-shaped graph, indicating the duration of the economic downturn phase.",
+                "Text 'REFLATION 7-10 YEARS'": "Black text above the right side of the U-shaped graph, indicating the duration of the recovery phase.",
+                "Text 'LEVERAGING 50+ YEARS'": "Black text above the left ascending part of the U-shaped graph, indicating the long period of debt accumulation.",
+                "Text 'HIGH DEBT BURDEN'": "White text in a rectangular box on the left side of the large black curve, indicating the peak of debt before the downturn.",
+                "Text 'LOW DEBT BURDEN'": "White text in a rectangular box on the right side of the large black curve, indicating the reduced debt level after deleveraging."
+            }
+        },
+        {
+            "minute": 31,
+            "caption": "The video transitions from a beige background to a series of text-based rules presented in a clean, typographic style. The first rule, 'DON'T HAVE DEBT RISE FASTER THAN INCOME,' appears in bold, black, uppercase letters with 'Rule One' in a cursive font above it. This is followed by 'Rule Two: DON'T HAVE INCOME RISE FASTER THAN PRODUCTIVITY,' and then 'Rule Three: DO ALL THAT YOU CAN TO RAISE YOUR PRODUCTIVITY,' each with the same stylistic format. The text 'Simple advice for policy makers' then appears, leading to a visual of a sea of 'CREDIT' notes with a small stack of green money in the center, symbolizing the dominance of credit over actual currency. The scene returns to the initial graph of economic growth over time, labeled 'GROWTH (GDP)' and 'TIME,' showing a wavy line intersecting a rising trend line. The video concludes with a 'Thank You' message, followed by credits on a dark blue background, including 'By RAY DALIO,' production details, and a final call to action: 'If You’d Like To Learn More Go To: ECONOMICPRINCIPLES.ORG,' with a copyright notice for 2013 Ray Dalio.",
+            "active_entities": {
+                "Graph": "A line graph on a beige background with 'GROWTH (GDP)' on the vertical axis and 'TIME' on the horizontal axis, showing a wavy line intersecting a rising trend line, representing economic cycles and long-term growth.",
+                "Money and Credit Icons": "A sea of white 'CREDIT' notes filling the screen, with a small stack of green dollar bills in the center, symbolizing the overwhelming presence of credit over actual money."
+            },
+            "discovered_new_entities": {
+                "Animated Text '3 Rules of Thumb'": "Black, cursive-style text centered on a beige background, introducing the segment's theme.",
+                "Animated Text 'Rule One'": "Black, cursive-style text above bold, uppercase text reading 'DON'T HAVE DEBT RISE FASTER THAN INCOME,' presented on a beige background.",
+                "Animated Text 'Rule Two'": "Black, cursive-style text above bold, uppercase text reading 'DON'T HAVE INCOME RISE FASTER THAN PRODUCTIVITY,' presented on a beige background.",
+                "Animated Text 'Rule Three'": "Black, cursive-style text above bold, uppercase text reading 'DO ALL THAT YOU CAN TO RAISE YOUR PRODUCTIVITY,' presented on a beige background.",
+                "Animated Text 'Simple advice for policy makers'": "Black, cursive-style text on a beige background, introducing the next visual segment.",
+                "Animated Text 'Thank You'": "Black, cursive-style text centered on a beige background, marking the end of the main content.",
+                "Text 'By RAY DALIO'": "White, capitalized text on a dark blue background, framed by decorative lines, crediting the author.",
+                "Text 'with Animation Directed by JONATHAN JARVIS'": "White text on a dark blue background, listing the animation director and production team.",
+                "Text 'If You’d Like To Learn More Go To: ECONOMICPRINCIPLES.ORG'": "White text on a dark blue background, with 'ECONOMICPRINCIPLES.ORG' in bold, serving as a call to action.",
+                "Text '© 2013 Ray Dalio'": "Small white text at the bottom of the dark blue screen, indicating copyright information."
+            }
+        }
+    ],
+    "entity_library": {
+        "Title Card": "White text on dark blue background reading 'HOW THE ECONOMIC MACHINE WORKS In 30 Minutes' with decorative framing and a small person icon.",
+        "Animated Text 'THE ECONOMY'": "White letters dynamically rearranging and floating with cloud-like bursts, forming the word 'ECONOMY'.",
+        "Hand with Pen": "A stylized hand holding a pen, drawing a wavy line representing economic fluctuations, with equations like 'M*V=P*Y' appearing briefly.",
+        "Interlocking Gears": "Gears composed of stick figures, labeled with commodities and industries (e.g., 'WHEAT', 'CAB', 'STEEL', 'CHEMICAL', 'SUGAR'), rotating and interlocking to form a network.",
+        "Line Graph": "A red jagged line graph labeled 'SELL!' that plummets sharply, then rebounds slightly, visually representing a market crash and partial recovery.",
+        "Animated Text 'TRANSACTIONS'": "White text on a dark green background, flanked by two stick figures with curved arrows indicating exchange.",
+        "Stick Figure Buyer and Seller": "Minimalist stick figures in gray vests with three buttons, exchanging green money and brown boxes, with red squiggly arrows indicating transaction flow.",
+        "Money and Credit Icons": "A sea of white 'CREDIT' notes filling the screen, with a small stack of green dollar bills in the center, symbolizing the overwhelming presence of credit over actual money.",
+        "Financial Assets Icon": "Icons of 'STOCKS' and 'BONDS' appearing on the right side of the screen, representing financial instruments affected by monetary policy.",
+        "Formula Display": "Visual equation showing 'TOTAL SPENDING' (green money and 'CREDIT' notes) divided by 'TOTAL QUANTITY' (brown boxes labeled 'STOCKS') equals 'PRICE', illustrating the price mechanism in a beige background filled with circular icons of commodities and industries.",
+        "Price Tag Icon": "Gray tags with dollar signs, shown attached to a house, then dropping as the house falls, symbolizing falling asset prices during a downturn, now appearing as a chain of falling tags labeled 'DEFLATION'.",
+        "Animated Text 'MARKET'": "Bold black text centered within a circular ring of stick figures exchanging goods and money.",
+        "Government Building (Capitol)": "A stylized Capitol building with multiple arms labeled 'BORROWING', 'DEBT REPAYMENT', and 'LESS SPENDING', with a speech bubble saying 'NOT A PROBLEM!', symbolizing government intervention.",
+        "Business Building": "A simple rectangular building with windows, representing a corporate entity, shown shrinking and collapsing into a cloud labeled 'DEFAULT'.",
+        "Bank Building": "Classical-style building with columns, initially with arms holding money and 'CREDIT' note, later extending arms to collect money from borrowers, symbolizing financial institutions' role in credit and asset markets.",
+        "Central Bank Building": "A classical-style building with a flag and bat-like emblem, labeled 'CENTRAL BANK', shown with an arm pointing to a money-printing machine, which produces green bills.",
+        "Animated Text 'CREDIT'": "Bold black text on a beige background, shown on a stack of notes, emphasizing the role of credit in the economy.",
+        "Animated Text 'THE MOST IMPORTANT PART OF THE ECONOMY'": "Text appearing beneath the 'CREDIT' icon on a beige background, emphasizing its economic significance.",
+        "Interest Rates Icon": "A lever with a circular knob, labeled 'INTEREST RATES', connected to the Central Bank, shown as a tool for monetary policy.",
+        "Printing Money Machine": "A rolling press machine producing green dollar bills, shown on a green platform labeled 'INFLATIONARY', overwhelming stick figures in a lush green landscape.",
+        "CREDIT Scroll": "A long, unfurling scroll with the word 'CREDIT' repeated, visually representing the flow or importance of credit in the economy.",
+        "Thought Bubbles": "Cloud-shaped bubbles above the Lender and Borrower. The Lender’s bubble shows stacks of money; the Borrower’s evolves from house/car to 'IN THE FUTURE' with 'PRINCIPAL + INTEREST', then back to house/car.",
+        "Stick Figure Borrower": "Minimalist stick figure in a gray vest with three buttons, initially holding a stack of green money, then cutting it with a sword, and later depicted as defaulting in a cloud labeled 'DEFAULT'.",
+        "Speech Bubble": "White speech bubble above the Bank Building labeled 'PAY UP!', demanding repayment from the borrower.",
+        "Text Labels": "Labels such as 'CENTRAL BANK', 'FINANCIAL ASSETS', 'CENTRAL GOVERNMENT', 'GOODS & SERVICES', 'UNEMPLOYED', and 'GOVERNMENT BONDS' appear to categorize the entities and transactions.",
+        "Animated Text 'Credit!'": "Appears in red cursive above the 'CREDIT' note during the exchange, emphasizing the concept.",
+        "Scale Icon": "A balance scale with 'DEBT' and 'INCOME' pans, initially balanced, then tipping to show 'NOT CREDITWORTHY' in red, and later 'CREDITWORTHY' in green as income increases.",
+        "Collateral Icons": "Pile of assets including a house, stocks, and a 'CREDIT' note, shown beside the 'STILL CREDITWORTHY BORROWER' to represent security for loans.",
+        "Stick Figure Seller": "Minimalist stick figure in a gray vest with three buttons, labeled 'INCOME', receiving money and then spending it on a box, becoming a Stick Figure Spender.",
+        "Multiple Bank Buildings": "Several identical classical-style bank buildings, each extending an arm to give money to borrowers, illustrating credit expansion and multiple lenders.",
+        "CREDITWORTHY BORROWER": "A Stick Figure Borrower flexing, labeled 'CREDITWORTHY BORROWER', positioned next to a scale and collateral, emphasizing financial reliability.",
+        "Stick Figure Spender": "Minimalist stick figure in a gray vest with three buttons, labeled 'SPENDING', holding a brown box and passing it to another figure.",
+        "Stick Figure Income": "Minimalist stick figure in a gray vest with three buttons, labeled 'DEBT REPAYMENT', receiving money and repaying debt.",
+        "Stick Figure Productivity": "Minimalist stick figure in a gray vest with three buttons, labeled 'PRODUCTIVITY (GROWTH HERE)', bending over a box, symbolizing productive effort, with a green text label emphasizing growth.",
+        "Animated Text 'CYCLES'": "Bold white text appearing centrally on a light blue background, emphasizing the recurring nature of the economic interactions shown.",
+        "Graph": "A line graph on a beige background with 'GROWTH (GDP)' on the vertical axis and 'TIME' on the horizontal axis, showing a wavy line intersecting a rising trend line, representing economic cycles and long-term growth.",
+        "Stick Figure Seller (Financial Assets Exchange)": "Minimalist stick figure in a gray vest with three buttons, exchanging green money and brown boxes labeled 'STOCKS' with another Stick Figure Seller, symbolizing financial asset transactions.",
+        "Circular Arrow": "A curved arrow forming between two Stick Figure Sellers, indicating a continuous exchange of money and financial assets.",
+        "Text 'PRODUCTIVITY MATTERS'": "Bold black text appearing above the graph, emphasizing the importance of productivity in long-term growth.",
+        "Text 'CREDIT MATTERS IN THE SHORT RUN'": "Bold black text appearing above the graph, highlighting the role of credit in short-term economic fluctuations.",
+        "Text 'PRODUCTIVITY GROWTH'": "Label appearing below the graph, describing the wavy line that intersects the growth trend, illustrating the dynamic relationship between productivity and economic growth.",
+        "Red Squiggly Arrows": "Curved red lines with small loops connecting borrowers, indicating strain or financial pressure as debt burdens increase, now appearing in the circular diagram to show the cycle of decline.",
+        "Multiple Economic Cycles": "Repeating instances of the 'BORROWING', 'DEBT REPAYMENT', 'SPENDING' cycle, now with 'CREDIT' notes flowing, arranged in a pattern to show the expansion and repetition of the economic cycle.",
+        "Beige Background": "A plain, light beige background used for the latter part of the segment, providing a neutral canvas for the graph and financial asset exchange animations.",
+        "Circular Diagram": "A circular layout on a light blue background showing stick figures labeled 'LESS SPENDING', 'LESS INCOME', 'LESS BORROWING', and 'LESS WEALTH', connected by red squiggly arrows to illustrate the economic cycle of decline.",
+        "Hand": "A large, stylized hand descending from above, taking money from the rich figures, representing redistribution or taxation.",
+        "Animated Text 'BECAUSE WE BORROW, WE HAVE CYCLES'": "Bold black text appearing above the bank and borrower, emphasizing the causal relationship between borrowing and economic cycles.",
+        "Multiple Stick Figures with Credit": "Several minimalist stick figures in gray vests with three buttons, some standing tall holding money, others bent under red squiggly arrows, illustrating varying impacts of borrowing.",
+        "Large Blue Wave": "Thick blue wavy line overlaying the group of borrowers, visually representing the economic cycle and its peaks and troughs.",
+        "Animated Text 'MONEY vs. CREDIT'": "White text on a beige background, flanked by green dollar bills and white 'CREDIT' notes, visually contrasting the two forms of payment.",
+        "Bar Setting": "A beige background with a clock, hanging light, and shelves of bottles, featuring a stick figure customer and a bartender in a vest with a bow tie, exchanging goods and notes.",
+        "Animated Text 'Settled!'": "Red cursive text appearing above the exchange of money and beer, indicating the transaction is complete.",
+        "Animated Text 'Instead'": "Beige text on a label, appearing to introduce an alternative transaction method using credit.",
+        "Animated Text 'Later'": "Beige text on a label, indicating a time shift to the settlement of the credit transaction.",
+        "DEBT Note": "Gray note labeled 'DEBT', exchanged by the customer after drinking, representing a liability, shown floating above the beer.",
+        "TAB Note": "A white scroll labeled 'TAB', exchanged by the bartender, representing an asset.",
+        "CREDIT Note (Bar Context)": "A white note labeled 'CREDIT', exchanged by the bartender, representing the asset side of the credit transaction.",
+        "Liability and Asset Labels": "Text labels 'LIABILITY' and 'ASSET' appearing below the customer and bartender respectively, clarifying the financial nature of the credit transaction.",
+        "Animated Text 'AN ECONOMY WITHOUT CREDIT'": "Bold black text at the top of the screen, introducing the first economic scenario.",
+        "Animated Text 'AN ECONOMY WITH CREDIT'": "Bold black text replacing the previous title, introducing the second scenario with credit.",
+        "Stick Figure Spending": "Minimalist stick figure in a gray vest with three buttons, labeled 'SPENDING', holding a brown box, part of the circular flow.",
+        "Green Money Stack": "Stacks of green dollar bills labeled 'TOTAL SPENDING', initially alone, then surrounded by 'CREDIT' notes.",
+        "White 'CREDIT' Notes": "Stacks of white notes labeled 'CREDIT', appearing around the money stack to represent credit expansion.",
+        "Animated Text 'CREDIT ISN'T BAD'": "Bold black text appearing above the graph, emphasizing that credit itself is not inherently negative.",
+        "Animated Text 'CREDIT IS BAD WHEN:'": "Bold black text introducing a scenario where credit is misused, shown with two stick figures exchanging money for a TV.",
+        "Animated Text 'CREDIT IS GOOD WHEN:'": "Bold black text introducing a scenario where credit is used productively, shown with a farmer receiving a tractor key.",
+        "Stick Figure Farmer": "Minimalist stick figure in a gray vest with three buttons and a hat, receiving a key from a lender, then driving a tractor to plant seeds.",
+        "Tractor": "A gray vintage-style tractor with a large front wheel, driven by the farmer, pulling a plow to plant seeds.",
+        "Corn Stalks": "Rows of gray corn stalks growing from the soil, with green money bills sprouting from their leaves, symbolizing productive growth.",
+        "Animated Text 'PRODUCTIVITY (GROWTH HERE)'": "Green text label appearing below the 'PRODUCTIVITY' stick figure, emphasizing its role as the source of true economic growth.",
+        "CREDIT Note": "White note labeled 'CREDIT', exchanged between the customer and bartender, representing the flow of credit in the transaction.",
+        "Animated Text 'BORROWING CREATES CYCLES'": "Bold black text appearing above a wavy line on a beige background, emphasizing the causal relationship between borrowing and economic cycles.",
+        "Animated Text 'SHORT TERM DEBT CYCLE'": "White text on a dark green background, with two curved arrows forming a loop between 'SHORT TERM' and 'DEBT CYCLE', illustrating the cyclical nature of short-term debt.",
+        "Wavy Line Graph": "A black wavy line on a beige background, forming a sine wave to visually represent economic cycles created by borrowing, later overlaying a rising diagonal line to show long-term growth.",
+        "Dark Green Background": "A solid dark green background used for the final diagram, providing contrast for the white text and arrows of the 'SHORT TERM DEBT CYCLE' illustration.",
+        "Animated Text 'EXPANSION'": "Bold blue text appearing centrally on a light blue background, indicating the phase of economic growth.",
+        "Animated Text 'INFLATION'": "Bold black text appearing centrally on a beige background, following the price equation, indicating the result of increased spending relative to quantity.",
+        "Animated Text 'LESS BORROWING'": "Bold black text appearing below the bank and stick figure, indicating reduced borrowing due to high interest rates.",
+        "Animated Text 'DEFLATION'": "Bold black text appearing centrally on a beige background, following the shrinking price tag, indicating falling prices.",
+        "Animated Text 'RECESSION'": "Bold black text appearing centrally on a beige background, following the disappearance of the price tag, indicating economic downturn.",
+        "Animated Text 'LONG TERM DEBT CYCLE'": "White text on a dark green background, with a curved white arrow tracing the arc of the cycle.",
+        "Animated Text 'BORROWING'": "Bold black text appearing below the lender-borrower exchange, emphasizing the act of borrowing.",
+        "Animated Text 'MORE VALUABLE ASSETS'": "Bold black text appearing below the borrower holding a house, car, and stocks, indicating wealth accumulation.",
+        "Animated Text 'MORE INCOME'": "Bold black text appearing below the borrower holding money, indicating the result of asset growth and borrowing.",
+        "Car with Balloons": "A beige car with yellow balloons tied to it, symbolizing a new purchase, appearing next to a 'CARS FOR SALE' sign.",
+        "House with Balloons": "A white house with yellow balloons tied to it, symbolizing a new purchase, shown next to a 'HOME FOR SALE' sign, indicating asset acquisition.",
+        "Storemart Building": "A beige building with a sign reading 'STOREMART', representing a retail store, with a 'GRAND OPENING' banner and balloons.",
+        "Office Building": "A tall beige building with multiple windows, representing a commercial office, with a 'GRAND OPENING' banner and balloons.",
+        "DEBT BURDEN Label": "Rectangular label appearing below the scale, with cracked edges, indicating the weight or consequence of accumulated debt.",
+        "Dark Blue Graph": "Two line graphs on a dark blue background, titled 'ENGLAND' and 'EUROPE', plotting 'PRINTED MONEY (BILLIONS)' over time from 2000 to 2012, showing a sharp rise after 2008.",
+        "Animated Text 'DELEVERAGING'": "White text appearing on a dark green background, emphasizing the process of reducing debt.",
+        "Stick Figure with Money and Belt": "A minimalist stick figure in a gray vest holding a stack of green money and a belt, symbolizing financial discipline during deleveraging.",
+        "Stick Figure with House and Credit Note": "A stick figure holding a house and a 'CREDIT' note, standing next to a bank building with a 'NO' speech bubble, indicating credit denial.",
+        "Stick Figure Lender": "Minimalist stick figure in a gray vest with three buttons, shown giving money to borrowers, later implied in the bank's role in credit expansion.",
+        "Animated Text 'SELL!'": "Red text appearing above the descending graph, emphasizing panic selling during a market crash.",
+        "Animated Text 'NOT CREDITWORTHY'": "Red text at the base of the scale, indicating the borrower's financial status when debt exceeds income.",
+        "Animated Text 'LESS SPENDING', 'LESS INCOME', 'LESS BORROWING', 'LESS WEALTH'": "Black text labels on the circular diagram, describing the stages of economic contraction in the downward spiral.",
+        "Protest Crowd": "A dense group of stick figures in brown uniforms, holding signs with messages like 'Revolution!', 'TOO MUCH DEBT', and '99%', symbolizing public unrest over economic inequality.",
+        "House with Price Tag": "A small house with a gray price tag attached, shown being handed money, then falling as the price tag drops, representing real estate market collapse.",
+        "Stick Figure with Blue Sash": "A minimalist stick figure in a gray vest with a blue sash, standing beside the 'NOT CREDITWORTHY' scale, possibly symbolizing a regulator or authority figure observing the crisis.",
+        "Stick Figure": "Minimalist stick figures in gray vests with three buttons, appearing on the deflationary platform cutting green money with scissors, and later buried under piles of cash.",
+        "Animated Text 'CUT SPENDING'": "Bold black text appearing below the Stick Figure Borrower as it cuts a stack of green money with a sword, representing spending reduction.",
+        "Animated Text 'REDUCE DEBT'": "Bold black text below scissors cutting a 'DEFAULT' cloud and debt notes, symbolizing debt reduction.",
+        "Animated Text 'REDISTRIBUTE WEALTH'": "Black text appearing on the deflationary side of the balanced platform, replacing 'DEFLATIONARY', indicating a policy of wealth transfer to achieve balance.",
+        "Animated Text 'AUSTERITY'": "Bold black text appearing below the Stick Figure Borrower, emphasizing the policy of spending cuts.",
+        "Map of the United States": "Outline of the United States with a pile of gray 'DEBT' notes on the left and a pile of green money on the right, symbolizing a debt-to-income relationship.",
+        "Map of Spain and Italy": "Outlines of Spain and Italy with text '2010s' below, indicating a historical economic context for austerity measures.",
+        "Spotlight": "A conical beam of light illuminating the stick figure, creating a dramatic focus on the figure's confusion.",
+        "Sword": "A long, curved blade held by the Stick Figure Borrower to cut green money, symbolizing spending cuts.",
+        "Scissors": "Large scissors used by stick figures to cut green money, symbolizing spending cuts during deflation.",
+        "Wealthy Stick Figure": "A stick figure with a mustache and bow tie, handing money to a poorer figure, symbolizing wealth redistribution.",
+        "Poorer Stick Figure": "A stick figure in a gray vest, receiving money from the wealthy figure, symbolizing the recipient of wealth redistribution.",
+        "Animated Text 'DEFAULT'": "Bold black text appearing within a cloud explosion, indicating the borrower's failure to repay debt, shown multiple times as the cloud expands and shrinks.",
+        "Animated Text 'DEPRESSION'": "Bold black text appearing within a cloud, symbolizing economic downturn, with small lines radiating outward to emphasize impact.",
+        "Stick Figure (Suit)": "Minimalist stick figure in a suit with a tie, standing with arms outstretched in distress as assets float away, representing financial loss during depression.",
+        "Stick Figure Customer (Bar)": "Minimalist stick figure in a vest with three buttons, exchanging a 'CREDIT' note for a beer, labeled 'LIABILITY' as the transaction occurs.",
+        "Bartender (Bar)": "Stick figure in a vest with a bow tie, receiving a 'CREDIT' note and giving a beer, labeled 'ASSET', then reacting with frustration.",
+        "Animated Text 'DEBT RESTRUCTURING'": "Bold black text appearing below a classical bank building, introducing the concept of renegotiating debt terms.",
+        "Stick Figure (Debt Restructuring)": "Minimalist stick figure in a vest with three buttons, holding a stack of money, proposing debt restructuring options like 'PAY BACK LESS', 'LONGER TERM', and 'LOWER RATE'.",
+        "Animated Text 'PAY BACK LESS'": "White text in a speech bubble above the stick figure during debt restructuring, proposing a reduced repayment amount.",
+        "Animated Text 'LONGER TERM'": "White text in a speech bubble above the stick figure, suggesting extended repayment duration.",
+        "Animated Text 'LOWER RATE'": "White text in a speech bubble above the stick figure, proposing reduced interest rates.",
+        "Animated Text 'UGH...'": "White text in a speech bubble above the bank building, expressing reluctance to agree to restructuring.",
+        "Animated Text 'FINE.'": "White text in a speech bubble above the bank building, indicating reluctant acceptance of the restructuring terms.",
+        "Animated Text 'LESS INCOME'": "Black text appearing below the scale, emphasizing the reduction in income contributing to the 'NOT CREDITWORTHY' status.",
+        "The Rich": "Three stylized figures: a tall man with a mustache and vest, a woman in a hat with a handbag, and a shorter man, each holding large stacks of green money, symbolizing wealth concentration.",
+        "Soldiers": "Uniformed stick figures in helmets and military attire, holding rifles, marching in formation, representing state force suppressing the protest.",
+        "Animated Text 'THE RICH'": "Bold black text appearing below the three wealthy figures, labeling them and emphasizing their economic status.",
+        "Animated Text 'Revolution!'": "Handwritten-style text on protest signs, appearing prominently in the crowd, symbolizing the call for systemic change.",
+        "Animated Text 'TOO MUCH DEBT'": "Handwritten-style text on protest signs, appearing alongside 'Revolution!', highlighting the economic grievance.",
+        "Animated Text '99%'": "Handwritten-style text on protest signs, referencing the '99%' movement, symbolizing the majority's discontent with the wealthy elite.",
+        "Map of Europe": "Outline of Europe with a knight-like stick figure in armor holding a sword, symbolizing military or political power, and a 'NOT CREDITWORTHY' sign with a 'DEBT' box below, indicating financial strain.",
+        "Map of Japan": "Outline of Japan with a scale labeled 'NOT CREDITWORTHY', where 'DEBT' outweighs 'INCOME', visually representing economic imbalance.",
+        "DEFLATIONARY Platform": "A red platform labeled 'DEFLATIONARY' with downward arrows, where stick figures cut green money with scissors, symbolizing spending reduction during deflation.",
+        "INFLATIONARY Platform": "A green platform labeled 'INFLATIONARY' with upward arrows, featuring a money-printing machine producing green bills, symbolizing monetary expansion during inflation.",
+        "Circular Icons Background": "A beige background filled with circular icons labeled with commodities and industries (e.g., 'WHEAT', 'STEEL', 'CHEMICAL', 'CORN', 'PLATINUM'), representing the real economy's components.",
+        "Stick Figure (Financial Assets Exchange)": "Minimalist stick figure in a gray vest with three buttons, holding a 'STOCKS' document with a '$$$' tag, now labeled 'FINANCIAL ASSETS', receiving money from the printing machine.",
+        "Central Government Building (Capitol)": "Stylized Capitol building with a dome, labeled 'CENTRAL GOVERNMENT', extending an arm to receive money from figures holding 'GOODS' and 'SERVICES', then receiving 'GOVERNMENT BONDS' from the central bank.",
+        "Stick Figure (Goods & Services)": "Minimalist stick figures in gray vests with three buttons, one holding a brown box labeled 'GOODS', another holding a broom labeled 'SERVICES', giving money to the central government.",
+        "Government Bonds": "A document labeled 'BONDS' exchanged between the central bank and the central government, symbolizing government debt issuance.",
+        "Stick Figure (Unemployed)": "Minimalist stick figures in gray vests with three buttons, standing with hands on hips, labeled 'UNEMPLOYED', receiving money from the central government's extended arm.",
+        "Money-Printing Machine": "A rolling press machine producing green dollar bills, connected to the inflationary platform, symbolizing monetary expansion.",
+        "Animated Text 'A BEAUTIFUL DELEVERAGING'": "White text on a dark green background, appearing above a rising then falling curve, introducing the concept of a balanced deleveraging.",
+        "Animated Text 'Beautiful?'": "Black cursive text with a cloud burst, appearing on a beige background, questioning the nature of the deleveraging process.",
+        "Stick Figure (Top Hat)": "A stick figure in a top hat and vest, running up a steep curve while dropping 'CREDIT' notes, symbolizing credit expansion and debt accumulation.",
+        "DEBT Stacks": "Tall stacks of gray notes labeled 'DEBT', growing progressively taller as the stick figure runs up the curve, representing increasing debt.",
+        "Animated Text 'NOT A PROBLEM!'": "Black text in a speech bubble above the government building, indicating a positive outlook on the deleveraging process.",
+        "Balanced Platform": "A blue platform labeled 'BALANCE' with dashed lines, connecting the deflationary and inflationary sides, now showing 'REDISTRIBUTE WEALTH' on the deflationary side and the money-printing machine on the inflationary side.",
+        "Rising Curve Diagram": "A black line graph on a beige background, rising steeply then curving downward, symbolizing the economic cycle of growth and contraction, with a stick figure running along it.",
+        "Cloud Burst": "A small cloud with radiating lines, appearing next to the word 'Beautiful?', symbolizing a moment of questioning or revelation.",
+        "Animated Text 'RAISE INFLATION?'": "White text in a speech bubble above a stick figure's head, questioning the policy of increasing inflation.",
+        "Animated Text 'A Beautiful Deleveraging'": "White text on a dark green background, appearing above a rising then falling curve, introducing the concept of a balanced deleveraging.",
+        "Animated Text 'CREDITWORTHY'": "Green text at the base of the scale, indicating the borrower's financial status when income exceeds debt.",
+        "Animated Text 'DEFLATIONARY'": "White text on a red platform, indicating the economic state of falling prices and reduced spending.",
+        "Animated Text 'INFLATIONARY'": "White text on a green platform, indicating the economic state of rising prices and increased money supply.",
+        "Animated Text 'BALANCE'": "White text on a blue platform, indicating the equilibrium between deflationary and inflationary forces.",
+        "Green Landscape": "A vibrant green background with rolling hills, where a money-printing machine produces endless green bills, overwhelming stick figures who are buried under the cash, symbolizing inflation.",
+        "Large Black Curve": "A thick black arc drawn over the deflationary and inflationary platforms, visually representing the economic cycle or the path of deleveraging.",
+        "Animated Text 'REFLATION'": "Bold blue text appearing centrally on a light blue background, indicating the phase of economic recovery after a depression.",
+        "Text 'LOST DECADE'": "Black text appearing below the U-shaped graph, indicating the prolonged period of economic stagnation during the reflation phase.",
+        "U-Shaped Graph": "A black U-shaped curve on a beige background, divided into three labeled phases: 'LEVERAGING 50+ YEARS', 'DEPRESSION 2-3 YEARS', and 'REFLATION 7-10 YEARS', illustrating the long-term debt cycle.",
+        "Text 'DEPRESSION 2-3 YEARS'": "Black text above the left side of the U-shaped graph, indicating the duration of the economic downturn phase.",
+        "Text 'REFLATION 7-10 YEARS'": "Black text above the right side of the U-shaped graph, indicating the duration of the recovery phase.",
+        "Text 'LEVERAGING 50+ YEARS'": "Black text above the left ascending part of the U-shaped graph, indicating the long period of debt accumulation.",
+        "Text 'HIGH DEBT BURDEN'": "White text in a rectangular box on the left side of the large black curve, indicating the peak of debt before the downturn.",
+        "Text 'LOW DEBT BURDEN'": "White text in a rectangular box on the right side of the large black curve, indicating the reduced debt level after deleveraging.",
+        "Animated Text '3 Rules of Thumb'": "Black, cursive-style text centered on a beige background, introducing the segment's theme.",
+        "Animated Text 'Rule One'": "Black, cursive-style text above bold, uppercase text reading 'DON'T HAVE DEBT RISE FASTER THAN INCOME,' presented on a beige background.",
+        "Animated Text 'Rule Two'": "Black, cursive-style text above bold, uppercase text reading 'DON'T HAVE INCOME RISE FASTER THAN PRODUCTIVITY,' presented on a beige background.",
+        "Animated Text 'Rule Three'": "Black, cursive-style text above bold, uppercase text reading 'DO ALL THAT YOU CAN TO RAISE YOUR PRODUCTIVITY,' presented on a beige background.",
+        "Animated Text 'Simple advice for policy makers'": "Black, cursive-style text on a beige background, introducing the next visual segment.",
+        "Animated Text 'Thank You'": "Black, cursive-style text centered on a beige background, marking the end of the main content.",
+        "Text 'By RAY DALIO'": "White, capitalized text on a dark blue background, framed by decorative lines, crediting the author.",
+        "Text 'with Animation Directed by JONATHAN JARVIS'": "White text on a dark blue background, listing the animation director and production team.",
+        "Text 'If You’d Like To Learn More Go To: ECONOMICPRINCIPLES.ORG'": "White text on a dark blue background, with 'ECONOMICPRINCIPLES.ORG' in bold, serving as a call to action.",
+        "Text '© 2013 Ray Dalio'": "Small white text at the bottom of the dark blue screen, indicating copyright information."
+    }
+}

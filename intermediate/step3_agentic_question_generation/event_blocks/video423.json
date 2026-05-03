@@ -1,0 +1,662 @@
+{
+  "video_id": "video423",
+  "audio_id": "video423_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "During the Emirates FA Cup Final 2022 at Wembley, with the score at 0-0 after extra time, the match heads to a penalty shootout, a repeat of a previous final. Exhausted Chelsea Player and Liverpool Players are seen on the pitch, with one Chelsea Player appearing dejected, a white towel draped over his shoulders. The Liverpool Goalkeeper, identified as Edouard Mendy in a green jersey, looks focused, a stark contrast to a past final where he was substituted before a shootout. A large screen displays 'DÍAZ' as commentators acknowledge Luis Díaz receiving the sponsors' man of the match award, praising his dynamic play but noting the absence of a goal. Liverpool Players form a huddle, their energy amplified by the intensifying chants and singing from the Stadium Crowd. The emotional weight of the moment is palpable as a player is consoled by a Coach/Team Official amidst the charged stadium atmosphere.",
+      "involved_entities": {
+        "Chelsea Player": {
+          "description": "Wearing a white towel over his shoulders, appearing dejected and walking slowly across the pitch.",
+          "attribute": "visual"
+        },
+        "Liverpool Goalkeeper": {
+          "description": "Dressed in a bright green jersey with 'Expedia' and Liverpool FC crest visible, looking focused and contemplative, he is identified by commentators as Edouard Mendy, who will be in goal for the penalty shootout, with a past reference to him being substituted in the Carabao Cup final.",
+          "attribute": "audio-visual"
+        },
+        "Coach/Team Official": {
+          "description": "Wearing a grey shirt with 'vago' on the back, seen consoling a player in a close-up shot.",
+          "attribute": "visual"
+        },
+        "Liverpool Players": {
+          "description": "Wearing red jerseys, gathering in a huddle on the pitch, some celebrating or regrouping with staff and substitutes. One player, Luis Díaz, is highlighted on a large screen and praised by commentators as the sponsors' man of the match for his movement, pace, and ability with the ball, despite not scoring.",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Final 2022 Banner": {
+          "description": "Prominently displayed in the background, indicating the significance of the match.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "Massive and densely packed, visible in wide shots, creating a vibrant and intense atmosphere, their chanting and singing grow louder towards the end of the segment.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a wide shot of a packed stadium during the tense Chelsea vs Liverpool football match, where the scoreboard indicates a 0-0 draw after extra time. Commentators explain that the game, the Emirates FA Cup Final 2022, will be settled at Wembley via a penalty shootout for the second time this year. Players from both teams, Chelsea in yellow and Liverpool in red, walk across the pitch, appearing exhausted and emotionally drained. A close-up then shows a Chelsea player, wearing a white towel over his shoulders, looking downcast and dejected. The scene shifts to a Liverpool goalkeeper in a bright green jersey, who appears contemplative and focused; commentators identify him as Edouard Mendy, now in goal for the shootout, recalling a previous final where he was substituted. A panoramic view of the vast stadium crowd and pitch follows, with a large screen displaying 'DÍAZ' above the stands. Commentators praise Luis Díaz, who has been given the sponsors' man of the match award, highlighting his movement, pace, and ability to go past people with the ball, noting that scoring would have made his performance magnificent. Liverpool players then gather in a huddle, celebrating or regrouping with staff and substitutes, as the crowd's chanting and singing begin to intensify. The final shot captures a player being consoled by a coach or team official, underscoring the emotional intensity of the moment, with the stadium atmosphere becoming charged by the growing sounds of the crowd."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 3,
+      "summary": "The Emirates FA Cup Final 2022 at Wembley Stadium is depicted with intense emotion as Chelsea goalkeeper Kepa Arrizabalaga, in a grey long-sleeve jersey, embraces a teammate, while commentators debate his potential penalty shootout role, referencing past substitutions. A young Chelsea fan in a blue cap observes solemnly, contrasted by a Liverpool supporter proudly displaying a 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarf. On the pitch, Arsenal players in yellow jerseys, including 'MARCOS A.' (number 3), form a tight, supportive huddle with staff and substitutes in grey 'trivago' shirts, displaying unity and camaraderie as a coach consoles a player. Commentators discuss penalty taker selection, with some players eager to go first and others preferring later positions. The scene shifts to Liverpool's goalkeeper Alisson, in a bright green 'Expedia' jersey, receiving strategic instructions from his goalkeeping coach. Liverpool players, including 'HENDERSON' (number 14), also huddle with staff and substitutes amidst the vibrant stadium crowd. The high-pressure penalty format, 'five against five then into sudden death,' is highlighted. An aerial view of Wembley Stadium at sunset precedes the return to the pitch, where Liverpool players prepare, and commentators question the penalty end. Pre-match interactions involve Arsenal player 'PEPE REINA' (number 28) and Liverpool player 'HENDERSON' (number 14) with referees, under the prominent Emirates FA Cup Final 2022 banner. The continuous murmur and roar of the stadium crowd form the auditory backdrop throughout these moments of reflection, solidarity, and strategic preparation.",
+      "involved_entities": {
+        "Chelsea Player": {
+          "description": "Wearing a white towel over his shoulders, appearing dejected and walking slowly across the pitch.",
+          "attribute": "visual"
+        },
+        "Liverpool Supporter": {
+          "description": "Wearing a red shirt and holding a 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarf, displaying team pride and emotion.",
+          "attribute": "visual"
+        },
+        "Liverpool Goalkeeper": {
+          "description": "Alisson, dressed in a bright green jersey with 'Expedia' and Liverpool FC crest, looking focused and contemplative, draped in a red towel, receiving instructions from the backroom staff, likely the goalkeeping coach, who have 'done their homework' on penalty strategies.",
+          "attribute": "audio-visual"
+        },
+        "Coach/Team Official": {
+          "description": "Wearing a grey shirt with 'trivago' on the back, seen consoling a player in a close-up shot, amidst discussions about penalty decisions and player confidence.",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Final 2022 Banner": {
+          "description": "Prominently displayed in the background, indicating the significance of the match.",
+          "attribute": "visual"
+        },
+        "Arsenal Players": {
+          "description": "Wearing yellow jerseys with black trim, including one with 'MARCOS A.' and number 3, gathered in an emotional huddle with staff and substitutes, likely discussing penalty takers and strategy as commentators ponder 'which players want to take the penalty' and 'who feels fresh, who feels fit, who feels happy about taking a penalty,' and 'what order do you want to be in.'",
+          "attribute": "audio-visual"
+        },
+        "Stadium Crowd": {
+          "description": "Massive and densely packed, visible in wide shots, creating a vibrant and intense atmosphere with a continuous murmur and roar, forming the backdrop for the high-stakes match.",
+          "attribute": "audio-visual"
+        },
+        "Young Chelsea Fan": {
+          "description": "Wearing a blue cap and Chelsea jersey, looking solemn and reflective in the stands.",
+          "attribute": "visual"
+        },
+        "Referees": {
+          "description": "Wearing black uniforms with 'FA' logos, holding flags and interacting with players during pre-match preparations, as commentators discuss the impending penalty shootout scenario.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Players": {
+          "description": "Wearing red jerseys, gathering in a huddle on the pitch, some celebrating or regrouping with staff and substitutes, including one with 'HENDERSON' and number 14, as commentators discuss the high-stakes 'five against five then into sudden death' penalty format. The audio also mentions 'Virgil van Dijk smiling again' and 'Harvey Elliott there, who was involved in the League Cup,' though these specific players are not visually identified in this segment.",
+          "attribute": "audio-visual"
+        },
+        "Wembley Stadium": {
+          "description": "Iconic stadium with a large arch, shown in an aerial view at sunset, surrounded by cityscape.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of Chelsea goalkeeper Kepa Arrizabalaga, wearing a grey long-sleeve jersey with blue accents and white gloves, embracing a teammate in a white jersey with a towel draped over his shoulders, both appearing emotionally affected. Commentators discuss Kepa's potential role in the match, questioning if manager Thomas Tuchel would risk a penalty shootout substitution again, referencing a similar past situation with Tim Krul in Brazil, who has recently played for Norwich City in the Premier League. The scene shifts to the massive, densely packed stadium crowd, where a young Chelsea fan in a blue cap and jersey looks on with a solemn expression, while a Liverpool supporter in red proudly displays a 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarf. The Emirates FA Cup Final 2022 banner is prominently visible in the background. On the pitch, a group of Arsenal players in yellow jerseys, including one with 'MARCOS A.' and number 3, gather in a tight huddle with staff and substitutes, showing signs of unity and emotional support. A coach or team official in a grey shirt with 'trivago' on the back is seen consoling a player, placing a hand on his shoulder. The huddle expands as more players join, forming a circle with arms around each other, displaying camaraderie and mutual encouragement. Commentators note that the Liverpool penalty takers have already broken away from their own huddle, speculating on what a manager might say to players post-match, focusing on overall performance rather than just penalties. The atmosphere is charged with emotion, as players and fans alike process the outcome of the game, with subtle gestures like hand-holding and head-bowing indicating reflection and solidarity, all against the continuous hum and murmuring of the stadium crowd.",
+        "The segment opens with a close-up of Arsenal Players, including 'MARCOS A.' (number 3), huddled together in yellow jerseys with black trim, visibly emotional and supported by staff and substitutes in grey 'trivago' shirts. Commentators discuss the critical decision-making process for an impending penalty shootout, asking \"which players want to take the penalty,\" \"who feels fresh, who feels fit, who feels happy about taking a penalty,\" and \"what order do you want to be in,\" with some players preferring to go \"very first\" and others confidently stating \"put me fifth 'cause I can win it.\" The scene shifts to a wider view of this unified Arsenal huddle before focusing on the Liverpool Goalkeeper, identified as Alisson by the commentary, dressed in a bright green 'Expedia' jersey with the Liverpool FC crest, looking contemplative and focused while draped in a red towel. He is seen receiving \"instructions from the backroom staff, probably the goalkeeping coach,\" who have \"done their homework\" on penalty strategies. The narrative transitions to Liverpool Players in red jerseys, including 'HENDERSON' (number 14), gathering in a huddle, celebrating or regrouping with staff and substitutes, all against the backdrop of a densely packed and vibrant Stadium Crowd. A Coach/Team Official in a grey 'trivago' shirt is seen consoling a player, reflecting the high-pressure environment of the \"five against five then into sudden death\" penalty format. An aerial view of Wembley Stadium at sunset showcases its iconic arch and the surrounding cityscape, setting the grand stage. The video then returns to the pitch, showing Liverpool Players in red jerseys, one with 'Expedia' on the sleeve, preparing for the match, with one player tying his laces, as commentators ponder \"which end of the ground will it be\" for the penalties. The final frames depict a pre-match moment with Arsenal Player 'PEPE REINA' (number 28) and Liverpool Player 'HENDERSON' (number 14) interacting with referees holding flags, with the Emirates FA Cup Final 2022 Banner prominently visible, emphasizing the significance of this FA Cup Final. Throughout the segment, the continuous murmur and roar of the stadium crowd provide an intense auditory backdrop, though one commentator briefly mentions \"Chelsea players\" in the context of penalty taking, which is an audio-only detail not visually aligned with the Arsenal vs. Liverpool match."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 4,
+      "end_minute": 4,
+      "summary": "Under the bright lights of the Emirates FA Cup Final 2022 at Wembley, Liverpool's Henderson (number 14) and Arsenal's Marcos A. (number 3) engaged in a tense pre-match discussion with referees, one of whom gestured authoritatively, prompting commentators to note the referee's effective handling and player respect. A young Chelsea fan, anxious with hands clasped and wearing a blue cap and jersey, was followed by a dejected Chelsea Player in a white towel, walking slowly with head down, prompting commentary about the situation being at the Chelsea end and the advantage of going first in a penalty shootout. The Liverpool Goalkeeper, focused in a green jersey with a red towel, was visible amidst the murmuring and cheering stadium crowd. Commentators then explained the 'Abba' penalty shootout format, acknowledging its confusing nature for players, against a backdrop of growing stadium ambiance and a distinct football chant. The segment concluded with both teams in huddles on the pitch, regrouping as referees continued to manage proceedings, while commentators humorously compared the 'Abba' format's duration to the band's, as crowd chanting intensified.",
+      "involved_entities": {
+        "Chelsea Player": {
+          "description": "Wearing a white towel over his shoulders, appearing dejected and walking slowly across the pitch, his presence aligning with a commentator's remark that 'it's at the Chelsea end'.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Goalkeeper": {
+          "description": "Dressed in a bright green jersey with 'Expedia' and Liverpool FC crest visible, looking focused and contemplative, draped in a red towel.",
+          "attribute": "visual"
+        },
+        "Referees": {
+          "description": "Wearing black uniforms with 'FA' logos, holding flags and interacting with players during pre-match preparations, whose performance is discussed by commentators who note he 'handled it very well' and 'the players respected him'.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Players": {
+          "description": "Wearing red jerseys, gathering in a huddle on the pitch, some celebrating or regrouping with staff and substitutes, including one with 'HENDERSON' and number 14.",
+          "attribute": "visual"
+        },
+        "Emirates FA Cup Final 2022 Banner": {
+          "description": "Prominently displayed in the background, indicating the significance of the match.",
+          "attribute": "visual"
+        },
+        "Arsenal Players": {
+          "description": "Wearing yellow jerseys with black trim, including one with 'MARCOS A.' and number 3, gathering in a huddle with staff and substitutes, showing emotional support and unity.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "Massive and densely packed, visible in wide shots, creating a vibrant and intense atmosphere, audibly providing background murmur, occasional cheers, and later a distinct football chant that intensifies towards the end of the segment.",
+          "attribute": "audio-visual"
+        },
+        "Young Chelsea Fan": {
+          "description": "Wearing a blue cap and Chelsea jersey, looking solemn and reflective in the stands, his presence aligning with a commentator's remark that 'it's at the Chelsea end'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens on the Wembley pitch under the bright lights of the Emirates FA Cup Final 2022, where a tense pre-match interaction unfolds between Liverpool and Arsenal players and referees. Liverpool's Henderson (number 14) and Arsenal's Marcos A. (number 3) are seen in close conversation with the black-uniformed referees, one of whom gestures authoritatively, while two male commentators discuss the referee's performance, noting he 'handled it very well' and that 'the players respected him.' The scene then shifts to a close-up of a young Chelsea fan, looking anxious with hands clasped, wearing a blue cap and Chelsea jersey, followed by a dejected Chelsea Player, draped in a white towel and walking slowly across the pitch with his head down. A commentator remarks, 'It looks like it's at the Chelsea end,' as they transition to discussing the advantage of going first in a penalty shootout. The Liverpool Goalkeeper, focused and contemplative in a bright green jersey with a red towel, is shown amidst the packed stadium crowd, whose murmurs and occasional cheers are audible. The commentators then delve into the 'Abba' penalty shootout format, which 'confused a lot of people including the players themselves,' against the backdrop of the growing stadium ambiance and a distinct football chant. The sequence concludes with a wide shot of players from both teams gathering in huddles on the pitch, regrouping as the referees continue to manage proceedings, while the commentators humorously link the 'Abba' format to the band, whose 'themselves lasted a lot longer,' as the crowd's chanting intensifies."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 5,
+      "end_minute": 6,
+      "summary": "The Emirates FA Cup Final 2022 at Wembley Stadium commenced amidst a vibrant crowd and 'wonderful music,' with a dejected Chelsea player and a solemn young Chelsea fan visible, contrasting with a proud Liverpool supporter holding a 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarf and a Coach/Team Official consoling a player. As the commentator described the penalty shootout as a 'lottery,' Arsenal Players in yellow, including Marcos Alonso (number 3), prepared for kicks. Alonso, noted for pulling up his socks from halfway down his shins, faced the alert Liverpool Goalkeeper in a bright green 'Expedia' jersey. The penalty shootout began with Chelsea leading 1-0. Marcos A. (number 3) took a shot, which was initially described as saved by the Liverpool goalkeeper, leading to a frustrated reaction from Marcos A. However, the commentator then emphatically declared, \"Alonso gets the signal. And scores!\" and praised it as a \"Good penalty, Alonso,\" as the crowd erupted. The commentator mused on whether Alonso saw \"Alisson going the other way.\" Next, Liverpool's James Milner (number 7), an 'experienced penalty taker,' prepared his shot, which was saved by the Chelsea goalkeeper, Mendy (number 16), who celebrated the save, leaving Milner dejected amidst continuous crowd noise and analysis.",
+      "involved_entities": {
+        "Chelsea Player": {
+          "description": "Wearing a yellow jersey with 'MARCOS A.' and number 3, he prepares and takes a penalty kick. Visually, his shot is saved by the Liverpool goalkeeper, leading to his frustrated reaction with raised arms in disbelief. However, the commentator explicitly identifies him as 'Alonso' and declares that he 'scores!' and later praises it as a 'Good penalty, Alonso.'",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Supporter": {
+          "description": "Wearing a red shirt and holding a 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarf, displaying team pride and emotion.",
+          "attribute": "visual"
+        },
+        "Liverpool Goalkeeper": {
+          "description": "Dressed in a bright green jersey with 'Expedia' and Liverpool FC crest, he dives to save the penalty (as per visual context) and celebrates. The commentator initially notes that 'Alisson wasn't in goal' for a previous shootout, but later speculates if Alonso 'actually saw Alisson going the other way,' creating ambiguity about the current goalkeeper's identity.",
+          "attribute": "audio-visual"
+        },
+        "Coach/Team Official": {
+          "description": "Wearing a grey shirt with 'trivago' on the back, seen consoling a player in a close-up shot.",
+          "attribute": "visual"
+        },
+        "Emirates FA Cup Final 2022 Banner": {
+          "description": "Prominently displayed in the background, indicating the significance of the match, with 'Emirates FLY BETTER' visible on the advertising hoardings.",
+          "attribute": "visual"
+        },
+        "Arsenal Players": {
+          "description": "Wearing yellow jerseys with black trim, including Marcos Alonso (number 3), who is specifically noted by the commentator for pulling up his socks from halfway down his shins, preparing for a penalty kick with focused concentration under significant pressure.",
+          "attribute": "audio-visual"
+        },
+        "Stadium Crowd": {
+          "description": "Massive and densely packed, visible in wide shots, creating a vibrant and intense atmosphere with visible banners and flags. The crowd's anticipation is palpable, erupting into loud cheers after the Chelsea penalty kick.",
+          "attribute": "audio-visual"
+        },
+        "Young Chelsea Fan": {
+          "description": "Wearing a blue cap and Chelsea jersey, looking solemn and reflective in the stands.",
+          "attribute": "visual"
+        },
+        "Referees": {
+          "description": "Wearing black uniforms with 'FA' logos, standing near the penalty area, observing the shootout and signaling the outcome.",
+          "attribute": "visual"
+        },
+        "Chelsea Goalkeeper": {
+          "description": "Wearing a white jersey with 'MENDY' and number 16, he makes a save against the Liverpool player and celebrates the successful stop.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Player": {
+          "description": "Wearing a red jersey with number 7, he steps up for a penalty, takes the shot, and reacts with disappointment after the save by the Chelsea goalkeeper. The commentator identifies him as 'James Milner,' describing him as 'another very experienced penalty taker' who 'won't be fazed' before his kick.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a wide shot of Wembley Stadium, bustling with a massive, vibrant crowd under bright daylight, setting the intense stage for the Emirates FA Cup Final 2022. A commentator notes the 'wonderful music' and 'harmony of the fans,' particularly the Chelsea supporters, as a dejected Chelsea player, draped in a white towel, walks slowly across the pitch. A Liverpool supporter in a red shirt proudly holds a 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarf, while a Coach/Team Official in a grey 'trivago' shirt is seen consoling a player, and a young Chelsea fan in a blue cap looks solemn in the stands. The commentator discusses the 'lottery' of a penalty shootout as the focus shifts to the pitch, where Arsenal Players in yellow jerseys, including Marcos Alonso with number 3, are preparing for a penalty kick. The commentator specifically highlights Alonso pulling up his socks from halfway down his shins, suggesting it might be a 'mental thing' due to the 'lot of pressure on him.' The Liverpool Goalkeeper, in a bright green 'Expedia' jersey with the Liverpool FC crest, stands alert in front of the goal, draped in a red towel. The Arsenal player carefully places the ball for the penalty, watched intently by the goalkeeper. The Emirates FA Cup Final 2022 banner is prominently displayed, reinforcing the high-stakes atmosphere, with the animated crowd in blue and red sections creating a dynamic visual contrast, their audible presence contributing to the intense atmosphere as the commentator declares the penalty shootout 'starts here.'",
+        "The tense Emirates FA Cup Final 2022 penalty shootout unfolds with Chelsea leading 1-0, against the backdrop of a massive, animated crowd and a prominent 'Emirates FA Cup' banner. A Chelsea player, Marcos A. in a yellow number 3 jersey, steps up for his penalty. Visually, he takes the shot, which is saved by the Liverpool goalkeeper in a bright green jersey, leading to Marcos A.'s frustrated reaction with raised arms, while the scoreboard confirms Chelsea's 1-0 lead. However, the commentator emphatically declares, \"Alonso gets the signal. And scores!\" and later praises it as a \"Good penalty, Alonso,\" as the crowd erupts in loud cheers. The commentator then discusses the Liverpool goalkeeper, noting \"Alisson wasn't in goal\" for a previous shootout, though later speculating if Alonso saw \"Alisson going the other way.\" The focus then shifts to Liverpool's turn, with James Milner, identified by the commentator as \"another very experienced penalty taker,\" in a red number 7 jersey, preparing for his shot. He takes the kick, which is visually saved by the Chelsea goalkeeper, Mendy (number 16), who celebrates the successful stop, leaving Milner dejected. The electric atmosphere is underscored by the continuous crowd noise and commentator's analysis."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 7,
+      "end_minute": 7,
+      "summary": "During the tense Emirates FA Cup Final 2022 penalty shootout, with the scoreboard tied at 1-1, a Liverpool player in a red jersey, number 7, had his penalty kick saved by the Chelsea goalkeeper, Mendy, in a white jersey. Next, Liverpool player 'MANE', in a red jersey, successfully scored his penalty, with commentators noting his mental toughness against hostile Chelsea fans and praising it as a great penalty, leading to crowd celebration and an ecstatic young Liverpool supporter cheering. Commentary reflected on Mendy's previous save attempt, stating the ball beat him for height. Then, Chelsea's Marcos A., number 3, in a yellow jersey, stepped up for his penalty. The Liverpool goalkeeper, Alisson, in a bright green jersey and referred to as the club skipper, made a crucial save, diving to his left, with commentators unsure if the ball hit the post or if Alisson touched it. Alisson celebrated triumphantly while Marcos A. reacted with visible frustration, head down, as the scoreboard remained tied amidst the high-stakes atmosphere observed by referees in black uniforms, with banners and the 'Emirates FA Cup Final 2022' banner prominently displayed in the massive stadium crowd.",
+      "involved_entities": {
+        "Chelsea Player": {
+          "description": "Wearing a yellow jersey with 'MARCOS A.' and number 3, who takes a penalty after a commentator mentions 'Azpilicueta', but his shot is saved by the Liverpool goalkeeper or hits the post, leading to his visible frustration.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Supporter": {
+          "description": "Wearing a red shirt and holding a 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarf, displaying team pride and emotion.",
+          "attribute": "visual"
+        },
+        "Liverpool Goalkeeper": {
+          "description": "Dressed in a bright green jersey with 'Expedia' and Liverpool FC crest, identified by commentators as 'Alisson', who makes a crucial save on the Chelsea penalty, with commentary noting he either touched it or it hit the post, and is also referred to as 'the club skipper'.",
+          "attribute": "audio-visual"
+        },
+        "Referees": {
+          "description": "Wearing black uniforms with 'FA' logos, standing near the penalty area, observing the shootout and signaling the outcome.",
+          "attribute": "visual"
+        },
+        "Chelsea Goalkeeper": {
+          "description": "Wearing a white jersey with 'MENDY' and number 16, who saves a penalty from Liverpool's number 7, but commentary notes he was beaten for height on a subsequent shot by Mane, failing to make that save.",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Final 2022 Banner": {
+          "description": "Prominently displayed in the background, indicating the significance of the match, with 'Emirates FLY BETTER' visible on the advertising hoardings.",
+          "attribute": "visual"
+        },
+        "Liverpool Player": {
+          "description": "Wearing a red jersey with 'MANE' on the back, successfully scoring a penalty, confirmed by commentary as a 'great penalty', and celebrating with a raised arm.",
+          "attribute": "audio-visual"
+        },
+        "Stadium Crowd": {
+          "description": "Massive and densely packed, creating a vibrant and intense atmosphere with visible banners and flags, whose cheers and reactions are clearly audible throughout the shootout.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The tense Emirates FA Cup Final 2022 penalty shootout, with the scoreboard tied at 1-1, begins with a Liverpool player in a red jersey, number 7, taking a penalty kick, which is saved by the Chelsea goalkeeper, Mendy, in a white jersey. The scene then shifts to another Liverpool player, 'MANE', in a red jersey, who steps up to take his penalty. Commentators discuss his mental toughness to deal with the hostility from Chelsea fans, and he successfully scores, sending the ball into the net as the goalkeeper dives the wrong way. The commentator exclaims, \"It does mean he scores! That's a great penalty!\" The crowd erupts in celebration, with close-ups showing a young Liverpool supporter cheering ecstatically. Commentary then reflects on Mendy's previous attempt to save, noting the ball beat him for height. The focus turns to Chelsea’s turn, with Marcos A., number 3, in a yellow jersey, stepping up. Before his kick, a commentator mentions \"Azpilicueta.\" Marcos A. strikes the ball, but the Liverpool goalkeeper, identified by commentators as Alisson, in a bright green jersey, makes a crucial save, diving to his left. The commentator notes, \"Oh, he's hit the post! Or Alisson got a touch to it!\" and refers to him as \"the club skipper.\" The Liverpool goalkeeper raises his hand in triumph, while Marcos A. reacts with visible frustration, head down, as the scoreboard remains tied. Referees in black uniforms observe the high-stakes atmosphere of the massive stadium crowd, with banners and the 'Emirates FA Cup Final 2022' banner prominently displayed, as the sequence ends with Alisson celebrating and Marcos A. walking away dejected."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 8,
+      "end_minute": 11,
+      "summary": "The Emirates FA Cup Final 2022 penalty shootout at Wembley Stadium is marked by intense emotion and critical saves. Chelsea's Marcos A. (number 3, yellow jersey) faces Liverpool's goalkeeper Alisson (bright green jersey), who makes a crucial save to his right, sending the ball wide and eliciting visible frustration from Alonso while Alisson celebrates. Commentators note the save, initially misinterpreting the shot's trajectory before clarifying Alisson's dive. Liverpool players huddle in celebration, while the stadium crowd roars. The tension is palpable as the shootout progresses, with Chelsea trailing. A commentator highlights the gamble of late substitutions for shootouts, discussing Liverpool's Trent Alexander-Arnold's suitability for a penalty. A Liverpool player (red jersey, 'BRENDAN') confidently scores the next penalty, celebrated with a raised arm, as Chelsea's goalkeeper Mendy (number 16, white jersey) reacts. The scene is underscored by 'Emirates FA Cup Final 2022' banners, 'Emirates FLY BETTER' hoardings, and the presence of referees in black uniforms. A solemn young Chelsea fan contrasts with an emotional Liverpool supporter displaying a 'YOU'LL NEVER WALK ALONE' scarf.",
+      "involved_entities": {
+        "Chelsea Player": {
+          "description": "Wearing a yellow jersey with 'MARCOS A.' and number 3, he steps up to take a penalty, then reacts with visible frustration after the Liverpool goalkeeper's crucial save.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Goalkeeper": {
+          "description": "Dressed in a bright green jersey with 'Expedia' and Liverpool FC crest, he makes a crucial save on the Chelsea penalty, diving to his right, and celebrates triumphantly amidst the audible stadium atmosphere.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Player (Scoring)": {
+          "description": "Wearing a red jersey with 'BRENDAN' (likely a misread for Salah or Mane), he confidently scores a penalty and celebrates with a raised arm and pointing gesture, contributing to the escalating drama.",
+          "attribute": "audio-visual"
+        },
+        "Referees": {
+          "description": "Wearing black uniforms with 'FA' logos, they are present near the penalty area, observing the shootout and signaling the outcome.",
+          "attribute": "audio-visual"
+        },
+        "Chelsea Goalkeeper": {
+          "description": "Wearing a white jersey with 'MENDY' and number 16, he is seen reacting to the successful Liverpool penalty.",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Final 2022 Banner": {
+          "description": "Prominently displayed in the background, indicating the significance of the match, with 'Emirates FLY BETTER' visible on the advertising hoardings.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Player": {
+          "description": "Wearing a red jersey with 'THIAGO' and number 9, initially looking downcast, then later replaced by another player (possibly Salah or Mane) who scores and celebrates with a raised arm.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "Massive and densely packed, visible in wide shots, they create a vibrant and intense atmosphere, with their collective anticipation and reactions forming a significant part of the audio backdrop.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Players": {
+          "description": "Wearing red jerseys, gathering in a huddle on the pitch, some celebrating or regrouping with staff and substitutes, including one with 'HENDERSON' and number 14. The commentator expresses 'absolute relief for Firmino' who 'sprinted back to the halfway line' after the save, linking the celebration to him.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Supporter": {
+          "description": "Wearing a red shirt and holding a 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarf, displaying team pride and emotion.",
+          "attribute": "visual"
+        },
+        "Coach/Team Official": {
+          "description": "Wearing a grey shirt with 'trivago' on the back, seen consoling a player in a close-up shot.",
+          "attribute": "visual"
+        },
+        "Young Chelsea Fan": {
+          "description": "Wearing a yellow jersey, she is seen looking anxious with hands clasped in the stands, reflecting the high-stakes tension of the shootout.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The Emirates FA Cup Final 2022 penalty shootout at Wembley Stadium unfolds with intense emotion, as Chelsea fans are seen reacting with hands on heads and expressions of anxiety. The first penalty is taken by Chelsea’s Marcos A., in a yellow jersey, but Liverpool’s goalkeeper, Alisson, in a bright green jersey, dives to his right and makes a crucial save, roaring in celebration as commentators confirm the save went “Alisson’s way.” The scoreboard updates to CHE 1 - LIV 1, and the commentators note the shot was played “too wide,” describing the “frustration” and “despair for Azpilicueta” among the Chelsea players. The camera then cuts to Liverpool’s Thiago, wearing a red jersey with number 9, looking downcast amidst the crowd’s anticipation. As the next penalty approaches, Chelsea’s goalkeeper, Mendy, in a white jersey, is observed by commentators “dancing on the line.” Then, Thiago steps up and, with a “Panenka,” scores, sending the ball into the net as Mendy dives but fails to stop it. The scoreboard updates to CHE 1 - LIV 2, and Thiago celebrates with a raised arm and pointing gesture. The electric crowd, a sea of red and blue, continues to roar and chant, with banners and flags adding to the vibrant scene, all under clear daylight with 'Emirates FLY BETTER' hoardings visible. Commentators reflect on Thiago’s family history, noting his dad won the World Cup via a penalty shootout.",
+        "The Emirates FA Cup Final 2022 penalty shootout between Chelsea and Liverpool, tied at 2-2, unfolds with palpable tension at Wembley Stadium, underscored by the sustained murmur of the densely packed crowd. A Liverpool player in a red jersey appears downcast, while Chelsea's Marcos Alonso, wearing a yellow jersey with 'MARCOS A.' and number 3, is seen focused and determined. Commentators note his \"great composure\" as he prepares for the kick, with one observing his \"short run up.\" As Alonso takes the penalty, the crowd erupts in a loud roar and cheer. Liverpool's goalkeeper, Alisson, in a bright green jersey, dives to his right and makes a crucial save, causing Alonso to react with visible frustration. Despite the clear visual of the save, commentators initially misinterpret the moment, describing it as \"an emphatic penalty\" that goes \"quite high into the net down the middle,\" before later clarifying that \"Alisson dives, which he did.\" Following the save, Liverpool players in red jerseys are seen huddling, regrouping, and celebrating their narrow advantage, while Alonso's disappointment is evident. The electric atmosphere is further highlighted by prominent 'Emirates FA Cup Final 2022' banners and 'Emirates FLY BETTER' advertising hoardings.",
+        "The Emirates FA Cup Final 2022 penalty shootout is at a critical juncture, with Chelsea trailing Liverpool 2-3. A commentator sets the scene, noting a \"pretty late substitute\" who \"truly got into the game,\" emphasizing the high stakes for Liverpool to \"keep Liverpool in front in the shootout.\" The tension is palpable as a Liverpool player, possibly Thiago, appears downcast. The focus shifts to Chelsea's Marcos A. (number 3) in a yellow jersey, preparing for his penalty with intense concentration. The commentator describes the shot as having \"stutter and again the height. And the confidence.\" The Liverpool goalkeeper, in a bright green jersey, makes a crucial dive to his right, saving the penalty and sending the ball wide, prompting a roar from the densely packed stadium crowd. The commentator confirms the score: \"Three penalties each, 3-2 Liverpool lead.\" The Liverpool goalkeeper celebrates with a raised arm, while Marcos A. reacts with visible frustration. Liverpool players, including Henderson (number 14), huddle in celebration. The commentator expresses \"absolute relief for Firmino,\" noting he \"sprinted back to the halfway line,\" and critiques the penalty as \"not a great penalty... not right in the corner.\" He then confusingly adds that \"he just slows Mendy down and Mendy gets a hand to it again,\" referring to the Chelsea goalkeeper, despite the visual clearly showing the Liverpool goalkeeper making the save. The vibrant stadium atmosphere, with visible banners and flags, is electric, with the Emirates FA Cup Final 2022 banner and 'Emirates FLY BETTER' hoardings prominently displayed. Referees in black uniforms observe. A coach or team official (trivago) consoles a player, while a solemn young Chelsea fan contrasts with an emotional Liverpool supporter proudly displaying a 'YOU'LL NEVER WALK ALONE' scarf. The sequence concludes with a Liverpool player (Brendan/Salah/Mane) scoring a penalty and celebrating, as the Chelsea goalkeeper, Mendy (number 16), reacts to the goal. The commentator also mentions, \"So Ross Barkley was brought on for just this moment. The Chelsea player...\" anticipating a future moment.",
+        "The Emirates FA Cup Final 2022 penalty shootout is tied at 3-3, with the densely packed stadium crowd generating an electric atmosphere, their collective anticipation audible. A Chelsea player, Marcos Alonso (number 3, yellow jersey with 'MARCOS A.'), steps up with intense focus to take a penalty. The Liverpool goalkeeper (bright green jersey with 'Expedia' and Liverpool FC crest) dives to his right, making a crucial save that sends the ball wide. The Chelsea player reacts with visible frustration, clenching his fists and turning away, while the Liverpool goalkeeper celebrates triumphantly, raising his arms. A young Chelsea fan in the stands, wearing a yellow jersey, looks anxious with hands clasped. Throughout this tense sequence, commentators provide ongoing analysis, discussing the inherent gamble of putting players on for a shootout who haven't had many touches, having \"been sat on the bench for over a couple of hours.\" They specifically highlight Liverpool's Trent Alexander-Arnold, a player \"born in Liverpool,\" who \"made his name with Everton,\" and is a \"local hero for the red side of Merseyside\" and a \"very good striker of a football.\" However, they emphasize that taking corners and free kicks is \"not quite like taking a penalty in an FA Cup Final shootout,\" questioning \"How will he shape up?\" The scene then shifts to a Liverpool player (red jersey, 'BRENDAN' – likely Salah or Mane) who confidently scores the next penalty, raising his arm in celebration. The Chelsea goalkeeper, Mendy (number 16, white jersey), is seen reacting to the goal. Referees in black uniforms with 'FA' logos oversee the proceedings, with the 'Emirates FA Cup Final 2022' banner and 'Emirates FLY BETTER' advertising hoardings prominently displayed, underscoring the match's significance."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 12,
+      "end_minute": 28,
+      "summary": "The Emirates FA Cup Final 2022 penalty shootout between Chelsea and Liverpool reached its climax with Liverpool securing a 6-5 victory. After a tense 0-0 draw through 120 minutes, the shootout saw numerous saves and successful conversions. Chelsea Goalkeeper Mendy made crucial saves, while Liverpool Goalkeeper Alisson Becker also proved pivotal, notably saving Marcos A.'s penalty. The decisive moment came when Liverpool Player Kostas Tsimikas scored his penalty, sealing the win for Liverpool. The stadium erupted in a vibrant celebration of red flares and cheers, with Liverpool players and staff, including Coach Jürgen Klopp, embracing in jubilation. In contrast, Chelsea players, including Marcos A. and Mendy, displayed dejection, reflecting their third consecutive FA Cup final defeat at Wembley. Commentators highlighted Liverpool's pursuit of a quadruple and Jürgen Klopp's successful management, while lamenting Chelsea's narrow losses in recent finals.",
+      "involved_entities": {
+        "Chelsea Player": {
+          "description": "Wearing a yellow jersey with 'MARCOS A.' and number 3, preparing and taking a penalty kick, then reacting with frustration after the save.",
+          "attribute": "visual"
+        },
+        "Liverpool Goalkeeper": {
+          "description": "Dressed in a bright green jersey with 'Expedia' and Liverpool FC crest, embracing the Coach/Team Official in a heartfelt hug, reflecting emotional triumph.",
+          "attribute": "visual"
+        },
+        "Referees": {
+          "description": "Wearing black uniforms with 'FA' logos, standing near the penalty area, observing the celebration and signaling the outcome.",
+          "attribute": "visual"
+        },
+        "Coach/Team Official": {
+          "description": "Wearing a black tracksuit with red accents and a cap, raising arms in celebration with a joyful expression on the pitch, his team's victory being the subject of 'celebrations from Jurgen Klopp' mentioned by a commentator.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Players": {
+          "description": "Wearing red jerseys, celebrating wildly by hugging, high-fiving, and embracing teammates and staff, including Tsimikas (21) and Matip, with visible joy and relief, with commentators specifically highlighting Simikas's significant contribution to the team's success, noting he 'has done today' and 'has come on to certainly contribute massively.'",
+          "attribute": "audio-visual"
+        },
+        "Chelsea Goalkeeper": {
+          "description": "Wearing a white jersey with 'MENDY' and number 16, standing with a somber expression, hand near his face, reflecting the 'desperate desolation' of the Chelsea team as noted by the commentator.",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Final 2022 Banner": {
+          "description": "Prominently displayed, showing 'CONGRATULATIONS LIVERPOOL' and the club crest, with 'Emirates FLY BETTER' visible on advertising hoardings, confirming the event as the 'FA Cup' final with a 'post-match medal presentation' as discussed by commentators.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Player": {
+          "description": "Wearing a red jersey with 'THIAGO' and number 9, initially looking downcast after missing a penalty, then replaced by another player who scores and celebrates with a raised arm.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "Massive and densely packed, creating a vibrant atmosphere with red flares, waving flags, and visible 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarves, filling the stands with energy, their cheers and chants audible amidst the post-match commentary.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Supporter": {
+          "description": "Wearing a red shirt, holding a 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarf, displaying emotion, part of the massive crowd whose loud roars and cheers are heard throughout the stadium, contributing to the electric atmosphere.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Player (Scoring)": {
+          "description": "Wearing a red jersey with 'BRENDAN', successfully scores a penalty described by commentators as a 'pressure kick' taken with 'immense composure and confidence' to win the FA Cup, and celebrates with a raised arm and pointing gesture, clearly set to 'enjoy every single second of it'.",
+          "attribute": "audio-visual"
+        },
+        "Blue Flare": {
+          "description": "A blue smoke flare lit on the pitch, adding to the chaotic and emotional atmosphere during the celebration.",
+          "attribute": "visual"
+        },
+        "Red Flares": {
+          "description": "Multiple red smoke flares lit by fans in the stands, creating a dense, vibrant haze that fills the stadium and enhances the celebratory atmosphere.",
+          "attribute": "visual"
+        },
+        "Celebrating Staff and Substitutes": {
+          "description": "Non-playing personnel in black and red attire, joining the players in a huddle and embracing them in celebration.",
+          "attribute": "visual"
+        },
+        "Wembley Stadium": {
+          "description": "Iconic stadium with a large arch, shown in an aerial view at sunset, filled with celebrating fans and red smoke, surrounded by cityscape, the venue where Chelsea 'loses... yet again' as noted by commentators.",
+          "attribute": "audio-visual"
+        },
+        "Chelsea Players": {
+          "description": "Wearing yellow jerseys, visibly dejected; one with 'MARCOS A.' and number 3 stands with head down, while others reflect disappointment.",
+          "attribute": "visual"
+        },
+        "Young Chelsea Fan": {
+          "description": "Wearing a yellow jersey, shown with hands clasped, looking anxious, reflecting the 'desperate desolation' felt by Chelsea supporters.",
+          "attribute": "audio-visual"
+        },
+        "Arsenal Players": {
+          "description": "Wearing yellow jerseys with black trim, including one with 'MARCOS A.' and number 3, preparing for a penalty kick with focused concentration.",
+          "attribute": "visual"
+        },
+        "Liverpool Player (THIAGO)": {
+          "description": "Wearing a red jersey with 'THIAGO' and number 9, initially looking downcast as he walks off the pitch, despite his team, Liverpool, being described as 'just keep on winning' by commentators.",
+          "attribute": "audio-visual"
+        },
+        "Chelsea Fan": {
+          "description": "Wearing a blue Chelsea jersey with '3' and 'HYUNDAI' on the sleeve, covering his face in disappointment in the stands, reflecting the 'woeful Chelsea' described by commentators.",
+          "attribute": "audio-visual"
+        },
+        "Referee (BARKLEY)": {
+          "description": "Wearing a yellow jersey with 'BARKLEY' on the back, interacting with the Chelsea player MENDY.",
+          "attribute": "visual"
+        },
+        "Chelsea Player (MENDY)": {
+          "description": "Wearing a white jersey with 'MENDY' and number 16, walking away from the pitch with a somber, dejected expression, embodying the 'desperation' felt by Chelsea at the end of the match.",
+          "attribute": "audio-visual"
+        },
+        "Young Liverpool Supporter": {
+          "description": "Wearing a red Liverpool FC jersey, clapping and showing visible emotion in the stands, described by commentators as experiencing 'a day he'll never, ever forget' and showing 'tears' that signify how much the moment means.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Player (Tattooed)": {
+          "description": "Wearing a red Liverpool jersey with 'Standard Chartered' and visible tattoos on his arms, clapping and looking around emotionally.",
+          "attribute": "visual"
+        },
+        "Chelsea Player (MARCOS A.)": {
+          "description": "Wearing a yellow jersey with 'MARCOS A.' and number 3, standing with his head down, looking defeated, embodying the 'woeful Chelsea' that 'loses at Wembley' after a commentator mentioned Mason Mount's slip costing them.",
+          "attribute": "audio-visual"
+        },
+        "Stadium Corridor": {
+          "description": "A narrow, dimly lit passageway with metal railings and red seats, where players and staff walk through, shaking hands with fans and officials.",
+          "attribute": "visual"
+        },
+        "Uniformed Officer": {
+          "description": "Dressed in a dark blue uniform with white gloves, carrying a tray of red caps, walking through the stadium corridor.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a tense moment in the Emirates FA Cup Final 2022 penalty shootout, with the score tied at 3-3. Visually, Liverpool's 'THIAGO' (#9) in a red jersey appears dejected after his penalty is saved by Chelsea goalkeeper 'MENDY' (#16) in a white jersey. Liverpool players, including 'ROBERTSON' (#26), react with disappointment. However, the commentary describes a different sequence, noting that 'Alexander Arnold puts Liverpool on the brink,' having scored a 'good penalty' by 'side foot[ing] it into the opposite corner,' making them 'four out of four.' As Chelsea prepares for their next attempt, with 'MARCOS A.' (#3) in a yellow jersey stepping up, the commentary shifts focus to 'Jorginho,' discussing his history as a penalty taker, including past misses against Fabianski and Jordan Pickford at Wembley in the Euro 2020 final, emphasizing the pressure that 'he has to score.' Visually, the Liverpool goalkeeper in a bright green jersey dives to his right, making a crucial save from the Chelsea player's attempt, and celebrates with a raised arm, while the Chelsea player shows frustration. The scoreboard updates to 4-4. Despite the visual outcome of a save, the commentary then states, 'And he does,' referring to Jorginho scoring, describing his technique as 'pass[ing] it into the corner' without a 'hop, skip and jump.' The Wembley Stadium crowd, densely packed with visible banners and flags, maintains an electric atmosphere throughout, with prominent 'Emirates FA Cup Final 2022' banners and 'Emirates FLY BETTER' hoardings in the background. Referees in black uniforms observe closely, and a coach/official in a grey 'trivago' shirt is seen consoling a player.",
+        "The minute opens with the Emirates FA Cup Final 2022 penalty shootout tied at 4-4, as commentators immediately confirm that Chelsea Goalkeeper Mendy has just made a save. The camera shows the Liverpool Goalkeeper, in a bright green 'Expedia' jersey, looking focused and preparing for the next kick. A wide shot reveals both teams, Liverpool in red and Chelsea in yellow, including 'MARCOS A.' with number 3, lined up on the pitch. Commentators then announce that 'Sadio Mane' will step forward for Liverpool, highlighting his extensive experience in shootouts for 'club or country'. As Mane, in a red jersey, walks confidently towards the ball, the commentators emphasize the unique 'Senegalese against Senegalese' matchup, noting that Mane and Mendy are 'international teammates' who have 'trained together', with Mane showing a 'respectful look'. Mendy, in his white 'MENDY' number 16 jersey, stands alert in front of the goal, and commentators observe him interacting with Mane, telling him to 'get back on your line'. The atmosphere is electric, with the densely packed Wembley Stadium crowd, visible banners, and 'Emirates FLY BETTER' advertising hoardings. Commentators remark on the global attention, stating that 'in Senegal, everyone will be watching this'. Mane 'marks out his run' before striking the ball, and the commentators exclaim, \"And it's saved!\", confirming Mendy's successful stop. The crowd erupts in cheers for the save, as referees in black 'FA' uniforms observe the outcome. The scene concludes with the Chelsea Goalkeeper celebrating the save, while the Liverpool Player reacts to the outcome, and a Coach/Team Official in a grey 'trivago' shirt is seen nearby.",
+        "The Emirates FA Cup Final 2022 penalty shootout between Chelsea and Liverpool, tied at 4-4, unfolds with palpable tension and dynamic commentary. The sequence begins with a dejected Liverpool player, Thiago (number 9), after a missed penalty, quickly followed by Chelsea's Edward Mendy (number 16) in a white jersey celebrating a successful save, which commentators emphasize was a moment Chelsea 'were begging him to do'. The stadium crowd's roars intensify as Liverpool's Sadio Mane (in a red jersey, previously identified as 'BRENDAN' visually), confirmed by commentators as a 'great player' despite the pressure, successfully scores his penalty, celebrating with a raised arm. The commentators confirm the score is now 'level after five, four each'. The focus then shifts to Chelsea's Marcos A. (number 3) in a yellow jersey, showing intense focus as he prepares for his penalty. He takes the kick, but the Liverpool goalkeeper in a bright green jersey makes a crucial dive to his right, saving the shot. This save is lauded by commentators as a 'good save' made with a 'strong bottom hand', marking a 'big moment for Chelsea'. The relieved Liverpool goalkeeper is shown in close-up, while Marcos A. reacts with visible frustration. A blue flare ignites on the pitch, adding to the chaotic energy amidst the packed stadium, adorned with the Emirates FA Cup banner and 'Emirates FLY BETTER' hoardings. The referee, in black with 'FA' logos, signals the save. The segment concludes with Liverpool players regrouping and celebrating, while Chelsea players show clear disappointment, and a coach in a grey 'trivago' shirt consoles a player, highlighting the emotional toll. Commentators also briefly discuss Hakim Ziyech's 'very, very gifted left foot' and the referee's role, adding to the ongoing analysis of the high-stakes match.",
+        "The minute opens with a tense atmosphere at the Emirates FA Cup Final 2022, with the score tied at 4-4. A blue flare burns on the pitch, prompting commentators to discuss the problem of 'flares getting into the ground' and causing delays. Chelsea's player, Marcos A. in his yellow number 3 jersey, prepares for his penalty kick amidst the packed stadium crowd's roars and whistles. He takes the shot, but the Liverpool goalkeeper, identified by commentators as Alisson in his bright green 'Expedia' jersey, dives to his right and makes a crucial save, leading to Marcos A.'s visible frustration as he shakes his head. Despite this specific save, the scoreboard updates to CHE 5 - LIV 4, and commentators exclaim, 'So Chelsea are back in front,' attributing a previous successful penalty to Ziyech's 'great technique' with 'no chance for Alisson whatsoever.' The pressure then shifts to Liverpool, with commentators noting 'the onus now is on the next Liverpool player to score.' Liverpool's number 20, identified as Jota, steps up for his penalty, with commentators speculating he might be one of the players who 'didn't really want to take one.' Jota takes his shot, but the Chelsea goalkeeper, Mendy, wearing his white number 16 jersey, makes a save. Jota looks downcast, and a close-up shows his disappointed expression as Liverpool players, including Henderson, gather in a huddle, some celebrating or regrouping. The referee signals the outcome amidst the intensely engaged crowd, with visible banners and flags, maintaining an electric atmosphere. The segment concludes with a Liverpool supporter proudly holding a 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarf, reflecting the team's enduring spirit.",
+        "The Emirates FA Cup Final 2022 penalty shootout reaches a critical juncture with the score at CHE 5 - LIV 4. The Chelsea goalkeeper, Mendy, in his white #16 jersey, stands alert in front of the goal, with commentators emphasizing the immense pressure on him to secure the win for Chelsea if he makes a save. The focus then shifts to Liverpool's Jota, in a red jersey, as he steps up for his penalty. As Jota strikes, a loud roar erupts from the densely packed stadium crowd, confirming he scores with a shot described by commentators as 'high into the corner,' beating Mendy who went 'the wrong way.' Liverpool players, including Henderson #14, are seen huddling and reacting to the successful conversion. The scene transitions to Chelsea's turn, with Marcos A. #3 in a yellow jersey preparing for his penalty. The Liverpool goalkeeper, in a bright green 'Expedia' jersey, dives to his right and makes a crucial save, celebrating vigorously as Marcos A. reacts with visible frustration. The electric atmosphere is palpable throughout, with the FA Cup banner and 'Emirates FLY BETTER' hoardings visible, while commentators also reflect on players like Mason Mount's 'unfortunate record' in Wembley matches, adding to the narrative tension.",
+        "The minute opens with palpable tension in the Emirates FA Cup Final 2022 penalty shootout, with the score at CHE 5 - LIV 4. A Chelsea Player, visually identified by his yellow jersey with 'MARCOS A.' and number 3, prepares for a crucial penalty kick as the commentator anticipates, \"Here he goes...\" The stadium crowd's murmur quickly erupts into a roar as the commentator exclaims, \"and it's saved by Alisson!\" The Liverpool Goalkeeper, Alisson, in his bright green 'Expedia' jersey, dives to his right, making a crucial save with a 'strong bottom hand' and immediately celebrates with a raised arm. The commentator expresses sympathy for the Chelsea player, later identified as Mason Mount, describing him as a \"very gifted young player\" whose \"unfortunate period goes on\" as he reacts with visible frustration. The focus then shifts to the next Liverpool Player, introduced by the commentator as \"the man they call the Greek Scouser, Kostas Tsimikas,\" who steps up to take the decisive penalty. The Chelsea Goalkeeper, Mendy, in his white number 16 jersey, stands alert, while the commentator emphasizes the \"highest of dramas here.\" As Tsimikas takes the shot, the commentator's voice rises, declaring, \"Tsimikas... for Liverpool... and wins it for Liverpool!\" The ball finds the net, and Tsimikas, wearing a red jersey, celebrates confidently with a raised arm and pointing gesture, joining a teammate as the massive, densely packed Stadium Crowd erupts in a deafening roar, confirming Liverpool's victory, with the Emirates FA Cup Final 2022 banner and 'Emirates FLY BETTER' hoardings prominently displayed in the background.",
+        "The Emirates FA Cup Final 2022 culminates in a dramatic penalty shootout, with commentators declaring, \"They win the FA Cup! Liverpool! At the expense of Chelsea!\" as Liverpool triumphs. The scene erupts with Liverpool players in red jerseys sprinting towards the goal, converging into a jubilant huddle after their goalkeeper, Alisson Becker, in a bright green 'Expedia' jersey, makes the decisive save. Commentators confirm, \"Alisson Becker has made a couple of very good saves, one very good save to win the game for Liverpool.\" Players, including Henderson (number 14) and Thiago (number 9), initially dejected, are quickly swept up in the euphoria, embracing teammates and staff, such as a Coach/Team Official in a grey 'trivago' shirt. The stadium crowd, a massive sea of red, erupts with loud cheers and chants of \"2022,\" waving flags and igniting red flares that fill the air with smoke, creating a vibrant, chaotic, and triumphant atmosphere. Commentators highlight this as a \"domestic double\" for Liverpool, keeping \"the quadruple... still on.\" In stark contrast, the Chelsea Goalkeeper, Mendy (number 16), walks away with a somber expression, clapping his gloves in resignation, reflecting Chelsea's \"unwanted history\" of \"three FA Cup final defeats in a row\" at \"wretched Wembley.\" An aerial view captures the full scale of the celebration, with the iconic Wembley Stadium arch visible under a dusky sky, surrounded by the cityscape, as the emotional intensity peaks among players, staff, and the roaring crowd.",
+        "The minute opens with the electric atmosphere of the Emirates FA Cup Final 2022, as Liverpool players in red jerseys erupt in wild celebration, lifting teammates onto their shoulders amidst a dense, vibrant haze of red flares exploding in the stands. The ecstatic crowd, waving flags and scarves including a prominent 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarf, roars with celebratory sounds. Commentators confirm the victory, noting \"Jürgen Klopp drives them on,\" striving for glory, as Liverpool triumphs 6-5 on penalties after a tense 0-0 draw following 120 minutes of football. The scene shifts to the dejected Chelsea players in yellow jerseys, with one kneeling on the pitch and Jorginho (number 5) being consoled, reflecting the sadness of their loss. A young Chelsea fan in the stands looks anxious, hands clasped, contrasting with a proud Liverpool Supporter. The Liverpool Goalkeeper, in a bright green jersey, is seen embracing the Coach/Team Official in a heartfelt hug, both visibly emotional. Commentators highlight the high drama, mentioning that Sadio Mané couldn't convert his chance, but Tsimikas, who they had heard from earlier, took his opportunity to secure the win. Referees in black uniforms with 'FA' logos stand near the penalty area, signaling the end. The iconic Wembley arch is visible at sunset, bathed in the red smoke of celebration, as the on-screen graphic confirms 'LIVERPOOL WIN 6-5 ON PENALTIES', an outcome described by commentators as \"quite incredible\" with \"very little between the two teams.\"",
+        "The Wembley Stadium erupts in a vibrant, electric celebration as Liverpool secures the Emirates FA Cup Final 2022 victory, a win commentators note came after \"lots and lots of chances\" and a tense penalty shootout where \"a Liverpool squad... keep their nerve.\" Red flares fill the air, creating a dense haze over the stands and pitch, while the massive crowd waves flags and scarves, including a prominent 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' banner, their constant cheers and celebratory din echoing through the stadium. On the field, Liverpool Players in red jerseys, including Firmino (9), Elliott (67), and Mane (10), are seen embracing, high-fiving, and celebrating with teammates and staff, visibly \"happy\" as \"FA Cup winners.\" The Liverpool Goalkeeper, in a bright green jersey, shares an emotional hug with the Coach/Team Official, who wears a grey 'trivago' shirt and is also seen consoling another player. In stark contrast, Chelsea Players in yellow jerseys appear dejected, with Jorginho (5) kneeling on the pitch, head down, and Mendy (16) clapping his gloves somberly, a scene commentators describe as \"absolute desolation\" for a club that has now \"lost three FA Cup finals in a row.\" The 'CONGRATULATIONS LIVERPOOL' banner is prominently displayed, as referees observe the scene and celebrating staff and substitutes join the huddle, all under the iconic Wembley arch, with the commentators highlighting Liverpool's \"two trophies now\" and the ongoing \"quadruple\" pursuit, despite the blue flare briefly lit on the pitch adding to the chaotic joy.",
+        "The minute opens with a vibrant, smoke-filled Wembley Stadium, dominated by red flares and a sea of Liverpool supporters waving scarves, creating an electric atmosphere as a male commentator reflects on the game. He notes that a player \"wasn't to be his day,\" specifically mentioning \"Lukaku starting\" and how \"neither side able to take their chances in the 120 minutes.\" The scene transitions to the pitch where the Liverpool Goalkeeper, identified as Alisson, in his bright green jersey, embraces the Coach/Team Official in a heartfelt hug, following his \"crucial saves\" that helped Liverpool find their hero in the shootout. The celebration intensifies as Liverpool Players, including Firmino (9), Elliott (67), and Mane (10), in their red jerseys, rush onto the field, hugging, high-fiving, and embracing teammates and staff with visible joy and relief. A key moment unfolds during the penalty shootout: the commentator builds anticipation with \"And why not? Here it is!\" as the Liverpool Player, identified as Kostas Tsimikas, the \"very, very unlikely hero,\" successfully scores a penalty, \"exquisitely plac[ing] it perfectly into the bottom corner.\" He celebrates with a raised arm and pointing gesture, while the Chelsea Goalkeeper, Mendy (16), in his white jersey, reacts with a somber expression and claps his gloves, despite the commentator noting he \"didn't do anything wrong.\" The Chelsea Player, Marcos A. (3), in a yellow jersey, is seen preparing and taking a penalty kick, then reacting with frustration after the save. The Emirates FA Cup Final 2022 Banner proudly displays 'CONGRATULATIONS LIVERPOOL', confirming their victory and second trophy of the season. The celebration culminates in a chaotic, emotional huddle involving Celebrating Staff and Substitutes, while the Stadium Crowd, densely packed and waving flags, erupts in loud cheers and roars. The Young Chelsea Fan, in a yellow jersey, looks anxious with hands clasped in the stands, contrasting with the Liverpool Supporter, who proudly holds a 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarf. Referees, in black uniforms, observe the celebration amidst blue and red flares. Chelsea Players, including Jorginho (5), are visibly dejected, some kneeling on the pitch, head down, while others stand silently, reflecting disappointment. The aerial view of Wembley Stadium at sunset, with its iconic arch filled with celebrating fans and red smoke, surrounded by the cityscape, encapsulates the grandeur of Liverpool's triumph.",
+        "The segment opens with a close-up of a red digital screen before transitioning to a jubilant scene on the pitch, accompanied by loud, continuous crowd cheering. A Coach/Team Official, in a black tracksuit with red accents and a cap, sprints across the field in celebration, his 'reaction' noted by the commentator as 'pure joy'. He is swiftly embraced by the Liverpool Goalkeeper, in a bright green 'Expedia' jersey, sharing an emotional hug. Liverpool Players in red jerseys, including Tsimikas (21) and Matip, join the escalating celebration, hugging and lifting each other in triumph, with the commentator observing Tsimikas is 'off with the fans' and 'up in the air'. The camera then shifts to the stands, where the Stadium Crowd, acknowledged by the commentator as 'the fans behind', is engulfed in red flares, waving flags, and cheering wildly, many wearing 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarves. A wide aerial shot reveals the iconic Wembley Stadium, filled with fans and red smoke, with the 'Emirates FA Cup Final 2022 Banner' prominently displayed, reading 'CONGRATULATIONS LIVERPOOL' and 'Emirates FLY BETTER'. The commentator reflects on the significance of the moment, stating that the coach 'will never forget' winning the cup for Liverpool, and that 'this grand old competition never disappoints', creating 'Golden moments at Wembley'. The scene cuts to dejected Chelsea Players in yellow jerseys, including 'MARCOS A.' (3), standing with heads down, while the Chelsea Goalkeeper, 'MENDY' (16) in a white jersey, looks on somberly, clapping his gloves, encapsulating a powerful display of victory and defeat amidst the electric atmosphere.",
+        "The video opens on a young Chelsea fan in a yellow jersey, visibly anxious with hands clasped, reflecting the 'desperate moments' for Chelsea as commentators recall Azpilicueta missing in the shootout and Mason Mount's crucial miss. The scene shifts to the stands, where Liverpool supporters, including legends Ian Rush and Kenny Dalglish, watch on with 'huge smiles on their faces,' as the commentator notes Sadio Mane's relief. On the pitch, Liverpool players in red jerseys erupt in celebration after winning the Emirates FA Cup Final 2022, hugging and high-fiving, with Tsimikas (21) and Matip prominent. The Liverpool Goalkeeper in a bright green jersey embraces the Coach/Team Official, who sprints triumphantly across the field. The stadium is engulfed in red flares and smoke, creating a vibrant, chaotic atmosphere, as commentators confirm Liverpool 'just won that,' highlighting the pressure it puts on Manchester City for the Premier League and Liverpool's continued hunt for a third trophy and the Champions League final. Aerial shots reveal the massive, densely packed crowd, waving flags, with 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarves visible, beneath the 'CONGRATULATIONS LIVERPOOL' banner and 'Emirates FLY BETTER' advertising hoardings. Meanwhile, Chelsea players, including Marcos A. (number 3), stand dejected, heads down, as commentators reflect on the 'end of an era for Chelsea,' noting this was their 'final chance in three cup finals and they've fallen short so narrowly.' The Liverpool team and staff, including substitutes and officials, join in a celebratory huddle, culminating in a wide view of Wembley Stadium at sunset, filled with red smoke and fans, capturing the emotional climax of the victory and the stark contrast in fortunes.",
+        "The Emirates FA Cup Final 2022 at Wembley Stadium erupts in a vibrant celebration as the Liverpool team secures a hard-fought victory. Commentators praise Liverpool's \"real belief that they can win everything,\" attributing their success to \"this man,\" later identified as Jürgen Klopp, who has had a \"fantastic time since becoming the manager.\" The Stadium Crowd, a dense sea of red, waves flares and scarves, filling the air with smoke and roaring in excitement. Klopp, in a black tracksuit, sprints across the pitch with jubilant arms raised, embracing the Liverpool Goalkeeper in a heartfelt hug. Liverpool Players, including Tsimikas (21) and Matip, celebrate wildly, hugging and high-fiving, while the 'CONGRATULATIONS LIVERPOOL' banner is prominently displayed. The stadium announcer's voice echoes, declaring, \"congratulations to Liverpool, the 2022 FA Cup winners!\" further igniting the crowd's cheers. Klopp, confirmed to \"lead the celebrations,\" is seen waving to fans as a Liverpool Player (Scoring) raises an arm in triumph after a decisive penalty. In stark contrast, Chelsea Players, like 'MARCOS A.' (3), appear dejected, heads down, and a Young Chelsea Fan looks anxious. Referees observe the chaotic scene, marked by red and a blue flare on the pitch. An aerial view captures Wembley at sunset, teeming with fans and swirling red smoke, as celebrating staff and substitutes join the players in a joyous huddle. A Liverpool Supporter is visibly emotional, while the Chelsea Goalkeeper reacts with somber resignation, clapping his gloves. Commentators also look ahead, hoping Liverpool will be \"doing this in Paris in the Champions League final as well.\"",
+        "The segment opens with a close-up of a young Liverpool supporter in a red jersey, visibly emotional and clapping amidst a sea of red-clad fans, as commentators reflect on the high stakes of the match, noting it was a 'fabulous nil-nil draw after 90 minutes, after 120 minutes.' The scene transitions to the pitch where Liverpool players, including 'THIAGO' (number 9), walk off with somber expressions, while a Chelsea player, 'MENDY' (number 16), appears dejected, interacting with referee 'BARKLEY.' The commentary highlights the 'desperation' felt by Chelsea at the end, contrasting with the emotional release for Liverpool. A tattooed Liverpool player is then seen clapping with a mix of relief and emotion. In the stands, a Chelsea fan in a blue jersey covers his face in disappointment, visually echoing the commentary about Chelsea's loss. The video culminates with the Liverpool Coach/Team Official, in a black tracksuit and cap, raising his arms triumphantly and celebrating joyfully with the crowd, as the stadium erupts in celebration with red flares, embodying the victory that commentators describe as 'a day he'll never, ever forget' for fans and referencing 'Jurgen Klopp' and the profound meaning of the win for Liverpool.",
+        "The minute opens with a somber close-up of Chelsea Goalkeeper MENDY, wearing his white number 16 jersey, his hand near his face reflecting deep disappointment, while commentators discuss the team's large squad and player contributions. The scene cuts to dejected Chelsea fans in the stands, one in a blue jersey covering his face in despair, another rubbing his neck, as the commentators specifically praise Liverpool's Simikas for his role, noting he 'has done today' and 'has come on to certainly contribute massively.' A wide aerial view of Wembley Stadium then reveals jubilant Liverpool Players in red jerseys, including Tsimikas and Matip, celebrating wildly with teammates and staff, hugging and high-fiving in a vibrant huddle, all while commentators laud Jurgen Klopp's management and the team's success, stating 'they're enjoying every single moment.' The stadium is packed with a massive, roaring crowd, many waving red flares, creating a dense, celebratory haze, with a 'CONGRATULATIONS LIVERPOOL' banner prominently displayed. A Liverpool Supporter, holding a 'YOU'LL NEVER WALK ALONE' scarf, claps and cheers emotionally, their collective cheers forming a continuous, loud backdrop. The stadium is then shown at sunset, its iconic arch visible amidst celebrating fans and red smoke, as commentators exclaim 'Two in the bag!' and 'Absolutely!' for Liverpool. The camera focuses on Chelsea Player MARCOS A. in his yellow number 3 jersey, head down in defeat, interacting with Referee BARKLEY. The final shot captures the Liverpool Goalkeeper in a bright green jersey embracing the Coach/Team Official, identified by commentators as Jurgen Klopp, in a heartfelt hug, reflecting emotional triumph, as the commentators continue to praise Liverpool as 'the outstanding team' enjoying 'some season.' The electric atmosphere, fueled by red flares and palpable crowd energy, culminates in Liverpool's victory and Chelsea's heartbreak.",
+        "The minute opens with a male commentator highlighting the \"desperate desolation\" of the Chelsea players, as the Chelsea Goalkeeper, Mendy, stands somberly with his hand near his face, and Chelsea Player Marcos A. looks defeated with his head down, while a Young Chelsea Fan appears anxious in the stands. The scene then shifts to the jubilant Liverpool side at Wembley Stadium, packed with cheering fans waving red flares and scarves, creating a sea of red smoke. The commentator announces, \"There's the man who's going to have the honor of lifting this grand old trophy,\" referring to a Liverpool player. He then mentions a \"special word for Henderson from Jurgen Klopp,\" identifying the Coach/Team Official as Jurgen Klopp, who is seen in a black tracksuit, raising his arms in triumph and later sharing a heartfelt hug with the Liverpool Goalkeeper. Klopp maintains a \"huge, huge smile on his face\" as the \"scene is set\" for celebration. The focus returns to a crucial moment as the commentator describes a \"pressure kick, the one to win the FA Cup,\" taken by Liverpool Player (Scoring) (wearing 'BRENDAN'). The commentator praises his \"immense composure and confidence,\" predicting he's \"going to enjoy every single second of it\" as he successfully scores the penalty and celebrates with a raised arm. The stadium is electric with the sound of cheering fans, red flares lighting up the stands, and a 'CONGRATULATIONS LIVERPOOL' banner displayed. The minute concludes with Liverpool players and staff, including Jurgen Klopp and the Liverpool Goalkeeper, huddled together in triumphant celebration, while the crowd's cheers and waving flares underscore the emotional intensity of Liverpool's FA Cup victory.",
+        "The segment opens with a close-up of a dejected Chelsea Fan in a blue jersey, covering his face in disappointment, as a commentator's voice details how Mason Mount's slip cost Chelsea the FA Cup, while Simikas secured the win for Liverpool, who \"just keep on winning.\" The scene quickly shifts to a vibrant, chaotic celebration in the stands, where the Stadium Crowd is engulfed in red flares, waving flags, and cheering wildly, with visible 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarves, their jubilant sounds mixing with the ongoing commentary. A wide aerial view of Wembley Stadium at sunset, filled with red smoke and celebrating fans, emphasizes the scale of the event, as the commentator notes \"celebrations from Jurgen Klopp\" and impending presentations. A joyful Coach/Team Official in a black tracksuit is seen raising his arms on the pitch, reflecting triumph, before the focus moves to a uniformed officer carrying a tray of red caps through a dimly lit stadium corridor. Players from both teams, including a subdued Chelsea Player (MARCOS A.) in a yellow jersey, are shown walking down the tunnel, shaking hands with staff and fans, while commentators lament \"woeful Chelsea\" losing at Wembley \"yet again\" by the \"narrowest of margins,\" reflecting on their recent finals. A downcast Liverpool Player (THIAGO) in a red jersey is also seen walking off the pitch, as the atmosphere transitions from intense celebration to post-match rituals, with the Emirates FA Cup Final 2022 Banner visible in the background, confirming the significance of the match."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 29,
+      "end_minute": 29,
+      "summary": "Chelsea Player (MARCOS A.) and teammates, clad in their kits, moved with determined expressions through a dimly lit Stadium Corridor, descending steps towards the pitch under the watchful eyes of security and staff, while commentators debated Chelsea's historical lack of a consistent 20-goal striker, referencing past struggles in cup finals and the underperformance of expected high scorers like Mané, Salah, Timo Werner, and Lukaku, as well as the limitations of players like Mason Mount and Pulisic in reaching that scoring threshold. Referees, attired in black FIFA/FA uniforms, were observed walking through the stands, receiving applause and mementos, identified as being from \"the President of the FA\" and \"the Royal Highness, the Duke of Cambridge.\" The scene broadened to reveal the Emirates FA Cup Final 2022 banner against the backdrop of a vibrant Stadium Crowd, whose energy was palpable through waving scarves and the ignition of red flares, punctuated by a resounding \"CHELSEA!\" chant. The event culminated in an aerial view of Wembley Stadium at sunset, its massive crowd celebrating amidst red smoke, with the iconic arch illuminated, underscoring the magnitude of the occasion.",
+      "involved_entities": {
+        "Referees": {
+          "description": "Wearing black uniforms with 'FIFA' and 'FA' logos, walking through the stands, holding a red cap, and receiving applause from officials and dignitaries, who are presenting them with 'mementos' from 'the President of the FA' and 'the Royal Highness, the Duke of Cambridge'.",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Final 2022 Banner": {
+          "description": "Prominently displayed, showing 'CONGRATULATIONS LIVERPOOL' and the club crest, with 'Emirates FLY BETTER' visible on advertising hoardings.",
+          "attribute": "visual"
+        },
+        "Chelsea Player (MARCOS A.)": {
+          "description": "Wearing a yellow jersey with 'MARCOS A.' and number 3, walking through a stadium corridor with a focused expression, hands on hips, descending steps toward the pitch.",
+          "attribute": "visual"
+        },
+        "Stadium Corridor": {
+          "description": "A narrow, dimly lit passageway with metal railings and red seats, where players and staff walk through, shaking hands with fans and officials.",
+          "attribute": "visual"
+        },
+        "Wembley Stadium": {
+          "description": "Iconic stadium with a large arch, shown in an aerial view at sunset, filled with celebrating fans and red smoke, surrounded by cityscape.",
+          "attribute": "visual"
+        },
+        "Uniformed Officer": {
+          "description": "Dressed in a dark blue uniform with white gloves, carrying a tray of red caps, walking through the stadium corridor.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "Massive and densely packed, creating a vibrant atmosphere with red flares, waving flags, and visible 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarves, filling the stands with energy, and audibly erupting in a loud 'CHELSEA!' chant.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with Chelsea players, including one wearing a yellow 'MARCOS A.' jersey with number 3, walking with focused expressions through a dimly lit stadium corridor, flanked by security and staff, descending steps towards the pitch. Throughout this, commentators discuss Chelsea's historical struggle to find a consistent 20-goal striker, mentioning players like Mané and Salah, and their past difficulties in winning cup finals. The camera then shifts to referees in black FIFA/FA uniforms walking through the stands, holding a red cap and receiving applause from dignitaries, as commentators note these are \"mementos\" being received from \"the President of the FA\" and later, \"the Royal Highness, the Duke of Cambridge.\" The scene transitions to a wider view of the stadium, prominently displaying the Emirates FA Cup Final 2022 banner, with stands filled with an energetic crowd, waving scarves and lighting red flares. Commentators continue their analysis, mentioning how players like Timo Werner and Lukaku were expected to be high scorers but haven't quite worked out, and how Mason Mount and Pulisic, though good, aren't 20-goal threats, highlighting Chelsea's finishing problems. The stadium ambiance intensifies with a loud \"CHELSEA!\" chant erupting from the crowd, as the final aerial shot captures Wembley Stadium at sunset, showcasing the massive, celebrating crowd, red smoke, and the iconic arch, emphasizing the grandeur of the event."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 30,
+      "end_minute": 30,
+      "summary": "Following the Emirates FA Cup Final 2022 at Wembley Stadium, Chelsea players, distinguished by red medals and yellow jerseys featuring '3' and 'HYUNDAI' logos, proceeded through a corridor populated by fans and officials. Amidst applause and handshakes, they exhibited a blend of pride and fatigue, as commentators emphasized the 'wonderful honor' of participating in an FA Cup final. The stadium crowd, many in formal wear, actively clapped, while prominent red banners proclaimed 'Emirates FA CUP WINNERS 2022' and 'WEMBLEY CONNECTED BY EE'. The lighting was bright and uniform, accentuating the interactions and the stadium's scale, with camera work shifting between close-ups of players, including 'MARCOS A.' (number 3), and broader views of the corridor. A referee, identifiable by a black uniform bearing 'FIFA' and 'FA' insignia, also received applause from dignitaries. Commentators discussed the emotional impact of the final, noting that while defeat diminishes the experience, it is less devastating than being 'totally outplayed.' Specific praise was given to players like Reece James, who could feel they 'gave it everything' and 'played really well,' ensuring the game would be remembered positively for him personally, irrespective of the result. The commentary also acknowledged Chelsea's broader challenges, mentioning their decision to make 'no excuses' concerning ownership issues, framing it as a concern extending beyond the immediate match performance.",
+      "involved_entities": {
+        "Emirates FA Cup Final 2022 Banner": {
+          "description": "Prominently displayed, showing 'Emirates FA CUP WINNERS 2022' and 'WEMBLEY CONNECTED BY EE' on red banners, reinforcing the event's significance, which is extensively discussed by commentators who reflect on the 'wonderful honor' and emotional weight of participating in such a final.",
+          "attribute": "audio-visual"
+        },
+        "Referees": {
+          "description": "Wearing black uniforms with 'FIFA' and 'FA' logos, walking through the stands, holding a red cap, and receiving applause from officials and dignitaries.",
+          "attribute": "visual"
+        },
+        "Wembley Stadium": {
+          "description": "Iconic stadium with a large arch, shown in an aerial view at sunset, filled with celebrating fans and red smoke, surrounded by cityscape.",
+          "attribute": "visual"
+        },
+        "Chelsea Players": {
+          "description": "Wearing yellow jerseys with black trim, '3' and 'HYUNDAI' logos, and red medals, walking through a stadium corridor, shaking hands with fans and officials, displaying pride and exhaustion. Commentators discuss the 'wonderful honor' of playing in the FA Cup final, the emotional impact of winning or losing, and specifically mention Reece James as a player who can reflect on giving 'everything' and playing 'really well' in this significant match.",
+          "attribute": "audio-visual"
+        },
+        "Stadium Crowd": {
+          "description": "Massive and densely packed, creating a vibrant atmosphere with clapping and visible engagement with players, filling the stands with energy.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The scene captures a celebratory post-match procession at Wembley Stadium following the Emirates FA Cup Final 2022. Chelsea players, adorned with red medals and wearing yellow jerseys with black trim, '3' and 'HYUNDAI' logos, walk along a corridor lined with fans and officials. They shake hands and receive applause, displaying a mix of pride and exhaustion, as commentators reflect on the profound significance of playing in an FA Cup final, calling it a 'wonderful honor.' The stadium is filled with spectators, many in formal attire, clapping and engaging warmly, while prominent red banners declare 'Emirates FA CUP WINNERS 2022' and 'WEMBLEY CONNECTED BY EE'. The bright, even lighting highlights these interactions and the grandeur of the stadium, with transitions between close-ups of individual players, including one identified as 'MARCOS A.' with number 3, and wider shots of the corridor. A referee in a black 'FIFA' and 'FA' uniform is also seen, receiving applause from dignitaries. Throughout, the commentators discuss the emotional weight of the final, noting that while losing 'takes a lot of the gloss off,' it's less painful than being 'totally outplayed.' They specifically highlight players like Reece James, who can reflect on the game and feel they 'gave it everything' and 'played really well,' ensuring it will 'go down in memory as a really good game for him,' regardless of the outcome. The commentary also touches on Chelsea's broader context, mentioning they've made 'no excuses' regarding ownership difficulties, a wider issue than just the match day performance."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 31,
+      "end_minute": 32,
+      "summary": "Following the Emirates FA Cup Final 2022, Chelsea players, including Marcos A. (3), walked through a dimly lit stadium corridor, visibly exhausted but proud, shaking hands with fans and officials, as commentators lamented Mason Mount's penalty miss, noting his lack of confidence and a good save by Alisson. Simultaneously, on the brightly lit pitch, Liverpool players in red jerseys, including Firmino (9), Robertson (6), and Fabinho (5), celebrated wildly with teammates like Tsimikas (21) and Matip, hugging and high-fiving amidst a vibrant atmosphere filled with a densely packed, clapping stadium crowd and red flares creating a hazy, celebratory mood, while a Coach/Team Official raised arms in joy. A loud, albeit possibly misdirected, announcement of \"Chelsea!\" was heard. Referees in black uniforms received applause as they walked through the stands, and a Uniformed Officer carried a tray of red caps. The Emirates FA Cup Final 2022 banner, celebrating 150 years, was prominently displayed. Coach Jurgen Klopp walked alongside players like Robertson, with commentators reflecting on the intense pressure of \"every Premier League game\" feeling like a cup final. The scene concluded with a wider shot of the Wembley arch at sunset, a sea of fans, and red flares symbolizing Liverpool’s hard-won triumph against the continuous roar of the crowd, underscoring the stark emotional contrast between Liverpool's jubilation and Chelsea's weariness.",
+      "involved_entities": {
+        "Red Flares": {
+          "description": "Multiple red smoke flares lit by fans in the stands, creating a dense, vibrant haze that fills the stadium and enhances the celebratory atmosphere.",
+          "attribute": "visual"
+        },
+        "Referees": {
+          "description": "Wearing black uniforms with 'FIFA' and 'FA' logos, walking through the stands, holding a red cap, and receiving applause from officials and dignitaries.",
+          "attribute": "visual"
+        },
+        "Coach/Team Official": {
+          "description": "Wearing a black tracksuit with red accents and a cap, walking through the stadium corridor with players, raising arms in celebration, and engaging with fans; identified by the commentator as Jurgen Klopp, whose philosophy of treating every game like a cup final is highlighted.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Players": {
+          "description": "Wearing red jerseys, including Firmino (9), Robertson (6), and Fabinho (5), celebrating by high-fiving and hugging fans in the stands, displaying joy and connection with supporters, having made this walk before with a similar sense of triumph and fatigue, now receiving their reward for winning the FA Cup.",
+          "attribute": "audio-visual"
+        },
+        "Chelsea Players": {
+          "description": "Wearing yellow jerseys with black trim, '3' and 'HYUNDAI' logos, and red medals, walking through a stadium corridor, shaking hands with fans and officials, displaying pride and exhaustion, with commentators specifically discussing Mason Mount's penalty miss and expressing sympathy for him, while an announcer mistakenly calls out 'Chelsea!' amidst the post-match scene.",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Final 2022 Banner": {
+          "description": "Prominently displayed on red barriers, showing 'EMIRATES FA CUP FINAL 2022' and 'CELEBRATING 150 YEARS', reinforcing the event's significance.",
+          "attribute": "visual"
+        },
+        "Stadium Corridor": {
+          "description": "A narrow, dimly lit passageway with metal railings and red seats, where players and staff walk through, shaking hands with fans and officials.",
+          "attribute": "visual"
+        },
+        "Uniformed Officer": {
+          "description": "Dressed in a dark blue uniform with white gloves, carrying a tray of red caps, walking through the stadium corridor.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "Massive and densely packed, creating a vibrant atmosphere with clapping, cheering, and reaching out to players, filling the stands with energy and red smoke flares, their continuous noise and excitement forming the backdrop to the celebration.",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Trophy": {
+          "description": "A large, ornate silver trophy with red ribbons, held by a dignitary in formal attire, symbolizing the championship victory and the 'reward' for the players' efforts.",
+          "attribute": "audio-visual"
+        },
+        "Wembley Stadium": {
+          "description": "Iconic stadium with a large arch, shown in an aerial view at sunset, filled with celebrating fans and red smoke, surrounded by cityscape.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with Chelsea players, including Marcos A. (3), visibly exhausted and displaying pride as they walk through a dimly lit stadium corridor, shaking hands with fans and officials after the Emirates FA Cup Final 2022. Commentators reflect on Mason Mount's penalty miss, noting he didn't look confident and almost telegraphed his shot, leading to a good save by Alisson, expressing sympathy for Mount. Simultaneously, the atmosphere shifts to the brightly lit pitch where Liverpool players, in red jerseys, are seen celebrating wildly with teammates like Tsimikas (21) and Matip, hugging and high-fiving in emotional triumph, while a Coach/Team Official raises arms in joy. A loud, albeit possibly misdirected, announcement of \"Chelsea!\" is heard amidst the stadium's vibrant ambiance, which is filled with the massive, densely packed crowd clapping and engaging. Red flares create a dense, vibrant haze, enhancing the celebratory mood for the victors. The commentary continues, discussing Thomas Tuchel's significant impact on Chelsea, leading them to various finals and a Champions League win, acknowledging their history of seeking silverware. Referees in black uniforms are seen walking through the stands, receiving applause, while a Uniformed Officer carries a tray of red caps. The segment concludes with the commentator acknowledging the \"winning machine\" at the moment, implicitly referring to Liverpool, as the visual contrast between Liverpool's jubilation and Chelsea's weariness underscores the emotional intensity of the post-match scene.",
+        "The minute opens with the distinct sounds of a jubilant crowd as Liverpool players, including Firmino (9), Robertson (6), and Fabinho (5), in their red jerseys, make a triumphant procession through the Wembley Stadium stands. They high-five and embrace ecstatic fans, densely packed in red seats, who clap and reach out, creating a vibrant atmosphere. A commentator observes that these are the \"players who made this walk just 11 weeks ago with a similar sense of triumph, similar sense of fatigue,\" having put \"an awful lot into it to get their reward.\" The Emirates FA Cup Final 2022 banner, celebrating 150 years, is prominently displayed amidst the massive, energetic crowd and red smoke flares filling the air. A dignitary is then seen holding the ornate Emirates FA Cup trophy, surrounded by officials, as the crowd's excitement builds. The scene transitions to a dimly lit stadium corridor where the Coach, identified by the commentator as Jurgen Klopp, walks alongside players like Robertson, who hugs a teammate. The commentator reflects on how \"every Premier League game has been like a cup final,\" echoing Klopp's earlier sentiment of \"15 more cup finals to go\" from March, and how \"every game has felt like that.\" Players and staff descend toward the pitch, shaking hands with fans and officials. The segment concludes with a wider shot of the iconic Wembley arch at sunset, a sea of fans, and red flares creating a vibrant haze, symbolizing Liverpool’s hard-won triumph, all set against the continuous roar of the crowd."
+      ]
+    },
+    {
+      "event_id": 11,
+      "start_minute": 33,
+      "end_minute": 37,
+      "summary": "At Wembley Stadium, amidst a vibrant haze of red smoke flares and raining confetti, Liverpool players, including Firmino (9), Robertson (6), and Fabinho (5), celebrate their Emirates FA Cup Final 2022 victory. The Coach/Team Official, Jürgen Klopp, in a black tracksuit, raises his arms in triumph, engaging with fans as the Liverpool Goalkeeper, in a bright green jersey, lifts the ornate silver Emirates FA Cup Trophy, adorned with red ribbons. Commentators praise the team's \"magnificent\" season and \"real squad effort,\" noting the significance of this \"new experience with this most famous of cups\" for Jordan Henderson and confirming Liverpool as \"FA Cup winners for the eighth time.\" The \"Emirates FA Cup Winners 2022\" banner is prominently displayed, reinforcing the achievement as the densely packed Stadium Crowd roars, cheers, and claps, creating an electric atmosphere underscored by upbeat, celebratory music and the shifting camera angles and bright stadium lights.",
+      "involved_entities": {
+        "Liverpool Player (THIAGO)": {
+          "description": "Wearing a red jersey with 'THIAGO' and number 9, initially looking downcast as he walks off the pitch.",
+          "attribute": "visual"
+        },
+        "Liverpool Player (Scoring)": {
+          "description": "Wearing a red jersey with 'BRENDAN' (likely a placeholder for a player like Salah or Mane), successfully scores a penalty and celebrates with a raised arm and pointing gesture.",
+          "attribute": "visual"
+        },
+        "Red Flares": {
+          "description": "Multiple red smoke flares lit by fans in the stands, creating a dense, vibrant haze that fills the stadium and enhances the celebratory atmosphere.",
+          "attribute": "visual"
+        },
+        "Emirates FA Cup Trophy": {
+          "description": "A large, ornate silver trophy with red ribbons, held by a Liverpool player aloft, symbolizing the championship victory for the 'FA Cup winners'.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Players": {
+          "description": "Wearing red jerseys, including Firmino (9), Robertson (6), and Fabinho (5), celebrating by high-fiving and hugging fans in the stands, displaying joy and connection with supporters, confirmed as the 'FA Cup winners' by the announcer.",
+          "attribute": "audio-visual"
+        },
+        "Coach/Team Official": {
+          "description": "Wearing a black tracksuit with red accents and a cap, raising arms in celebration, and engaging with fans.",
+          "attribute": "visual"
+        },
+        "Emirates FA Cup Final 2022 Banner": {
+          "description": "Prominently displayed on red barriers, showing 'EMIRATES FA CUP FINAL 2022' and 'CELEBRATING 150 YEARS', reinforcing the event's significance.",
+          "attribute": "visual"
+        },
+        "Young Liverpool Supporter": {
+          "description": "Wearing a red Liverpool FC jersey with 'Standard Chartered' and 'LFC' logos, clapping and showing visible emotion in the stands.",
+          "attribute": "visual"
+        },
+        "Stadium Corridor": {
+          "description": "A narrow, dimly lit passageway with metal railings and red seats, where players and staff walk through, shaking hands with fans and officials.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "Massive and densely packed, creating a vibrant atmosphere with clapping, cheering, and reaching out to players, filling the stands with energy and red smoke flares, their massive roar and cheer heard distinctly following the announcement of Liverpool as winners.",
+          "attribute": "audio-visual"
+        },
+        "Liverpool Goalkeeper": {
+          "description": "Dressed in a bright green jersey with 'Expedia' and Liverpool FC crest, embracing the Coach/Team Official in a heartfelt hug, reflecting emotional triumph.",
+          "attribute": "visual"
+        },
+        "Referees": {
+          "description": "Wearing black uniforms with 'FIFA' and 'FA' logos, walking through the stands, holding a red cap, and receiving applause from officials and dignitaries.",
+          "attribute": "visual"
+        },
+        "Celebrating Staff and Substitutes": {
+          "description": "Non-playing personnel in black and red attire, joining the players in a huddle and embracing them in celebration.",
+          "attribute": "visual"
+        },
+        "Wembley Stadium": {
+          "description": "Iconic stadium with a large arch, shown in an aerial view at sunset, filled with celebrating fans and red smoke, surrounded by cityscape, explicitly named by the announcer as the location of the event.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a formal ceremony at Wembley Stadium, where dignitaries, including a man in a dark suit, stand beside the ornate Emirates FA Cup Trophy, prominently displayed on a red barrier with 'Emirates FA Cup Final 2022' and 'Celebrating 150 Years' banners. A woman in a patterned jacket approaches to adjust a red ribbon on the trophy. Over this, a male commentator reflects on the tournament's significance, noting how a coach (implicitly Liverpool's) \"realized that this is a great tournament, a great cup to win,\" and that \"they've done it brilliantly over the course of this season.\" The scene then transitions to the Liverpool team, led by their Coach/Team Official in a black tracksuit, walking through a stadium corridor, visibly emotional and celebratory. As they emerge into the stands, a massive, cheering Stadium Crowd erupts in a loud roar, with a second, excited commentator exclaiming \"Liverpool!\" and declaring them \"the most decorated club in English football\" who have added \"another chapter for their glorious history\" and are \"still the Quad Squad.\" The Coach/Team Official raises his arms in triumph amidst the electric atmosphere, as Liverpool Players like Robertson, Fabinho, and Milner high-five and embrace fans, including a Young Liverpool Supporter. Multiple red flares ignite, creating a dense, vibrant haze that fills the stands, enhancing the triumphant ambiance. The commentary continues with a brief mention of other teams' upcoming matches and a historical note about Liverpool's last FA Cup win in 2006, featuring Steven Gerrard. The players, including THIAGO and a scoring player, continue to celebrate with fans and receive applause from officials and dignitaries, encapsulating the emotional high of victory.",
+        "The triumphant aftermath of Liverpool's Emirates FA Cup Final 2022 victory at Wembley Stadium unfolds, as a male commentator's voice describes the historical significance of the event, noting how \"Jordan Henderson has held aloft many a trophy\" and calling this \"a new experience with this most famous of cups.\" Liverpool players, including Firmino (9), Robertson (6), and Fabinho (5), in red jerseys and gold medals, are seen celebrating on the stands, high-fiving and embracing the massive, densely packed Stadium Crowd, whose continuous cheering and clapping fill the air, amidst red smoke flares. The Liverpool Goalkeeper, in a bright green 'Expedia' jersey, shares a heartfelt hug with the Coach/Team Official, dressed in a black tracksuit, who later walks through the stadium corridor, raising his arms in celebration and engaging with fans. The ornate silver Emirates FA Cup Trophy, adorned with red ribbons, is prominently displayed as a dignitary presents it to the team, while the commentator emphasizes its global recognition and dramatic history, stating it \"takes you right to the edge.\" The commentator also addresses concerns about player injuries, mentioning \"Mo Salah and Virgil van Dijk in particular,\" and noting that \"Diaz and Robertson went off just through fatigue,\" which \"allowed Simikas to become the hero.\" Referees in black 'FIFA' and 'FA' uniforms are seen walking through the stands, receiving applause. Celebrating Staff and Substitutes in black and red attire join the huddle, embracing players. The 'Emirates FA Cup Winners 2022' banner is visible, reinforcing the achievement. The commentator concludes by confirming Liverpool are \"FA Cup winners for the eighth time,\" equaling Chelsea, and \"for the first time at the new Wembley,\" all set against the dynamic backdrop of shifting camera angles, bright stadium lights, and the jubilant sounds of the crowd.",
+        "The scene at Wembley Stadium at sunset captures the triumphant aftermath of Liverpool's Emirates FA Cup Final 2022 victory, with the iconic arch visible amidst red smoke and celebrating fans. Upbeat, celebratory music underscores the atmosphere as Liverpool players, in their red jerseys, are seen on the podium, adorned with gold medals. A commentator notes, \"The wait is for the skipper,\" identifying him shortly after as \"Jordan Henderson\" as he appears, reflecting the team's collective effort. The stadium announcer's booming voice declares, \"2022 Emirates FA Cup!\" and later, \"Liverpool! They are FA Cup winners 2022!\", confirming the championship as the large, ornate silver Emirates FA Cup Trophy with red ribbons is held aloft by a dignitary. The Stadium Crowd, densely packed and vibrant, claps, cheers, and roars in unison, their excitement palpable as red smoke flares add to the electric atmosphere, prompting the commentator to observe, \"The crowd are getting ready.\" Confetti rains down, enhancing the celebratory mood, with the 'EMIRATES FA CUP FINAL 2022' banner clearly visible. The commentator praises the team, stating, \"These reds are simply relentless!\" and later, \"A real team effort, a real squad effort.\" The Liverpool Goalkeeper, in a bright green jersey, embraces the Coach/Team Official, who is in a black tracksuit and cap, raising his arms and engaging warmly with fans. Other Liverpool Players, including Firmino (9), Robertson (6), and Fabinho (5), high-five and hug fans, displaying a deep connection with supporters, joined by Celebrating Staff and Substitutes in black and red attire, all contributing to the overwhelming sense of collective joy and triumph.",
+        "The jubilant aftermath of Liverpool's Emirates FA Cup Final 2022 victory at Wembley Stadium unfolds, with red confetti raining down and red flares adding to the vibrant haze as the densely packed crowd cheers loudly, creating an electric atmosphere. Commentators reflect on the game, noting \"Chelsea again at Wembley\" and how \"the finest of teams get there,\" even if \"Jürgen Klopp had to pick his penalty takers with great care.\" Liverpool players like Firmino (9), Robertson (6), and Fabinho (5) in red jerseys are seen celebrating on a raised platform, high-fiving and embracing fans who reach out from the stands. The Liverpool Goalkeeper, in a bright green jersey, triumphantly lifts the ornate silver Emirates FA Cup Trophy, sharing the emotional moment with teammates and officials. The Coach/Team Official, identified by commentators as Jürgen Klopp, in a black tracksuit, raises his arms, engaging with supporters. Commentators praise the team's \"magnificent\" season, despite not playing \"quite so well in the second half and extra time,\" concluding that \"everyone's played a part and deserve the feel of the trophy.\" The 'Emirates FA Cup Winners 2022' banner is prominently displayed on red barriers, reinforcing the significance of this hard-won championship as the stadium ambiance and celebratory music underscore the collective joy.",
+        "The segment opens at Wembley Stadium, a location explicitly confirmed by a male announcer who first offers \"commiserations to Chelsea\" before emphatically declaring \"Congratulations to the FA Cup winners, Liverpool!\" This announcement immediately ignites a massive crowd roar and cheer, perfectly mirroring the jubilant celebration unfolding on screen. Liverpool players, including Firmino (9), Robertson (6), and Fabinho (5), in their red jerseys, are seen joyfully interacting with the massive, densely packed crowd, high-fiving and hugging fans in the stands. One player proudly holds the ornate silver Emirates FA Cup Trophy aloft, adorned with red ribbons, surrounded by teammates and officials, all wearing gold medals. Red smoke flares fill the air, enhancing the vibrant, electric atmosphere of triumph and unity. An aerial shot at sunset showcases the iconic Wembley Stadium arch, emphasizing the grandeur of the moment before the scene transitions to a red screen with 'CLICK TO SUBSCRIBE'."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Chelsea Player": "Wearing a yellow jersey with 'MARCOS A.' and number 3, preparing and taking a penalty kick, then reacting with frustration after the save.",
+    "Liverpool Goalkeeper": "Dressed in a bright green jersey with 'Expedia' and Liverpool FC crest, embracing the Coach/Team Official in a heartfelt hug, reflecting emotional triumph.",
+    "Coach/Team Official": "Wearing a black tracksuit with red accents and a cap, raising arms in celebration, and engaging with fans.",
+    "Liverpool Players": "Wearing red jerseys, including Firmino (9), Robertson (6), and Fabinho (5), celebrating by high-fiving and hugging fans in the stands, displaying joy and connection with supporters, confirmed as the 'FA Cup winners' by the announcer.",
+    "Emirates FA Cup Final 2022 Banner": "Prominently displayed on red barriers, showing 'EMIRATES FA CUP FINAL 2022' and 'CELEBRATING 150 YEARS', reinforcing the event's significance.",
+    "Stadium Crowd": "Massive and densely packed, creating a vibrant atmosphere with clapping, cheering, and reaching out to players, filling the stands with energy and red smoke flares, their massive roar and cheer heard distinctly following the announcement of Liverpool as winners.",
+    "Liverpool Supporter": "Wearing a red shirt, holding a 'LIVERPOOL FC YOU'LL NEVER WALK ALONE' scarf, displaying emotion, part of the massive crowd whose loud roars and cheers are heard throughout the stadium, contributing to the electric atmosphere.",
+    "Arsenal Players": "Wearing yellow jerseys with black trim, including one with 'MARCOS A.' and number 3, preparing for a penalty kick with focused concentration.",
+    "Young Chelsea Fan": "Wearing a yellow jersey, shown with hands clasped, looking anxious, reflecting the 'desperate desolation' felt by Chelsea supporters.",
+    "Referees": "Wearing black uniforms with 'FIFA' and 'FA' logos, walking through the stands, holding a red cap, and receiving applause from officials and dignitaries.",
+    "Wembley Stadium": "Iconic stadium with a large arch, shown in an aerial view at sunset, filled with celebrating fans and red smoke, surrounded by cityscape, explicitly named by the announcer as the location of the event.",
+    "Liverpool Player": "Wearing a red jersey with 'THIAGO' and number 9, initially looking downcast after missing a penalty, then replaced by another player who scores and celebrates with a raised arm.",
+    "Liverpool Player (Scoring)": "Wearing a red jersey with 'BRENDAN' (likely a placeholder for a player like Salah or Mane), successfully scores a penalty and celebrates with a raised arm and pointing gesture.",
+    "Blue Flare": "A blue smoke flare lit on the pitch, adding to the chaotic and emotional atmosphere during the celebration.",
+    "Red Flares": "Multiple red smoke flares lit by fans in the stands, creating a dense, vibrant haze that fills the stadium and enhances the celebratory atmosphere.",
+    "Celebrating Staff and Substitutes": "Non-playing personnel in black and red attire, joining the players in a huddle and embracing them in celebration.",
+    "Chelsea Players": "Wearing yellow jerseys with black trim, '3' and 'HYUNDAI' logos, and red medals, walking through a stadium corridor, shaking hands with fans and officials, displaying pride and exhaustion, with commentators specifically discussing Mason Mount's penalty miss and expressing sympathy for him, while an announcer mistakenly calls out 'Chelsea!' amidst the post-match scene.",
+    "Liverpool Player (THIAGO)": "Wearing a red jersey with 'THIAGO' and number 9, initially looking downcast as he walks off the pitch.",
+    "Chelsea Fan": "Wearing a blue Chelsea jersey with '3' and 'HYUNDAI' on the sleeve, covering his face in disappointment in the stands, reflecting the 'woeful Chelsea' described by commentators.",
+    "Referee (BARKLEY)": "Wearing a yellow jersey with 'BARKLEY' on the back, interacting with the Chelsea player MENDY.",
+    "Chelsea Player (MENDY)": "Wearing a white jersey with 'MENDY' and number 16, walking away from the pitch with a somber, dejected expression, embodying the 'desperation' felt by Chelsea at the end of the match.",
+    "Young Liverpool Supporter": "Wearing a red Liverpool FC jersey with 'Standard Chartered' and 'LFC' logos, clapping and showing visible emotion in the stands.",
+    "Liverpool Player (Tattooed)": "Wearing a red Liverpool jersey with 'Standard Chartered' and visible tattoos on his arms, clapping and looking around emotionally.",
+    "Chelsea Player (MARCOS A.)": "Wearing a yellow jersey with 'MARCOS A.' and number 3, walking through a stadium corridor with a focused expression, hands on hips, descending steps toward the pitch.",
+    "Stadium Corridor": "A narrow, dimly lit passageway with metal railings and red seats, where players and staff walk through, shaking hands with fans and officials.",
+    "Uniformed Officer": "Dressed in a dark blue uniform with white gloves, carrying a tray of red caps, walking through the stadium corridor.",
+    "Emirates FA Cup Trophy": "A large, ornate silver trophy with red ribbons, held by a Liverpool player aloft, symbolizing the championship victory for the 'FA Cup winners'."
+  }
+}

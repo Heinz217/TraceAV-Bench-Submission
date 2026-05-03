@@ -1,0 +1,396 @@
+{
+  "video_id": "video389",
+  "audio_id": "video389_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "A nighttime exterior shot of a building with a brightly lit blue and white 'TONY AWARDS' neon sign transitions indoors to a warmly lit room. A man, James, wearing a dark navy zip-up hoodie over a gray turtleneck and dark pants, sits on a beige couch adorned with patterned throw pillows, flanked by wooden shutters, decorative wall sconces, and abstract wall art. On-screen graphics show 'LIVE' and a 'TV PG L' rating, with the CBS logo in the bottom right. Following a brief applause, James, holding a small black object, asks, \"How many shows left on my queue?\" A synthesized female voice replies, \"You have 24,601 shows remaining, James. Shall I play them?\" James instructs, \"Yeah, play my queue.\" As the camera zooms in on his reflective face, a dramatic, orchestral musical accompaniment begins, and James sings a comedic song about binge-watching, referencing Netflix, Hulu, and Amazon, and acknowledging network TV as \"wonderful, obviously,\" gesturing subtly with his hands.",
+      "involved_entities": {
+        "Beige Couch": {
+          "description": "A plush, light beige couch with two patterned throw pillows, one red and orange striped, the other beige and brown striped, positioned in a warmly lit room with wooden shutters and decorative wall sconces.",
+          "attribute": "visual"
+        },
+        "Abstract Wall Art": {
+          "description": "A framed piece of abstract line art in blue and black tones, mounted on the wall behind the couch, adding a modern aesthetic to the room.",
+          "attribute": "visual"
+        },
+        "CBS Logo": {
+          "description": "A circular CBS eye logo displayed in the bottom right corner of the screen, indicating the network broadcasting the live segment.",
+          "attribute": "visual"
+        },
+        "TV PG L Rating": {
+          "description": "A black box with white text reading 'TV PG L' in the top left corner, indicating the content rating for the broadcast.",
+          "attribute": "visual"
+        },
+        "Man on Couch": {
+          "description": "A man with short light brown hair, wearing a dark navy zip-up hoodie over a gray turtleneck and dark pants, seated on a beige couch. He holds a small black object in his hands and speaks with subtle gestures and facial expressions, appearing engaged and reflective. He is identified as 'James' by a female voice and sings a comedic song about binge-watching to an orchestral accompaniment.",
+          "attribute": "audio-visual"
+        },
+        "TONY AWARDS Neon Sign": {
+          "description": "A bright blue and white neon sign shaped like a circular emblem with 'TONY AWARDS' written vertically, mounted on the exterior of a building at night, indicating the event's location or theme.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a nighttime exterior shot of a building, prominently featuring a brightly lit blue and white neon sign that reads 'TONY AWARDS', setting a theatrical tone. The scene then transitions indoors to a warmly lit room where a man, identified as James by an unseen voice, is seated on a beige couch. He wears a dark navy zip-up hoodie over a gray turtleneck and dark pants, flanked by patterned throw pillows. The room is adorned with wooden shutters, decorative wall sconces, and abstract artwork. On-screen graphics display 'LIVE' and a 'TV PG L' rating, with the CBS logo in the bottom right, indicating a live broadcast. After a brief moment of applause, James, holding a small black object, initially asks, \"How many shows left on my queue?\" to which a calm, synthesized female voice responds, \"You have 24,601 shows remaining, James. Shall I play them?\" He then instructs, \"Yeah, play my queue.\" As the camera slowly zooms in on his reflective face, a dramatic, orchestral musical accompaniment with a theatrical feel begins, and James starts to sing a comedic song about the perils of binge-watching, referencing Netflix, Hulu, and Amazon, and acknowledging network TV as \"wonderful, obviously.\" He gestures subtly with his hands as he delivers the humorous lyrics, maintaining a composed yet engaging demeanor throughout his performance."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 2,
+      "summary": "A man with short light brown hair, wearing a dark navy zip-up hoodie, sits on a plush beige couch with patterned throw pillows, holding a black remote and singing about distant, unfinished shows. The scene, initially a warmly lit living room with wooden shutters, Abstract Wall Art, a CBS Logo, and a TV PG L Rating, transitions dramatically as he sings, \"Trade the remote for the near. Leave your couch and travel here.\" The camera pulls back, revealing the couch now on a stage in a dimly lit concert hall before a massive audience. The environment then shifts to a vibrant, neon-lit cityscape with blue vertical lights and illuminated skyscrapers, accompanied by enthusiastic audience applause and cheers. A woman in a sparkling gold bodysuit emerges, followed by two men in white shirts and black suspenders who perform acrobatic moves around the couch. The Man on Couch is lifted and spun by the performers in a choreographed sequence, transforming the scene into a dynamic stage performance as he continues to sing about live experiences with actual people in an actual space.",
+      "involved_entities": {
+        "Beige Couch": {
+          "description": "A plush, light beige couch with two patterned throw pillows, one red and orange striped, the other beige and brown striped, positioned initially in a warmly lit room with wooden shutters and decorative wall sconces. It later becomes a central prop on a stage, surrounded by performers.",
+          "attribute": "visual"
+        },
+        "Woman in Gold Bodysuit": {
+          "description": "A woman wearing a sparkling gold, form-fitting bodysuit with long sleeves, who emerges from behind the couch and performs dance and acrobatic moves on stage, interacting with the Man on Couch and other performers.",
+          "attribute": "visual"
+        },
+        "Men in White Shirts and Suspenders": {
+          "description": "Two men dressed in white shirts, black suspenders, and dark pants, who perform synchronized acrobatic moves around the couch, lifting and spinning the Man on Couch as part of a choreographed stage routine.",
+          "attribute": "visual"
+        },
+        "TV PG L Rating": {
+          "description": "A black box with white text reading 'TV PG L' in the top left corner, indicating the content rating for the broadcast. It appears consistently during the segment.",
+          "attribute": "visual"
+        },
+        "Abstract Wall Art": {
+          "description": "A framed piece of abstract line art in blue and black tones, mounted on the wall behind the couch, adding a modern aesthetic to the room. It is visible only in the initial living room setting before the scene transitions.",
+          "attribute": "visual"
+        },
+        "CBS Logo": {
+          "description": "A circular CBS eye logo displayed in the bottom right corner of the screen, indicating the network broadcasting the live segment. It remains visible throughout the entire sequence.",
+          "attribute": "visual"
+        },
+        "Neon Cityscape Backdrop": {
+          "description": "A vibrant stage background featuring a stylized city skyline with blue neon lights outlining skyscrapers and vertical light beams, creating a dynamic, futuristic atmosphere for the performance.",
+          "attribute": "visual"
+        },
+        "Man on Couch": {
+          "description": "A man with short light brown hair, wearing a dark navy zip-up hoodie over a gray turtleneck and dark pants, seated on a beige couch. He holds a small black object in his hands and sings with subtle gestures and facial expressions, appearing engaged and reflective, delivering lyrics about \"images of actors who aren't there,\" encouraging viewers to \"Leave your couch and travel here\" for \"a different kind of show\" with \"actual people in an actual space.\" Later, he is lifted and spun by performers during a choreographed stage act.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of the Man on Couch, a man with short light brown hair wearing a dark navy zip-up hoodie, seated on a plush beige couch adorned with two patterned throw pillows. He holds a small black remote and sings with subtle gestures, his voice carrying a melodic tune about \"images of actors who aren't there, playing parts in shows made far away, unfinished, long ago.\" The warmly lit living room, featuring wooden shutters and Abstract Wall Art, is initially visible, with the CBS Logo and TV PG L Rating consistently displayed. As he continues to sing, \"Trade the remote for the near. Leave your couch and travel here,\" the camera pulls back, and the backdrop dramatically dissolves from the living room into a vast, dimly lit concert hall filled with a massive audience. The couch is now on a stage, and the Man on Couch reacts with surprise as the environment shifts again to a vibrant, neon-lit cityscape with blue vertical lights and illuminated skyscrapers. Enthusiastic audience applause and cheers erupt as he sings, \"And experience a different kind of show.\" A woman in a sparkling gold bodysuit then emerges from behind the couch, followed by two men in white shirts and black suspenders who perform acrobatic moves around the couch. The Man on Couch is lifted and spun by the performers in a choreographed sequence, transforming the scene into a dynamic stage performance, all while he continues to sing about \"the kind that's live... actual people in an actual space, watching actors who are actually there.\""
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 3,
+      "end_minute": 6,
+      "summary": "The 73rd Annual Tony Awards commenced with a vibrant, high-energy opening number on a stage featuring a Neon Cityscape Backdrop and illuminated posters for 'Ain't Too Proud,' 'Beetlejuice,' 'Tootsie,' 'Hamilton,' 'The Prom,' 'Kiss Me, Kate!,' and 'Oklahoma!.' The Man on Couch, initially in a hoodie, was dynamically lifted and spun by Men in White Shirts and Suspenders, while the Woman in Gold Bodysuit performed acrobatic feats around a Beige Couch. The Man on Couch then transformed into the host, the Man in Red Tuxedo Jacket, who, with the CBS Logo and TV PG L Rating visible, greeted the audience, humorously interrupting himself to address a Man in a Gray Pinstripe Suit. The performance emphasized the live nature of theater with lyrics about not streaming or monthly billing, and the unique bliss of live performance, with the host and ensemble, including the Woman in Gold Bodysuit (later in a gold sequined gown), Man in Black Tuxedo with Bow Tie, Man with Green Hair, Woman in Black Sequined Dress, and Man in Silver Suit with Teal Bow Tie, singing about theater's grand tradition and its superiority to television, culminating in a celebratory formation with synchronized arm raises and audience cheers.",
+      "involved_entities": {
+        "Beige Couch": {
+          "description": "A plush, light beige couch with two patterned throw pillows, now positioned center stage as a prop in a high-energy performance, surrounded by dancers and used as a focal point for acrobatic lifts and spins.",
+          "attribute": "visual"
+        },
+        "Man in Gray Pinstripe Suit": {
+          "description": "A man with graying hair, wearing a gray pinstripe suit with a blue bow tie and a blue ribbon pinned to his lapel, who reacts with expressive hand gestures and animated facial expressions, likely serving as a judge or commentator, and is heard trying to interject with 'Brian! Brian! Brian! You can't!' during a comedic dialogue segment.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Gold Bodysuit": {
+          "description": "A woman wearing a sparkling gold, form-fitting bodysuit with long sleeves, now seen in a shimmering gold sequined gown, standing prominently in the ensemble and reacting with expressive gestures.",
+          "attribute": "visual"
+        },
+        "Men in White Shirts and Suspenders": {
+          "description": "Two men dressed in white shirts, black suspenders, and dark pants, who are part of the background dance ensemble, performing synchronized movements and interacting with the host and other performers.",
+          "attribute": "visual"
+        },
+        "Man in Red Tuxedo Jacket": {
+          "description": "A man with short light brown hair, wearing a vibrant red tuxedo jacket with a black bow tie and white shirt, who serves as the central host figure, confidently walking, gesturing expressively, and speaking directly to the audience with a clear, engaging voice, later leading the ensemble in a grand, theatrical song.",
+          "attribute": "audio-visual"
+        },
+        "Neon Cityscape Backdrop": {
+          "description": "A vibrant stage background featuring a stylized city skyline with blue neon lights outlining skyscrapers and vertical light beams, creating a dynamic, futuristic atmosphere for the performance.",
+          "attribute": "visual"
+        },
+        "CBS Logo": {
+          "description": "A circular CBS eye logo displayed in the bottom right corner of the screen, indicating the network broadcasting the live segment. It remains visible throughout the entire sequence.",
+          "attribute": "visual"
+        },
+        "TV PG L Rating": {
+          "description": "A black box with white text reading 'TV PG L' in the top left corner, indicating the content rating for the broadcast. It appears consistently during the segment.",
+          "attribute": "visual"
+        },
+        "Man on Couch": {
+          "description": "A man with short light brown hair, initially wearing a dark navy zip-up hoodie over a gray turtleneck and dark pants, seated on the Beige Couch. He is lifted and spun by performers during a choreographed stage act, then changes into a vibrant red tuxedo jacket with a black bow tie, becoming the host, James Corden, who walks across the stage, engages with the audience, introduces the 73rd Annual Tony Awards, and humorously addresses someone named Brian.",
+          "attribute": "audio-visual"
+        },
+        "Ain't Too Proud Poster": {
+          "description": "A large, illuminated poster for 'Ain't Too Proud: The Life and Times of The Temptations,' featuring images of the musical's cast, serving as a backdrop for a segment of the dance performance, and directly referenced in the lyrics sung by the Man in Red Tuxedo Jacket.",
+          "attribute": "audio-visual"
+        },
+        "Tootsie Poster": {
+          "description": "A large, illuminated poster for 'Tootsie,' featuring a stylized image of a woman with red glasses and red lips, serving as a backdrop for a segment of the performance.",
+          "attribute": "visual"
+        },
+        "Beetlejuice Poster": {
+          "description": "A large, illuminated poster for 'Beetlejuice: The Musical,' with bold black and white graphics and the title prominently displayed, used as a backdrop during the dance routine.",
+          "attribute": "visual"
+        },
+        "Hamilton Poster": {
+          "description": "A large, illuminated poster for 'Hamilton: The Musical,' with bold red and black graphics and the title prominently displayed, used as a backdrop during the dance routine.",
+          "attribute": "visual"
+        },
+        "The Prom Poster": {
+          "description": "A large, illuminated poster for 'The Prom,' featuring colorful graphics of characters in prom attire, serving as a backdrop for a segment of the dance performance.",
+          "attribute": "visual"
+        },
+        "Oklahoma! Poster": {
+          "description": "A large, illuminated poster for 'Oklahoma!,' with a rustic design and the title in bold letters, serving as a backdrop for a segment of the performance.",
+          "attribute": "visual"
+        },
+        "Kiss Me, Kate! Poster": {
+          "description": "A large, illuminated poster for 'Kiss Me, Kate!,' featuring bold red and white graphics with the title prominently displayed, used as a backdrop during the dance routine.",
+          "attribute": "visual"
+        },
+        "Woman in Black Sequined Dress": {
+          "description": "A woman wearing a short black sequined dress with a high neckline and black boots, standing on the far left of the group, reacting with wide eyes and a smile.",
+          "attribute": "visual"
+        },
+        "Man in Black Tuxedo with Bow Tie": {
+          "description": "A man in a classic black tuxedo with a black bow tie, standing on the right side of the ensemble, holding a small object and smiling as part of the group.",
+          "attribute": "visual"
+        },
+        "Woman in White Gown": {
+          "description": "A woman with blonde hair wearing a flowing white gown with a deep V-neckline, standing beside the host and participating in the ensemble with expressive facial reactions and gestures.",
+          "attribute": "visual"
+        },
+        "Man in Silver Suit with Teal Bow Tie": {
+          "description": "A man with graying hair wearing a shiny silver suit with a teal bow tie and a white boutonniere, standing next to the host and reacting with animated expressions during the group performance.",
+          "attribute": "visual"
+        },
+        "Man with Green Hair": {
+          "description": "A man with bright green hair, wearing a black suit with a white shirt and black tie, standing on the left side of the ensemble, displaying expressive facial reactions.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens on a brightly lit stage with a vibrant Neon Cityscape Backdrop, where an energetic, theatrical performance unfolds to upbeat, show-tune style music featuring a male vocalist singing about the unique, unrepeatable bliss of live performance. The Man on Couch, initially in a dark hoodie, is dynamically lifted and spun by two Men in White Shirts and Suspenders, while a Woman in Gold Bodysuit performs acrobatic splits and flips around the Beige Couch. As the music swells, the Man on Couch is dramatically maneuvered through the air before landing back on the couch and then standing. He swiftly changes into a striking red tuxedo jacket with a black bow tie, transforming into the host. With the CBS Logo visible in the bottom right and the TV PG L Rating in the top left, he confidently walks along a curved stage path, gesturing to the cheering and clapping audience, who are shown in wide shots. The music transitions to a more prominent theme as the host, James Corden, greets the audience, announcing, \"Good evening, ladies and gentlemen, and welcome to this. It's the 73rd Annual Tony Awards. I'm your host, James Corden.\" He begins to introduce a segment but humorously interrupts himself, asking, \"Excuse me, Brian, where are you going?\" The camera then cuts to a close-up of a Man in a Gray Pinstripe Suit, who appears to be speaking or reacting with expressive hand gestures, possibly a judge or commentator, as the host's question hangs in the air.",
+        "The segment opens with a wide shot of a packed theater audience, their attention fixed on a stage illuminated by vibrant blue and white lights, featuring a dynamic neon cityscape backdrop. A man's voice is heard declaring, 'I just have to go to the bathroom,' to which another voice, likely the Man in Gray Pinstripe Suit, urgently responds, 'Now? I mean, the show literally just started. We're in the middle of the opening number!' The first man insists, 'I know, but I I I really have to go,' then dramatically shouts, 'I am bloated as hell! And I'm not gonna take it anymore!' as the audience laughs. The Man in Gray Pinstripe Suit tries to interject, 'Brian! Brian! Brian! You can't!' Suddenly, upbeat show-tune music swells, and the Man in Red Tuxedo Jacket, leading a choreographed dance, begins to sing with a powerful, theatrical voice, 'Guys, we do it live. We go on stage and make it proud for you,' directly referencing the 'Ain't Too Proud' poster. He is joined by the Woman in Gold Bodysuit and the Men in White Shirts and Suspenders, who execute synchronized acrobatic moves around a Beige Couch. The stage is adorned with large, illuminated musical posters for 'Beetlejuice,' 'Tootsie,' 'Hamilton,' and 'The Prom.' The Man in Red Tuxedo Jacket continues to sing, 'The decision comes now. Get ready,' and later, 'I'm gonna live, I'm gonna prepare to shake an extra leg for you,' followed by 'Eight times a week, our actors excel at dancing in heels with a plum,' and 'Eight times a week, we go straight to hell.' He then explicitly references 'The Prom' poster with 'Eight times a week, we go gay to 'The Prom'.' The performers move dynamically across the stage, interacting with the various posters and engaging the audience with high-energy dance moves. The atmosphere is electric, with the audience clapping and cheering throughout the lively and entertaining show. The CBS Logo remains visible in the bottom right corner, and the TV PG L Rating is displayed in the top left.",
+        "The video opens with the Man in Red Tuxedo Jacket, now fully transformed, energetically walking across a vibrant stage illuminated by blue and purple lights, surrounded by a dynamic ensemble including the Woman in Gold Bodysuit and Men in White Shirts and Suspenders, all executing synchronized, acrobatic dance moves. An upbeat, theatrical show tune plays, with the Man in Red Tuxedo Jacket singing lyrics like \"When we revive, you can't say no to a morning that's unmissable\" and \"Live, you can't contrive another opening of a show more kissable,\" emphasizing the theatrical theme. As he leads the choreography with expressive gestures, the stage backdrop shifts between illuminated posters for 'The Prom,' 'Kiss Me, Kate!,' and 'Oklahoma!,' further reinforcing the musical theater context. He dramatically sips from a red-capped water bottle while continuing to dance, and the group performs a high-energy routine with sharp, coordinated steps. The music builds with lyrics \"We work for months in advance, 'cause when you see us tonight, we get just one chance.\" The routine culminates in a formation where the Man in Red Tuxedo Jacket addresses the audience, gesturing with his hands, as the music abruptly stops with a flourish. He then speaks directly, instructing the performers, \"That's great everyone, take five! Take five! Take five!\" to the sound of audience cheers and applause. He continues, \"Well, thanks Sebastian, I appreciate it,\" and then assesses the performance, stating, \"I think it's good. I think it's good, it feels tight. It feels tight, it feels good.\" He then tries to give further instructions, \"Hey, everybody, everybody, attention, attention, listen, listen, just remember next time we do it, just really try and get that very...\" before interrupting himself with \"Oh, wait.\" The upbeat music immediately resumes with him singing, \"I forgot the performance cannot take a break,\" as the lively and theatrical atmosphere, enhanced by sparkling stage lights and a neon cityscape backdrop, continues. The CBS Logo and TV PG L Rating remain visible throughout.",
+        "The segment opens with the Man in Red Tuxedo Jacket, clearly the host, walking confidently across the stage as a group of dancers in sparkling gold bodysuits and men in white shirts with suspenders perform dynamic choreography behind him, all set against a vibrant Neon Cityscape Backdrop glowing with blue neon outlines of skyscrapers. The host gestures expressively, engaging the audience with animated hand movements and a charismatic presence, speaking directly in a clear, engaging voice, \"Cause this is live. Yeah. You're not watching a signal beaming. None of our shows are streaming. They don't just start anytime. Do you mind, can you? Yeah. We don't charge by a monthly billing. Nobody's Broadway chilling. And no one's on Broadway prime.\" As the upbeat, theatrical music swells, he is joined by a large ensemble of performers, including the Woman in Gold Bodysuit, now in a shimmering gold sequined gown, and other cast members in formal attire such as tuxedos, a white gown worn by the Woman in White Gown, and a silver suit with a teal bow tie on the Man in Silver Suit with Teal Bow Tie. The group forms a tight, celebratory line, raising their arms in unison, singing in a grand, show-tune style, \"We're the theater of a grand tradition. The stage is our noble mission. If you're in our bones. We're much better than television. We view it with great derision. Well, except Game of Thrones. And Fleabag. And Handmaid's Tale. And Killing Eve. And Castle Rock and Walking Dead and Dead...\" The host continues to lead with enthusiasm, pointing and speaking to the audience, while the performers around him, including the Man in Black Tuxedo with Bow Tie, the Man with Green Hair, and the Woman in Black Sequined Dress, react with smiles and expressive gestures, all contributing to the energetic, celebratory mood suggesting a finale or curtain call, accompanied by applause and cheers. The CBS Logo remains visible in the bottom right corner, and the TV PG L Rating is displayed in the top left throughout the broadcast."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 7,
+      "end_minute": 7,
+      "summary": "The Man in Red Tuxedo Jacket, identified as James Corden, energetically delivers a rapid-fire comedic monologue on a vibrant stage with a neon cityscape backdrop, listing TV shows and gesturing expressively. The Woman in White Gown and the Man in Silver Suit with Teal Bow Tie react with wide-eyed surprise, while the Woman in Gold Bodysuit, now in a shimmering gown, claps and smiles, joined by the Man with Green Hair, the Woman in Black Sequined Dress, and the Man in Black Tuxedo with Bow Tie, all displaying animated expressions. Corden concludes by announcing, \"And the Late Late Show with me!\" to applause, then promotes his show on CBS, eliciting more laughter and applause. As the camera zooms in, Corden feigns panic, retracting his statements and blaming \"Audra McDonald,\" which causes more laughter. He professes his love for \"TV,\" stating, \"We all love you, you pay us so much more money than the theater!\" The ensemble responds with synchronized gestures and expressions of awe, raising their hands in unison. The segment concludes with Corden's comedic query, \"Law and Order corpses?\", with the CBS Logo and TV PG L Rating visible.",
+      "involved_entities": {
+        "Woman in Gold Bodysuit": {
+          "description": "A woman wearing a sparkling gold, form-fitting bodysuit with long sleeves, now seen in a shimmering gold sequined gown, standing prominently in the ensemble and reacting with expressive gestures.",
+          "attribute": "visual"
+        },
+        "Man in Black Tuxedo with Bow Tie": {
+          "description": "A man in a classic black tuxedo with a black bow tie, standing on the right side of the ensemble, holding a small object and smiling as part of the group.",
+          "attribute": "visual"
+        },
+        "Man in Red Tuxedo Jacket": {
+          "description": "A man with short light brown hair, wearing a vibrant red tuxedo jacket with a black bow tie and white shirt, who leads the ensemble as the central host figure, identified as James Corden. He delivers a rapid-fire, energetic comedic monologue, promotes 'The Late Late Show with James Corden' on CBS, and engages in a humorous retraction, blaming 'Audra McDonald' for his words, all to audience laughter and applause.",
+          "attribute": "audio-visual"
+        },
+        "Man in Silver Suit with Teal Bow Tie": {
+          "description": "A man with graying hair wearing a shiny silver suit with a teal bow tie and a white boutonniere, standing next to the host and reacting with animated expressions during the group performance.",
+          "attribute": "visual"
+        },
+        "Man with Green Hair": {
+          "description": "A man with bright green hair, wearing a black suit with a white shirt and black tie, standing on the left side of the ensemble, displaying expressive facial reactions.",
+          "attribute": "visual"
+        },
+        "Woman in White Gown": {
+          "description": "A woman with blonde hair wearing a flowing white gown with a deep V-neckline, standing beside the host and participating in the ensemble with expressive facial reactions and gestures.",
+          "attribute": "visual"
+        },
+        "Neon Cityscape Backdrop": {
+          "description": "A vibrant stage background featuring a stylized city skyline with blue neon lights outlining skyscrapers and vertical light beams, creating a dynamic, futuristic atmosphere for the performance.",
+          "attribute": "visual"
+        },
+        "Woman in Black Sequined Dress": {
+          "description": "A woman wearing a short black sequined dress with a high neckline and black boots, standing on the far left of the group, reacting with wide eyes and a smile.",
+          "attribute": "visual"
+        },
+        "CBS Logo": {
+          "description": "A circular CBS eye logo displayed in the bottom right corner of the screen, indicating the network broadcasting the live segment, which the host explicitly promotes as 'right here on CBS, America's most-watched network.' It remains visible throughout the entire sequence.",
+          "attribute": "audio-visual"
+        },
+        "TV PG L Rating": {
+          "description": "A black box with white text reading 'TV PG L' in the top left corner, indicating the content rating for the broadcast. It appears consistently during the segment.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a wide shot of a vibrant stage performance, featuring a large ensemble in formal and theatrical attire against a neon cityscape backdrop. At the center, the Man in Red Tuxedo Jacket, identified as James Corden, energetically delivers a rapid-fire comedic monologue, listing various TV shows like \"Stranger Things,\" \"Orange is the New Black Mirror,\" and \"Marvelous Mrs. Maisel.\" He gestures expressively, leading the group, while the Woman in White Gown and the Man in Silver Suit with Teal Bow Tie react with wide-eyed surprise and open mouths. The Woman in Gold Bodysuit, now in a shimmering gown, claps and smiles, as do the Man with Green Hair, the Woman in Black Sequined Dress, and the Man in Black Tuxedo with Bow Tie, all displaying animated expressions. Corden concludes his segment by announcing, \"And the Late Late Show with me!\" to enthusiastic audience applause and cheers. He then promotes his show, stating, \"Weeknights at 12:30, right here on CBS, America's most-watched network,\" prompting more audience laughter and applause. As the camera zooms in, Corden continues his passionate, comedic performance, feigning panic and retracting his previous statements, exclaiming, \"Oh my god, what am I doing? What am I saying? I didn't mean anything I just said!\" He humorously blames \"Audra McDonald\" for making him say it, which elicits more laughter. He then professes his love for \"TV,\" explaining, \"We all love you, you pay us so much more money than the theater!\" The ensemble responds with synchronized gestures and expressions of awe, raising their hands in unison during this dynamic, celebratory moment, all under bright theatrical lighting. The segment concludes with Corden's abrupt, comedic query, \"Law and Order corpses?\", as the CBS Logo and TV PG L Rating remain visible."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 8,
+      "end_minute": 10,
+      "summary": "The Man in Red Tuxedo Jacket, with short light brown hair, opens the segment with an animated declaration about Broadway, quickly transitioning to a wide shot where he leads a dynamic ensemble, including the Woman in Gold Bodysuit and Men in White Shirts and Suspenders, in synchronized choreography against a vibrant Neon Cityscape Backdrop. A show-tune style song with strong brass elements begins, and the host humorously sings about Broadway's drawbacks, such as 'steep' ticket prices and 'limited legroom,' while dancers execute sharp, energetic movements. Dramatic blue and white neon lighting highlights the performers. The music shifts to a more dramatic, orchestral sound as the host delivers a heartfelt ode to live performance, describing its ability to 'lighten your spirit and gladden your heart,' engaging the audience with raised hands and a smile. The scene then shifts to a grand, circular performance area at the Tony Awards, featuring illuminated posters for musicals like Ain't Too Proud, Beetlejuice, Tootsie, Hamilton, The Prom, Kiss Me, Kate!, and Oklahoma!, with the TONY AWARDS logo at the center. The Man in Red Tuxedo Jacket sings about feeling \"alive\" and \"present\" on stage, joined by the ensemble, including the Men in White Shirts and Suspenders and the Woman in Gold Bodysuit, who is now in a shimmering gold sequined gown. The performance crescendos with the ensemble dancing in unison, culminating in a wide shot as the chorus emphatically sings, \"Broadway's alive! And that is worthy to be celebrated!\" Audience members, including the Man in Gray Pinstripe Suit and the Man in Silver Suit with Teal Bow Tie, react with excitement and applause. The segment concludes with the Man in Red Tuxedo Jacket raising his arms triumphantly after singing, \"It's the Tonys and we are... LIVE!,\" met by loud, sustained applause and cheers from the audience. The CBS Logo and TV PG L Rating remain visible throughout.",
+      "involved_entities": {
+        "Woman in Gold Bodysuit": {
+          "description": "A woman wearing a sparkling gold, form-fitting bodysuit with long sleeves, now seen in a shimmering gold sequined gown, standing prominently in the ensemble and reacting with expressive gestures.",
+          "attribute": "visual"
+        },
+        "Neon Cityscape Backdrop": {
+          "description": "A vibrant stage background featuring a stylized city skyline with blue neon lights outlining skyscrapers and vertical light beams, creating a dynamic, futuristic atmosphere for the performance.",
+          "attribute": "visual"
+        },
+        "Men in White Shirts and Suspenders": {
+          "description": "Two men dressed in white shirts, black suspenders, and dark pants, who are part of the background dance ensemble, performing synchronized movements and interacting with the host and other performers.",
+          "attribute": "visual"
+        },
+        "CBS Logo": {
+          "description": "A circular CBS eye logo displayed in the bottom right corner of the screen, indicating the network broadcasting the live segment. It remains visible throughout the entire sequence.",
+          "attribute": "visual"
+        },
+        "TV PG L Rating": {
+          "description": "A black box with white text reading 'TV PG L' in the top left corner, indicating the content rating for the broadcast. It appears consistently during the segment.",
+          "attribute": "visual"
+        },
+        "Man in Red Tuxedo Jacket": {
+          "description": "A man with short light brown hair, now wearing a vibrant red tuxedo jacket with a black bow tie and white shirt, serving as the host and lead vocalist who sings with a powerful, theatrical tenor voice, leading the ensemble with expressive gestures and animated speech, having been lifted and spun by dancers during the performance.",
+          "attribute": "audio-visual"
+        },
+        "Man in Gray Pinstripe Suit": {
+          "description": "A man with graying hair, wearing a gray pinstripe suit with a blue bow tie and a blue ribbon pinned to his lapel, who is seen clapping and cheering enthusiastically, contributing to the audible audience reaction.",
+          "attribute": "audio-visual"
+        },
+        "Beetlejuice Poster": {
+          "description": "A large, illuminated poster for 'Beetlejuice: The Musical,' with bold black and white graphics and the title prominently displayed, used as a backdrop during the dance routine.",
+          "attribute": "visual"
+        },
+        "Hamilton Poster": {
+          "description": "A large, illuminated poster for 'Hamilton: The Musical,' with bold red and black graphics and the title prominently displayed, used as a backdrop during the dance routine.",
+          "attribute": "visual"
+        },
+        "Man in Silver Suit with Teal Bow Tie": {
+          "description": "A man with graying hair wearing a shiny silver suit with a teal bow tie and a white boutonniere, who is seen clapping and cheering enthusiastically, contributing to the audible audience reaction.",
+          "attribute": "audio-visual"
+        },
+        "Kiss Me, Kate! Poster": {
+          "description": "A large, illuminated poster for 'Kiss Me, Kate!,' featuring bold red and white graphics with the title prominently displayed, used as a backdrop during the dance routine.",
+          "attribute": "visual"
+        },
+        "Ain't Too Proud Poster": {
+          "description": "A large, illuminated poster for 'Ain't Too Proud: The Life and Times of The Temptations,' featuring images of the musical's cast, serving as a backdrop for a segment of the dance performance.",
+          "attribute": "visual"
+        },
+        "Tootsie Poster": {
+          "description": "A large, illuminated poster for 'Tootsie,' featuring a stylized image of a woman with red glasses and red lips, serving as a backdrop for a segment of the performance.",
+          "attribute": "visual"
+        },
+        "TONY AWARDS Neon Sign": {
+          "description": "A bright blue and white neon sign shaped like a circular emblem with 'TONY AWARDS' written vertically, mounted on the stage backdrop, indicating the event's theme.",
+          "attribute": "visual"
+        },
+        "The Prom Poster": {
+          "description": "A large, illuminated poster for 'The Prom,' featuring colorful graphics of characters in prom attire, serving as a backdrop for a segment of the dance performance.",
+          "attribute": "visual"
+        },
+        "Oklahoma! Poster": {
+          "description": "A large, illuminated poster for 'Oklahoma!,' with a rustic design and the title in bold letters, serving as a backdrop for a segment of the performance.",
+          "attribute": "visual"
+        },
+        "Man in Black Tuxedo with Bow Tie": {
+          "description": "A man in a classic black tuxedo with a black bow tie, standing on the right side of the ensemble, holding a small object and smiling as part of the group.",
+          "attribute": "visual"
+        },
+        "Woman in Black Sequined Dress": {
+          "description": "A woman wearing a short black sequined dress with a high neckline and black boots, standing on the far left of the group, reacting with wide eyes and a smile.",
+          "attribute": "visual"
+        },
+        "Man on Couch": {
+          "description": "A man with short light brown hair, now wearing a vibrant red tuxedo jacket with a black bow tie and white shirt, serving as the host who leads the ensemble with expressive gestures and animated speech, having been lifted and spun by dancers during the performance.",
+          "attribute": "visual"
+        },
+        "Beige Couch": {
+          "description": "A plush, light beige couch with two patterned throw pillows, now positioned center stage as a prop in a high-energy performance, surrounded by dancers and used as a focal point for acrobatic lifts and spins.",
+          "attribute": "visual"
+        },
+        "Man with Green Hair": {
+          "description": "A man with bright green hair, wearing a black suit with a white shirt and black tie, standing on the left side of the ensemble, displaying expressive facial reactions.",
+          "attribute": "visual"
+        },
+        "Woman in White Gown": {
+          "description": "A woman with blonde hair wearing a flowing white gown with a deep V-neckline, standing beside the host and participating in the ensemble with expressive facial reactions and gestures.",
+          "attribute": "visual"
+        },
+        "Abstract Wall Art": {
+          "description": "A framed piece of abstract line art in blue and black tones, mounted on the wall behind the couch, adding a modern aesthetic to the room. It is visible only in the initial living room setting before the scene transitions.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of the Man in Red Tuxedo Jacket, a man with short light brown hair in a vibrant red tuxedo, who animatedly speaks to the audience, declaring in a clear, engaging voice, 'Look, let me level with you about Broadway.' His lively tone sets the stage as the scene quickly transitions to a wide shot, revealing him center stage, surrounded by a dynamic ensemble of dancers. This group includes a Woman in Gold Bodysuit and several Men in White Shirts and Suspenders, all performing synchronized choreography against a vibrant Neon Cityscape Backdrop. A fast-paced, show-tune style song with strong brass elements begins, and the host launches into a rapid, humorous song about the drawbacks of Broadway, singing about 'steep' ticket prices, 'terrible' drives, 'crowded and noisy' theaters, and 'limited legroom.' The dancers execute sharp, energetic movements, including coordinated arm gestures and turns, while the host leads with expressive hand motions and facial expressions. Dramatic blue and white neon lighting highlights the performers. As the routine progresses, the dancers form a circle around the host, then turn their backs to the audience in unison, creating a visually striking moment. The music then transitions to a more dramatic, orchestral sound as the host shifts his tone, singing a heartfelt ode to the magic of live performance, describing how it 'will lighten your spirit and gladden your heart,' and how 'the laughs fill your belly, the tears fill your eyes.' He continues to engage with the audience, raising his hands and smiling, maintaining the high-energy atmosphere of this polished and theatrical stage act. The CBS Logo remains visible in the bottom right corner, and the TV PG L Rating is displayed in the top left throughout the segment.",
+        "The video opens with a close-up of the Man in Red Tuxedo Jacket, a man with short light brown hair in a vibrant red tuxedo jacket, animatedly singing a theatrical, upbeat song about feeling \"alive\" and \"present\" on stage against a vibrant Neon Cityscape Backdrop. He gestures expressively as he sings, \"your next starts to rise, and it's so indescribably pleasant. You're in the moment and totally present.\" He is soon joined by a dynamic ensemble of dancers, including the Men in White Shirts and Suspenders and the Woman in Gold Bodysuit, who perform synchronized choreography around him as the song continues, with a chorus joining his vocals. The stage expands to reveal a grand, circular performance area with the TONY AWARDS logo prominently displayed at the center, surrounded by illuminated posters for musicals such as Ain't Too Proud, Beetlejuice, Tootsie, Hamilton, The Prom, Kiss Me, Kate!, and Oklahoma!, reinforcing the Broadway theme of the lyrics. The Man in Red Tuxedo Jacket leads the group in a high-energy dance number, moving across the stage with expressive gestures and vocalizations, singing about how \"the show lets you know that you're here, and you're now, and you're real, and you feel alive!\" The camera pans to show the audience, including the Man in Gray Pinstripe Suit and the Man in Silver Suit with Teal Bow Tie, who react with excitement and applause, reflecting the song's message about the immersive experience of live theater. The performance crescendos with the entire ensemble dancing in unison, culminating in a wide shot that captures the full scale of the stage, the audience, and the celebratory atmosphere, as the chorus emphatically sings, \"Broadway's alive! And that is worthy to be celebrated!\" The CBS Logo remains visible in the bottom right corner throughout, and the TV PG L Rating is displayed in the top left.",
+        "The segment opens with an energetic, theatrical musical number at the Tony Awards, featuring a large ensemble in formal and theatrical attire performing a high-energy, synchronized dance routine on a grand stage. The stage is brightly lit with golden drapes, vertical neon light beams, and a prominent 'TONY AWARDS' logo. A male vocalist, identified as the host and the Man in Red Tuxedo Jacket, sings with a powerful, theatrical tenor voice, declaring, \"It's time to begin, we're glad you showed up and glad you tuned in.\" He continues, reflecting on his performance, \"As for me, I'll simply say that I... been unsure all along if I get through this song, but I did and it's done. Oh my god, it was fun.\" During his song, he is lifted and spun by dancers before joining the ensemble, leading them with animated gestures. The Woman in Gold Bodysuit, now in a shimmering gold sequined gown, stands beside him, reacting with wide-eyed enthusiasm to the performance. The ensemble performs choreographed movements, raising arms and striking poses, as the host builds to a crescendo, singing, \"It's the Tonys and we are... LIVE!\" The music culminates in a grand orchestral flourish as the Man in Red Tuxedo Jacket raises his arms triumphantly. Immediately, the audience in the theater erupts in loud, sustained applause and cheers, which continue for the remainder of the minute. Camera cuts show wide shots of the stage and close-ups of the performers, while audience members like the Man in Gray Pinstripe Suit and the Man in Silver Suit with Teal Bow Tie are seen clapping and cheering, their reactions contributing to the audible excitement. The stage backdrop features illuminated posters for various musicals, including 'Ain't Too Proud,' 'Beetlejuice,' 'Tootsie,' 'Hamilton,' 'The Prom,' 'Kiss Me, Kate!,' and 'Oklahoma!,' enhancing the celebratory atmosphere. The performance concludes with the entire ensemble striking a final pose with raised arms, as the enthusiastic audience applause fills the air. The CBS logo and TV PG L rating remain visible throughout."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 11,
+      "end_minute": 11,
+      "summary": "The 73rd Annual Tony Awards promotional graphic, featuring a man in a navy blue tuxedo pointing upward against a blue gradient background with sparkling effects, is displayed with the CBS logo and 'TV PG L' rating. Text indicates the show is available on CBS.COM and CBS ALL ACCESS. This is preceded by a wide shot of the Tony Awards stage, illuminated by a gold and blue 'TONY AWARDS' neon sign and vertical light beams, where a large ensemble of performers in formal attire stands before an enthusiastically applauding and phone-recording audience. A female announcer's voice is heard over the sustained applause, introducing a Tony-nominated book writer from 'Mean Girls,' as the camera zooms out to reveal the venue's scale and the energetic crowd before the applause fades.",
+      "involved_entities": {
+        "73rd Annual Tony Awards Promotional Graphic": {
+          "description": "A stylized promotional image featuring a man in a navy blue tuxedo against a soft blue gradient background with sparkling light effects, displaying the text '73rd Annual TONY AWARDS' and 'Watch the Entire Show on CBS.COM and CBS ALL ACCESS' on the right side.",
+          "attribute": "visual"
+        },
+        "TV PG L Rating": {
+          "description": "A black box with white text reading 'TV PG L' in the top left corner, indicating the content rating for the broadcast. It appears consistently during the segment.",
+          "attribute": "visual"
+        },
+        "CBS Logo": {
+          "description": "A circular CBS eye logo displayed in the bottom right corner of the screen, indicating the network broadcasting the live segment. It remains visible throughout the entire sequence.",
+          "attribute": "visual"
+        },
+        "Man in Navy Blue Tuxedo": {
+          "description": "A man with short light brown hair, wearing a navy blue tuxedo with a black bow tie and white shirt, standing against a soft blue gradient background, pointing upward with his right index finger as part of a promotional graphic for the 73rd Annual Tony Awards.",
+          "attribute": "visual"
+        },
+        "TONY AWARDS Neon Sign": {
+          "description": "A bright blue and white neon sign shaped like a circular emblem with 'TONY AWARDS' written vertically, mounted on the stage backdrop, indicating the event's theme.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a wide shot of a grand Tony Awards stage, adorned with a prominent 'TONY AWARDS' neon sign in gold and blue, flanked by elegant drapes and vertical light beams. A large ensemble of performers, dressed in colorful and formal attire, stands together in celebration. The audience, visible in the vast auditorium, is standing and applauding enthusiastically, with many capturing the moment on their phones. Over the sustained, enthusiastic applause, a clear female voice announces, \"Ladies and gentlemen, the Tony-nominated book writer of Mean Girls...\" The camera slowly zooms out, revealing the full scale of the venue and the energetic crowd, as the applause continues. The scene then transitions to a promotional graphic for the '73rd Annual Tony Awards,' featuring a man in a navy blue tuxedo with a black bow tie, pointing upward against a soft blue gradient background with sparkling light effects. Text on the right side reads 'Watch the Entire Show on CBS.COM and CBS ALL ACCESS.' The CBS logo is visible in the bottom right corner, and the 'TV PG L' rating appears in the top left corner throughout the segment, as the applause gradually fades out."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Beige Couch": "A plush, light beige couch with two patterned throw pillows, now positioned center stage as a prop in a high-energy performance, surrounded by dancers and used as a focal point for acrobatic lifts and spins.",
+    "Abstract Wall Art": "A framed piece of abstract line art in blue and black tones, mounted on the wall behind the couch, adding a modern aesthetic to the room. It is visible only in the initial living room setting before the scene transitions.",
+    "CBS Logo": "A circular CBS eye logo displayed in the bottom right corner of the screen, indicating the network broadcasting the live segment. It remains visible throughout the entire sequence.",
+    "TV PG L Rating": "A black box with white text reading 'TV PG L' in the top left corner, indicating the content rating for the broadcast. It appears consistently during the segment.",
+    "Man on Couch": "A man with short light brown hair, now wearing a vibrant red tuxedo jacket with a black bow tie and white shirt, serving as the host who leads the ensemble with expressive gestures and animated speech, having been lifted and spun by dancers during the performance.",
+    "TONY AWARDS Neon Sign": "A bright blue and white neon sign shaped like a circular emblem with 'TONY AWARDS' written vertically, mounted on the stage backdrop, indicating the event's theme.",
+    "Woman in Gold Bodysuit": "A woman wearing a sparkling gold, form-fitting bodysuit with long sleeves, now seen in a shimmering gold sequined gown, standing prominently in the ensemble and reacting with expressive gestures.",
+    "Men in White Shirts and Suspenders": "Two men dressed in white shirts, black suspenders, and dark pants, who are part of the background dance ensemble, performing synchronized movements and interacting with the host and other performers.",
+    "Neon Cityscape Backdrop": "A vibrant stage background featuring a stylized city skyline with blue neon lights outlining skyscrapers and vertical light beams, creating a dynamic, futuristic atmosphere for the performance.",
+    "Man in Gray Pinstripe Suit": "A man with graying hair, wearing a gray pinstripe suit with a blue bow tie and a blue ribbon pinned to his lapel, who is seen clapping and cheering enthusiastically, contributing to the audible audience reaction.",
+    "Man in Red Tuxedo Jacket": "A man with short light brown hair, now wearing a vibrant red tuxedo jacket with a black bow tie and white shirt, serving as the host and lead vocalist who sings with a powerful, theatrical tenor voice, leading the ensemble with expressive gestures and animated speech, having been lifted and spun by dancers during the performance.",
+    "Ain't Too Proud Poster": "A large, illuminated poster for 'Ain't Too Proud: The Life and Times of The Temptations,' featuring images of the musical's cast, serving as a backdrop for a segment of the dance performance.",
+    "Tootsie Poster": "A large, illuminated poster for 'Tootsie,' featuring a stylized image of a woman with red glasses and red lips, serving as a backdrop for a segment of the performance.",
+    "Beetlejuice Poster": "A large, illuminated poster for 'Beetlejuice: The Musical,' with bold black and white graphics and the title prominently displayed, used as a backdrop during the dance routine.",
+    "Hamilton Poster": "A large, illuminated poster for 'Hamilton: The Musical,' with bold red and black graphics and the title prominently displayed, used as a backdrop during the dance routine.",
+    "The Prom Poster": "A large, illuminated poster for 'The Prom,' featuring colorful graphics of characters in prom attire, serving as a backdrop for a segment of the dance performance.",
+    "Oklahoma! Poster": "A large, illuminated poster for 'Oklahoma!,' with a rustic design and the title in bold letters, serving as a backdrop for a segment of the performance.",
+    "Kiss Me, Kate! Poster": "A large, illuminated poster for 'Kiss Me, Kate!,' featuring bold red and white graphics with the title prominently displayed, used as a backdrop during the dance routine.",
+    "Woman in Black Sequined Dress": "A woman wearing a short black sequined dress with a high neckline and black boots, standing on the far left of the group, reacting with wide eyes and a smile.",
+    "Man in Black Tuxedo with Bow Tie": "A man in a classic black tuxedo with a black bow tie, standing on the right side of the ensemble, holding a small object and smiling as part of the group.",
+    "Woman in White Gown": "A woman with blonde hair wearing a flowing white gown with a deep V-neckline, standing beside the host and participating in the ensemble with expressive facial reactions and gestures.",
+    "Man in Silver Suit with Teal Bow Tie": "A man with graying hair wearing a shiny silver suit with a teal bow tie and a white boutonniere, who is seen clapping and cheering enthusiastically, contributing to the audible audience reaction.",
+    "Man with Green Hair": "A man with bright green hair, wearing a black suit with a white shirt and black tie, standing on the left side of the ensemble, displaying expressive facial reactions.",
+    "73rd Annual Tony Awards Promotional Graphic": "A stylized promotional image featuring a man in a navy blue tuxedo against a soft blue gradient background with sparkling light effects, displaying the text '73rd Annual TONY AWARDS' and 'Watch the Entire Show on CBS.COM and CBS ALL ACCESS' on the right side.",
+    "Man in Navy Blue Tuxedo": "A man with short light brown hair, wearing a navy blue tuxedo with a black bow tie and white shirt, standing against a soft blue gradient background, pointing upward with his right index finger as part of a promotional graphic for the 73rd Annual Tony Awards."
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "video_id": "video541",
+  "audio_id": "video541_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 4,
+      "summary": "A man with a beard, glasses, and tattoos, wearing a light green striped shirt, embarks on a 70-hour Amtrak journey from Los Angeles to New York City, questioning the decline of the US rail system, which historically boasted the largest network but has since fallen behind globally. The journey begins with a contemplative mood as the train moves through an industrial landscape and then a desert under a bright blue sky, accompanied by the rhythmic rumbling and clanking of the train. The man highlights the historical significance of rail travel, referencing a 1916 peak of railroad miles and the influence of corporations like the Pennsylvania Railroad, contrasting it with the present day. He contrasts the luxurious amenities of 19th-century trains, featuring dining cars with elaborate menus and even pianos, with the modern Amtrak experience, where he eats microwaveable Thai Red Curry Street Noodles. While the modern observation car offers comfortable seating, it's a far cry from the crystal chandeliers of the past. The journey progresses through nighttime, where the lack of scenery and Wi-Fi leads the man to attempt sleep with an eye mask and earplugs, anticipating noisy fellow passengers. He later experiences a restless night, being kicked in the head by a neighbor and finding the observation car less than ideal for sleep, before waking up to eat a sandwich in the dining car as daylight appears. The narrative is punctuated by on-screen graphics, including a CBS News headline about service suspension, historical menus, train illustrations, and animated route maps, alongside ambient sounds like train horns and conductor announcements.",
+      "involved_entities": {
+        "Train interior": {
+          "description": "The interior of a moving train, featuring blue seats, overhead compartments, and large windows showing passing scenery. The man notes the overhead lights stay on all night and there's no Wi-Fi. He later retreats to an \"observation car\" to sleep, and is seen eating in the dining car, which has tables with meals and a server attending passengers.",
+          "attribute": "audio-visual"
+        },
+        "News headline graphic": {
+          "description": "A text overlay from CBS News reading 'Amtrak suspends train service in New York due to storm damage', with a red highlight on 'suspends train service', not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Man with beard and tattoos": {
+          "description": "A man with a beard, glasses, and colorful tattoos on both arms, wearing a light green striped short-sleeve shirt, who vlogs directly to the camera inside a modern train car, speaking about the train's destination, the lack of Wi-Fi, the need for an eye mask and earplugs due to noisy \"iPad kids,\" and later narrates his poor sleeping experience, including being \"kicked in the head\" and retreating to the observation car. He is also seen brushing his teeth in a narrow train bathroom, smiling at the camera, sleeping in a reclined seat, and eating a meal in the dining car.",
+          "attribute": "audio-visual"
+        },
+        "Title card": {
+          "description": "A white background with the text 'Vox Design, explained' in black, accompanied by a yellow circle and a pink triangle, indicating the start of a Vox explainer segment, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Train station platform": {
+          "description": "An outdoor train station with a covered wooden-beamed roof, concrete pillars, benches, potted purple flowers, and a sign indicating 'Los Angeles', not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Los Angeles station building": {
+          "description": "An ornate building with arched doorways, tiled floors, and decorative stonework, labeled 'Los Angeles' as the man enters, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Route map graphic": {
+          "description": "An animated line connecting 'Los Angeles' and 'New York City' with a yellow triangle marker, overlaid on the video as the man speaks, though not visible in this segment, it is contextually referenced.",
+          "attribute": "visual"
+        },
+        "Tray table map": {
+          "description": "A map of the United States rail system displayed on a white tray table, with text overlay indicating '1916, 254,000 MILES FREIGHT AND PASSENGER RAIL', not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Historical train sketch": {
+          "description": "A black-and-white sketch depicting 19th-century passengers in formal attire seated inside a train car, with a conductor standing nearby, overlaid with a modern train interior.",
+          "attribute": "visual"
+        },
+        "Vintage train illustration": {
+          "description": "A colorful illustration of a steam locomotive pulling passenger cars, labeled 'Broadway Limited, Pennsylvania Railroad', with smoke billowing from the engine, not visible in this segment but contextually relevant.",
+          "attribute": "visual"
+        },
+        "Pennsylvania Railroad sign": {
+          "description": "A red sign with the Pennsylvania Railroad logo (a white 'P' inside a red keystone) held by the man, labeled 'Pennsy', though not visible in this segment, it is referenced contextually.",
+          "attribute": "visual"
+        },
+        "Penn Station 1911 photograph": {
+          "description": "A sepia-toned photograph of Penn Station's grand interior from 1911, held by a hand, showing towering columns, arched ceilings, and ornate details.",
+          "attribute": "visual"
+        },
+        "Animated route map (Southern California)": {
+          "description": "A gray map of Southern California with a red dotted line tracing a train route from Los Angeles through San Bernardino into the desert, marked with a yellow triangle.",
+          "attribute": "visual"
+        },
+        "Historical menu (1917)": {
+          "description": "A printed menu from the Pennsylvania Railroad dated Tuesday, November 13, 1917, listing dinner items such as oysters, consommé, scallops, duck, and vegetables, with a notice that no meat is served on Tuesdays, specifically mentioned by the narrator as featuring 'celery-fed duck'.",
+          "attribute": "audio-visual"
+        },
+        "Observation car interior": {
+          "description": "A modern train car with large, curved windows, a high ceiling, and rows of blue seats, where passengers sit and look out at the passing landscape.",
+          "attribute": "visual"
+        },
+        "Modern Amtrak menu": {
+          "description": "A printed flexible dining menu from Amtrak, listing contemporary options like chicken ala rosa, baked ziti, and desserts, with a QR code and Amtrak branding.",
+          "attribute": "visual"
+        },
+        "Sleeping passenger": {
+          "description": "The man with beard and tattoos, initially asleep in a reclined seat, wearing headphones and a sleep mask, with his legs propped up on the window ledge, who later describes his sleep as poor due to being \"literally kicked in the head\" by a fellow passenger and having to move to the observation car.",
+          "attribute": "audio-visual"
+        },
+        "Time stamp overlay": {
+          "description": "A white text overlay reading '3:00 AM' appearing on screen during the sleeping scene.",
+          "attribute": "visual"
+        },
+        "Train bathroom": {
+          "description": "A narrow, dimly lit train bathroom with a mirror, sink, and overhead lighting, where the man brushes his teeth.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a man, identifiable by his beard, glasses, and visible tattoos, wearing a light green striped shirt, standing inside a moving train. The rhythmic rumbling and clanking of the train are distinctly audible as he looks out at a passing industrial landscape, whispering, \"Maybe this was a mistake,\" setting a contemplative tone. The view then shifts to a forward perspective from the train, showing tracks stretching into a desert under a bright blue sky, accompanied by the sustained sounds of the moving train. The man subsequently appears outside at a train station, featuring a covered platform with wooden beams and potted purple flowers, where he speaks directly to the camera. He explains that the United States has a love-hate relationship with train travel, historically boasting the biggest and most well-funded rail network, but now \"that's not exactly the case anymore,\" as the US has \"fallen woefully behind the rest of the world.\" He questions \"what the heck happened?\" and if the US can catch up, as on-screen graphics display a CBS News headline about Amtrak suspending service due to storm damage and a map showing a route from Los Angeles to New York City. The man reveals his plan to take the Amtrak from Los Angeles to New York City, a \"70-hour journey,\" to find answers, holding up a small white object, possibly a ticket. He walks along the platform, continuing to speak, before a title card reading 'Vox Design, explained' appears. The segment concludes with the man entering an ornate building labeled 'Los Angeles,' presumably the starting point of his extensive train journey, as upbeat, jazzy background music begins.",
+        "The video opens with upbeat, slightly jazzy background music as a man with a beard, glasses, and colorful tattoos, wearing a light green striped short-sleeve shirt, stands on a Los Angeles train station platform, speaking directly to the camera. The scene transitions to the interior of a moving train, where the man continues his narration, explaining that his entire journey from Los Angeles to New York is \"about four days long\" and describing his current \"living space\" for \"the next two days,\" humorously noting it \"should be really good for my back\" as someone who's \"years old.\" As a map of the United States appears, illustrating his route from Los Angeles to New York City, he explains that this journey is \"pretty different than it would have been about 100 years ago.\" The video then cuts to a close-up of a tray table displaying a U.S. rail system map with text overlay stating '1916, 254,000 MILES FREIGHT AND PASSENGER RAIL,' as he highlights that 1916 saw \"the highest number there's ever been in this country\" for railroad miles. He then holds up a red sign with the Pennsylvania Railroad logo, labeled 'Pennsy,' discussing \"The Pennsylvania Railroad\" or \"the Pennsy,\" and making a distinct click sound while joking about the nickname. Vintage illustrations of a steam locomotive and historical train passengers appear as he emphasizes that it was \"the largest corporation in the world at the time\" and how \"influential these companies were.\" The segment concludes with the man speaking again, now in a different, more modern train car, as the video transitions to a title card reading 'Vox Design, explained,' with the background music continuing throughout.",
+        "The minute opens with a nostalgic black-and-white photograph of 19th-century passengers at a train station, as the man with a beard and tattoos narrates how trains were \"interwoven into the fabric of American life,\" responsible for the \"temples of their time\" like Penn and Grand Central Stations. A hand then holds a sepia-toned 1911 photograph of Penn Station's grand, cathedral-like interior, showcasing its towering columns and ornate arches. The scene shifts to the modern train interior where the man, wearing glasses and a striped shirt, speaks directly to the camera, seated among blue seats with passing scenery visible outside, emphasizing how \"amazing train travel could be back then.\" An overlaid vintage sketch of a luxurious train dining car with elegantly dressed passengers appears as he describes upscale trains featuring \"chandeliers, barber shops, pianos, and food service that would make the Four Seasons look like Boston Market.\" This is followed by a historical Pennsylvania Railroad menu from November 13, 1917, highlighting a meat-free Tuesday and listing items like oysters, consommé, and \"celery-fed duck,\" which he contrasts with his own experience, noting his train \"didn't have ducks that were fed anything.\" A modern Amtrak flexible dining menu then appears, showing contemporary options like chicken ala rosa and baked ziti, before the man is seen eating \"Thai Red Curry Street Noodles\" in the train’s dining car, with a server attending other passengers, remarking that despite being a \"microwave frozen package,\" they were \"pretty good.\" The video transitions to the interior of a modern observation car with large windows and curved ceilings, where passengers relax and look out at the landscape, as the man concludes that while accommodations were \"a far cry from crystal chandeliers,\" they were \"comfortable enough.\" A distinct train horn sounds, followed by a conductor's announcement over the intercom, \"Good evening, ladies and gentlemen, this is the conductor speaking. It has now been 5 hours and 15 minutes, which is the time it takes to fly from LAX...\" as an animated map of Southern California highlights the train’s route from Los Angeles through San Bernardino and into the desert, marked with a yellow triangle.",
+        "The video opens with an animated route map of Southern California, showing a red dotted line tracing a train’s path from Los Angeles into the desert, accompanied by a cheerful, almost whimsical background tune. A man's voice states they are en route to \"Newark Airport\" but are \"still in California.\" The scene transitions to a dark, nighttime view from a moving train, with distant city lights, before cutting to a close-up of the man, with a beard, glasses, and colorful tattoos, wearing a light green striped shirt, vlogging inside a dimly lit train car. He explains it's \"only 9 o'clock\" but already dark, so there's \"nothing to look out through the window,\" and \"no Wi-Fi apparently,\" prompting him to \"go to sleep.\" He notes the \"overhead lights on all night\" but is prepared with his \"trusty eye mask\" and \"earplugs,\" anticipating their need due to \"iPad kids who are watching movies at full volume with no headphones\" nearby. He bids farewell, saying, \"I'll see you in the morning.\" The camera pans to show the train’s interior with blue seats and a corridor, then cuts to the man brushing his teeth in a narrow train bathroom, followed by him smiling at the camera. A melancholic, accordion-like tune begins as he is shown sleeping in a reclined seat with headphones and a sleep mask, his legs propped up, with a '3:00 AM' timestamp appearing. His voice then narrates, questioning, \"Did I sleep well last night? Hmm. I'm going to say no,\" elaborating that he was \"literally kicked in the head by the woman in the seat next to you.\" He recounts \"retreating to the observation car to sleep,\" which was \"less than ideal.\" The video concludes with him waking up and eating a sandwich in the dining car, with daylight now visible through the window, indicating the passage of time during the journey."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 5,
+      "end_minute": 8,
+      "summary": "A bearded man with tattoos, wearing a striped shirt, explains his need to move around a modern train car to prevent muscle deterioration, then walks through a corridor past a hand sanitizer dispenser and a 'CAUTION! WATCH YOUR STEP' sign into a luxurious observation car. He contrasts the past luxury of American trains with their current state, attributing the initial success of railroads to \"robber barons\" like Cornelius Vanderbilt, Jay Gould, James Fisk, and JP Morgan, whom he describes as \"ruthless, anti-labor, and really corrupt.\" This historical context is illustrated with a vintage U.S. rail map and a historical train station illustration, leading to a political cartoon depicting train barons and a dramatic voiceover. The man then discusses federal regulations like fixed rates and restrictions on fare changes, referencing the 'Interstate Commerce Act of 1887,' and quotes historian Robert Selph Henry on railroads making too much money. He explains how the advent of affordable automobiles and air travel diminished train travel's dominance, shown by a pie chart indicating a drop from 98% passenger travel in 1916 to 4% in 1956, noting that trains remained regulated as monopolies despite no longer being one. He further elaborates that private commercial passenger trains have never been very profitable, with freight trains being the \"lifeblood of the industry,\" as evidenced by footage of a freight train on an overpass. The government created Amtrak, \"the American Train Track,\" as a \"for-profit corporation\" by breaking off passenger trains from rail companies, as shown by 'PUBLIC LAW 91-518,' tasked with \"employing innovative operating and marketing concepts.\" Initially funded with just $40 million, Amtrak's 2022 budget was $2.3 billion, a stark contrast to the federal highway budget of $64.3 billion for the same year, highlighting an inequity. Throughout these explanations, the train moves through changing landscapes, from green to desert and possibly evening light, with ambient sounds of the train's hum and rumble, and occasional train horns audible.",
+      "involved_entities": {
+        "Group portrait of industrialists": {
+          "description": "A black-and-white group photograph of several 19th-century men in formal suits, seated and standing in an ornate room, with one man in a top hat prominently featured.",
+          "attribute": "visual"
+        },
+        "Train interior": {
+          "description": "The interior of a moving train, featuring blue seats, overhead compartments, and large windows showing passing greenery and changing landscapes. The train's motion is subtly audible through a consistent background hum, complementing the visual evidence of movement.",
+          "attribute": "audio-visual"
+        },
+        "Historical train sketch": {
+          "description": "A black-and-white sketch depicting 19th-century passengers in formal attire seated inside a train car, with a conductor standing nearby, overlaid with a modern train interior.",
+          "attribute": "visual"
+        },
+        "Vintage U.S. rail map": {
+          "description": "An old, detailed map of the United States showing a dense network of rail lines, with cities like Chicago, St. Louis, and New Orleans labeled, and zooming across the Midwest and South.",
+          "attribute": "visual"
+        },
+        "Route map graphic": {
+          "description": "An animated line connecting 'Los Angeles' and 'New York City' with a yellow triangle marker, overlaid on the video as the man speaks, though not visible in this segment, it is contextually referenced.",
+          "attribute": "visual"
+        },
+        "Train bathroom": {
+          "description": "A narrow, dimly lit train bathroom with a mirror, sink, and overhead lighting, where the man brushes his teeth.",
+          "attribute": "visual"
+        },
+        "Animated route map (Southern California)": {
+          "description": "A gray map of Southern California with a red dotted line tracing a train route from Los Angeles through San Bernardino into the desert, marked with a yellow triangle.",
+          "attribute": "visual"
+        },
+        "Political cartoon of train barons": {
+          "description": "A black-and-white political cartoon showing two men, identified as Vanderbilt and Gould, riding steam locomotives labeled 'HUDSON RIVER R.R.', 'N.Y. CENTRAL R.R.', and 'ERIE R.R.', with one man (Vanderbilt) commanding the other (Gould) to 'LET EM RIP BUT DONT STOP TO WATER', featuring a dramatic voiceover of the cartoon's dialogue.",
+          "attribute": "audio-visual"
+        },
+        "Cornelius Vanderbilt portrait": {
+          "description": "A black-and-white historical portrait of a man with a beard and formal 19th-century attire, labeled 'Cornelius Vanderbilt' with the text 'Robber barons' overlaid, explicitly named by the speaker as one of the 'robber barons' who ran early American railroads.",
+          "attribute": "audio-visual"
+        },
+        "Historical menu (1917)": {
+          "description": "A printed menu from the Pennsylvania Railroad dated Tuesday, November 13, 1917, listing dinner items such as oysters, scallops, duck, and vegetables, with a notice that no meat is served on Tuesdays.",
+          "attribute": "visual"
+        },
+        "Man with beard and tattoos": {
+          "description": "A man with a beard, glasses, and a dark blue collared shirt, seated inside a modern train car, speaking directly to the camera with expressive gestures. He is the articulate narrator, explaining the historical context and financial details of Amtrak, including its creation as a 'for-profit corporation' and budget comparisons, with a clear, engaging voice.",
+          "attribute": "audio-visual"
+        },
+        "Sleeping passenger": {
+          "description": "The man with beard and tattoos, now asleep in a reclined seat, wearing headphones and a sleep mask, with his legs propped up on the window ledge.",
+          "attribute": "visual"
+        },
+        "Observation car interior": {
+          "description": "A modern train car with large, curved windows, a high ceiling, and rows of blue seats, where passengers sit and look out at the passing landscape.",
+          "attribute": "visual"
+        },
+        "Time stamp overlay": {
+          "description": "A white text overlay reading '3:00 AM' appearing on screen during the sleeping scene.",
+          "attribute": "visual"
+        },
+        "Vintage train illustration": {
+          "description": "A colorful illustration of a steam locomotive pulling passenger cars, labeled 'Broadway Limited, Pennsylvania Railroad', with smoke billowing from the engine, not visible in this segment but contextually relevant.",
+          "attribute": "visual"
+        },
+        "Modern Amtrak menu": {
+          "description": "A printed flexible dining menu from Amtrak, listing contemporary options like chicken ala rosa, baked ziti, and desserts, with a QR code and Amtrak branding.",
+          "attribute": "visual"
+        },
+        "Jay Gould portrait": {
+          "description": "A black-and-white historical portrait of a man with a full beard and formal 19th-century attire, labeled 'Jay Gould', explicitly named by the speaker as one of the 'robber barons' who ran early American railroads.",
+          "attribute": "audio-visual"
+        },
+        "Historical train station illustration": {
+          "description": "A black-and-white illustration of a crowded 19th-century train station with people, tents, and signs, including one reading 'SQUARE MEALS, LODGINGS'.",
+          "attribute": "visual"
+        },
+        "Passenger Travel in the US pie chart": {
+          "description": "A dynamic pie chart with a grid background, titled 'Passenger Travel in the US,' sourced from the Interstate Commerce Commission 1956 and University of Iowa 1989. It visually compares railroad passenger share: 4% in 1956 (pink slice) and 98% in 1916 (pink slice), with the rest in blue, highlighting the dramatic decline in rail dominance over time, directly illustrating the statistics cited by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Interstate Commerce Act of 1887 document": {
+          "description": "A historical document displayed with a grid overlay, titled 'Interstate Commerce Act of 1887,' showing text from the Forty-Ninth Congress of the United States of America, with a date stamp of February 5, 1887. It is presented as a key historical reference as the narrator discusses the federal government's institution of regulations and fixed rates for railroads.",
+          "attribute": "audio-visual"
+        },
+        "Archival train footage": {
+          "description": "Black-and-white footage showing a steam locomotive moving through a wooded area, viewed from the front, with smoke and trees passing by, evoking early 20th-century rail travel. This footage is shown as the man discusses the historical context of rail companies and the shift from passenger to freight focus, leading up to Amtrak's formation.",
+          "attribute": "audio-visual"
+        },
+        "Archival automobile footage": {
+          "description": "Black-and-white footage of early 20th-century automobiles parked outside a brick building with large windows, with people in period attire standing nearby, illustrating the rise of personal transportation. This visual appears as the narrator discusses the impact of 'affordable automobiles' on travel.",
+          "attribute": "audio-visual"
+        },
+        "Quote graphic": {
+          "description": "A white background with a quote in black text: 'The problem, to some minds at least, was how to keep railroads from making too much money,' attributed to Robert Selph Henry, Historian, with a small yellow triangle icon next to his name. This graphic appears precisely as the narrator quotes Henry, directly aligning the visual text with his spoken words.",
+          "attribute": "audio-visual"
+        },
+        "Freight train overpass": {
+          "description": "A modern freight train carrying colorful shipping containers moving across a concrete overpass, with dry, scrubby vegetation and utility poles visible below, indicating an industrial or semi-rural setting. This visual appears when the man explicitly mentions 'freight trains' as the 'lifeblood of the industry,' accompanied by the sound of a train horn.",
+          "attribute": "audio-visual"
+        },
+        "Amtrak logo graphic": {
+          "description": "A blue, starburst-style graphic with the word 'Amtrak' at the center, radiating lines to major U.S. cities including Seattle, Chicago, New York, San Diego, and Washington, displayed against a black background. This graphic appears while an old-timey, commercial-style voiceover promotes Amtrak's extensive network.",
+          "attribute": "audio-visual"
+        },
+        "US Highway budget vs. Amtrak budget chart": {
+          "description": "A horizontal bar chart comparing 'FEDERAL HIGHWAYS' at $64.3 billion (in pink) and 'AMTRAK' at $2.3 billion (in teal), with the title 'US Highway budget vs. Amtrak budget.' This chart visually reinforces the narrator's spoken comparison of the federal highway budget to Amtrak's budget, highlighting the 'inequity.'",
+          "attribute": "audio-visual"
+        },
+        "AMTRAK budget graphic": {
+          "description": "A clean, minimalist graphic displaying 'AMTRAK $2.3 billion' in bold black text with a teal square icon, sourced from the 'Amtrak 2022 Consolidated Financial Statement.' This graphic is presented visually as the narrator states Amtrak's 2022 budget figure.",
+          "attribute": "audio-visual"
+        },
+        "Public Law 91-518 document": {
+          "description": "A historical legal document titled 'PUBLIC LAW 91-518—OCT. 30, 1970,' specifically 'TITLE III—CREATION OF A RAIL PASSENGER CORPORATION,' with key phrases like 'for profit corporation,' 'innovative operating and marketing concepts,' and 'the establishment of improved reservations systems and advertising' highlighted in yellow. This document is shown as the narrator discusses Amtrak's founding principles and initial directives.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a man with a beard, glasses, and colorful tattoos, wearing a light green striped shirt, sipping coffee inside a modern train car. He speaks directly to the camera in a clear, articulate voice, explaining, \"Like an astronaut in space, I'm trying to move around as much as I can so that my muscles don't deteriorate during my journey.\" He then walks through the train's corridor, passing a hand sanitizer dispenser and a 'CAUTION! WATCH YOUR STEP' sign, before entering a luxurious observation car. Seated in a standard blue seat, he continues speaking, \"So, let's talk about how American trains went from gilded pleasure palaces to this.\" As the train moves through changing landscapes from greenery to desert, he elaborates, \"Part of the reason why railroads became so wildly successful in the first place is because they were run by what were affectionately termed robber barons.\" Historical black-and-white portraits of 'Cornelius Vanderbilt' and 'Jay Gould' appear, identified by the speaker as \"Men like Cornelius Vanderbilt, Jay Gould, James Fisk, and JP Morgan.\" He describes them as \"ruthless, anti-labor, and really corrupt,\" as a vintage U.S. rail map zooms across the Midwest and South, and a historical illustration of a crowded train station with a 'SQUARE MEALS, LODGINGS' sign is shown. The man continues, \"As a result, the train companies became pretty universally hated by the general public. As seen in what passed for scathing satire at the time.\" This leads to a political cartoon depicting Vanderbilt and Gould on trains, where a voiceover dramatically exclaims, \"Now then, Jim, no jockeying, you know. Let him rip, Commodore. Don't stop to water, or you'll be beat!\" The segment concludes with the man back in the modern train, speaking to the camera as the landscape outside shifts from green to arid, all set to a gentle, folksy background melody.",
+        "The minute opens with a man, bearded and wearing glasses and a dark blue collared shirt, seated inside a modern, moving train car, speaking directly to the camera. His voice is clear and conversational as he explains how the federal government reacted to railroad practices, instituting regulations like fixed rates and restrictions on fare changes, all while the subtle hum and rumble of the moving train are audible in the background. As he details these regulations, the screen cuts to a historical document titled 'Interstate Commerce Act of 1887,' displayed with a grid overlay and highlighted text. Returning to the man, he then quotes historian Robert Selph Henry, whose words appear on screen: 'The problem, to some minds at least, was how to keep railroads from making too much money.' He elaborates that these regulations initially weren't a major issue because railroads were still the most efficient way to travel, a point visually reinforced by archival black-and-white footage of a train moving through a wooded area. The narrative shifts as he describes how the advent of 'affordable automobiles' and 'air travel' changed everything, coinciding with archival footage of early 20th-century cars parked outside a brick building. A dynamic pie chart titled 'Passenger Travel in the US' then illustrates his point, showing that by 1956, only 4% of passenger travel was by train, a stark contrast to 98% in 1916. The man concludes his explanation back in the train, emphasizing that while train companies were no longer a monopoly, they were still regulated as if they were, as the scenery outside the window transitions from green to a darker, possibly evening light.",
+        "The video opens with a man with a beard, glasses, and a dark blue collared shirt, seated inside a modern train car, speaking directly to the camera. He animatedly explains that they are currently \"being held on the tracks to let a freight train pass,\" setting the stage for a historical discussion. As a light, slightly melancholic instrumental background music begins, he elaborates on how \"private commercial passenger trains have never been very profitable.\" The scene then cuts to an exterior shot of a freight train carrying colorful shipping containers moving across a concrete overpass, accompanied by a distinct train horn, as the man's voice continues, identifying \"freight trains\" as the \"lifeblood of the industry.\" Returning to the man in the train interior, he explains how the government created \"one company\" to handle passenger service when rail companies struggled. This is illustrated by black-and-white archival footage of a steam locomotive moving through a wooded area, evoking early 20th-century rail travel. He reveals this company was \"Amtrak,\" which stands for \"the American Train Track.\" Following his rhetorical question about nicknames, an old-timey voiceover from an Amtrak commercial promotes its reach to \"more than 450 cities in the USA,\" while a blue Amtrak logo graphic radiates lines to major U.S. cities. The man then reappears, concluding that \"Amtrak was designed to fail from the beginning,\" as the train continues its journey through changing landscapes.",
+        "The video opens with a man, sporting a beard and glasses, in a dark blue collared shirt, seated inside a modern, moving train car. He speaks directly to the camera, animatedly explaining historical context, beginning with, \"That may sound ridiculous, but let me explain.\" He details how the government created Amtrak as a \"for-profit corporation,\" despite passenger service rarely being profitable, as the government \"broke off all the passenger trains from the rail companies because they weren't making money.\" This narration is accompanied by a close-up of 'PUBLIC LAW 91-518—OCT. 30, 1970,' specifically 'TITLE III—CREATION OF A RAIL PASSENGER CORPORATION,' with 'for profit corporation' highlighted. The man continues, explaining Amtrak was tasked with \"employing innovative operating and marketing concepts to develop the potential of modern rail service,\" as the document reappears, highlighting 'innovative operating and marketing concepts' and 'the establishment of improved reservations systems and advertising.' He then asks about initial funding, revealing, \"Just $40 million.\" He notes, \"Their budget has gone up a lot since then,\" stating, \"Their budget for the year 2022 was $2.3 billion,\" which he acknowledges \"sounds like a lot.\" An 'AMTRAK $2.3 billion' graphic appears, followed by a bar chart comparing 'FEDERAL HIGHWAYS' at $64.3 billion and 'AMTRAK' at $2.3 billion. The man emphasizes, \"But when you take into account that the federal highway budget for the same year was $64.3 billion, you begin to see the inequity,\" continuing his explanation with expressive gestures as the train moves through changing landscapes, with a subtle train hum audible throughout."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 9,
+      "end_minute": 11,
+      "summary": "A man with a beard and tattoos, initially in a dark blue collared shirt and glasses inside a modern train car, states that Amtrak's entire funding history is less than one year's funding for the Interstate Highway system, a disparity visually reinforced by a graphic comparing the US Highway budget ($64.3 billion) to Amtrak’s ($2.3 billion), which the man explains reflects America's travel priorities and hinders Amtrak's expansion and innovation. Melancholic piano and percussion music begins as the scene shifts to an exterior shot of a train moving through Chicago with its skyline visible. The man then appears on a train station platform, announcing his 45-hour arrival from Los Angeles to Chicago, and walks through a grand train station hall, humorously admitting he doesn't smell good and noting a seven-hour layover. The music continues as the scene transitions to an outdoor urban setting with a digital billboard, then to Chicago's Cloud Gate sculpture. The man reappears in front of the billboard, now in a black t-shirt, stating he feels amazing after changing into clean clothes and is enjoying Millennium Park like a tourist before his next journey. Later, in a bright urban setting before a digital billboard, he announces the \"second and final leg of my journey\" to upbeat, jazzy music. The scene shifts to the Cloud Gate sculpture, then to the man unpacking in a sleeper car, revealing his \"favorite feature\": a compact, folding \"hidden sink\" in the bathroom, accompanied by mechanical sounds as he brushes his teeth. Train rumbling and clanking sounds mix with the music as he explains the train's movements will \"rock me to sleep.\" Visuals shift to a nighttime industrial view, then green hills, overlaid with a Chicago to Los Angeles route map. A folksy tune plays as the man lies in his berth, then sits up, stating they have \"reached Ohio,\" marking \"2600 miles through my journey and 50-something hours.\" He discusses \"the environment\" as a reason people take trains, and a title card from the Kleinman Center for Energy Policy appears detailing his 3,000-mile Amtrak journey. A clear male narrator highlights that long-distance trains produce 37% less emissions than flights and are 17 times safer than cars, reinforced by Vox graphics. The man, now wearing headphones and a light-colored shirt, explains that while flying and driving can be faster or cheaper, they are often \"miserable experiences\" due to TSA, flight delays, or traffic. He looks out a train window, describing the freedom of train travel: the ability to \"stare out the window and see the country go by,\" read, nap, or \"wander around the train\" and \"stretch my legs.\" Relaxing in a sleeper car in a black t-shirt with a city skyline graphic, he emphasizes the enjoyment of having his \"own private little room.\" The bar chart comparing US Highway and Amtrak budgets is displayed again, supporting his point that Amtrak is \"perpetually and profoundly underfunded.\" He asks viewers to \"imagine what it would be like if this were evened out,\" as a split-screen shows a phone with a Northeastern US rail route and the man walking through a train station platform. The segment ends with the man entering the grand Moynihan Train Hall in New York City, accompanied by a melancholy, orchestral melody featuring a prominent wind instrument.",
+      "involved_entities": {
+        "US Highway budget vs. Amtrak budget chart": {
+          "description": "A horizontal bar chart comparing 'FEDERAL HIGHWAYS' at $64.3 billion (in pink) and 'AMTRAK' at $2.3 billion (in teal), with the title 'US Highway budget vs. Amtrak budget.' The chart includes source citations from the 'US Department of Transportation 2023 Budget Highlights' and 'Amtrak 2022 Consolidated Financial Statement,' presented on a white grid background. This chart visually supports the speaker's assertion that Amtrak is 'perpetually and profoundly underfunded.'",
+          "attribute": "audio-visual"
+        },
+        "Grand train station hall": {
+          "description": "A spacious, ornate train station hall with high ceilings, large columns, a glass skylight, and marble floors. The hall features a 'TO ALL TRAINS' sign, benches, and passengers walking or sitting with luggage. The architecture is classical, with detailed stonework and a large American flag displayed. The man enters this hall as a melancholy, orchestral melody begins, creating a reflective atmosphere following his discussion of Amtrak's potential if properly funded.",
+          "attribute": "audio-visual"
+        },
+        "Outdoor urban setting": {
+          "description": "A bright, sunlit urban environment with tall buildings, green trees, and a large digital billboard displaying a close-up of a face. The man stands in front of the billboard, speaking to the camera, with people walking in the background.",
+          "attribute": "visual"
+        },
+        "Train interior": {
+          "description": "The interior of a moving train, featuring blue seats with a geometric pattern, overhead compartments, and large windows showing passing greenery that transitions to darker, possibly evening light. The environment includes a control panel with a speaker and lights, and the train’s motion is evident from the blurred scenery outside.",
+          "attribute": "visual"
+        },
+        "Man with beard and tattoos": {
+          "description": "A man with a beard, glasses, and a dark blue collared shirt, seated inside a modern train car, speaking directly to the camera with expressive gestures. He later appears in a light-colored shirt inside a grand train station and then in a black t-shirt with a city skyline graphic in an outdoor urban setting. He speaks with a calm, articulate, and conversational male voice, discussing the environmental and safety benefits of train travel, contrasting it with the 'miserable experiences' of flying and driving, and highlighting the freedom and comfort of train journeys, including having a 'private little room.' He also critically notes Amtrak's 'perpetually and profoundly underfunded' status.",
+          "attribute": "audio-visual"
+        },
+        "Train station platform": {
+          "description": "An outdoor train station with a covered wooden-beamed roof, concrete pillars, benches, potted purple flowers, and passengers boarding a train. The platform is bustling with activity, and the train’s side is visible with its red and silver livery.",
+          "attribute": "visual"
+        },
+        "Chicago": {
+          "description": "An exterior shot of a train moving through Chicago, with the city skyline visible in the background and a yellow triangle marker labeling the location. The scene includes multiple train tracks and industrial buildings, with the train’s red and silver livery clearly visible.",
+          "attribute": "visual"
+        },
+        "Cloud Gate sculpture (The Bean)": {
+          "description": "A large, reflective, bean-shaped sculpture in Chicago’s Millennium Park, with its polished stainless steel surface mirroring the surrounding buildings and sky, bustling with people. It is visually present with background music.",
+          "attribute": "audio-visual"
+        },
+        "Penn Station 1911 photograph": {
+          "description": "A sepia-toned photograph of Penn Station's grand interior from 1911, held by a hand, showing towering columns, arched ceilings, and ornate details.",
+          "attribute": "visual"
+        },
+        "Title card": {
+          "description": "A white background with the text 'Vox Design, explained' in black, accompanied by a yellow circle and a pink triangle, indicating the start of a Vox explainer segment, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Historical train sketch": {
+          "description": "A black-and-white sketch depicting 19th-century passengers in formal attire seated inside a train car, with a conductor standing nearby, overlaid with a modern train interior.",
+          "attribute": "visual"
+        },
+        "Route map graphic": {
+          "description": "An animated line connecting 'Los Angeles' and 'New York City' with a yellow triangle marker, overlaid on the video as the man speaks, though not visible in this segment, it is contextually referenced.",
+          "attribute": "visual"
+        },
+        "Amtrak logo graphic": {
+          "description": "A blue, starburst-style graphic with the word 'Amtrak' at the center, radiating lines to major U.S. cities including Seattle, Chicago, New York, San Diego, and Washington, displayed against a black background.",
+          "attribute": "visual"
+        },
+        "Passenger Travel in the US pie chart": {
+          "description": "A dynamic pie chart with a grid background, titled 'Passenger Travel in the US,' sourced from the Interstate Commerce Commission 1956 and University of Iowa 1989. It visually compares railroad passenger share: 4% in 1956 (pink slice) and 98% in 1916 (pink slice), with the rest in blue, highlighting the dramatic decline in rail dominance over time.",
+          "attribute": "visual"
+        },
+        "Cornelius Vanderbilt portrait": {
+          "description": "A black-and-white historical portrait of a man with a beard and formal 19th-century attire, labeled 'Cornelius Vanderbilt' with the text 'Robber barons' overlaid.",
+          "attribute": "visual"
+        },
+        "Interstate Commerce Act of 1887 document": {
+          "description": "A historical document displayed with a grid overlay, titled 'Interstate Commerce Act of 1887,' showing text from the Forty-Ninth Congress of the United States of America, with a date stamp of February 5, 1887. The document is presented as a key historical reference in the narrative.",
+          "attribute": "visual"
+        },
+        "Observation car interior": {
+          "description": "A modern train car with large, curved windows, a high ceiling, and rows of blue seats, where passengers sit and look out at the passing landscape.",
+          "attribute": "visual"
+        },
+        "Vintage train illustration": {
+          "description": "A colorful illustration of a steam locomotive pulling passenger cars, labeled 'Broadway Limited, Pennsylvania Railroad', with smoke billowing from the engine, not visible in this segment but contextually relevant.",
+          "attribute": "visual"
+        },
+        "Jay Gould portrait": {
+          "description": "A black-and-white historical portrait of a man with a full beard and formal 19th-century attire, labeled 'Jay Gould'.",
+          "attribute": "visual"
+        },
+        "Group portrait of industrialists": {
+          "description": "A black-and-white group photograph of several 19th-century men in formal suits, seated and standing in an ornate room, with one man in a top hat prominently featured.",
+          "attribute": "visual"
+        },
+        "Freight train overpass": {
+          "description": "A modern freight train carrying colorful shipping containers moving across a concrete overpass, with dry, scrubby vegetation and utility poles visible below, indicating an industrial or semi-rural setting.",
+          "attribute": "visual"
+        },
+        "Vintage U.S. rail map": {
+          "description": "An old, detailed map of the United States showing a dense network of rail lines, with cities like Chicago, St. Louis, and New Orleans labeled, and zooming across the Midwest and South.",
+          "attribute": "visual"
+        },
+        "Archival automobile footage": {
+          "description": "Black-and-white footage of early 20th-century automobiles parked outside a brick building with large windows, with people in period attire standing nearby, illustrating the rise of personal transportation.",
+          "attribute": "visual"
+        },
+        "Train bathroom": {
+          "description": "A narrow, dimly lit train bathroom where the man demonstrates a compact, folding 'hidden sink' with accompanying mechanical sounds, and brushes his teeth.",
+          "attribute": "audio-visual"
+        },
+        "Animated route map (Southern California)": {
+          "description": "A gray map of Southern California with a red dotted line tracing a train route from Los Angeles through San Bernardino into the desert, marked with a yellow triangle.",
+          "attribute": "visual"
+        },
+        "Quote graphic": {
+          "description": "A white background with a quote in black text: 'The problem, to some minds at least, was how to keep railroads from making too much money,' attributed to Robert Selph Henry, Historian, with a small yellow triangle icon next to his name.",
+          "attribute": "visual"
+        },
+        "Tray table map": {
+          "description": "A map of the United States rail system displayed on a white tray table, with text overlay indicating '1916, 254,000 MILES FREIGHT AND PASSENGER RAIL', not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Political cartoon of train barons": {
+          "description": "A black-and-white political cartoon showing two men riding steam locomotives labeled 'HUDSON RIVER R.R.', 'N.Y. CENTRAL R.R.', and 'ERIE R.R.', with one man (Vanderbilt) commanding the other (Gould) to 'LET EM RIP BUT DONT STOP TO WATER'.",
+          "attribute": "visual"
+        },
+        "AMTRAK budget graphic": {
+          "description": "A clean, minimalist graphic displaying 'AMTRAK $2.3 billion' in bold black text with a teal square icon, sourced from the 'Amtrak 2022 Consolidated Financial Statement.' The design is simple and grid-based, emphasizing the financial figure.",
+          "attribute": "visual"
+        },
+        "Historical menu (1917)": {
+          "description": "A printed menu from the Pennsylvania Railroad dated Tuesday, November 13, 1917, listing dinner items such as oysters, scallops, duck, and vegetables, with a notice that no meat is served on Tuesdays.",
+          "attribute": "visual"
+        },
+        "Archival train footage": {
+          "description": "Black-and-white footage showing a train moving through a wooded area, viewed from the front, with smoke and trees passing by, evoking early 20th-century rail travel.",
+          "attribute": "visual"
+        },
+        "Sleeping passenger": {
+          "description": "The man with beard and tattoos, seen lying in his sleeper berth covered with a blue blanket, then sitting up. He mentions being rocked to sleep by the train's movements and waking up to find they had 'reached Ohio.'",
+          "attribute": "audio-visual"
+        },
+        "Title card (Kleinman Center for Energy Policy)": {
+          "description": "A white background with the title 'Traveling Across the United States the Old-Fashioned Way' in bold blue text, authored by Andrés S. Svennazi, dated June 16, 2022, with a subtitle explaining the importance of passenger rail in combating climate change. The text describes the author’s 3,000-mile Amtrak journey across three iconic train lines, introduced by a clear male narrator who highlights the environmental and safety benefits of train travel.",
+          "attribute": "audio-visual"
+        },
+        "Pennsylvania Railroad sign": {
+          "description": "A red sign with the Pennsylvania Railroad logo (a white 'P' inside a red keystone) held by the man, labeled 'Pennsy', though not visible in this segment, it is referenced contextually.",
+          "attribute": "visual"
+        },
+        "Modern Amtrak menu": {
+          "description": "A printed flexible dining menu from Amtrak, listing contemporary options like chicken ala rosa, baked ziti, and desserts, with a QR code and Amtrak branding.",
+          "attribute": "visual"
+        },
+        "Public Law 91-518 document": {
+          "description": "A historical legal document titled 'PUBLIC LAW 91-518—OCT. 30, 1970,' specifically 'TITLE III—CREATION OF A RAIL PASSENGER CORPORATION,' with key phrases such as 'for profit corporation' and 'innovative operating and marketing concepts' highlighted in yellow. The document is shown in close-up, with text clearly legible and annotations emphasizing specific sections.",
+          "attribute": "visual"
+        },
+        "Historical train station illustration": {
+          "description": "A black-and-white illustration of a crowded 19th-century train station with people, tents, and signs, including one reading 'SQUARE MEALS, LODGINGS'.",
+          "attribute": "visual"
+        },
+        "New York City": {
+          "description": "A text overlay labeling the location as 'New York City' as the man enters the Moynihan Train Hall, with the station’s modern, clean interior visible, including glass doors, metal railings, and signage.",
+          "attribute": "visual"
+        },
+        "News headline graphic": {
+          "description": "A text overlay from CBS News reading 'Amtrak suspends train service in New York due to storm damage', with a red highlight on 'suspends train service', not visible in this segment.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a man with a beard and tattoos, wearing a dark blue collared shirt and glasses, seated inside a modern train car. He speaks directly to the camera, stating that Amtrak's entire history's funding is less than one year's funding for the Interstate Highway system. This segues to a graphic comparing the US Highway budget ($64.3 billion) to Amtrak’s budget ($2.3 billion), with Amtrak's smaller allocation highlighted, as the man's voice continues, explaining this disparity shows America's travel priorities and why Amtrak has failed to expand or innovate. Gentle, melancholic background music with piano and light percussion begins as the scene transitions to an exterior shot of a train moving through Chicago, with the city skyline visible and a yellow triangle marker. The man then appears on a train station platform with passengers boarding, speaking to the camera, announcing his arrival in Chicago after 45 hours from Los Angeles. He then walks through a grand train station hall with high ceilings and columns, now in a light-colored shirt, humorously admitting he doesn't smell very good and mentioning he has a seven-hour layover in Chicago's Union Station, which he finds 'kind of amazing.' The background music continues as the scene shifts to an outdoor urban setting with tall buildings and a digital billboard, then to a wide-angle shot of the Cloud Gate sculpture (The Bean) in Chicago’s Millennium Park. The man reappears in front of the billboard, now in a black t-shirt, stating he got a chance to put on clean clothes, which 'feels amazing.' He continues, explaining he's in Millennium Park, 'rolling around with my suitcase like a dang tourist,' and trying to enjoy 'not being on a train as much as possible' before his next journey.",
+        "The video opens with a man, bearded and wearing glasses and a dark blue collared shirt, speaking directly to the camera in a bright, sunlit urban setting in front of a large digital billboard, announcing the \"second and final leg of my journey\" over upbeat, slightly jazzy background music. The scene transitions to a wide shot of Chicago’s Cloud Gate sculpture, reflecting the city skyline and bustling with people, before showing the man inside a train, unpacking his luggage in a sleeper car with blue seats. He then speaks to the camera, revealing he has \"achieved the holy grail of my own private room\" and demonstrates his \"favorite feature\": a compact, folding \"hidden sink\" in the train’s bathroom, accompanied by mechanical sounds, as he brushes his teeth. As train rumbling and clanking sounds mix with the music, he explains that this \"dynamic\" train's movements will \"help rock me to sleep.\" The visuals shift to a nighttime industrial view from the train window, then to green hills in daylight, overlaid with a map graphic showing his train route from Chicago to Los Angeles. The music changes to a folksy tune as the man is seen lying in his sleeper berth, then sitting up, stating that upon waking, they had \"reached Ohio,\" marking \"2600 miles through my journey and 50-something hours.\" The segment concludes with the man discussing the \"lot of reasons why people still want to take the train,\" including \"the environment,\" as a title card from the Kleinman Center for Energy Policy appears, detailing his 3,000-mile Amtrak journey.",
+        "The segment opens with a title card from the Kleinman Center for Energy Policy, introducing a piece on US train travel, as a clear male narrator highlights that long-distance trains produce 37% less emissions than flights and are 17 times safer than cars. This transitions to Vox graphics reinforcing these statistics. The scene then shifts to a man with a beard, glasses, and a dark blue collared shirt, speaking directly to the camera from inside a modern train car. His calm, articulate voice explains that while flying and driving can be faster or cheaper, they are often \"miserable experiences\" due to TSA, flight delays, or being stuck in traffic. As passengers are seen boarding a train and a car drives in rainy weather, the man, now wearing headphones and a light-colored shirt, looks out a train window, continuing to speak about the freedom of train travel. He describes being able to \"stare out the window and see the country go by,\" read, nap, or \"wander around the train\" and \"stretch my legs.\" He is then seen relaxing in a sleeper car, wearing a black t-shirt with a city skyline graphic, emphasizing the enjoyment of having his \"own private little room.\" A bar chart comparing the US Highway budget ($64.3 billion) to Amtrak’s budget ($2.3 billion) is displayed, visually supporting his point that Amtrak is \"perpetually and profoundly underfunded.\" The man concludes by asking viewers to \"imagine what it would be like if this were evened out,\" as a split-screen shows a hand with a phone displaying a Northeastern US rail route and the man walking through a train station platform. The segment ends with the man entering the grand Moynihan Train Hall in New York City, accompanied by a melancholy, orchestral melody featuring a prominent wind instrument."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 12,
+      "end_minute": 12,
+      "summary": "A jazzy tune with saxophone and percussion accompanies a fisheye view of a busy New York City street, where a man with a beard and glasses, wearing a dark blue collared shirt, pulls a red suitcase, its wheels audibly rolling, past a double-decker bus. He enters a dimly lit hotel room, drops the suitcase with a thud, and leaps onto the bed. Turning to the camera, he states, \"So, I made it. All total it took me about 72 hours and 17 minutes,\" as on-screen text appears reading '3,224 MILES.' He describes the journey as \"actually really fun,\" a \"really pleasant, memorable experience\" where he \"got to see parts of the country that I had never seen before.\" The scene shifts to him inside a moving train, now in a striped shirt, his tattooed arms visible as he holds a camera and photographs the passing scenery. Black-and-white footage of a fence, trees, and tracks blurs by, followed by a color shot of the train crossing a bridge over a river, and finally, tracks rushing past from a moving perspective, all while he concludes, \"it was a pleasant experience,\" as the jazzy music continues and a new voice begins speaking about Amtrak.",
+      "involved_entities": {
+        "New York City": {
+          "description": "A text overlay labeling the location as 'New York City' appears over a wide-angle shot of a busy street with pedestrians crossing a zebra-striped crosswalk, tall buildings, and traffic, establishing the urban environment.",
+          "attribute": "visual"
+        },
+        "Red suitcase": {
+          "description": "A bright red rolling suitcase with an extended handle, pulled by the man through the streets of New York City with audible wheel sounds, and later dropped with a thud in the hotel room.",
+          "attribute": "audio-visual"
+        },
+        "Camera": {
+          "description": "A black camera with a strap, held by the man in the train, used to photograph the passing scenery, with his tattooed arms visible as he holds it up to his face.",
+          "attribute": "visual"
+        },
+        "Train interior": {
+          "description": "The interior of a moving train, featuring large windows through which the passing landscape is visible. The man is seen holding a camera, his tattooed arms prominent, as he photographs the scenery.",
+          "attribute": "visual"
+        },
+        "Man with beard and tattoos": {
+          "description": "A man with a beard, glasses, and a dark blue collared shirt, initially seen pulling a red suitcase through New York City streets, then entering a hotel room, leaping onto a bed. He then speaks directly to the camera in a calm, reflective, and slightly enthusiastic voice, detailing his 72-hour, 17-minute journey and expressing how much he enjoyed the 'pleasant, memorable experience' of seeing new parts of the country. Later, he appears in a light-colored striped shirt inside a moving train, holding a camera with tattooed arms visible, capturing the scenery.",
+          "attribute": "audio-visual"
+        },
+        "Hotel room": {
+          "description": "A dimly lit, modern hotel room with a large bed, white linens, a desk with bottles, a mounted TV, and dark curtains. The man enters, drops his suitcase, leaps onto the bed, and then stands to speak to the camera.",
+          "attribute": "visual"
+        },
+        "On-screen text '3,224 MILES'": {
+          "description": "White text appearing on screen during the man’s monologue in the hotel room, emphasizing the distance of his journey, which the man explicitly refers to as the distance he traveled.",
+          "attribute": "audio-visual"
+        },
+        "Train tracks": {
+          "description": "Multiple shots of train tracks from a moving perspective, including black-and-white footage showing tracks and a fence, and a color shot of tracks alongside a river with a bridge in the background, emphasizing the journey's motion and environment.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with an upbeat, jazzy tune featuring saxophone and percussion, accompanying a wide-angle fisheye shot of a bustling New York City street with pedestrians and traffic. A man with a beard, glasses, and a dark blue collared shirt is then seen pulling a bright red suitcase, its wheels audibly rolling, past a double-decker bus. He enters a dimly lit hotel room, dropping the suitcase with a distinct thud before dramatically leaping onto the bed. Standing up, he turns to the camera, speaking directly to the viewer in a calm, reflective, and slightly enthusiastic voice, explaining, \"So, I made it. All total it took me about 72 hours and 17 minutes.\" As he mentions the distance, on-screen text appears, reading '3,224 MILES,' which he notes he'll add in post. He continues, expressing that he \"had a good time\" and found the journey \"actually really fun,\" describing it as a \"really pleasant, memorable experience\" where he \"got to see parts of the country that I had never seen before.\" The scene transitions to him inside a moving train, now in a striped shirt, holding a camera with his tattooed arms visible, photographing the passing scenery. Black-and-white footage of a fence, trees, and tracks blurs past, followed by a color shot of the train crossing a bridge over a river amidst lush greenery, and finally, tracks rushing by from a moving perspective, all while he concludes that \"it was a pleasant experience.\" The jazzy music continues as a new voice begins to speak about Amtrak."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 13,
+      "end_minute": 13,
+      "summary": "The video begins with a blurred, fast-moving shot of train tracks and a narrator discussing the \"1,000 miles of passenger rail in the US,\" transitioning to a clear view of an Amtrak network map on a tray table, which the narrator critiques for its \"sparse coverage\" and \"routes that don't connect,\" noting the absence of trains in \"Wyoming and South Dakota\" and suggesting that removing Amtrak from \"life support\" would \"revolutionize the way people travel around the US.\" An exterior shot of a silver Amtrak train with red and blue stripes and the Amtrak logo is shown, followed by a brick train station building with a large blue Amtrak sign and a modern glass facade. The scene shifts to the bearded narrator in a dimly lit hotel room, introducing a quote from former Amtrak President Graham Claytor, displayed as a text graphic: \"When I came to Amtrak I was convinced I could save it, but finally came to the conclusion that only the American public can save it when they say they want it,\" which the narrator reads aloud. Back in the hotel room, the narrator states his need to \"take a much-needed shower and go to sleep in a real bed\" to \"rest up for my flight back to California tomorrow.\" The video then shows the man inside a moving train, reclined in a blue seat with his eyes closed, describing the experience as \"one of the best parts of riding the Amtrak,\" enjoying \"throwing on some PB Bridgers and wistfully staring out the window for hours on end,\" accompanied by the rhythmic sounds of the moving train. On-screen credits roll on the left, listing production roles and sources, while the final shot from the train window captures rapidly passing trees and clouds, indicating speed, as the credits continue to roll, all set against a gentle, whimsical background music.",
+      "involved_entities": {
+        "Tray table map": {
+          "description": "A detailed map of the United States rail system displayed on a white tray table, showing Amtrak routes in red and green lines, with major cities labeled and a legend at the bottom indicating 'Amtrak Train Routes' and 'Service Suspended'.",
+          "attribute": "visual"
+        },
+        "Train interior": {
+          "description": "The interior of a moving train, featuring a blue seat where the narrator is reclined with his eyes closed, appearing to rest or sleep, while his voice describes the experience of listening to music and staring out the window, accompanied by the rhythmic sounds of the moving train.",
+          "attribute": "audio-visual"
+        },
+        "Man with beard and tattoos": {
+          "description": "A male narrator with a beard, glasses, and a dark blue collared shirt, initially seen standing in a dimly lit hotel room speaking directly to the camera about Amtrak's coverage and future. He later expresses his personal plans to shower and sleep before a flight to California, and is then seen seated in a blue train seat with his eyes closed, appearing to rest or sleep, while his voice describes the enjoyment of listening to music and wistfully staring out the window during train travel, accompanied by the rhythmic sounds of the moving train.",
+          "attribute": "audio-visual"
+        },
+        "Amtrak train exterior": {
+          "description": "The side of a silver Amtrak train with red and blue stripes and the Amtrak logo prominently displayed, captured in a close-up shot.",
+          "attribute": "visual"
+        },
+        "Credits overlay": {
+          "description": "A black vertical bar on the left side of the screen listing production credits, sources, images, footage, thanks, and music, including names like Dean Peterson, Amtrak, Getty, and music tracks such as 'Big and Whimsical' and 'Cowboys All Ride Away'.",
+          "attribute": "visual"
+        },
+        "Passing landscape from train window": {
+          "description": "A view from a moving train window showing a bright blue sky with white clouds and green trees passing by rapidly, which the narrator describes as something he enjoys wistfully staring at for hours.",
+          "attribute": "audio-visual"
+        },
+        "Train station building": {
+          "description": "A brick train station building with a large blue Amtrak sign and a modern glass facade, visible in the background behind the train.",
+          "attribute": "visual"
+        },
+        "Quote graphic": {
+          "description": "A white grid background with a black text quote from Graham Claytor, former CEO of Amtrak, which is read aloud by the narrator, with 'Amtrak' highlighted in blue and 'when they say they want it' highlighted in yellow.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a blurred, fast-moving shot of train tracks, accompanied by a male narrator's voice discussing the \"1,000 miles of passenger rail in the US.\" This transitions to a clear, static view of a detailed Amtrak network map of the United States displayed on a tray table, highlighting various routes in red and green lines, as the narrator points out its \"sparse coverage,\" \"routes that don't connect,\" and the absence of trains in \"Wyoming and South Dakota.\" He continues, suggesting that if the United States took Amtrak \"off life support,\" it would \"revolutionize the way people travel around the US.\" An exterior shot of a silver Amtrak train with red and blue stripes and the Amtrak logo is then shown, followed by a brick train station building with a large blue Amtrak sign and a modern glass facade. The scene cuts to the same bearded man, now identified as the narrator, in a dimly lit hotel room, speaking directly to the camera. He introduces a quote from former Amtrak President Graham Claytor, which then appears as a text graphic: \"When I came to Amtrak I was convinced I could save it, but finally came to the conclusion that only the American public can save it when they say they want it.\" The narrator's voice reads this quote aloud. The man reappears in the hotel room, continuing his narration, stating he needs to \"take a much-needed shower and go to sleep in a real bed\" to \"rest up for my flight back to California tomorrow.\" The video then transitions to the man seated inside a moving train, reclined in a blue seat with his eyes closed, appearing to rest. His voice, now sounding more relaxed and accompanied by the rhythmic sounds of the moving train, describes this experience as \"one of the best parts of riding the Amtrak,\" enjoying \"throwing on some PB Bridgers and wistfully staring out the window for hours on end.\" On-screen credits roll on the left side, listing production roles and sources including Amtrak and various music tracks like 'Big and Whimsical' and 'Cowboys All Ride Away'. The final shot shows a view from the train window, with trees and clouds passing rapidly, indicating the train’s speed, as the credits continue to roll. Throughout the segment, a gentle, whimsical background music plays."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Train interior": "The interior of a moving train, featuring a blue seat where the narrator is reclined with his eyes closed, appearing to rest or sleep, while his voice describes the experience of listening to music and staring out the window, accompanied by the rhythmic sounds of the moving train.",
+    "News headline graphic": "A text overlay from CBS News reading 'Amtrak suspends train service in New York due to storm damage', with a red highlight on 'suspends train service', not visible in this segment.",
+    "Man with beard and tattoos": "A male narrator with a beard, glasses, and a dark blue collared shirt, initially seen standing in a dimly lit hotel room speaking directly to the camera about Amtrak's coverage and future. He later expresses his personal plans to shower and sleep before a flight to California, and is then seen seated in a blue train seat with his eyes closed, appearing to rest or sleep, while his voice describes the enjoyment of listening to music and wistfully staring out the window during train travel, accompanied by the rhythmic sounds of the moving train.",
+    "Title card": "A white background with the text 'Vox Design, explained' in black, accompanied by a yellow circle and a pink triangle, indicating the start of a Vox explainer segment, not visible in this segment.",
+    "Train station platform": "An outdoor train station with a covered wooden-beamed roof, concrete pillars, benches, potted purple flowers, and passengers boarding a train. The platform is bustling with activity, and the train’s side is visible with its red and silver livery.",
+    "Los Angeles station building": "An ornate building with arched doorways, tiled floors, and decorative stonework, labeled 'Los Angeles' as the man enters, not visible in this segment.",
+    "Route map graphic": "An animated line connecting 'Los Angeles' and 'New York City' with a yellow triangle marker, overlaid on the video as the man speaks, though not visible in this segment, it is contextually referenced.",
+    "Tray table map": "A detailed map of the United States rail system displayed on a white tray table, showing Amtrak routes in red and green lines, with major cities labeled and a legend at the bottom indicating 'Amtrak Train Routes' and 'Service Suspended'.",
+    "Historical train sketch": "A black-and-white sketch depicting 19th-century passengers in formal attire seated inside a train car, with a conductor standing nearby, overlaid with a modern train interior.",
+    "Vintage train illustration": "A colorful illustration of a steam locomotive pulling passenger cars, labeled 'Broadway Limited, Pennsylvania Railroad', with smoke billowing from the engine, not visible in this segment but contextually relevant.",
+    "Pennsylvania Railroad sign": "A red sign with the Pennsylvania Railroad logo (a white 'P' inside a red keystone) held by the man, labeled 'Pennsy', though not visible in this segment, it is referenced contextually.",
+    "Penn Station 1911 photograph": "A sepia-toned photograph of Penn Station's grand interior from 1911, held by a hand, showing towering columns, arched ceilings, and ornate details.",
+    "Animated route map (Southern California)": "A gray map of Southern California with a red dotted line tracing a train route from Los Angeles through San Bernardino into the desert, marked with a yellow triangle.",
+    "Historical menu (1917)": "A printed menu from the Pennsylvania Railroad dated Tuesday, November 13, 1917, listing dinner items such as oysters, scallops, duck, and vegetables, with a notice that no meat is served on Tuesdays.",
+    "Observation car interior": "A modern train car with large, curved windows, a high ceiling, and rows of blue seats, where passengers sit and look out at the passing landscape.",
+    "Modern Amtrak menu": "A printed flexible dining menu from Amtrak, listing contemporary options like chicken ala rosa, baked ziti, and desserts, with a QR code and Amtrak branding.",
+    "Sleeping passenger": "The man with beard and tattoos, seen lying in his sleeper berth covered with a blue blanket, then sitting up. He mentions being rocked to sleep by the train's movements and waking up to find they had 'reached Ohio.'",
+    "Time stamp overlay": "A white text overlay reading '3:00 AM' appearing on screen during the sleeping scene.",
+    "Train bathroom": "A narrow, dimly lit train bathroom where the man demonstrates a compact, folding 'hidden sink' with accompanying mechanical sounds, and brushes his teeth.",
+    "Group portrait of industrialists": "A black-and-white group photograph of several 19th-century men in formal suits, seated and standing in an ornate room, with one man in a top hat prominently featured.",
+    "Vintage U.S. rail map": "An old, detailed map of the United States showing a dense network of rail lines, with cities like Chicago, St. Louis, and New Orleans labeled, and zooming across the Midwest and South.",
+    "Political cartoon of train barons": "A black-and-white political cartoon showing two men riding steam locomotives labeled 'HUDSON RIVER R.R.', 'N.Y. CENTRAL R.R.', and 'ERIE R.R.', with one man (Vanderbilt) commanding the other (Gould) to 'LET EM RIP BUT DONT STOP TO WATER'.",
+    "Cornelius Vanderbilt portrait": "A black-and-white historical portrait of a man with a beard and formal 19th-century attire, labeled 'Cornelius Vanderbilt' with the text 'Robber barons' overlaid.",
+    "Jay Gould portrait": "A black-and-white historical portrait of a man with a full beard and formal 19th-century attire, labeled 'Jay Gould'.",
+    "Historical train station illustration": "A black-and-white illustration of a crowded 19th-century train station with people, tents, and signs, including one reading 'SQUARE MEALS, LODGINGS'.",
+    "Passenger Travel in the US pie chart": "A dynamic pie chart with a grid background, titled 'Passenger Travel in the US,' sourced from the Interstate Commerce Commission 1956 and University of Iowa 1989. It visually compares railroad passenger share: 4% in 1956 (pink slice) and 98% in 1916 (pink slice), with the rest in blue, highlighting the dramatic decline in rail dominance over time.",
+    "Interstate Commerce Act of 1887 document": "A historical document displayed with a grid overlay, titled 'Interstate Commerce Act of 1887,' showing text from the Forty-Ninth Congress of the United States of America, with a date stamp of February 5, 1887. The document is presented as a key historical reference in the narrative.",
+    "Archival train footage": "Black-and-white footage showing a train moving through a wooded area, viewed from the front, with smoke and trees passing by, evoking early 20th-century rail travel.",
+    "Archival automobile footage": "Black-and-white footage of early 20th-century automobiles parked outside a brick building with large windows, with people in period attire standing nearby, illustrating the rise of personal transportation.",
+    "Quote graphic": "A white grid background with a black text quote from Graham Claytor, former CEO of Amtrak, which is read aloud by the narrator, with 'Amtrak' highlighted in blue and 'when they say they want it' highlighted in yellow.",
+    "Freight train overpass": "A modern freight train carrying colorful shipping containers moving across a concrete overpass, with dry, scrubby vegetation and utility poles visible below, indicating an industrial or semi-rural setting.",
+    "Amtrak logo graphic": "A blue, starburst-style graphic with the word 'Amtrak' at the center, radiating lines to major U.S. cities including Seattle, Chicago, New York, San Diego, and Washington, displayed against a black background.",
+    "US Highway budget vs. Amtrak budget chart": "A horizontal bar chart comparing 'FEDERAL HIGHWAYS' at $64.3 billion (in pink) and 'AMTRAK' at $2.3 billion (in teal), with the title 'US Highway budget vs. Amtrak budget.' The chart includes source citations from the 'US Department of Transportation 2023 Budget Highlights' and 'Amtrak 2022 Consolidated Financial Statement,' presented on a white grid background. This chart visually supports the speaker's assertion that Amtrak is 'perpetually and profoundly underfunded.'",
+    "AMTRAK budget graphic": "A clean, minimalist graphic displaying 'AMTRAK $2.3 billion' in bold black text with a teal square icon, sourced from the 'Amtrak 2022 Consolidated Financial Statement.' The design is simple and grid-based, emphasizing the financial figure.",
+    "Public Law 91-518 document": "A historical legal document titled 'PUBLIC LAW 91-518—OCT. 30, 1970,' specifically 'TITLE III—CREATION OF A RAIL PASSENGER CORPORATION,' with key phrases such as 'for profit corporation' and 'innovative operating and marketing concepts' highlighted in yellow. The document is shown in close-up, with text clearly legible and annotations emphasizing specific sections.",
+    "Grand train station hall": "A spacious, ornate train station hall with high ceilings, large columns, a glass skylight, and marble floors. The hall features a 'TO ALL TRAINS' sign, benches, and passengers walking or sitting with luggage. The architecture is classical, with detailed stonework and a large American flag displayed. The man enters this hall as a melancholy, orchestral melody begins, creating a reflective atmosphere following his discussion of Amtrak's potential if properly funded.",
+    "Outdoor urban setting": "A bright, sunlit urban environment with tall buildings, green trees, and a large digital billboard displaying a close-up of a face. The man stands in front of the billboard, speaking to the camera, with people walking in the background.",
+    "Chicago": "An exterior shot of a train moving through Chicago, with the city skyline visible in the background and a yellow triangle marker labeling the location. The scene includes multiple train tracks and industrial buildings, with the train’s red and silver livery clearly visible.",
+    "Cloud Gate sculpture (The Bean)": "A large, reflective, bean-shaped sculpture in Chicago’s Millennium Park, with its polished stainless steel surface mirroring the surrounding buildings and sky, bustling with people. It is visually present with background music.",
+    "Title card (Kleinman Center for Energy Policy)": "A white background with the title 'Traveling Across the United States the Old-Fashioned Way' in bold blue text, authored by Andrés S. Svennazi, dated June 16, 2022, with a subtitle explaining the importance of passenger rail in combating climate change. The text describes the author’s 3,000-mile Amtrak journey across three iconic train lines, introduced by a clear male narrator who highlights the environmental and safety benefits of train travel.",
+    "New York City": "A text overlay labeling the location as 'New York City' appears over a wide-angle shot of a busy street with pedestrians crossing a zebra-striped crosswalk, tall buildings, and traffic, establishing the urban environment.",
+    "Red suitcase": "A bright red rolling suitcase with an extended handle, pulled by the man through the streets of New York City with audible wheel sounds, and later dropped with a thud in the hotel room.",
+    "Camera": "A black camera with a strap, held by the man in the train, used to photograph the passing scenery, with his tattooed arms visible as he holds it up to his face.",
+    "Hotel room": "A dimly lit, modern hotel room with a large bed, white linens, a desk with bottles, a mounted TV, and dark curtains. The man enters, drops his suitcase, leaps onto the bed, and then stands to speak to the camera.",
+    "On-screen text '3,224 MILES'": "White text appearing on screen during the man’s monologue in the hotel room, emphasizing the distance of his journey, which the man explicitly refers to as the distance he traveled.",
+    "Train tracks": "Multiple shots of train tracks from a moving perspective, including black-and-white footage showing tracks and a fence, and a color shot of tracks alongside a river with a bridge in the background, emphasizing the journey's motion and environment.",
+    "Amtrak train exterior": "The side of a silver Amtrak train with red and blue stripes and the Amtrak logo prominently displayed, captured in a close-up shot.",
+    "Credits overlay": "A black vertical bar on the left side of the screen listing production credits, sources, images, footage, thanks, and music, including names like Dean Peterson, Amtrak, Getty, and music tracks such as 'Big and Whimsical' and 'Cowboys All Ride Away'.",
+    "Passing landscape from train window": "A view from a moving train window showing a bright blue sky with white clouds and green trees passing by rapidly, which the narrator describes as something he enjoys wistfully staring at for hours.",
+    "Train station building": "A brick train station building with a large blue Amtrak sign and a modern glass facade, visible in the background behind the train."
+  }
+}

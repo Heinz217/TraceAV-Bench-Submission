@@ -1,0 +1,854 @@
+{
+  "video_id": "video235",
+  "audio_id": "video235_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "An eerie, atmospheric background music with sustained synth pads and a deep bass drone accompanies a black screen, which then displays a white stylized 'SEA' logo. This transitions to a Stephen Hawking quote: 'Because there is such a law as gravity, the universe can and will create itself from nothing.' The scene shifts to a starfield, described by a male narrator as \"unimaginably vast\" and \"incredible.\" The camera zooms out to reveal Earth from space, with the Moon nearby, as the narrator explains that \"living, breathing sentient\" beings are \"born out of a dead rock\" (Earth) \"flying around a single star\" (the Sun). The view pans to the brightly shining Sun, then transitions to the Milky Way galaxy, where the number '400,000,000,000' appears, visually reinforcing the narrator's statement about \"a galaxy containing some 400 billion others\" and \"400 billion stars, each with their own planets and stories.\" The narrator notes that the Milky Way is \"brimming with so many stars that we could never possibly explore every single one,\" yet it is \"microscopic and indistinguishable when compared with the rest of the universe.\" The view zooms out to a distant spiral galaxy, then a vast expanse of space filled with countless stars, underscoring the immense scale of the cosmos as the narrator mentions \"Even just our local...\" before the segment ends.",
+      "involved_entities": {
+        "SEA Logo": {
+          "description": "A white stylized helmet or mask-like logo with the text 'SEA' beneath it, appearing on a black background.",
+          "attribute": "visual"
+        },
+        "Vast Space": {
+          "description": "An expansive view of the universe filled with countless stars, emphasizing the immense scale of space, which the narrator describes as 'unimaginably vast' and 'incredible' in scale, with the Milky Way being 'microscopic' within it.",
+          "attribute": "audio-visual"
+        },
+        "Earth": {
+          "description": "A realistic depiction of Earth from space, showing blue oceans, white clouds, and landmasses, with the Moon visible nearby, described by the narrator as a 'dead rock' from which 'living, breathing sentient' beings are born.",
+          "attribute": "audio-visual"
+        },
+        "Milky Way Galaxy": {
+          "description": "A vertical band of stars and cosmic dust, appearing as a dense, glowing structure in the night sky, explicitly identified by the narrator as 'a galaxy containing some 400 billion others' and later as the 'Milky Way,' which is 'brimming with so many stars' yet 'microscopic and indistinguishable' compared to the rest of the universe.",
+          "attribute": "audio-visual"
+        },
+        "Number Display": {
+          "description": "The white text '400,000,000,000' overlaid on the Milky Way, visually representing the '400 billion' stars mentioned by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Stephen Hawking Quote": {
+          "description": "White text on a black background stating: 'Because there is such a law as gravity, the universe can and will create itself from nothing.'",
+          "attribute": "visual"
+        },
+        "Starfield": {
+          "description": "A dense, dark background filled with numerous small, twinkling white stars, representing deep space, which the narrator describes as 'unimaginably vast' and 'incredible' in scale.",
+          "attribute": "audio-visual"
+        },
+        "Spiral Galaxy": {
+          "description": "A distant, rotating spiral galaxy with a bright core and swirling arms, set against a star-filled background.",
+          "attribute": "visual"
+        },
+        "Sun": {
+          "description": "A bright, radiant star with lens flares, positioned to the left of Earth, illuminating the scene, which the narrator refers to as 'a single star' around which Earth is flying.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens on a black screen, accompanied by an eerie, atmospheric background music featuring sustained synth pads and a deep bass drone, creating a sense of mystery and vastness. A white stylized 'SEA' logo, resembling a helmet or mask, appears before transitioning to a quote by Stephen Hawking: 'Because there is such a law as gravity, the universe can and will create itself from nothing.' The scene then shifts to a starfield, which a male narrator begins to describe as \"unimaginably vast\" and \"incredible\" in scale. The camera gradually zooms out to reveal Earth from space, with the Moon visible nearby, as the narrator explains that \"living, breathing sentient\" beings are \"born out of a dead rock\" (Earth) \"flying around a single star\" (the Sun). The view pans to show the brightly shining Sun, then transitions to the Milky Way galaxy, where the number '400,000,000,000' appears, visually reinforcing the narrator's statement about \"a galaxy containing some 400 billion others\" and \"400 billion stars, each with their own planets and stories.\" The narrator continues, noting that \"The Milky Way is brimming with so many stars that we could never possibly explore every single one,\" yet it is \"microscopic and indistinguishable when compared with the rest of the universe.\" The view further zooms out to show a distant spiral galaxy, then a vast expanse of space filled with countless stars, underscoring the immense scale of the cosmos as the narrator mentions \"Even just our local...\" before the segment ends."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 2,
+      "summary": "The video commences with a black screen displaying the word 'Why?' in white text, immediately followed by a male voice posing existential questions about the universe's scale and incomprehensibility. The screen then transitions to a starfield, a dense expanse of twinkling white stars, briefly punctuated by a vibrant pink nebula before returning to the starfield. The title 'THE COSMIC SCALE' appears in white text against a deep purple cosmic backdrop, introducing the video's theme as the male voice continues to ponder the universe's size. A slow, evolving, and grand synth background music begins as large numerical values—'93,000,000,000', '2,000,000,000,000', and '1,000,000,000,000,000,000,000'—are displayed in white text over the starfield. The male voice provides context, stating the observable universe is estimated to be around 93 billion light-years in diameter, containing up to 2 trillion galaxies, and potentially one septillion stars, assuming similarity to observed galaxies. The concluding frames feature a horizontal band of cosmic dust and stars, reminiscent of the Milky Way, with the final number overlaid, emphasizing the universe's immense scale.",
+      "involved_entities": {
+        "Title Text": {
+          "description": "The white text 'THE COSMIC SCALE' displayed over a deep purple cosmic background, introducing the video's theme after a male voice poses fundamental questions about the universe's size.",
+          "attribute": "audio-visual"
+        },
+        "Milky Way Galaxy": {
+          "description": "A horizontal band of stars and cosmic dust, appearing as a dense, glowing structure in the night sky, visible in the final frames, visually reinforcing the immense scale of the universe as the male voice discusses the number of stars.",
+          "attribute": "audio-visual"
+        },
+        "Number Display": {
+          "description": "The white text '93,000,000,000', '2,000,000,000,000', and '1,000,000,000,000,000,000,000' overlaid on the starfield, representing astronomical distances or quantities. A male voice explicitly identifies these as 93 billion light-years for the observable universe's diameter, 2 trillion galaxies, and one septillion stars in the known universe, respectively.",
+          "attribute": "audio-visual"
+        },
+        "Starfield": {
+          "description": "A dense, dark background filled with numerous small, twinkling white stars, representing deep space, serving as a backdrop for the initial contemplative question and subsequent numerical displays.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a black screen displaying the word 'Why?' in white text, setting a contemplative tone. A male voice immediately questions, \"But why? Why is the universe like this? Why is the cosmic scale so large and incomprehensible?\" as the screen transitions into a starfield, a dense expanse of twinkling white stars against a dark background. A vibrant pink nebula briefly appears, adding a dynamic splash of color before fading back into the starfield. The title 'THE COSMIC SCALE' then emerges in white text over a deep purple cosmic backdrop, establishing the theme, while the voice continues, \"And of course, the biggest question of them all. How large actually is it?\". From this point, a slow, evolving, and grand synth background music begins, accompanying a series of large numerical values—'93,000,000,000', '2,000,000,000,000', and '1,000,000,000,000,000,000,000'—each displayed in white text over the starfield. The male voice provides context for these numbers, stating, \"The observable universe is estimated to be around 93 billion light-years in diameter,\" then \"Contained within its expanse is thought to be as many as 2 trillion galaxies,\" and finally, \"Assuming these galaxies are similar to the ones we observe around us today, then there may be up to one septillion stars in the known universe.\" The final frames show a horizontal band of cosmic dust and stars, resembling the Milky Way, with the last number overlaid, reinforcing the immense scale of the universe."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 3,
+      "end_minute": 4,
+      "summary": "A vast starfield displays the number '1,000,000,000,000,000,000,000' as a male voice explains this represents a minuscule fraction of the universe's scale, potentially millions of times larger. The view shifts to a deep expanse of stars, with the voice stating, \"This is our universe's story.\" Swirling cosmic clouds in purples and reds, suggestive of nebulae, appear as the camera traverses them. The text 'The Universe' emerges over a star-filled sky. The scene then reveals the curved horizon of Earth from orbit, its blue atmosphere glowing against space, with city lights visible on the dark side. The narrator questions the meaning of 'universe,' defining it as 'all of space and time,' with space being the volume within it. The narrative progresses to describe the 'three-dimensional field which lies beyond Earth's atmosphere,' transitioning to a distant spiral galaxy and a luminous cosmic nebula, identified as the 'vast backdrop to the universe's matter.' A bright star creates a lens flare, followed by a swirling vortex of stars. 'Time' is defined as 'the constant flow of cause to effect within this space, the catalyst of life, death, creation, and evolution.' The term 'Spacetime' appears over a band of stars, explained as the fundamental link between space and time, forming a 'system of nearly unknowable complexity known as spacetime, which is often referred to as four-dimensional.' A 3D diagram illustrates spacetime as expanding cubes filled with starfields, representing the universe at different points in its life, with space as three dimensions and time as the fourth. The word 'Spacetime' reappears surrounded by scientific terms and a portrait of Albert Einstein, credited with our understanding of spacetime and many other scientific ideas. A sweeping view of the Milky Way Galaxy transitions to a glowing spiral galaxy, as the narrator concludes Einstein's unique understanding of space and time provided fundamental frameworks for modeling the cosmos.",
+      "involved_entities": {
+        "Title Text": {
+          "description": "The white text 'Spacetime' displayed over a star-filled sky, introducing the theme, which the narrator defines as a system of 'unknowable complexity' formed by the linkage of space and time, often called 'four-dimensional'.",
+          "attribute": "audio-visual"
+        },
+        "Starfield": {
+          "description": "A dense, dark background filled with numerous small, twinkling white stars, representing deep space.",
+          "attribute": "visual"
+        },
+        "Cosmic Nebula": {
+          "description": "Swirling clouds of gas and dust in deep purples and reds, appearing as ethereal, luminous formations in space, suggesting interstellar nebulae.",
+          "attribute": "visual"
+        },
+        "Earth": {
+          "description": "A realistic depiction of Earth from space, showing a curved horizon with a thin blue atmospheric glow and visible city lights on the dark side, set against a starry backdrop, which the narrator refers to as having an 'atmosphere' and being part of a 'three-dimensional field'.",
+          "attribute": "audio-visual"
+        },
+        "Number Display": {
+          "description": "The white text '1,000,000,000,000,000,000,000' overlaid on the starfield, representing an astronomical quantity.",
+          "attribute": "visual"
+        },
+        "Spacetime Diagram": {
+          "description": "A 3D diagram composed of cubes extending along a time axis, each cube filled with a starfield, visually representing the concept of spacetime and cosmic expansion, which the narrator explains shows space as three dimensions and time as the fourth, with each cross-section representing 'the universe at a certain point in its life'.",
+          "attribute": "audio-visual"
+        },
+        "Vast Space": {
+          "description": "An expansive view of the universe filled with countless stars, emphasizing the immense scale of space.",
+          "attribute": "visual"
+        },
+        "Milky Way Galaxy": {
+          "description": "A horizontal band of stars and cosmic dust, appearing as a dense, glowing structure in the night sky, visible in the final frames.",
+          "attribute": "visual"
+        },
+        "Spiral Galaxy": {
+          "description": "A distant, rotating spiral galaxy with a bright core and swirling arms, set against a star-filled background.",
+          "attribute": "visual"
+        },
+        "Albert Einstein Portrait": {
+          "description": "A black-and-white photograph of Albert Einstein, showing him in a patterned suit with a bow tie, labeled with his name and lifespan (1879–1955), identified by the narrator as the key figure behind 'our understanding of spacetime and a great many other scientific ideas', who 'understood space and time in a way that nobody had done prior'.",
+          "attribute": "audio-visual"
+        },
+        "Sun": {
+          "description": "A bright, radiant star with lens flares, positioned to the left of Earth, illuminating the scene.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a vast starfield, displaying the number '1,000,000,000,000,000,000,000' in white text, emphasizing an astronomical scale. Ethereal, slightly ominous background music begins as a male voice explains that this number represents only a tiny percentage of the universe's unprecedented scale, which could be hundreds, thousands, or even millions of times more voluminous. The scene transitions into a deep, dark expanse of space filled with countless twinkling stars, where the male voice declares, \"This is our universe's story.\" The view gradually shifts to reveal swirling cosmic clouds in deep purples and reds, suggesting nebulae, as the camera moves through these ethereal formations, creating a sense of traveling through the cosmos. As the clouds dissipate, the view returns to a star-filled sky, where the text 'The Universe' appears in elegant white font, anchoring the theme. The scene then fades into a dense starfield before revealing the curved horizon of Earth, illuminated by a thin blue atmospheric glow against the blackness of space, with city lights visible on the dark side of the planet. The background music becomes more grand and expansive, building a sense of wonder. The final frames maintain this serene view of Earth from orbit, emphasizing its isolation and beauty in the vastness of space, while the male voice returns to pose the question, \"The first thing to consider is language. What do we mean when we say the universe?\" He then defines, \"The universe is defined as all of space and time. All points in space, at all points in its life. Space is the volume within the universe.\"",
+        "The video begins with a serene view of Earth from space, its curved horizon glowing with a thin blue atmospheric layer against a starfield, as a male narrator describes \"the three-dimensional field which lies beyond Earth's atmosphere.\" This transitions to a distant spiral galaxy, its bright core and swirling arms slowly rotating, before zooming into a luminous cosmic nebula with swirling gas and dust, all while the narrator explains this acts \"as the vast backdrop to the universe's matter.\" The camera then moves through a bright, radiant star, creating a lens flare effect, followed by a swirling vortex of stars and cosmic material, as the narrator defines \"Time\" as \"the constant flow of cause to effect within this space, the catalyst of life, death, creation, and evolution.\" The word 'Spacetime' appears over a horizontal band of stars and dust, resembling the Milky Way Galaxy, while the narrator explains that \"Space and time are fundamentally linked, and they combine to form a system of nearly unknowable complexity known as spacetime, which is often referred to as four-dimensional.\" A 3D diagram then illustrates spacetime as a series of cubes extending along a time axis, each filled with starfields, visually representing the expansion of the universe, as the narrator details that \"space constitutes three dimensions, and time is the fourth dimension,\" with each 3D cube cross-section representing \"the universe at a certain point in its life.\" The word 'Spacetime' reappears, surrounded by scientific terms like 'E = mc²', 'Special Relativity', and 'Quantum Theory of Light', followed by a black-and-white portrait of Albert Einstein (1879–1955), whom the narrator identifies as the source of \"our understanding of spacetime and a great many other scientific ideas.\" A sweeping view of the Milky Way Galaxy then transitions into a glowing spiral galaxy in deep space, emphasizing the vastness and structure of the cosmos, as the narrator concludes that Einstein \"understood space and time in a way that nobody had done prior, giving us two fundamental frameworks with which we model...\" A consistent, ambient, space-themed musical score plays throughout the segment."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 5,
+      "end_minute": 5,
+      "summary": "The narrative begins with a split-screen showcasing Einstein's 1905 paper 'ON THE ELECTRODYNAMICS OF MOVING BODIES' and a handwritten manuscript, coinciding with the narrator's conclusion about 'our reality today.' Text overlays introduce 'Special Relativity' with 'Light', 'Mass', 'Energy' as the narrator explains Einstein's 1905 theory. The overlays then shift to 'General Relativity' with 'Gravity', 'Space', 'Time' as the narrator details the 1915 theory's comprehensive interpretation. The visual transitions to Earth from space, emphasizing its curvature and atmospheric glow, while the narrator notes the theories' century-long survival and their foundational role in understanding the universe. A cosmic nebula of swirling purples and reds appears, followed by a white grid on black that distorts into a curved surface around a yellow sphere, visually representing spacetime curvature as the narrator explains mass's warping effect on space and time. A red trajectory line curves around the yellow sphere, demonstrating gravitational influence, and the narrator states this curvature is felt as gravity. Two celestial bodies, one smaller and one larger, orbit each other in space, illustrating gravity as the effect of mass attracting objects by distorting spacetime. The scene concludes with a bright starfield and prominent lens flares, symbolizing distant celestial bodies, as the narrator describes gravity as the simplest yet most profound fundamental force governing the universe, all accompanied by a subtle, evolving synth soundscape.",
+      "involved_entities": {
+        "Spacetime Diagram": {
+          "description": "A 3D diagram composed of cubes extending along a time axis, each cube filled with a starfield, visually representing the concept of spacetime and cosmic expansion.",
+          "attribute": "visual"
+        },
+        "Red Trajectory Line": {
+          "description": "A red curved line with an arrow, illustrating the path of an object being deflected by the gravitational field of the yellow sphere, visually demonstrating how the curvature of spacetime is felt as gravity.",
+          "attribute": "audio-visual"
+        },
+        "Einstein's Paper": {
+          "description": "A printed document titled 'ON THE ELECTRODYNAMICS OF MOVING BODIES' by A. Einstein, dated June 30, 1905, displayed on the left side of a split screen, directly referenced by the narrator as the publication of Einstein's theory of special relativity in 1905.",
+          "attribute": "audio-visual"
+        },
+        "Earth": {
+          "description": "A realistic depiction of Earth from space, showing a curved horizon with a thin blue atmospheric glow and visible city lights on the dark side, set against a starry backdrop.",
+          "attribute": "visual"
+        },
+        "Cosmic Nebula": {
+          "description": "Swirling clouds of gas and dust in deep purples and reds, appearing as ethereal, luminous formations in space, suggesting interstellar nebulae.",
+          "attribute": "visual"
+        },
+        "Yellow Sphere": {
+          "description": "A yellow, textured sphere placed at the center of the warped grid, symbolizing a massive celestial body whose condensed energy causes the warping effect on spacetime, leading to what is felt as gravity.",
+          "attribute": "audio-visual"
+        },
+        "Spacetime Grid": {
+          "description": "A white grid on a black background that distorts into a curved surface, visually representing the warping effect of mass on the flat plane of space and time, as described by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Starfield": {
+          "description": "A dense, dark background filled with numerous small, twinkling white stars, representing deep space.",
+          "attribute": "visual"
+        },
+        "Orbiting Celestial Bodies": {
+          "description": "Two spherical bodies, one smaller and one larger, shown orbiting each other in space, visually representing the effect of gravity where objects of mass attract one another by distorting spacetime.",
+          "attribute": "audio-visual"
+        },
+        "Handwritten Manuscript": {
+          "description": "A handwritten document in German, appearing on the right side of the split screen, likely related to Einstein's work on relativity.",
+          "attribute": "visual"
+        },
+        "Bright Starfield with Lens Flares": {
+          "description": "A dark space background featuring two intensely bright light sources with prominent lens flares, suggesting distant stars or galaxies.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a black screen before transitioning to a split-screen view, displaying Einstein's printed paper 'ON THE ELECTRODYNAMICS OF MOVING BODIES' from 1905 on the left, alongside a handwritten manuscript on the right, as the narrator concludes a thought about \"our reality today.\" Text overlays then appear, listing 'Special Relativity' with bullet points 'Light', 'Mass', 'Energy', perfectly aligning with the narrator's explanation that \"In 1905, Einstein presented his theory of special relativity, changing the way we view light, mass, and energy.\" The text overlays then shift to 'General Relativity' with 'Gravity', 'Space', 'Time', as the narrator continues, \"Then, in 1915, he presented his theory of general relativity. A comprehensive interpretation of gravity, space, time, and their links.\" The visual transitions to a realistic view of Earth from space, highlighting its curvature and atmospheric glow, while the narrator emphasizes that \"These elegant theories have survived in science for more than a century, and they underpin a lot of what we know about the universe today.\" The scene then transitions to a cosmic nebula of swirling purples and reds, followed by a white grid pattern emerging on a black background. This grid distorts into a curved surface around a yellow sphere, visually representing spacetime curvature, as the narrator explains, \"According to Einstein, mass is a form of condensed energy, which has a warping effect on the flat plane of space and time that lines our universe.\" A red trajectory line curves around the yellow sphere, demonstrating gravitational influence, while the narrator states, \"The resulting curvature on this flat plane is felt as gravity.\" The video then shows two celestial bodies, one smaller and one larger, orbiting each other in space, illustrating the narrator's point that \"Gravity is the effect of objects of mass attracting one another by distorting spacetime.\" This is followed by a bright starfield featuring two intense light sources with prominent lens flares, symbolizing distant stars or galaxies, as the narrator concludes, \"It is the simplest yet most profound of the fundamental forces which govern our universe.\" Throughout the segment, a subtle, evolving synth soundscape provides background music."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 6,
+      "end_minute": 6,
+      "summary": "The Sun, a radiant star against a starfield, illuminates Earth, revealing its thin blue atmospheric glow as a calm male narrator states that mass, and thus gravity, dominates the universe's behavior at all levels. The scene transitions to a large, cratered celestial body and a distant planet, then expands to a spiral galaxy and a vibrant cosmic nebula, illustrating gravity's influence from particle interactions to galactic scales. A portrait of Albert Einstein appears, followed by a starfield, before the introduction of Edwin Hubble, an American astronomer whose portrait is shown. The narrator explains the pre-Hubble belief in a static universe filled with stars and nebulae. A red circle highlights a distant galaxy, which is then zoomed into, revealing its spiral structure. The narrator details Hubble's late 1924 discovery that a \"so-called nebula\" was a separate star collection, like the Milky Way but much further away, leading to the revelation about the Milky Way galaxy, all underscored by subtle, atmospheric background music.",
+      "involved_entities": {
+        "Edwin Hubble Portrait": {
+          "description": "A black-and-white photograph of Edwin Hubble, an American astronomer shown in a suit with a pipe, whose groundbreaking discoveries about the universe are discussed by the narrator, who states he was 'not afraid to take on the biggest questions, making a number of groundbreaking discoveries.'",
+          "attribute": "audio-visual"
+        },
+        "Earth": {
+          "description": "A realistic depiction of Earth from space, showing a curved horizon with a thin blue atmospheric glow and visible city lights on the dark side, set against a starry backdrop.",
+          "attribute": "visual"
+        },
+        "Cosmic Nebula": {
+          "description": "Swirling clouds of gas and dust in deep purples and reds, appearing as ethereal, luminous formations in space, suggesting interstellar nebulae.",
+          "attribute": "visual"
+        },
+        "Red Circle Highlight": {
+          "description": "A red circular overlay used to draw attention to a specific galaxy within the starfield, indicating its significance in the visual narrative.",
+          "attribute": "visual"
+        },
+        "Cratered Celestial Body": {
+          "description": "A large, textured, cratered sphere resembling the Moon, dominating the frame against a starry background with a smaller planet visible in the distance.",
+          "attribute": "visual"
+        },
+        "Starfield": {
+          "description": "A dense, dark background filled with numerous small, twinkling white stars, representing deep space.",
+          "attribute": "visual"
+        },
+        "Spiral Galaxy": {
+          "description": "A distant, rotating spiral galaxy with a bright core and swirling arms, set against a star-filled background, which the narrator explains represents the type of 'nebula' Edwin Hubble discovered to be a separate collection of stars, much like our own Milky Way galaxy, but much further beyond than originally thought.",
+          "attribute": "audio-visual"
+        },
+        "Albert Einstein Portrait": {
+          "description": "A black-and-white photograph of Albert Einstein, showing him in a patterned suit with a bow tie, labeled with his name and lifespan (1879–1955).",
+          "attribute": "visual"
+        },
+        "Sun": {
+          "description": "A bright, radiant star with lens flares, positioned to the left of Earth, illuminating the scene.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of a bright, radiant Sun against a starry backdrop, transitioning to a view of Earth from space, illuminated by the Sun and showing a thin blue atmospheric glow. A calm male narrator begins, explaining that \"all we need is mass\" and \"if you have mass, you have gravity,\" which \"dominates the behavior of the universe at all levels.\" Visually, the scene shifts to a vast, dark space featuring a large, cratered celestial body resembling the Moon, with a smaller distant planet, before zooming out to reveal a spiral galaxy and then a vibrant cosmic nebula with swirling purples and reds. The narrator's voice continues, linking gravity's influence from \"small particle level interactions to the large-scale behavior of galaxies,\" directly aligning with the cosmic scale shown. Briefly, a portrait of Albert Einstein appears, followed by a starfield. The narrator then introduces \"this man, Edwin Hubble,\" whose black-and-white portrait appears next, describing him as \"an American astronomer who was not afraid to take on the biggest questions, making a number of groundbreaking discoveries.\" The visuals return to a starfield, where a red circle highlights a distant galaxy, which the video then zooms into, revealing its detailed spiral structure. The narrator explains the pre-Hubble belief that \"the universe was static,\" neither \"expanding nor contracting,\" and \"populated entirely by stars and nebulae in every direction.\" As the spiral galaxy remains on screen, the narrator reveals Hubble's groundbreaking finding in \"late 1924\": that one such \"so-called nebula was actually a separate collection of stars like the Milky Way, but much further beyond than originally thought, leading to the revelation that the Milky Way galaxy...\" before the audio cuts off and the screen fades to black. Throughout the segment, a subtle, atmospheric background music enhances the sense of cosmic wonder."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 7,
+      "end_minute": 8,
+      "summary": "The narrative begins with a black-and-white archival shot of a man operating a telescope, accompanied by a melancholic score, as a male voice posits that our universe is one of many. Visuals shift to a star-filled space background, detailing Edwin Hubble's 1929 discovery of the universe's expansion, a concept integrated with Einstein's theories into the 'Lambda Cold Dark Matter Model,' later labeled 'Lambda-CDM,' a simulation of cosmic structure formation. This well-documented model, despite acknowledged shortcomings, represents our best effort at comprehending cosmic origins. A colorful, conical diagram illustrates the 'Big Bang-Inflation' theory, showing a grid expanding from a bright point, followed by an ethereal cosmic nebula. The 'Big Bang theory' is then introduced as central, describing the universe's origin as a point of extreme density and pressure, visually reinforced by the text 'Big Bang Theory' over a single blue point of light. The segment continues with a vast starfield and an ethereal hum as the voice explains the universe's constant expansion. A small blue point rapidly expands into a blinding white explosion with fiery clouds, representing the Big Bang 13.8 billion years ago from a microscopic, compressed state. The explosion subsides, and the blue sphere, labeled 'Cosmic Inflation,' rapidly expands into turbulent gas clouds. The voice details 'cosmic inflation' as an event in the earliest nanoseconds causing radical, superluminal expansion, scaling the universe by a factor of at least 10^78 in volume. The scene concludes with a dynamic, web-like structure of purple dots and lines, visually depicting the Lambda-CDM model of large-scale cosmic structure formation originating from this inflationary epoch.",
+      "involved_entities": {
+        "Lambda-CDM": {
+          "description": "White text appearing as a shortened form of 'Lambda Cold Dark Matter Model', displayed over the same cosmic structure simulation, indicating the standard model of cosmology used to describe the universe's evolution.",
+          "attribute": "visual"
+        },
+        "Cosmic Nebula": {
+          "description": "Swirling clouds of gas and dust in deep purples and reds, appearing as ethereal, luminous formations in space, suggesting interstellar nebulae, which serve as a visual metaphor for the early universe.",
+          "attribute": "visual"
+        },
+        "Lambda Cold Dark Matter Model": {
+          "description": "White text appearing over a dynamic simulation of cosmic structure formation, showing a web-like distribution of points expanding outward, representing the large-scale structure of the universe under the Lambda-CDM cosmological model.",
+          "attribute": "visual"
+        },
+        "Big Bang-Inflation": {
+          "description": "A colorful, conical 3D diagram with a grid expanding from a bright point at the bottom, illustrating the rapid expansion of the universe during the inflationary epoch, with colors transitioning from green to red as it expands.",
+          "attribute": "visual"
+        },
+        "Big Bang Theory": {
+          "description": "The visual of a small blue point expanding into a glowing sphere and then a blinding white explosion with fiery nebulous clouds, accompanied by text '13.8 Billion Years Ago,' is reinforced by a male voice explaining that tracing the constantly expanding universe back to its beginning reveals it was microscopic and compressed around 13.8 billion years ago.",
+          "attribute": "audio-visual"
+        },
+        "Starfield": {
+          "description": "A dense, dark background filled with numerous small, twinkling white stars, representing deep space, which serves as the backdrop for the Lambda-CDM simulation and later transitions to a more abstract cosmic view.",
+          "attribute": "visual"
+        },
+        "Cosmic Inflation": {
+          "description": "Visually represented by a glowing blue sphere labeled 'Cosmic Inflation' that rapidly expands into swirling, turbulent red and purple gas, this event is explicitly named and described by a male voice as a sudden and radical expansion in the earliest nanoseconds of the universe's life, bypassing known speeds and laws, and scaling the universe by a factor of at least 10 to the power of 78 in volume.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a black-and-white archival shot of a man meticulously operating a large, intricate telescope, set to a low, atmospheric, and slightly melancholic musical score. A male voice explains that our universe is in fact part of a larger one, containing thousands or even millions of other galaxies. As the visuals transition to a dark, star-filled space background, the voice details Edwin Hubble's 1929 discovery that the universe itself is expanding and not static. These revelations, along with Einstein's theories and other scientists' work, have fed into our current model of cosmology, visually represented by a dynamic simulation of cosmic structure formation labeled 'Lambda Cold Dark Matter Model' and then 'Lambda-CDM'. The narrator describes this as a well-established, documented model, our best effort at comprehending the universe's origins despite its acknowledged shortcomings. A colorful, conical diagram illustrating the 'Big Bang-Inflation' theory, with a grid expanding outward from a bright point, then appears, symbolizing the universe's rapid expansion. This is followed by an ethereal cosmic nebula in purples and pinks. The male voice then introduces the 'Big Bang theory' as central to it all, explaining it as the idea that the universe began as a point of extremely high density and pressure, while the text 'Big Bang Theory' appears over a single blue point of light in the darkness, reinforcing this singular beginning point in the cosmos.",
+        "The minute opens with a vast, dark starfield, as a male voice, accompanied by an ethereal, low-frequency ambient hum, begins to explain that our universe is constantly expanding. A small blue point of light appears, rapidly expanding into a glowing blue sphere, then intensifying into a blinding white explosion with fiery orange and red nebulous clouds, visually representing the Big Bang. Text '13.8 Billion Years Ago' appears, aligning with the voice's description of the universe being microscopic and compressed around 13.8 billion years ago before it suddenly began to expand. The explosion subsides to a smaller blue sphere, which transitions to a bright white screen before fading to gray. The blue sphere reappears, now labeled 'Cosmic Inflation,' and rapidly expands into swirling, turbulent clouds of red and purple gas. The male voice explicitly names and details this 'cosmic inflation' as an event in the earliest nanoseconds that caused the universe to suddenly and radically expand, bypassing known speeds and laws, changing it not in size but in scale. Text '10^78' then its full numerical form appears, emphasizing the voice's explanation that the universe was scaled up by a factor of at least 10 to the power of 78 in volume. The scene concludes with a dynamic, web-like structure of purple dots and lines, representing the large-scale cosmic structure forming from this inflationary epoch, visually depicting the Lambda-CDM model."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 9,
+      "end_minute": 15,
+      "summary": "The universe's origin is depicted, beginning with a diffuse pink nebula that transitions to a deep space scene where a male voice describes space stretching over 10 light-years, followed by a brilliant, explosive burst of light simulating a supernova or the Big Bang, radiating outward in purple, red, and white, all occurring in under a fraction of a second. A dark, red-hued cloud opens to a white void, then abstract particles and bubbles in white space visually represent matter formation as the narrator discusses the inflationary epoch, the universe's expansion, primordial energy condensing into plasma, and its decay into the first particles and subatomic particles like protons and neutrons. The view shifts to a starfield, then a purple sky with silhouetted mountains as a massive, glowing orange sun rises, illuminating the landscape. The narrator fast-forwards almost 14 billion years, stating the universe is now huge and brimming with richer structures. The sun transforms into a swirling spiral galaxy, fading into a star-filled void, as the voice explains atoms collected into gas clouds, becoming stars within enormous ancient galaxies. The narrative then focuses on the structure of the observable universe, with a spiral galaxy set against a starfield, and the narrator explaining galaxies are gathered in clusters and superclusters, visualized by a vibrant purple and orange Cosmic Web connecting them across intergalactic space. Earth appears as a crescent, partially illuminated, with the text 'Observable Universe,' defined as the known, spherical geocentric region of space containing all detectable matter whose light has reached Earth, illustrated by a diagram showing its 93 billion light-year diameter with the Virgo Supercluster and Milky Way. The speed of light is shown as 299,792.4 km/s, emphasizing it as the fastest attainable speed, and the concept of a 'light delay' is explained, leading to the definition of Light Years as 9.46 trillion kilometers or 5.88 trillion miles, used as a unit of measurement, with Proxima Centauri, 4.2 ly from Earth, named as a nearby star. The journey continues with a zoom into the Andromeda galaxy, 2,500,000 ly away, highlighting the incomparably larger space between galaxies and the concept that looking deeper into space means looking further back in time, visually reinforced by a split-screen of Earth from space and early hominids using stone tools. The magnificent, bus-sized Hubble Space Telescope is introduced, shown orbiting Earth and deployed from the Space Shuttle, explaining its advantage over ground-based telescopes due to its position outside atmospheric disturbances. Stunning deep-space imagery of nebulae, star clusters, and galaxies is presented, detailing Hubble's instruments and upgrades, noting it has snapped over 1.1 million images. A rapid zoom into a dense starfield culminates in the iconic Hubble Deep Field image, located in Ursa Major, revealing a younger, constantly changing universe. The Hubble Deep Field image, taken in 1995 after a 1993 servicing upgrade, is described as one of the most important images ever, enabling the observation of the most distant galaxies. An astronaut performs a spacewalk on the Hubble, and it's noted that 1/10th of its operational time is allocated to unexpected phenomena. The Space Telescope Science Institute (STScI) logo and a portrait of Robert Williams, then director of STScI, are shown, highlighting his use of time slots to image faint, distant galaxies to test theories on the universe's age and size, with dynamic displays of spiral and barred spiral galaxies emphasizing galactic diversity. The Deep Field image was created by focusing on a tiny, seemingly empty patch of sky, and the Hubble is shown orbiting Earth before a breathtaking view of the Milky Way Galaxy appears. The necessity for a telescope to find an area with high galactic latitude to avoid obstruction from the Milky Way's core is explained, transitioning to a diagram of the Ursa Major constellation, also known as The Plough or The Big Dipper, identified as the chosen location. A real-time night sky with a crescent moon and a red dot is shown, followed by a time-lapse of moving stars, emphasizing the chosen area's minuscule size—roughly 1/12th of the moon's diameter in the sky. Earth from space shows outlined constellations like Ursa Major, Lynx, and Leo Minor, followed by a close-up of the Hubble Space Telescope, which gathered light from the area over 10 days, taking 342 photographs with various filters. A composite image of the Hubble Deep Field illustrates its location with a red dot and connecting lines, revealing the universe's history. Zooming into the Hubble Deep Field showcases over 3,000 galaxies in various shapes and colors within this tiny segment of the sky. The Hubble Deep Field image is presented as four overlapping panels, showcasing some of the oldest and most distant discoveries, a window back through time, with yellow dashed circles highlighting specific galaxies. Rich spiral galaxies are seen in the shallower field, becoming less luminous and structured further back in time. Additional yellow circles mark faint, distant galaxies in a zoomed-in, grainy close-up, occupying only a few pixels and shining less brightly due to less time for vigorous star formation. This fades into a nebulous, smoky blue cloud that dissipates to reveal a bright starburst, symbolizing a cosmic event, connecting unstructured, irregular galaxies in the early universe to the belief that matter began building from the ground up after the Big Bang, forming atoms, then stars, then clusters of stars, then dwarf galaxies. The light recedes, leaving a dark, star-speckled void, before shifting to a wide, serene night sky filled with countless stars, hinting at the vastness and tranquility of the universe as the narrator continues, 'And after billions of years...'",
+      "involved_entities": {
+        "Red-Hued Cloud Formation": {
+          "description": "A dark, ominous cloud with glowing red edges that opens to reveal a bright white void, symbolizing a cosmic transition or emergence, occurring as the narrator describes the universe's interior spreading apart.",
+          "attribute": "audio-visual"
+        },
+        "Explosive Cosmic Burst": {
+          "description": "A brilliant, radiant explosion at the center of space, emitting streaks of white, purple, and red light, simulating a supernova or the Big Bang event, which the narrator states 'happened in under a fraction of a second' during the 'inflationary epoch'.",
+          "attribute": "audio-visual"
+        },
+        "Vast Space": {
+          "description": "An expansive view of the universe filled with countless stars, emphasizing the immense scale of space, which the narrator describes as 'huge' and having expanded to 'over 10 light-years' in diameter.",
+          "attribute": "audio-visual"
+        },
+        "Cosmic Nebula": {
+          "description": "Swirling clouds of gas and dust in deep purples and reds, appearing as ethereal, luminous formations in space. A male voiceover mentions images from \"nearby stars and nebulae\".",
+          "attribute": "audio-visual"
+        },
+        "Abstract Particle Field": {
+          "description": "A white background filled with floating, translucent bubbles and colorful particles, representing the formation of primordial matter, universal plasma, and subatomic particles like protons and neutrons, as detailed by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Starfield": {
+          "description": "A dark, expansive background filled with numerous small, twinkling white stars, serving as the initial and recurring backdrop for cosmic scenes, later appearing in a grainy, pixelated close-up and then as a serene, star-filled night sky. The narrator refers to the \"shallower field\" containing \"rich spiral galaxies\" and discusses the formation of \"stars\" and \"clusters of stars\" as matter built up after the Big Bang.",
+          "attribute": "audio-visual"
+        },
+        "Spiral Galaxy": {
+          "description": "A distant, rotating spiral galaxy with a bright core and swirling arms, shown against a star-filled background, emphasizing its structure and luminosity.",
+          "attribute": "visual"
+        },
+        "Sun": {
+          "description": "A bright, radiant star with lens flares, positioned to the left of Earth, illuminating the scene.",
+          "attribute": "visual"
+        },
+        "Purple Sky with Mountain Silhouette": {
+          "description": "A dramatic night sky in deep purple with silhouetted mountain peaks, creating a terrestrial perspective of a cosmic event.",
+          "attribute": "visual"
+        },
+        "Proxima Centauri": {
+          "description": "A bright star with lens flares, labeled 'Proxima Centauri, 4.2 ly from Earth,' shown against a dark starfield, emphasizing its proximity to Earth, and explicitly named by the male narrator.",
+          "attribute": "audio-visual"
+        },
+        "Light Years [ly]": {
+          "description": "White text defining a light year as 9,460,000,000,000 km or 5,800,000,000,000 miles, displayed over a starfield, which the male narrator explains is used as a unit of measurement due to the vast distances and light delay in space.",
+          "attribute": "audio-visual"
+        },
+        "Earth": {
+          "description": "A realistic depiction of Earth from space, showing a curved horizon with visible continents and cloud cover, positioned in the lower-left portion of the frame.",
+          "attribute": "visual"
+        },
+        "Number Display": {
+          "description": "The white text '2,500,000 ly' overlaid on a starfield, visually indicating the distance to the Andromeda galaxy, which the narrator articulates as 'two and a half million light-years.'",
+          "attribute": "audio-visual"
+        },
+        "Observable Universe": {
+          "description": "A diagram showing the observable universe as a sphere with a diameter of 93 billion light-years, including labels for the Virgo Supercluster and Milky Way, and a scale in light-years and parsecs, which the male narrator defines as a spherical, geocentric region of space comprising all detectable galaxies and matter whose light has reached Earth.",
+          "attribute": "audio-visual"
+        },
+        "Cosmic Web": {
+          "description": "A vibrant purple and orange web-like structure representing the large-scale distribution of matter in the universe, with the text 'Cosmic Web' overlaid, and explicitly named and described by the male narrator as a 3D path formed by connecting clusters across intergalactic space.",
+          "attribute": "audio-visual"
+        },
+        "Space Shuttle": {
+          "description": "A large, white and orange spacecraft with a payload bay, shown deploying the Hubble Space Telescope in orbit, with Earth visible in the background.",
+          "attribute": "visual"
+        },
+        "Andromeda": {
+          "description": "A bright, diffuse spiral galaxy appearing in the center of the starfield, explicitly named and labeled with its distance of '2,500,000 ly', which the narrator confirms as 'two and a half million light-years,' explaining that we see it as it was when humanity first used stone tools.",
+          "attribute": "audio-visual"
+        },
+        "Early Hominids": {
+          "description": "Three prehistoric human figures with dark skin and minimal clothing, crouched in a grassy savanna, one using a stone tool to process a carcass, visually representing the era when humanity 'had only just started using stones as tools,' a timeframe directly linked by the narrator to the light travel time from Andromeda.",
+          "attribute": "audio-visual"
+        },
+        "Hubble Space Telescope": {
+          "description": "A detailed, metallic cylindrical satellite with solar panels and antennas, shown orbiting Earth and being deployed from a Space Shuttle, with close-ups of its structure and components. The male narrator explains that 'over some 10 days, the telescope gathered light from the area,' taking '342 photographs' using its filters to compile the final image.",
+          "attribute": "audio-visual"
+        },
+        "Rocket Launches": {
+          "description": "Two separate rocket launches shown in split-screen: one from a coastal launchpad with a bright plume and smoke, and another from a desert site with intense orange flames and billowing smoke.",
+          "attribute": "visual"
+        },
+        "Hubble Deep Field": {
+          "description": "A composite image of a dense starfield filled with thousands of distant galaxies, initially shown in four overlapping panels that merge into a single view, with yellow dashed circles highlighting specific galaxies. A male narrator describes this image as showcasing \"some of the oldest and most distant\" discoveries, serving as \"a window back through time,\" and explains that the galaxies within it become \"less luminous and structured\" further back in time, with distant ones \"occupying only a few pixels and shining much less brightly\" due to less vigorous star formation.",
+          "attribute": "audio-visual"
+        },
+        "Space Telescope Science Institute (STScI) Logo": {
+          "description": "A blue circular logo featuring a stylized telescope or mask-like design, accompanied by the text 'STScI | SPACE TELESCOPE SCIENCE INSTITUTE', displayed on a starry background, representing the institute whose then director, Robert Williams, dedicated time to the Deep Field project.",
+          "attribute": "audio-visual"
+        },
+        "Milky Way Galaxy": {
+          "description": "A horizontal band of stars and cosmic dust, appearing as a dense, glowing structure in the night sky, visible in the final frames with Earth’s silhouette below.",
+          "attribute": "visual"
+        },
+        "Robert Williams": {
+          "description": "A portrait of a man with short hair, wearing a brown jacket over a dark turtleneck, identified by the name 'Robert Williams' beneath the image, appearing in a small inset on the right side of the screen; he is identified by the narrator as the then director of the Space Telescope Science Institute, who devoted his time slot to imaging extremely faint and distant galaxies to test theories on the age and size of the universe.",
+          "attribute": "audio-visual"
+        },
+        "Barred Spiral Galaxy": {
+          "description": "A galaxy with a central bar-shaped structure and spiral arms, appearing in a detailed view with a bright core and dust lanes, set against a dark starfield.",
+          "attribute": "visual"
+        },
+        "Red Dot": {
+          "description": "A small red dot in the night sky, used to indicate a specific point of interest, such as a star or planet, and later connected to the Hubble Deep Field image via lines.",
+          "attribute": "visual"
+        },
+        "Ursa Major": {
+          "description": "A constellation diagram shown in a white box, initially labeled 'Ursa Major' and then 'The Plough,' depicting its characteristic shape with connected dots. The male narrator identifies it as the chosen location for observation, also referring to it as 'The Big Dipper or The Plough'.",
+          "attribute": "audio-visual"
+        },
+        "Constellations": {
+          "description": "White outlines of constellations including Ursa Major, Lynx, and Leo Minor, displayed against a starry background, emphasizing their boundaries.",
+          "attribute": "visual"
+        },
+        "Crescent Moon": {
+          "description": "A thin, illuminated crescent moon visible in the night sky, accompanied by a red dot that may represent a planet or star.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a soft, diffuse pink nebula, transitioning into a deep space scene with a glowing purple nebula, as a male voice describes the 'diameter of space' stretching to 'over 10 light-years.' A bright, explosive burst of light then erupts from the center, radiating outward in a cosmic explosion of purple, red, and white, simulating a supernova or the Big Bang, while the narrator explains that 'all of this happened in under a fraction of a second.' The scene shifts to a dark, red-hued cloud opening to reveal a bright white void, followed by a flurry of abstract particles and bubbles floating in a white space, visually representing the formation of matter. The voice continues, discussing the 'inflationary epoch' and how the universe's interior 'spread apart much more sparsely,' giving its 'primordial energy a lot more room for things to happen,' and how this energy later 'condensed into a giant universal plasma' and 'decayed into the first particles,' then 'subatomic particles like protons and neutrons.' The view transitions to a starfield, then to a dramatic purple sky with silhouetted mountains, where a massive, glowing orange sun rises, illuminating the landscape. The narrator fast-forwards 'almost 14 billion years,' stating the universe is now 'huge and brimming with much larger and richer structures.' The sun then transforms into a swirling spiral galaxy, which fades into a dark, star-filled void, as the voice explains that 'atoms have collected into clouds of gas,' which 'have become stars,' and that 'most of those stars belong to enormous ancient galaxies,' emphasizing the vastness and evolution of the cosmos.",
+        "The segment opens with a spiral galaxy set against a dense starfield, as a male narrator explains that \"most of these galaxies are gathered in large clusters and superclusters.\" The scene transitions to a vibrant purple and orange 'Cosmic Web,' which the narrator identifies as the 3D path connecting these clusters across intergalactic space. Earth then appears as a crescent, partially illuminated, with the text 'Observable Universe,' as the narrator defines it as the \"known universe,\" a \"spherical geocentric region of space\" containing all detectable galaxies and matter whose light has reached Earth. A diagram of the observable universe, showing its 93 billion light-year diameter with the Virgo Supercluster and Milky Way, reinforces this concept. After a brief return to Earth with a superimposed spiral galaxy, a starfield displays the speed of light as '299,792.4 km/s,' with the narrator emphasizing that light travels \"just under 300,000 kilometers per second,\" the \"fastest speed attainable in the universe.\" He further explains that a \"light delay\" beyond our galaxy impairs our ability to see the universe as it currently appears. This leads to the definition of 'Light Years' as 9.46 trillion kilometers or 5.88 trillion miles, which the narrator states \"helps to use... as a unit of measurement.\" The segment concludes with a bright star, 'Proxima Centauri, 4.2 ly from Earth,' which the narrator names.",
+        "The segment opens with an ethereal, slightly dramatic orchestral score as a dark starfield gradually zooms into the Andromeda galaxy, clearly labeled with its name and a distance of '2,500,000 ly'. A male narrator immediately contextualizes this vastness, explaining that while our nearest star is 4.2 light-years away, the space between galaxies is \"incomparably larger.\" He specifies that Andromeda is \"around two and a half million light-years\" distant, meaning we see it as it was when humanity \"had only just started using stones as tools.\" This concept is visually reinforced by a split-screen showing Earth from space alongside a distant spiral galaxy, followed by a brief depiction of early hominids in a savanna, one using a stone tool. The narrator continues to explain that the deeper we look into space, the further back in time we are looking, through the universe's different stages. The scene returns to deep space, showcasing a bright, dense star cluster and a nebulous cloud formation, before the narrator introduces \"the magnificent Hubble Space Telescope.\" The Hubble, which the narrator describes as a \"bus-sized satellite,\" is then shown orbiting Earth and in archival footage of its deployment from the Space Shuttle. The segment concludes with a split-screen of two rocket launches, one from a coastal site and another from a desert launchpad, both emitting bright plumes of fire and smoke, symbolizing humanity’s ongoing exploration of space, as the music continues to evoke wonder.",
+        "The segment opens with a breathtaking view of Earth from space, its dark side illuminated by countless city lights against a starfield with a faint nebula and distant stars, all set to a space-themed instrumental background music. After a brief transition to a black screen, the scene cuts to a close-up of the Hubble Space Telescope being deployed from the Space Shuttle, with Earth visible in the background. A male voiceover explains that Hubble, launched in 1990, orbits Earth, facing out towards space to image the universe undeterred by atmospheric disturbances that hamper ground-based telescopes. The camera then shifts to stunning deep-space imagery, showcasing vibrant cosmic nebulae, star clusters, and distant galaxies in vivid colors, as the voiceover details Hubble's numerous instruments, filters, and upgrades that have kept it at the forefront of human technology. He adds that Hubble has snapped over 1.1 million \"bedazzling images of the cosmos\" since its launch, ranging from nearby stars and nebulae to galaxies at the very distant edge of the observable universe. The Hubble Space Telescope is then seen orbiting Earth, followed by a rapid zoom into a dense starfield, accompanied by a distinct \"whoosh\" sound effect, culminating in the iconic Hubble Deep Field image, framed and labeled 'Hubble Deep Field' and 'Location: Ursa Major'. The voiceover concludes that Hubble's deep camera technology allows us to look ever deeper into space, revealing a much younger, constantly changing and evolving universe, an evolution nothing captures quite like the Hubble Deep Field.",
+        "The segment opens with a framed view of the Hubble Deep Field, a dense starfield filled with thousands of distant galaxies, as ethereal, spacey background music begins. A male narrator explains that the Hubble Deep Field image is one of the most important images ever, taken in 1995 after the Hubble Space Telescope received a servicing upgrade two years earlier, which dramatically broadened its ability to see the most distant galaxies. The scene transitions to an astronaut performing a spacewalk, manipulating components on the exterior of the Hubble Space Telescope, which is then shown floating in space with its solar panels extended against the dark backdrop. The narrator continues, noting that 1/10th of the Hubble telescope's operational time is allocated to high-ranking staff and visitors for unexpected phenomena. A deep blue cosmic scene with glowing nebulae appears, followed by a title card featuring the Space Telescope Science Institute (STScI) logo and a portrait of Robert Williams. The narrator identifies Williams as the then director of the STScI, who devoted his time slot to imaging extremely faint and distant galaxies as a means to test theories on the age and size of the universe. Dynamic displays of colorful galaxies, including a swirling spiral galaxy and a barred spiral galaxy, emphasize galactic diversity. The narrator clarifies that unlike most Hubble images, the Deep Field image was created by focusing the telescope's instruments on a tiny, seemingly empty patch of the night sky where nothing can be seen from Earth. The Hubble Space Telescope is shown again, orbiting Earth with its curved horizon and city lights visible below, before the segment concludes with a breathtaking view of the Milky Way Galaxy as a luminous band across the night sky, with Earth’s silhouette at the bottom, all set to the continuing ethereal music.",
+        "The video opens with a dark, star-filled sky as a male narrator explains the necessity for a telescope to find an area with high galactic latitude to avoid obstruction from the Milky Way's core. This transitions to a diagram of the Ursa Major constellation, first labeled 'Ursa Major' and then 'The Plough,' as the narrator identifies it as the chosen location, also referring to it as \"The Big Dipper or The Plough.\" The scene shifts to a real-time night sky featuring a crescent moon and a red dot, followed by a time-lapse of moving stars, while the narrator emphasizes the chosen area's minuscule size, \"roughly 1/12th of the diameter of the moon in the sky,\" and \"a mere 1/24 millionth of the total night sky expanse.\" The perspective then changes to Earth from space, showing outlined constellations like Ursa Major, Lynx, and Leo Minor, followed by a close-up of the Hubble Space Telescope. The narrator details how \"over some 10 days, the telescope gathered light from the area,\" taking \"342 photographs\" with various filters. A composite image of the Hubble Deep Field then appears, illustrating its location in the night sky with a red dot and connecting lines, as the narrator describes the processed image \"revealing a majestic view of the universe's history.\" Finally, the video zooms into the Hubble Deep Field, showcasing a vast array of galaxies in various shapes and colors, with the narrator concluding that this \"tiny, pin-size segment of the sky\" contains \"over 3,000 galaxies at an array of distances,\" all set against a continuous atmospheric background music.",
+        "The video opens with a composite view of the Hubble Deep Field, presented as four overlapping rectangular panels against a black background, each filled with a dense array of distant galaxies and stars, while a male narrator explains this image showcases \"some of the oldest and most distant\" discoveries, emphasizing it's \"a window back through time.\" As the panels gradually align to form a single, unified image, revealing a vast cosmic tapestry, yellow dashed circles appear, highlighting specific galaxies. The narrator describes seeing \"rich spiral galaxies\" in the shallower field, noting that \"the further back we travel, the less luminous and structured the galaxies become.\" The scene transitions to a zoomed-in, grainy close-up of the same starfield, where additional yellow circles mark faint, distant galaxies, which the narrator explains \"occupy only a few pixels and shine much less brightly\" due to less time for \"vigorous star formation.\" The image becomes increasingly pixelated and dark, suggesting the limits of observational resolution. This fades into a nebulous, smoky blue cloud in deep space, which slowly dissipates to reveal a bright, radiant starburst—a sudden, intense flash of light symbolizing a cosmic event. The narrator connects the \"unstructured, irregular galaxies in the early universe\" to the belief that \"after the Big Bang, matter began building from the ground up,\" forming \"first atoms, then stars, then clusters of stars, then dwarf galaxies.\" The light then recedes, leaving behind a dark, star-speckled void, before the scene shifts to a wide, serene night sky filled with countless stars, hinting at the vastness and tranquility of the universe, as the narrator continues, \"And after billions of years...\" Throughout, a continuous, ethereal, slightly melancholic ambient music underscores the cosmic journey."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 16,
+      "end_minute": 18,
+      "summary": "The video begins with a dark starfield, described as a place of \"starbirth and death\" and \"countless galactic collisions,\" transitioning to a detailed spiral galaxy bursting with luminous stars. Light allows us to \"stare backwards through time\" into the \"most distant recesses of the Deep Field,\" as evidenced by the 'Hubble Deep Field South' image showcasing thousands of distant galaxies. A highlighted bright star, a 'Quasar,' represents light captured from the early universe. The Hubble Space Telescope is shown orbiting Earth, with an astronaut performing a spacewalk during a \"servicing mission to Hubble in 2002\" that enabled \"even deeper images,\" culminating in the stunning Hubble Ultra Deep Field captured in 2004. The Hubble Ultra Deep Field, the \"deepest photograph of the universe ever taken,\" necessitates infrared radiation for observation. A 2009 servicing mission equipped the Hubble Space Telescope with new infrared instruments, revealing thousands more primordial galaxies. Astronauts perform a spacewalk on the Hubble Space Telescope with Earth in the background, leading to an animation of the James Webb Space Telescope, anticipated to provide even better pictures. A black-and-white photograph of Edwin Hubble introduces his \"profound impact on modern-day astronomy.\" The video concludes with views of Earth from space and the Milky Way Galaxy. The concept of 'Cosmic Expansion' is introduced, illustrated by a graph showing Hubble's Law, a linear relationship between galaxies' radial velocity and distance from Earth. Galaxies outside our local group appear to be moving away, with further ones receding faster, as space itself expands at a consistent rate, spreading galaxies further apart and continuously creating new space.",
+      "involved_entities": {
+        "Hubble Deep Field": {
+          "description": "A composite image of a dense starfield filled with thousands of distant galaxies, initially shown in four overlapping panels that merge into a single view, with yellow dashed circles highlighting specific galaxies, explicitly referred to by the male narrator as the 'Hubble Deep Field South image,' a 'follow-up deep field image' taken to represent the distant universe.",
+          "attribute": "audio-visual"
+        },
+        "Quasar": {
+          "description": "A bright, star-like object with a prominent lens flare, labeled 'Quasar,' appearing in the Hubble Deep Field South image, indicating an extremely luminous active galactic nucleus, whose light from the early universe was specifically noted by the male narrator as being captured.",
+          "attribute": "audio-visual"
+        },
+        "Hubble Ultra Deep Field": {
+          "description": "A high-resolution image of a dense starfield filled with thousands of distant galaxies, labeled 'Hubble Ultra Deep Field,' showcasing the telescope's ability to capture faint, distant objects. A male narrator identifies it as 'the deepest photograph of the universe ever taken, from the constellation of Fornax,' and notes that Hubble later resnapped deep fields in infrared, revealing 'thousands more primordial galaxies.'",
+          "attribute": "audio-visual"
+        },
+        "Astronaut": {
+          "description": "A figure in a white spacesuit with an American flag patch, performing a spacewalk on the Hubble Space Telescope, interacting with its external components.",
+          "attribute": "visual"
+        },
+        "Starfield": {
+          "description": "A dark, expansive background filled with numerous small, twinkling white stars, serving as the initial and recurring backdrop for cosmic scenes, later appearing in a grainy, pixelated close-up and then as a serene, star-filled night sky, over which the narrator explains the movement of galaxies.",
+          "attribute": "audio-visual"
+        },
+        "Hubble Space Telescope": {
+          "description": "A detailed, metallic cylindrical satellite with solar panels and antennas, shown orbiting Earth and being deployed from a Space Shuttle, with close-ups of its structure and components. A male narrator describes a '2009 servicing mission to Hubble' that 'equipped it with new, sensitive infrared detecting instruments,' enabling it to resnap deep fields.",
+          "attribute": "audio-visual"
+        },
+        "Spiral Galaxy": {
+          "description": "A distant, rotating spiral galaxy with a bright core and swirling arms, shown against a star-filled background, emphasizing its structure and luminosity, identified by the male narrator as 'rich spiral galaxies like the ones we see here' that began to form, 'bursting with luminous stars'.",
+          "attribute": "audio-visual"
+        },
+        "Edwin Hubble Portrait": {
+          "description": "A black-and-white photograph of Edwin Hubble, shown in a suit with a pipe, labeled with his name and lifespan (1889–1953). A male narrator explicitly names him as 'Edwin Hubble' and discusses his 'accompanying legacy' and 'profound impact on modern-day astronomy.'",
+          "attribute": "audio-visual"
+        },
+        "James Webb Space Telescope": {
+          "description": "A detailed animation of the telescope in space, featuring its large golden hexagonal mirror, extended solar panels, and intricate structure, set against a starfield with planets visible. A male narrator refers to it as 'the James Webb Telescope' and anticipates it will provide superior images upon its launch.",
+          "attribute": "audio-visual"
+        },
+        "Earth": {
+          "description": "A realistic depiction of Earth from space, showing a curved horizon with visible continents and cloud cover, positioned in the lower-left portion of the frame, serving as a backdrop for the segment's introduction.",
+          "attribute": "audio-visual"
+        },
+        "Milky Way Galaxy": {
+          "description": "A horizontal band of stars and cosmic dust, appearing as a dense, glowing structure in the night sky, visible in the opening frames with Earth’s silhouette below, setting a cosmic tone for the narrator's introduction.",
+          "attribute": "audio-visual"
+        },
+        "Cosmic Nebula": {
+          "description": "Swirling clouds of gas and dust in deep purples and reds, appearing as ethereal, luminous formations in space, suggesting interstellar nebulae, which serve as a visual metaphor for the early universe.",
+          "attribute": "visual"
+        },
+        "Title Text": {
+          "description": "The white text 'Cosmic Expansion' displayed over the Milky Way and Earth, directly spoken by the male narrator as the central theme of the segment.",
+          "attribute": "audio-visual"
+        },
+        "Colorful Galaxies": {
+          "description": "Vibrant, swirling galaxies in red, blue, green, and purple, animated to represent the dynamic expansion of the universe, which the narrator describes as moving away from everything else as space itself expands, creating new space everywhere.",
+          "attribute": "audio-visual"
+        },
+        "Elliptical Galaxies": {
+          "description": "Several large, glowing, beige-colored elliptical galaxies appearing against the starfield, symbolizing distant cosmic structures that the narrator explains are moving away from us, with further galaxies receding faster.",
+          "attribute": "audio-visual"
+        },
+        "Spacetime Grid": {
+          "description": "A white grid on a black background overlaid on the starfield, visually representing the fabric of spacetime, which the narrator explains is expanding and creating new space.",
+          "attribute": "audio-visual"
+        },
+        "Graph": {
+          "description": "A white coordinate grid on a black background with blue data points forming a linear trend, labeled 'Radial Velocity (v)' on the vertical axis and 'Distance from Earth (d)' on the horizontal axis, visually representing Hubble's Law, which the narrator describes as the linear relationship established by Hubble after surveying galaxies.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a dark starfield, accompanied by a male narrator describing it as a place of \"starbirth and death\" and \"countless galactic collisions.\" This transitions into a detailed spiral galaxy, which the narrator identifies as \"rich spiral galaxies like the ones we see here\" that began to form, \"bursting with luminous stars.\" The scene then fades to a grainy, pixelated starfield before returning to a clear, dense one, as the narrator explains how light allows us to \"stare backwards through time\" into the \"most distant recesses of the Deep Field.\" A composite image labeled 'Hubble Deep Field South' appears, showcasing thousands of distant galaxies, which the narrator confirms was a \"follow-up deep field image\" taken to represent the distant universe. A bright star labeled 'Quasar' is highlighted, with the narrator specifically noting the capture of its light from the early universe. The Hubble Space Telescope is then shown orbiting Earth, followed by an animated sequence of an astronaut performing a spacewalk on the telescope. The narrator mentions a \"servicing mission to Hubble in 2002\" that enabled the telescope to take \"even deeper images.\" The video concludes with a close-up of the stunning Hubble Ultra Deep Field, filled with countless galaxies, as the narrator announces its capture in 2004. Throughout, an ambient, space-themed background music underscores the cosmic journey.",
+        "The video opens with a breathtaking view of the Hubble Ultra Deep Field, a dense starfield filled with thousands of distant galaxies, which a male narrator identifies as 'the deepest photograph of the universe ever taken, from the constellation of Fornax.' He explains that this image reaches the limit of visible light observation, necessitating infrared radiation. As the scene transitions to a dynamic, zooming starfield and then a vibrant, swirling red and orange cosmic nebula, the narrator details a 2009 servicing mission to the Hubble Space Telescope, which equipped it with new infrared instruments, allowing it to resnap deep fields and reveal thousands more primordial galaxies. Astronauts in white spacesuits are then seen performing a spacewalk on the Hubble Space Telescope with Earth in the background, visually representing this human interaction. The view returns to the cosmos with a radial zoom into a starfield, followed by a detailed animation of the James Webb Space Telescope, showcasing its golden hexagonal mirror and solar panels, as the narrator anticipates it will provide even better pictures upon its launch. A black-and-white photograph of Edwin Hubble, a scientist examining an astronomical image, appears, and the narrator introduces 'Edwin Hubble and his accompanying legacy' as having a 'profound impact on modern-day astronomy.' The video concludes with a serene view of Earth from space, transitioning to the Milky Way Galaxy as a luminous band across the night sky, evoking cosmic wonder, all set to an ethereal, awe-inspiring orchestral score.",
+        "The segment opens with a cosmic view of the Milky Way Galaxy and Earth's curved horizon, accompanied by a calm, ambient synth pad music. A male narrator introduces the concept, stating 'Cosmic Expansion' as the white title text appears on screen. The scene transitions to a simple white graph on a black background, where blue data points gradually form a linear trend, illustrating Hubble's Law with 'Radial Velocity (v)' and 'Distance from Earth (d)' labels. The narrator explains how Hubble surveyed galaxies to establish this linear relationship between their radial velocity and distance from Earth. The graph then fades into a dense starfield, which zooms out to reveal several large, glowing elliptical galaxies. A white grid, symbolizing spacetime, overlays the starfield, as the narrator clarifies that galaxies outside our local group appear to be moving away, with further ones receding faster. The visuals then shift to a vibrant, colorful animation of swirling galaxies in red, blue, green, and purple, dynamically expanding and receding into the distance. The narrator concludes that everything in the universe seems to be moving away from everything else, as space itself expands at a consistent rate, spreading galaxies further apart and continuously creating new space."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 19,
+      "end_minute": 19,
+      "summary": "An ethereal, atmospheric synth score accompanies a visual journey from a dark starfield to a gradually defining spiral galaxy, as a calm male narrator explains that \"Space itself stretches apart in every direction to make more space,\" likening it to the universe inflating rather than expanding. The scene shifts to a dense, grainy starfield where a bold red 'X' appears on the right, while the narrator elaborates that due to all objects moving further apart, there is no center, and space has no boundaries. To visualize this, the view transitions to a rotating celestial sphere with a grid overlay, populated with galaxies and stars, which the narrator posits represents the universe with space mapped to its outside surface. As the sphere rotates and a red circle highlights a galaxy, he explains that the surface area increases as the sphere expands, ensuring no galaxy is more central than any other. The scene then transitions to a vibrant, swirling cosmic nebula in deep purples and pinks with scattered stars, as the narrator concludes that while the sphere has a center, it doesn't represent a physical location within the universe before the audio fades.",
+      "involved_entities": {
+        "Celestial Sphere": {
+          "description": "A rotating, grid-lined sphere in deep blue, representing a celestial globe or model of the universe, with galaxies and stars embedded on its surface. The narrator explicitly uses this sphere as a visualization tool to explain how the universe inflates and lacks a physical center, with space mapped to its expanding outside surface rather than being contained within.",
+          "attribute": "audio-visual"
+        },
+        "Starfield": {
+          "description": "A dark, expansive background filled with numerous small, twinkling white stars, serving as the initial and recurring backdrop for cosmic scenes, later appearing in a grainy, pixelated close-up and then as a serene, star-filled night sky.",
+          "attribute": "visual"
+        },
+        "Cosmic Nebula": {
+          "description": "Swirling clouds of gas and dust in deep purples and reds, appearing as ethereal, luminous formations in space, suggesting interstellar nebulae, which serve as a visual metaphor for the early universe.",
+          "attribute": "visual"
+        },
+        "Spiral Galaxy": {
+          "description": "A distant, rotating spiral galaxy with a bright core and swirling arms, shown against a star-filled background, emphasizing its structure and luminosity.",
+          "attribute": "visual"
+        },
+        "Red Circle Highlight": {
+          "description": "A red circular overlay used to draw attention to a specific galaxy within the starfield, indicating its significance in the visual narrative.",
+          "attribute": "visual"
+        },
+        "Red X": {
+          "description": "A large, bold red 'X' appearing on the right side of the screen, possibly marking a point of interest, error, or exclusion in the cosmic scene.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with an ethereal, atmospheric synth score as a dark starfield gives way to a faint spiral galaxy, gradually becoming more defined, visually suggesting a cosmic journey. A calm male narrator begins, explaining that \"Space itself stretches apart in every direction to make more space,\" likening it to \"the universe is inflating rather than expanding.\" The scene transitions to a dense, grainy starfield, then a bold red 'X' appears on the right, while the narrator elaborates that because \"all objects are getting further away from all other objects relative to each other, there is no center,\" and that \"Space has no boundaries, edges or walls that mark the end.\" Posing the question, \"So how do we go about visualizing this?\", the view shifts to a rotating celestial sphere with a grid overlay, populated with various galaxies and stars. The narrator explicitly states, \"imagine that this sphere represents the universe, but rather than space being on the inside, it is mapped to the outside surface.\" As the sphere slowly rotates and a red circle highlights a specific galaxy, he continues to explain that \"As the sphere expands, the surface area of the space for the outside galaxies increases at the same rate,\" reinforcing the concept that \"no galaxy on this sphere surface is any more central than any other galaxy.\" The scene then transitions to a vibrant, swirling cosmic nebula in deep purples and pinks, with scattered stars, as the narrator concludes that while \"the sphere itself does have a center,\" it \"doesn't represent a physical location within the universe, rather, it represents a...\" before the audio fades."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 20,
+      "end_minute": 24,
+      "summary": "The universe's expansion is evidenced by redshift, a phenomenon where light from distant galaxies shifts towards the red end of the spectrum as the space it travels through elongates, causing light waves to stretch. This stretching is quantified by the Hubble constant, approximately 65 km/s per megaparsec, where 1 megaparsec equals about 3.26 million light-years. The observable universe, with a radius of about 46.5 billion light-years, represents the boundary beyond which light has not had enough time to reach us due to cosmic expansion, meaning distant galaxies can recede faster than light speed. This boundary is known as the cosmic horizon or particle horizon, and beyond it lies causally disconnected space, unreachable and undetectable. The observable universe is geocentric, meaning its size and scope are dependent on the observer's position, and it grows as older, more distant light reaches us over time. The cosmic microwave background radiation offers a glimpse into the early universe's temperature fluctuations, but the full scale of the cosmos beyond our observable limit remains unknown.",
+      "involved_entities": {
+        "Wave Animation": {
+          "description": "A simple, horizontal wave that transitions from yellow to red, symbolizing the stretching of light waves due to cosmic expansion, shown against a dark background.",
+          "attribute": "visual"
+        },
+        "Red Wave": {
+          "description": "A single, horizontal red wave moving across a starfield, visually representing the redshift of light from distant galaxies in an expanding universe.",
+          "attribute": "visual"
+        },
+        "Earth": {
+          "description": "A realistic depiction of Earth from space, showing a curved horizon with visible continents and cloud cover, positioned in the lower-right portion of the frame, later shown as a crescent and then as a night-side view with city lights, referenced in the audio as part of the 'solar system' and a 'planet in the universe' whose observable universe is geocentric.",
+          "attribute": "audio-visual"
+        },
+        "Spiral Galaxy": {
+          "description": "A distant, rotating spiral galaxy with a bright core and swirling arms, shown against a star-filled background, representing the 'most distant galaxies' that, as the narrator explains, have receded to 'in excess of 40 billion light-years away' due to cosmic expansion.",
+          "attribute": "audio-visual"
+        },
+        "Airplane View": {
+          "description": "A perspective from an airplane window showing the wing and a landscape below under a partly cloudy sky, providing a terrestrial contrast to the cosmic scenes, explicitly referenced by a male voice as an analogy for navigating a finite but unbounded space.",
+          "attribute": "audio-visual"
+        },
+        "Colorful Galaxies": {
+          "description": "Vibrant, swirling galaxies in red, blue, green, and purple, animated to represent the dynamic expansion of the universe, with bright cores and spiral arms.",
+          "attribute": "visual"
+        },
+        "Ocean Horizon": {
+          "description": "A calm, expansive view of the ocean meeting the sky, with a soft gradient from deep blue to light blue and white clouds above, symbolizing Earth's surface, appearing as a male voice continues an analogy about navigating Earth.",
+          "attribute": "audio-visual"
+        },
+        "Celestial Sphere": {
+          "description": "A rotating, grid-lined sphere in deep blue, representing a celestial globe or model of the universe, with colorful, wavy lines and small spiral icons on its surface, dynamically moving to visualize cosmic distribution and movement, directly illustrating the narrator's explanation of the \"universe expanding\" and \"stretching out the waves and red shifting the light.\"",
+          "attribute": "audio-visual"
+        },
+        "Redshift": {
+          "description": "White text appearing over a diagram of galaxies receding from Earth along concentric arcs, illustrating the cosmological redshift phenomenon.",
+          "attribute": "visual"
+        },
+        "Starfield": {
+          "description": "A dark, expansive background filled with numerous small, twinkling white stars, serving as the initial and recurring backdrop for cosmic scenes, against which the narrator explains the vastness and boundaries of the observable universe with a continuous, low ambient hum.",
+          "attribute": "audio-visual"
+        },
+        "Hubble Constant Text": {
+          "description": "White text appearing on screen stating 'Hubble Constant' and '65 km/s per Megaparsec', introducing a key cosmological measurement related to the expansion rate of the universe, which the narrator defines as \"a measure for the rate at which space is expanding,\" stating its value as \"around 65 kilometers per second per megaparsec.\"",
+          "attribute": "audio-visual"
+        },
+        "Megaparsec Conversion Text": {
+          "description": "White text appearing on screen stating '1 Mpc = ~ 3,260,000 ly', providing a unit conversion for distance in the universe, displayed over a starfield, which the narrator explains by stating, \"A megaparsec is equivalent to about 3.2 million...\"",
+          "attribute": "audio-visual"
+        },
+        "Elliptical Galaxies": {
+          "description": "Several large, glowing, beige-colored elliptical galaxies appearing against the starfield, symbolizing distant cosmic structures that, like other galaxies, are discussed by the narrator as receding beyond our reach.",
+          "attribute": "audio-visual"
+        },
+        "Cosmic Nebula": {
+          "description": "Swirling clouds of gas and dust in deep purples and reds, appearing as ethereal, luminous formations in space, suggesting interstellar nebulae, which serve as a visual metaphor for the early universe.",
+          "attribute": "visual"
+        },
+        "Text Overlay": {
+          "description": "White text appearing on screen, including '100 Mpc (~320,000,000 ly)', '6,500 km/s', and 'COSMIC HORIZON', which the narrator directly references and explains, detailing cosmic distances, recession velocities, and the ultimate boundary of the observable universe.",
+          "attribute": "audio-visual"
+        },
+        "Causally Disconnected": {
+          "description": "White text appearing on a grainy, pixelated Starfield, indicating a cosmological concept related to regions of the universe that cannot interact due to the expansion of space. The narrator explicitly defines this as 'unreachable and undetectable to us by any known means,' referring to the space beyond the cosmic horizon.",
+          "attribute": "audio-visual"
+        },
+        "Cratered Celestial Body": {
+          "description": "A large, textured, cratered sphere resembling the Moon, dominating the frame against a starry background with a smaller planet visible in the distance, representing a 'planet in the universe' whose observable universe is also geocentric.",
+          "attribute": "audio-visual"
+        },
+        "Observable Universe": {
+          "description": "A diagram showing the observable universe as a sphere with a diameter of 93 billion light-years, including labels for the Virgo Supercluster and Milky Way, and a scale in light-years and parsecs, depicted as a circular, web-like structure with galaxies and a central bright point. The narrator explicitly defines and discusses the 'observable universe' as growing and being 'geocentric,' with its boundaries determined by the time light has to reach us.",
+          "attribute": "audio-visual"
+        },
+        "Cosmic Web": {
+          "description": "A vibrant purple and orange web-like structure representing the large-scale distribution of matter in the universe, with the text 'Cosmic Web' overlaid, shown within the Observable Universe diagram.",
+          "attribute": "visual"
+        },
+        "Sun": {
+          "description": "A bright, radiant star with lens flares, positioned above the dark sphere, illuminating the scene with intense light and color fringes, central to the 'solar system' as discussed by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Cosmic Microwave Background": {
+          "description": "A full-sky map of the early universe's radiation, depicted as a colorful, mottled oval with blue and orange regions, symbolizing temperature fluctuations. This visual represents the ultimate boundary of our observable universe, aligning with the narrator's discussion of the 'cosmic horizon' and our confinement to what we can perceive.",
+          "attribute": "audio-visual"
+        },
+        "Number Display": {
+          "description": "White text '46.5 Billion ly' initially appears as a circle, representing the observable universe's radius as stated by the narrator, followed by '40,000,000,000 ly' overlaid on a starfield, explicitly indicating the vast cosmic distance of receding galaxies, which the narrator specifies as 'in excess of 40 billion light-years away'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video begins with a brilliant, fiery explosion of light, resembling a cosmic burst or the Big Bang, radiating intense orange and white hues against a star-filled backdrop, as a calm male voice states, \"The Big Bang.\" This transitions into a dark, starry void, where a glowing blue Celestial Sphere with a grid pattern emerges, rotating slowly and revealing embedded galaxies, while the voice explains that even if space is finite, one could roam the universe indefinitely without meeting an edge. The scene shifts to a serene view from an airplane window, showing the wing and a vast landscape below under a partly cloudy sky, which the voice uses as an analogy: \"Much like if you were to fly an aeroplane round the Earth's equator.\" This terrestrial view continues over a calm ocean horizon and then zooms out to reveal Earth from space, showcasing its blue oceans, white clouds, and continents, as the voice explains one would never fall off. The perspective then returns to a dense Starfield, where a sudden burst of orange particles erupts from the left, followed by a diagram illustrating cosmic expansion with concentric arcs of colorful Spiral Galaxies receding from Earth, labeled 'Redshift'. The background music shifts to a sci-fi ambience as the voice explicitly states, \"We can see evidence of the universe's expansion everywhere, thanks to a phenomenon known as Redshift.\" The video then displays a simple wave animation, transitioning from yellow to red, symbolizing light stretching due to expansion, before ending with a red wave moving across a starfield, visually representing the concept of redshift as the voice defines it as electromagnetic radiation undergoing an increase in wavelength, where \"The wave is stretched out.\"",
+        "The segment opens with a dark, star-filled Starfield, accompanied by calm, ambient background music. A Spiral Galaxy appears, with a horizontal color spectrum bar below it, across which a red line sweeps. A male narrator begins by discussing \"wave frequency and photon energy,\" then elaborates that \"For visible light, when analyzing a galaxy's spectral emissions, this has the effect of shifting the absorption lines of certain elements towards the red end of the spectrum, turning visible light red.\" The scene transitions back to the Starfield, then to a close-up of a Spiral Galaxy, which fades into a blue Celestial Sphere. This sphere, initially smooth, develops a grid pattern and is populated with colorful, wavy lines and small spiral icons, symbolizing cosmic waves or radiation. The sphere rotates, and its elements move dynamically, illustrating the narrator's explanation that \"Because the universe is expanding at all places at once, as the light emitted from other galaxies travels towards Earth, the space it travels through elongates, stretching out the waves and red shifting the light.\" The scene then shifts to a distant Spiral Galaxy, followed by a large, diffuse Elliptical Galaxy, as the narrator continues, \"The more distant the galaxy, the further across ever-expanding space the light has to travel, and so light from more distant objects is red shifted more.\" Text then appears, stating 'Hubble Constant' and '65 km/s per Megaparsec', perfectly aligning with the narrator defining \"The Hubble constant, a measure for the rate at which space is expanding,\" as \"around 65 kilometers per second per megaparsec.\" The final frame displays '1 Mpc = ~ 3,260,000 ly' against the Starfield, as the narrator concludes by stating, \"A megaparsec is equivalent to about 3.2 million...\"",
+        "The segment opens with a dark, star-filled expanse of space, subtly revealing a faint, edge-on spiral galaxy at the center, all set to a calm, atmospheric background music. A male narrator begins explaining cosmic distances in 'light years,' as the camera zooms out to a vast starfield. He elaborates that the more megaparsecs between us and a galaxy, the more space expands, causing the galaxy to recede faster. A text overlay '100 Mpc (~320,000,000 ly)' appears, illustrating his point about a distance where space recedes at over '6,500 km/s', which is shown as a text overlay on a close-up of a bright spiral galaxy. The view then pulls back through deep space, showcasing a nebulous, dark purple void with scattered stars, before focusing on a distant, glowing spiral galaxy. The narrator clarifies that while light speed is limited, galaxies can be pushed away from Earth faster than light speed, not by breaking physics, but because there's too much expanding space for their light to reach us. The camera continues to zoom out, revealing Earth as a small, blue planet emerging from a bright, hazy atmosphere, then receding into the starfield. The narrator concludes by defining this as 'the edge of our observable universe,' the boundary beyond which we cannot see. The final frames show a serene starfield with the text 'COSMIC HORIZON' appearing in white, followed by a grainy, pixelated starfield that fades to black, emphasizing the vastness and mystery of the universe, as the narrator names it 'the cosmic horizon, or the particle horizon.'",
+        "The segment opens with a dark, expansive Starfield, accompanied by a subtle, ambient space-like sound design and a male narrator's voice discussing the 'cosmic horizon.' Earth, a vibrant blue sphere, gradually appears, followed by a distant Spiral Galaxy with a bright core and swirling arms, and a Cosmic Nebula of deep purples and reds. The narrator explains how 'light from distant galaxies has had enough time to cross the expanding universe and meet our telescopes,' but beyond the cosmic horizon, light either hasn't had time to reach the 'solar system' or is too far away. A crescent Earth is shown, then the camera zooms into a dark sphere expanding into a bright, radiant Sun with lens flares. The Starfield returns, now grainy and pixelated, as the text 'Causally Disconnected' appears. The narrator defines this as space 'unreachable and undetectable to us by any known means.' The scene shifts to Earth's night side with city lights, then to a circular diagram of the Observable Universe, depicting a web-like Cosmic Web. The narrator continues, stating that 'as time passes, older and more distant light has time to pass through the solar system, and the observable universe grows, increasing our field of view,' emphasizing that this is 'entirely dependent on our position.' The final shot shows a large, cratered Celestial Body, resembling the Moon, with a smaller planet in the distance, as the narrator concludes that 'because our observable universe is geocentric, the same is true of any planet in the universe.'",
+        "The minute opens with a dark, star-filled space scene, accompanied by a continuous, low ambient hum, as a male narrator with an informative tone begins to explain the concept of the observable universe. A large white circle labeled '46.5 Billion ly' appears, visually representing the radius of the observable universe, which the narrator states is about '46.5 billion light-years' and marked by a cosmic horizon. The scene transitions to a swirling, nebulous cloud, followed by a bright, glowing spiral galaxy appearing in the center of the starfield. The narrator clarifies that this radius is determined by how far objects are *now*, not when their light was emitted, due to the expansion of space. As the camera zooms out, the galaxy fades into a dense field of distant galaxies, with the text '40,000,000,000 ly' overlaying the view. The narrator explains that the most distant galaxies have now receded to 'in excess of 40 billion light-years away from the Earth,' and their light would never possibly have enough time to reach us. The view continues to expand, revealing a bright, diffuse elliptical galaxy, then a hazy, cloud-like structure, and finally a detailed spiral galaxy with a bright core. The narrator emphasizes that beyond the cosmic horizon, light speed and the universe's age are no longer compatible, confining us to our observable universe, segmented and detached from the full scale of the cosmos. The sequence culminates in a full-sky map of the cosmic microwave background radiation, depicted as a colorful, mottled oval with blue and orange regions, symbolizing temperature fluctuations in the early universe, as the narrator concludes on our inability to know what could lie beyond this boundary."
+      ]
+    },
+    {
+      "event_id": 11,
+      "start_minute": 25,
+      "end_minute": 32,
+      "summary": "The universe, appearing isotropic on a large scale with clusters and superclusters of galaxies, presents a fundamental question: 'How much of it is there?' Answering this hinges on measurements of the universe's curvature and assumptions about its shape, a 'grey area in cosmology,' as explored in a scientific paper by Oxford University researchers titled 'Applications of Bayesian model averaging to the curvature and size of the Universe.' The best estimates suggest the universe's total area is at least 250 times the radius of the observable universe, with a total diameter exceeding 23 trillion light years, and the observable universe constitutes a mere 1/15 millionth of its total expanse. If the observable universe contains 2 trillion galaxies, the unobservable may house 30 quintillion. The discovery of the universe's expansion, while significant, did not provide the full picture, as astronomers initially expected the expansion rate to slow down due to gravitational pull. However, red-shift surveying techniques improved, allowing detection of galaxies billions of light years away and enabling distance and expansion stage determination, though precise distance estimation remained difficult due to varying galaxy brightness. The concept of a 'standard candle,' like Type 1a supernovae—super-luminous explosions from white dwarf stars in binary systems with consistent brightness—became crucial for measuring cosmic distances by analyzing their dimness relative to known luminosity. Two projects, the 'High-Z Supernova Search Team' and the 'Supernova Cosmology Project,' utilized these techniques. An unlikely result emerged: very distant objects appeared further away than local ones, indicating the universe's expansion is accelerating, a phenomenon attributed to dark energy, an invisible force exerting negative repulsive pressure. Dark energy, which does not interact with light, became the prevailing energy in the universe around 9.8 billion years ago, marking the 'dark energy dominated era,' after an early universe dominated by radiation and a subsequent period dominated by matter. As the universe expanded, matter density fell, while dark energy's density remained consistent, with more appearing proportionally as the universe expands. Around 4 billion years ago, dark energy's density surpassed matter's, leading to accelerating expansion. On a local scale, gravity holds galaxies together, but massive cosmic voids are growing, separating them into isolated pockets. Due to accelerating expansion, even nearest galaxies will eventually recede beyond reach, and in the distant future, every galaxy's view will be limited to its own stars, with nothing but empty darkness beyond. While separated galaxies will cease producing new stars, the Milky Way and Andromeda will merge into an elliptical galaxy that will gradually burn through its remaining stars.",
+      "involved_entities": {
+        "Scientific Paper": {
+          "description": "A document titled 'Applications of Bayesian model averaging to the curvature and size of the Universe' by Milran Vardanyan, Roberto Trotta, and Joseph Silk, displayed against a starry background, with its abstract visible, indicating research on cosmological parameters, explicitly mentioned by the speaker as the source of the 'best estimate' for the universe's size.",
+          "attribute": "audio-visual"
+        },
+        "University of Oxford Logo": {
+          "description": "A blue circular emblem with the text 'UNIVERSITY OF OXFORD' and a central design featuring a book and crowns, appearing beside the scientific paper, signifying academic authority and origin, and explicitly identified by the speaker as the institution where the research was conducted.",
+          "attribute": "audio-visual"
+        },
+        "Text Overlay": {
+          "description": "White text appearing on screen, including '15,000,000 * v' and '30,000,000,000,000,000,000', which the male narrator explains as representing the observable universe's fraction of its total expanse and the potential number of galaxies in the unobservable universe, respectively, providing cosmological data and posing questions about the universe's scale and velocity.",
+          "attribute": "audio-visual"
+        },
+        "Starfield": {
+          "description": "A dark, expansive background filled with numerous small, twinkling white stars, which the narrator explains will eventually be the only stars visible from within any given galaxy, with empty darkness beyond, as other galaxies disappear from view.",
+          "attribute": "audio-visual"
+        },
+        "Geometric Shapes": {
+          "description": "Three white squares on a black background, each containing a different wireframe shape: a sphere, a grid, and a torus, with a large gray question mark below, symbolizing possible models of the universe's geometry, which the speaker notes are crucial for understanding the universe's 'curvature and assumptions about its shape'.",
+          "attribute": "audio-visual"
+        },
+        "Vast Space": {
+          "description": "An expansive view of the universe filled with countless stars, emphasizing the immense scale of space.",
+          "attribute": "visual"
+        },
+        "Earth": {
+          "description": "A realistic depiction of Earth from space, showing a curved horizon with visible continents and cloud cover, positioned in the lower-right portion of the frame.",
+          "attribute": "visual"
+        },
+        "Milky Way Galaxy": {
+          "description": "A horizontal band of stars and cosmic dust, appearing as a dense, glowing structure in the night sky, visible in the opening frames with Earth’s silhouette below.",
+          "attribute": "visual"
+        },
+        "Spiral Galaxy": {
+          "description": "A distant, rotating spiral galaxy with a bright core and swirling arms, shown against a star-filled background, representing the diverse galactic structures that, according to the male narrator, will eventually disappear from view as their light can no longer reach us, or be flung beyond the cosmic horizon, like our own Milky Way and Andromeda which are predicted to merge and then burn out.",
+          "attribute": "audio-visual"
+        },
+        "Sun": {
+          "description": "A bright, radiant star with lens flares, positioned above the dark sphere, illuminating the scene with intense light and color fringes.",
+          "attribute": "visual"
+        },
+        "Standard Candle": {
+          "description": "A lit candle on a wooden floor, labeled 'Standard Candle,' used as a visual metaphor for measuring cosmic distances, shown first up close and then receding into the distance. The narrator explicitly defines it as 'something with a known absolute magnitude,' used to 'measure cosmic distances' by 'analyzing the dimness of the object relative to how luminous it should be.'",
+          "attribute": "audio-visual"
+        },
+        "Supernova Cosmology Project": {
+          "description": "A logo with stylized text 'Supernova Cosmology Project' in purple and blue, displayed alongside the team photo, indicating one of the 'two separate projects' mentioned by the narrator that utilize standard candles for cosmological research.",
+          "attribute": "audio-visual"
+        },
+        "High Z Supernova Search Team": {
+          "description": "A group photo of scientists in formal attire, holding awards, labeled 'High Z Supernova Search Team,' representing one of the 'two separate projects' mentioned by the narrator that utilize standard candles for cosmological discoveries.",
+          "attribute": "audio-visual"
+        },
+        "Spacetime Diagram": {
+          "description": "A 3D diagram composed of cubes extending along a time axis, each cube filled with a starfield, visually representing the concept of spacetime and cosmic expansion.",
+          "attribute": "visual"
+        },
+        "Cosmic Nebula": {
+          "description": "Swirling clouds of gas and dust in deep purples and reds, appearing as ethereal, luminous formations in space, visually contrasting with the narrator's somber prediction that galaxies will eventually stop producing new stars.",
+          "attribute": "audio-visual"
+        },
+        "Lambda Cold Dark Matter Model": {
+          "description": "White text appearing over a dynamic simulation of cosmic structure formation, showing a web-like distribution of points expanding outward, representing the large-scale structure of the universe under the Lambda-CDM cosmological model.",
+          "attribute": "visual"
+        },
+        "Type 1a Supernovae": {
+          "description": "Visually depicted as a colorful, expanding nebula-like explosion that collapses into a bright blue point, labeled with white text. A male narrator describes them as 'standard candles' and 'super-luminous explosions caused by white dwarf stars in binary systems,' noting their 'consistent brightness' allows them to 'outshine their entire galaxy,' and refers to them as 'stellar ghosts' used to measure cosmic distances.",
+          "attribute": "audio-visual"
+        },
+        "Graph": {
+          "description": "A blue line graph on a dark grid background, plotting 'Expansion Speed' against 'Time', showing a curve that initially declines, reflecting the narrator's explanation of the universe slowing down, then sharply rises, illustrating the accelerating expansion from 4 billion years ago to 'NOW' as described by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Title Text": {
+          "description": "The white text 'DARK ENERGY DOMINATED ERA' appearing on a dark, smoky background, which the narrator explicitly states marks 'the beginning of the dark energy dominated era', introducing the central theme of the segment.",
+          "attribute": "audio-visual"
+        },
+        "Celestial Sphere": {
+          "description": "A top-down view of a grid-lined sphere with concentric circles and embedded galaxies, displaying distance markers like '8,280,000 ly', illustrating the aggressive cosmic scale and expansion mentioned by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Wave Animation": {
+          "description": "Abstract purple smoke-like waves flowing horizontally across a black background, symbolizing the mysterious and unknown nature of dark energy, as the narrator emphasizes our limited knowledge about it.",
+          "attribute": "audio-visual"
+        },
+        "Explosive Cosmic Burst": {
+          "description": "A brilliant golden explosion with radiant light beams bursting through dark clouds, visually symbolizing the powerful and expansive effect of dark energy, described by the narrator as an anti-gravity force exerting repulsive pressure.",
+          "attribute": "audio-visual"
+        },
+        "Cosmic Web": {
+          "description": "A rotating blue sphere filled with glowing points and filaments, representing the large-scale structure of the universe, expanding and rotating to visually mirror the accelerating expansion of the universe, as explained by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Elliptical Galaxies": {
+          "description": "Several large, glowing, beige-colored elliptical galaxies appearing against the starfield, symbolizing distant cosmic structures, and representing the eventual fate of merged galaxies like the Milky Way and Andromeda, which the narrator explains will gradually burn through their last stars.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a vast, dark Starfield filled with countless twinkling stars, as a calm male voice with a British accent explains that the universe appears relatively isotropic on a large scale, with clusters and superclusters of galaxies. The scene transitions to a black screen displaying the white text 'How much?', directly aligning with the speaker's question: 'The real question is how much of it is there?' This cosmic inquiry is further explored visually with three white squares on a black background, each containing a different geometric shape—a wireframe sphere, a grid, and a torus—with a large gray question mark below, as the speaker elaborates that answering this question depends on 'measurements of the universe's curvature and assumptions about its shape,' which remains a 'grey area in cosmology.' The video then shifts to a scientific paper titled 'Applications of Bayesian model averaging to the curvature and size of the Universe' by Oxford University researchers, displayed against the starry backdrop, with the University of Oxford logo appearing beside it. The speaker confirms this, stating that the 'best estimate we have so far' was 'made by physicists at Oxford University,' while briefly mentioning 'skipping over some very complicated maths and science.' Finally, the video presents a series of large numerical values as text overlays on the Starfield: '250 * r', followed by '23,000,000,000,000 ly', and then '15,000,000 * v'. The speaker directly references the first two, explaining that the universe's total area must be 'at least 250 times the radius of the observable universe,' and its total diameter is 'over 23 trillion light years.' A subtle, ambient, and ethereal background soundscape accompanies the entire segment, enhancing the contemplative cosmic theme.",
+        "The segment opens with a dark, star-filled Starfield, accompanied by an ethereal, ambient soundscape. White text '15,000,000 * v' appears, as a male narrator explains that the observable universe accounts for 'a mere 1/15 millionth of its total expanse'. The text fades, and the Starfield shimmers before a much larger number, '30,000,000,000,000,000,000', appears. The narrator continues, stating that if the observable universe holds 2 trillion galaxies, the unobservable may house '30 quintillion' of them. The scene transitions to a blue, Earth-like planet with a moon and distant star, then to a barren, rocky desert under a bright Sun with lens flares. The narrator speculates that 'life must be playing out on another world' given the universe's immense scale. We then see Earth from space, zooming out to reveal it as a small sphere in Vast Space, with the Milky Way visible. The narrator shifts to discussing the 'discovery of the universe's expansion' as one of the most important ever, but notes that 'we still didn't have the full picture'. The final shot shows a distant Spiral Galaxy, glowing with a bright core and swirling arms, as the narrator explains how astronomers initially expected the 'rate of expansion would actually start slowing down' due to galaxies pulling back against the universe's inflation, before his speech is cut off.",
+        "The minute opens with a serene view of Earth's night side, its illuminated continents set against a starfield, as a male narrator begins to explain the quest to establish a more accurate value for the Hubble constant and a \"startling discovery.\" An ambient, scientific-sounding instrumental track plays throughout. The visual transitions to a dynamic visualization of cosmic expansion, with colorful dots representing galaxies moving apart within a 3D grid, illustrating the universe's growth, while the narrator details how red-shift surveying techniques have improved, allowing detection of galaxies \"billions\" of light years away. The camera then zooms through deep space, revealing a red nebula and a distant spiral galaxy, emphasizing the cosmos's vastness, as the narrator explains how red-shift indicates the universe's expansion, enabling comparison of a galaxy's distance with its red-shift to determine cosmic expansion stages. He notes the difficulty in precise distance estimation due to galaxies' varying brightness. The perspective shifts to a close-up of a lit candle on a wooden floor, labeled 'Standard Candle,' which then recedes into the distance, illustrating the concept of measuring cosmic distances. The narrator defines a \"standard candle\" as something with a known absolute magnitude, used to calculate distance by analyzing its dimness relative to its expected luminosity. The scene transitions to a dimly lit room with the candle at the far end, creating a sense of scale. Finally, the video displays a group photo of the 'High Z Supernova Search Team' in formal attire, followed by the logo of the 'Supernova Cosmology Project,' as the narrator mentions \"two separate projects\" related to these measurement techniques.",
+        "The segment opens with a view of Earth from space, its curved horizon glowing against a dark starfield, accompanied by a subtle, atmospheric synth background music. A male narrator introduces the 'High-Z Supernova Search Team' and the 'Supernova Cosmology Project,' which aimed to measure the universe's expansion over time. The scene transitions to a cosmic display labeled 'Type 1a Supernovae,' showing a colorful, nebula-like explosion that collapses into a bright blue point, intensifying with a lens flare. The narrator explains these are 'standard candles,' 'super-luminous explosions caused by white dwarf stars in binary systems' with 'consistent brightness' that can 'outshine their entire galaxy.' A spiral galaxy surrounded by a fiery nebula then appears as the narrator details how these 'stellar ghosts' were used to measure distances of far-out objects and compare them with redshift values. The camera pulls back to reveal a detailed Earth globe before zooming into a dense starfield, then expanding to a vast cosmic landscape with numerous galaxies. The narrator reveals the 'unlikely result': very distant objects seemed much further away than local ones, suggesting the universe has expanded more in its latter half, or rather, its expansion is 'accelerating.' A 3D spacetime diagram illustrating cosmic expansion with a grid of galaxies and an orbiting satellite appears, followed by a grainy starfield and a dynamic simulation labeled 'Lambda Cold Dark Matter Model,' showing a web-like distribution of points expanding. The segment concludes with a graph plotting 'Expansion Speed' against 'Time,' with a blue line indicating acceleration from '10 billion years ago' to 'NOW,' visually reinforcing the narrator's conclusion that the universe's expansion is accelerating.",
+        "The segment opens with a graph plotting 'Expansion Speed' against 'Time', showing a blue curve that initially declines, as a male narrator explains the universe once appeared to be slowing down. This is followed by a sharp rise in the curve, visually mirrored by a rotating blue sphere representing the cosmic web that expands and rotates faster, as the narrator reveals that around 4 billion years ago, an unknown, invisible force began to accelerate the universe's expansion. A top-down view of a celestial sphere with concentric grid lines and galaxies, displaying distance markers like '8,280,000 ly', illustrates this aggressive cosmic scale. The screen then fades to black, and the white text 'DARK ENERGY' emerges, coinciding with the narrator introducing the study of dark energy as a new paradigm in astrophysics. Abstract purple smoke-like waves flow horizontally, accompanying the narrator's definition of dark energy as the invisible force responsible for the universe's accelerating expansion. A dramatic golden explosion with radiant light beams bursting through dark clouds visually represents this powerful force, as the narrator describes dark energy as an anti-gravity force exerting negative repulsive pressure, aiding expansion rather than slowing it down. The sequence concludes with a serene, dark starfield, emphasizing the vastness of space and the mysterious, accelerating influence of dark energy, all set against a subtle, atmospheric background music.",
+        "The segment opens with a serene view of a bright, radiant star, possibly the Sun, glowing with lens flares against a dark, star-speckled background, as a male narrator begins to explain that \"Dark energy is notoriously hard to study\" because \"it does not interact with light, so it cannot be seen nor detected.\" The scene transitions to a breathtaking view of Earth from space, its blue atmosphere and cloud-covered surface curving into the blackness, while the narrator continues, noting \"many hypotheses describing its nature and prevalence.\" A sweeping view of the Milky Way Galaxy, a luminous band of stars and cosmic dust, then appears. The narrator reveals that \"around 9.8 billion years of cosmic time, this energy became the prevailing energy in the universe,\" and as the white, bold text 'DARK ENERGY DOMINATED ERA' appears against the starfield, he states this marked \"the beginning of the dark energy dominated era.\" The visuals then shift to a warm, glowing orange and red nebula-like background, suggesting the universe's energy and expansion, as the narrator explains that \"in the early universe, radiation dominated its behavior,\" followed by \"almost 10 billion years\" where \"matter was the dominating influence.\" The scene returns to the Milky Way, now viewed from a different angle with a dense, dark band of interstellar dust, while the narrator details how \"as the universe has expanded, the density of matter has been falling.\" A deep, dark blue space filled with faint stars then gradually reveals a swirling, ethereal cloud formation that expands and dissipates, symbolizing cosmic evolution. The narrator clarifies that \"Dark energy, on the other hand, is believed to remain consistent in its density, meaning more of it pops into existence proportionally as the universe expands.\" The final frames return to a wide, more defined, and centered view of the Milky Way with a bright, glowing core, as the narrator concludes that \"there came a tipping point around 4 billion years ago, where the density of matter fell below that of dark energy,\" all set to an ethereal, mysterious background music.",
+        "The minute begins with a sweeping view of a spiral galaxy, its bright core and swirling arms visible against a dense starfield, as a male narrator explains that dark energy is speeding up the universe's expansion, casting the oldest, most distant galaxies much further away. The camera then zooms out to a distant, faint spiral galaxy that gradually resolves into a more defined structure with a luminous center and faint spiral arms. A nebulous, bluish cloud-like formation, possibly a cosmic nebula, briefly appears before quickly dissipating into the starfield. The narrator continues, noting that on a local scale, the universe's expansion is weak, allowing gravity to keep objects like galaxies held together. A small, diffuse elliptical galaxy then fades as the camera pans across a vast, star-filled expanse. The narrator describes how massive cosmic voids between galaxies and galaxy clusters are growing from within their dark interiors, gradually separating them into isolated pockets of space. A large, face-on spiral galaxy emerges, its core glowing warmly with dark dust lanes spiraling outward, before the view transitions to a smaller, fainter spiral galaxy. The narrator concludes by explaining that because the universe's expansion is accelerating thanks to dark energy, even our nearest galaxies will eventually recede away from us too quickly for their light to ever be able to keep up, as the scene returns to a broad, dark starfield, emphasizing the immense scale and emptiness of space. Throughout, a continuous, deep, ambient hum provides a consistent background sound.",
+        "Against a backdrop of subtle, atmospheric music, a calm male voice narrates the universe's future as the visuals showcase its current grandeur. The video opens with a distant, faint spiral galaxy, its swirling arms and bright core gradually revealed through a zoom, before pulling back and transitioning to another slowly rotating spiral galaxy. The narrator explains that galaxies at the edge of the observable universe will soon disappear from view as their light can no longer reach us, and even our nearest galaxies will be flung beyond the cosmic horizon, rendering our local universe invisible. The scene shifts to a vast, diffuse elliptical galaxy with a glowing, golden core, then to a bright, blue nebula-like structure with two intense light sources, visually representing star-forming regions. The narrator continues, stating that in the very distant future, every galaxy's view will start and end with its own stars, with nothing but empty darkness beyond, and we will never see another galaxy again. The final frames show a large, smooth elliptical galaxy with a warm, golden hue, dominating the frame as the camera zooms out, emphasizing its immense size. The male voice concludes by explaining that separated galaxies will eventually stop producing new stars, though the Milky Way and Andromeda will merge first, forming an elliptical galaxy that will gradually burn through its last stars."
+      ]
+    },
+    {
+      "event_id": 12,
+      "start_minute": 33,
+      "end_minute": 34,
+      "summary": "A male narrator describes the inevitable end of the universe, stating, \"Inevitably, the day will come when the last stars of the universe have either gone out or exploded, bringing the universe into a second, eternal dark age.\" Initially set against a dark, smoky black background with an ominous hum, the scene transitions to a vast starfield as the narrator explains, \"Ultimately, the universe's energy will be lost through natural processes until nothing is ever able to happen again. The universe will reach its heat death, the ceasing of all heat and energy exchanges.\" The text 'HEAT DEATH' appears and fades as the starfield shifts to a dense burst of light. The narrator concludes, \"a bit of a depressing ending... The fate of the universe in the age of darkness.\" The scene then transitions to a serene, alien landscape under a Purple Sky with Mountain Silhouette, featuring a bright Sun casting lens flares over barren, reddish-brown rolling hills and valleys, as the ambient hum fades out. This alien desert landscape, under a surreal gradient purple sky, is initially bathed in bright daylight with prominent lens flares from the Sun, but gradually dims to deep twilight and then complete darkness, marking a silent conclusion.",
+      "involved_entities": {
+        "Title Text": {
+          "description": "The bold, white sans-serif text 'HEAT DEATH' appearing on a dark background, directly coinciding with the male narrator's explanation that 'The universe will reach its heat death,' defining the central theme.",
+          "attribute": "audio-visual"
+        },
+        "Starfield": {
+          "description": "A dark, expansive background filled with numerous small, twinkling white stars, visually representing the vastness of space and, as described by the male narrator, the eventual state where 'the last stars of the universe have either gone out or exploded'.",
+          "attribute": "audio-visual"
+        },
+        "Sun": {
+          "description": "A bright, radiant star with lens flares, positioned above the dark sphere, illuminating the scene with intense light and color fringes.",
+          "attribute": "visual"
+        },
+        "The End": {
+          "description": "White serif text centered on a black background, visually signaling closure, which aligns with the male narrator's concluding remarks about 'the fate of the universe in the age of darkness'.",
+          "attribute": "audio-visual"
+        },
+        "Purple Sky with Mountain Silhouette": {
+          "description": "A dramatic, gradient purple sky above a rugged, reddish-brown desert landscape, transitioning from bright daylight to deep twilight and then to complete darkness, with the sun casting lens flares and color fringes before fading out.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a dark, smoky black background, accompanied by a low, ominous ambient hum. A male narrator begins to speak, explaining that \"Inevitably, the day will come when the last stars of the universe have either gone out or exploded, bringing the universe into a second, eternal dark age.\" As he speaks, the background transitions into a vast starfield filled with countless twinkling white stars. The bold, white text 'HEAT DEATH' then appears centrally on screen, fading out as the narrator continues, \"Ultimately, the universe's energy will be lost through natural processes until nothing is ever able to happen again. The universe will reach its heat death, the ceasing of all heat and energy exchanges.\" The starfield then shifts to a dense, clustered burst of light, resembling a cosmic explosion or the final moments of a dying universe. The screen fades to black, and the words 'The End' appear in elegant, white serif font, signaling closure. The narrator concludes, describing it as \"a bit of a depressing ending... The fate of the universe in the age of darkness.\" The scene then transitions to a serene, alien landscape under a purple sky, with a bright sun casting lens flares over barren, reddish-brown rolling hills and valleys, reinforcing the theme of cosmic entropy and finality, as the ambient hum slowly fades out.",
+        "The segment opens with a sweeping aerial view of a vast, barren, reddish-brown desert landscape under a surreal, gradient purple sky, all unfolding in complete silence. The sun, intensely shining in the upper right, casts prominent lens flares and a soft glow with subtle color fringes across the rugged, undulating terrain, which strongly resembles a Martian or alien desert, utterly devoid of any visible vegetation or life. As the sequence progresses, the lighting gradually dims, transitioning from bright daylight to deep twilight, and finally to complete darkness, suggesting the passage of time or a shift into night. The sun’s brightness steadily fades, and the dramatic purple sky deepens, eventually engulfing the entire frame in black, marking the silent conclusion of the segment."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "SEA Logo": "A white stylized helmet or mask-like logo with the text 'SEA' beneath it, appearing on a black background.",
+    "Vast Space": "An expansive view of the universe filled with countless stars, emphasizing the immense scale of space.",
+    "Earth": "A realistic depiction of Earth from space, showing a curved horizon with visible continents and cloud cover, positioned in the lower-right portion of the frame.",
+    "Milky Way Galaxy": "A horizontal band of stars and cosmic dust, appearing as a dense, glowing structure in the night sky, visible in the opening frames with Earth’s silhouette below.",
+    "Number Display": "White text '46.5 Billion ly' initially appears as a circle, representing the observable universe's radius as stated by the narrator, followed by '40,000,000,000 ly' overlaid on a starfield, explicitly indicating the vast cosmic distance of receding galaxies, which the narrator specifies as 'in excess of 40 billion light-years away'.",
+    "Stephen Hawking Quote": "White text on a black background stating: 'Because there is such a law as gravity, the universe can and will create itself from nothing.'",
+    "Starfield": "A dark, expansive background filled with numerous small, twinkling white stars, visually representing the vastness of space and, as described by the male narrator, the eventual state where 'the last stars of the universe have either gone out or exploded'.",
+    "Spiral Galaxy": "A distant, rotating spiral galaxy with a bright core and swirling arms, shown against a star-filled background, representing the diverse galactic structures that, according to the male narrator, will eventually disappear from view as their light can no longer reach us, or be flung beyond the cosmic horizon, like our own Milky Way and Andromeda which are predicted to merge and then burn out.",
+    "Sun": "A bright, radiant star with lens flares, positioned above the dark sphere, illuminating the scene with intense light and color fringes.",
+    "Title Text": "The bold, white sans-serif text 'HEAT DEATH' appearing on a dark background, directly coinciding with the male narrator's explanation that 'The universe will reach its heat death,' defining the central theme.",
+    "Cosmic Nebula": "Swirling clouds of gas and dust in deep purples and reds, appearing as ethereal, luminous formations in space, visually contrasting with the narrator's somber prediction that galaxies will eventually stop producing new stars.",
+    "Spacetime Diagram": "A 3D diagram composed of cubes extending along a time axis, each cube filled with a starfield, visually representing the concept of spacetime and cosmic expansion.",
+    "Albert Einstein Portrait": "A black-and-white photograph of Albert Einstein, showing him in a patterned suit with a bow tie, labeled with his name and lifespan (1879–1955).",
+    "Red Trajectory Line": "A red curved line with an arrow, illustrating the path of an object being deflected by the gravitational field of the yellow sphere, visually demonstrating how the curvature of spacetime is felt as gravity.",
+    "Einstein's Paper": "A printed document titled 'ON THE ELECTRODYNAMICS OF MOVING BODIES' by A. Einstein, dated June 30, 1905, displayed on the left side of a split screen, directly referenced by the narrator as the publication of Einstein's theory of special relativity in 1905.",
+    "Yellow Sphere": "A yellow, textured sphere placed at the center of the warped grid, symbolizing a massive celestial body whose condensed energy causes the warping effect on spacetime, leading to what is felt as gravity.",
+    "Spacetime Grid": "A white grid on a black background overlaid on the starfield, visually representing the fabric of spacetime, which the narrator explains is expanding and creating new space.",
+    "Orbiting Celestial Bodies": "Two spherical bodies, one smaller and one larger, shown orbiting each other in space, visually representing the effect of gravity where objects of mass attract one another by distorting spacetime.",
+    "Handwritten Manuscript": "A handwritten document in German, appearing on the right side of the split screen, likely related to Einstein's work on relativity.",
+    "Bright Starfield with Lens Flares": "A dark space background featuring two intensely bright light sources with prominent lens flares, suggesting distant stars or galaxies.",
+    "Edwin Hubble Portrait": "A black-and-white photograph of Edwin Hubble, shown in a suit with a pipe, labeled with his name and lifespan (1889–1953). A male narrator explicitly names him as 'Edwin Hubble' and discusses his 'accompanying legacy' and 'profound impact on modern-day astronomy.'",
+    "Red Circle Highlight": "A red circular overlay used to draw attention to a specific galaxy within the starfield, indicating its significance in the visual narrative.",
+    "Cratered Celestial Body": "A large, textured, cratered sphere resembling the Moon, dominating the frame against a starry background with a smaller planet visible in the distance, representing a 'planet in the universe' whose observable universe is also geocentric.",
+    "Lambda-CDM": "White text appearing as a shortened form of 'Lambda Cold Dark Matter Model', displayed over the same cosmic structure simulation, indicating the standard model of cosmology used to describe the universe's evolution.",
+    "Lambda Cold Dark Matter Model": "White text appearing over a dynamic simulation of cosmic structure formation, showing a web-like distribution of points expanding outward, representing the large-scale structure of the universe under the Lambda-CDM cosmological model.",
+    "Big Bang-Inflation": "A colorful, conical 3D diagram with a grid expanding from a bright point at the bottom, illustrating the rapid expansion of the universe during the inflationary epoch, with colors transitioning from green to red as it expands.",
+    "Big Bang Theory": "The visual of a small blue point expanding into a glowing sphere and then a blinding white explosion with fiery nebulous clouds, accompanied by text '13.8 Billion Years Ago,' is reinforced by a male voice explaining that tracing the constantly expanding universe back to its beginning reveals it was microscopic and compressed around 13.8 billion years ago.",
+    "Cosmic Inflation": "Visually represented by a glowing blue sphere labeled 'Cosmic Inflation' that rapidly expands into swirling, turbulent red and purple gas, this event is explicitly named and described by a male voice as a sudden and radical expansion in the earliest nanoseconds of the universe's life, bypassing known speeds and laws, and scaling the universe by a factor of at least 10 to the power of 78 in volume.",
+    "Red-Hued Cloud Formation": "A dark, ominous cloud with glowing red edges that opens to reveal a bright white void, symbolizing a cosmic transition or emergence, occurring as the narrator describes the universe's interior spreading apart.",
+    "Explosive Cosmic Burst": "A brilliant golden explosion with radiant light beams bursting through dark clouds, visually symbolizing the powerful and expansive effect of dark energy, described by the narrator as an anti-gravity force exerting repulsive pressure.",
+    "Abstract Particle Field": "A white background filled with floating, translucent bubbles and colorful particles, representing the formation of primordial matter, universal plasma, and subatomic particles like protons and neutrons, as detailed by the narrator.",
+    "Purple Sky with Mountain Silhouette": "A dramatic, gradient purple sky above a rugged, reddish-brown desert landscape, transitioning from bright daylight to deep twilight and then to complete darkness, with the sun casting lens flares and color fringes before fading out.",
+    "Proxima Centauri": "A bright star with lens flares, labeled 'Proxima Centauri, 4.2 ly from Earth,' shown against a dark starfield, emphasizing its proximity to Earth, and explicitly named by the male narrator.",
+    "Light Years [ly]": "White text defining a light year as 9,460,000,000,000 km or 5,800,000,000,000 miles, displayed over a starfield, which the male narrator explains is used as a unit of measurement due to the vast distances and light delay in space.",
+    "Observable Universe": "A diagram showing the observable universe as a sphere with a diameter of 93 billion light-years, including labels for the Virgo Supercluster and Milky Way, and a scale in light-years and parsecs, depicted as a circular, web-like structure with galaxies and a central bright point. The narrator explicitly defines and discusses the 'observable universe' as growing and being 'geocentric,' with its boundaries determined by the time light has to reach us.",
+    "Cosmic Web": "A rotating blue sphere filled with glowing points and filaments, representing the large-scale structure of the universe, expanding and rotating to visually mirror the accelerating expansion of the universe, as explained by the narrator.",
+    "Space Shuttle": "A large, white and orange spacecraft with a payload bay, shown deploying the Hubble Space Telescope in orbit, with Earth visible in the background.",
+    "Andromeda": "A bright, diffuse spiral galaxy appearing in the center of the starfield, explicitly named and labeled with its distance of '2,500,000 ly', which the narrator confirms as 'two and a half million light-years,' explaining that we see it as it was when humanity first used stone tools.",
+    "Early Hominids": "Three prehistoric human figures with dark skin and minimal clothing, crouched in a grassy savanna, one using a stone tool to process a carcass, visually representing the era when humanity 'had only just started using stones as tools,' a timeframe directly linked by the narrator to the light travel time from Andromeda.",
+    "Hubble Space Telescope": "A detailed, metallic cylindrical satellite with solar panels and antennas, shown orbiting Earth and being deployed from a Space Shuttle, with close-ups of its structure and components. A male narrator describes a '2009 servicing mission to Hubble' that 'equipped it with new, sensitive infrared detecting instruments,' enabling it to resnap deep fields.",
+    "Rocket Launches": "Two separate rocket launches shown in split-screen: one from a coastal launchpad with a bright plume and smoke, and another from a desert site with intense orange flames and billowing smoke.",
+    "Hubble Deep Field": "A composite image of a dense starfield filled with thousands of distant galaxies, initially shown in four overlapping panels that merge into a single view, with yellow dashed circles highlighting specific galaxies, explicitly referred to by the male narrator as the 'Hubble Deep Field South image,' a 'follow-up deep field image' taken to represent the distant universe.",
+    "Space Telescope Science Institute (STScI) Logo": "A blue circular logo featuring a stylized telescope or mask-like design, accompanied by the text 'STScI | SPACE TELESCOPE SCIENCE INSTITUTE', displayed on a starry background, representing the institute whose then director, Robert Williams, dedicated time to the Deep Field project.",
+    "Robert Williams": "A portrait of a man with short hair, wearing a brown jacket over a dark turtleneck, identified by the name 'Robert Williams' beneath the image, appearing in a small inset on the right side of the screen; he is identified by the narrator as the then director of the Space Telescope Science Institute, who devoted his time slot to imaging extremely faint and distant galaxies to test theories on the age and size of the universe.",
+    "Barred Spiral Galaxy": "A galaxy with a central bar-shaped structure and spiral arms, appearing in a detailed view with a bright core and dust lanes, set against a dark starfield.",
+    "Red Dot": "A small red dot in the night sky, used to indicate a specific point of interest, such as a star or planet, and later connected to the Hubble Deep Field image via lines.",
+    "Ursa Major": "A constellation diagram shown in a white box, initially labeled 'Ursa Major' and then 'The Plough,' depicting its characteristic shape with connected dots. The male narrator identifies it as the chosen location for observation, also referring to it as 'The Big Dipper or The Plough'.",
+    "Constellations": "White outlines of constellations including Ursa Major, Lynx, and Leo Minor, displayed against a starry background, emphasizing their boundaries.",
+    "Crescent Moon": "A thin, illuminated crescent moon visible in the night sky, accompanied by a red dot that may represent a planet or star.",
+    "Quasar": "A bright, star-like object with a prominent lens flare, labeled 'Quasar,' appearing in the Hubble Deep Field South image, indicating an extremely luminous active galactic nucleus, whose light from the early universe was specifically noted by the male narrator as being captured.",
+    "Hubble Ultra Deep Field": "A high-resolution image of a dense starfield filled with thousands of distant galaxies, labeled 'Hubble Ultra Deep Field,' showcasing the telescope's ability to capture faint, distant objects. A male narrator identifies it as 'the deepest photograph of the universe ever taken, from the constellation of Fornax,' and notes that Hubble later resnapped deep fields in infrared, revealing 'thousands more primordial galaxies.'",
+    "Astronaut": "A figure in a white spacesuit with an American flag patch, performing a spacewalk on the Hubble Space Telescope, interacting with its external components.",
+    "James Webb Space Telescope": "A detailed animation of the telescope in space, featuring its large golden hexagonal mirror, extended solar panels, and intricate structure, set against a starfield with planets visible. A male narrator refers to it as 'the James Webb Telescope' and anticipates it will provide superior images upon its launch.",
+    "Colorful Galaxies": "Vibrant, swirling galaxies in red, blue, green, and purple, animated to represent the dynamic expansion of the universe, with bright cores and spiral arms.",
+    "Elliptical Galaxies": "Several large, glowing, beige-colored elliptical galaxies appearing against the starfield, symbolizing distant cosmic structures, and representing the eventual fate of merged galaxies like the Milky Way and Andromeda, which the narrator explains will gradually burn through their last stars.",
+    "Graph": "A blue line graph on a dark grid background, plotting 'Expansion Speed' against 'Time', showing a curve that initially declines, reflecting the narrator's explanation of the universe slowing down, then sharply rises, illustrating the accelerating expansion from 4 billion years ago to 'NOW' as described by the narrator.",
+    "Celestial Sphere": "A top-down view of a grid-lined sphere with concentric circles and embedded galaxies, displaying distance markers like '8,280,000 ly', illustrating the aggressive cosmic scale and expansion mentioned by the narrator.",
+    "Red X": "A large, bold red 'X' appearing on the right side of the screen, possibly marking a point of interest, error, or exclusion in the cosmic scene.",
+    "Wave Animation": "Abstract purple smoke-like waves flowing horizontally across a black background, symbolizing the mysterious and unknown nature of dark energy, as the narrator emphasizes our limited knowledge about it.",
+    "Red Wave": "A single, horizontal red wave moving across a starfield, visually representing the redshift of light from distant galaxies in an expanding universe.",
+    "Airplane View": "A perspective from an airplane window showing the wing and a landscape below under a partly cloudy sky, providing a terrestrial contrast to the cosmic scenes, explicitly referenced by a male voice as an analogy for navigating a finite but unbounded space.",
+    "Ocean Horizon": "A calm, expansive view of the ocean meeting the sky, with a soft gradient from deep blue to light blue and white clouds above, symbolizing Earth's surface, appearing as a male voice continues an analogy about navigating Earth.",
+    "Redshift": "White text appearing over a diagram of galaxies receding from Earth along concentric arcs, illustrating the cosmological redshift phenomenon.",
+    "Hubble Constant Text": "White text appearing on screen stating 'Hubble Constant' and '65 km/s per Megaparsec', introducing a key cosmological measurement related to the expansion rate of the universe, which the narrator defines as \"a measure for the rate at which space is expanding,\" stating its value as \"around 65 kilometers per second per megaparsec.\"",
+    "Megaparsec Conversion Text": "White text appearing on screen stating '1 Mpc = ~ 3,260,000 ly', providing a unit conversion for distance in the universe, displayed over a starfield, which the narrator explains by stating, \"A megaparsec is equivalent to about 3.2 million...\"",
+    "Text Overlay": "White text appearing on screen, including '15,000,000 * v' and '30,000,000,000,000,000,000', which the male narrator explains as representing the observable universe's fraction of its total expanse and the potential number of galaxies in the unobservable universe, respectively, providing cosmological data and posing questions about the universe's scale and velocity.",
+    "Causally Disconnected": "White text appearing on a grainy, pixelated Starfield, indicating a cosmological concept related to regions of the universe that cannot interact due to the expansion of space. The narrator explicitly defines this as 'unreachable and undetectable to us by any known means,' referring to the space beyond the cosmic horizon.",
+    "Cosmic Microwave Background": "A full-sky map of the early universe's radiation, depicted as a colorful, mottled oval with blue and orange regions, symbolizing temperature fluctuations. This visual represents the ultimate boundary of our observable universe, aligning with the narrator's discussion of the 'cosmic horizon' and our confinement to what we can perceive.",
+    "Scientific Paper": "A document titled 'Applications of Bayesian model averaging to the curvature and size of the Universe' by Milran Vardanyan, Roberto Trotta, and Joseph Silk, displayed against a starry background, with its abstract visible, indicating research on cosmological parameters, explicitly mentioned by the speaker as the source of the 'best estimate' for the universe's size.",
+    "University of Oxford Logo": "A blue circular emblem with the text 'UNIVERSITY OF OXFORD' and a central design featuring a book and crowns, appearing beside the scientific paper, signifying academic authority and origin, and explicitly identified by the speaker as the institution where the research was conducted.",
+    "Geometric Shapes": "Three white squares on a black background, each containing a different wireframe shape: a sphere, a grid, and a torus, with a large gray question mark below, symbolizing possible models of the universe's geometry, which the speaker notes are crucial for understanding the universe's 'curvature and assumptions about its shape'.",
+    "Standard Candle": "A lit candle on a wooden floor, labeled 'Standard Candle,' used as a visual metaphor for measuring cosmic distances, shown first up close and then receding into the distance. The narrator explicitly defines it as 'something with a known absolute magnitude,' used to 'measure cosmic distances' by 'analyzing the dimness of the object relative to how luminous it should be.'",
+    "Supernova Cosmology Project": "A logo with stylized text 'Supernova Cosmology Project' in purple and blue, displayed alongside the team photo, indicating one of the 'two separate projects' mentioned by the narrator that utilize standard candles for cosmological research.",
+    "High Z Supernova Search Team": "A group photo of scientists in formal attire, holding awards, labeled 'High Z Supernova Search Team,' representing one of the 'two separate projects' mentioned by the narrator that utilize standard candles for cosmological discoveries.",
+    "Type 1a Supernovae": "Visually depicted as a colorful, expanding nebula-like explosion that collapses into a bright blue point, labeled with white text. A male narrator describes them as 'standard candles' and 'super-luminous explosions caused by white dwarf stars in binary systems,' noting their 'consistent brightness' allows them to 'outshine their entire galaxy,' and refers to them as 'stellar ghosts' used to measure cosmic distances.",
+    "The End": "White serif text centered on a black background, visually signaling closure, which aligns with the male narrator's concluding remarks about 'the fate of the universe in the age of darkness'."
+  }
+}

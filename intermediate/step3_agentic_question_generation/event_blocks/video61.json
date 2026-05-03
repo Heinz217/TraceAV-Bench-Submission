@@ -1,0 +1,1441 @@
+{
+  "video_id": "video61",
+  "audio_id": "video61_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 4,
+      "summary": "The narrative begins with aerial views of the Burj Al Arab, highlighting its iconic sail shape and isolated location, before transitioning to its opulent interior. A guest arrives in a Rolls-Royce, noting his less luxurious car with a sense of embarrassment but appreciating the complimentary parking and assistance from a uniformed staff member who greets him with \"Welcome to Burj Al Arab\" and \"You have one bed, right?\". The guest walks the red carpet and enters through a glass revolving door into a lobby featuring a red carpet, blue walls, orange sofas, and gold-accented lamps. After a lengthy check-in, the guest rides a golden escalator, admiring the soaring atrium ceiling described as 180 meters high with changing geometric patterns. He then enters a golden-framed elevator to his room, 1607. Inside the two-level suite, the guest explores a lavish bathroom with blue and gold damask wallpaper, gold-trimmed fixtures, a gold toilet flush button, bidet, sink, and gold tissue dispenser. He discovers a wall-mounted telephone and a bathroom control panel, which allows him to control the TV sound and lights throughout the apartment. Seated at a curved wooden desk, the guest requests champagne and examines a Burj Al Arab pen and notepad. He then opens an elevator panel to reveal a well-stocked tea and coffee station with sugar, Lactel milk portions, various tea bags, ceramic cups and saucers, a teapot, and a Nespresso machine. He fills and turns on a Philips electric kettle, deeming it \"pretty bulk standard.\"",
+      "involved_entities": {
+        "Staff Member": {
+          "description": "A uniformed attendant in a white robe with gold and blue trim, seen pushing a luggage cart through the glass revolving door into the lobby.",
+          "attribute": "visual"
+        },
+        "Luggage Cart": {
+          "description": "A wheeled cart with a black handle, used by the staff member to transport luggage, whose distinct rolling sound is heard as it enters the lobby.",
+          "attribute": "audio-visual"
+        },
+        "Glass Revolving Door": {
+          "description": "A transparent, modern revolving door at the hotel’s entrance, framed with gold accents, leading into the opulent interior.",
+          "attribute": "visual"
+        },
+        "Guest": {
+          "description": "A man in a dark polo shirt, seated at the Curved Wooden Desk, speaking and gesturing, then interacting with the Wall-Mounted Telephone and later with the tea and coffee station inside the elevator. He speaks clearly, discussing the availability of a MacBook Pro, requesting champagne, describing a Burj Al Arab pen and notepad, and later critiquing the 'bulk standard' quality of the kettle.",
+          "attribute": "audio-visual"
+        },
+        "Burj Al Arab": {
+          "description": "The interior of the Burj Al Arab is showcased, featuring its luxurious lobby with red carpet, blue walls, gold accents, and a soaring sail-shaped atrium ceiling, which a female voice describes as one of the tallest in the world at 180 meters high, with changing colors representing the four elements of the earth. The Guest also remarks on its 'big' size.",
+          "attribute": "audio-visual"
+        },
+        "Social Media Text Overlays": {
+          "description": "On-screen text 'Walk With Me' appears in the top right corner throughout the segment, indicating the vlog’s branding and creator identity.",
+          "attribute": "visual"
+        },
+        "Red Carpet": {
+          "description": "A vibrant red carpet with ornate patterns, laid out in the lobby to welcome guests, emphasizing luxury and exclusivity.",
+          "attribute": "visual"
+        },
+        "Rolls-Royce": {
+          "description": "A white luxury sedan parked at the hotel entrance, with a visible license plate '77704', symbolizing opulence and high status. The narrator contrasts his own 'Fiat Punto' with 'Range Rovers' and other 'really luxury cars' seen pulling up, implying the Rolls-Royce is one such high-end vehicle.",
+          "attribute": "audio-visual"
+        },
+        "Escalator": {
+          "description": "A golden-framed escalator with black steps, leading upward through the hotel’s atrium, showcasing the grand interior architecture.",
+          "attribute": "visual"
+        },
+        "Gold-Accented Lamps": {
+          "description": "Tall, ornate lamps with gold bases and white shades, visible in the bathroom and hallway, which the Guest points out, exclaiming, \"Look at those lights!\"",
+          "attribute": "audio-visual"
+        },
+        "Elevator": {
+          "description": "A golden interior elevator with a control panel displaying floor numbers, opened with a distinct sliding sound to reveal a tea and coffee station inside, including a Philips kettle and Nespresso machine.",
+          "attribute": "audio-visual"
+        },
+        "Orange Sofa": {
+          "description": "A plush orange sofa with patterned cushions, located in the lobby, where the Guest sits to speak to the camera.",
+          "attribute": "visual"
+        },
+        "Atrium Ceiling": {
+          "description": "A soaring, sail-shaped ceiling with blue and green geometric patterns and golden structural elements, visible as the Guest ascends the escalator, and described by a female voice as 180 meters high, with changing colors representing the four elements of the earth.",
+          "attribute": "audio-visual"
+        },
+        "Luxurious Bathroom": {
+          "description": "A lavishly decorated bathroom with blue and gold damask wallpaper, gold fixtures, a blue sink, a white toilet, and a gold-framed mirror, which the Guest describes as having a toilet for guests, a bidet, a sink, tissues, and nicely arranged flannels, all contributing to an \"extreme luxury\" environment where \"everything...is real gold.\"",
+          "attribute": "audio-visual"
+        },
+        "Gold Toilet Flush Button": {
+          "description": "A prominent gold flush button mounted on the wall above the toilet, which the Guest's hand presses, demonstrating its \"easy\" operation, accompanied by a flush sound, though he notes it \"looks a little bit out of place.\"",
+          "attribute": "audio-visual"
+        },
+        "Curved Wooden Desk": {
+          "description": "A richly finished wooden desk with a blue surface, gold trim, and a tablet-like device, featuring a gold ashtray and a QR code card, located in a luxurious setting with gold-accented walls. The Guest mentions a 'Burj Al Arab pen' and a notepad on the desk.",
+          "attribute": "audio-visual"
+        },
+        "Gold Tissue Dispenser": {
+          "description": "A gold tissue dispenser with a blue decorative knob, located on the desk, opened to reveal tissues, and interacted with by a hand.",
+          "attribute": "visual"
+        },
+        "Bathroom Control Panel": {
+          "description": "A gold-framed electronic panel with buttons, located on the wall near the sink, which the Guest interacts with, discovering it controls the \"TV sound all over the apartment\" and can turn lights off, eliciting a \"Wow\" from him.",
+          "attribute": "audio-visual"
+        },
+        "Wall-Mounted Telephone": {
+          "description": "A cream-colored, vintage-style telephone with a coiled cord, mounted on the wall, picked up and placed back by the Guest’s hand.",
+          "attribute": "audio-visual"
+        },
+        "Philips Electric Kettle": {
+          "description": "A black, transparent Philips kettle with water level markings, placed on a base inside the elevator, filled with water and turned on by the Guest’s hand with an audible click. The Guest describes it as 'pretty bulk standard,' 'plastic, nothing special.'",
+          "attribute": "audio-visual"
+        },
+        "Lactel Milk Portions": {
+          "description": "Small, round, blue-labeled Lactel milk containers arranged on a tray inside the elevator, selected by a hand.",
+          "attribute": "visual"
+        },
+        "Nespresso Machine": {
+          "description": "A gold-colored Nespresso machine with a circular top and drip tray, positioned next to the kettle inside the elevator, ready for use. The Guest refers to it as a 'Burj Al Arab Tassimo'.",
+          "attribute": "audio-visual"
+        },
+        "Tea Bags": {
+          "description": "Packaged tea bags, including 'English Breakfast Black Tea', visible in the elevator’s tea station, picked up by a hand.",
+          "attribute": "visual"
+        },
+        "Tea and Coffee Station": {
+          "description": "A compact, well-organized station inside the elevator, featuring a Philips kettle, Nespresso machine, Lactel milk, sugar packets, tea bags, and a ceramic cup and saucer, designed for guest convenience. The Guest describes the sugar in 'see-through little cellophane bags,' the laid-out milk, and mentions a teapot.",
+          "attribute": "audio-visual"
+        },
+        "Ceramic Cup and Saucer": {
+          "description": "A white ceramic cup and saucer, placed on a shelf inside the elevator, picked up by a hand for use.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with sweeping aerial views of the iconic Burj Al Arab in Dubai, UAE, showcasing its sail-shaped structure against a vibrant blue sky and turquoise waters, emphasizing its grandeur and isolated position on a man-made island connected by a long bridge. An upbeat, light background music plays as the narrator introduces the hotel as \"one of the most iconic hotels in the world,\" \"costing over 1 billion pounds to build,\" and a \"global icon of Arabian luxury,\" expressing his excitement to \"spend a night, check out the pool, the food, and so much more.\" The scene transitions to a luxurious interior with golden accents and a lavish buffet, then shifts to ground level, capturing the hotel’s exterior from a moving vehicle. Palm trees line the approach, and a white Rolls-Royce is parked prominently. The narrator, seen inside his car, contrasts his \"higher car,\" a \"little Fiat Punto,\" with the \"Range Rovers\" and \"really luxury cars\" pulling up, finding it \"a bit embarrassing\" and noting, \"I think I must be the worst car here,\" though he gets \"free parking\" where staff will \"literally park the car for me.\" As his vehicle arrives, a uniformed staff member in a white robe with gold and blue trim assists by retrieving luggage from the car’s trunk. The staff member greets him with \"Welcome to Burj Al Arab\" and asks, \"You have one bed, right?\", to which the guest responds, \"Thank you.\" The guest then steps out onto a red carpet, escorted by the staff, and enters the hotel through a glass revolving door, with the interior’s grandeur visible beyond. On-screen text overlays identify the location as 'BURJ AL ARAB, DUBAI, UAE' and display social media handles like 'Walkwithmetim' and '@TimWalkwithme', enhancing the travel vlog context of this luxurious, exclusive, and seamlessly serviced experience, all under bright daylight.",
+        "The video opens inside the opulent Burj Al Arab as a staff member, dressed in a white robe with gold and blue trim, pushes a luggage cart, whose distinct rolling sound is heard, through a glass revolving door into the hotel's vibrant lobby, adorned with a red carpet, blue walls, and modern orange sofas and gold-accented lamps. A Guest, a man in a dark polo shirt, walks through the lobby before settling on an orange sofa to speak to the camera, commenting on a cold item he's been handed, the lengthy 15-minute check-in process, and the hotel's immense size. On-screen text overlays 'Walk With Me' and '@TimWalkwithme' reinforce his travel vlog context. He then rides a golden-framed escalator upward, revealing the hotel's grand interior architecture with its soaring, sail-shaped atrium ceiling, which a female voice describes as one of the tallest in the world at 180 meters high, with changing blue and green geometric patterns and golden structural elements representing the four elements of the earth. The Guest, 'Tim', thanks her before reaching the upper level, where he approaches a golden-interior elevator, presses a button, and enters, noting his room number, 1607, as he prepares to check it out.",
+        "The segment opens with a Guest, a man in a dark polo shirt and white shorts, entering a luxurious hallway with polished dark flooring and ornate wooden doors, gesturing towards the camera as he states his intention \"to not say wow too many times.\" The perspective shifts to a first-person view, revealing a grand staircase and an opulent living area, as the Guest describes the suite as being \"on two levels.\" The camera then moves into a lavish bathroom, featuring blue and gold damask wallpaper and gold-trimmed fixtures, where the Guest immediately points out a toilet, noting it's \"just in case you have guests.\" He exclaims, \"Look at those lights!\" referring to the gold-accented lamps, and emphasizes that \"Everything that you see is real gold.\" His hand interacts with a prominent gold toilet flush button, which he presses, remarking on how \"easy it is to press\" (accompanied by a flush sound), though he finds it \"a little bit out of place.\" He then points out a bidet, the sink, and a gold tissue dispenser, mentioning \"some tissues\" and appreciating how the \"flannels\" are arranged. The Guest discovers a wall-mounted telephone and a bathroom control panel, which he interacts with, exclaiming \"Wow\" as he realizes he \"can control the TV sound all over the apartment\" and demonstrates turning the lights off. The scene transitions to the Guest seated at a curved wooden desk with a blue surface, where he gestures while speaking to the camera, concluding that he could sit at \"my own desk\" if he wanted to, surrounded by the consistently luxurious, gold-accented environment.",
+        "The segment opens with the Guest, a man in a dark polo shirt, seated at a luxurious Curved Wooden Desk with a blue surface and gold accents, speaking to the camera. He mentions the option to use a MacBook Pro for work and exclaims, \"Champagne, please! Now.\" He then highlights a \"very nice Burj Al Arab pen\" and a notepad on the desk, pondering if guests are charged for taking them. The Guest picks up and replaces a cream-colored, vintage-style Wall-Mounted Telephone. He then moves to a golden elevator panel, pressing a button and announcing, \"Now, if I open this...\" as the elevator door slides open with a distinct sound, revealing a well-stocked Tea and Coffee Station inside. The Guest expresses his admiration for the layout, detailing the sugar in \"see-through little cellophane bags,\" the neatly arranged Lactel milk portions, items for the coffee machine, various Tea Bags including 'English Breakfast Black Tea', and Ceramic Cups and Saucers. He also points out a teapot and refers to the Nespresso Machine as a \"Burj Al Arab Tassimo.\" While interacting with the station, he fills a black Philips Electric Kettle with water and places it on its base, turning it on with an audible click. He critiques the kettle, stating it's \"pretty bulk standard... plastic, nothing special.\" Throughout the scene, the 'Walk With Me' text overlay remains visible in the top right corner."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 5,
+      "end_minute": 7,
+      "summary": "The Guest, a man in a dark polo shirt, explores a luxurious private bar area within the Burj Al Arab, initially stating, \"So this is my little bar area,\" and noting that \"everything I've been told on the top is complimentary.\" He reveals a well-stocked mini-fridge containing tomato juice, Coca-Cola, orange juice, tonic water, beers, and champagne, and a wooden cabinet with gin and whiskey. He then examines the Burj Al Arab Private Bar Menu, noting prices in Dirhams and stating champagne costs 580 Dirhams, before deciding to enjoy the complimentary snacks. He discovers an envelope containing a personalized welcome note addressed to \"Tim\" from the Burj Al Arab. The Guest then admires canapés under a glass dome, describing them as \"cute\" and tasting one, which he finds \"nutty, creamy, savory,\" initially mistaking it for dessert before identifying it as possibly \"salmon mousse on a tiny little bit of bread.\" He also tastes a gourmet chocolate dessert topped with caviar, expressing surprise and curiosity. He highlights Burj Al Arab-branded orange juice bottles and a water glass with a branded lid, commenting on the \"totally unnecessary, but actually, it's quite nice\" luxury. The scene shifts to a dining area with a vibrant fruit platter featuring pineapple, peaches, oranges, grapes, and kiwi, which the Guest confirms is \"all real fruit.\" He then declares the spacious, opulent living area, featuring a plush red sectional sofa, a round glass coffee table, a large flat-screen TV displaying the Burj Al Arab, red drapes, and gold-accented lamps, as \"my living room,\" expressing he is \"absolutely blown away by this room.\" A breathtaking panoramic view from floor-to-ceiling windows overlooks turquoise waters and the Burj Al Arab, with the Guest describing the vista as \"spectacular over downtown Dubai\" and pointing out a \"swim pool\" below. Sitting on the sofa, the Guest picks up a branded remote control in a leather case, which he uses to interact with the TV and control the curtains, noting the \"Press OK to access the menu\" prompt on the screen. Throughout the experience, \"Walk With Me\" text overlays reinforce the vlog's branding and the high-end exclusivity of the environment.",
+      "involved_entities": {
+        "Mini-Fridge": {
+          "description": "A compact refrigerator stocked with premium beverages. The Guest lists its contents as Coca-Cola, Big Tom Spiced Tomato Juice, Fever-Tree tonics, orange juice, tonic water, beers, and champagne.",
+          "attribute": "audio-visual"
+        },
+        "Wooden Cabinet": {
+          "description": "A dark wooden cabinet with shelves displaying premium spirits. The Guest identifies its contents as gin and whiskey.",
+          "attribute": "audio-visual"
+        },
+        "Plate of Chocolates": {
+          "description": "A white oval plate holding assorted chocolates, including dark and milk varieties, placed on the marble countertop for display.",
+          "attribute": "visual"
+        },
+        "Guest": {
+          "description": "A man in a dark polo shirt and white shorts, actively engaging with the camera, speaking in a male voice, expressing awe for the room and view, describing the sofa as 'feather' and 'comfy,' and detailing the TV and remote control's features, including its ability to control curtains.",
+          "attribute": "audio-visual"
+        },
+        "Burj Al Arab": {
+          "description": "The interior of the Burj Al Arab is showcased, featuring a luxurious private bar with marble countertops, gold-trimmed mirrors, warm lighting, and opulent decor, emphasizing exclusivity and high-end amenities. The Guest comments on its luxury, noting how it differs from his home, and appreciates details like lids for glasses.",
+          "attribute": "audio-visual"
+        },
+        "Burj Al Arab Private Bar Menu": {
+          "description": "A white leather-bound menu with embossed 'Burj Al Arab' logo, being held and read by the Guest, who recites a welcome message from the general manager from it.",
+          "attribute": "audio-visual"
+        },
+        "Glass Dome": {
+          "description": "A clear glass dome covering small appetizers on a marble countertop, adding an elegant presentation to the bar’s offerings.",
+          "attribute": "visual"
+        },
+        "Social Media Text Overlays": {
+          "description": "On-screen text 'Walk With Me' appears in the top right corner throughout the segment, indicating the vlog’s branding and creator identity.",
+          "attribute": "visual"
+        },
+        "Water Glass": {
+          "description": "A clear glass of water with a branded white lid, placed on the marble countertop, picked up by the Guest to demonstrate the beverage service, who comments on the luxury of 'lids for the glasses' as 'totally unnecessary, but actually, it's quite nice'.",
+          "attribute": "audio-visual"
+        },
+        "Fruit Platter": {
+          "description": "A large, ornate platter filled with fresh fruits including pineapple, peaches, oranges, grapes, and kiwi, confirmed by the Guest as 'all real fruit,' placed on a dining table in a richly decorated room with gold-trimmed walls and striped chairs.",
+          "attribute": "audio-visual"
+        },
+        "Orange Juice": {
+          "description": "Two bottles of Burj Al Arab-branded orange juice, labeled with gold script, placed on the marble countertop, one of which is picked up by the Guest, who explicitly mentions 'some Burj Al Arab orange juice'.",
+          "attribute": "audio-visual"
+        },
+        "Gold-Accented Lamps": {
+          "description": "Tall, ornate lamps with gold bases and white shades, visible in the living area, contributing to the opulent lighting and decor.",
+          "attribute": "visual"
+        },
+        "Remote Control": {
+          "description": "A white remote control with colorful buttons, held by the Guest, described by him as being 'in a little leather case' and 'branded,' used to interact with the TV and also capable of controlling the curtains, shown in close-up to highlight its design and functionality.",
+          "attribute": "audio-visual"
+        },
+        "Sectional Sofa": {
+          "description": "A plush, dark red sectional sofa with patterned cushions, described by the Guest as 'really comfy' and likely filled with 'feather,' also referred to as a 'chaise lounge,' positioned in the living area where the Guest sits and gestures.",
+          "attribute": "audio-visual"
+        },
+        "Panoramic View": {
+          "description": "A breathtaking, expansive view from floor-to-ceiling windows overlooking the turquoise waters, the iconic sail-shaped Burj Al Arab, and the surrounding cityscape, described by the Guest as 'spectacular over downtown Dubai,' with a hand pointing toward the landmark, and also revealing a 'swim pool' below.",
+          "attribute": "audio-visual"
+        },
+        "TV": {
+          "description": "A large flat-screen TV, described by the Guest as 'pretty huge,' displaying an image of the Burj Al Arab, with a menu prompt 'Press OK to access the menu' visible on screen.",
+          "attribute": "audio-visual"
+        },
+        "Red Drapes": {
+          "description": "Rich, deep red drapes framing the large windows, contributing to the luxurious and warm interior decor.",
+          "attribute": "visual"
+        },
+        "Round Glass Coffee Table": {
+          "description": "A round, dark glass coffee table with a white floral centerpiece, placed in front of the sectional sofa.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video transitions into a luxurious private bar area within the Burj Al Arab, showcasing a marble countertop adorned with beverages and snacks, including a glass dome covering small appetizers and a plate of assorted chocolates. The Guest, a man in a dark polo shirt, immediately begins speaking in a clear, conversational voice, gesturing towards the bar and stating, \"So this is my little bar area.\" He explains that \"everything I've been told on the top is complimentary.\" He then moves to reveal a well-stocked mini-fridge, expressing uncertainty about lifting items due to potential censorship, but lists its contents as \"tomato juice, Coca-Cola, oh, orange juice, tonic water, we've got a couple of beers,\" and \"Of course, some champagne.\" The camera then shows a wooden cabinet, which the Guest opens, asking \"What's in here?\" before identifying \"some gin, some whiskey.\" He wonders aloud about the price of \"these sweets and chocolates,\" referring to the visually present items. He then holds and reads the 'Burj Al Arab Private Bar Menu,' noting that \"the menu is here\" and that prices are in \"Dirhams,\" expressing difficulty with conversion. He specifically states that \"champagne is 580 Dirhams.\" Deciding to forgo paid items, he adds, \"We will leave that because we get some complimentary snacks.\" He then picks up an envelope, exclaiming, \"Oh, an envelope, see what this says,\" describing it as \"like a little Christmas card.\" He reads the personalized welcome note: \"Dear Tim, it's a pleasure to welcome you and I would like to thank you for choosing the Burj Al Arab as your home.\" The opulent setting, with gold-trimmed mirrors, warm lighting, and the 'Walk With Me' text overlay, reinforces the exclusive and luxurious experience throughout.",
+        "The segment opens in the opulent Burj Al Arab Private Bar, where the Guest, a man in a dark polo shirt, stands amidst marble countertops, gold-trimmed mirrors, and warm lighting. He holds and reads from the Burj Al Arab Private Bar Menu, reciting a welcome message from the general manager, then comments on the luxurious setting, noting it's unlike his home. The camera focuses on a glass dome covering elegantly presented canapés, topped with avocado, cherry tomatoes, and caviar, which the Guest admires, saying, 'Look how cute they are.' He picks one up, takes a bite, and describes it as 'nutty, creamy, savory,' initially thinking it was dessert, then speculating it's 'salmon mousse on a tiny little bit of bread' before taking another bite and exclaiming, 'Wow. That's nice.' He then showcases a small, gourmet chocolate dessert topped with black caviar, expressing surprise and curiosity, 'Please tell me that that is not what I think it is. If it is, I've never tried caviar before,' before tasting it. The scene transitions to a marble countertop displaying two bottles of Burj Al Arab-branded orange juice and a water glass. The Guest picks up the water glass, highlighting its branded lid and commenting on the luxury of 'lids for the glasses' as 'totally unnecessary, but actually, it's quite nice,' also mentioning the 'Burj Al Arab orange juice.' The camera pans to a richly decorated dining area with a vibrant fruit platter, featuring a pineapple, oranges, apples, and grapes, which the Guest reaches out to touch, referring to the space as his 'sitting room.' Throughout, the on-screen text 'Walk With Me' reinforces the vlog’s branding, emphasizing the high-end exclusivity of the environment.",
+        "The video opens with a close-up of a vibrant Fruit Platter, which the male Guest confirms is \"all real fruit,\" specifically listing pineapple, peaches, oranges, grapes, and kiwi, set on a dining table amidst gold-trimmed walls and striped chairs. The camera then pans across a spacious, opulent living area, which the Guest proudly declares, \"this is my living room.\" He expresses being \"absolutely blown away by this room,\" describing it as \"incredible.\" The scene features a plush, dark red sectional sofa with patterned cushions, which the Guest finds \"really comfy\" and believes is filled with \"feather,\" also mentioning a \"chaise lounge.\" A round glass coffee table sits before it, and a large flat-screen TV displays an image of the Burj Al Arab. The room is richly decorated with red drapes and ornate gold-accented lamps, creating a warm, luxurious ambiance. The camera moves to reveal a breathtaking panoramic view from floor-to-ceiling windows, overlooking the turquoise waters and the iconic sail-shaped Burj Al Arab, with a hand pointing toward the landmark. The Guest describes the view as \"spectacular over downtown Dubai\" and points out a \"swim pool\" below. Transitioning back inside, the Guest, in a dark polo shirt and white shorts, sits on the sofa, gesturing toward the TV and the view, engaging with the camera and pondering, \"which seat do I choose?\" He then picks up a white remote control, which he notes is \"in a little leather case\" and \"branded,\" pressing buttons to interact with the TV, which displays a 'Press OK to access the menu' prompt. He also reveals the remote can control the curtains, demonstrating by pressing a button. Throughout, the on-screen text 'Walk With Me' remains in the top right corner, branding the vlog experience."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 8,
+      "end_minute": 9,
+      "summary": "The video begins with a TV screen displaying an aerial view of the Burj Al Arab, prompting the Guest to 'Press OK to access the menu'. The Guest, holding a selfie stick, interacts with a glass table, activating a hidden compartment that audibly opens to reveal a DVD player, which he notes is unusual for modern times. He then narrates a tour through a luxurious interior featuring gold accents, wood paneling, a red sectional sofa, and red drapes. Moving through a hallway with ornate mirrors and gold-trimmed doors, he observes the 'standard TV with movies', air conditioning, and a vase. He discovers a 'secret room' behind a door, identified as being 'for storage'. Ascending a grand staircase with blue and red carpeted steps and metal railings, he points out the 'lights going up the stairs' and a 'pretty big chandelier', remarking on the prevalence of mirrors and identifying 'three different dimmer switches'. The tour concludes at a curved wooden desk with a red leather stool, a gold-framed mirror, and a wall-mounted telephone, with the Guest stating the 'bedroom is on the right' and the 'bathroom is on the left', while the 'Walk With Me' text overlay remains visible. Later, the Guest approaches the curved wooden desk, lifts a tufted black leather bench, and opens a drawer revealing vanity mirrors. He then opens another drawer to find a hidden compartment containing Burj Al Arab-branded orange laundry bags, shoehorns, a gold-lined box with rolled tissues and a branded handkerchief, and a vintage-style blue hairdryer with a horn-shaped nozzle, which he jokingly compares to a Dyson. In a closet, he examines Burj Al Arab-branded wooden hangers, emphasizing the attention to detail. He opens a mini-fridge stocked with toiletries, a safe, and a flashlight, and finally pulls out a blue bathrobe with white trim, placing it on a metal rack alongside Burj Al Arab flip-flops. The warm, golden lighting and polished wood surfaces enhance the opulence of the space.",
+      "involved_entities": {
+        "Hallway": {
+          "description": "A well-lit hallway with gold-trimmed doors, ornate mirrors, and wooden cabinetry, where the Guest observes that 'mirrors feature a lot in this apartment'.",
+          "attribute": "audio-visual"
+        },
+        "Hidden Control Panel": {
+          "description": "A concealed electronic panel beneath the glass table, activated by pressing a button, which audibly opens to reveal a DVD player.",
+          "attribute": "audio-visual"
+        },
+        "Selfie Stick": {
+          "description": "A black extendable selfie stick held by the Guest, used to capture the video from a first-person perspective as he walks through the space.",
+          "attribute": "visual"
+        },
+        "Curved Wooden Desk": {
+          "description": "A richly finished wooden desk with a blue surface, gold trim, and a tufted black leather bench, featuring hidden compartments and drawers, which the Guest identifies as having a 'seat' and 'drawers' for makeup.",
+          "attribute": "audio-visual"
+        },
+        "TV": {
+          "description": "A large flat-screen TV displaying an aerial view of the Burj Al Arab, with the on-screen text 'Press OK to access the menu'. The Guest describes it as a 'standard TV with movies and other stuff'.",
+          "attribute": "audio-visual"
+        },
+        "Glass Table": {
+          "description": "A transparent glass table with a hidden compartment or control panel beneath, activated by pressing a button on its surface, accompanied by the sound of a mechanism opening.",
+          "attribute": "audio-visual"
+        },
+        "Sectional Sofa": {
+          "description": "A plush, dark red sectional sofa with patterned cushions, positioned in the living area, visible as the Guest walks past.",
+          "attribute": "visual"
+        },
+        "Grand Staircase": {
+          "description": "A sweeping staircase with blue and red carpeted steps, ornate metal railings, and warm ambient lighting, which the Guest ascends, pointing out 'lights going up the stairs' and a 'pretty big chandelier'.",
+          "attribute": "audio-visual"
+        },
+        "Guest": {
+          "description": "A man in a dark polo shirt and white shorts, actively exploring the room with a first-person perspective, interacting with furniture and amenities, and providing a running commentary in a clear, descriptive voice.",
+          "attribute": "audio-visual"
+        },
+        "Red Drapes": {
+          "description": "Rich, deep red drapes framing the large windows, contributing to the luxurious and warm interior decor.",
+          "attribute": "visual"
+        },
+        "Ornate Mirrors": {
+          "description": "Large, gold-framed mirrors lining the hallway, which the Guest notes 'feature a lot in this apartment', questioning if they are 'for the lights'.",
+          "attribute": "audio-visual"
+        },
+        "Social Media Text Overlays": {
+          "description": "On-screen text 'Walk With Me' appears in the top right corner throughout the segment, indicating the vlog’s branding and creator identity.",
+          "attribute": "visual"
+        },
+        "Wall-Mounted Telephone": {
+          "description": "A cream-colored, vintage-style telephone with a coiled cord, mounted on the wall, visible on the desk area, but not directly commented on by the Guest.",
+          "attribute": "audio-visual"
+        },
+        "Mini-Fridge": {
+          "description": "A small white refrigerator with a glass door, located in the closet, containing toiletries like Etude body wash and lotion, which the Guest confirms are 'toiletries' and also mentions finding a 'safe' and 'flashlight' nearby.",
+          "attribute": "audio-visual"
+        },
+        "Wooden Hanger": {
+          "description": "A light wood hanger with the Burj Al Arab logo embossed on it, hanging in the closet and removed by the Guest, who notes 'Burj Al Arab hangers everywhere' and praises the 'attention to detail'.",
+          "attribute": "audio-visual"
+        },
+        "Tufted Black Leather Bench": {
+          "description": "A long, black leather bench with gold button tufting, positioned along the desk, which lifts to reveal a hidden storage compartment, and is referred to by the Guest as a 'nice little seat'.",
+          "attribute": "audio-visual"
+        },
+        "Toiletries in Mini-Fridge": {
+          "description": "A collection of personal care products, including Etude body wash and lotion, stored inside the mini-fridge and visible when opened.",
+          "attribute": "visual"
+        },
+        "Hidden Compartment": {
+          "description": "A concealed storage space beneath the tufted leather bench, accessed by lifting the bench, revealing a gold-trimmed box with amenities.",
+          "attribute": "visual"
+        },
+        "Metal Rack": {
+          "description": "A silver metal rack inside the closet, used to hold the bathrobe and other items.",
+          "attribute": "visual"
+        },
+        "Gold-Lined Box": {
+          "description": "A luxurious box with a gold interior, containing rolled tissues and a branded handkerchief with the Burj Al Arab logo, which the Guest initially mistakes for 'cigars' before speculating it's 'something to do with makeup'.",
+          "attribute": "audio-visual"
+        },
+        "Laundry Tag": {
+          "description": "A white tag with blue trim and the Burj Al Arab logo, labeled 'LAUNDRY & DRY CLEANING', placed beside the laundry bags.",
+          "attribute": "visual"
+        },
+        "Blue Hairdryer": {
+          "description": "A vintage-style blue hairdryer with a cream-colored horn-shaped nozzle, placed on the desk and examined by the Guest, who identifies it as a 'Dyson' that is 'gold plated'.",
+          "attribute": "audio-visual"
+        },
+        "Blue Bathrobe": {
+          "description": "A plush blue bathrobe with white trim, removed from the mini-fridge and inspected by the Guest.",
+          "attribute": "visual"
+        },
+        "Burj Al Arab Laundry Bags": {
+          "description": "Bright orange bags with the Burj Al Arab logo and text 'Laundry Bag', neatly folded in a gold-trimmed box, explicitly identified by the Guest as 'laundry bags' for 'dry cleaning'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of a TV screen displaying an aerial view of the Burj Al Arab, accompanied by the on-screen prompt 'Press OK to access the menu'. A hand then interacts with a glass table, pressing a button that activates a hidden compartment beneath, which audibly opens. The Guest, a man in a dark polo shirt and white shorts, holding a selfie stick, narrates his discovery of a DVD player within this compartment, commenting on its presence in modern times. He walks through a luxurious interior, noting the opulent gold accents and rich wood paneling, and points out a plush red sectional sofa and matching drapes. As he moves through a hallway with ornate mirrors and gold-trimmed doors, he observes the 'standard TV with movies' and mentions the air conditioning and a vase without flowers. He then discovers a 'secret room' behind a door, which he identifies as being 'for storage'. Ascending a grand staircase with blue and red carpeted steps and intricate metal railings, he highlights the 'lights going up the stairs' and a 'pretty big chandelier'. He remarks that 'mirrors feature a lot in this apartment', questioning their function, and identifies 'three different dimmer switches'. Finally, he arrives at a curved wooden desk with a red leather stool, a gold-framed mirror, and a vintage-style wall-mounted telephone, concluding his tour by stating the 'bedroom is on the right' and the 'bathroom is on the left'. The on-screen text 'Walk With Me' remains visible throughout, branding his vlog.",
+        "The video opens with the Guest's first-person perspective, walking through a luxurious hallway adorned with rich wooden cabinetry and ornate mirrors, while the 'Walk With Me' text overlay remains visible. He approaches a curved wooden desk with a tufted black leather bench, which he lifts, remarking, \"I guess a room to do your makeup. With a nice little seat here.\" He then opens a drawer, observing, \"Look at them. Vanity mirror,\" before revealing a hidden compartment containing a gold-trimmed box with neatly arranged Burj Al Arab-branded orange laundry bags, which he explicitly identifies, \"Got a bag. Another bag. And laundry bags. Oh right, so they can do dry cleaning.\" He also notes the presence of shoehorns, questioning, \"How often do you get shoehorns anymore?\" The Guest then opens another drawer to reveal a gold-lined box with rolled tissues and a branded handkerchief, initially mistaking them for cigars and speculating, \"Not quite sure what this is... something to do with makeup. Maybe?\" He picks up a blue hairdryer, examining its vintage-style horn-shaped nozzle, and exclaims, \"Look at that, a Dyson that's also gold plated,\" before placing it back. Moving to a closet, he removes a wooden hanger with the Burj Al Arab logo, commenting, \"Look at the hangers. Burj Al Arab hangers everywhere. It's what I mean, the attention to detail.\" He then opens a small white mini-fridge, revealing toiletries like Etude body wash and lotion, and mentions finding \"a safe. And also a flashlight.\" Finally, he pulls out a plush blue bathrobe with white trim, inspecting its soft fabric, and places it on a metal rack, also noting, \"I've got some flip-flops. Some Burj Al Arab flip-flops.\" The warm, golden lighting and polished wood surfaces throughout emphasize the opulence of the space."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 10,
+      "end_minute": 11,
+      "summary": "The Guest, speaking with a British accent, expresses astonishment at the opulence of a luxurious bathroom, exclaiming, \"This is insane! All for one person!\" while a selfie stick pans across the space, revealing terracotta walls with Greek key patterns, warm ambient lighting, and a curved wooden vanity with dual sinks and gold fixtures. He notes the presence of robes and a highly polished door, commenting on an oddly placed, downward-facing mirror above a bench. The Guest then highlights complimentary toiletries, identifying Terre d’Hermès Eau de Toilette and 'Un Jardin sur le Nil' as expensive \"After shaving balm\" and \"eau de toilette,\" and points out gold taps, flannels, and skincare, remarking, \"Gabby would love that. His and hers sinks.\" He displays a white towel with a gold Burj Al Arab logo, admiring the \"embroidered\" towels, and humorously presents a gold scale and a gold trash can, suggesting they are meant to induce paranoia. Disappointed with a cream-colored wall-mounted telephone, he presses a button, producing a 'click' sound. The segment concludes with a close-up of a blue bottle with a gold cap, as the Guest comments on the wrapped toilet roll. Earlier, the Guest had entered the bathroom, marveling at a \"ridiculously huge\" Jacuzzi bathtub with gold fixtures and blue glass knobs, noting its \"hot, cold\" controls. He then explored a spacious glass-enclosed shower with terracotta mosaic tiles and gold fixtures, initially stating \"five people\" could fit but later finding it \"not as big as I thought\" while water sounds were heard. The vanity area featured neatly arranged 'Dental Kit', 'Vanity Kit', and 'Comb' boxes, which the Guest excitedly identified as \"free stuff,\" emphasizing the hotel’s attention to detail. Throughout the tour, the on-screen text 'Walk With Me' remained visible.",
+      "involved_entities": {
+        "Terre d’Hermès Eau de Toilette": {
+          "description": "A small, silver box labeled 'Terre d’Hermès Eau de Toilette' placed on the vanity, picked up and shown by the Guest, who identifies it as 'eau de toilette' from 'Hermes' and comments on it being 'expensive stuff.'",
+          "attribute": "audio-visual"
+        },
+        "Luxurious Bathroom": {
+          "description": "A lavishly decorated bathroom with terracotta walls, gold fixtures, a curved wooden vanity with dual sinks, blue-accented taps, a large mirror, a toilet with a gold flush button, a bidet, and Greek key patterned borders, all under warm lighting, which the Guest describes as having a 'ridiculously huge' Jacuzzi bath and a 'so huge' shower, though he later notes the shower is 'not as big as I thought'.",
+          "attribute": "audio-visual"
+        },
+        "Selfie Stick": {
+          "description": "A black extendable selfie stick held by the Guest, used to capture the first-person perspective of the bathroom tour.",
+          "attribute": "visual"
+        },
+        "Gold Trash Can": {
+          "description": "A cylindrical gold trash can with a ribbed design and a silver lid, placed beside the scale, which the Guest refers to as 'a gold bin.'",
+          "attribute": "audio-visual"
+        },
+        "Un Jardin sur le Nil": {
+          "description": "A green-and-white box labeled 'Un Jardin sur le Nil' placed on the vanity, picked up and shown by the Guest, who identifies it as 'after shaving balm' from 'Hermes' and comments on its expense.",
+          "attribute": "audio-visual"
+        },
+        "Wall-Mounted Telephone": {
+          "description": "A cream-colored, vintage-style telephone with a coiled cord, mounted on the wall, picked up and operated by the Guest. He expresses disappointment with it, stating, 'I thought the phone would be a little bit better than this,' and a distinct 'click' sound is heard when he presses a button.",
+          "attribute": "audio-visual"
+        },
+        "White Towel with Gold Logo": {
+          "description": "A white towel with a gold Burj Al Arab logo, picked up and displayed by the Guest, who notes that the 'towels' are 'embroidered as well.'",
+          "attribute": "audio-visual"
+        },
+        "Blue Bottle with Gold Cap": {
+          "description": "A blue bottle with a gold cap, likely a toiletry, placed on the floor near the toilet, shown in close-up at the end of the segment.",
+          "attribute": "visual"
+        },
+        "Guest": {
+          "description": "A man in a dark polo shirt and white shorts, holding a selfie stick, who speaks with a British accent, expressing enthusiasm and slight confusion while describing the bathroom's opulent features, particularly the 'ridiculously huge' Jacuzzi bath and the 'so huge' shower, and excitedly pointing out complimentary items like a 'nail kit, a comb, dental kit, a vanity kit'.",
+          "attribute": "audio-visual"
+        },
+        "Social Media Text Overlays": {
+          "description": "On-screen text 'Walk With Me' appears in the top right corner throughout the segment, indicating the vlog’s branding and creator identity.",
+          "attribute": "visual"
+        },
+        "Gold Scale": {
+          "description": "A small, gold-framed analog scale placed on the marble floor near the vanity, which the Guest refers to as 'some weighing scales.'",
+          "attribute": "audio-visual"
+        },
+        "Shower Fixtures": {
+          "description": "Gold showerheads and blue glass knobs mounted on terracotta mosaic tiles, which the Guest explains control temperature and various spray options, including a handheld and overhead rain shower, accompanied by the sound of water.",
+          "attribute": "audio-visual"
+        },
+        "Toiletries in Mini-Fridge": {
+          "description": "A collection of personal care products, including Etude body wash and lotion, stored inside the mini-fridge and visible when opened.",
+          "attribute": "visual"
+        },
+        "Burj Al Arab": {
+          "description": "The interior of the Burj Al Arab is showcased, featuring a luxurious private bar with marble countertops, gold-trimmed mirrors, warm lighting, and opulent decor, emphasizing exclusivity and high-end amenities.",
+          "attribute": "visual"
+        },
+        "Blue Bathrobe": {
+          "description": "A plush blue bathrobe with white trim, removed from the mini-fridge and inspected by the Guest.",
+          "attribute": "visual"
+        },
+        "Vanity Kit Boxes": {
+          "description": "White rectangular boxes labeled 'Dental Kit', 'Vanity Kit', and 'Comb' in both Arabic and English, branded with 'Burj Al Arab Jumeirah', which the Guest excitedly points out as 'free stuff', also mentioning a 'nail kit'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with the Guest, a man with a British accent, exclaiming, \"This is insane! All for one person!\" as the camera, held by a selfie stick, sweeps across a lavishly decorated bathroom. He notes, \"Tonight, obviously normally a couple in here,\" while showcasing the terracotta walls with Greek key patterns, warm ambient lighting, and a curved wooden vanity with dual sinks and gold fixtures. He spots, \"Ooh, I've got some robes. Very nice,\" before drawing attention to a polished surface, saying, \"Just this door, look how shiny that is. All polished.\" The Guest then comments on the placement of a mirror, \"Odd place to have a bench and a mirror, it's facing down which is quite nice.\" He promises, \"So lots to show you in the bathroom, and I don't know how much of this is complimentary that I can take away,\" as he begins to highlight amenities. He picks up a small box of Terre d’Hermès Eau de Toilette and a green-and-white box labeled 'Un Jardin sur le Nil,' identifying them as \"After shaving balm, from Hermes, eau de toilette,\" and remarking, \"That's expensive stuff, isn't it?\" He then points out, \"just look at these taps, all gold, some flannels, skincare,\" adding, \"Gabby would love that. His and hers sinks.\" The Guest displays a white towel with a gold Burj Al Arab logo, noting, \"Look at the towels, embroidered as well.\" With a touch of humor, he shows a gold scale and a gold trash can, stating, \"And just to make you feel even more paranoid while you're here on holiday, they've got some weighing scales, a gold bin.\" He then picks up a wall-mounted cream-colored telephone, expressing his disappointment, \"I'm very disappointed about the phone. I thought the phone would be a little bit better than this,\" as he presses a button, producing a distinct 'click' sound. The segment concludes with a close-up of a blue bottle with a gold cap on the floor, as the Guest remarks, \"I love how they wrap up the toilet roll.\" Throughout the tour, the on-screen text 'Walk With Me' remains visible.",
+        "The segment opens with a sweeping view of a luxurious bathroom, featuring a large white oval bathtub set against a vibrant blue mosaic wall with a coastal mural and Greek key border. The Guest, in a dark polo shirt and white shorts, enters, interacting with the tub's gold fixtures and pointing to blue glass knobs on its wooden surround, exclaiming that the bath is \"ridiculously huge\" and a \"Jacuzzi bath,\" noting its \"hot, cold\" controls. He then sits in the tub, gesturing expansively, before the camera pans to a spacious glass-enclosed shower with terracotta mosaic tiles and gold fixtures. The Guest stands inside, demonstrating the shower's multiple controls, including a handheld and overhead rain shower, initially stating it's \"so huge\" that \"five people\" could fit, though later expressing surprise that it's \"not as big as I thought,\" as water sounds are heard. Close-ups highlight the blue glass knobs and water flow. The scene transitions to a vanity area with a glass shelf displaying neatly arranged white boxes labeled in both Arabic and English, including 'Dental Kit', 'Vanity Kit', and 'Comb', all branded with 'Burj Al Arab Jumeirah'. The Guest's hand points to each item, excitedly calling them \"free stuff\" and enumerating a \"nail kit, a comb, dental kit, a vanity kit,\" emphasizing the hotel’s attention to detail. The warm, inviting lighting enhances the opulent textures, and the 'Walk With Me' text remains visible in the top right corner."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 12,
+      "end_minute": 12,
+      "summary": "In a Luxurious Bathroom, the Guest, wearing a dark polo shirt, pointed out the 'Burj Al Arab Jumeirah' branded Vanity Kit Boxes, specifically the 'Dental Kit', 'Vanity Kit', and 'Comb', noting the availability of a 'shower cap' and 'shaving kit', and remarking on the 'plenty of towels' before humorously declaring his intent to take the complimentary amenities. Transitioning to a bedroom with warm yellow walls, a large bed adorned with white linens and a gold-trimmed canopy, and deep blue drapes, the Guest located a seating area featuring an Orange Sofa, a patterned armchair, and a round blue tufted ottoman he called a 'pouffe'. He then examined a Gold Trash Can with a ribbed design and silver lid, describing its green liner and calling the trash can 'leather', 'gold polished', 'different', and even a 'seat stroke a table'. The camera returned to the bed, highlighting its plush white bedding and gold-accented pillows, eliciting an enthusiastic 'Wow' from the Guest who deemed it 'insane'. A mirror positioned above the bed reflected the room's opulent decor, including Gold-Accented Lamps and the seating area, all illuminated by warm light, with the 'Walk With Me' branding still visible.",
+      "involved_entities": {
+        "Gold-Accented Lamps": {
+          "description": "Tall, ornate lamps with gold bases and white shades, visible in the living area, contributing to the opulent lighting and decor.",
+          "attribute": "visual"
+        },
+        "Luxurious Bathroom": {
+          "description": "A lavishly decorated bathroom with terracotta walls, gold fixtures, a curved wooden vanity with dual sinks, blue-accented taps, a large mirror, a toilet with a gold flush button, a bidet, and Greek key patterned borders, all under warm lighting, noted by the Guest for its 'plenty of towels' and desirable amenities.",
+          "attribute": "audio-visual"
+        },
+        "Bed": {
+          "description": "A large bed with white linens, gold-trimmed canopy, and deep blue drapes, featuring plush pillows with gold embroidery, positioned centrally in the bedroom, which the Guest enthusiastically calls 'Wow' and 'insane'.",
+          "attribute": "audio-visual"
+        },
+        "Orange Sofa": {
+          "description": "A plush orange sofa with patterned cushions, located in the bedroom’s seating area, visible as the Guest walks past.",
+          "attribute": "visual"
+        },
+        "Guest": {
+          "description": "A man in a dark polo shirt, standing in the Luxurious Bathroom and gesturing toward amenities, then walking through the bedroom, expressing his intention to take the hotel's free amenities, searching for lights, and enthusiastically describing the bedroom's features, including the 'pouffe', the 'leather' and 'gold polished' bin that doubles as a 'seat stroke a table', and exclaiming 'Wow' at the 'insane' bed.",
+          "attribute": "audio-visual"
+        },
+        "Gold Trash Can": {
+          "description": "A cylindrical gold trash can with a ribbed design and a silver lid, placed beside the seating area, opened by the Guest to reveal a green liner, and described by him as 'leather', 'gold polished', 'different', and also serving as a 'seat stroke a table'.",
+          "attribute": "audio-visual"
+        },
+        "Mirror": {
+          "description": "A large mirror above the bed, reflecting the room’s opulent decor, including the bed, seating area, and Gold-Accented Lamps.",
+          "attribute": "visual"
+        },
+        "Vanity Kit Boxes": {
+          "description": "White rectangular boxes labeled 'Dental Kit', 'Vanity Kit', and 'Comb' in both Arabic and English, branded with 'Burj Al Arab Jumeirah', neatly arranged on a glass shelf, which the Guest identifies as containing a shower cap and a shaving kit.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of the 'Burj Al Arab Jumeirah' branded Vanity Kit Boxes, neatly arranged on a glass shelf in the Luxurious Bathroom, labeled 'Dental Kit', 'Vanity Kit', and 'Comb' in both Arabic and English. The Guest, a man in a dark polo shirt, gestures towards these amenities, identifying a 'shower cap' and a 'shaving kit' among them, and noting the 'plenty of towels' in the bathroom. He humorously states his intention to take the hotel's free amenities, a rare act for him. The camera follows him as he transitions into a spacious bedroom, which features warm yellow walls, a large bed with white linens and a gold-trimmed canopy, and deep blue drapes. The Guest searches for the lights, then highlights a cozy seating area with an Orange Sofa, a patterned armchair, and a round blue tufted ottoman, which he refers to as a 'pouffe' for putting one's legs on. He then focuses on a Gold Trash Can with a ribbed design and a silver lid, opening it to reveal a green liner, and describes it as 'leather', 'gold polished', 'different', and even a 'seat stroke a table'. The scene returns to the bed, showcasing its plush white bedding and gold-accented pillows, prompting the Guest to exclaim 'Wow' and call it 'insane'. A mirror above the bed reflects the room’s opulent decor, including Gold-Accented Lamps and the seating area, all bathed in warm, inviting light, while the 'Walk With Me' branding remains visible. The Guest's commentary is enthusiastic throughout, underscoring the luxurious ambiance."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 13,
+      "end_minute": 13,
+      "summary": "A gold-framed mirror reflects a luxurious bed with white linens and deep blue drapes, prompting commentary on the curtains' luxury and feel. The camera shifts to the window, where sheer curtains are pulled back to reveal a panoramic view of turquoise waters, with the speaker noting the 'amazing views over the Persian Gulf,' observing jet skiers, and identifying the distant 'World Islands' with a new hotel under construction, promising a later viewing. On-screen text reads 'Walk With Me.' Returning inside, the speaker searches for the TV, questioning its location and operation while interacting with a white remote control and investigating a hidden control panel under a glass table, asking about power and control mechanisms. The discovery of a mini-fridge elicits an exclamation, revealing a selection of beverages including Coca-Cola and Big Tom, all illuminated by the room's natural light.",
+      "involved_entities": {
+        "Remote Control": {
+          "description": "A white remote control with colorful buttons, held by the Guest, used in an attempt to activate a hidden TV, with the speaker asking 'TV? On, off?' and 'Have I got a control or something?' while trying to operate it.",
+          "attribute": "audio-visual"
+        },
+        "Mini-Fridge": {
+          "description": "A small white refrigerator with a glass door, located in the closet, containing toiletries like Etude body wash and lotion, and now also showing beverages including Coca-Cola, Big Tom, and various bottled drinks, discovered by the speaker with an exclamation, 'Oh, there's a mini-fridge in here! Another mini-fridge'.",
+          "attribute": "audio-visual"
+        },
+        "Bed": {
+          "description": "A large bed with white linens, gold-trimmed canopy, and deep blue drapes, featuring plush pillows with gold embroidery, positioned centrally in the bedroom, with the speaker noting the 'luxury' of the drapes.",
+          "attribute": "audio-visual"
+        },
+        "Hidden Control Panel": {
+          "description": "A concealed electronic panel beneath the glass table, which the speaker is actively trying to locate and interact with, asking 'There a button here I press?' to activate a hidden TV.",
+          "attribute": "audio-visual"
+        },
+        "Panoramic View": {
+          "description": "A breathtaking, expansive view from floor-to-ceiling windows overlooking the turquoise waters, the iconic Burj Al Arab, and the surrounding cityscape, with a hand pointing toward the landmark. The speaker describes 'amazing views over the Persian Gulf', noting 'people there jet skiing' and the 'World Islands' where a 'new hotel' is being built, promising to show the view again 'later on tonight'.",
+          "attribute": "audio-visual"
+        },
+        "Mirror": {
+          "description": "A large gold-framed mirror reflecting the bed with white linens and deep blue drapes, emphasizing the room’s opulence.",
+          "attribute": "visual"
+        },
+        "Social Media Text Overlays": {
+          "description": "On-screen text 'Walk With Me' appears in the top right corner throughout the segment, indicating the vlog’s branding and creator identity.",
+          "attribute": "visual"
+        },
+        "Glass Table": {
+          "description": "A transparent glass table with a hidden compartment or control panel beneath, which the speaker investigates, asking 'There a button here I press?' in an attempt to activate a hidden TV.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of a gold-framed mirror reflecting the luxurious bed with white linens and deep blue drapes, as the speaker remarks on the 'luxury these curtains' and 'how they feel'. The camera then moves to the window, where a hand pulls back sheer curtains to reveal a breathtaking panoramic view of the turquoise waters. The speaker highlights the 'amazing views over the Persian Gulf', pointing out 'people there jet skiing' and the distant 'World Islands' where a 'new hotel' is being built, promising to show the view again 'later on tonight'. The on-screen text 'Walk With Me' remains visible. The scene transitions back inside, with the speaker questioning, 'where's the TV?' and trying to figure out 'how do I get the TV up?', interacting with a white remote control and searching for a hidden control panel beneath a glass table, asking 'TV? On, off?' and 'Have I got a control or something? There a button here I press?'. The camera then moves to a mini-fridge, which the speaker discovers with an exclamation, 'Oh, there's a mini-fridge in here! Another mini-fridge', revealing an array of beverages including Coca-Cola, Big Tom, and various bottled drinks, all within the warm, inviting natural light of the opulent room."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 14,
+      "end_minute": 14,
+      "summary": "The video, branded 'Walk With Me', begins with the Guest, dressed in a dark polo shirt and white shorts, energetically jumping onto a luxurious Bed, producing a distinct thud. He immediately declares it \"the comfiest bed I think I've ever sat on,\" after exclaiming, \"Let's do the bed test. Oh, yes.\" The opulent room is characterized by gold-trimmed walls, deep blue drapes, and warm ambient lighting emanating from Gold-Accented Lamps. The Guest sits up and gestures towards the bed's plush, gold-embroidered white linens, drawing attention to \"huge\" cushions and \"equally big\" pillows, which he adjusts with audible rustling sounds. He then touches the golden headboard, commenting on its \"pretty huge\" size and leather texture with a tapping sound, and mentions a hidden mirror and \"really luxury silk curtains.\" His tone shifts as he approaches the bedside table featuring a Wall-Mounted Telephone, voicing his \"only criticism\": \"What is the deal with the phones?\" He describes the cream-colored, vintage-style phone with a coiled cord as \"plastic,\" \"really old,\" and \"even a little bit dirty,\" contrasting with the room's overall luxury. As he presses buttons, including 'Wake up Call' and 'Private Dialing', on the keypad labeled in English and Arabic, distinct button press sounds are heard, underscoring his critique of its \"grubby\" appearance.",
+      "involved_entities": {
+        "Gold-Accented Lamps": {
+          "description": "Tall, ornate lamps with gold bases and white shades, visible on the bedside tables, contributing to the opulent lighting and decor.",
+          "attribute": "visual"
+        },
+        "Guest": {
+          "description": "A man in a dark polo shirt and white shorts, actively interacting with the Bed and bedside amenities. He has a male voice, energetically speaks about the bed's comfort, the size and material of its components, and expresses strong criticism regarding the condition of the Wall-Mounted Telephone.",
+          "attribute": "audio-visual"
+        },
+        "Bed": {
+          "description": "A large bed with white linens, gold-trimmed canopy, and deep blue drapes, featuring plush pillows with gold embroidery. The Guest describes it as 'the comfiest bed' he's sat on, noting its 'huge' cushions, 'equally big' pillows, a 'pretty huge' leather headboard (which he taps), and 'really luxury silk curtains'.",
+          "attribute": "audio-visual"
+        },
+        "Social Media Text Overlays": {
+          "description": "On-screen text 'Walk With Me' appears in the top right corner throughout the segment, indicating the vlog’s branding and creator identity.",
+          "attribute": "visual"
+        },
+        "Wall-Mounted Telephone": {
+          "description": "A cream-colored, vintage-style telephone with a coiled cord, mounted on the bedside table. The Guest picks it up and operates it, pressing buttons with audible clicks, while criticizing it as 'plastic', 'really old', and 'a little bit dirty', questioning why such a 'grubby' phone is in an otherwise luxurious room.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video, branded 'Walk With Me', opens with a man, the Guest, in a dark polo shirt and white shorts, energetically jumping onto a luxurious Bed, creating a distinct thud. He exclaims, \"Let's do the bed test. Oh, yes,\" immediately declaring it \"the comfiest bed I think I've ever sat on.\" The opulent room features gold-trimmed walls, deep blue drapes, and warm ambient lighting from Gold-Accented Lamps. Sitting up, the Guest gestures towards the bed's plush, gold-embroidered white linens, highlighting \"huge\" cushions and \"equally big\" pillows as he adjusts them, accompanied by rustling sounds. He then touches the golden headboard, noting its \"pretty huge\" size and leather texture with a tapping sound, and mentions a hidden mirror and \"really luxury silk curtains.\" His tone shifts as he approaches the bedside table with a Wall-Mounted Telephone, expressing his \"only criticism\": \"What is the deal with the phones?\" He describes the cream-colored, vintage-style phone with a coiled cord as \"plastic,\" \"really old,\" and \"even a little bit dirty,\" despite the room's overall luxury. As he presses buttons, including 'Wake up Call' and 'Private Dialing', on the keypad labeled in English and Arabic, distinct button press sounds are heard, emphasizing his critique of its \"grubby\" appearance."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 15,
+      "end_minute": 20,
+      "summary": "The Guest begins by examining a bedside table, finding slippers and a yellow cord, before descending a grand staircase with a selfie stick. He enters a luxurious bedroom, noting red drapes, a blue sofa, a round glass coffee table, gold-accented lamps, a mirror, and a TV showing the Burj Al Arab, while the 'Walk With Me' text overlay is visible. He announces a room tour, details the 24-hour butler service and a 5-8 PM happy hour for drinks, and plans to explore the pool and spa. Later, he removes a leather 'Do Not Disturb' sign and expresses excitement about a \"crazy\" side swimming pool and an infinity pool. Moving through a grand atrium with patterned ceilings and an opulent hallway, he heads to a golden elevator, pressing the button for the 'SPA & FITNESS' floor. Inside the elevator, he comments on the carpet and the quick ascent. The elevator opens to a reception area on floor 16, which he finds smells lovely. He proceeds through a corridor to a spacious indoor pool area with a glass floor and panoramic sea views, exclaiming \"Wow\" and capturing the scene with his selfie stick. The video then showcases the indoor pool area's patterned pillars and glass floor, with commentary on the sea views. An aerial shot reveals the beach and turquoise waters, prompting an exclamation about the \"crazy\" beach. He notes the outdoor pool and expresses less interest in the indoor one, before reacting to the immense height of the multi-tiered atrium, remarking, \"My god, that does my eyes in.\" He then visits the MindSpa Sanctum, where a staff member describes a \"zero gravity chair\" treatment. Inside the spa, the cost of a treatment is inquired about. Exiting through a glass revolving door, he notes the heat and enters a bright, open-air terrace leading to an outdoor pool area with flags, including the UAE flag. He explains the origin of the sundeck, which traveled by boat, and comments on hotel etiquette regarding changing attire. The walkway leads towards the beach and outdoor amenities. The perspective shifts to navigating a tiled walkway with glass railings and white planters, passing a vibrant blue pool and lounge chairs. He notes the presence of both fresh and saltwater pools, identifying a potential children's play area. He expresses anticipation for the infinity pool, planning to use his GoPro. A 'SUN PROTECTION' station is highlighted as a convenient amenity. Sitting on an outdoor sofa, he discusses the value for money, early check-in, and the ability to use facilities until midday the next day, mentioning a beach club and private beach. He then sits on an outdoor sofa, holding yellow shorts, and expresses a desire to relax and swim. The outdoor pool area features an infinity pool blending with the ocean, with commentary on sunbed costs and towel availability. A 'Sun Protection Station' is visible. The scene moves along a tiled walkway to a private outdoor terrace with a wooden deck, lounge chairs, and a dining table. He describes 'amazing cabanas' and discovers a private area with complimentary drinks, food, a TV, and a balcony with private sunbeds, noting the extra cost. The terrace has decorative walls and glass railings offering a panoramic beachfront view. He reappears, gesturing towards the view, highlighting the serene ambiance and seamless indoor-outdoor integration, with the 'Walk With Me' text overlay remaining visible.",
+      "involved_entities": {
+        "Gold-Accented Lamps": {
+          "description": "Tall, ornate lamps with gold bases and white shades, visible on the bedside tables, contributing to the opulent lighting and decor.",
+          "attribute": "visual"
+        },
+        "Bedroom": {
+          "description": "A luxurious bedroom with warm lighting, rich red drapes, a patterned armchair, a blue sofa, a round glass coffee table, gold-accented lamps, a large mirror, and a TV mounted on the wall, all contributing to an opulent ambiance.",
+          "attribute": "visual"
+        },
+        "Grand Staircase": {
+          "description": "A sweeping staircase with blue and red carpeted steps, ornate metal railings, and warm ambient lighting, leading upward through the interior.",
+          "attribute": "visual"
+        },
+        "Selfie Stick": {
+          "description": "A black extendable selfie stick held by the Guest, used to capture the first-person perspective of the room tour.",
+          "attribute": "visual"
+        },
+        "Guest": {
+          "description": "A man in a black polo shirt and white shorts, which he describes as 'embarrassing yellow shorts from Primark,' seated on an Outdoor Sofa under a Woven Umbrella, holding a yellow cloth and speaking to the camera with a British accent about going for a swim and the cost of sunbeds. He later walks along the terrace, exploring private areas he calls 'cabanas' with 'sea view balconies,' 'complimentary drinks and food,' a 'huge TV,' and 'private sunbeds,' while gesturing toward the view.",
+          "attribute": "audio-visual"
+        },
+        "Patterned Armchair": {
+          "description": "A comfortable armchair with a white base and colorful geometric patterns, positioned near the window, where the Guest sits to speak to the camera.",
+          "attribute": "visual"
+        },
+        "Blue Sofa": {
+          "description": "A plush blue sofa with patterned cushions, located in the seating area, visible as the Guest walks past.",
+          "attribute": "visual"
+        },
+        "TV": {
+          "description": "A large flat-screen TV displaying an aerial view of the Burj Al Arab with the on-screen text 'Press OK to access the menu', indicating an interactive system.",
+          "attribute": "visual"
+        },
+        "Red Drapes": {
+          "description": "Rich, deep red drapes framing the large windows, contributing to the luxurious and warm interior decor.",
+          "attribute": "visual"
+        },
+        "Round Glass Coffee Table": {
+          "description": "A round, dark glass coffee table with a white floral centerpiece, placed in front of the blue sofa.",
+          "attribute": "visual"
+        },
+        "Mirror": {
+          "description": "A large gold-framed mirror reflecting the bed with white linens and deep blue drapes, emphasizing the room’s opulence.",
+          "attribute": "visual"
+        },
+        "Social Media Text Overlays": {
+          "description": "On-screen text 'Walk With Me' appears in the top right corner throughout the segment, indicating the vlog’s branding and creator identity.",
+          "attribute": "visual"
+        },
+        "Hallway": {
+          "description": "A long, opulent hallway with intricate carpeting, gold-trimmed walls, and ornate columns, leading to the elevator, through which the Guest walks while narrating his destination.",
+          "attribute": "audio-visual"
+        },
+        "Elevator": {
+          "description": "A golden interior elevator with a control panel displaying floor numbers, including 'SPA & FITNESS' in both Arabic and English, opened to reveal the Guest inside, who presses a button, comments on the carpet, and notes the 'pretty quick' movement of the lifts, accompanied by a chime.",
+          "attribute": "audio-visual"
+        },
+        "Atrium Ceiling": {
+          "description": "A soaring, sail-shaped ceiling with blue and green geometric patterns and golden structural elements, visible as the camera pans upward in the grand atrium, to which the male speaker reacts to the dramatic downward view, exclaiming, 'My god, that does my eyes in. That doesn't even look real,' and observing, 'You can see all the floors,' highlighting its overwhelming scale and intricate multi-tiered structure.",
+          "attribute": "audio-visual"
+        },
+        "Do Not Disturb Sign": {
+          "description": "An orange sign with gold lettering and the Burj Al Arab logo, hanging on a polished wooden door handle, removed by a hand at the start of the video, which the Guest notes is 'like leather,' accompanied by a 'clunk' sound when removed.",
+          "attribute": "audio-visual"
+        },
+        "Glass Floor": {
+          "description": "A transparent glass floor in the indoor pool area, reflecting the water below and allowing views of the pool from above.",
+          "attribute": "visual"
+        },
+        "Patterned Pillars": {
+          "description": "Tall, decorative pillars with blue, yellow, and white chevron patterns, lining the corridor leading to the indoor pool area.",
+          "attribute": "visual"
+        },
+        "Panoramic View": {
+          "description": "A breathtaking, expansive view from floor-to-ceiling windows overlooking the turquoise waters and the surrounding cityscape, visible as the Guest approaches the pool, to which the male speaker reacts with 'Yikes, look at the beach down there. This is crazy,' and later notes, 'If you don't like heights, you're not going to like this,' and 'People are like ants down there,' emphasizing the extreme height and expansive nature of the view.",
+          "attribute": "audio-visual"
+        },
+        "Indoor Pool Area": {
+          "description": "A spacious area with a glass floor, colorful patterned pillars, and large windows offering panoramic views of the sea, where the Guest walks toward the pool, with a male speaker expressing a desire to 'come for a swim up here later' but then stating he won't spend 'too much time in here' due to a 'big pool outside,' indicating a preference for other facilities despite the luxurious indoor setting.",
+          "attribute": "audio-visual"
+        },
+        "Reception Area": {
+          "description": "A circular reception desk with warm lighting and staff members visible, located at the elevator’s destination, which the Guest notes 'smells really lovely.'",
+          "attribute": "audio-visual"
+        },
+        "Staff Member": {
+          "description": "A uniformed attendant in a black polo shirt and white shorts, seen holding a yellow cloth, possibly cleaning or preparing the spa area, and heard providing pricing information ('450 for 25 minutes') and confirming locked access ('No, it's locked') in response to a male voice's queries.",
+          "attribute": "audio-visual"
+        },
+        "MindSpa Sanctum": {
+          "description": "A luxurious spa entrance with gold-trimmed glass doors, ornate carpeting, and decorative plants, featuring the 'MINDSPA SANCTUUM' logo with a sunburst design, where a male voice inquires about service pricing and a female voice (likely a staff member) provides details and confirms access is locked.",
+          "attribute": "audio-visual"
+        },
+        "Beachfront View": {
+          "description": "A panoramic view of the turquoise sea and distant coastline, visible from the outdoor terrace and pool area, emphasizing the resort’s coastal location.",
+          "attribute": "visual"
+        },
+        "Outdoor Terrace": {
+          "description": "A spacious wooden deck area with blue cushioned lounge chairs and a dining table set for two, enclosed by decorative white walls and glass railings offering a panoramic Beachfront View. The Guest walks along this terrace, describing features like 'cabanas' with 'sea view balconies' and 'private sunbeds' that are part of or accessible from this luxurious space, also noting the presence of 'complimentary drinks and food' and a 'huge TV' within these private areas.",
+          "attribute": "audio-visual"
+        },
+        "Glass Revolving Door": {
+          "description": "A transparent, modern revolving door at the hotel’s entrance, framed with gold accents, leading into the opulent interior, through which the camera moves as a male voice narrates, 'So let's head out onto the pool,' marking a transition to the outdoor spaces.",
+          "attribute": "audio-visual"
+        },
+        "Palm Trees": {
+          "description": "Tall, green palm trees planted in white decorative planters, lining the walkway and poolside areas, adding to the tropical ambiance.",
+          "attribute": "visual"
+        },
+        "Tiled Walkway": {
+          "description": "A wide, light-colored tiled pathway leading from the pool area toward the beach, flanked by white planters and palm trees under a clear blue sky.",
+          "attribute": "visual"
+        },
+        "Outdoor Pool Area": {
+          "description": "A spacious pool with clear blue water, surrounded by white lounge chairs, umbrellas, and flags, under a bright blue sky.",
+          "attribute": "visual"
+        },
+        "Burj Al Arab": {
+          "description": "The iconic sail-shaped hotel, shown from an aerial perspective, standing on a man-made island with turquoise waters and a cityscape in the background.",
+          "attribute": "visual"
+        },
+        "Flags": {
+          "description": "Multiple national flags, including the UAE flag, waving atop flagpoles near the pool and hotel structure, adding a sense of international prestige.",
+          "attribute": "visual"
+        },
+        "White Planters": {
+          "description": "Large, white rectangular planters with intricate patterns, housing palm trees and greenery, arranged along the tiled walkway.",
+          "attribute": "visual"
+        },
+        "Walk With Me": {
+          "description": "On-screen text 'Walk With Me' appears in the top right corner throughout the segment, indicating the vlog’s branding and creator identity.",
+          "attribute": "visual"
+        },
+        "Blue-and-White Ceramic Soap Dispenser": {
+          "description": "A decorative soap dispenser with a blue and white pattern, placed on the Wooden Coffee Table, adding to the coastal aesthetic.",
+          "attribute": "visual"
+        },
+        "Infinity Pool": {
+          "description": "A long, curved infinity pool with crystal-clear blue water that merges with the ocean, featuring steps and guests swimming or lounging nearby, with the sound of water lapping heard as the Guest expresses his intention to go for a swim.",
+          "attribute": "audio-visual"
+        },
+        "Outdoor Sofa": {
+          "description": "A gray outdoor sofa with blue and white patterned cushions, positioned under a Woven Umbrella, where the Guest is seated.",
+          "attribute": "visual"
+        },
+        "Woven Umbrella": {
+          "description": "A large, beige woven umbrella with fringed edges, providing shade over the outdoor sofa and coffee table.",
+          "attribute": "visual"
+        },
+        "Sun Protection Station": {
+          "description": "A white, modern station with gold lettering labeled 'SUN PROTECTION' and 'AFTER SUN', featuring dispensers for sunscreen and after-sun lotion, placed near the beach.",
+          "attribute": "visual"
+        },
+        "Wooden Coffee Table": {
+          "description": "A light wooden coffee table with a slatted design, holding a yellow cloth, a black wallet, and a Blue-and-White Ceramic Soap Dispenser.",
+          "attribute": "visual"
+        },
+        "Tropical Plants": {
+          "description": "Various green tropical plants in white planters, surrounding the outdoor seating area and enhancing the resort’s lush, natural ambiance.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of a hand opening a blue and gold-trimmed bedside drawer, revealing a neatly coiled yellow cord and plush white slippers with gold trim, which the Guest picks up, remarking he 'should have put them on first.' He continues to examine the bedside table, noting its contents are similar on the other side and include 'more of these' which he intends to take. The scene then transitions to the Guest, holding a black selfie stick, descending a grand staircase with blue and red carpeted steps and ornate metal railings. He enters a luxurious bedroom, characterized by warm lighting, rich red drapes, and opulent furnishings including a patterned armchair, a blue sofa, a round glass coffee table, gold-accented lamps, a large mirror, and a TV displaying an aerial view of the Burj Al Arab. The on-screen text 'Walk With Me' remains visible. The Guest, in a dark polo shirt and white shorts, gestures expressively as he announces this is his 'room tour.' He then sits in the patterned armchair, excitedly detailing the room's amenities, including a 24-hour butler service and a 'happy hour' offer allowing him to order any alcoholic drink (excluding champagne) in the room between 5 and 8 PM, suggesting he might opt for white wine or whiskey. He concludes by mentioning plans to explore the rest of the hotel, including a swimming pool and a spa.",
+        "The video opens with a close-up of a hand removing an orange 'Do Not Disturb' sign from a polished wooden door handle, revealing the luxurious Burj Al Arab interior. The Guest's excited voice is heard, describing a \"side swimming pool\" that \"looks crazy\" and an \"infinity pool out over the golf,\" expressing eagerness to \"go and check it out.\" He then remarks, \"Even the do not disturb on the door is like leather,\" followed by a distinct 'clunk' sound. The camera moves through a grand, multi-level atrium with a soaring ceiling featuring blue and gold geometric patterns, where a hand points upward. The scene transitions to a long, opulent hallway with intricate carpeting, gold-trimmed walls, and ornate columns, leading to a golden elevator with patterned glass doors. The Guest bids \"bye for now room,\" expressing a desire to \"quickly go up there\" for the \"money shot,\" before realizing he needs to go \"over here, to the lifts.\" Inside the elevator, the Guest presses the button for floor 17, labeled 'SPA & FITNESS' in both Arabic and English, while the sound of his flip-flops precedes his comment, \"Just look at the carpet.\" He then apologizes for the \"flop and the flip of my flip-flops.\" An elevator chime sounds, and the Guest comments on the \"pretty quick lifts,\" asking, \"Can you hear that? They move up pretty quick.\" The elevator doors open to reveal a reception area with a circular desk and warm lighting, where staff members are visible, as the Guest remarks, \"I'm enjoying my floor 16. Absolutely smells really lovely up here.\" The Guest proceeds through a corridor with colorful, patterned pillars and large windows, his flip-flops audible, eventually arriving at a spacious indoor pool area with a glass floor and panoramic views of the sea. The environment is bright and airy, with natural light flooding in, and the Guest, capturing the scene with his selfie stick, exclaims \"Wow,\" then says \"Good afternoon,\" followed by another \"Wow\" as he walks toward the pool. The on-screen text 'Walk With Me' remains consistently displayed in the top right corner.",
+        "The video begins with a sweeping view of the luxurious indoor pool area of the Burj Al Arab, showcasing its patterned pillars with blue, yellow, and white chevron mosaics and a glass floor reflecting the water below. A male voice comments, \"come for a swim up here later, but look at the views you get,\" as the camera pans across lounge chairs and large windows offering a panoramic view of the sea and cityscape. The scene transitions to an aerial shot from the window, capturing the sprawling beach and turquoise waters, prompting the male voice to exclaim, \"Yikes, look at the beach down there. This is crazy.\" He then notes, \"However, we've got that big pool outside. I'm not going to be spending too much time in here,\" as the camera returns to the vibrant pool area before shifting to a dramatic downward view of the hotel’s multi-tiered atrium. The male voice reacts to the immense height, stating, \"Wow. If you don't like heights, you're not going to like this,\" and \"My god, that does my eyes in. That doesn't even look real. People are like ants down there. You can see all the floors.\" The camera then moves to the opulent MindSpa Sanctum entrance, where a staff member in a black polo shirt and white shorts is seen holding a yellow cloth. A female voice, likely the staff member, introduces it as \"our MindSpa,\" explaining it's a \"new treatment that we are focusing on the brain,\" and features a \"zero gravity chair\" where one can \"float,\" which the male voice confirms with surprise. The on-screen text 'Walk With Me' remains visible throughout.",
+        "The video opens inside the opulent MindSpa Sanctum, a luxurious spa entrance with gold-trimmed glass doors, ornate carpeting, and decorative plants. A Staff Member in a black polo shirt and white shorts is seen holding a yellow cloth, possibly preparing the area, as a male voice inquires, \"Wow, how much is that?\" A female voice, likely the Staff Member, responds, \"This one, if I'm not wrong, is 450 for 25 minutes,\" and later confirms, \"No, it's locked,\" when asked about access. The camera then moves through a modern Glass Revolving Door, with the male voice narrating, \"So let's head out onto the pool,\" and immediately noting, \"And the heat hits you.\" The scene transitions to a bright, open-air terrace with wooden decking, white lounge chairs, and palm trees, offering a stunning view of the sea. This leads to an outdoor pool area with clear blue water, surrounded by white furniture and flags, including the UAE flag, under a bright blue sky. The male voice provides historical context, explaining, \"the old pool used to be here,\" and elaborates that the \"huge sundeck that stretches out into the Arabian Gulf actually came here from, I think it was the Netherlands or Denmark or something,\" having \"traveled by boat thousands of miles to be put here.\" The camera pans across the pool, capturing the iconic sail-shaped Burj Al Arab from an aerial perspective, showcasing its structure and surrounding waters. The male voice also comments on hotel etiquette, stating, \"as this is a civilized hotel, we're supposed to get changed when we come down, rather than come down in our swimming gear.\" The segment continues along a wide, tiled walkway lined with white planters and palm trees, leading toward the beach and the hotel’s expansive outdoor amenities. The environment is bathed in natural sunlight, emphasizing the opulence and serene atmosphere of the resort, with the on-screen text 'Walk With Me' consistently displayed in the top right corner, indicating the vlog’s branding.",
+        "The segment opens with a first-person perspective navigating a wide, light-colored tiled walkway, flanked by glass railings and white planters housing tall palm trees, leading through a luxurious outdoor pool area. The vibrant blue pool water reflects the clear sky as the camera passes lounge chairs, umbrellas, and relaxing guests. The walkway curves towards the beach, revealing a turquoise sea under a bright blue sky, with the speaker's voice noting, \"This is a fresh water pool and a salt water pool. I think this might be the uh, the fresh water pool where the kids can play.\" The camera then pans across an infinity pool that seamlessly blends with the ocean, with people swimming and lounging nearby, as the speaker expresses, \"This is the part I've been looking forward to trying, the infinity pool. I have to get my GoPro on and um, check it out.\" A white station labeled 'SUN PROTECTION' and 'AFTER SUN' is briefly shown, prompting the speaker to add, \"And this is quite handy because I didn't bring any sun cream with me, but they actually have got sun cream and after sun, which is quite handy.\" The scene transitions to a man, the speaker, in a black polo shirt and white shorts, sitting on a gray outdoor sofa under a woven umbrella, gesturing as he speaks directly to the camera. He is surrounded by blue and white patterned cushions, a wooden coffee table with a yellow cloth and a blue-and-white ceramic soap dispenser, and tropical plants. The background reveals a modern building with blue accents and more palm trees, reinforcing the resort’s upscale, beachfront ambiance. The on-screen text 'Walk With Me' remains visible. The man continues, \"So, for the price you pay for the room, which I'll come to at the end, you feel like you really need to cram everything in. Now, luckily, I was able to check in early around about midday, but most rooms are not available until 3 o'clock. But you can use the facilities up until midday tomorrow, and they have a beach club as well and a private beach, which I'll probably use.\"",
+        "The video opens with the Guest, a man in a black polo shirt and white shorts, seated on an Outdoor Sofa under a Woven Umbrella, holding what he describes as his 'embarrassing yellow shorts that I got from Primark' and speaking directly to the camera with a British accent, expressing his intention to 'relax and go for a swim.' A Wooden Coffee Table in front of him holds a Blue-and-White Ceramic Soap Dispenser and a black wallet, all set on a luxurious outdoor terrace adorned with Tropical Plants in White Planters and a backdrop of palm trees and a clear blue sky. The camera then pans across the expansive Outdoor Pool Area, showcasing an Infinity Pool that seamlessly blends with the ocean, surrounded by white lounge chairs, umbrellas, and guests relaxing, accompanied by the gentle sound of water lapping. The Guest ponders the cost of a sunbed, stating, 'I'm not quite sure how much it cost for a sunbed, so I better find out,' and notes he can get towels without extra charge. A Sun Protection Station with gold lettering is visible near the pool. The scene transitions to a close-up of a towel rack displaying neatly rolled white towels, emphasizing the resort’s attention to detail. The camera moves along a Tiled Walkway lined with White Planters and Palm Trees, leading to a private Outdoor Terrace with a wooden deck, blue cushioned lounge chairs, and a dining table set for two. The Guest describes 'amazing cabanas' with 'sea view balconies' and then explores a private area, exclaiming, 'What the heck?' as he discovers 'more complimentary drinks and food, a huge TV, and a balcony' with 'private sunbeds,' noting that 'this does come at an extra cost.' The terrace is enclosed by decorative white walls with intricate patterns and glass railings offering a panoramic Beachfront View of the turquoise sea and distant city skyline. The Guest reappears, walking along the terrace and gesturing toward the view, with the camera capturing the serene ambiance and the seamless integration of indoor and outdoor spaces through large glass doors. The on-screen text 'Walk With Me' remains consistently in the top right corner, reinforcing the vlog’s branding, all under bright, natural lighting highlighting the vibrant colors and luxurious textures of the environment."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 21,
+      "end_minute": 22,
+      "summary": "The Guest, dressed in a black polo shirt and yellow shorts, initially navigates a modern bathroom with green-tinted glass walls and sleek fixtures, commenting on an activity costing \"around about 3, 400 pounds for the afternoon\" that he will not partake in. He then moves to the outdoor terrace of the Burj Al Arab, explaining that the area serves as changing rooms for the pool, equipped with amenities like body lotion, shaving supplies, and hair gel, and featuring private showers with body wash or shampoo. While holding a small white card, he informs the camera that the sunbeds are complimentary and that \"little tablets\" can be used to \"press for service\" to order drinks, though he anticipates this would be expensive. A close-up shot shows his foot near the infinity pool, which merges with the turquoise sea. He retrieves a chilled, complimentary bottle of water from a cooler bag labeled 'SEL', noting that staff replenish these. The camera pans across the infinity pool and the beachfront view under a clear blue sky, with 'Walk With Me' text displayed. The speaker humorously expresses concern about repeatedly asking if items are complimentary given the room's cost. A man in yellow swim trunks enters the pool in an underwater shot accompanied by upbeat electronic music. The scene widens to show the Burj Al Arab, lounge chairs, umbrellas, and palm trees. A 'NO GUEST ACCESS' sign is visible on a white lattice fence. A poolside meal is presented: a loaded sandwich, fries, and Heinz ketchup and mayonnaise, identified as a \"reasonably priced\" 'lobster roll' lunch. The speaker picks up the sandwich and a fry. An aerial sunset view of the Burj Al Arab transitions to a nighttime city skyline view from the terrace, overlooking Jumeirah Beach. The speaker mentions a six-course meal at a Michelin star restaurant for £246, which he is \"probably not going to go for.\" The video concludes with a view of a dimly lit lounge with a futuristic ceiling and the illuminated nighttime city skyline.",
+      "involved_entities": {
+        "Cooler Bag": {
+          "description": "A beige, zippered cooler bag labeled 'SEL', placed on the sunbed, containing a bottle of water, which the Guest retrieves and returns.",
+          "attribute": "visual"
+        },
+        "Bottle of Water": {
+          "description": "A clear plastic bottle of water, retrieved from the cooler bag by the Guest, labeled with a blue cap and white branding.",
+          "attribute": "visual"
+        },
+        "Outdoor Terrace": {
+          "description": "A spacious wooden deck area with white lounge chairs, tables, and umbrellas, overlooking the sea and connected to the hotel’s interior via glass doors.",
+          "attribute": "visual"
+        },
+        "Tiled Walkway": {
+          "description": "A wide, light-colored tiled pathway leading from the pool area toward the beach, flanked by white planters and palm trees under a clear blue sky.",
+          "attribute": "visual"
+        },
+        "Blue-and-White Ceramic Soap Dispenser": {
+          "description": "A decorative soap dispenser with a blue and white pattern, placed on the Wooden Coffee Table, adding to the coastal aesthetic.",
+          "attribute": "visual"
+        },
+        "Walk With Me": {
+          "description": "On-screen text 'Walk With Me' appears in the top right corner throughout the segment, indicating the vlog’s branding and creator identity.",
+          "attribute": "visual"
+        },
+        "Infinity Pool": {
+          "description": "A long, curved infinity pool with crystal-clear blue water that merges with the ocean, featuring steps and guests swimming or lounging nearby.",
+          "attribute": "visual"
+        },
+        "Outdoor Sofa": {
+          "description": "A gray outdoor sofa with blue and white patterned cushions, positioned under a Woven Umbrella, where the Guest is seated.",
+          "attribute": "visual"
+        },
+        "Woven Umbrella": {
+          "description": "A large, beige woven umbrella with fringed edges, providing shade over the outdoor sofa and coffee table.",
+          "attribute": "visual"
+        },
+        "Sun Protection Station": {
+          "description": "A white, modern station with gold lettering labeled 'SUN PROTECTION' and 'AFTER SUN', featuring dispensers for sunscreen and after-sun lotion, placed near the beach.",
+          "attribute": "visual"
+        },
+        "Wooden Coffee Table": {
+          "description": "A light wooden coffee table with a slatted design, holding a yellow cloth, a black wallet, and a Blue-and-White Ceramic Soap Dispenser.",
+          "attribute": "visual"
+        },
+        "Tropical Plants": {
+          "description": "Various green tropical plants in white planters, surrounding the outdoor seating area and enhancing the resort’s lush, natural ambiance.",
+          "attribute": "visual"
+        },
+        "Beachfront View": {
+          "description": "A panoramic view of the turquoise sea and distant coastline, visible from the outdoor terrace and pool area, emphasizing the resort’s coastal location, and identified by the speaker as 'Jumeirah Beach'.",
+          "attribute": "audio-visual"
+        },
+        "Palm Trees": {
+          "description": "Tall, green palm trees planted in white decorative planters, lining the walkway and poolside areas, adding to the tropical ambiance.",
+          "attribute": "visual"
+        },
+        "Guest": {
+          "description": "A man in a black polo shirt and yellow shorts, seen walking through a modern bathroom, then lounging on a white cushioned sunbed under a woven umbrella on the Burj Al Arab's outdoor terrace. He speaks to the camera, discussing the high cost of an activity (around £300-400 for an afternoon), describing the luxurious changing rooms for the pool (featuring body lotion, shaving stuff, hair gel, and private showers with body wash/shampoo), confirming that the sunbeds are complimentary, mentioning a tablet for ordering drinks (which he notes would be expensive), and explaining that the cooler bags contain complimentary chilled water that staff will replenish. He gestures while holding a small white card, places it down, and interacts with a cooler bag to retrieve a bottle of water.",
+          "attribute": "audio-visual"
+        },
+        "White Card": {
+          "description": "A small, rectangular white card held by the Guest, possibly a room key or service card, shown briefly before being placed down.",
+          "attribute": "visual"
+        },
+        "White Planters": {
+          "description": "Large, white rectangular planters with intricate patterns, housing palm trees and greenery, arranged along the tiled walkway.",
+          "attribute": "visual"
+        },
+        "Futuristic Lounge Ceiling": {
+          "description": "An indoor lounge ceiling with a wavy, organic design featuring embedded blue and green lights, creating a modern, immersive atmosphere.",
+          "attribute": "visual"
+        },
+        "Outdoor Pool Area": {
+          "description": "A spacious pool with clear blue water, surrounded by white lounge chairs, umbrellas, and flags, under a bright blue sky.",
+          "attribute": "visual"
+        },
+        "Fries": {
+          "description": "A bowl of golden, crispy French fries served alongside the sandwich, with a hand reaching in to pick one up, confirmed by the speaker as part of his lunch.",
+          "attribute": "audio-visual"
+        },
+        "Flags": {
+          "description": "Multiple national flags, including the UAE flag, waving atop flagpoles near the pool and hotel structure, adding a sense of international prestige.",
+          "attribute": "visual"
+        },
+        "Poolside Tray": {
+          "description": "A wooden tray with a white border, holding the sandwich, fries, and condiments, placed on a white towel beside the pool.",
+          "attribute": "visual"
+        },
+        "Aerial Sunset View": {
+          "description": "A sweeping drone shot of the Burj Al Arab at sunset, with the sun setting over the horizon, casting warm orange and pink hues across the sky and sea.",
+          "attribute": "visual"
+        },
+        "Heinz Ketchup and Mayonnaise": {
+          "description": "Two small bottles of Heinz brand condiments, one red (ketchup) and one yellow (mayonnaise), placed on a white plate with napkins, identified by the speaker as 'mini mayonnaise and ketchup' for his lunch.",
+          "attribute": "audio-visual"
+        },
+        "Nighttime City Skyline": {
+          "description": "A panoramic view of the Dubai skyline at night, with illuminated buildings and reflections on the water, seen from the hotel’s terrace.",
+          "attribute": "visual"
+        },
+        "Burj Al Arab": {
+          "description": "The iconic sail-shaped hotel, shown from an aerial perspective, standing on a man-made island with turquoise waters and a cityscape in the background, and confirmed by the speaker to house a Michelin star restaurant.",
+          "attribute": "audio-visual"
+        },
+        "Loaded Sandwich": {
+          "description": "A large sandwich with a golden-brown bun, topped with melted cheese, shrimp, and green herbs, served on a white plate as part of a poolside meal, identified by the speaker as a 'lobster roll' for lunch.",
+          "attribute": "audio-visual"
+        },
+        "NO GUEST ACCESS Sign": {
+          "description": "A white sign with a hand symbol and the text 'NO GUEST ACCESS' mounted on a white lattice fence, indicating restricted access to certain areas.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video begins with the Guest, wearing a black polo shirt and yellow shorts, walking through a modern, well-lit bathroom featuring a long white vanity, green-tinted glass walls, and sleek fixtures, while he comments on an activity costing \"around about 3, 400 pounds for the afternoon,\" which he won't be doing. The camera pans across silver toiletry dispensers with teal logos, a wooden bench with a rolled white towel, and a gold trash can, before transitioning to the outdoor terrace of the Burj Al Arab. Here, the Guest lounges on a white cushioned sunbed under a woven umbrella, surrounded by palm trees and white planters, and explains, \"this is the changing rooms for the pool,\" detailing their luxurious amenities like \"body lotion, shaving stuff, even some hair gel\" and private showers with \"body wash or shampoo.\" He speaks to the camera, gesturing while holding a small white card, then places it down, adding that he's been told the sunbeds are \"all complimentary\" and he can use \"little tablets\" to \"press for service\" to order a drink, though he notes \"that'll probably get very expensive.\" The camera shifts to a close-up of his foot resting on the edge of the infinity pool, which seamlessly blends with the turquoise sea. He reaches into a beige cooler bag labeled 'SEL' and retrieves a bottle of water, placing it back, and clarifies that \"In these are fresh complimentary water that is chilled\" and staff \"come around and they top these up for you.\" The camera then pans across the expansive infinity pool, capturing guests swimming and the panoramic beachfront view under a clear blue sky, with the 'Walk With Me' text visible throughout.",
+        "The video opens with a serene view of the Infinity Pool, its crystal-clear blue water seamlessly blending with the ocean under a bright blue sky, as a male speaker's voice is heard expressing a slightly humorous concern about repeatedly asking if things are 'complimentary' given the price of the room. A man in yellow swim trunks walks into the pool, submerging himself in a smooth underwater shot that captures the ripples and light patterns beneath the surface, accompanied by upbeat, electronic background music. The scene transitions to a wide-angle view of the pool area, showcasing the Burj Al Arab’s iconic sail-shaped structure towering in the background, surrounded by lounge chairs, umbrellas, and palm trees under the sun. The camera pans along the poolside, revealing a 'NO GUEST ACCESS' sign on a white lattice fence, emphasizing restricted areas. The perspective shifts to a close-up of a poolside meal: a tray with a loaded sandwich, fries, and Heinz ketchup and mayonnaise, which the speaker identifies as his 'lobster roll' lunch, noting it was 'reasonably priced,' along with 'mini mayonnaise and ketchup' and 'some fries.' A hand reaches in to pick up the sandwich and then a fry, highlighting the indulgent experience. The scene then transitions to a breathtaking aerial sunset view of the Burj Al Arab, with the sun dipping below the horizon, casting golden hues over the city and sea. As night falls, the speaker transitions to discussing dinner, mentioning a Michelin star restaurant within the hotel offering a six-course meal for £246, which he humorously states he's 'probably not going to go for.' The video moves indoors to a dimly lit lounge with a futuristic ceiling of blue and green lights, followed by a nighttime view of the illuminated city skyline from the hotel’s terrace, which the speaker describes as 'amazing' and identifies the view as looking over 'Jumeirah Beach.' Throughout, the 'Walk With Me' text remains in the top right corner, maintaining the vlog’s branding."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 23,
+      "end_minute": 25,
+      "summary": "The narrative begins with a first-person perspective, guided by 'Walk With Me' text, along a tiled walkway at night, past white planters with uplight-bathed palm trees, towards an outdoor pool area illuminated by blue underwater lighting. A male voice identifies the location as 'Palm Jumeirah,' noting the pool is closed for swimming but the restaurant and bar are open, describing the 'pretty quiet' bar and the 'really pretty' pool lights. The scene reveals interconnected pools and lounge areas with lit candles, background music, and the distinct smell of shisha, characterizing the setting as a 'really warm' 'al fresco kind of restaurant' with a 'dress code' for a restaurant 'right at the top.' A poolside dining area with guests under umbrellas is shown, followed by a close-up of a pizza with melted cheese and basil. The perspective shifts indoors to an opulent hallway with golden columns and ornate carpeting, leading to a reception area. The speaker confirms entering the 'main lobby in the evening,' passing a spacious area with a patterned floor and illuminated pillars, noting 'a couple of designer shops.' The narrative continues through a luxurious hallway with a vibrant mosaic carpet, tilting upward to reveal the soaring, sail-shaped Atrium Ceiling with geometric patterns and golden elements. A British accent is heard remarking on the ceiling's sparkle and recalling a documentary about construction concerns regarding humidity. The view transitions to the Grand Staircase and an Aquarium glowing with blue light beneath a glass floor, with the speaker pointing out 'fish on the wall.' Moving to an upper level, a sweeping view of the lobby below shows a prominent Red Carpet, Gold-Accented Lamps, and plush seating, with the speaker commenting on the carpet's size and the presence of a concierge and 'private butler.' The scene shifts to the outdoor terrace at night, where guests surround an illuminated Water Feature against the Dubai skyline, with the speaker announcing a view of the hotel's front at night. The 'Walk With Me' text persists as the atmosphere transitions from the warm interior to the cool, blue-lit exterior, accompanied by the sound of water.",
+      "involved_entities": {
+        "Pizza": {
+          "description": "A freshly served pizza with melted cheese, tomato sauce, and basil leaves, placed on a table in the poolside dining area, explicitly identified by the speaker as 'a pizza.'",
+          "attribute": "audio-visual"
+        },
+        "Ornate Pillars": {
+          "description": "Tall, decorative pillars with blue, yellow, and white chevron patterns, lining the corridor leading to the indoor pool area.",
+          "attribute": "visual"
+        },
+        "Grand Hallway": {
+          "description": "A long, opulent hallway with golden columns, ornate carpeting, and warm ambient lighting, leading to the reception area.",
+          "attribute": "visual"
+        },
+        "Palm Trees": {
+          "description": "Tall, green palm trees planted in white decorative planters, lining the walkway and poolside areas, adding to the tropical ambiance.",
+          "attribute": "visual"
+        },
+        "Tiled Walkway": {
+          "description": "A wide, light-colored tiled pathway leading from the pool area toward the beach, flanked by white planters and palm trees under a clear blue sky.",
+          "attribute": "visual"
+        },
+        "Poolside Dining Area": {
+          "description": "An outdoor dining area with tables, umbrellas, and candlelit lanterns, where guests are seated and enjoying meals under the night sky. The speaker identifies it as an 'al fresco kind of restaurant' where background music is playing and the smell of shisha is present. He also mentions a 'dress code' for a restaurant 'right at the top.'",
+          "attribute": "audio-visual"
+        },
+        "Luxurious Interior": {
+          "description": "A grand, opulent interior with golden accents, patterned flooring, and warm lighting, showcasing the hotel’s lavish design, which the speaker finds \"far too expensive for my taste\" but \"totally amazing,\" suggesting it \"looks better during the day than it does at night.\"",
+          "attribute": "audio-visual"
+        },
+        "Reception Area": {
+          "description": "A circular reception desk with warm lighting and staff members visible, located at the elevator’s destination.",
+          "attribute": "visual"
+        },
+        "Walk With Me": {
+          "description": "On-screen text 'Walk With Me' appears in the top right corner throughout the segment, indicating the vlog’s branding and creator identity.",
+          "attribute": "visual"
+        },
+        "White Planters": {
+          "description": "Large, white rectangular planters with intricate patterns, housing palm trees and greenery, arranged along the tiled walkway.",
+          "attribute": "visual"
+        },
+        "Infinity Pool": {
+          "description": "A long, curved infinity pool with crystal-clear blue water that merges with the ocean, featuring steps and guests swimming or lounging nearby. The speaker observes that while swimming might not be allowed at night, the pool's lights are on, making it look 'really pretty.'",
+          "attribute": "audio-visual"
+        },
+        "Escalator": {
+          "description": "A golden-framed escalator with black steps, leading upward through the hotel’s atrium, showcasing the grand interior architecture.",
+          "attribute": "visual"
+        },
+        "Dining Area": {
+          "description": "A spacious dining room with white tablecloths, golden chairs, and elegant table settings, featuring a grand piano and ambient lighting, which the speaker refers to as \"the restaurants\" and specifically identifies a \"piano lounge\" within, calling it \"very nice.\"",
+          "attribute": "audio-visual"
+        },
+        "Atrium Ceiling": {
+          "description": "A soaring, sail-shaped ceiling with blue and green geometric patterns and golden structural elements, illuminated by warm ambient lighting, which the speaker notes 'sparkles' and recalls a documentary mentioning concerns about humidity causing 'little clouds forming at the top' during the hotel's construction.",
+          "attribute": "audio-visual"
+        },
+        "Piano": {
+          "description": "A grand piano positioned in the dining area, with a pianist playing, which the speaker highlights as part of a \"piano lounge.\"",
+          "attribute": "audio-visual"
+        },
+        "Buffet Station": {
+          "description": "An elaborate buffet setup with golden serving dishes, fresh seafood, salads, and chefs in white uniforms, displayed on a checkered floor with ornate decor, explicitly identified by the speaker as a \"buffet restaurant\" on the \"rather posh, expensive side,\" costing \"450 Dirhams per person,\" featuring items like \"mussels, crab claws, and grilled salmon,\" and noted to \"smell nice,\" though personally \"not my cup of tea.\"",
+          "attribute": "audio-visual"
+        },
+        "Aquarium": {
+          "description": "A large, glass-enclosed aquarium located beneath the atrium, illuminated with blue lighting and teeming with marine life, which the speaker points out as 'fish on the wall'.",
+          "attribute": "audio-visual"
+        },
+        "Grand Staircase": {
+          "description": "A sweeping staircase with blue and red carpeted steps, ornate metal railings, and warm ambient lighting, leading upward through the interior.",
+          "attribute": "visual"
+        },
+        "Water Feature": {
+          "description": "A cascading water feature with tiered basins and blue lighting, located on the outdoor terrace, which the speaker introduces by saying, 'let's show you the front of the hotel at night,' and is accompanied by the sound of water.",
+          "attribute": "audio-visual"
+        },
+        "Red Drapes": {
+          "description": "Rich, deep red drapes framing the buffet area, contributing to the luxurious and warm interior decor.",
+          "attribute": "visual"
+        },
+        "Golden Columns": {
+          "description": "Tall, ornate columns with golden finishes, supporting the atrium, which contribute to the 'sparkles' mentioned by the speaker.",
+          "attribute": "audio-visual"
+        },
+        "Ornate Mirrors": {
+          "description": "Large, gold-framed mirrors lining the hallway, reflecting the Guest and the opulent surroundings, enhancing the sense of space and luxury.",
+          "attribute": "visual"
+        },
+        "Checkered Floor": {
+          "description": "A glossy black-and-white checkered floor in the dining and buffet areas, reflecting the ambient lighting and contributing to the opulent aesthetic.",
+          "attribute": "visual"
+        },
+        "Gold-Accented Lamps": {
+          "description": "Tall, ornate lamps with gold bases and white shades, visible on the bedside tables, contributing to the opulent lighting and decor.",
+          "attribute": "visual"
+        },
+        "Nighttime City Skyline": {
+          "description": "A panoramic view of the Dubai skyline at night, with illuminated buildings and reflections on the water, seen from the hotel’s terrace.",
+          "attribute": "visual"
+        },
+        "Red Carpet": {
+          "description": "A vibrant red carpet with ornate patterns, laid out in the lobby, which the speaker describes as 'huge' and 'amazingly colorful', also noting the presence of a concierge on either side of the hotel lobby and his own 'private butler'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a first-person perspective, marked by the persistent 'Walk With Me' on-screen text, as the viewer is led along a beautifully illuminated tiled walkway at night. This path is flanked by white decorative planters housing uplight-bathed palm trees, guiding towards a luxurious outdoor pool area where the water shimmers with blue underwater lighting. A male voice identifies the location as 'Palm Jumeirah' and observes that while swimming in the pool might not be permitted at night, the restaurant and bar are still open, noting a 'pretty quiet' bar nearby. He remarks on how 'really pretty' the pool looks with its lights on. As the camera reveals interconnected pools and lounge areas with lit candles, the speaker notes background music playing and the distinct smell of shisha, describing the setting as an 'al fresco kind of restaurant' that is 'really warm tonight.' He also mentions a 'dress code' for a restaurant 'right at the top.' The scene then pans to a poolside dining area with guests under umbrellas, enjoying meals by candlelight, followed by a close-up of a freshly served pizza with melted cheese and basil, which the speaker explicitly identifies as 'a pizza' after a brief interaction. The perspective then shifts indoors to a grand, opulent hallway with golden columns and ornate carpeting, leading to a reception area with a circular desk and staff. The speaker confirms he is 'walking into the main lobby in the evening,' passing through a spacious area with a large, patterned floor and tall, illuminated pillars, and points out 'a couple of designer shops' within the luxurious interior.",
+        "The video opens with a first-person perspective moving through a grand, opulent corridor with golden railings and warm ambient lighting, leading into a luxurious dining area. The speaker comments that the setting feels \"far too expensive for my taste\" and believes it \"looks better during the day than it does at night, personally,\" though acknowledging it \"still looks totally amazing.\" The camera glides forward, revealing a spacious, high-ceilinged hall with a striking geometric ceiling design featuring blue and white patterns, illuminated by soft, warm lights. As the camera advances, it enters a lavish buffet area adorned with rich red drapes, golden accents, and ornate decor, with a glossy black-and-white checkered floor. The speaker identifies this as a \"buffet restaurant\" on the \"rather posh, expensive side,\" noting it costs \"450 Dirhams per person.\" The buffet displays an array of gourmet dishes, including a large lobster on ice, fresh salads, and golden-covered serving dishes, with chefs in white uniforms attending to the food stations. The speaker points out specific items like \"mussels, crab claws, grilled salmon,\" describing it as \"proper restaurant style, but in buffet form,\" and adding that it \"smells nice,\" though personally \"not my cup of tea.\" The camera pans across the dining space, showing elegantly set tables with white linens and golden chairs, and a grand piano in the background where a pianist performs. The speaker admires \"the restaurants\" and highlights a \"piano lounge up here,\" calling it \"very nice.\" The scene transitions to a sweeping view of a multi-level atrium with a cascading water feature and a glass-enclosed aquarium below, illuminated with blue lighting. The speaker notes the view \"overlooking the dancing fountains,\" expressing surprise that they aren't lit up. The camera moves along a balcony overlooking the atrium, capturing the grandeur of the space, including golden columns, ornate railings, and a vibrant, luxurious ambiance, with 'Walk With Me' on-screen text. The segment concludes with a wide shot of the atrium, emphasizing the scale and opulence of the interior.",
+        "The video begins with a dynamic, first-person perspective moving along a luxurious hallway, showcasing a vibrant orange and blue mosaic carpet with swirling patterns, reflecting the opulent interior of the Burj Al Arab. The camera tilts upward, revealing the soaring, sail-shaped Atrium Ceiling, adorned with blue and green geometric patterns and golden structural elements, illuminated by warm ambient lighting. A male voice with a British accent remarks on how it \"sparkles\" and recalls a documentary about the hotel's construction, noting concerns about Dubai's humidity causing \"little clouds forming at the top\" of the atrium. As the camera pans, it captures the grandeur of the Golden Columns and the ornate Grand Staircase with blue and red carpeted steps. The view transitions to an expansive atrium where an Aquarium, glowing with blue light and teeming with marine life, is visible beneath the glass floor, with the speaker pointing out, \"There's fish on the wall here, look.\" The camera then moves to an upper level, offering a sweeping view of the lobby below, featuring a prominent Red Carpet, Gold-Accented Lamps, and plush seating areas. The speaker comments, \"Honestly, that carpet is huge,\" and wonders how it's kept \"amazingly colorful,\" also mentioning the presence of a concierge on \"either side of the hotel lobby\" and his own \"private butler.\" The scene shifts to the outdoor terrace at night, where guests stroll around a large, illuminated Water Feature with cascading tiers, set against the backdrop of the Dubai skyline, as the speaker announces, \"So let's show you the front of the hotel at night.\" The \"Walk With Me\" text remains consistently displayed in the top right corner, reinforcing the vlog’s branding, as the atmosphere transitions from the warm, golden interior to the cool, blue-lit exterior, accompanied by the sound of water."
+      ]
+    },
+    {
+      "event_id": 11,
+      "start_minute": 26,
+      "end_minute": 26,
+      "summary": "The nighttime view of the Burj Al Arab, illuminated in blue and white and set against palm trees and flags, is showcased, with a white Rolls-Royce (license plate '77704') parked nearby. A staff member grants permission for a walk, leading to the decision to use a golf cart, driven by another staff member, to explore the grounds. The cart navigates past the fountain and enters a well-lit, modern lobby with glass walls and elegant decor, accompanied by upbeat, light music. It proceeds under the hotel's red-lit archway, passing a security gate, before arriving at a private entrance. A woman guest, wearing a black top and white sneakers, exits a glass door and walks towards a serene, blue-lit pool, with the Burj Al Arab's red-lit sail visible in the background, concluding the segment with the statement, \"So this is the Burj Al Arab.\" The on-screen text 'Walk With Me' is present throughout.",
+      "involved_entities": {
+        "Staff Member": {
+          "description": "A uniformed attendant in a white shirt, driving a golf cart through the hotel grounds, who engages in a brief, polite conversation with the speaker, confirming a walk to the end and later agreeing to drive them to the beach, saying 'Of course, why not?' and 'Welcome, sir'.",
+          "attribute": "audio-visual"
+        },
+        "Woman Guest": {
+          "description": "A woman in a black top and white sneakers, exiting a glass door and walking toward the pool area, appearing to be a guest of the hotel.",
+          "attribute": "visual"
+        },
+        "Lobby Area": {
+          "description": "A modern, well-lit lobby with glass walls, elegant furniture, and warm lighting, visible as the golf cart passes through.",
+          "attribute": "visual"
+        },
+        "Palm Trees": {
+          "description": "Tall, green palm trees planted in white decorative planters, lining the walkway and enhancing the tropical ambiance.",
+          "attribute": "visual"
+        },
+        "Burj Al Arab": {
+          "description": "The iconic sail-shaped hotel, illuminated in red and blue at night, visible from multiple angles including a close-up of its glowing archway and a distant view from the pool area, explicitly identified by the speaker as 'the Burj Al Arab' at the end of the segment.",
+          "attribute": "audio-visual"
+        },
+        "Golf Cart": {
+          "description": "A small, white golf cart with a transparent roof, driven by the Staff Member, which the speaker decides to take, asking to be driven to the beach, with its distinct engine sound audible as it moves through the hotel grounds.",
+          "attribute": "audio-visual"
+        },
+        "Flags": {
+          "description": "Multiple national flags, including the UAE flag, waving atop flagpoles near the hotel entrance, adding a sense of international prestige.",
+          "attribute": "visual"
+        },
+        "Fountain": {
+          "description": "A large, circular fountain with cascading water and warm lighting, located near the hotel entrance, serving as a central visual element.",
+          "attribute": "visual"
+        },
+        "Rolls-Royce": {
+          "description": "A white luxury sedan parked at the hotel entrance, with visible license plate '77704', symbolizing opulence and high status, and mentioned by the speaker as 'Rolls-Royce Phantoms' that can pick up guests from the airport for a premium.",
+          "attribute": "audio-visual"
+        },
+        "Walk With Me": {
+          "description": "On-screen text 'Walk With Me' appears in the top right corner throughout the segment, indicating the vlog’s branding and creator identity.",
+          "attribute": "visual"
+        },
+        "Pool Area": {
+          "description": "A serene, blue-lit pool surrounded by lush greenery and white planters, with the Burj Al Arab’s red-lit sail visible in the background.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a stunning nighttime view of the Burj Al Arab, illuminated in blue and white, its grandeur emphasized by palm trees and flags lining the approach. A white Rolls-Royce with license plate '77704' is prominently parked, symbolizing luxury, as the speaker notes, \"you see these um Rolls-Royce Phantoms,\" explaining they can pick up guests from the airport for a premium. The camera pans across the scene, capturing a large, illuminated fountain and the iconic sail-shaped structure glowing red. An interaction with a staff member occurs, with the speaker asking, \"Am I allowed to go for a walk down to the end?\" to which the staff member politely replies, \"Of course, why not?\" The speaker then decides, \"I think we can take a little buggy,\" and a golf cart, driven by a staff member in a white shirt, begins navigating the hotel’s grounds, its distinct engine sound audible. The speaker asks, \"can you take me down to the beach?\" and the staff member confirms, \"Beach, of course, sir.\" The cart passes the fountain, then enters a well-lit, modern lobby with glass walls and elegant decor. As upbeat, light music begins to play, the driver continues along a paved path, passing under the hotel’s distinctive red-lit archway, with the speaker commenting on a \"security gate\" that's \"pretty tight.\" After thanking the staff member, the cart arrives at a private entrance where a woman in a black top and white sneakers exits a glass door, walking toward a serene, blue-lit pool. The camera follows her, capturing the Burj Al Arab’s red-lit sail visible in the background, creating a striking contrast against the night sky, as the speaker concludes, \"So this is the Burj Al Arab.\" The on-screen text 'Walk With Me' remains consistently in the top right corner throughout."
+      ]
+    },
+    {
+      "event_id": 12,
+      "start_minute": 27,
+      "end_minute": 28,
+      "summary": "The video begins with a nighttime view of the illuminated Burj Al Arab, reflecting in the water, as a male Guest describes it as \"lit up\" and a \"very beautiful hotel.\" Inside a luxurious hotel room, the Guest, wearing a white bathrobe, emerges after a \"hot\" but \"great\" \"whirlpool bath,\" noting it was a new experience. He walks towards a large bed with white linens and gold embroidery, explaining the \"turn down service\" where a hand places a tube labeled 'No.1 Foot Gel' next to dark blue slippers on a white towel, which the Guest identifies as \"Foot Gel\" and \"eye gel,\" not mints, and confirms the bed is \"made up, ready for tonight.\" The scene shifts to a window view of the Burj Al Arab glowing red at night, then transitions to daylight with a panoramic view of turquoise waters and the Palm Jumeirah. The Guest, now in a red polo shirt, stands in the living area with a blue sofa and red drapes, greeting the \"morning\" and stating his \"sleep last night was, on the whole, pretty good.\" In the opulent living area, the Guest discusses his preference for firmer pillows due to overheating and explains the option for in-room breakfast. He gestures to a lavish spread on a round wooden dining table, detailing his order of 'poached eggs,' 'some orange juice,' a 'cappuccino,' 'waffles,' 'fresh fruit,' and 'some toast.' The camera pans across plates of poached eggs on English muffins with asparagus, golden waffles with berries, a colorful fruit platter, and a glass carafe of orange juice, alongside 'little mini bottles of Nutella and syrup,' 'the butter,' silver serving pieces, small jam jars, and a white ceramic pitcher. A hand picks up a jam jar and the 'Bon Appétit' card, featuring the Burj Al Arab logo, is shown. The Guest mentions \"more condiments, sugar, a tea strainer\" before sitting, pouring orange juice, and expressing mild guilt about eating in the room. The grand interior, including a sweeping staircase and gold-trimmed walls, is visible, as is the 'Walk With Me' branding.",
+      "involved_entities": {
+        "Bed": {
+          "description": "A large bed with white linens, gold-trimmed canopy, and deep blue drapes, featuring plush pillows with gold embroidery, positioned centrally in the bedroom, which the Guest notes is \"made up, ready for tonight.\"",
+          "attribute": "audio-visual"
+        },
+        "Foot Gel": {
+          "description": "A black tube labeled 'No.1 Foot Gel' with gold text, picked up and shown by a hand, which the Guest identifies as \"Foot Gel\" and \"eye gel,\" highlighting the hotel’s premium amenities.",
+          "attribute": "audio-visual"
+        },
+        "Living Area": {
+          "description": "A luxurious living space with a dark red sectional sofa, a blue sofa, a round glass coffee table, gold-accented lamps, and large windows with red drapes, all contributing to an opulent ambiance.",
+          "attribute": "visual"
+        },
+        "Guest": {
+          "description": "A man with a clear British accent, wearing a red polo shirt, speaking directly to the camera about his preference for firmer pillows and his feeling of guilt about eating breakfast in his luxurious Burj Al Arab suite. He meticulously describes his lavish breakfast order, including poached eggs, orange juice, a cappuccino, waffles, fresh fruit, toast, Nutella, syrup, and butter, before trying the orange juice.",
+          "attribute": "audio-visual"
+        },
+        "Burj Al Arab": {
+          "description": "The iconic sail-shaped hotel, illuminated in red and blue at night, described by the Guest as \"lit up\" and a \"very beautiful hotel,\" visible from multiple angles including a close-up of its glowing archway and a distant view from the pool area.",
+          "attribute": "audio-visual"
+        },
+        "Window View": {
+          "description": "A panoramic view from floor-to-ceiling windows overlooking the turquoise waters and the surrounding cityscape, visible as the Guest approaches the pool.",
+          "attribute": "visual"
+        },
+        "Slippers": {
+          "description": "A pair of dark blue slippers placed on a white towel beside the bed, which the Guest mentions are placed there \"for you\" as part of the turn-down service.",
+          "attribute": "audio-visual"
+        },
+        "Mirror": {
+          "description": "A large gold-framed mirror reflecting the bed with white linens and deep blue drapes, emphasizing the room’s opulence.",
+          "attribute": "visual"
+        },
+        "Walk With Me": {
+          "description": "On-screen text 'Walk With Me' appears in the top right corner throughout the segment, indicating the vlog’s branding and creator identity.",
+          "attribute": "visual"
+        },
+        "Jam Jars": {
+          "description": "Small, white-lidded jars of assorted jams, which the Guest identifies as 'little mini bottles of Nutella and syrup,' along with other 'condiments' and 'sugar' on a white tray.",
+          "attribute": "audio-visual"
+        },
+        "White Ceramic Pitcher": {
+          "description": "A small white pitcher with a gold rim, likely for cream or syrup, placed on the table.",
+          "attribute": "visual"
+        },
+        "Waffles": {
+          "description": "Golden waffles dusted with powdered sugar, garnished with fresh berries and a small piece of butter, also explicitly chosen by the Guest.",
+          "attribute": "audio-visual"
+        },
+        "TV": {
+          "description": "A large flat-screen TV mounted on the wall, visible in the background of the living area.",
+          "attribute": "visual"
+        },
+        "Round Glass Coffee Table": {
+          "description": "A dark glass coffee table with a white floral centerpiece, positioned in front of the blue sofa.",
+          "attribute": "visual"
+        },
+        "Round Wooden Dining Table": {
+          "description": "A richly finished wooden table set for breakfast with plates of poached eggs, waffles, fruit, orange juice, jam jars, and silver serving pieces, whose contents the Guest meticulously describes as his breakfast order.",
+          "attribute": "audio-visual"
+        },
+        "Poached Eggs on English Muffins": {
+          "description": "A plate featuring poached eggs on toasted English muffins, accompanied by asparagus, a tomato, and mushrooms, explicitly chosen by the Guest for his breakfast.",
+          "attribute": "audio-visual"
+        },
+        "Silver Serving Pieces": {
+          "description": "Elegant silver containers, including a lidded dish and a small pitcher, adding to the luxurious table setting.",
+          "attribute": "visual"
+        },
+        "Bon Appétit Card": {
+          "description": "A white card with 'Bon Appétit' written in both Arabic and English, featuring the Burj Al Arab logo, which the Guest notes was laid out for him.",
+          "attribute": "audio-visual"
+        },
+        "Grand Staircase": {
+          "description": "A sweeping staircase with blue and red carpeted steps and ornate metal railings, visible in the background.",
+          "attribute": "visual"
+        },
+        "Fruit Platter": {
+          "description": "A white plate with neatly arranged slices of pineapple, melon, cantaloupe, blueberries, and blackberries.",
+          "attribute": "visual"
+        },
+        "Red Drapes": {
+          "description": "Rich, deep red drapes framing the large windows, contributing to the luxurious and warm interior decor.",
+          "attribute": "visual"
+        },
+        "Orange Juice": {
+          "description": "A glass carafe filled with bright orange juice, which the Guest pours into a tall glass and then tastes, commenting on it.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a stunning nighttime view of the Burj Al Arab, illuminated in vibrant red and blue, reflecting in the water below, with palm trees and guests visible in the foreground, accompanied by upbeat background music. The camera pans across the iconic sail-shaped structure as the male Guest describes it as \"lit up\" and a \"very beautiful hotel.\" The scene transitions to the interior of a luxurious hotel room, where the Guest, now in a white bathrobe, emerges from a doorway, commenting that his recent \"whirlpool bath\" was \"hot\" but \"great\" and a new experience for him. He walks through the richly decorated space with gold-trimmed mirrors and ornate furniture toward a large bed with white linens and gold embroidery. He explains the \"turn down service\" as the camera focuses on a small black box next to a pair of dark blue slippers on a white towel. A hand picks up a tube labeled 'No.1 Foot Gel', which the Guest identifies as \"Foot Gel\" and \"eye gel,\" correcting his initial thought that it was mints, and notes the bed is \"made up, ready for tonight.\" The scene shifts to a window view of the Burj Al Arab glowing red at night, then transitions to daylight, revealing a panoramic view of the turquoise waters and the Palm Jumeirah. The Guest, now in a red polo shirt, stands in the luxurious living area with a blue sofa and red drapes, greeting the \"morning\" and stating his \"sleep last night was, on the whole, pretty good.\"",
+        "The Guest, a man in a red polo shirt, stands in the opulent living area of his Burj Al Arab suite, speaking directly to the camera in a clear British accent. He discusses his preference for firmer pillows, noting he gets 'too hot' with standard ones, before explaining that while breakfast is usually downstairs, there's an option to have it in the room. He gestures towards the lavish spread on a round wooden dining table, detailing his order: 'poached eggs,' 'some orange juice,' a 'cappuccino,' 'waffles,' 'fresh fruit,' and 'some toast.' The camera pans across the table, revealing plates of poached eggs on English muffins with asparagus, golden waffles with berries, a colorful fruit platter, and a glass carafe of orange juice. He points out 'little mini bottles of Nutella and syrup,' and 'the butter,' along with silver serving pieces, small jam jars, and a white ceramic pitcher. A hand reaches in to pick up a jam jar, then the 'Bon Appétit' card, featuring the Burj Al Arab logo in Arabic and English, is shown, which the Guest notes was laid out for him. He also mentions 'more condiments, sugar, a tea strainer.' The Guest then sits, pours orange juice into a glass, and expresses feeling 'guilty eating breakfast in the room' despite it being offered, before trying the orange juice. The grand interior, with a sweeping staircase and gold-trimmed walls, remains visible, as does the 'Walk With Me' branding in the top right corner."
+      ]
+    },
+    {
+      "event_id": 13,
+      "start_minute": 29,
+      "end_minute": 31,
+      "summary": "The Guest, wearing a red polo shirt and sunglasses, begins his narrative in a luxurious living area, seated at a Round Wooden Dining Table, enjoying breakfast. He comments on the opulent surroundings, noting the gold trim on the plates, and tries his Poached Eggs on English Muffins, expressing mild disappointment that the egg yolk did not flow as expected. He then samples Waffles with Nutella and maple syrup, remarking on his novel experience of in-room dining but noting the food, including toast and waffles, was lukewarm or cold, though he quickly dismisses this as moaning, praising the waffles. The opulent suite is visible, featuring a Sectional Sofa, Blue Sofa, Red Drapes, and a Grand Staircase. The scene shifts to exterior views of the Burj Al Arab, from ground level with Palm Trees to an aerial perspective highlighting its sail shape and helipad, culminating in a sunset drone shot with the Dubai skyline. During these visuals, the Guest shares his long-held desire to stay at the hotel, explaining he saved up and clarifying it's a top-tier five-star hotel, not officially seven-star, marveling at the \"24-carat gold\" in the suite. He reappears on the beach in front of the hotel, discussing his stay. He later relaxes on a sunbed by an infinity pool, retrieving a bottle of water from a cooler bag, and praises the pool and staff. He reveals the one-night cost of \"£1,500! Sky Marina Suite,\" noting he was asked for a credit card but managed to take minibar items without charge, and highlights the \"happy hour\" for free alcoholic drinks. The video intersperses these details with nighttime views of the illuminated Burj Al Arab and aerial drone shots. The Guest concludes by acknowledging newer hotels in Dubai but still finds the Burj Al Arab \"an amazing hotel,\" humorously admitting he \"can't afford to\" stay again and encourages viewers to like and subscribe. The narrative also touches on minor complaints, such as the availability of only one firm pillow despite claims of multiple types and a malfunctioning bedroom TV. A close-up of a hand pressing buttons on a hidden control panel beneath a glass table is shown, followed by a view of a luxurious bathroom. The Guest is seen on the beach, asking viewers to comment on whether they would stay at the hotel. The final shot focuses on a vintage Wall-Mounted Telephone, a Lucenit model, with a hand pressing buttons, including '0', as the Guest expresses surprise at the telephones' perceived cheapness. The on-screen text 'Walk With Me' and '£1,500! Sky Marina Suite' appear throughout.",
+      "involved_entities": {
+        "Jam Jars": {
+          "description": "Small, white-lidded jars of assorted jams, placed on a white tray, with one being picked up by a hand.",
+          "attribute": "visual"
+        },
+        "White Ceramic Pitcher": {
+          "description": "A small white pitcher with a gold rim, likely for cream or syrup, placed on the table.",
+          "attribute": "visual"
+        },
+        "Waffles": {
+          "description": "Golden waffles dusted with powdered sugar, garnished with fresh berries and a small piece of butter, which the Guest describes as \"cold\" but \"pretty gold.\"",
+          "attribute": "audio-visual"
+        },
+        "Walk With Me": {
+          "description": "On-screen text 'Walk With Me' appearing in the top right corner throughout the segment, indicating the vlog’s branding and creator identity, as the Guest narrates his experience.",
+          "attribute": "audio-visual"
+        },
+        "Round Wooden Dining Table": {
+          "description": "A richly finished wooden table set for breakfast, featuring gold-rimmed plates, Poached Eggs on English Muffins, Waffles, a Fruit Platter, Jam Jars, a White Ceramic Pitcher, and a carafe of Orange Juice, which the Guest notes is part of a luxurious \"kind of living.\"",
+          "attribute": "audio-visual"
+        },
+        "Poached Eggs on English Muffins": {
+          "description": "A plate featuring poached eggs on toasted English muffins, accompanied by asparagus, a tomato, and mushrooms, which the Guest notes didn't have a runny yolk, making him \"a little bit gutted.\"",
+          "attribute": "audio-visual"
+        },
+        "Sectional Sofa": {
+          "description": "A plush, dark red sectional sofa with patterned cushions, positioned in the living area, visible as the Guest walks past.",
+          "attribute": "visual"
+        },
+        "Palm Trees": {
+          "description": "Tall, green palm trees planted in white decorative planters, lining the walkway and enhancing the tropical ambiance.",
+          "attribute": "visual"
+        },
+        "Grand Staircase": {
+          "description": "A sweeping staircase with blue and red carpeted steps and ornate metal railings, visible in the background.",
+          "attribute": "visual"
+        },
+        "Fruit Platter": {
+          "description": "A white plate with neatly arranged slices of pineapple, melon, cantaloupe, blueberries, and blackberries.",
+          "attribute": "visual"
+        },
+        "Guest": {
+          "description": "A man in a red polo shirt and sunglasses, seen walking on a sunlit beach, who speaks directly to the camera, asking viewers if they would stay there and bidding them farewell.",
+          "attribute": "audio-visual"
+        },
+        "Blue Sofa": {
+          "description": "A plush blue sofa with patterned cushions, located in the seating area, visible as the Guest walks past.",
+          "attribute": "visual"
+        },
+        "Burj Al Arab": {
+          "description": "The iconic sail-shaped hotel, shown from ground level with Palm Trees, then from an aerial top-down view revealing its helipad, and finally in a sunset drone shot with the Dubai skyline.",
+          "attribute": "visual"
+        },
+        "Red Drapes": {
+          "description": "Rich, deep red drapes framing the large windows, contributing to the luxurious and warm interior decor.",
+          "attribute": "visual"
+        },
+        "Wall-Mounted Telephone": {
+          "description": "A cream-colored, vintage-style telephone with a coiled cord, mounted on the bedside table, with a hand pressing buttons including the '0' key, labeled 'Lucenit'. The Guest expresses being \"very surprised about the telephones in the room, how cheap and...\" (audio cuts off).",
+          "attribute": "audio-visual"
+        },
+        "Orange Juice": {
+          "description": "A glass carafe filled with bright orange juice, poured by the Guest into a tall glass.",
+          "attribute": "visual"
+        },
+        "Pizza": {
+          "description": "A freshly served pizza with melted cheese, tomato sauce, and basil leaves, placed on a table in the poolside dining area.",
+          "attribute": "visual"
+        },
+        "Bottle of Water": {
+          "description": "A clear plastic bottle of water, retrieved from the cooler bag by the Guest, labeled with a blue cap and white branding, as he narrates his experience.",
+          "attribute": "audio-visual"
+        },
+        "Luxurious Bathroom": {
+          "description": "A lavishly decorated bathroom with terracotta walls, gold fixtures, a curved wooden vanity with dual sinks, blue-accented taps, a large mirror, a toilet with a gold flush button, a bidet, and Greek key patterned borders, all under warm lighting.",
+          "attribute": "visual"
+        },
+        "Bedroom": {
+          "description": "A luxurious bedroom with warm lighting, rich red drapes, a patterned armchair, a blue sofa, a round glass coffee table, gold-accented lamps, a large mirror, and a TV mounted on the wall, where the Guest experienced an issue with the TV not coming up as it should, and where he noted the limited availability of firm pillows.",
+          "attribute": "audio-visual"
+        },
+        "£1,500! Sky Marina Suite": {
+          "description": "On-screen text overlaying the beach scene, displaying '£1,500! Sky Marina Suite' in large white font, emphasizing the cost and name of the suite.",
+          "attribute": "visual"
+        },
+        "Sunbed": {
+          "description": "A white sunbed with a white towel and a cooler bag beside it, where the Guest is seen relaxing by the pool.",
+          "attribute": "visual"
+        },
+        "Blue-and-White Ceramic Soap Dispenser": {
+          "description": "A decorative soap dispenser with a blue and white pattern, placed on the Wooden Coffee Table, adding to the coastal aesthetic.",
+          "attribute": "visual"
+        },
+        "Fries": {
+          "description": "A bowl of golden, crispy French fries served alongside the sandwich, with a hand reaching in to pick one up.",
+          "attribute": "visual"
+        },
+        "Flags": {
+          "description": "Multiple national flags, including the UAE flag, waving atop flagpoles near the hotel entrance, adding a sense of international prestige.",
+          "attribute": "visual"
+        },
+        "TV": {
+          "description": "A large flat-screen TV mounted on the wall, visible in the background of the living area, which the Guest specifically mentions \"didn't come up\" as it should have during his stay.",
+          "attribute": "audio-visual"
+        },
+        "Gold-Accented Lamps": {
+          "description": "Tall, ornate lamps with gold bases and white shades, visible on the bedside tables, contributing to the opulent lighting and decor.",
+          "attribute": "visual"
+        },
+        "Tropical Plants": {
+          "description": "Various green tropical plants in white planters, surrounding the outdoor seating area and enhancing the resort’s lush, natural ambiance.",
+          "attribute": "visual"
+        },
+        "Bed": {
+          "description": "A large bed with white linens, gold-trimmed canopy, and deep blue drapes, featuring plush pillows with gold embroidery, positioned centrally in the bedroom.",
+          "attribute": "visual"
+        },
+        "Beachfront View": {
+          "description": "A panoramic view of the turquoise sea and distant coastline, visible from the outdoor terrace and pool area, emphasizing the resort’s coastal location.",
+          "attribute": "visual"
+        },
+        "Wooden Coffee Table": {
+          "description": "A light wooden coffee table with a slatted design, holding a yellow cloth, a black wallet, and a Blue-and-White Ceramic Soap Dispenser.",
+          "attribute": "visual"
+        },
+        "Heinz Ketchup and Mayonnaise": {
+          "description": "Two small bottles of Heinz brand condiments, one red (ketchup) and one yellow (mayonnaise), placed on a white plate with napkins.",
+          "attribute": "visual"
+        },
+        "Nighttime City Skyline": {
+          "description": "A panoramic view of the Dubai skyline at night, with illuminated buildings and reflections on the water, seen from the hotel’s terrace.",
+          "attribute": "visual"
+        },
+        "Panoramic View": {
+          "description": "A breathtaking, expansive view from floor-to-ceiling windows overlooking the turquoise waters and the surrounding cityscape, visible as the Guest approaches the pool.",
+          "attribute": "visual"
+        },
+        "White Planters": {
+          "description": "Large, white rectangular planters with intricate patterns, housing palm trees and greenery, arranged along the tiled walkway.",
+          "attribute": "visual"
+        },
+        "Remote Control": {
+          "description": "A white remote control with colorful buttons, held by the Guest, used to interact with the TV, shown in close-up to highlight its design and functionality.",
+          "attribute": "visual"
+        },
+        "Cooler Bag": {
+          "description": "A beige, zippered cooler bag labeled 'SEL', placed on the sunbed, containing a bottle of water, which the Guest retrieves and returns, implicitly used to store items like the peanuts he mentioned taking from the minibar.",
+          "attribute": "audio-visual"
+        },
+        "Hidden Control Panel": {
+          "description": "A concealed electronic panel beneath the glass table, activated by pressing a button, revealing a small screen or interface, which the Guest implicitly interacts with to control room features, including the TV he mentioned.",
+          "attribute": "audio-visual"
+        },
+        "Futuristic Lounge Ceiling": {
+          "description": "An indoor lounge ceiling with a wavy, organic design featuring embedded blue and green lights, creating a modern, immersive atmosphere.",
+          "attribute": "visual"
+        },
+        "Outdoor Terrace": {
+          "description": "A spacious wooden deck area with white lounge chairs, tables, and umbrellas, overlooking the sea and connected to the hotel’s interior via glass doors.",
+          "attribute": "visual"
+        },
+        "Tiled Walkway": {
+          "description": "A wide, light-colored tiled pathway leading from the pool area toward the beach, flanked by white planters and palm trees under a clear blue sky.",
+          "attribute": "visual"
+        },
+        "Outdoor Pool Area": {
+          "description": "A spacious pool with clear blue water, surrounded by white lounge chairs, umbrellas, and flags, under a bright blue sky.",
+          "attribute": "visual"
+        },
+        "Round Glass Coffee Table": {
+          "description": "A dark glass coffee table with a white floral centerpiece, positioned in front of the blue sofa.",
+          "attribute": "visual"
+        },
+        "Mirror": {
+          "description": "A large gold-framed mirror reflecting the bed with white linens and deep blue drapes, emphasizing the room’s opulence.",
+          "attribute": "visual"
+        },
+        "Infinity Pool": {
+          "description": "A long, curved infinity pool with crystal-clear blue water that merges with the ocean, featuring steps and guests swimming or lounging nearby.",
+          "attribute": "visual"
+        },
+        "Glass Table": {
+          "description": "A transparent glass table with a hidden compartment or control panel beneath, activated by pressing a button on its surface, which the Guest implicitly interacts with to control room features, including the TV he mentioned.",
+          "attribute": "audio-visual"
+        },
+        "Outdoor Sofa": {
+          "description": "A gray outdoor sofa with blue and white patterned cushions, positioned under a Woven Umbrella, where the Guest is seated.",
+          "attribute": "visual"
+        },
+        "Woven Umbrella": {
+          "description": "A large, beige woven umbrella with fringed edges, providing shade over the outdoor sofa and coffee table.",
+          "attribute": "visual"
+        },
+        "Sun Protection Station": {
+          "description": "A white, modern station with gold lettering labeled 'SUN PROTECTION' and 'AFTER SUN', featuring dispensers for sunscreen and after-sun lotion, placed near the beach.",
+          "attribute": "visual"
+        },
+        "Poolside Tray": {
+          "description": "A wooden tray with a white border, holding the sandwich, fries, and condiments, placed on a white towel beside the pool.",
+          "attribute": "visual"
+        },
+        "Aerial Sunset View": {
+          "description": "A sweeping drone shot of the Burj Al Arab at sunset, with the sun setting over the horizon, casting warm orange and pink hues across the sky and sea.",
+          "attribute": "visual"
+        },
+        "Poolside Dining Area": {
+          "description": "An outdoor dining area with tables, umbrellas, and candlelit lanterns, where guests are seated and enjoying meals under the night sky.",
+          "attribute": "visual"
+        },
+        "Loaded Sandwich": {
+          "description": "A large sandwich with a golden-brown bun, topped with melted cheese, shrimp, and green herbs, served on a white plate as part of a poolside meal.",
+          "attribute": "visual"
+        },
+        "Patterned Armchair": {
+          "description": "A comfortable armchair with a white base and colorful geometric patterns, positioned near the window, where the Guest sits to speak to the camera.",
+          "attribute": "visual"
+        },
+        "NO GUEST ACCESS Sign": {
+          "description": "A white sign with a hand symbol and the text 'NO GUEST ACCESS' mounted on a white lattice fence, indicating restricted access to certain areas.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with the Guest, a man in a red polo shirt, seated at a Round Wooden Dining Table in a luxurious living area, enjoying a lavish breakfast. He sips orange juice and comments in a British accent on \"this kind of living,\" noting \"even the plates have got gold around the edge.\" He adds Hollandaise sauce to his Poached Eggs on English Muffins, then tries them, expressing he's \"a little bit gutted that the egg didn't goo out.\" Moving on to the Waffles with Nutella and maple syrup, he shares that this is his \"first experience of ever having food in the room like this,\" but notes a \"downside\": the food is \"lukewarm,\" with the toast and waffles already \"cold,\" though he quickly adds, \"I shouldn't be moaning,\" and \"the waffles are pretty gold.\" The opulent surroundings, including a Sectional Sofa, Blue Sofa, Red Drapes, and a Grand Staircase, are visible in the background. The scene transitions to exterior shots of the iconic Burj Al Arab, first from a ground-level view with Palm Trees, then an aerial top-down view revealing its unique sail shape and helipad, followed by a breathtaking sunset drone shot with the Dubai skyline. During these visuals, the Guest explains he's \"wanted to stay here for a very long time,\" having saved up, and clarifies that while it's \"not classed as a seven-star hotel,\" it's a \"five-star hotel at the top of its game.\" He praises the \"impressive\" suite, having said \"wow a lot,\" and highlights the \"24-carat gold in the room\" as \"totally amazing.\" The Guest reappears on the beach, standing in front of the hotel, wearing sunglasses and continuing to speak. The final shot is a close-up of a Wall-Mounted Telephone, a vintage-style Lucenit model, on a bedside table, with a hand pressing buttons, including the '0' key, as the Guest expresses being \"very surprised about the telephones in the room, how cheap and...\" The on-screen text 'Walk With Me' remains in the top right corner throughout.",
+        "The video opens with a sweeping view of a luxurious bedroom, showcasing a large bed with white linens, a gold-trimmed canopy, and deep blue drapes, alongside a living area with a dark red sectional sofa, a blue sofa, and gold-accented lamps. The Guest, a man in a red polo shirt and sunglasses, then appears on a sunlit beach with the iconic Burj Al Arab in the background, speaking directly to the camera. He narrates his experience, complaining that despite claims of 20 different pillow types, only one firm pillow was available, and that the bedroom TV didn't come up as it should have. On-screen text 'Walk With Me' appears. The scene transitions to a close-up of a hand pressing a button on a glass table, revealing a hidden control panel, followed by a view of a luxurious bathroom with terracotta walls and gold fixtures. The Guest is then seen relaxing on a sunbed by an infinity pool, with a white towel and a cooler bag beside him, from which he retrieves a bottle of water. He continues his narration, praising the pool and staff, before revealing the cost of his one-night stay: \"1,500 pounds.\" This is reinforced by on-screen text '£1,500! Sky Marina Suite' as he points toward the hotel from the beach. He recounts being asked for a credit card for potential extra expenses but managed to take peanuts from the minibar without charge, and highlights the \"happy hour\" offering free alcoholic drinks (excluding champagne) from 5 to 8 PM. The video intersperses these details with a nighttime view of the illuminated Burj Al Arab and an aerial drone shot of the hotel at sunset, showcasing its helipad and the surrounding coastline. The Guest concludes his passionate commentary, acknowledging that while there are now bigger and better hotels in Dubai, he still finds the Burj Al Arab \"an amazing hotel,\" though he humorously admits he \"can't afford to\" stay there again, urging viewers to give the video a thumbs up and subscribe.",
+        "The minute opens with a wide, sun-drenched beach scene under a vibrant blue sky with scattered white clouds, showcasing the iconic, sail-shaped Burj Al Arab majestically dominating the right side of the frame from its artificial island. Turquoise waters gently lap against the golden sand, with a few people enjoying the sea in the distance. A man in a red polo shirt and sunglasses, identified as the Guest, walks from the left side of the frame toward the right, briefly entering the shot before exiting, as he speaks directly to the viewer, asking, \"and tell me in the comments would you stay here. I'll see you next time.\" The camera remains static, capturing this serene and luxurious coastal environment. Overlaid on the beach scene, large white text reads '£1,500! Sky Marina Suite', emphasizing the high cost and name of the featured accommodation, contributing to the bright, calm, and opulent atmosphere that sets the stage for a luxury travel experience."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Staff Member": "A uniformed attendant in a white shirt, driving a golf cart through the hotel grounds, who engages in a brief, polite conversation with the speaker, confirming a walk to the end and later agreeing to drive them to the beach, saying 'Of course, why not?' and 'Welcome, sir'.",
+    "Luggage Cart": "A wheeled cart with a black handle, used by the staff member to transport luggage, whose distinct rolling sound is heard as it enters the lobby.",
+    "Glass Revolving Door": "A transparent, modern revolving door at the hotel’s entrance, framed with gold accents, leading into the opulent interior, through which the camera moves as a male voice narrates, 'So let's head out onto the pool,' marking a transition to the outdoor spaces.",
+    "Guest": "A man in a red polo shirt and sunglasses, seen walking on a sunlit beach, who speaks directly to the camera, asking viewers if they would stay there and bidding them farewell.",
+    "Burj Al Arab": "The iconic sail-shaped hotel, shown from ground level with Palm Trees, then from an aerial top-down view revealing its helipad, and finally in a sunset drone shot with the Dubai skyline.",
+    "Social Media Text Overlays": "On-screen text 'Walk With Me' appears in the top right corner throughout the segment, indicating the vlog’s branding and creator identity.",
+    "Red Carpet": "A vibrant red carpet with ornate patterns, laid out in the lobby, which the speaker describes as 'huge' and 'amazingly colorful', also noting the presence of a concierge on either side of the hotel lobby and his own 'private butler'.",
+    "Rolls-Royce": "A white luxury sedan parked at the hotel entrance, with visible license plate '77704', symbolizing opulence and high status, and mentioned by the speaker as 'Rolls-Royce Phantoms' that can pick up guests from the airport for a premium.",
+    "Escalator": "A golden-framed escalator with black steps, leading upward through the hotel’s atrium, showcasing the grand interior architecture.",
+    "Gold-Accented Lamps": "Tall, ornate lamps with gold bases and white shades, visible on the bedside tables, contributing to the opulent lighting and decor.",
+    "Elevator": "A golden interior elevator with a control panel displaying floor numbers, including 'SPA & FITNESS' in both Arabic and English, opened to reveal the Guest inside, who presses a button, comments on the carpet, and notes the 'pretty quick' movement of the lifts, accompanied by a chime.",
+    "Orange Sofa": "A plush orange sofa with patterned cushions, located in the bedroom’s seating area, visible as the Guest walks past.",
+    "Atrium Ceiling": "A soaring, sail-shaped ceiling with blue and green geometric patterns and golden structural elements, illuminated by warm ambient lighting, which the speaker notes 'sparkles' and recalls a documentary mentioning concerns about humidity causing 'little clouds forming at the top' during the hotel's construction.",
+    "Luxurious Bathroom": "A lavishly decorated bathroom with terracotta walls, gold fixtures, a curved wooden vanity with dual sinks, blue-accented taps, a large mirror, a toilet with a gold flush button, a bidet, and Greek key patterned borders, all under warm lighting.",
+    "Gold Toilet Flush Button": "A prominent gold flush button mounted on the wall above the toilet, which the Guest's hand presses, demonstrating its \"easy\" operation, accompanied by a flush sound, though he notes it \"looks a little bit out of place.\"",
+    "Curved Wooden Desk": "A richly finished wooden desk with a blue surface, gold trim, and a tufted black leather bench, featuring hidden compartments and drawers, which the Guest identifies as having a 'seat' and 'drawers' for makeup.",
+    "Gold Tissue Dispenser": "A gold tissue dispenser with a blue decorative knob, located on the desk, opened to reveal tissues, and interacted with by a hand.",
+    "Bathroom Control Panel": "A gold-framed electronic panel with buttons, located on the wall near the sink, which the Guest interacts with, discovering it controls the \"TV sound all over the apartment\" and can turn lights off, eliciting a \"Wow\" from him.",
+    "Wall-Mounted Telephone": "A cream-colored, vintage-style telephone with a coiled cord, mounted on the bedside table, with a hand pressing buttons including the '0' key, labeled 'Lucenit'. The Guest expresses being \"very surprised about the telephones in the room, how cheap and...\" (audio cuts off).",
+    "Philips Electric Kettle": "A black, transparent Philips kettle with water level markings, placed on a base inside the elevator, filled with water and turned on by the Guest’s hand with an audible click. The Guest describes it as 'pretty bulk standard,' 'plastic, nothing special.'",
+    "Lactel Milk Portions": "Small, round, blue-labeled Lactel milk containers arranged on a tray inside the elevator, selected by a hand.",
+    "Nespresso Machine": "A gold-colored Nespresso machine with a circular top and drip tray, positioned next to the kettle inside the elevator, ready for use. The Guest refers to it as a 'Burj Al Arab Tassimo'.",
+    "Tea Bags": "Packaged tea bags, including 'English Breakfast Black Tea', visible in the elevator’s tea station, picked up by a hand.",
+    "Tea and Coffee Station": "A compact, well-organized station inside the elevator, featuring a Philips kettle, Nespresso machine, Lactel milk, sugar packets, tea bags, and a ceramic cup and saucer, designed for guest convenience. The Guest describes the sugar in 'see-through little cellophane bags,' the laid-out milk, and mentions a teapot.",
+    "Ceramic Cup and Saucer": "A white ceramic cup and saucer, placed on a shelf inside the elevator, picked up by a hand for use.",
+    "Mini-Fridge": "A small white refrigerator with a glass door, located in the closet, containing toiletries like Etude body wash and lotion, and now also showing beverages including Coca-Cola, Big Tom, and various bottled drinks, discovered by the speaker with an exclamation, 'Oh, there's a mini-fridge in here! Another mini-fridge'.",
+    "Wooden Cabinet": "A dark wooden cabinet with shelves displaying premium spirits. The Guest identifies its contents as gin and whiskey.",
+    "Plate of Chocolates": "A white oval plate holding assorted chocolates, including dark and milk varieties, placed on the marble countertop for display.",
+    "Burj Al Arab Private Bar Menu": "A white leather-bound menu with embossed 'Burj Al Arab' logo, being held and read by the Guest, who recites a welcome message from the general manager from it.",
+    "Glass Dome": "A clear glass dome covering small appetizers on a marble countertop, adding an elegant presentation to the bar’s offerings.",
+    "Water Glass": "A clear glass of water with a branded white lid, placed on the marble countertop, picked up by the Guest to demonstrate the beverage service, who comments on the luxury of 'lids for the glasses' as 'totally unnecessary, but actually, it's quite nice'.",
+    "Fruit Platter": "A white plate with neatly arranged slices of pineapple, melon, cantaloupe, blueberries, and blackberries.",
+    "Orange Juice": "A glass carafe filled with bright orange juice, poured by the Guest into a tall glass.",
+    "Remote Control": "A white remote control with colorful buttons, held by the Guest, used to interact with the TV, shown in close-up to highlight its design and functionality.",
+    "Sectional Sofa": "A plush, dark red sectional sofa with patterned cushions, positioned in the living area, visible as the Guest walks past.",
+    "Panoramic View": "A breathtaking, expansive view from floor-to-ceiling windows overlooking the turquoise waters and the surrounding cityscape, visible as the Guest approaches the pool.",
+    "TV": "A large flat-screen TV mounted on the wall, visible in the background of the living area, which the Guest specifically mentions \"didn't come up\" as it should have during his stay.",
+    "Red Drapes": "Rich, deep red drapes framing the large windows, contributing to the luxurious and warm interior decor.",
+    "Round Glass Coffee Table": "A dark glass coffee table with a white floral centerpiece, positioned in front of the blue sofa.",
+    "Hallway": "A long, opulent hallway with intricate carpeting, gold-trimmed walls, and ornate columns, leading to the elevator, through which the Guest walks while narrating his destination.",
+    "Hidden Control Panel": "A concealed electronic panel beneath the glass table, activated by pressing a button, revealing a small screen or interface, which the Guest implicitly interacts with to control room features, including the TV he mentioned.",
+    "Selfie Stick": "A black extendable selfie stick held by the Guest, used to capture the first-person perspective of the room tour.",
+    "Glass Table": "A transparent glass table with a hidden compartment or control panel beneath, activated by pressing a button on its surface, which the Guest implicitly interacts with to control room features, including the TV he mentioned.",
+    "Grand Staircase": "A sweeping staircase with blue and red carpeted steps and ornate metal railings, visible in the background.",
+    "Ornate Mirrors": "Large, gold-framed mirrors lining the hallway, reflecting the Guest and the opulent surroundings, enhancing the sense of space and luxury.",
+    "Wooden Hanger": "A light wood hanger with the Burj Al Arab logo embossed on it, hanging in the closet and removed by the Guest, who notes 'Burj Al Arab hangers everywhere' and praises the 'attention to detail'.",
+    "Tufted Black Leather Bench": "A long, black leather bench with gold button tufting, positioned along the desk, which lifts to reveal a hidden storage compartment, and is referred to by the Guest as a 'nice little seat'.",
+    "Toiletries in Mini-Fridge": "A collection of personal care products, including Etude body wash and lotion, stored inside the mini-fridge and visible when opened.",
+    "Hidden Compartment": "A concealed storage space beneath the tufted leather bench, accessed by lifting the bench, revealing a gold-trimmed box with amenities.",
+    "Metal Rack": "A silver metal rack inside the closet, used to hold the bathrobe and other items.",
+    "Gold-Lined Box": "A luxurious box with a gold interior, containing rolled tissues and a branded handkerchief with the Burj Al Arab logo, which the Guest initially mistakes for 'cigars' before speculating it's 'something to do with makeup'.",
+    "Laundry Tag": "A white tag with blue trim and the Burj Al Arab logo, labeled 'LAUNDRY & DRY CLEANING', placed beside the laundry bags.",
+    "Blue Hairdryer": "A vintage-style blue hairdryer with a cream-colored horn-shaped nozzle, placed on the desk and examined by the Guest, who identifies it as a 'Dyson' that is 'gold plated'.",
+    "Blue Bathrobe": "A plush blue bathrobe with white trim, removed from the mini-fridge and inspected by the Guest.",
+    "Burj Al Arab Laundry Bags": "Bright orange bags with the Burj Al Arab logo and text 'Laundry Bag', neatly folded in a gold-trimmed box, explicitly identified by the Guest as 'laundry bags' for 'dry cleaning'.",
+    "Terre d’Hermès Eau de Toilette": "A small, silver box labeled 'Terre d’Hermès Eau de Toilette' placed on the vanity, picked up and shown by the Guest, who identifies it as 'eau de toilette' from 'Hermes' and comments on it being 'expensive stuff.'",
+    "Gold Trash Can": "A cylindrical gold trash can with a ribbed design and a silver lid, placed beside the seating area, opened by the Guest to reveal a green liner, and described by him as 'leather', 'gold polished', 'different', and also serving as a 'seat stroke a table'.",
+    "Un Jardin sur le Nil": "A green-and-white box labeled 'Un Jardin sur le Nil' placed on the vanity, picked up and shown by the Guest, who identifies it as 'after shaving balm' from 'Hermes' and comments on its expense.",
+    "White Towel with Gold Logo": "A white towel with a gold Burj Al Arab logo, picked up and displayed by the Guest, who notes that the 'towels' are 'embroidered as well.'",
+    "Blue Bottle with Gold Cap": "A blue bottle with a gold cap, likely a toiletry, placed on the floor near the toilet, shown in close-up at the end of the segment.",
+    "Gold Scale": "A small, gold-framed analog scale placed on the marble floor near the vanity, which the Guest refers to as 'some weighing scales.'",
+    "Shower Fixtures": "Gold showerheads and blue glass knobs mounted on terracotta mosaic tiles, which the Guest explains control temperature and various spray options, including a handheld and overhead rain shower, accompanied by the sound of water.",
+    "Vanity Kit Boxes": "White rectangular boxes labeled 'Dental Kit', 'Vanity Kit', and 'Comb' in both Arabic and English, branded with 'Burj Al Arab Jumeirah', neatly arranged on a glass shelf, which the Guest identifies as containing a shower cap and a shaving kit.",
+    "Bed": "A large bed with white linens, gold-trimmed canopy, and deep blue drapes, featuring plush pillows with gold embroidery, positioned centrally in the bedroom.",
+    "Mirror": "A large gold-framed mirror reflecting the bed with white linens and deep blue drapes, emphasizing the room’s opulence.",
+    "Bedroom": "A luxurious bedroom with warm lighting, rich red drapes, a patterned armchair, a blue sofa, a round glass coffee table, gold-accented lamps, a large mirror, and a TV mounted on the wall, where the Guest experienced an issue with the TV not coming up as it should, and where he noted the limited availability of firm pillows.",
+    "Patterned Armchair": "A comfortable armchair with a white base and colorful geometric patterns, positioned near the window, where the Guest sits to speak to the camera.",
+    "Blue Sofa": "A plush blue sofa with patterned cushions, located in the seating area, visible as the Guest walks past.",
+    "Do Not Disturb Sign": "An orange sign with gold lettering and the Burj Al Arab logo, hanging on a polished wooden door handle, removed by a hand at the start of the video, which the Guest notes is 'like leather,' accompanied by a 'clunk' sound when removed.",
+    "Glass Floor": "A transparent glass floor in the indoor pool area, reflecting the water below and allowing views of the pool from above.",
+    "Patterned Pillars": "Tall, decorative pillars with blue, yellow, and white chevron patterns, lining the corridor leading to the indoor pool area.",
+    "Indoor Pool Area": "A spacious area with a glass floor, colorful patterned pillars, and large windows offering panoramic views of the sea, where the Guest walks toward the pool, with a male speaker expressing a desire to 'come for a swim up here later' but then stating he won't spend 'too much time in here' due to a 'big pool outside,' indicating a preference for other facilities despite the luxurious indoor setting.",
+    "Reception Area": "A circular reception desk with warm lighting and staff members visible, located at the elevator’s destination.",
+    "MindSpa Sanctum": "A luxurious spa entrance with gold-trimmed glass doors, ornate carpeting, and decorative plants, featuring the 'MINDSPA SANCTUUM' logo with a sunburst design, where a male voice inquires about service pricing and a female voice (likely a staff member) provides details and confirms access is locked.",
+    "Beachfront View": "A panoramic view of the turquoise sea and distant coastline, visible from the outdoor terrace and pool area, emphasizing the resort’s coastal location.",
+    "Outdoor Terrace": "A spacious wooden deck area with white lounge chairs, tables, and umbrellas, overlooking the sea and connected to the hotel’s interior via glass doors.",
+    "Palm Trees": "Tall, green palm trees planted in white decorative planters, lining the walkway and enhancing the tropical ambiance.",
+    "Tiled Walkway": "A wide, light-colored tiled pathway leading from the pool area toward the beach, flanked by white planters and palm trees under a clear blue sky.",
+    "Outdoor Pool Area": "A spacious pool with clear blue water, surrounded by white lounge chairs, umbrellas, and flags, under a bright blue sky.",
+    "Flags": "Multiple national flags, including the UAE flag, waving atop flagpoles near the hotel entrance, adding a sense of international prestige.",
+    "White Planters": "Large, white rectangular planters with intricate patterns, housing palm trees and greenery, arranged along the tiled walkway.",
+    "Walk With Me": "On-screen text 'Walk With Me' appearing in the top right corner throughout the segment, indicating the vlog’s branding and creator identity, as the Guest narrates his experience.",
+    "Blue-and-White Ceramic Soap Dispenser": "A decorative soap dispenser with a blue and white pattern, placed on the Wooden Coffee Table, adding to the coastal aesthetic.",
+    "Infinity Pool": "A long, curved infinity pool with crystal-clear blue water that merges with the ocean, featuring steps and guests swimming or lounging nearby.",
+    "Outdoor Sofa": "A gray outdoor sofa with blue and white patterned cushions, positioned under a Woven Umbrella, where the Guest is seated.",
+    "Woven Umbrella": "A large, beige woven umbrella with fringed edges, providing shade over the outdoor sofa and coffee table.",
+    "Sun Protection Station": "A white, modern station with gold lettering labeled 'SUN PROTECTION' and 'AFTER SUN', featuring dispensers for sunscreen and after-sun lotion, placed near the beach.",
+    "Wooden Coffee Table": "A light wooden coffee table with a slatted design, holding a yellow cloth, a black wallet, and a Blue-and-White Ceramic Soap Dispenser.",
+    "Tropical Plants": "Various green tropical plants in white planters, surrounding the outdoor seating area and enhancing the resort’s lush, natural ambiance.",
+    "Cooler Bag": "A beige, zippered cooler bag labeled 'SEL', placed on the sunbed, containing a bottle of water, which the Guest retrieves and returns, implicitly used to store items like the peanuts he mentioned taking from the minibar.",
+    "Bottle of Water": "A clear plastic bottle of water, retrieved from the cooler bag by the Guest, labeled with a blue cap and white branding, as he narrates his experience.",
+    "White Card": "A small, rectangular white card held by the Guest, possibly a room key or service card, shown briefly before being placed down.",
+    "Futuristic Lounge Ceiling": "An indoor lounge ceiling with a wavy, organic design featuring embedded blue and green lights, creating a modern, immersive atmosphere.",
+    "Fries": "A bowl of golden, crispy French fries served alongside the sandwich, with a hand reaching in to pick one up.",
+    "Poolside Tray": "A wooden tray with a white border, holding the sandwich, fries, and condiments, placed on a white towel beside the pool.",
+    "Aerial Sunset View": "A sweeping drone shot of the Burj Al Arab at sunset, with the sun setting over the horizon, casting warm orange and pink hues across the sky and sea.",
+    "Heinz Ketchup and Mayonnaise": "Two small bottles of Heinz brand condiments, one red (ketchup) and one yellow (mayonnaise), placed on a white plate with napkins.",
+    "Nighttime City Skyline": "A panoramic view of the Dubai skyline at night, with illuminated buildings and reflections on the water, seen from the hotel’s terrace.",
+    "Loaded Sandwich": "A large sandwich with a golden-brown bun, topped with melted cheese, shrimp, and green herbs, served on a white plate as part of a poolside meal.",
+    "NO GUEST ACCESS Sign": "A white sign with a hand symbol and the text 'NO GUEST ACCESS' mounted on a white lattice fence, indicating restricted access to certain areas.",
+    "Pizza": "A freshly served pizza with melted cheese, tomato sauce, and basil leaves, placed on a table in the poolside dining area.",
+    "Ornate Pillars": "Tall, decorative pillars with blue, yellow, and white chevron patterns, lining the corridor leading to the indoor pool area.",
+    "Grand Hallway": "A long, opulent hallway with golden columns, ornate carpeting, and warm ambient lighting, leading to the reception area.",
+    "Poolside Dining Area": "An outdoor dining area with tables, umbrellas, and candlelit lanterns, where guests are seated and enjoying meals under the night sky.",
+    "Luxurious Interior": "A grand, opulent interior with golden accents, patterned flooring, and warm lighting, showcasing the hotel’s lavish design, which the speaker finds \"far too expensive for my taste\" but \"totally amazing,\" suggesting it \"looks better during the day than it does at night.\"",
+    "Dining Area": "A spacious dining room with white tablecloths, golden chairs, and elegant table settings, featuring a grand piano and ambient lighting, which the speaker refers to as \"the restaurants\" and specifically identifies a \"piano lounge\" within, calling it \"very nice.\"",
+    "Piano": "A grand piano positioned in the dining area, with a pianist playing, which the speaker highlights as part of a \"piano lounge.\"",
+    "Buffet Station": "An elaborate buffet setup with golden serving dishes, fresh seafood, salads, and chefs in white uniforms, displayed on a checkered floor with ornate decor, explicitly identified by the speaker as a \"buffet restaurant\" on the \"rather posh, expensive side,\" costing \"450 Dirhams per person,\" featuring items like \"mussels, crab claws, and grilled salmon,\" and noted to \"smell nice,\" though personally \"not my cup of tea.\"",
+    "Aquarium": "A large, glass-enclosed aquarium located beneath the atrium, illuminated with blue lighting and teeming with marine life, which the speaker points out as 'fish on the wall'.",
+    "Water Feature": "A cascading water feature with tiered basins and blue lighting, located on the outdoor terrace, which the speaker introduces by saying, 'let's show you the front of the hotel at night,' and is accompanied by the sound of water.",
+    "Golden Columns": "Tall, ornate columns with golden finishes, supporting the atrium, which contribute to the 'sparkles' mentioned by the speaker.",
+    "Checkered Floor": "A glossy black-and-white checkered floor in the dining and buffet areas, reflecting the ambient lighting and contributing to the opulent aesthetic.",
+    "Woman Guest": "A woman in a black top and white sneakers, exiting a glass door and walking toward the pool area, appearing to be a guest of the hotel.",
+    "Lobby Area": "A modern, well-lit lobby with glass walls, elegant furniture, and warm lighting, visible as the golf cart passes through.",
+    "Golf Cart": "A small, white golf cart with a transparent roof, driven by the Staff Member, which the speaker decides to take, asking to be driven to the beach, with its distinct engine sound audible as it moves through the hotel grounds.",
+    "Fountain": "A large, circular fountain with cascading water and warm lighting, located near the hotel entrance, serving as a central visual element.",
+    "Pool Area": "A serene, blue-lit pool surrounded by lush greenery and white planters, with the Burj Al Arab’s red-lit sail visible in the background.",
+    "Foot Gel": "A black tube labeled 'No.1 Foot Gel' with gold text, picked up and shown by a hand, which the Guest identifies as \"Foot Gel\" and \"eye gel,\" highlighting the hotel’s premium amenities.",
+    "Living Area": "A luxurious living space with a dark red sectional sofa, a blue sofa, a round glass coffee table, gold-accented lamps, and large windows with red drapes, all contributing to an opulent ambiance.",
+    "Window View": "A panoramic view from floor-to-ceiling windows overlooking the turquoise waters and the surrounding cityscape, visible as the Guest approaches the pool.",
+    "Jam Jars": "Small, white-lidded jars of assorted jams, placed on a white tray, with one being picked up by a hand.",
+    "White Ceramic Pitcher": "A small white pitcher with a gold rim, likely for cream or syrup, placed on the table.",
+    "Waffles": "Golden waffles dusted with powdered sugar, garnished with fresh berries and a small piece of butter, which the Guest describes as \"cold\" but \"pretty gold.\"",
+    "Round Wooden Dining Table": "A richly finished wooden table set for breakfast, featuring gold-rimmed plates, Poached Eggs on English Muffins, Waffles, a Fruit Platter, Jam Jars, a White Ceramic Pitcher, and a carafe of Orange Juice, which the Guest notes is part of a luxurious \"kind of living.\"",
+    "Poached Eggs on English Muffins": "A plate featuring poached eggs on toasted English muffins, accompanied by asparagus, a tomato, and mushrooms, which the Guest notes didn't have a runny yolk, making him \"a little bit gutted.\"",
+    "Silver Serving Pieces": "Elegant silver containers, including a lidded dish and a small pitcher, adding to the luxurious table setting.",
+    "Bon Appétit Card": "A white card with 'Bon Appétit' written in both Arabic and English, featuring the Burj Al Arab logo, which the Guest notes was laid out for him.",
+    "£1,500! Sky Marina Suite": "On-screen text overlaying the beach scene, displaying '£1,500! Sky Marina Suite' in large white font, emphasizing the cost and name of the suite."
+  }
+}

@@ -1,0 +1,535 @@
+{
+    "video_id": "video556",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video begins with a stylized map of Austria, filled with the Austrian flag and crowned with imperial symbols, suggesting historical or national pride. This transitions to a split screen: the left side shows crossed rifles on a green background, while the right side displays five cartoon characters—two in formal attire, one with blue hair, and two others in dark clothing—against an orange backdrop, hinting at a narrative involving conflict or resistance. The map then reappears in white on black, followed by red regions appearing in the north and south, possibly indicating territorial changes or divisions. Historical imagery overlays the map: a black-and-white photo of a war-torn city, a painting of naval battle ships, and a photo of refugees near a helicopter, evoking themes of war, migration, and historical struggle. The sequence concludes with the map anthropomorphized as a smiling, muscular figure flexing its biceps, symbolizing strength and resilience, before cracking in the middle, suggesting internal division or fracture.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "Austrian Map": "A stylized outline of Austria, initially filled with the Austrian flag and imperial crowns, later appearing as a plain white silhouette, then with red regions, and finally anthropomorphized with a smiling face and flexing arms before cracking.",
+                "Crossed Rifles": "Two brown rifles with silver barrels crossed on a green background, symbolizing conflict or military presence.",
+                "Cartoon Characters": "Five distinct cartoon figures: a woman with dark hair and red eyes, a bearded man in a suit, a woman with brown hair in a suit, a woman with blue hair in a black jacket, and another woman with dark hair in a dark top, all standing against an orange background.",
+                "Historical Images": "Three overlapping images: a black-and-white aerial photo of a destroyed city, a painting of ships in a naval battle, and a black-and-white photo of refugees with a helicopter, representing war, exploration, and displacement.",
+                "Anthropomorphized Map": "The Austrian map given a smiling face and muscular arms, flexing in a display of strength, before cracking down the middle to symbolize division."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The video begins with the Anthropomorphized Map of Austria, depicted as a smiling, muscular figure flexing its arms, before cracking down the middle to symbolize division. This transitions to a solid yellow silhouette of the same map, now devoid of facial features or limbs, suggesting a return to a neutral or historical state. The scene then shifts to a stark black-and-white stick-figure animation: three laborers with pitchforks toil under the supervision of a larger figure holding a whip and rifle, symbolizing oppression or forced labor. This imagery is then overlaid onto a map of Europe, with the laborers positioned across central Europe, implying widespread exploitation. The final segment transitions to a detailed historical painting depicting a chaotic battle scene, filled with soldiers, civilians, and intense action, suggesting a violent uprising or war, possibly linked to the earlier themes of oppression and division.",
+            "active_entities": {
+                "Anthropomorphized Map": "The Austrian map given a smiling face and muscular arms, flexing in a display of strength, before cracking down the middle to symbolize division.",
+                "Historical Images": "A detailed painting of a chaotic battle scene with soldiers and civilians engaged in combat, featuring smoke, weapons, and a sense of violent struggle, likely representing a historical uprising or war."
+            },
+            "discovered_new_entities": {
+                "Stick-Figure Labor Scene": "A black-and-white animation of three stick-figure laborers with pitchforks working under the supervision of a larger figure holding a whip and rifle, symbolizing forced labor or oppression.",
+                "Europe Map Overlay": "A map of Europe in blue and yellow, with the stick-figure labor scene superimposed over central Europe, indicating widespread exploitation across the continent."
+            }
+        },
+        {
+            "minute": 3,
+            "caption": "The video begins with a vivid depiction of a chaotic battle scene from a historical painting, showing soldiers and civilians engaged in violent combat amidst smoke and debris, with a prominent orange flag and figures wielding weapons. This transitions into a split-screen effect where the Danish flag appears on the left, followed by a vertical orange bar, suggesting a thematic or national shift. The scene then changes to a large historical gathering in front of a grand neoclassical building, possibly a government or royal palace, with a dense crowd of people in 19th-century attire, some holding flags, indicating a political or revolutionary event. The video then shifts to a stylized map of Austria in yellow, which is later divided to show Hungary in green, with a clenched fist bearing the Hungarian flag colors superimposed over the Hungarian region, symbolizing resistance or national struggle. Text labels 'AUSTRIA' and 'HUNGARY' appear with corresponding color keys, reinforcing the geopolitical division and tension between the two nations. The overall narrative moves from a general depiction of conflict to a specific focus on the Austro-Hungarian context, emphasizing national identity and resistance.",
+            "active_entities": {
+                "Historical Images": "A large historical gathering in front of a grand neoclassical building, with a dense crowd of people in 19th-century attire, some holding flags, indicating a political or revolutionary event.",
+                "Austrian Map": "A stylized outline of Austria, initially filled with yellow, later divided to show Hungary in green, with a clenched fist bearing the Hungarian flag colors superimposed over the Hungarian region, symbolizing resistance or national struggle.",
+                "Anthropomorphized Map": "The Austrian map given a smiling face and muscular arms, flexing in a display of strength, before cracking down the middle to symbolize division."
+            },
+            "discovered_new_entities": {
+                "Danish Flag": "A red flag with a white Nordic cross, appearing on the left side of a split-screen transition, symbolizing a national or thematic shift.",
+                "Hungarian Fist Symbol": "A clenched fist with red, white, and green stripes, superimposed over the Hungarian region of the map, representing national resistance or pride.",
+                "Color Key Labels": "Text labels 'AUSTRIA' and 'HUNGARY' with corresponding yellow and green color squares, used to identify regions on the map."
+            }
+        },
+        {
+            "minute": 4,
+            "caption": "The video begins with a stylized map of Austria, divided into yellow (Austria) and green (Hungary) regions, with a clenched fist bearing the Hungarian flag colors superimposed over Hungary, symbolizing resistance. The map is accompanied by color key labels identifying 'AUSTRIA' and 'HUNGARY'. This transitions to a symbolic image of a large black military boot hovering over four stick figures, representing oppression or military dominance. The scene then shifts to a historical painting depicting a cavalry-led military engagement on a battlefield, with smoke and chaos in the background, suggesting a major conflict. The final segment displays a political map of Central Europe, color-coded to show Prussia (dark blue), territories annexed by Prussia (light blue), Prussian allies (lighter blue), neutral states (green), Austrian allies (pink), and Austria (red), illustrating the geopolitical landscape of the era, likely during the Austro-Prussian War.",
+            "active_entities": {
+                "Austrian Map": "A stylized outline of Austria, initially filled with yellow, later divided to show Hungary in green, with a clenched fist bearing the Hungarian flag colors superimposed over the Hungarian region, symbolizing resistance or national struggle.",
+                "Hungarian Fist Symbol": "A clenched fist with red, white, and green stripes, superimposed over the Hungarian region of the map, representing national resistance or pride.",
+                "Color Key Labels": "Text labels 'AUSTRIA' and 'HUNGARY' with corresponding yellow and green color squares, used to identify regions on the map.",
+                "Historical Images": "A large historical painting depicting a cavalry-led military engagement on a battlefield, with smoke and chaos in the background, suggesting a major conflict.",
+                "Europe Map Overlay": "A map of Europe in blue and yellow, with the stick-figure labor scene superimposed over central Europe, indicating widespread exploitation across the continent."
+            },
+            "discovered_new_entities": {
+                "Military Boot Symbol": "A large black military boot with white eyelets, hovering over four stick figures, symbolizing oppression or military dominance.",
+                "Political Map of Central Europe": "A color-coded map showing Prussia (dark blue), annexed territories (light blue), Prussian allies (lighter blue), neutral states (green), Austrian allies (pink), and Austria (red), illustrating the geopolitical divisions of the time."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video begins with a historical painting depicting a grand fortress atop a hill, surrounded by a town and a group of soldiers on horseback in the foreground, suggesting a military or historical context. The scene transitions to a stylized four-quadrant graphic with a black and yellow color scheme. In the top-left quadrant, a map of Europe appears with Austria highlighted in yellow, symbolizing a geographical focus. The top-right quadrant features a black clenched fist on a yellow background, representing resistance or strength. The bottom-right quadrant then displays a gray skull on a black background, evoking themes of death or danger. Subsequently, the bottom-left quadrant introduces a large black military boot with white eyelets, positioned above four stick figures, symbolizing oppression or military dominance. The scene shifts to a black background with a yellow outline of a human brain, followed by the appearance of a low battery icon with a lightning bolt and red charge level, indicating mental or cognitive depletion. Finally, a yellow clenched fist appears to the right of the brain, suggesting a resurgence of strength or willpower despite exhaustion.",
+            "active_entities": {
+                "Europe Map Overlay": "A map of Europe in black and yellow, with Austria highlighted in yellow, indicating a focus on Central Europe and its historical or political significance.",
+                "Hungarian Fist Symbol": "A black clenched fist on a yellow background, symbolizing resistance, strength, or national pride, appearing in the top-right quadrant.",
+                "Military Boot Symbol": "A large black military boot with white eyelets, hovering over four stick figures, symbolizing oppression or military dominance, appearing in the bottom-left quadrant."
+            },
+            "discovered_new_entities": {
+                "Skull Symbol": "A gray skull on a black background, representing death, danger, or mortality, appearing in the bottom-right quadrant.",
+                "Brain Symbol": "A yellow outline of a human brain on a black background, symbolizing thought, intelligence, or mental state, appearing centrally in the latter part of the segment.",
+                "Battery Symbol": "A black battery icon with a yellow lightning bolt and red charge level, indicating low energy or cognitive depletion, appearing to the left of the brain.",
+                "Yellow Fist Symbol": "A yellow clenched fist on a black background, appearing to the right of the brain, symbolizing renewed strength or willpower despite mental exhaustion."
+            }
+        },
+        {
+            "minute": 6,
+            "caption": "The video begins with a symbolic composition on a black background: a yellow-outlined brain, a low-energy battery with a lightning bolt, and a clenched yellow fist, suggesting a state of mental exhaustion yet persistent willpower. A cannon emerges from beneath the brain, linking intellect to military force. The scene transitions to a green field where multiple cannons are arranged in formation, followed by the appearance of industrial buildings with smokestacks, implying industrialization and military readiness. The setting then shifts to a stylized map of Europe in black and yellow, with Austria highlighted in yellow. As the narrative progresses, industrial buildings appear over the UK (colored red) and France (colored blue), while Italy turns green, indicating regional industrial or political developments. The map then fades into a solid green background with a large white question mark, suggesting uncertainty or a pivotal question about the future of this geopolitical and industrial landscape.",
+            "active_entities": {
+                "Brain Symbol": "A yellow outline of a human brain on a black background, symbolizing thought, intelligence, or mental state, appearing centrally in the latter part of the segment.",
+                "Battery Symbol": "A black battery icon with a yellow lightning bolt and red charge level, indicating low energy or cognitive depletion, appearing to the left of the brain.",
+                "Yellow Fist Symbol": "A yellow clenched fist on a black background, appearing to the right of the brain, symbolizing renewed strength or willpower despite mental exhaustion.",
+                "Europe Map Overlay": "A map of Europe in black and yellow, with Austria highlighted in yellow, indicating a focus on Central Europe and its historical or political significance."
+            },
+            "discovered_new_entities": {
+                "Industrial Buildings": "Brown factory buildings with beige roofs and smokestacks, appearing on the green field and later superimposed on the map of Europe, symbolizing industrialization and economic development.",
+                "Cannons": "Multiple brown cannons with gray barrels arranged in formation on a green field, representing military power and readiness.",
+                "Color-Coded European Map": "A stylized map of Europe where different countries are highlighted in distinct colors—UK in red, France in blue, Italy in green—indicating political or industrial distinctions, with industrial buildings placed over the UK and France.",
+                "Question Mark Symbol": "A large white question mark on a solid green background, appearing at the end, symbolizing uncertainty, inquiry, or a critical turning point in the narrative."
+            }
+        },
+        {
+            "minute": 7,
+            "caption": "The video begins with a stylized map of Europe, where countries are color-coded: the UK in red, France in blue, and Italy in green, set against a dark background. A large white question mark appears over the map, suggesting uncertainty or inquiry. The map then transitions to a black background with only Austria highlighted in yellow, emphasizing its significance. This yellow Austria then shrinks and moves to the right, isolating it from the rest of Europe. The scene shifts to a detailed historical map of Austria-Hungary in 1910, color-coded by ethnic groups, with a legend identifying Germans, Hungarians, Czechs, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians. The map includes labeled regions such as Bohemia, Moravia, Galicia, Transylvania, and Bosnia, with surrounding empires like the German Empire and Russian Empire. A fiery animation appears over the central region of the map, symbolizing conflict or upheaval, particularly around Hungary and surrounding areas. The visual narrative suggests a focus on the complex ethnic composition and internal tensions within Austria-Hungary, leading to potential instability or revolution.",
+            "active_entities": {
+                "Color-Coded European Map": "A stylized map of Europe with distinct colors for the UK (red), France (blue), and Italy (green), set against a dark background, with industrial buildings later superimposed over the UK and France.",
+                "Europe Map Overlay": "A map of Europe in black and yellow, with Austria highlighted in yellow, indicating a focus on Central Europe and its historical or political significance.",
+                "Historical Images": "A detailed historical map of Austria-Hungary in 1910, color-coded by ethnic groups, with labeled regions and surrounding empires, including a legend identifying various ethnicities.",
+                "Question Mark Symbol": "A large white question mark on a solid green background, appearing at the beginning, symbolizing uncertainty or a critical turning point in the narrative."
+            },
+            "discovered_new_entities": {
+                "Ethnic Groups Map of Austria-Hungary": "A detailed, color-coded map of Austria-Hungary from 1910, showing the distribution of ethnic groups such as Germans, Hungarians, Czechs, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians, with labeled regions like Bohemia, Moravia, Galicia, Transylvania, and Bosnia, and surrounding empires including the German Empire and Russian Empire."
+            }
+        },
+        {
+            "minute": 8,
+            "caption": "The video begins with a detailed, color-coded map of Austria-Hungary in 1910, illustrating the distribution of ethnic groups such as Germans, Hungarians, Czechs, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians, with labeled regions like Bohemia, Moravia, Galicia, Transylvania, and Bosnia. The map is overlaid with a pulsating yellow-orange glow centered over the Hungarian region, suggesting tension or focus. This transitions to a Hungarian flag with a large black and yellow question mark, symbolizing uncertainty or a critical question about Hungary’s identity or future. Next, a diverse group of cartoon characters appears, holding signs with messages like 'convincing message' and a red prohibition symbol, representing public protest or dissent. The scene then shifts to a Hungarian flag background with a group of suited figures at a podium in the red stripe, a single student figure in the white stripe, and three skulls in the green stripe, symbolizing leadership, education, and death or sacrifice. Finally, the video ends with a historical painting of a royal coronation, where a man in red royal attire and a woman in a white gown are surrounded by nobles and clergy, while a figure in the foreground holds a sign repeating the word 'freedom' multiple times, emphasizing a theme of political or national liberation.",
+            "active_entities": {
+                "Ethnic Groups Map of Austria-Hungary": "A detailed, color-coded map of Austria-Hungary from 1910, showing the distribution of ethnic groups such as Germans, Hungarians, Czechs, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians, with labeled regions like Bohemia, Moravia, Galicia, Transylvania, and Bosnia, and surrounding empires including the German Empire and Russian Empire, overlaid with a pulsating yellow-orange glow centered over the Hungarian region.",
+                "Question Mark Symbol": "A large black and yellow question mark superimposed on the Hungarian flag, symbolizing uncertainty or a critical question about Hungary’s identity or future.",
+                "Cartoon Characters": "A diverse group of cartoon figures holding signs with messages like 'convincing message' and a red prohibition symbol, representing public protest or dissent.",
+                "Historical Images": "A historical painting depicting a royal coronation with a man in red royal attire and a woman in a white gown, surrounded by nobles and clergy, while a figure in the foreground holds a sign repeating the word 'freedom' multiple times, emphasizing a theme of political or national liberation.",
+                "Skull Symbol": "Three gray skulls in the green stripe of the Hungarian flag, representing death, sacrifice, or mortality."
+            },
+            "discovered_new_entities": {
+                "Hungarian Flag": "The national flag of Hungary, featuring horizontal stripes of red, white, and green, used as a background for symbolic scenes involving leadership, education, and death.",
+                "Student Figure": "A cartoon character wearing a blue graduation cap, positioned in the white stripe of the Hungarian flag, symbolizing education or youth.",
+                "Podium Scene": "A group of five suited cartoon figures, one speaking at a podium, positioned in the red stripe of the Hungarian flag, symbolizing leadership or political authority."
+            }
+        },
+        {
+            "minute": 9,
+            "caption": "The video begins with a historical painting depicting a royal coronation scene, where a man in red royal attire and a woman in a white gown stand prominently, surrounded by nobles and clergy. A figure in the foreground holds a sign repeating the word 'freedom' multiple times, emphasizing a theme of political or national liberation. The scene then transitions to a split-screen graphic: on the left, a red clenched fist appears on a green background, symbolizing resistance or struggle, while on the right, two hands form a heart shape on a red background, symbolizing unity or cooperation. A red 'X' symbol, resembling crossed rifles, appears above the fist, and later, a green crown appears above the hands, suggesting a contrast between conflict and authority. The video then shifts to a minimalist white background where a large cartoon woman in an orange outfit stands on the left, and a small cartoon man with a mustache in a red shirt and green pants stands on the right, creating a visual contrast in size and possibly power or influence.",
+            "active_entities": {
+                "Historical Images": "A historical painting of a royal coronation with a man in red royal attire and a woman in a white gown, surrounded by nobles and clergy, while a figure in the foreground holds a sign repeating the word 'freedom' multiple times, emphasizing political or national liberation.",
+                "Hungarian Fist Symbol": "A red clenched fist on a green background, symbolizing resistance or struggle, appearing on the left side of a split-screen graphic.",
+                "Color Key Labels": "Not visible in this segment.",
+                "Military Boot Symbol": "Not visible in this segment.",
+                "Political Map of Central Europe": "Not visible in this segment.",
+                "Skull Symbol": "Not visible in this segment.",
+                "Brain Symbol": "Not visible in this segment.",
+                "Battery Symbol": "Not visible in this segment.",
+                "Yellow Fist Symbol": "Not visible in this segment.",
+                "Industrial Buildings": "Not visible in this segment.",
+                "Cannons": "Not visible in this segment.",
+                "Color-Coded European Map": "Not visible in this segment.",
+                "Question Mark Symbol": "Not visible in this segment.",
+                "Ethnic Groups Map of Austria-Hungary": "Not visible in this segment.",
+                "Hungarian Flag": "Not visible in this segment.",
+                "Student Figure": "Not visible in this segment.",
+                "Podium Scene": "Not visible in this segment."
+            },
+            "discovered_new_entities": {
+                "Split-Screen Symbolic Graphic": "A split-screen image with a red clenched fist on a green background (left) and two hands forming a heart on a red background (right), with a red 'X' symbol above the fist and a green crown above the hands, symbolizing contrasting themes of resistance, unity, conflict, and authority.",
+                "Cartoon Woman and Man": "A large cartoon woman in an orange outfit with long dark hair and a small cartoon man with a mustache in a red shirt and green pants, standing on a white background, creating a visual contrast in size and possibly power or influence."
+            }
+        },
+        {
+            "minute": 10,
+            "caption": "The video begins with a static white background displaying the German text 'rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz', a famously long and complex word often used to illustrate the length of German compound words. The scene transitions to introduce the Cartoon Woman and Man: a large cartoon woman in an orange outfit with long dark hair stands on the left, while a small cartoon man with a mustache, wearing a red shirt and green pants, appears on the right. The man grows to match the woman’s size, establishing a visual balance. A historical painting of a bearded, bald man in ornate military regalia with a red cloak is then inserted between them, suggesting a figure of authority or historical significance. The scene shifts to a stylized flag with horizontal red, white, and green stripes—resembling the Hungarian flag—where a flexing arm appears in the top red stripe, symbolizing strength. An equals sign appears next to it, followed by a red 'VOTE' box in the white stripe with ballots labeled 'LAN PARTY' and 'RAVE PARTY', indicating a satirical or absurd political context. A white gavel then appears in the bottom red and green section, symbolizing judicial or legislative action. The video concludes with a black-and-white photograph of the same historical figure from the painting, now in a formal military uniform adorned with medals, reinforcing his authoritative presence.",
+            "active_entities": {
+                "Cartoon Woman and Man": "A large cartoon woman in an orange outfit with long dark hair and a small cartoon man with a mustache in a red shirt and green pants, standing on a white background, creating a visual contrast in size and possibly power or influence. The man grows to match the woman’s size, establishing visual parity."
+            },
+            "discovered_new_entities": {
+                "Historical Figure Portrait": "A bearded, bald man in ornate military regalia with a red cloak, appearing first as a painted portrait and later as a black-and-white photograph, symbolizing historical authority or leadership.",
+                "Stylized Hungarian Flag": "A flag with horizontal red, white, and green stripes, resembling the Hungarian national flag, used as a backdrop for symbolic elements like a flexing arm, equals sign, voting box, and gavel.",
+                "Flexing Arm Symbol": "A cartoonish flexing arm appearing in the top red stripe of the stylized flag, symbolizing strength or power.",
+                "Voting Box": "A red box labeled 'VOTE' in the white stripe of the flag, with ballots labeled 'LAN PARTY' and 'RAVE PARTY', suggesting a satirical or absurd political voting scenario.",
+                "Gavel Symbol": "A white gavel appearing in the bottom section of the flag, symbolizing judicial or legislative authority."
+            }
+        },
+        {
+            "minute": 11,
+            "caption": "The video begins with a static white background featuring two distinct symbols: on the left, a stack of rifles with two crossed rifles on top, symbolizing military or armed conflict; on the right, a black silhouette of an industrial building with a chimney and windows, representing industry or manufacturing. A large hand wearing a black and yellow sleeve enters from the top right, holding a sack filled with a gold bar, suggesting wealth or economic power. The hand moves downward, and a gold coin labeled 'Au' (the chemical symbol for gold) falls from the sack into the industrial building, visually linking economic resources to industry. The scene then transitions to a red bar chart with percentage labels (0%, 1%, 2%, 3%) on the vertical axis and four categories labeled 'DK', 'SW', 'DE', and 'A-H' on the horizontal axis. The bars for DK, SW, and DE are red, while A-H is black, indicating a comparative metric, possibly economic or political performance. The chart remains static for several seconds before shrinking and moving to the left side of the screen. Three additional identical charts appear sequentially on the right, forming a 2x2 grid, with the bottom-right chart being the last to appear. The final frame shows a red background with two large cartoon hands flexing their biceps, symbolizing strength or power, replacing the charts entirely. The transition from industrial and economic symbols to comparative data and finally to physical strength suggests a narrative arc from resource allocation to performance metrics and culminating in a display of power or dominance.",
+            "active_entities": {
+                "Crossed Rifles": "Two brown rifles with silver barrels crossed over a stack of rifles, symbolizing military force or conflict, positioned on the left side of the screen.",
+                "Industrial Buildings": "A black silhouette of a factory with a chimney and multiple windows, representing industry, positioned on the right side of the screen.",
+                "Flexing Arm Symbol": "Two large cartoon hands flexing their biceps against a red background, symbolizing strength or power, appearing in the final frame."
+            },
+            "discovered_new_entities": {
+                "Bar Chart": "A red bar chart with percentage labels (0%, 1%, 2%, 3%) and four categories labeled 'DK', 'SW', 'DE', and 'A-H', where the first three bars are red and the last is black, indicating comparative data, likely economic or political performance.",
+                "Hand with Gold Sack": "A large cartoon hand wearing a black and yellow sleeve, holding a sack containing a gold bar, symbolizing wealth or economic power, entering from the top right and dropping a gold coin labeled 'Au' into the industrial building.",
+                "Gold Coin": "A yellow coin labeled 'Au' (gold) falling from the sack into the industrial building, visually connecting economic resources to industry."
+            }
+        },
+        {
+            "minute": 12,
+            "caption": "The video begins with a bold red background featuring two cartoon flexing arms, symbolizing strength or power, which remain static for several seconds. The scene then transitions to grainy black-and-white historical footage of a bustling early 20th-century city street, with pedestrians in period attire, horse-drawn carriages, and storefronts, evoking a sense of historical context. This shifts to a stylized political map of Austria-Hungary, color-coded to show Austria (red), Hungary (green), and Bosnia (yellow), with an industrial factory icon appearing over Austria, suggesting economic activity. The final scene displays a group of cartoon characters in protest, holding signs with messages like 'convincing message' and a red prohibition symbol, set against a red background, indicating public dissent or social movement. The narrative moves from symbolic strength to historical setting, then to geopolitical division and industrialization, culminating in a depiction of societal protest.",
+            "active_entities": {
+                "Flexing Arm Symbol": "Two large cartoon hands flexing their biceps against a red background, symbolizing strength or power, appearing in the opening frames.",
+                "Historical Images": "Grainy black-and-white footage of a busy city street with pedestrians, horse-drawn carriages, and period architecture, evoking early 20th-century urban life.",
+                "Political Map of Central Europe": "A stylized map of Austria-Hungary divided into Austria (red), Hungary (green), and Bosnia (yellow), with an industrial factory icon placed over Austria, indicating economic focus.",
+                "Cartoon Characters": "A diverse group of cartoon figures holding protest signs, including one reading 'convincing message' and another with a red prohibition symbol, set against a red background, representing public dissent."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 13,
+            "caption": "The video begins with a group of diverse cartoon characters standing against a red background, holding protest signs. Some signs display a red prohibition symbol, while another reads 'convincing message,' suggesting a theme of dissent or public demonstration. The characters vary in attire, including military uniforms, business suits, and nurse outfits, indicating a broad societal representation. The scene then transitions to a single male cartoon figure with gray hair and a mustache, wearing a red jacket over a white shirt with a red tie and green pants, standing against a plain white background. This figure is then flanked by two vertical panels: a red panel on the left featuring a golden gear with 'Au' (gold) at its center, and a green panel on the right displaying a yellow double-headed arrow symbol. These symbols remain static for several seconds, implying a thematic or ideological contrast. The panels then transform into red hearts, with the left heart reading 'WE LOVE AUSTRIA' and the right 'WE LOVE THE EMPIRE,' reinforcing a dual allegiance or internal conflict. Finally, three smaller cartoon figures appear at the bottom: a blonde boy in a red and blue outfit, a girl with long dark hair in a blue and yellow outfit, and a bearded man in a blue and red outfit, all looking up at the central figure, suggesting a familial or societal connection to the central theme of divided loyalty.",
+            "active_entities": {
+                "Cartoon Characters": "A diverse group of cartoon figures holding protest signs, including one reading 'convincing message' and another with a red prohibition symbol, set against a red background, representing public dissent. The group includes figures in military, business, and nurse attire, symbolizing broad societal involvement in the protest."
+            },
+            "discovered_new_entities": {
+                "Central Male Figure": "A cartoon man with gray hair and a mustache, wearing a red jacket over a white shirt with a red tie and green pants, standing against a white background, serving as the focal point of the narrative's emotional and ideological conflict.",
+                "Golden Gear Symbol": "A yellow gear with 'Au' (gold) inscribed in the center, set against a red background, symbolizing industrial or economic power, possibly representing Austria's industrial strength.",
+                "Double-Headed Arrow Symbol": "A yellow double-headed arrow on a green background, symbolizing direction, choice, or duality, possibly representing the Empire's expansive or dualistic nature.",
+                "Heart Symbols": "Two red hearts, one on each side of the central figure, with the left reading 'WE LOVE AUSTRIA' and the right 'WE LOVE THE EMPIRE,' visually representing emotional or national allegiance and internal conflict.",
+                "Supporting Cartoon Figures": "Three smaller cartoon characters appearing at the bottom: a blonde boy in red and blue, a girl with long dark hair in blue and yellow, and a bearded man in blue and red, all looking up at the central figure, suggesting familial or societal ties to the central theme."
+            }
+        },
+        {
+            "minute": 14,
+            "caption": "The video begins with a central male figure, the Central Male Figure, standing solemnly between two large red hearts. The heart on the left reads 'WE LOVE AUSTRIA' and contains a small blonde boy in red and blue attire, while the heart on the right reads 'WE LOVE THE EMPIRE' and contains a bearded man in blue and red. Below the central figure are three Supporting Cartoon Figures: a girl with long dark hair in blue and yellow, the blonde boy, and the bearded man, all looking up at him, symbolizing familial or societal allegiance. The scene then transitions to a solid yellow background with a stack of gray papers, suggesting bureaucratic or official documentation. This is followed by a detailed map of Austria-Hungary in 1910, labeled 'The ethnic groups of Austria-Hungary in 1910 according to Distribution of Races in Austria-Hungary by William R. Shepherd, 1911,' with a color-coded legend identifying Germans, Hungarians, Czechs, Slovaks, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians. As the map is displayed, multiple hands with red hearts appear over various regions, symbolizing love or loyalty from different ethnic groups. A red vertical bar with the text 'ASDF' appears on the left side of the screen, partially obscuring the map, and then transitions to show the stack of papers again, now positioned between the red bar and the map, suggesting a connection between the ethnic divisions and official records or policies.",
+            "active_entities": {
+                "Central Male Figure": "A cartoon man with gray hair and a mustache, wearing a red jacket over a white shirt with a red tie and green pants, standing against a white background, serving as the focal point of the narrative's emotional and ideological conflict.",
+                "Supporting Cartoon Figures": "Three smaller cartoon characters appearing at the bottom: a blonde boy in red and blue, a girl with long dark hair in blue and yellow, and a bearded man in blue and red, all looking up at the central figure, suggesting familial or societal ties to the central theme.",
+                "Heart Symbols": "Two red hearts, one on each side of the central figure, with the left reading 'WE LOVE AUSTRIA' and the right 'WE LOVE THE EMPIRE,' visually representing emotional or national allegiance and internal conflict.",
+                "Ethnic Groups Map of Austria-Hungary": "A detailed map of Austria-Hungary in 1910, color-coded to show the distribution of ethnic groups including Germans, Hungarians, Czechs, Slovaks, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians, with a legend on the left and a title at the bottom. Multiple hands with red hearts appear over various regions, symbolizing loyalty or affection from different ethnic groups."
+            },
+            "discovered_new_entities": {
+                "Stack of Papers": "A gray stack of papers with horizontal lines and bullet points, representing official documents or bureaucratic records, shown against a yellow background and later positioned between a red bar and the map.",
+                "ASDF Text Overlay": "A red vertical bar with the white text 'ASDF' appearing on the left side of the screen, partially obscuring the map, possibly symbolizing an abstract or placeholder element, or a satirical reference."
+            }
+        },
+        {
+            "minute": 15,
+            "caption": "The video begins with a split-screen: on the left, a red vertical bar displays the white text 'ASDF' next to a gray stack of papers with horizontal lines, symbolizing official documents. On the right, a map of Central Europe is shown, with Austria-Hungary highlighted in yellow and green, and a red heart over Hungary, suggesting national sentiment. The scene transitions to a full-screen quote emphasizing equal rights for all races within the empire, including the preservation of nationality and language, and the recognition of linguistic equality in education and public life. This text remains static for several seconds, reinforcing its importance. The video then shifts to a new scene featuring three cartoon characters standing side-by-side against a yellow and black background. The characters are stylized with distinct ethnic features and clothing incorporating national colors: the left figure has a gray beard and wears a shirt with blue, white, and red (resembling the Russian flag); the center figure has blonde hair and a mustache, wearing red, white, and blue (resembling the Dutch flag); the right figure is a woman with brown hair, wearing green, white, and red (resembling the Italian flag). Gradually, all three characters don black graduation caps with red tassels, symbolizing academic achievement. They then each hold up a stack of papers, similar to the earlier document stack, and step behind gray podiums, suggesting they are delivering speeches or presenting official declarations. The visual narrative progresses from abstract political ideals to a symbolic representation of diverse ethnic groups achieving education and public participation within the empire, culminating in a unified, formal presentation.",
+            "active_entities": {
+                "ASDF Text Overlay": "A red vertical bar with the white text 'ASDF' on the left side of the screen, partially obscuring the map, possibly symbolizing an abstract or placeholder element, or a satirical reference.",
+                "Stack of Papers": "A gray stack of papers with horizontal lines and bullet points, representing official documents or bureaucratic records, shown against a yellow background and later positioned between a red bar and the map.",
+                "Ethnic Groups Map of Austria-Hungary": "A detailed map of Austria-Hungary in 1910, color-coded to show the distribution of ethnic groups including Germans, Hungarians, Czechs, Slovaks, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians, with a legend on the left and a title at the bottom. Multiple hands with red hearts appear over various regions, symbolizing loyalty or affection from different ethnic groups.",
+                "Cartoon Characters": "A diverse group of cartoon figures holding protest signs, including one reading 'convincing message' and another with a red prohibition symbol, set against a red background, representing public dissent. The group includes figures in military, business, and nurse attire, symbolizing broad societal involvement in the protest."
+            },
+            "discovered_new_entities": {
+                "Graduation-Capped Cartoon Figures": "Three cartoon characters—each with distinct ethnic features and clothing incorporating national colors (Russian, Dutch, Italian)—who don black graduation caps with red tassels, hold stacks of papers, and stand behind podiums, symbolizing educated, empowered representatives of diverse ethnic groups within the empire."
+            }
+        },
+        {
+            "minute": 16,
+            "caption": "The video begins with three cartoon figures—each wearing a black graduation cap with a red tassel—standing behind podiums, holding stacks of papers. The figure on the left has a beard and wears a white shirt with a blue emblem, the center figure has blonde hair and wears a red shirt with a white tie, and the right figure is a woman with brown hair in a green top. The background alternates between yellow and black behind each figure, suggesting a formal or academic setting. The scene transitions to a diverse group of cartoon characters holding protest signs, including 'More Rights' and 'convincing message,' with some wearing military, business, or nurse attire, symbolizing a broad societal movement. The background is plain white, emphasizing the group’s unity. Next, a real-world sign reading 'Abwasserbehandlungsanlage' (wastewater treatment plant) appears, followed by a blue Star of David on a gray background, possibly indicating a shift to a historical or geopolitical theme. The final scene shows four identical faceless figures in black shirts, each in a quadrant of a grid with alternating red and green backgrounds, suggesting a symbolic or abstract representation of division or duality.",
+            "active_entities": {
+                "Graduation-Capped Cartoon Figures": "Three distinct cartoon characters—bearded man in white with blue emblem, blonde man in red with white tie, and woman in green—each wearing a black graduation cap with red tassel, standing behind podiums with papers, set against alternating yellow and black backgrounds, symbolizing educated representatives or speakers.",
+                "Cartoon Characters": "A diverse group of cartoon figures in various attire (military, business, nurse) holding protest signs such as 'More Rights' and 'convincing message,' with some signs blank or marked with a red cross, set against a plain white background, representing a collective societal protest or demand for change."
+            },
+            "discovered_new_entities": {
+                "Star of David": "A solid blue Star of David centered on a gray gradient background, symbolizing Jewish identity or historical context, appearing after the wastewater treatment plant sign, suggesting a thematic or geographical shift.",
+                "Color-Coded Quadrant Figures": "Four identical faceless cartoon figures in black shirts, each positioned in a quadrant of a 2x2 grid with alternating red and green backgrounds, symbolizing division, duality, or contrasting forces, possibly representing ideological or political opposition.",
+                "Wastewater Treatment Plant Sign": "A real-world, weathered sign with black text 'Abwasserbehandlungsanlage' on a white background with a black border, mounted on a green frame, indicating a specific location or infrastructure, possibly used as a symbolic or literal transition point in the narrative."
+            }
+        },
+        {
+            "minute": 17,
+            "caption": "The video begins with a 2x2 grid of four identical faceless cartoon figures in black shirts, each positioned against alternating red and green backgrounds, symbolizing division or duality. Red voting boxes labeled 'VOTE' appear beside each figure, with ballots marked 'LAN PARTY', 'RAVE PARTY', and 'POOL PARTY' being inserted, suggesting a satirical or absurd political voting scenario. The background then transitions to a composite of national flags—red and white stripes (resembling the Austrian flag), green and red stripes (Hungarian), and blue and red (possibly representing other Central European nations)—overlaying the grid, indicating a geopolitical context. The scene shifts to a full-screen American flag, followed by a historical painting depicting a chaotic battle scene with ships on fire and soldiers on horseback, evoking a sense of war or conflict. This transitions to a stylized map of Austria, initially filled with yellow, which then splits into black and yellow, symbolizing division. Finally, two cartoon characters—a woman in an orange outfit and a man with a mustache in a red shirt and green pants—appear on either side of the divided map, visually representing opposing forces or perspectives, with the man growing to match the woman’s size, suggesting a shift in power or balance.",
+            "active_entities": {
+                "Color-Coded Quadrant Figures": "Four identical faceless cartoon figures in black shirts, each positioned in a quadrant of a 2x2 grid with alternating red and green backgrounds, symbolizing division or duality, possibly representing ideological or political opposition.",
+                "Voting Box": "A red box labeled 'VOTE' in the white stripe of the flag, with ballots labeled 'LAN PARTY' and 'RAVE PARTY', suggesting a satirical or absurd political voting scenario.",
+                "Austrian Map": "A stylized outline of Austria, initially filled with yellow, later divided to show Hungary in green, with a clenched fist bearing the Hungarian flag colors superimposed over the Hungarian region, symbolizing resistance or national struggle.",
+                "Cartoon Woman and Man": "A large cartoon woman in an orange outfit with long dark hair and a small cartoon man with a mustache in a red shirt and green pants, standing on a white background, creating a visual contrast in size and possibly power or influence. The man grows to match the woman’s size, establishing visual parity.",
+                "Historical Images": "Grainy black-and-white footage of a busy city street with pedestrians, horse-drawn carriages, and period architecture, evoking early 20th-century urban life."
+            },
+            "discovered_new_entities": {
+                "American Flag": "A full-screen depiction of the United States flag with red and white stripes and a blue canton with white stars, symbolizing national identity or a shift in geopolitical focus.",
+                "Battle Scene Painting": "A detailed historical painting showing a chaotic naval battle with burning ships, soldiers on horseback, and explosions, evoking themes of war and conflict."
+            }
+        },
+        {
+            "minute": 18,
+            "caption": "The video begins with a stylized outline of Austria, colored in black and yellow, symbolizing a simplified national identity. This transitions into a detailed, color-coded map of Austria-Hungary in 1910, illustrating the distribution of ethnic groups such as Germans, Hungarians, Czechs, Slovaks, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians, with a legend on the left and a title at the bottom. Overlaid on this map, various symbolic icons appear sequentially: a factory with smokestacks representing industry, a cluster of golden wheat stalks symbolizing agriculture, a human silhouette indicating population, and a cow representing rural or pastoral life. These icons are positioned over different regions, suggesting economic and social diversity. The scene then shifts to grainy black-and-white archival footage of a military parade, with uniformed officers and soldiers marching down a tree-lined street, flags waving, and civilians observing, evoking a sense of historical formality and state power. The watermark 'filmmuseum.at' is visible, indicating the source of the archival material.",
+            "active_entities": {
+                "Europe Map Overlay": "A map of Europe in black and yellow, with Austria highlighted in yellow, indicating a focus on Central Europe and its historical or political significance.",
+                "Ethnic Groups Map of Austria-Hungary": "A detailed map of Austria-Hungary in 1910, color-coded to show the distribution of ethnic groups including Germans, Hungarians, Czechs, Slovaks, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians, with a legend on the left and a title at the bottom. Multiple hands with red hearts appear over various regions, symbolizing loyalty or affection from different ethnic groups.",
+                "Industrial Buildings": "A black silhouette of a factory with a chimney and multiple windows, representing industry, positioned on the right side of the screen.",
+                "Historical Images": "Grainy black-and-white footage of a busy city street with pedestrians, horse-drawn carriages, and period architecture, evoking early 20th-century urban life."
+            },
+            "discovered_new_entities": {
+                "Wheat Stalks Symbol": "A cluster of golden wheat stalks with yellow grains, symbolizing agriculture, positioned over the Hungarian region on the ethnic map.",
+                "Human Silhouette": "A simple tan-colored human figure with a ribcage outline, symbolizing population or human presence, appearing on the right side of the map.",
+                "Cow Symbol": "A black-and-white cartoon cow with a red collar, symbolizing rural or pastoral life, positioned over the Romanian region on the map."
+            }
+        },
+        {
+            "minute": 19,
+            "caption": "The video begins with grainy black-and-white historical footage of a military parade, featuring officers in ornate uniforms with tall plumed hats, medals, and sashes, marching in formation under flags, evoking early 20th-century European military pageantry. The scene abruptly shifts to a desolate, war-torn battlefield with craters, shattered trees, and debris, symbolizing the aftermath of conflict. This is followed by a split-screen graphic: on the left, a gray skull on a black background; in the center, two gray paper boats on a yellow background; and on the right, a tan human silhouette with visible ribs on a black background, suggesting themes of death, fragility, and human suffering. The screen then transitions to a large black question mark on a white background, implying uncertainty or inquiry. Next, a split-screen shows a white outline of Germany on a yellow background and Russia on a red background, both engulfed in flames, symbolizing war or destruction. The final frame displays a black silhouette of Russia with a white question mark superimposed, reinforcing the theme of ambiguity or unresolved conflict.",
+            "active_entities": {
+                "Historical Images": "Grainy black-and-white footage of a military parade with officers in ornate uniforms, tall plumed hats, medals, and sashes, marching under flags, evoking early 20th-century European military pageantry.",
+                "Skull Symbol": "A gray skull on a black background, appearing on the left side of a split-screen graphic, symbolizing death or mortality.",
+                "Human Silhouette": "A tan human silhouette with visible ribs on a black background, appearing on the right side of the split-screen graphic, symbolizing human suffering or vulnerability.",
+                "Question Mark Symbol": "A large black question mark on a white background, appearing after the split-screen graphic, symbolizing uncertainty or inquiry.",
+                "Europe Map Overlay": "A split-screen showing a white outline of Germany on a yellow background and Russia on a red background, both engulfed in flames, symbolizing war or destruction.",
+                "Color-Coded European Map": "A black silhouette of Russia with a white question mark superimposed, appearing as the final frame, reinforcing ambiguity or unresolved conflict."
+            },
+            "discovered_new_entities": {
+                "Paper Boats Symbol": "Two gray paper boats on a yellow background, positioned in the center of a split-screen graphic, possibly symbolizing fragile or transient elements amidst death and suffering.",
+                "Flaming Maps": "White outlines of Germany and Russia, each engulfed in flames, set against yellow and red backgrounds respectively, symbolizing war or destruction in these regions."
+            }
+        },
+        {
+            "minute": 20,
+            "caption": "The video segment begins with a stylized, color-coded map of Europe, where distinct regions are highlighted in red, blue, yellow, and green against a black background. The red region corresponds to the British Isles, the blue to France, the yellow to a large central area encompassing Germany and surrounding territories, and the green to Eastern Europe, likely representing Russia or the Austro-Hungarian Empire. The map remains static for several seconds, emphasizing the geopolitical divisions. At 0:18, the map rapidly zooms out and shifts, revealing a broader view of Eurasia with the green region now dominating the eastern half, suggesting a shift in focus or a historical expansion. The map then zooms back in to the original European view at 0:30, restoring the initial color scheme. At 0:39, a series of black triangular mountain icons with white peaks appear in a diagonal line across the yellow region, symbolizing a geographical or military feature such as the Alps or a troop movement, adding a new layer of symbolic meaning to the central European territory. The mountains remain static for the remainder of the segment, reinforcing their significance as a visual motif.",
+            "active_entities": {
+                "Color-Coded European Map": "A black silhouette map of Europe with regions color-coded: red for the British Isles, blue for France, yellow for central Europe (including Germany), and green for Eastern Europe, set against a black background, symbolizing geopolitical divisions or alliances."
+            },
+            "discovered_new_entities": {
+                "Mountain Icons": "A series of black triangular mountain symbols with white peaks, arranged diagonally across the yellow region of the map, likely representing a mountain range or a symbolic military formation, introduced at 0:39."
+            }
+        },
+        {
+            "minute": 21,
+            "caption": "The video begins with a stylized, color-coded map of Europe, where the British Isles are red, France is blue, central Europe (including Germany) is yellow, and Eastern Europe is green, set against a black background. This Color-Coded European Map serves as a geopolitical backdrop. At 0:08, a silver shield with a black silhouette of Germany appears over the yellow region, symbolizing a defensive or nationalistic stance. The shield remains until 0:25, when the scene abruptly transitions to grainy black-and-white historical footage. This footage shows a large, dense crowd of people in winter clothing, many wearing hats and scarves, marching or gathering in a public square. Banners with Cyrillic text, such as 'ВЕЛИЧЕСТВА' (meaning 'Majesty' or 'Imperial'), are visible, suggesting a Russian or Eastern European context, possibly a protest or demonstration. The crowd moves through city streets, with buildings and smokestacks in the background, evoking an early 20th-century industrial setting. At 0:58, the video cuts to a new graphic: a black-and-yellow map of Germany, split horizontally, resembling the German flag, with red silhouettes of the United States, United Kingdom, Italy, and France appearing around it, indicating a global or comparative geopolitical context.",
+            "active_entities": {
+                "Color-Coded European Map": "A black silhouette map of Europe with regions color-coded: red for the British Isles, blue for France, yellow for central Europe (including Germany), and green for Eastern Europe, set against a black background, symbolizing geopolitical divisions or alliances.",
+                "Mountain Icons": "A series of black triangular mountain symbols with white peaks, arranged diagonally across the yellow region of the map, likely representing a mountain range or a symbolic military formation, introduced at 0:39.",
+                "Historical Images": "Grainy black-and-white footage of a large crowd of people in winter clothing, marching or gathering in a public square, with banners bearing Cyrillic text such as 'ВЕЛИЧЕСТВА', suggesting a Russian or Eastern European protest or demonstration, set against an industrial city backdrop with buildings and smokestacks."
+            },
+            "discovered_new_entities": {
+                "Shield Symbol": "A silver shield with a black silhouette of Germany superimposed over the yellow region of the Color-Coded European Map, symbolizing national defense or identity, appearing at 0:08 and remaining until 0:25.",
+                "Black-and-Yellow Germany Map": "A stylized map of Germany divided horizontally into black (top) and yellow (bottom) sections, resembling the German flag, appearing at 0:58, with red silhouettes of the United States, United Kingdom, Italy, and France surrounding it, indicating a global geopolitical context."
+            }
+        },
+        {
+            "minute": 22,
+            "caption": "The video begins with a stylized map of Germany divided horizontally into black (top) and yellow (bottom) sections, resembling the German flag, surrounded by red silhouettes of the United States, United Kingdom, Italy, and France, suggesting a geopolitical context. At 0:03, a yellow sawhorse appears on the left side of the screen, symbolizing construction or division. By 0:10, a vertical yellow bar slides in from the top, revealing a black silhouette of Germany within it, while the surrounding map elements fade. At 0:15, a large yellow downward arrow appears on the right, reinforcing a sense of decline or pressure. The scene transitions at 0:28 to a split-screen: the left side shows a black silhouette of Europe with regions color-coded in blue and yellow, while the right side displays a white background with Europe color-coded in blue, red, and yellow, indicating shifting alliances or political divisions. At 0:46, the video cuts to a news article from Deutsche Welle (DW) titled 'Will the EU's tight squeeze on aid rein in Poland and Hungary?', dated 14.09.2021, discussing Brussels' ability to link rule-of-law breaches with financial penalties, particularly concerning Poland and Hungary. The article's layout includes standard DW branding, social media sharing icons, and metadata such as keywords and author information, grounding the narrative in current political discourse.",
+            "active_entities": {
+                "Black-and-Yellow Germany Map": "A stylized map of Germany divided horizontally into black (top) and yellow (bottom) sections, resembling the German flag, appearing at 0:58, with red silhouettes of the United States, United Kingdom, Italy, and France surrounding it, indicating a global geopolitical context.",
+                "Color-Coded European Map": "A black silhouette map of Europe with regions color-coded: red for the British Isles, blue for France, yellow for central Europe (including Germany), and green for Eastern Europe, set against a black background, symbolizing geopolitical divisions or alliances, appearing from 0:28 to 0:45."
+            },
+            "discovered_new_entities": {
+                "Sawhorse Symbol": "A yellow sawhorse with two crossed horizontal beams and four legs, positioned on the left side of the screen, symbolizing construction, division, or a barrier, appearing from 0:03 to 0:27.",
+                "Deutsche Welle Article": "A screenshot of a DW news article titled 'Will the EU's tight squeeze on aid rein in Poland and Hungary?', dated 14.09.2021, discussing EU financial penalties linked to rule-of-law breaches in Poland and Hungary, with visible DW branding, social media icons, and metadata, appearing from 0:46 to 1:00."
+            }
+        },
+        {
+            "minute": 23,
+            "caption": "The video begins with a screenshot of a Deutsche Welle (DW) news article titled 'Will the EU's tight squeeze on aid rein in Poland and Hungary?', dated 14.09.2021, authored by Jo Harper. The article discusses the EU's ability to link rule-of-law breaches by member states with financial penalties, specifically highlighting Poland and Hungary. The visual then transitions to a stylized map of Germany, split horizontally into black (top) and yellow (bottom) sections, resembling the German flag. This map is then overlaid with a red 'X', symbolizing rejection or prohibition. The red 'X' fades, and a flame appears in the center of the map, suggesting conflict or destruction. The scene splits into two: on the left, a gray skull on a black background symbolizes death or mortality, while on the right, the flaming map remains. A tan human silhouette with visible ribs appears next to the skull, representing human suffering or vulnerability. Finally, a large yellow thumbs-down icon appears on the right, reinforcing disapproval or negative judgment.",
+            "active_entities": {
+                "Deutsche Welle Article": "A screenshot of a DW news article titled 'Will the EU's tight squeeze on aid rein in Poland and Hungary?', dated 14.09.2021, authored by Jo Harper, discussing EU financial penalties linked to rule-of-law breaches in Poland and Hungary, with visible DW branding, social media icons, and metadata.",
+                "Black-and-Yellow Germany Map": "A stylized map of Germany divided horizontally into black (top) and yellow (bottom) sections, resembling the German flag, appearing at 0:09, with a red 'X' overlaid to symbolize rejection or prohibition, followed by a flame in the center to suggest conflict or destruction.",
+                "Skull Symbol": "A gray skull on a black background, appearing on the left side of a split-screen graphic, symbolizing death or mortality, introduced at 0:48.",
+                "Human Silhouette": "A tan human silhouette with visible ribs on a black background, appearing on the right side of the split-screen graphic, symbolizing human suffering or vulnerability, introduced at 0:58."
+            },
+            "discovered_new_entities": {
+                "Thumbs-Down Icon": "A large yellow thumbs-down icon appearing on the right side of the split-screen graphic, symbolizing disapproval or negative judgment, introduced at 1:00."
+            }
+        },
+        {
+            "minute": 24,
+            "caption": "The video begins with a split-screen graphic: on the left, a gray skull on a black background (Skull Symbol); in the center, a tan human silhouette with visible ribs on a yellow background (Human Silhouette); on the right, a large yellow thumbs-down icon on a black background (Thumbs-Down Icon). This symbolic triptych suggests themes of death, human suffering, and disapproval. The scene then transitions to grainy black-and-white historical footage showing a group of soldiers in uniform marching down a street, followed by a tram labeled 'Sonderwagen' with passengers waving, and a crowd of civilians, including women and children, greeting them. The soldiers are seen smiling and interacting joyfully with the public. The footage shifts to a colorized historical scene where a royal family, including a man in military uniform, a woman in a dark dress, and two young girls in white dresses, are greeted by a line of soldiers in formal attire. The family walks down a dirt path flanked by soldiers, with a horse-drawn carriage and a tent visible in the background. The final segment returns to a symbolic split-screen: a large white question mark on a red background (Question Mark Symbol) on the left, and a green background on the right, which later displays a white silhouette of a person inside a coffin (Human Silhouette in Coffin), reinforcing themes of mortality and uncertainty.",
+            "active_entities": {
+                "Skull Symbol": "A gray skull on a black background, symbolizing death or mortality, positioned on the left side of the initial split-screen graphic.",
+                "Human Silhouette": "A tan human silhouette with visible ribs on a yellow background, symbolizing human suffering or vulnerability, positioned in the center of the initial split-screen graphic.",
+                "Thumbs-Down Icon": "A large yellow thumbs-down icon on a black background, symbolizing disapproval or negative judgment, positioned on the right side of the initial split-screen graphic.",
+                "Question Mark Symbol": "A large white question mark on a red background, symbolizing uncertainty or inquiry, appearing on the left side of the final split-screen graphic."
+            },
+            "discovered_new_entities": {
+                "Human Silhouette in Coffin": "A white silhouette of a person inside a coffin on a green background, symbolizing death or mortality, appearing on the right side of the final split-screen graphic.",
+                "Historical Footage of Soldiers and Civilians": "Grainy black-and-white archival footage showing soldiers in uniform marching, interacting with civilians, and being greeted by a crowd, including women and children, with a tram labeled 'Sonderwagen' and a horse-drawn carriage visible, set in an early 20th-century urban environment.",
+                "Colorized Historical Royal Family Scene": "A colorized historical scene depicting a royal family—comprising a man in military uniform, a woman in a dark dress, and two young girls in white dresses—being greeted by a line of formally dressed soldiers, walking down a dirt path with a horse-drawn carriage and a tent in the background, suggesting a ceremonial or official visit."
+            }
+        },
+        {
+            "minute": 25,
+            "caption": "The video begins with a split-screen graphic: on the left, a large white question mark on a red background, and on the right, a white silhouette of a person inside a coffin on a green background, symbolizing uncertainty and mortality. This transitions to a blue calendar for April 1918, with the 8th highlighted in yellow, marking a significant historical date. The scene then shifts to a group of five cartoon men in suits seated at a wooden table, representing a formal assembly or council. Above them, flags of Serbia, Croatia, Slovenia, Czechia, Poland, and Romania appear sequentially, indicating a gathering of national representatives. The scene changes to a solid blue background with a white thumbs-up icon, suggesting approval or a positive outcome. This is followed by a split-screen showing three yellow silhouettes of European regions—Austria, Hungary, and Germany—on black and gray backgrounds, symbolizing geopolitical divisions. The video concludes with a large yellow exclamation mark on a black background, emphasizing urgency or a critical point.",
+            "active_entities": {
+                "Question Mark Symbol": "A large white question mark on a red background, symbolizing uncertainty or inquiry, appearing on the left side of the initial split-screen graphic.",
+                "Human Silhouette in Coffin": "A white silhouette of a person inside a coffin on a green background, symbolizing death or mortality, appearing on the right side of the initial split-screen graphic.",
+                "Cartoon Characters": "Five cartoon men in suits seated at a wooden table, representing a formal assembly or council, with flags of Serbia, Croatia, Slovenia, Czechia, Poland, and Romania appearing above them sequentially.",
+                "Austrian Map": "A yellow silhouette of Austria on a black background, part of a split-screen showing three European regions—Austria, Hungary, and Germany—symbolizing geopolitical divisions."
+            },
+            "discovered_new_entities": {
+                "Calendar": "A blue calendar for April 1918, with the 8th highlighted in yellow, indicating a significant historical date.",
+                "Thumbs-Up Icon": "A large white thumbs-up icon on a blue background, symbolizing approval or a positive outcome.",
+                "Hungarian Map": "A yellow silhouette of Hungary on a gray background, part of the same split-screen as Austria and Germany.",
+                "German Map": "A yellow silhouette of Germany on a black background, part of the split-screen showing the three European regions.",
+                "Exclamation Mark Symbol": "A large yellow exclamation mark on a black background, emphasizing urgency or a critical point."
+            }
+        },
+        {
+            "minute": 26,
+            "caption": "The video begins with a large yellow exclamation mark on a black background, emphasizing urgency or a critical point. This transitions to a detailed color-coded map of Austria-Hungary in 1910, illustrating the distribution of ethnic groups such as Germans, Hungarians, Czechs, Slovaks, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians, with a legend and title citing William R. Shepherd’s 1911 work. A large red 'X' is then superimposed over the map, symbolizing rejection or invalidation. The scene shifts to a cartoon bearded man in a black suit and red tie standing beside a gray easel. Initially, the easel displays a dark silhouette of Austria, which then transforms into a yellow smiley face, followed by a blue circular emblem with stars and laurel wreaths, and finally a nighttime cityscape with a prominent tower, suggesting a narrative of transformation or idealization.",
+            "active_entities": {
+                "Exclamation Mark Symbol": "A large yellow exclamation mark on a black background, emphasizing urgency or a critical point.",
+                "Ethnic Groups Map of Austria-Hungary": "A detailed map of Austria-Hungary in 1910, color-coded to show the distribution of ethnic groups including Germans, Hungarians, Czechs, Slovaks, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians, with a legend on the left and a title at the bottom. A large red 'X' is superimposed over the map, symbolizing rejection or invalidation.",
+                "Historical Figure Portrait": "A bearded, bald man in ornate military regalia with a red cloak, appearing first as a painted portrait and later as a black-and-white photograph, symbolizing historical authority or leadership. In this segment, he is reimagined as a cartoon bearded man in a black suit and red tie, standing beside an easel, suggesting a shift from historical to illustrative representation."
+            },
+            "discovered_new_entities": {
+                "Easel Display": "A gray easel positioned beside the cartoon bearded man, displaying a sequence of images: first a dark silhouette of Austria, then a yellow smiley face, followed by a blue circular emblem with stars and laurel wreaths, and finally a nighttime cityscape with a prominent tower, symbolizing a narrative of transformation or idealization.",
+                "Cartoon Bearded Man": "A cartoon character with gray hair and beard, wearing a black suit, white shirt, and red tie, standing beside an easel and gesturing toward it, serving as a narrator or guide in the visual narrative."
+            }
+        },
+        {
+            "minute": 27,
+            "caption": "The video begins with a cartoon bearded man in a black suit and red tie standing beside an easel, gesturing toward a nighttime cityscape image displayed on it, suggesting a presentation or narration. The scene transitions to a plain white background, then shifts to a split-screen with a cartoon woman in a black dress on a yellow background. A central black panel appears, featuring a golden gear with a wooden cube at its center and circular arrows, symbolizing industrial or economic processes. To the right, a black clenched fist emerges on a yellow background, representing resistance or strength. The scene then cuts to a black screen before revealing a stylized map of Austria-Hungary, filled with the flag’s red, white, and green colors and crowned with heraldic symbols, emphasizing historical or political identity. Finally, the video transitions to a yellow background with a cartoon depiction of a government building above four figures—three men and one woman in formal attire—each with a gavel and document above their heads, symbolizing judicial or legislative authority and decision-making.",
+            "active_entities": {
+                "Cartoon Bearded Man": "A cartoon character with gray hair and beard, wearing a black suit, white shirt, and red tie, standing beside an easel and gesturing toward a nighttime cityscape image, serving as a narrator or guide.",
+                "Easel Display": "A gray easel positioned beside the cartoon bearded man, displaying a sequence of images: first a dark silhouette of Austria, then a yellow smiley face, followed by a blue circular emblem with stars and laurel wreaths, and finally a nighttime cityscape with a prominent tower, symbolizing a narrative of transformation or idealization.",
+                "Golden Gear Symbol": "A yellow gear with a wooden cube at its center and circular arrows, set against a black background, symbolizing industrial or economic processes.",
+                "Hungarian Fist Symbol": "A black clenched fist on a yellow background, symbolizing resistance or strength, appearing on the right side of the split-screen graphic.",
+                "Austrian Map": "A stylized map of Austria-Hungary, filled with red, white, and green colors and crowned with heraldic symbols, representing historical or political identity.",
+                "Cartoon Characters": "Four cartoon figures—three men and one woman in formal attire—standing in a row with gavels and documents above their heads, symbolizing judicial or legislative authority, set against a yellow background with a government building above them."
+            },
+            "discovered_new_entities": {
+                "Cartoon Woman": "A cartoon woman with long black hair, wearing a black dress, standing on a yellow background, appearing as a symbolic or representative figure."
+            }
+        },
+        {
+            "minute": 28,
+            "caption": "The video begins with a static scene featuring four cartoon characters—three men and one woman in formal attire—standing in a row against a yellow background. Above each character is a gavel and a document, symbolizing judicial or legislative authority, with a government building (resembling the U.S. Capitol) above them, colored in red, white, and green. The scene then transitions to a bold red background with two crossed rifles, symbolizing military force or conflict. This is followed by a new scene showing a blue calendar for October, with the 21st highlighted in red, positioned next to a stylized map of Austria-Hungary. The map is initially colored yellow with a red region in the west, and as the calendar advances to the 28th, a blue region appears in the north, indicating a territorial or political change over time. The visual narrative suggests a progression from legal or political authority to military conflict, culminating in a historical or geopolitical shift within the Austro-Hungarian Empire during October, possibly referencing a significant event or territorial reorganization.",
+            "active_entities": {
+                "Cartoon Characters": "Four cartoon figures—three men and one woman in formal attire—standing in a row with gavels and documents above their heads, symbolizing judicial or legislative authority, set against a yellow background with a government building above them.",
+                "Crossed Rifles": "Two brown rifles with silver barrels crossed over a stack of rifles, symbolizing military force or conflict, positioned on the left side of the screen.",
+                "Calendar": "A blue calendar for October, with the 21st and later the 28th highlighted in red, indicating a significant date or progression over time.",
+                "Austrian Map": "A stylized map of Austria-Hungary, initially colored yellow with a red region in the west, and later gaining a blue region in the north, symbolizing territorial or political changes over time."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 29,
+            "caption": "The video begins with a blue calendar for October, highlighting the 28th in red, alongside a stylized map of Austria-Hungary divided into colored regions—yellow, red, and blue—symbolizing territorial or political divisions. As the calendar progresses, the 29th is highlighted, and the map’s regions shift: the northern blue area expands, and a new dark blue region appears in the southeast. The calendar then flips to November, then December, with the 1st highlighted in red, and the map’s central region turns green, while the southeast becomes dark blue. The calendar disappears, and the map is replaced by a green silhouette of Italy, suggesting a geopolitical shift. The scene transitions to a black-and-white portrait of a man in military uniform with medals, including an Iron Cross, and a cartoon crown briefly appears on his head before vanishing. The final frame shows a split-screen with a red silhouette of Austria on a green background and a green silhouette of Hungary on a red background, symbolizing division or contrast between the two regions.",
+            "active_entities": {
+                "Calendar": "A blue calendar for October, then November, then December, with specific dates (28th, 29th, 1st) highlighted in red, indicating a timeline of events or political changes.",
+                "Austrian Map": "A stylized map of Austria-Hungary, initially colored yellow with a red region in the west and a blue region in the north, which evolves over time: the northern blue expands, a new dark blue region appears in the southeast, and the central region turns green by December, symbolizing territorial or political shifts.",
+                "Historical Figure Portrait": "A black-and-white portrait of a man in military uniform with medals, including an Iron Cross, and a cartoon crown briefly superimposed on his head, suggesting a satirical or symbolic representation of authority or monarchy.",
+                "Split-Screen Symbolic Graphic": "A final split-screen showing a red silhouette of Austria on a green background and a green silhouette of Hungary on a red background, symbolizing division or contrast between the two regions."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 30,
+            "caption": "The video begins with a split-screen graphic showing a stylized map of Austria-Hungary divided into red (Austria) and green (Hungary) regions, set against a diagonally split green and red background. A white peace symbol appears over the map, suggesting a theme of unity or peace. The background then shifts to white, and a yellow-and-black striped barrier descends between the two regions, symbolizing division. Two hands, one with a red sleeve and one with a green sleeve, reach toward each other from opposite sides, but a red 'X' appears between them, indicating failed reconciliation. The scene transitions to a black background with the text 'The Great Depression Explained' above a world map and a red downward-trending graph, symbolizing global economic decline. This is followed by a large red question mark on a white background, which is then surrounded by multiple yellow silhouettes of Austria-Hungary, suggesting uncertainty or inquiry about the empire's fate. Finally, small national flags (Belgium, Hungary, and the Netherlands) appear on some of the yellow maps, hinting at geopolitical changes or influences.",
+            "active_entities": {
+                "Split-Screen Symbolic Graphic": "A split-screen showing a red silhouette of Austria on a green background and a green silhouette of Hungary on a red background, symbolizing division or contrast between the two regions.",
+                "Question Mark Symbol": "A large red question mark on a white background, symbolizing uncertainty or inquiry.",
+                "Austrian Map": "Multiple yellow silhouettes of Austria-Hungary appearing around the Question Mark Symbol, suggesting multiple perspectives or fragmented identity."
+            },
+            "discovered_new_entities": {
+                "Peace Symbol": "A white peace symbol overlaid on the Split-Screen Symbolic Graphic, representing a desire for unity or peace between Austria and Hungary.",
+                "Barrier Symbol": "A yellow-and-black striped barrier descending between the red and green regions of the Split-Screen Symbolic Graphic, symbolizing division or separation.",
+                "Reaching Hands": "Two cartoon hands, one with a red sleeve and one with a green sleeve, reaching toward each other from opposite sides of the screen, symbolizing attempted reconciliation.",
+                "Red X Symbol": "A large red 'X' appearing between the Reaching Hands, indicating failure or rejection of the reconciliation attempt.",
+                "The Great Depression Explained Graphic": "A black background with white text 'The Great Depression Explained' above a gray world map and a red downward-trending line graph, symbolizing global economic collapse.",
+                "National Flags": "Small flags of Belgium, Hungary, and the Netherlands appearing on some of the yellow Austrian maps, indicating geopolitical connections or influences."
+            }
+        },
+        {
+            "minute": 31,
+            "caption": "The video begins with a large red question mark centered on a white background, surrounded by multiple yellow silhouettes of Austria-Hungary, each marked with a different national flag (Czech, Romanian, Polish, Austrian, Hungarian, and Slovak), symbolizing fragmented identity or political uncertainty. This transitions to a split-screen showing two historical linguistic maps: on the left, a 1930 linguistic map of Czechoslovakia with color-coded regions for Czech, Slovak, Polish, Ukrainian, Hungarian, and German speakers; on the right, a complex ethnic map of Yugoslavia with Cyrillic labels for Serbs, Croats, Slovenes, and others. A title card then appears with 'Breakup of Yugoslavia' over a cracked map of Yugoslavia with a red star, emphasizing disintegration. The scene shifts to a detailed 1910 ethnic map of Austria-Hungary, color-coded for Germans, Hungarians, Czechs, Slovaks, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians, with a legend and title. The final sequence features the Italian flag as a backdrop, with a white rifle appearing on the red stripe, followed by a red coffin with a green figure inside, and then a white podium with a microphone on the green stripe, symbolizing violence, death, and political speech or governance.",
+            "active_entities": {
+                "Question Mark Symbol": "A large red question mark on a white background, symbolizing uncertainty or inquiry, surrounded by yellow silhouettes of Austria-Hungary with national flags.",
+                "Austrian Map": "Multiple yellow silhouettes of Austria-Hungary appearing around the Question Mark Symbol, each marked with a different national flag (Czech, Romanian, Polish, Austrian, Hungarian, Slovak), suggesting multiple perspectives or fragmented identity.",
+                "Ethnic Groups Map of Austria-Hungary": "A detailed map of Austria-Hungary in 1910, color-coded to show the distribution of ethnic groups including Germans, Hungarians, Czechs, Slovaks, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians, with a legend on the left and a title at the bottom."
+            },
+            "discovered_new_entities": {
+                "Linguistic Map of Czechoslovakia": "A 1930 linguistic map of Czechoslovakia, color-coded for Czech, Slovak, Polish, Ukrainian, Hungarian, and German speakers, with labeled regions and a legend.",
+                "Ethnic Groups Map of Yugoslavia": "A detailed ethnic map of Yugoslavia with Cyrillic labels for Serbs, Croats, Slovenes, and other groups, color-coded and showing regional distribution.",
+                "Breakup of Yugoslavia Title Card": "A title card with 'Breakup of Yugoslavia' in white text over a cracked map of Yugoslavia with a red star, symbolizing disintegration.",
+                "Italian Flag": "The Italian flag (red, white, green vertical stripes) serving as a backdrop for symbolic elements: a white rifle on the red stripe, a red coffin with a green figure inside on the white stripe, and a white podium with a microphone on the green stripe."
+            }
+        },
+        {
+            "minute": 32,
+            "caption": "The video begins with a static graphic of the Italian flag, divided into three vertical stripes: red, white, and green. On the red stripe, a white rifle is angled diagonally. In the white stripe, a red silhouette of a stern-faced man in a suit stands over a small green figure with a distressed expression, symbolizing oppression or dominance. On the green stripe, a white podium with a microphone is shown, suggesting political speech or authority. The scene remains unchanged for several seconds before fading to black. This is followed by a transition to a solid dark blue screen with a subtle concentric circular gradient, creating a hypnotic or meditative effect. The blue screen persists for the remainder of the segment, with no additional elements or movement, suggesting a pause or transition in the narrative.",
+            "active_entities": {
+                "Italian Flag": "The Italian flag is displayed as a backdrop, divided into red, white, and green vertical stripes, with symbolic elements placed on each stripe: a rifle on red, a dominant figure over a small figure on white, and a podium on green, representing themes of violence, power, and political discourse."
+            },
+            "discovered_new_entities": {}
+        }
+    ],
+    "entity_library": {
+        "Austrian Map": "Multiple yellow silhouettes of Austria-Hungary appearing around the Question Mark Symbol, each marked with a different national flag (Czech, Romanian, Polish, Austrian, Hungarian, Slovak), suggesting multiple perspectives or fragmented identity.",
+        "Crossed Rifles": "Two brown rifles with silver barrels crossed over a stack of rifles, symbolizing military force or conflict, positioned on the left side of the screen.",
+        "Cartoon Characters": "Four cartoon figures—three men and one woman in formal attire—standing in a row with gavels and documents above their heads, symbolizing judicial or legislative authority, set against a yellow background with a government building above them.",
+        "Historical Images": "Grainy black-and-white footage of a large crowd of people in winter clothing, marching or gathering in a public square, with banners bearing Cyrillic text such as 'ВЕЛИЧЕСТВА', suggesting a Russian or Eastern European protest or demonstration, set against an industrial city backdrop with buildings and smokestacks.",
+        "Anthropomorphized Map": "The Austrian map given a smiling face and muscular arms, flexing in a display of strength, before cracking down the middle to symbolize division.",
+        "Stick-Figure Labor Scene": "A black-and-white animation of three stick-figure laborers with pitchforks working under the supervision of a larger figure holding a whip and rifle, symbolizing forced labor or oppression.",
+        "Europe Map Overlay": "A split-screen showing a white outline of Germany on a yellow background and Russia on a red background, both engulfed in flames, symbolizing war or destruction.",
+        "Danish Flag": "A red flag with a white Nordic cross, appearing on the left side of a split-screen transition, symbolizing a national or thematic shift.",
+        "Hungarian Fist Symbol": "A black clenched fist on a yellow background, symbolizing resistance or strength, appearing on the right side of the split-screen graphic.",
+        "Color Key Labels": "Not visible in this segment.",
+        "Military Boot Symbol": "Not visible in this segment.",
+        "Political Map of Central Europe": "A stylized map of Austria-Hungary divided into Austria (red), Hungary (green), and Bosnia (yellow), with an industrial factory icon placed over Austria, indicating economic focus.",
+        "Skull Symbol": "A gray skull on a black background, symbolizing death or mortality, positioned on the left side of the initial split-screen graphic.",
+        "Brain Symbol": "Not visible in this segment.",
+        "Battery Symbol": "Not visible in this segment.",
+        "Yellow Fist Symbol": "Not visible in this segment.",
+        "Industrial Buildings": "A black silhouette of a factory with a chimney and multiple windows, representing industry, positioned on the right side of the screen.",
+        "Cannons": "Not visible in this segment.",
+        "Color-Coded European Map": "A black silhouette map of Europe with regions color-coded: red for the British Isles, blue for France, yellow for central Europe (including Germany), and green for Eastern Europe, set against a black background, symbolizing geopolitical divisions or alliances, appearing from 0:28 to 0:45.",
+        "Question Mark Symbol": "A large red question mark on a white background, symbolizing uncertainty or inquiry, surrounded by yellow silhouettes of Austria-Hungary with national flags.",
+        "Ethnic Groups Map of Austria-Hungary": "A detailed map of Austria-Hungary in 1910, color-coded to show the distribution of ethnic groups including Germans, Hungarians, Czechs, Slovaks, Poles, Ukrainians, Slovenes, Croats, Serbs, Romanians, and Italians, with a legend on the left and a title at the bottom.",
+        "Hungarian Flag": "Not visible in this segment.",
+        "Student Figure": "Not visible in this segment.",
+        "Podium Scene": "Not visible in this segment.",
+        "Split-Screen Symbolic Graphic": "A split-screen showing a red silhouette of Austria on a green background and a green silhouette of Hungary on a red background, symbolizing division or contrast between the two regions.",
+        "Cartoon Woman and Man": "A large cartoon woman in an orange outfit with long dark hair and a small cartoon man with a mustache in a red shirt and green pants, standing on a white background, creating a visual contrast in size and possibly power or influence. The man grows to match the woman’s size, establishing visual parity.",
+        "Historical Figure Portrait": "A black-and-white portrait of a man in military uniform with medals, including an Iron Cross, and a cartoon crown briefly superimposed on his head, suggesting a satirical or symbolic representation of authority or monarchy.",
+        "Stylized Hungarian Flag": "A flag with horizontal red, white, and green stripes, resembling the Hungarian national flag, used as a backdrop for symbolic elements like a flexing arm, equals sign, voting box, and gavel.",
+        "Flexing Arm Symbol": "Two large cartoon hands flexing their biceps against a red background, symbolizing strength or power, appearing in the opening frames.",
+        "Voting Box": "A red box labeled 'VOTE' in the white stripe of the flag, with ballots labeled 'LAN PARTY' and 'RAVE PARTY', suggesting a satirical or absurd political voting scenario.",
+        "Gavel Symbol": "A white gavel appearing in the bottom section of the flag, symbolizing judicial or legislative authority.",
+        "Bar Chart": "A red bar chart with percentage labels (0%, 1%, 2%, 3%) and four categories labeled 'DK', 'SW', 'DE', and 'A-H', where the first three bars are red and the last is black, indicating comparative data, likely economic or political performance.",
+        "Hand with Gold Sack": "A large cartoon hand wearing a black and yellow sleeve, holding a sack containing a gold bar, symbolizing wealth or economic power, entering from the top right and dropping a gold coin labeled 'Au' into the industrial building.",
+        "Gold Coin": "A yellow coin labeled 'Au' (gold) falling from the sack into the industrial building, visually connecting economic resources to industry.",
+        "Central Male Figure": "A cartoon man with gray hair and a mustache, wearing a red jacket over a white shirt with a red tie and green pants, standing against a white background, serving as the focal point of the narrative's emotional and ideological conflict.",
+        "Golden Gear Symbol": "A yellow gear with a wooden cube at its center and circular arrows, set against a black background, symbolizing industrial or economic processes.",
+        "Double-Headed Arrow Symbol": "A yellow double-headed arrow on a green background, symbolizing direction, choice, or duality, possibly representing the Empire's expansive or dualistic nature.",
+        "Heart Symbols": "Two red hearts, one on each side of the central figure, with the left reading 'WE LOVE AUSTRIA' and the right 'WE LOVE THE EMPIRE,' visually representing emotional or national allegiance and internal conflict.",
+        "Supporting Cartoon Figures": "Three smaller cartoon characters appearing at the bottom: a blonde boy in red and blue, a girl with long dark hair in blue and yellow, and a bearded man in blue and red, all looking up at the central figure, suggesting familial or societal ties to the central theme.",
+        "Stack of Papers": "A gray stack of papers with horizontal lines and bullet points, representing official documents or bureaucratic records, shown against a yellow background and later positioned between a red bar and the map.",
+        "ASDF Text Overlay": "A red vertical bar with the white text 'ASDF' on the left side of the screen, partially obscuring the map, possibly symbolizing an abstract or placeholder element, or a satirical reference.",
+        "Graduation-Capped Cartoon Figures": "Three distinct cartoon characters—bearded man in white with blue emblem, blonde man in red with white tie, and woman in green—each wearing a black graduation cap with red tassel, standing behind podiums with papers, set against alternating yellow and black backgrounds, symbolizing educated representatives or speakers.",
+        "Star of David": "A solid blue Star of David centered on a gray gradient background, symbolizing Jewish identity or historical context, appearing after the wastewater treatment plant sign, suggesting a thematic or geographical shift.",
+        "Color-Coded Quadrant Figures": "Four identical faceless cartoon figures in black shirts, each positioned in a quadrant of a 2x2 grid with alternating red and green backgrounds, symbolizing division or duality, possibly representing ideological or political opposition.",
+        "Wastewater Treatment Plant Sign": "A real-world, weathered sign with black text 'Abwasserbehandlungsanlage' on a white background with a black border, mounted on a green frame, indicating a specific location or infrastructure, possibly used as a symbolic or literal transition point in the narrative.",
+        "American Flag": "A full-screen depiction of the United States flag with red and white stripes and a blue canton with white stars, symbolizing national identity or a shift in geopolitical focus.",
+        "Battle Scene Painting": "A detailed historical painting showing a chaotic naval battle with burning ships, soldiers on horseback, and explosions, evoking themes of war and conflict.",
+        "Wheat Stalks Symbol": "A cluster of golden wheat stalks with yellow grains, symbolizing agriculture, positioned over the Hungarian region on the ethnic map.",
+        "Human Silhouette": "A tan human silhouette with visible ribs on a yellow background, symbolizing human suffering or vulnerability, positioned in the center of the initial split-screen graphic.",
+        "Cow Symbol": "A black-and-white cartoon cow with a red collar, symbolizing rural or pastoral life, positioned over the Romanian region on the map.",
+        "Paper Boats Symbol": "Two gray paper boats on a yellow background, positioned in the center of a split-screen graphic, possibly symbolizing fragile or transient elements amidst death and suffering.",
+        "Flaming Maps": "White outlines of Germany and Russia, each engulfed in flames, set against yellow and red backgrounds respectively, symbolizing war or destruction in these regions.",
+        "Mountain Icons": "A series of black triangular mountain symbols with white peaks, arranged diagonally across the yellow region of the map, likely representing a mountain range or a symbolic military formation, introduced at 0:39.",
+        "Shield Symbol": "A silver shield with a black silhouette of Germany superimposed over the yellow region of the Color-Coded European Map, symbolizing national defense or identity, appearing at 0:08 and remaining until 0:25.",
+        "Black-and-Yellow Germany Map": "A stylized map of Germany divided horizontally into black (top) and yellow (bottom) sections, resembling the German flag, appearing at 0:09, with a red 'X' overlaid to symbolize rejection or prohibition, followed by a flame in the center to suggest conflict or destruction.",
+        "Sawhorse Symbol": "A yellow sawhorse with two crossed horizontal beams and four legs, positioned on the left side of the screen, symbolizing construction, division, or a barrier, appearing from 0:03 to 0:27.",
+        "Deutsche Welle Article": "A screenshot of a DW news article titled 'Will the EU's tight squeeze on aid rein in Poland and Hungary?', dated 14.09.2021, authored by Jo Harper, discussing EU financial penalties linked to rule-of-law breaches in Poland and Hungary, with visible DW branding, social media icons, and metadata.",
+        "Thumbs-Down Icon": "A large yellow thumbs-down icon on a black background, symbolizing disapproval or negative judgment, positioned on the right side of the initial split-screen graphic.",
+        "Human Silhouette in Coffin": "A white silhouette of a person inside a coffin on a green background, symbolizing death or mortality, appearing on the right side of the initial split-screen graphic.",
+        "Historical Footage of Soldiers and Civilians": "Grainy black-and-white archival footage showing soldiers in uniform marching, interacting with civilians, and being greeted by a crowd, including women and children, with a tram labeled 'Sonderwagen' and a horse-drawn carriage visible, set in an early 20th-century urban environment.",
+        "Colorized Historical Royal Family Scene": "A colorized historical scene depicting a royal family—comprising a man in military uniform, a woman in a dark dress, and two young girls in white dresses—being greeted by a line of formally dressed soldiers, walking down a dirt path with a horse-drawn carriage and a tent in the background, suggesting a ceremonial or official visit.",
+        "Calendar": "A blue calendar for October, then November, then December, with specific dates (28th, 29th, 1st) highlighted in red, indicating a timeline of events or political changes.",
+        "Thumbs-Up Icon": "A large white thumbs-up icon on a blue background, symbolizing approval or a positive outcome.",
+        "Hungarian Map": "A yellow silhouette of Hungary on a gray background, part of the same split-screen as Austria and Germany.",
+        "German Map": "A yellow silhouette of Germany on a black background, part of the split-screen showing the three European regions.",
+        "Exclamation Mark Symbol": "A large yellow exclamation mark on a black background, emphasizing urgency or a critical point.",
+        "Easel Display": "A gray easel positioned beside the cartoon bearded man, displaying a sequence of images: first a dark silhouette of Austria, then a yellow smiley face, followed by a blue circular emblem with stars and laurel wreaths, and finally a nighttime cityscape with a prominent tower, symbolizing a narrative of transformation or idealization.",
+        "Cartoon Bearded Man": "A cartoon character with gray hair and beard, wearing a black suit, white shirt, and red tie, standing beside an easel and gesturing toward a nighttime cityscape image, serving as a narrator or guide.",
+        "Cartoon Woman": "A cartoon woman with long black hair, wearing a black dress, standing on a yellow background, appearing as a symbolic or representative figure.",
+        "Peace Symbol": "A white peace symbol overlaid on the Split-Screen Symbolic Graphic, representing a desire for unity or peace between Austria and Hungary.",
+        "Barrier Symbol": "A yellow-and-black striped barrier descending between the red and green regions of the Split-Screen Symbolic Graphic, symbolizing division or separation.",
+        "Reaching Hands": "Two cartoon hands, one with a red sleeve and one with a green sleeve, reaching toward each other from opposite sides of the screen, symbolizing attempted reconciliation.",
+        "Red X Symbol": "A large red 'X' appearing between the Reaching Hands, indicating failure or rejection of the reconciliation attempt.",
+        "The Great Depression Explained Graphic": "A black background with white text 'The Great Depression Explained' above a gray world map and a red downward-trending line graph, symbolizing global economic collapse.",
+        "National Flags": "Small flags of Belgium, Hungary, and the Netherlands appearing on some of the yellow Austrian maps, indicating geopolitical connections or influences.",
+        "Linguistic Map of Czechoslovakia": "A 1930 linguistic map of Czechoslovakia, color-coded for Czech, Slovak, Polish, Ukrainian, Hungarian, and German speakers, with labeled regions and a legend.",
+        "Ethnic Groups Map of Yugoslavia": "A detailed ethnic map of Yugoslavia with Cyrillic labels for Serbs, Croats, Slovenes, and other groups, color-coded and showing regional distribution.",
+        "Breakup of Yugoslavia Title Card": "A title card with 'Breakup of Yugoslavia' in white text over a cracked map of Yugoslavia with a red star, symbolizing disintegration.",
+        "Italian Flag": "The Italian flag is displayed as a backdrop, divided into red, white, and green vertical stripes, with symbolic elements placed on each stripe: a rifle on red, a dominant figure over a small figure on white, and a podium on green, representing themes of violence, power, and political discourse."
+    }
+}

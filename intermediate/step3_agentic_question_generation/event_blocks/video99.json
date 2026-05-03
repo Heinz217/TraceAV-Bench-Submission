@@ -1,0 +1,414 @@
+{
+  "video_id": "video99",
+  "audio_id": "video99_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "A young man with curly hair, clad in a blue puffer jacket, introduces a video exploring a challenging Harvard class, stating his intention to spend the day documenting the experience of attending the world's top university. He introduces Helen, wearing a white sweater with a red 'H', who is shown at a table with a laptop displaying a university rankings article featuring Harvard and MIT. The scene transitions to an 8:30 am outdoor campus setting where Helen, now in a black puffer jacket and holding a coffee cup, walks towards the camera, smiling. She is joined by the young man, now holding a camera and his own coffee cup, and they proceed across campus, laughing and conversing. The young man notes that Helen gave him a campus tour, humorously feigning disorientation. As they pass a red-brick dormitory building, Helen identifies it as Strauss, where freshmen reside, and the young man inquires about Mark Zuckerberg's former residence. They pause by a statue of a seated historical figure, which the young man mistakenly identifies as George Washington. Helen corrects him, explaining that tourists often touch the statue's foot, advising against it, and humorously confirms that urinating on it is a tradition, prompting an 'Ew!' from the young man, who then playfully accuses her of trickery regarding the statue's name, Mr. Manny. He expresses disbelief at the logistics of urinating on the tall statue, to which Helen suggests climbing it. The camera pans across the campus, showcasing trees and buildings, as the pair continues their walk and conversation, the young man animatedly describing the tour as 'pretty underwhelming' amidst the ambient sounds of a bustling university.",
+      "involved_entities": {
+        "Campus Environment": {
+          "description": "An outdoor university setting with bare trees, paved walkways, and historic buildings. The weather is overcast, and the atmosphere is lively with students walking in the background.",
+          "attribute": "visual"
+        },
+        "Woman in Harvard Sweater": {
+          "description": "Named Helen, she wears a white sweater with a red 'H' and later a black puffer jacket. She holds a coffee cup and walks alongside the young man, smiling and laughing. She has long dark hair and appears cheerful and engaged, with a cheerful voice, providing campus information and engaging in playful banter.",
+          "attribute": "audio-visual"
+        },
+        "Red-Brick Dormitory Building": {
+          "description": "A large, ornate red-brick building with multiple windows and dormer-style roofs, typical of Harvard’s campus architecture, identified by Helen as 'Strauss' and joked about by the man as Mark Zuckerberg’s dorm.",
+          "attribute": "audio-visual"
+        },
+        "Statue of Historical Figure": {
+          "description": "A seated bronze statue on a stone pedestal, located in front of a white stone building. The base has an inscription, and the man jokes about it being George Washington, though it is likely a different historical figure (possibly John Harvard, given the campus context).",
+          "attribute": "visual"
+        },
+        "Young Man with Curly Hair": {
+          "description": "Wears a blue puffer jacket over a gray shirt, carries a camera and a coffee cup, and speaks animatedly to the camera while walking through the campus. He has curly dark hair and a playful, energetic voice, introducing himself as spending the day with Harvard students and making jokes throughout the campus tour.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a classroom where a professor teaches in front of a whiteboard filled with equations, while students are seated, some with laptops. The scene quickly transitions to a close-up of a young man with curly hair, wearing a blue puffer jacket, speaking directly to the camera in a dimly lit indoor setting with purple lighting. He states, \"This is one of the hardest Harvard classes... I'm gonna be spending the day with them to see what it's really like attending the number one university in the world.\" He then introduces Helen, a woman in a white sweater with a red 'H', who is seen at a table with a laptop as a news article about university rankings (highlighting Harvard and MIT) is displayed. The video shifts to an outdoor campus at 8:30 am, where Helen, now in a black puffer jacket, walks toward the camera with a coffee cup, smiling. She is joined by the young man, who is now holding a camera and a coffee cup, and they walk together across the campus, laughing and interacting. The young man remarks, \"Starting off the day, I met up with Helen, got some coffee and she decided to give me a small campus tour,\" then asks, \"What is this place? I have no idea where I am.\" Helen replies, \"This is where all the freshmen live.\" As they pass a large red-brick dormitory building, the man asks, \"Where did Mark Zuckerberg live?\" Helen identifies it as \"Strauss, which is behind that.\" The man jokes about his friend living there too. They stop near a statue of a seated historical figure, and the man playfully asks, \"Is this George Washington?\" Helen corrects him, \"This is not George Washington,\" and explains that tourists touch its foot, advising, \"Just don't touch the foot.\" The man, joking, asks if people \"peed on it,\" to which Helen playfully confirms, \"Yeah, it's a tradition to pee on it.\" He exclaims, \"Ew!\" and then playfully tells her, \"Don't pull tricks on me, lady,\" referencing the statue’s name (Mr. Manny from the visual context). He expresses confusion, \"It's very tall statue. How do they pee on it?\" and Helen responds, \"You climb up.\" The camera pans around the campus, showing trees and other buildings, as the two continue walking and talking, with the man gesturing animatedly, remarking that the tour is \"pretty underwhelming\" so far, all set against the ambient sounds of a lively university campus."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 2,
+      "summary": "The Young Man with Curly Hair, clad in a blue puffer jacket, begins by addressing the camera in a dining hall, discussing breakfast habits and noting activity nearby, all underscored by light background music. Transitioning outdoors at 10:30 am under overcast skies, he walks briskly past a Statue of Historical Figure and a Red-Brick Dormitory Building, expressing his anticipation for his first Harvard business class, describing the venue as 'really nice' and his feeling as akin to a 'little kid seeing the world for the first time.' Upon entering a modern lecture hall, he sits next to the Woman in Harvard Sweater, identifiable by her white sweater with a red 'H.' The scene shifts to a Panel of Speakers on stage, where one speaker welcomes a guest named 'Manny' to the applause of the Lecture Hall Audience. The Young Man with Curly Hair then shares his thoughts on the class topic, 'business and the customer mindset,' while a panel speaker advises, 'you should be talking to potential customers... before you build the thing.' The Young Man listens attentively, occasionally touching his hair, and later remarks on the professors' surprising 'super nice' demeanor. A Man in Blue Shirt approaches the stage with a red water bottle, greeting the Young Man and stating, 'I'm glad you came. It's fun to have guests.' The Young Man reflects on the 'pretty cool' experience of attending a real Harvard class, feeling the day is 'just getting started,' before the video concludes with a brief, unsteady shot of him looking at the camera, followed by a swift pan to a person in a black puffer jacket walking away, all while the background music continues.",
+      "involved_entities": {
+        "Campus Environment": {
+          "description": "An outdoor university setting with bare trees, paved walkways, and historic buildings. The weather is overcast, and the atmosphere is lively with students walking in the background.",
+          "attribute": "visual"
+        },
+        "Lecture Hall Audience": {
+          "description": "Students seated at white desks with nameplates, some using laptops. The room has green walls and modern lighting, with a large screen at the front. The audience appears attentive and engaged, and is heard clapping after a speaker welcomes a guest.",
+          "attribute": "audio-visual"
+        },
+        "Statue of Historical Figure": {
+          "description": "A seated bronze statue on a stone pedestal, located in front of a white stone building. The young man walks past it during his campus walk, and the base has an inscription, though it is not clearly legible.",
+          "attribute": "visual"
+        },
+        "Woman in Harvard Sweater": {
+          "description": "Wears a white sweater with a red 'H' and has long dark hair. She sits beside the young man in the lecture hall, smiling and occasionally gesturing, appearing cheerful and engaged in the lecture.",
+          "attribute": "visual"
+        },
+        "Red-Brick Dormitory Building": {
+          "description": "A large, ornate red-brick building with multiple windows and dormer-style roofs, typical of Harvard’s campus architecture. The young man walks past it during his outdoor campus walk.",
+          "attribute": "visual"
+        },
+        "Panel of Speakers": {
+          "description": "Three older men seated on a stage in front of a large screen, engaged in a discussion. One speaker is heard welcoming a guest named 'Manny' and later discussing the importance of talking to potential customers before building a product, speaking with a clear, authoritative voice.",
+          "attribute": "audio-visual"
+        },
+        "Young Man with Curly Hair": {
+          "description": "Wears a blue puffer jacket over a gray shirt, carries a camera with a blue light, and is seen eating, speaking directly to the camera in a friendly, conversational tone about eating breakfast with Harvard students, attending a business class, and his positive impressions of the professors. He has curly dark hair and a playful demeanor, often smiling or adjusting his hair, and expresses excitement about being at Harvard.",
+          "attribute": "audio-visual"
+        },
+        "Man in Blue Shirt": {
+          "description": "Wears a blue button-down shirt and khaki pants, holding a red water bottle and a yellow notepad. He walks toward the stage during the lecture, speaking to the audience with a friendly demeanor, saying, 'I'm glad you came. It's fun to have guests.'",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with the Young Man with Curly Hair, wearing a blue puffer jacket, eating in a dining hall and speaking directly to the camera in a friendly, conversational tone about eating breakfast where Harvard students do, noting someone working nearby. An upbeat, light background music plays as he transitions to an outdoor campus setting at 10:30 am, walking briskly past a Statue of Historical Figure and a Red-Brick Dormitory Building under overcast skies. He continues to narrate, expressing excitement about attending his first Harvard business class in a 'really nice building' and feeling like 'a little kid seeing the world for the first time.' He then enters a modern lecture hall, sitting beside the Woman in Harvard Sweater, who wears a white sweater with a red 'H' and smiles. The camera pans to a Panel of Speakers on stage, with one speaker welcoming a guest named 'Manny' to applause from the Lecture Hall Audience. The Young Man with Curly Hair then comments on the class topic, 'business and the customer mindset,' as the speaker from the panel advises, 'you should be talking to potential customers... before you build the thing.' The Young Man listens intently, occasionally adjusting his hair, and later expresses surprise at how 'super nice' the professors were. A Man in Blue Shirt walks toward the stage, holding a red water bottle, and says, 'I'm glad you came. It's fun to have guests.' The Young Man reflects on the 'pretty cool' experience of being in an actual Harvard class, feeling the day is 'just getting started,' as the scene ends with a quick, shaky shot of him looking at the camera, followed by a rapid pan to a person in a black puffer jacket walking away, all set to the continuous background music."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 3,
+      "end_minute": 4,
+      "summary": "{\n  \"updated_summary\": \"The Young Man with Curly Hair, holding a camera with a blue light, films himself on a moving bus, initially looking at his phone before smiling at the camera and sitting next to the Woman in Harvard Sweater, who is eating pizza. He gestures animatedly while discussing Harvard students and philosophizing about life being \\\"fake\\\" and \\\"pixels on screen,\\\" prompting laughter from the Woman in Harvard Sweater. The bus travels through an urban landscape with brick buildings. The scene shifts to the Young Man and the Woman, identified as Helen, walking on a lively campus path under overcast skies, with bare trees. The Young Man asks Helen if she's \\\"good,\\\" attributing her state to Harvard and mentioning they just left an \\\"entrepreneurship class.\\\" He inquires about her major, and she replies \\\"Neuroscience.\\\" They pass a Red-Brick Dormitory Building and a building with a Statue of Historical Figure. A YouTube screen recording shows college decision reaction videos, including one for Harvard. Returning to the campus walk, the Young Man questions Helen about her early admission to Harvard at 16. Helen explains graduating high school in three years and strong extracurriculars were key. The Woman in Harvard Sweater checks her phone and laughs as they continue their conversation. Later, the Young Man with Curly Hair, wearing a blue puffer jacket, walks briskly through the campus, passing the Red-Brick Dormitory Building, and asks the camera, \\\"Did you feel like your peers were like smarter than you?\\\" The Woman in Harvard Sweater walks beside him, smiling and glancing at her phone. The scene transitions to an indoor lecture hall where the Young Man is among the Lecture Hall Audience, reacting to a presentation and noting, \\\"next up we went to our second class, which was philosophy.\\\" The camera shows the Man in Blue Shirt, holding a red water bottle and yellow notepad, explaining \\\"utilitarianism\\\" and \\\"horrible things in the name of the greater good.\\\" The Young Man turns to his peers, including the Bearded Male Companion, sharing a laugh, with on-screen text reading 'Damn bro these are smart mof*s'. He invites the Bearded Male Companion into the video; he agrees and states his major is \\\"biomedical engineering,\\\" later confirming he is \\\"transferring to Harvard.\\\" The group exits the lecture hall and walks back outside into the campus environment. The Young Man adjusts his hair and continues engaging with his friends, including the Woman in Harvard Sweater, who is laughing and smiling. He concludes, \\\"My IQ's actually leveling up,\\\" maintaining his vlog-style narrative.\"\nnarrative.\"\n}",
+      "involved_entities": {
+        "Campus Environment": {
+          "description": "An outdoor university setting with bare trees, paved walkways, and historic buildings. The weather is overcast, and the atmosphere is lively with students walking in the background.",
+          "attribute": "visual"
+        },
+        "Woman in Harvard Sweater": {
+          "description": "Wears a white sweater with a red 'H' and has long dark hair. She is seen eating pizza, smiling, laughing, and walking beside the Young Man with Curly Hair, occasionally checking her phone and gesturing while engaged in conversation. Her laughter is part of the lively atmosphere.",
+          "attribute": "audio-visual"
+        },
+        "Red-Brick Dormitory Building": {
+          "description": "A large, ornate red-brick building with multiple windows and dormer-style roofs, typical of Harvard’s campus architecture. The Young Man with Curly Hair and the Woman in Harvard Sweater walk past it during their outdoor campus walk.",
+          "attribute": "visual"
+        },
+        "Statue of Historical Figure": {
+          "description": "A seated bronze statue on a stone pedestal, located in front of a white stone building. The Young Man with Curly Hair walks past it during his campus walk, and the base has an inscription, though it is not clearly legible.",
+          "attribute": "visual"
+        },
+        "Young Man with Curly Hair": {
+          "description": "Wears a blue puffer jacket over a gray shirt, carries a camera with a blue light, and is seen speaking directly to the camera with an energetic and playful demeanor, often smiling or adjusting his curly dark hair. He asks questions like \"Did you feel like your peers were like smarter than you?\" and \"Are you happy?\", reacts with exclamations like \"Really?\" and \"Oh my God!\", and makes comments such as \"Damn bro these are smart mof*s\" (also seen as on-screen text) and \"My IQ's actually leveling up.\" His voice is lively and engaging, maintaining a personal vlog-style narrative.",
+          "attribute": "audio-visual"
+        },
+        "YouTube Screen Recording": {
+          "description": "A screen capture showing search results for college decision reaction videos, including thumbnails of excited students and a Harvard acceptance email. The text includes titles like 'COLLEGE DECISION REACTION 2020-2021' and 'Harvard Short Courses'.",
+          "attribute": "visual"
+        },
+        "Lecture Hall Audience": {
+          "description": "Students seated at white desks with nameplates, some using laptops. The room has green walls and modern lighting, with a large screen at the front. The audience appears attentive and engaged.",
+          "attribute": "visual"
+        },
+        "Bearded Male Companion": {
+          "description": "A man with a beard, wearing a black jacket over a graphic t-shirt, who joins the Young Man with Curly Hair in the lecture hall and shares a laugh with him. He has a friendly voice, confirms he wants to be in the video (\"Yeah, sure\"), states his major as \"biomedical engineering,\" and confirms he is happy in life, also mentioning he is \"transferring to Harvard.\"",
+          "attribute": "audio-visual"
+        },
+        "Man in Blue Shirt": {
+          "description": "Wears a blue button-down shirt and khaki pants, holding a red water bottle and a yellow notepad. He walks toward the stage during the lecture, speaking to the audience with a clear, academic voice, explaining concepts like \"utilitarianism\" and the idea of \"horrible things in the name of the greater good.\"",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video begins with a shaky, first-person perspective inside a moving bus, where the Young Man with Curly Hair, holding a camera with a blue light, looks down at his phone before looking up and playfully smiling at the camera. He then sits next to the Woman in Harvard Sweater, who is eating a slice of pizza and smiling. The Young Man with Curly Hair gestures animatedly while speaking, initially discussing \"Harvard students\" and then launching into a philosophical monologue about life being \"fake\" and merely \"pixels on screen,\" prompting the Woman in Harvard Sweater to laugh and respond. The bus continues moving through an urban environment with brick buildings visible outside. The scene transitions to the Young Man with Curly Hair and the Woman in Harvard Sweater, now identified as Helen, walking outside on a lively campus path under overcast lighting, with bare trees indicating a cool season. The Young Man speaks to the camera, gesturing, and playfully asks Helen if she's \"good,\" suggesting \"this is what Harvard does to students.\" He mentions they just left an \"entrepreneurship class\" and asks Helen about her major, to which she replies \"Neuroscience.\" They walk past a Red-Brick Dormitory Building and a white stone building with a Statue of Historical Figure in the background. The video briefly cuts to a screen recording of YouTube search results for college decision reaction videos, including one titled 'COLLEGE DECISION REACTION 2020-2021 (HARVARD, STANFORD, YALE, PRINCETON...)' with a thumbnail of an excited woman. The video then returns to the campus walk, where the Young Man with Curly Hair, adjusting his hair, continues to question Helen about her early admission to Harvard at 16. Helen explains that graduating high school in three years and her strong extracurriculars were key factors that impressed her admissions officers and interviewer. The Woman in Harvard Sweater checks her phone and laughs as they continue their engaged conversation, with the campus environment bustling around them.",
+        "The Young Man with Curly Hair, wearing a blue puffer jacket, walks briskly through the overcast Campus Environment, passing the Red-Brick Dormitory Building, as he energetically speaks directly to the camera, asking, \"Did you feel like your peers were like smarter than you?\" He's accompanied by the Woman in Harvard Sweater, who walks beside him, smiling and occasionally glancing at her phone, her laughter contributing to the lively atmosphere. The camera's dynamic, handheld motion emphasizes their casual pace. As they approach a building, the scene transitions to an indoor lecture hall where the Young Man with Curly Hair is now seated among the Lecture Hall Audience, looking up and reacting to a presentation, exclaiming \"Really?\" and noting, \"next up we went to our second class, which was philosophy.\" The camera pans to show the Man in Blue Shirt, who, holding a red water bottle and yellow notepad, gestures while speaking to the audience, explaining complex ideas like \"utilitarianism\" and \"horrible things in the name of the greater good.\" The Young Man with Curly Hair turns to his peers, including the Bearded Male Companion, and shares a laugh, with on-screen text reading 'Damn bro these are smart mof*s'. He engages the Bearded Male Companion, asking if he wants to be in the video, to which he replies, \"Yeah, sure,\" and reveals his major is \"biomedical engineering,\" later confirming he's happy and \"transferring to Harvard.\" The group then exits the lecture hall, walking back outside into the campus environment, where the Young Man with Curly Hair adjusts his hair and continues to engage with his friends, including the Woman in Harvard Sweater, who is now seen laughing and smiling. He concludes, \"My IQ's actually leveling up,\" maintaining his personal and immersive vlog-style narrative."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 5,
+      "end_minute": 5,
+      "summary": "The Young Man with Curly Hair, clad in a gray 'San Francisco' sweatshirt and blue puffer jacket, walks through an overcast campus environment, adjusting his curly hair as he explains meeting Vincent, a Harvard student and neuroscience major, for an organic chemistry class after Helen's merch photoshoot. He passes a red-brick dormitory building and a statue of a historical figure before entering a classroom with white desks and fluorescent lighting. Seated next to the Young Man with Glasses, Vincent, who wears a dark jacket over a white turtleneck, the Young Man with Curly Hair listens intently to a lecturer discussing 'arbitrary examples' in the background, occasionally gesturing and using a tablet with a stylus to draw chemical structures, while humorously admitting his struggle with the difficult organic chemistry class. On-screen text overlays like 'Imagine we have two' and 'Bro's fried 💀' appear, mirroring his confusion as Vincent, who seems to grasp the material, glances at the camera amidst a chalkboard filled with chemical equations.",
+      "involved_entities": {
+        "Campus Environment": {
+          "description": "An outdoor university setting with bare trees, paved walkways, and historic red-brick buildings. The weather is overcast, and students are seen walking in the background, creating a lively academic atmosphere.",
+          "attribute": "visual"
+        },
+        "Red-Brick Dormitory Building": {
+          "description": "A large, ornate red-brick building with multiple windows and dormer-style roofs, typical of Harvard’s campus architecture. The Young Man with Curly Hair walks past it during his outdoor campus walk.",
+          "attribute": "visual"
+        },
+        "Statue of Historical Figure": {
+          "description": "A seated bronze statue on a stone pedestal, located in front of a white stone building. The Young Man with Curly Hair walks past it during his campus walk, and the base has an inscription, though it is not clearly legible.",
+          "attribute": "visual"
+        },
+        "Classroom Environment": {
+          "description": "An indoor academic setting with white desks, fluorescent lighting, and a chalkboard filled with chemical equations. Students are seated, some using tablets, and the atmosphere is focused yet casual.",
+          "attribute": "visual"
+        },
+        "Young Man with Curly Hair": {
+          "description": "Wears a gray 'San Francisco' sweatshirt over a blue puffer jacket, carries a backpack, and is seen walking through campus, then sitting in a classroom. He gestures, smiles, and uses a tablet with a stylus to draw chemical structures. His curly dark hair is prominent, and he appears engaged and playful. He narrates the events, explaining he met Vincent for an organic chemistry class, expresses his struggle and confusion with the class, and makes humorous commentary.",
+          "attribute": "audio-visual"
+        },
+        "Young Man with Glasses": {
+          "description": "Named Vincent, he wears a dark jacket over a white turtleneck and glasses, sitting beside the Young Man with Curly Hair in a classroom. He listens attentively, occasionally glancing at the camera, and appears focused on the lecture. He identifies himself as a neuroscience major and seems to understand the complex organic chemistry lecture.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with the Young Man with Curly Hair, wearing a gray 'San Francisco' sweatshirt over a blue puffer jacket, walking through an overcast campus environment. He smiles and adjusts his prominent curly hair while narrating, explaining that after Helen finished her classes and went to a merch photoshoot for her YouTube channel, he met up with another Harvard student, Vincent, for an organic chemistry class. He passes a red-brick dormitory building and a statue of a historical figure before the scene transitions indoors. In a classroom with white desks and fluorescent lighting, the Young Man with Curly Hair sits beside the Young Man with Glasses, Vincent, who wears a dark jacket over a white turtleneck and appears engaged. The Young Man with Curly Hair introduces Vincent, who clarifies he is a neuroscience major, not pre-med, prompting the Young Man with Curly Hair to express admiration for his intelligence. As a lecturer's voice is heard in the background discussing 'arbitrary examples,' the Young Man with Curly Hair listens intently, occasionally gesturing or resting his chin thoughtfully, using a tablet with a stylus to draw chemical structures, indicating a chemistry class. He humorously comments on the extreme difficulty of the organic chemistry class, feeling completely lost, while Vincent seems to understand everything. On-screen text overlays appear, including 'Imagine we have two' and 'Bro's fried 💀', reflecting the Young Man with Curly Hair's struggle and the lecture content. The chalkboard behind them is filled with chemical equations, and Vincent occasionally glances at the camera, both students appearing focused yet relaxed amidst the academic setting."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 6,
+      "end_minute": 6,
+      "summary": "Vincent, a young man with curly hair wearing a blue puffer jacket and a 'San Francisco' sweatshirt, initially appears confused in a modern indoor space with a skeletal exhibit, stating they just finished organic chemistry. The scene shifts to a bright, outdoor campus environment where Vincent walks with a young man wearing glasses and a dark jacket over a white turtleneck, passing a red-brick dormitory building. The Young Man with Glasses mentions struggling in the class daily, and Vincent agrees about the 'tough life out here,' later revealing his philosophy to 'treat every day as a blessing' and expressing gratitude for being 'extremely blessed and lucky' to attend Harvard. Inside a classroom with white desks and fluorescent lighting, Vincent is seen drawing chemical structures on a tablet for 'Orgo homework,' while the Young Man with Glasses listens attentively amidst students using laptops and a chalkboard filled with equations. A narrator mentions Vincent's roommate playing Madden while Vincent completed his homework in his dorm. The video concludes with a close-up of Vincent smiling at the camera, illuminated by purple LED ceiling lights, as a voice questions, 'What is this? 1+1 is 2.'",
+      "involved_entities": {
+        "Campus Environment": {
+          "description": "An outdoor university setting with bare trees, paved walkways, and historic red-brick buildings. The weather is sunny with a bright blue sky and scattered clouds, creating a lively and vibrant academic atmosphere, where students discuss challenging courses like organic chemistry and the difficulty of getting into Harvard.",
+          "attribute": "audio-visual"
+        },
+        "Red-Brick Dormitory Building": {
+          "description": "A large, ornate red-brick building with multiple windows and dormer-style roofs, typical of Harvard’s campus architecture. The Young Man with Curly Hair walks past it during his outdoor campus walk, and it is later referred to as 'his dorm' (Vincent's dorm).",
+          "attribute": "audio-visual"
+        },
+        "Classroom Environment": {
+          "description": "An indoor academic setting with white desks, fluorescent lighting, and a chalkboard filled with chemical equations. Students are seated, some using tablets, and the atmosphere is focused yet casual, serving as a space for organic chemistry studies and discussions about neuroscience.",
+          "attribute": "audio-visual"
+        },
+        "Young Man with Curly Hair": {
+          "description": "Wears a gray 'San Francisco' sweatshirt over a blue puffer jacket, carries a backpack, and is seen walking through campus, then sitting in a classroom. He gestures, smiles, and uses a tablet with a stylus to draw chemical structures. His curly dark hair is prominent, and he appears engaged and playful. He is identified as Vincent, expresses confusion about organic chemistry, believes he is 'extremely blessed and lucky' to be at Harvard, and advocates for treating every day as a blessing. He is later seen doing 'Orgo homework' in his dorm.",
+          "attribute": "audio-visual"
+        },
+        "Young Man with Glasses": {
+          "description": "Wears a dark jacket over a white turtleneck and glasses, sitting beside the Young Man with Curly Hair in a classroom. He listens attentively, occasionally glancing at the camera, and appears focused on the lecture. He is a neuroscience major who studies brains, finds Harvard challenging, and was 'cooked' by organic chemistry. He is possibly Vincent's roommate, playing Madden while Vincent studies.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with the Young Man with Curly Hair, identified as Vincent, wearing a blue puffer jacket over a gray 'San Francisco' sweatshirt and carrying a backpack, walking through a modern indoor space with high ceilings and glass railings, where a large skeletal exhibit is visible. He looks up and smiles playfully, immediately stating, \"Oh, we just got out of the organic chemistry,\" expressing his confusion despite being a \"smart guy.\" The scene transitions to an outdoor campus setting under a bright blue sky, where Vincent walks alongside the Young Man with Glasses, who wears a dark jacket over a white turtleneck. They walk past a large red-brick dormitory building, typical of Harvard’s campus architecture, as Vincent gestures animatedly and the Young Man with Glasses listens, occasionally glancing at the camera. The Young Man with Glasses adds that he's \"cooked in that class every day,\" and Vincent agrees it's a \"tough life out here.\" Their conversation continues, with the Young Man with Glasses revealing he's a neuroscience major who studies brains, and they discuss the difficulty of getting into Harvard, which Vincent describes as being \"extremely blessed and lucky\" to attend. Vincent then shares his philosophy, advising to \"treat every day as a blessing.\" The camera captures dynamic, handheld movements throughout their walk. The scene then shifts indoors to a classroom with white desks and fluorescent lighting, where Vincent is seated, using a tablet with a stylus to draw chemical structures, which he refers to as \"Orgo homework.\" The Young Man with Glasses sits beside him, listening attentively, while a chalkboard filled with equations and other students using laptops are visible in the background. A narrator confirms, \"And then Vincent took me to his dorm and his roommate was playing Madden while he did his Orgo homework.\" The video ends with a close-up of Vincent smiling at the camera, with purple LED lights visible along the ceiling, as a voice lightheartedly questions, \"What is this? 1+1 is 2.\""
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 7,
+      "end_minute": 8,
+      "summary": "The Young Man with Curly Hair, initially indoors under purple LEDs and a 'Tweetbot for iOS' banner, recites a math problem, \"2+2?\" and \"Minus 1?\" before admitting it took him a few seconds. A man in a gray jacket with a tablet on a couch sings the solution, \"2+2 is 4, minus 1 that's 3 quick facts,\" a phrase echoed by a man in a leopard-print jacket and headphones in a BBC Radio 1Xtra studio. Returning outdoors on a bright campus with red-brick buildings, the Young Man with Curly Hair expresses surprise at pre-med students' demeanor and announces an upcoming \"exclusive Harvard dorm tour.\" He walks and laughs with the Woman in Harvard Sweater, initially expecting Harvard students to wear suits, but she questions the practicality of such attire for regular classes. They enter the dimly lit Widener Library, characterized by tall bookshelves, where she mentions a tradition of \"the deed\" occurring there. The Young Man, looking up through the stacks, asks if he can see it afterwards, to which she playfully refuses, \"I'm not bringing you to the stacks.\" He insists on just wanting to see, concluding, \"Apparently, this is where like the deed is done.\" Later, the Young Man with Curly Hair, now in a blue puffer jacket, walks through a dimly lit library corridor, discussing \"Harvard University\" and a tradition where \"the lights turn on,\" while the Woman in Harvard Sweater notes \"no one's here\" and \"where to hide,\" and he makes an \"Ew\" sound about \"Harvard scholars acting up.\" In a grand library reading room, the Young Man, in a gray sweatshirt, and the Woman in Harvard Sweater, with a Harvard-stickered laptop, are seated at a table; he explains they are studying because she is a Harvard student and it's the \"quietest library\" he's encountered, whispering about not being able to talk or cough while she works. The scene shifts to a brightly lit gym, where the Young Man announces they visited \"one of the Harvard gyms\" and humorously observes the Woman in Harvard Sweater \"struggling\" during her workout.",
+      "involved_entities": {
+        "Campus Environment": {
+          "description": "An outdoor university setting with bare trees, paved walkways, and historic red-brick buildings. The weather is bright with a blue sky and scattered clouds, creating a lively academic atmosphere.",
+          "attribute": "visual"
+        },
+        "Man in Radio Studio": {
+          "description": "Wears a leopard-print jacket, black headphones, and a black cap, speaking into a BBC Radio 1Xtra microphone in a professional studio setting. He is heard reciting the '2+2 is 4, minus 1 that's 3 quick maths' line, mimicking a song.",
+          "attribute": "audio-visual"
+        },
+        "Man in Gray Jacket with Tablet": {
+          "description": "Wears a gray jacket over a white turtleneck and glasses, sitting on a couch indoors, holding a tablet and stylus. He is heard singing/reciting the '2+2 is 4, minus 1 that's 3 quick facts' song, which is also displayed as a text overlay.",
+          "attribute": "audio-visual"
+        },
+        "Library Interior": {
+          "description": "A dimly lit, narrow corridor lined with tall bookshelves, and later a grand reading room with high arched ceilings, large windows, and ornate architectural details. The Young Man describes it as the \"quietest library\" he's ever been to, leading him to whisper.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Harvard Sweater": {
+          "description": "Wears a white sweater with a red 'H' and has long dark hair. She is seated at a wooden table in the grand library reading room, focused on her laptop covered in stickers, including a Harvard logo, and occasionally looks up and smiles. Audibly, she briefly interjects at the beginning, discussing \"no one's here\" and \"where to hide\" in relation to a tradition, and is identified by the Young Man as a \"Harvard student\" who is \"struggling\" during her gym workout.",
+          "attribute": "audio-visual"
+        },
+        "Red-Brick Dormitory Building": {
+          "description": "A large, ornate red-brick building with multiple windows and dormer-style roofs, visible in the background during the outdoor campus walk.",
+          "attribute": "visual"
+        },
+        "Young Man with Curly Hair": {
+          "description": "Wears a blue puffer jacket over a gray shirt in the library corridor, then a gray sweatshirt with 'San Francisco' printed on it in the reading room and gym. He is seen smiling, walking, gesturing, and speaking animatedly to the camera, acting as the primary narrator. He discusses \"Harvard University\" and its traditions, describes the library as the \"quietest\" he's visited, whispers to avoid disturbing others, and later announces their visit to \"one of the Harvard gyms,\" humorously commenting on the Woman in Harvard Sweater's workout struggles.",
+          "attribute": "audio-visual"
+        },
+        "Gym Environment": {
+          "description": "A brightly lit indoor gym with exercise equipment, white walls, and a ceiling with ventilation grates. The Young Man explicitly states they are at \"one of the Harvard gyms.\"",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of the Young Man with Curly Hair, wearing a blue puffer jacket, smiling indoors amidst purple LED lights and a 'Tweetbot for iOS' banner, as he is heard asking \"2+2?\" and \"Minus 1?\" before commenting, \"Bro, that shit took me a few seconds to be honest.\" The scene quickly shifts to a man in a gray jacket and glasses on a couch, holding a tablet, with a text overlay \"You know that's a song,\" as he sings, \"2+2 is 4, minus 1 that's 3 quick facts.\" This transitions to a man in a leopard-print jacket and headphones in a BBC Radio 1Xtra studio, also reciting, \"2+2 is 4, minus 1 that's 3 quick maths.\" The Young Man with Curly Hair then returns, now outdoors on a bright campus with bare trees and red-brick buildings, narrating, \"Yeah, I wasn't aware that pre-med students were chill like that,\" and announcing an upcoming \"exclusive Harvard dorm tour.\" He is joined by the Woman in Harvard Sweater, and as they walk, laugh, and gesture, he expresses surprise, \"I don't know why, but I expected like Harvard students to like be in suits,\" to which she replies, \"Dude, they're definitely some in suits,\" and questions, \"Well, like why would we like walk in suits like to class on a regular basis?\" They then enter a dimly lit library with tall bookshelves, where the Woman in Harvard Sweater describes it as \"Widener Library, right? Endless stacks of books,\" and reveals, \"it's a tradition for some people to do the deed in there.\" The Young Man, smiling and looking up through the stacks, asks, \"Really?\" and then, \"Can I see it afterwards?\" to which she playfully refuses, \"I'm not bringing you to the stacks.\" He insists, \"No, I just wanna see,\" before concluding, \"Apparently, this is where like the deed is done.\"",
+        "The video begins with a dynamic, handheld shot moving through a dimly lit, narrow library corridor lined with tall bookshelves. The Young Man with Curly Hair, wearing a blue puffer jacket over a gray shirt, walks through, smiling and looking around, occasionally glancing up at the ceiling. He audibly discusses \"Harvard University\" and a tradition where \"the lights turn on,\" with the Woman in Harvard Sweater interjecting about \"no one's here\" and \"where to hide.\" He then makes an \"Ew\" sound, commenting on \"Harvard scholars acting up.\" The camera transitions to a grand, spacious library reading room where the Young Man, now in a gray sweatshirt with 'San Francisco' printed on it, and the Woman in Harvard Sweater, wearing a white sweater with a red 'H' and focused on her Harvard-stickered laptop, are seated at a wooden table. The Young Man explains to the camera that they came to the library to study because \"she's a Harvard student,\" noting it's the \"quietest library\" he's ever been to. He then whispers, \"she's working right now. I can't talk right now,\" and \"I can't even cough,\" confirming her Harvard affiliation. The scene shifts again to a brightly lit gym environment, where the Young Man, still in the gray sweatshirt, walks toward the camera with a smile, announcing they went to \"one of the Harvard gyms\" and humorously observing the Woman in Harvard Sweater \"struggling\" while working out."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 9,
+      "end_minute": 9,
+      "summary": "The Young Man with Curly Hair, wearing a gray t-shirt and pink shorts, is in a brightly lit gym, interacting with a woman adjusting a weight bench and humorously remarking about editing workout reps. He then narrates their transition to a local restaurant near Harvard for food, noting the workout was good. The scene shifts to an outdoor night shot of a brick building with a 'BIG' sign, followed by Vincent entering a warmly lit restaurant. Now in a blue puffer jacket, he identifies the restaurant as 'Dig,' explaining it's a typical dining spot. The Woman in Harvard Sweater, seated at a wooden table with a meal, smiles and agrees, mentioning they opted out of the 'D-hall' due to the decent price and portion size. Vincent then states his intention to eat. At 9:30 pm, the video moves to a dimly lit, purple-lit room, identified as Vincent's dorm, where he gives a tour. Vincent, now in a 'San Francisco' sweatshirt, laughs and interacts with the Young Man with Glasses, who is wearing an 'OHIO STATE' sweatshirt. The Young Man with Glasses comments on the amount of water, to which Vincent replies about staying hydrated. Vincent humorously references a Kim Jong Un poster, saying, \"Just a friendly reminder to live, laugh, and love.\" The Young Man with Glasses responds, agreeing and debating the authenticity of a quote attributed to a satirical Mahatma Gandhi poster. Vincent suggests historical figures likely said many things, before the Young Man with Glasses attempts to quote the Gandhi poster again.",
+      "involved_entities": {
+        "Kim Jong Un Poster": {
+          "description": "A large poster on the wall featuring a smiling Kim Jong Un with the text 'Live, Laugh, Love - Kim Jong Un' in white cursive font, adding a comedic and irreverent element to the room's decor.",
+          "attribute": "visual"
+        },
+        "Purple-Lit Room Environment": {
+          "description": "A dimly lit, cozy room with purple LED strip lighting, featuring a coffee table with drinks and snacks, and humorous posters. It is identified by Vincent as his 'dorm', reinforcing the casual and fun atmosphere.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Harvard Sweater": {
+          "description": "Wears a white sweater with a large red 'H' and has long dark hair. She is seated at a wooden table in a restaurant, holding a meal, and looks up at the camera with a smile. She speaks about the restaurant being 'decently priced' and preferring it over the 'D-hall'.",
+          "attribute": "audio-visual"
+        },
+        "Mahatma Gandhi Poster": {
+          "description": "A black banner with a grayscale image of Mahatma Gandhi and the quote 'And if you ain't a hoe get up out my trap house' – attributed to him, creating a humorous and satirical statement in the room's decor.",
+          "attribute": "visual"
+        },
+        "Young Man with Curly Hair": {
+          "description": "Now identified as 'Vincent', he is the primary narrator, speaking about gym reps, editing, the 'Dig' restaurant, and giving a tour of his dorm. He wears a gray t-shirt and pink shorts in the gym, a blue puffer jacket over a gray shirt in the restaurant, and a gray sweatshirt with 'San Francisco' printed on it in his purple-lit dorm, where he also references the 'Live, Laugh, Love' Kim Jong Un poster.",
+          "attribute": "audio-visual"
+        },
+        "Young Man with Glasses": {
+          "description": "Wears a gray sweatshirt with 'OHIO STATE' in red letters and glasses. He is seen laughing and interacting with Vincent in the purple-lit dorm, observing 'a lot of water' and debating the authenticity of the satirical Mahatma Gandhi quote, which he then attempts to recite.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a brightly lit gym where Vincent, the Young Man with Curly Hair, in a gray t-shirt and pink shorts, interacts with a woman adjusting a weight bench. Vincent's voice is heard saying, \"It's fine, bro. We want the good rep,\" and playfully adding, \"I'll just edit the part where it's good. Psych!\" He then narrates, \"And after the gym, we went to go get some food at one of the local restaurants around Harvard,\" noting, \"And the food was looking pretty good. Gym is done. That was a good workout.\" The scene transitions to an outdoor night shot of a brick building with a 'BIG' sign, before Vincent enters a warmly lit restaurant. Now in a blue puffer jacket, he speaks to the camera, narrating, \"And right now we're eating. It's called Dig. Not Dip, sorry,\" explaining, \"This is like a typical, so like if you're, you know, trying to go out, this is typically like where they eat.\" The camera pans to the Woman in Harvard Sweater, seated at a wooden table with a meal, who smiles and adds, \"Yeah, if you like, we did not want to go to the D-hall. It's like decently priced given how much they give you, so.\" Vincent concludes, \"All right, I'm gonna start munching on it.\" As the time stamp '9:30pm' appears, the video shifts to a dimly lit, purple-lit room, identified by Vincent's narration as \"Vincent's dorm,\" where he gave a \"very special tour.\" Vincent, now in a 'San Francisco' sweatshirt, laughs and interacts with the Young Man with Glasses, wearing an 'OHIO STATE' sweatshirt. The Young Man with Glasses observes, \"A lot of water, man, I'm noticing,\" to which Vincent replies, \"We like to stay hydrated,\" amidst laughter. Referencing the humorous Kim Jong Un poster, Vincent quips, \"Just a friendly reminder to live, laugh, and love.\" The Young Man with Glasses responds, \"I agree, man, you know, I'm debating if he actually said that, but I'm gonna go with the flow,\" referring to the satirical Mahatma Gandhi poster. Vincent adds, \"I think you can quote anyone in history and they probably said it one time or another,\" before the Young Man with Glasses attempts to quote the poster again, \"If you ain't a, a, a word, get up out...\""
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 10,
+      "end_minute": 12,
+      "summary": "{\n  \"updated_summary\": \"In a purple-lit room, the Young Man with Curly Hair jokingly tells someone to \\\"get up out my trap house\\\" and discusses \\\"Gandhi\\\" informally. He then comments on a cluttered kitchen area, calling it \\\"the most like college kitchen I've ever seen,\\\" while interacting with another young man who claims they \\\"stole it from Yale, freshman year.\\\" They move through a hallway with a 'BARTENDER'S GUIDE' poster, where the second young man recounts running \\\"for two miles to make the shuttle back to Harvard\\\" after grabbing something. In a bedroom decorated with a green 'PLASTERED' banner and a stained blanket, the Young Man with Curly Hair, now in a gray sweatshirt, expresses surprise, \\\"What? You ran with that?\\\" and gestures animatedly, demonstrating running. The other young man adds they \\\"broke\\\" something while sledding with it, leading the Young Man with Curly Hair to remark, \\\"I can see that you guys stole that actually,\\\" to which the other replies they \\\"give it a home\\\" because it was \\\"just lying around on our campus.\\\" The scene shifts to the Young Man with Glasses, introduced as \\\"Vincent,\\\" who describes his \\\"smallest room in my suite\\\" as \\\"the most cozy thing I've ever procured or cultivated in my life.\\\" The Woman in Harvard Sweater confirms that dorm rooms are \\\"bigger\\\" than the quad, despite not wanting to be there. Later, the Young Man with Glasses, wearing a gray 'OHIO STATE' sweatshirt, animatedly discusses his music and \\\"plastered\\\" activities, holding up a bottle of \\\"Basil Hayden\\\" and humorously denying \\\"magic\\\" in his room, despite a purple pillow and on-screen text suggesting otherwise. He also mentions living in Mark Zuckerberg's freshman dorm, expressing disbelief and recalling watching \\\"The Social Network.\\\" A younger version of the Young Man with Glasses appears briefly with a red cup, captioned \\\"(Not his dorm lol).\\\" The Woman in the white Harvard sweater adds a warm gesture toward the camera amidst upbeat background music.\"\nupbeat background music.\"\nbeat background music.\"\n}",
+      "involved_entities": {
+        "Bartender's Guide Poster": {
+          "description": "A large poster on the wall displaying various cocktails and drink recipes, titled 'BARTENDER'S GUIDE', adding a thematic element to the hallway decor.",
+          "attribute": "visual"
+        },
+        "Bedroom Decor": {
+          "description": "A bedroom with a bed covered in a stained blanket, a large photo of a cheering crowd, a dreamcatcher near the window, and a closet with hanging clothes, contributing to a lived-in, personalized dorm atmosphere.",
+          "attribute": "visual"
+        },
+        "Woman in Harvard Sweater": {
+          "description": "Wears a white sweater with a large red 'H', has long dark hair pulled back, and briefly appears smiling warmly while gesturing toward the camera, adding a moment of warmth and connection to the scene.",
+          "attribute": "visual"
+        },
+        "Plastered Banner": {
+          "description": "A green banner with a cartoon image of six beer cans and a red flag, with the word 'PLASTERED' in bold white letters, hanging prominently on the bedroom wall.",
+          "attribute": "visual"
+        },
+        "Young Man with Curly Hair": {
+          "description": "Wears a gray sweatshirt and speaks directly to the camera in a purple-lit room, jokingly telling someone to 'get up out my trap house,' and later reacts with surprise, 'What? You ran with that?' while demonstrating running in a bedroom adorned with posters.",
+          "attribute": "audio-visual"
+        },
+        "Young Man with Glasses": {
+          "description": "Wears a gray 'OHIO STATE' sweatshirt and glasses, speaking animatedly and energetically in a bedroom with purple LED lighting. He narrates a story with an excited, surprised, and sometimes reflective tone, discussing his changed perception of Harvard University, his experience as a college dropout, and his personal connection to Mark Zuckerberg's freshman dorm room, using phrases like 'No way!' and 'Damn, that's crazy, really?'",
+          "attribute": "audio-visual"
+        },
+        "Kim Jong Un Poster": {
+          "description": "A large poster on the wall featuring a smiling Kim Jong Un with the text 'Live, Laugh, Love - Kim Jong Un' in white cursive font, adding a comedic and irreverent element to the room's decor.",
+          "attribute": "visual"
+        },
+        "Purple-Lit Room Environment": {
+          "description": "A dimly lit, cozy room with purple LED strip lighting along the ceiling, featuring a coffee table with drinks and snacks, and humorous posters on the walls, including one of Kim Jong Un and another of Mahatma Gandhi with a satirical quote. The atmosphere is casual and fun, suggesting a dorm or lounge space.",
+          "attribute": "visual"
+        },
+        "Mahatma Gandhi Poster": {
+          "description": "A black banner with a grayscale image of Mahatma Gandhi and the quote 'And if you ain't a hoe get up out my trap house' – attributed to him, creating a humorous and satirical statement in the room's decor.",
+          "attribute": "visual"
+        },
+        "Younger Version of Young Man with Glasses": {
+          "description": "Appears in a flashback scene, wearing a white t-shirt and sitting on a couch with a red cup, looking surprised or excited. A caption reads '(Not his dorm lol)', indicating this is not the current setting and adding a humorous contrast to the present-day narrative.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up, low-angle shot of the Young Man with Curly Hair, who, in a room illuminated by purple LED strip lighting, speaks directly to the camera, jokingly telling someone to \"get up out my trap house.\" He then responds to an off-camera question about \"Gandhi,\" suggesting a lighthearted, informal conversation. As the camera quickly pans around, revealing a cluttered kitchen area with a metal shelf, dishes, a water dispenser, and red plastic cups, the Young Man with Curly Hair comments on it being \"the most like college kitchen I've ever seen.\" He moves through the space, interacting with another young man wearing a gray 'PACIFIC SUNWEAR SERVICE STATION' t-shirt and patterned shorts, who explains they \"stole it from Yale, freshman year.\" The camera follows them as they move through a hallway with a 'BARTENDER'S GUIDE' poster on the wall, while the young man in the 'PACIFIC SUNWEAR' shirt animatedly recounts how they \"literally ran for two miles to make the shuttle back to Harvard\" after grabbing something. They enter a bedroom decorated with a green 'PLASTERED' banner, a large photo of a cheering crowd, and a bed with a stained blanket. Here, the Young Man with Curly Hair, now wearing a gray sweatshirt, reacts with surprise, \"What? You ran with that?\" and gestures animatedly while demonstrating running with it. The other young man adds that there was a \"second half that we broke while sledding with it,\" prompting the Young Man with Curly Hair to remark, \"I can see that you guys stole that actually,\" to which the other young man casually replies it was \"just lying around on our campus\" and they decided to \"give it a home.\" The scene shifts to a different room where the Young Man with Glasses, wearing a gray 'OHIO STATE' sweatshirt and glasses, is introduced by the Young Man with Curly Hair as \"Vincent\" for a tour. Vincent, laughing and gesturing energetically, greets the camera, \"What's up, guys?\" and then describes his room as \"the smallest room in my suite\" but proudly declares it \"the most cozy thing I've ever procured or cultivated in my life.\" An off-camera voice asks if this is \"the regular dorm size of like Harvard.\" The camera then cuts to the Woman in Harvard Sweater, who smiles warmly at the camera from a doorway, her dark hair pulled back and wearing a delicate necklace, as she confirms, \"Like yes, but even though we don't want to be in the quad, the rooms are bigger.\" The overall atmosphere is casual, playful, and dorm-like, with a mix of personal decor and social interaction.",
+        "The minute opens with a rapid, shaky pan across a bedroom wall adorned with colorful posters, including a prominent green 'PLASTERED' banner featuring six beer cans and a red flag, and a large photo of a cheering crowd. A male voice is heard saying, \"Yeah, gotta respect it,\" followed by the Young Man with Glasses, wearing a gray 'OHIO STATE' sweatshirt and glasses, animatedly stating, \"I just like his music. And plastered, what I do every weekend. Just kidding,\" directly referencing the banner. He continues to speak and gesture energetically in the room, which is decorated with a bed covered in a stained blanket, a dreamcatcher near the window, and a closet. Amidst laughter and energetic male voices exclaiming \"Let's go! We have fun!\", the Young Man picks up a bottle, appearing to be a spirit, and holds it up while talking, his expression lively. He humorously discusses \"premium water,\" then clarifies, \"The water that I like the most is uh, Basil Hayden.\" Another male voice questions him, \"why are you repping Ohio State when you go to Harvard?\", to which the Young Man responds, \"that's my place.\" He then points to his bed, declaring, \"This is it. This is where I sleep.\" At one point, a Woman in Harvard Sweater briefly appears in the background, smiling. As on-screen text appears, reading 'For the magic ✨😈' and 'Magic ✨😈 is gonna happen to me', another voice playfully asks, \"So this is where the magic happens?\", prompting laughter and the Young Man's repeated denial, \"No magic! There's no magic!\" He then proudly presents his \"biggest flex,\" a purple pillow, which another voice links to \"extra comfort for the magic,\" again met with the Young Man's laughing refutation. The Young Man later holds a white box and a small bottle, offering a \"whiff\" of the bottle to another person, who reacts with interest. The warm, casual lighting, with a purple glow from LED strips, enhances the playful and energetic atmosphere of his lighthearted monologue.",
+        "The video opens with the Young Man with Glasses, wearing a gray 'OHIO STATE' sweatshirt and glasses, energetically narrating a story in his vibrantly decorated bedroom, which features purple LED lighting, a 'PLASTERED' banner, a 'BARTENDER'S GUIDE' poster, and humorous wall art including Kim Jong Un and Mahatma Gandhi posters. He gestures expressively, looking up and around, as he recounts an experience, stating, \"It's it's it's a step in the process. The sleeping salary alone.\" He then expresses his changed perception of Harvard University, saying, \"Thanks for the tour, man. This is really makes me think differently of Harvard University.\" A text overlay appears, 'Magic ✨ happened at Harvard', as he discusses whether 'magic happened at Harvard' and admits, \"No, there's no magic.\" He reflects on his perspective as a college dropout, finding it hard to imagine college now. The conversation shifts to Mark Zuckerberg, with the Young Man excitedly confirming, \"Yeah, I'm the friend! No way! Yeah, I lived in Mark Zuckerberg's dorm. Mark, Mark, very good.\" He expresses disbelief, \"Damn, that's crazy, really? You actually lived in the same building as him?\" and then, with even more surprise, \"Same room! Really? You know, I've actually watched The Social Network.\" He clarifies Zuckerberg's dorm was his freshman dorm, not where he was as a sophomore. The camera briefly cuts to a younger version of the same man in a white t-shirt, sitting on a couch with a red cup, with the caption '(Not his dorm lol)', providing a humorous flashback before returning to the present. The Young Man continues his animated storytelling, explaining how he discovered he lived in Zuckerberg's dorm during a freshman year room tour, concluding, \"I'm like, 'Oh, really? That's crazy.' And I'm like, 'Wait, let me rewind, what dorm are they actually showing?'\" The scene then shifts to a Woman in a white Harvard sweater, who smiles warmly and gestures toward the camera, adding a moment of warmth and connection, all set against the backdrop of the personalized, youthfully eclectic dorm room with warm lighting and purple accents, accompanied by upbeat background music throughout."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 13,
+      "end_minute": 13,
+      "summary": "In a dimly lit, purple LED-lit room, the Young Man with Curly Hair, wearing a gray sweatshirt and a RODE microphone, addresses the camera, identifying the space as his \"actual room.\" He then moves to an outdoor campus environment, passing a Red-Brick Dormitory Building and a Statue of Historical Figure under a bright sky, explaining that his \"perspective on Harvard 100% changed\" after interacting with \"Helen and Vincent.\" Subsequently, within a grand Library Interior, he sits with the Woman in Harvard Sweater, who smiles as he gestures towards her, presumably the \"Helen\" he referenced. Returning to his bedroom, now clad in a gray 'OHIO STATE' sweatshirt, he animatedly gestures amidst humorous decor, including a Bartender's Guide Poster, a Kim Jong Un Poster, a Mahatma Gandhi Poster, and a Plastered Banner. He engages with the Young Man with Glasses, also in an 'OHIO STATE' sweatshirt, sharing laughter as the Young Man with Curly Hair recounts arriving to class \"literally looking like this. My pajama pants on,\" and asserting that Harvard students are \"just humans.\" He humorously claims, \"Helen's a robot actually,\" prompting a surprised \"Wait what?\" and \"She's a robot?\" from the Young Man with Glasses. The video concludes with a close-up of the Young Man with Glasses, a 'Subscribe' text overlay, and the sound of a siren.",
+      "involved_entities": {
+        "Campus Environment": {
+          "description": "An outdoor university setting with bare trees, paved walkways, and historic red-brick buildings. The weather is bright with a blue sky and scattered clouds, creating a lively academic atmosphere.",
+          "attribute": "visual"
+        },
+        "Statue of Historical Figure": {
+          "description": "A seated bronze statue on a stone pedestal, located in front of a white stone building. The Young Man with Curly Hair walks past it during his campus walk, and the base has an inscription, though it is not clearly legible.",
+          "attribute": "visual"
+        },
+        "Bartender's Guide Poster": {
+          "description": "A large poster on the wall displaying various cocktails and drink recipes, titled 'BARTENDER'S GUIDE', adding a thematic element to the hallway decor.",
+          "attribute": "visual"
+        },
+        "Library Interior": {
+          "description": "A grand reading room with high arched ceilings, large windows, ornate architectural details, wooden tables, and lamps, filled with students studying. The Young Man with Curly Hair and the Woman in Harvard Sweater are seated together here.",
+          "attribute": "visual"
+        },
+        "Purple-Lit Room Environment": {
+          "description": "A dimly lit, cozy room with purple LED strip lighting along the ceiling, featuring a coffee table with drinks and snacks, and humorous posters on the walls, including one of Kim Jong Un and another of Mahatma Gandhi with a satirical quote. The atmosphere is casual and fun, suggesting a dorm or lounge space.",
+          "attribute": "visual"
+        },
+        "Kim Jong Un Poster": {
+          "description": "A large poster on the wall featuring a smiling Kim Jong Un with the text 'Live, Laugh, Love - Kim Jong Un' in white cursive font, adding a comedic and irreverent element to the room's decor.",
+          "attribute": "visual"
+        },
+        "Woman in Harvard Sweater": {
+          "description": "Wears a white sweater with a large red 'H', has long dark hair pulled back, and briefly appears smiling warmly while gesturing toward the camera. She is identified as 'Helen' by the Young Man with Curly Hair, who jokingly refers to her as 'a robot.'",
+          "attribute": "audio-visual"
+        },
+        "Mahatma Gandhi Poster": {
+          "description": "A black banner with a grayscale image of Mahatma Gandhi and the quote 'And if you ain't a hoe get up out my trap house' – attributed to him, creating a humorous and satirical statement in the room's decor.",
+          "attribute": "visual"
+        },
+        "Red-Brick Dormitory Building": {
+          "description": "A large, ornate red-brick building with multiple windows and dormer-style roofs, visible in the background during the outdoor campus walk.",
+          "attribute": "visual"
+        },
+        "Bedroom Decor": {
+          "description": "A bedroom with a bed covered in a stained blanket, a large photo of a cheering crowd, a dreamcatcher near the window, and a closet with hanging clothes, contributing to a lived-in, personalized dorm atmosphere.",
+          "attribute": "visual"
+        },
+        "Plastered Banner": {
+          "description": "A green banner with a cartoon image of six beer cans and a red flag, with the word 'PLASTERED' in bold white letters, hanging prominently on the bedroom wall.",
+          "attribute": "visual"
+        },
+        "Young Man with Curly Hair": {
+          "description": "Wears a gray sweatshirt and a RODE microphone, speaking directly to the camera in a purple-lit room, later seen gesturing animatedly in a bedroom with various posters and decor, including a Bartender's Guide Poster, a Kim Jong Un Poster, a Mahatma Gandhi Poster, and a Plastered Banner. He also appears in a gray 'OHIO STATE' sweatshirt during the latter part of the video, speaking energetically and interacting with another person. He expresses his changed perspective on Harvard, mentions hanging out with 'Helen and Vincent,' and jokes that 'Helen's a robot.' He also states he's 'shown up class literally looking like this. My pajama pants on,' and discusses Harvard vs. Ohio State.",
+          "attribute": "audio-visual"
+        },
+        "Young Man with Glasses": {
+          "description": "Wears a gray 'OHIO STATE' sweatshirt with red lettering and glasses, speaking animatedly in a bedroom with purple LED lighting, gesturing expressively, and occasionally looking upward or toward the camera. He appears to be narrating a story with enthusiasm, shifting between energetic and reflective expressions. He reacts with laughter and surprise, asking 'Wait what?' and 'She's a robot?' in response to the Young Man with Curly Hair's joke about Helen.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with the Young Man with Curly Hair, wearing a gray sweatshirt and a RODE microphone, speaking directly to the camera in a dimly lit, purple LED-lit room, stating, \"that's my actual room.\" He then transitions to an outdoor campus setting, walking past a Red-Brick Dormitory Building and a Statue of Historical Figure under a bright sky, reflecting on how his \"perspective on Harvard 100% changed\" after hanging out with \"Helen and Vincent.\" He appears in a grand Library Interior, sitting beside the Woman in Harvard Sweater, who smiles warmly as he gestures towards her, likely the \"Helen\" he mentioned. Back in his bedroom, now in a gray 'OHIO STATE' sweatshirt, he energetically gestures amidst humorous decor including a Bartender's Guide Poster, a Kim Jong Un Poster, a Mahatma Gandhi Poster, and a Plastered Banner. He interacts with the Young Man with Glasses, also in an 'OHIO STATE' sweatshirt, sharing laughter as the Young Man with Curly Hair animatedly explains he's \"shown up class literally looking like this. My pajama pants on,\" and that Harvard students are \"just humans.\" He jokingly states, \"Helen's a robot actually,\" to which the Young Man with Glasses reacts with a surprised \"Wait what?\" and \"She's a robot?\" The video concludes with a close-up of the Young Man with Glasses, followed by a 'Subscribe' text overlay, accompanied by a siren sound."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Campus Environment": "An outdoor university setting with bare trees, paved walkways, and historic red-brick buildings. The weather is bright with a blue sky and scattered clouds, creating a lively academic atmosphere.",
+    "Woman in Harvard Sweater": "Wears a white sweater with a large red 'H', has long dark hair pulled back, and briefly appears smiling warmly while gesturing toward the camera. She is identified as 'Helen' by the Young Man with Curly Hair, who jokingly refers to her as 'a robot.'",
+    "Red-Brick Dormitory Building": "A large, ornate red-brick building with multiple windows and dormer-style roofs, visible in the background during the outdoor campus walk.",
+    "Statue of Historical Figure": "A seated bronze statue on a stone pedestal, located in front of a white stone building. The Young Man with Curly Hair walks past it during his campus walk, and the base has an inscription, though it is not clearly legible.",
+    "Young Man with Curly Hair": "Wears a gray sweatshirt and a RODE microphone, speaking directly to the camera in a purple-lit room, later seen gesturing animatedly in a bedroom with various posters and decor, including a Bartender's Guide Poster, a Kim Jong Un Poster, a Mahatma Gandhi Poster, and a Plastered Banner. He also appears in a gray 'OHIO STATE' sweatshirt during the latter part of the video, speaking energetically and interacting with another person. He expresses his changed perspective on Harvard, mentions hanging out with 'Helen and Vincent,' and jokes that 'Helen's a robot.' He also states he's 'shown up class literally looking like this. My pajama pants on,' and discusses Harvard vs. Ohio State.",
+    "Lecture Hall Audience": "Students seated at white desks with nameplates, some using laptops. The room has green walls and modern lighting, with a large screen at the front. The audience appears attentive and engaged.",
+    "Panel of Speakers": "Three older men seated on a stage in front of a large screen, engaged in a discussion. One speaker is heard welcoming a guest named 'Manny' and later discussing the importance of talking to potential customers before building a product, speaking with a clear, authoritative voice.",
+    "Man in Blue Shirt": "Wears a blue button-down shirt and khaki pants, holding a red water bottle and a yellow notepad. He walks toward the stage during the lecture, speaking to the audience with a clear, academic voice, explaining concepts like \"utilitarianism\" and the idea of \"horrible things in the name of the greater good.\"",
+    "YouTube Screen Recording": "A screen capture showing search results for college decision reaction videos, including thumbnails of excited students and a Harvard acceptance email. The text includes titles like 'COLLEGE DECISION REACTION 2020-2021' and 'Harvard Short Courses'.",
+    "Bearded Male Companion": "A man with a beard, wearing a black jacket over a graphic t-shirt, who joins the Young Man with Curly Hair in the lecture hall and shares a laugh with him. He has a friendly voice, confirms he wants to be in the video (\"Yeah, sure\"), states his major as \"biomedical engineering,\" and confirms he is happy in life, also mentioning he is \"transferring to Harvard.\"",
+    "Classroom Environment": "An indoor academic setting with white desks, fluorescent lighting, and a chalkboard filled with chemical equations. Students are seated, some using tablets, and the atmosphere is focused yet casual, serving as a space for organic chemistry studies and discussions about neuroscience.",
+    "Young Man with Glasses": "Wears a gray 'OHIO STATE' sweatshirt with red lettering and glasses, speaking animatedly in a bedroom with purple LED lighting, gesturing expressively, and occasionally looking upward or toward the camera. He appears to be narrating a story with enthusiasm, shifting between energetic and reflective expressions. He reacts with laughter and surprise, asking 'Wait what?' and 'She's a robot?' in response to the Young Man with Curly Hair's joke about Helen.",
+    "Man in Radio Studio": "Wears a leopard-print jacket, black headphones, and a black cap, speaking into a BBC Radio 1Xtra microphone in a professional studio setting. He is heard reciting the '2+2 is 4, minus 1 that's 3 quick maths' line, mimicking a song.",
+    "Man in Gray Jacket with Tablet": "Wears a gray jacket over a white turtleneck and glasses, sitting on a couch indoors, holding a tablet and stylus. He is heard singing/reciting the '2+2 is 4, minus 1 that's 3 quick facts' song, which is also displayed as a text overlay.",
+    "Library Interior": "A grand reading room with high arched ceilings, large windows, ornate architectural details, wooden tables, and lamps, filled with students studying. The Young Man with Curly Hair and the Woman in Harvard Sweater are seated together here.",
+    "Gym Environment": "A brightly lit indoor gym with exercise equipment, white walls, and a ceiling with ventilation grates. The Young Man explicitly states they are at \"one of the Harvard gyms.\"",
+    "Kim Jong Un Poster": "A large poster on the wall featuring a smiling Kim Jong Un with the text 'Live, Laugh, Love - Kim Jong Un' in white cursive font, adding a comedic and irreverent element to the room's decor.",
+    "Purple-Lit Room Environment": "A dimly lit, cozy room with purple LED strip lighting along the ceiling, featuring a coffee table with drinks and snacks, and humorous posters on the walls, including one of Kim Jong Un and another of Mahatma Gandhi with a satirical quote. The atmosphere is casual and fun, suggesting a dorm or lounge space.",
+    "Mahatma Gandhi Poster": "A black banner with a grayscale image of Mahatma Gandhi and the quote 'And if you ain't a hoe get up out my trap house' – attributed to him, creating a humorous and satirical statement in the room's decor.",
+    "Bartender's Guide Poster": "A large poster on the wall displaying various cocktails and drink recipes, titled 'BARTENDER'S GUIDE', adding a thematic element to the hallway decor.",
+    "Bedroom Decor": "A bedroom with a bed covered in a stained blanket, a large photo of a cheering crowd, a dreamcatcher near the window, and a closet with hanging clothes, contributing to a lived-in, personalized dorm atmosphere.",
+    "Plastered Banner": "A green banner with a cartoon image of six beer cans and a red flag, with the word 'PLASTERED' in bold white letters, hanging prominently on the bedroom wall.",
+    "Younger Version of Young Man with Glasses": "Appears in a flashback scene, wearing a white t-shirt and sitting on a couch with a red cup, looking surprised or excited. A caption reads '(Not his dorm lol)', indicating this is not the current setting and adding a humorous contrast to the present-day narrative."
+  }
+}

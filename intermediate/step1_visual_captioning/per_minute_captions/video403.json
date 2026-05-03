@@ -1,0 +1,264 @@
+{
+    "video_id": "video403",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video opens with a student sitting at a wooden table in a grand, sunlit library, working on a silver MacBook adorned with a Harvard crest sticker and the word 'FORGEANT' on the lid. The scene transitions to sweeping aerial shots of Harvard’s iconic red-brick buildings, including a detailed view of a classical facade with ornate white columns and a pediment, followed by a modern glass structure with a bold red 'Hi' sign. The camera then captures a panoramic view of the Harvard campus and surrounding cityscape, with the Charles River winding through the urban landscape. The title card 'A DAY IN THE LIFE OF A HARVARD STUDENT' appears, featuring the Harvard shield. The scene shifts to a dimly lit room with red ambient lighting, where a digital clock reads 4:30, and a person is seen lying on a patterned rug, scrolling through a phone. The next shot shows the same person, now sitting at a desk, intensely reviewing a thick stack of printed papers. He then stands before a whiteboard, writing and organizing tasks under categories like 'LinkedIn,' 'YouTube,' and 'Twitter.' He appears in a kitchen, wearing a beanie and making an 'OK' hand gesture. The video concludes with a first-person perspective of the student walking briskly down a city street, crossing intersections, and navigating urban traffic under bright sunlight, passing by buildings and vehicles, including a Boston Fire Department headquarters and a MBTA bus.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "Student": "A young man with a beard, wearing a black t-shirt and later a beanie, seen working in a library, reviewing papers, writing on a whiteboard, and walking through the city. He is consistently engaged in academic and personal tasks, transitioning from indoor study to outdoor movement.",
+                "Harvard Library": "A grand, ornate library with high ceilings, arched windows, wooden tables, and students studying under warm lighting.",
+                "Harvard Campus Buildings": "Classical red-brick buildings with white columns and detailed pediments, alongside modern glass structures with bold signage like 'Hi'.",
+                "Digital Clock": "A glowing green digital clock displaying '4:30' in a dimly lit room with red ambient lighting.",
+                "Whiteboard": "A large whiteboard covered in handwritten task lists and notes, including social media and personal goals.",
+                "City Street": "A bright, sunny urban street with traffic, crosswalks, and buildings, including the Boston Fire Department Headquarters and a MBTA bus.",
+                "MBTA Bus": "A white and yellow public transit bus with 'MBTA' branding and the number 1805, seen from behind as the student walks past."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The video begins with a first-person perspective of a man walking across a bridge on a bright, sunny day, with the Boston skyline visible in the distance. He is wearing a red and navy jacket with a backpack and appears to be vlogging, speaking directly to the camera. The scene transitions to him walking through Harvard’s campus, passing historic buildings like Harvard Hall, with engraved plaques detailing its history. He continues walking past a statue of a seated figure, likely a historical figure, while engaging with the camera, gesturing and speaking animatedly. The video then cuts to an indoor classroom setting where a group of students, including the same man, are collaborating on a hands-on engineering project, constructing a tower from spaghetti and marshmallows. The classroom is well-lit with modern furnishings, and a presentation screen displays a 'HELLO' slide. The man is seen actively participating, holding up the completed structure with pride. The video concludes with him back outside, walking through the campus, still addressing the camera, with the Harvard campus buildings and a statue in the background, suggesting a blend of academic engagement and personal reflection.",
+            "active_entities": {
+                "Student": "A young man with a beard, wearing a red and navy jacket with a backpack, consistently speaking to the camera while walking through Harvard’s campus and participating in a classroom activity. He is seen holding a spaghetti-and-marshmallow tower, indicating active involvement in a hands-on project.",
+                "Harvard Campus Buildings": "Classical red-brick buildings with white columns and detailed pediments, including Harvard Hall with an engraved historical plaque, and a white building with a statue in front, all under bright sunlight.",
+                "City Street": "A bright, sunny urban street with crosswalks, traffic, and buildings, including the Boston Fire Department Headquarters and a MBTA bus, seen as the student walks past.",
+                "MBTA Bus": "A white and yellow public transit bus with 'MBTA' branding and the number 1805, visible from behind as the student walks past on the city street.",
+                "Whiteboard": "A large whiteboard in the classroom displaying a 'HELLO' slide with bullet points, indicating the start of a session or workshop."
+            },
+            "discovered_new_entities": {
+                "Spaghetti-and-Marshmallow Tower": "A tall, delicate structure built from spaghetti sticks and marshmallows, constructed by students in a classroom activity, held up proudly by the student at the end.",
+                "Classroom Setting": "A modern, well-lit classroom with tables, chairs, and a presentation screen, where students are engaged in a collaborative engineering project.",
+                "Statue of Seated Figure": "A large, dark bronze statue of a seated man, likely a historical figure, located in front of a white Harvard building, with people walking around it."
+            }
+        },
+        {
+            "minute": 3,
+            "caption": "The video opens with the Student walking through Harvard Campus Buildings on a bright, overcast day, speaking directly to the camera as he moves past red-brick structures and leafless trees. He then enters a grand, ornate interior, likely part of the Harvard Library, where he ascends a marble staircase while continuing to narrate. The camera briefly focuses on a historical plaque commemorating Harry Elkins Widener, a Harvard graduate who died on the Titanic, before panning to an ornate chandelier and then to a richly decorated reading room with wooden bookshelves, a fireplace, and a portrait above the mantle. The Student gestures toward a display case containing an open, illuminated manuscript, possibly a rare book, with a small informational card beside it. The scene transitions to a wide shot of the Harvard Library’s main reading hall, showcasing its high arched ceilings, wooden tables, and students studying under warm, natural light. The Student is later seen seated at a wooden desk with a laptop labeled 'FORGEANT' and a Harvard crest sticker, smiling and waving at the camera, indicating a moment of personal engagement within the academic environment.",
+            "active_entities": {
+                "Student": "A young man with a beard, wearing a red and navy jacket with a backpack, consistently speaking to the camera while walking through Harvard’s campus and later seated in the Harvard Library, engaging with the environment and waving at the camera.",
+                "Harvard Campus Buildings": "Classical red-brick buildings with white columns and detailed pediments, including Harvard Hall with an engraved historical plaque, seen under bright, overcast daylight.",
+                "Harvard Library": "A grand, ornate library with high ceilings, arched windows, wooden tables, and students studying under warm lighting, featuring a reading room with a fireplace, bookshelves, and a display case with a rare manuscript.",
+                "Statue of Seated Figure": "A large, dark bronze statue of a seated man, likely a historical figure, located in front of a white Harvard building, with people walking around it."
+            },
+            "discovered_new_entities": {
+                "Harry Elkins Widener Plaque": "A white marble plaque inscribed with the name 'HARRY ELKINS WIDENER', noting his birth (January 3, 1885), death (April 15, 1912, on the Titanic), and his status as a Harvard graduate.",
+                "Rare Manuscript Display": "An open, illuminated manuscript in a glass display case, featuring ornate text and a circular illustration, accompanied by a small informational card.",
+                "Chandelier": "An ornate, dark metal chandelier with multiple candle-like lights, hanging from a high, decorated ceiling in the library’s interior.",
+                "Portrait Above Fireplace": "A framed portrait of a historical figure in formal attire, mounted above a marble fireplace in the reading room, flanked by tall wooden bookshelves."
+            }
+        },
+        {
+            "minute": 4,
+            "caption": "The video begins with a close-up of a hand placing a white object on a wooden surface, transitioning into a wide shot of the Harvard Library, where students are seated at wooden tables under warm lighting, studying quietly. The camera pans across the ornate reading room, showcasing tall bookshelves, a fireplace, and a chandelier, before moving through a modern, multi-level atrium with glass railings, red seating, and a vertical green wall. The scene shifts to a classroom with students working at tables, then to a grand dining hall with chandeliers and long tables, where a man in a beanie and dark jacket eats from a container while speaking to the camera. He then walks through a hallway, exits into a bright outdoor courtyard with a fountain, and enters a gym where he performs a dumbbell exercise. The sequence captures a dynamic day on campus, moving from quiet study to social dining and physical activity, with transitions between classical and modern architectural spaces.",
+            "active_entities": {
+                "Harvard Library": "A grand, ornate library with high ceilings, arched windows, wooden tables, and students studying under warm lighting, featuring a reading room with a fireplace, bookshelves, and a display case with a rare manuscript.",
+                "Chandelier": "An ornate, dark metal chandelier with multiple candle-like lights, hanging from a high, decorated ceiling in the library’s interior.",
+                "Student": "A young man with a beard, wearing a red and navy jacket with a backpack, consistently speaking to the camera while walking through Harvard’s campus and later seated in the Harvard Library, engaging with the environment and waving at the camera.",
+                "Classroom Setting": "A modern, well-lit classroom with tables, chairs, and a presentation screen, where students are engaged in a collaborative engineering project."
+            },
+            "discovered_new_entities": {
+                "Dining Hall": "A grand, ornate dining hall with high ceilings, chandeliers, long wooden tables, and students eating, featuring large arched windows and classical architectural details.",
+                "Gym": "A well-lit indoor fitness center with mirrors, weight racks, treadmills, and exercise equipment, where the student performs a dumbbell exercise.",
+                "Outdoor Courtyard": "A bright, open courtyard with a central fountain, surrounded by classical buildings and greenery, visible through glass doors.",
+                "Dumbbell": "A black, hexagonal dumbbell held by the student during a workout in the gym.",
+                "Fountain": "A central water feature in the outdoor courtyard, with a stone basin and flowing water, surrounded by trees and benches."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video begins with a first-person perspective of a man performing a bench press in a well-lit gym, gripping a barbell with focused intensity. The camera then shifts to show him lying on a bench, lifting a dumbbell with one arm, emphasizing his workout routine. He transitions to an upright position, revealing a black t-shirt with a blue stripe and a smartwatch on his wrist, before moving to a stationary exercise bike, pedaling vigorously. The scene changes as he walks through a modern, open-plan office space, passing by a whiteboard covered in colorful sticky notes and a large red 'Hi' sign on the wall. He enters a collaborative workspace where a group of people are engaged in discussion, and a sign on a table reads 'We are: FORGEANT — Talk to us about: Happier Employees 😊'. The camera captures a close-up of a hand placing a glass of water on a desk, followed by a shot of the man in a podcast studio, adjusting headphones and speaking into a professional microphone setup with 'Hi' logos on the wall. He smiles and gestures while speaking, indicating an engaging conversation or recording session.",
+            "active_entities": {
+                "Gym": "A well-lit indoor fitness center with mirrors, weight racks, treadmills, and exercise equipment, where the man performs a dumbbell exercise and uses a stationary bike.",
+                "Dumbbell": "A black, hexagonal dumbbell held by the man during a workout in the gym.",
+                "Whiteboard": "A large whiteboard in the office space covered in colorful sticky notes, indicating brainstorming or planning activities."
+            },
+            "discovered_new_entities": {
+                "Stationary Bike": "A white and gray Schwinn stationary bike with a large flywheel, used by the man for cardio exercise in the gym.",
+                "Podcast Studio": "A professional recording space with microphones, headphones, and sound shields, featuring 'Hi' logos on the wall, where the man records or speaks into a microphone.",
+                "Sign": "A white sign on a table in the office that reads 'We are: FORGEANT — Talk to us about: Happier Employees 😊', indicating a team or initiative focused on employee well-being.",
+                "Man in Black T-shirt": "A man with short dark hair and a beard, wearing a black t-shirt with a blue stripe and a smartwatch, seen working out in the gym and later in a podcast studio.",
+                "FORGEANT Team": "A group of people in a modern office space, engaged in collaborative discussions, associated with the 'FORGEANT' sign promoting happier employees.",
+                "Microphone Setup": "Professional audio equipment including a Marantz sound shield, a large-diaphragm condenser microphone, and a boom arm, used in the podcast studio.",
+                "Office Environment": "A bright, open-plan office with white desks, green chairs, and large windows, featuring collaborative workspaces and visible signage for the Venture Incubation Program."
+            }
+        },
+        {
+            "minute": 6,
+            "caption": "The video opens in a professional podcast studio, where a man with short dark hair and a beard, wearing a black t-shirt and over-ear headphones, is seated at a microphone setup with a Marantz sound shield. He speaks animatedly, gesturing slightly as he engages in conversation. The background features a gray wall with a repeating pattern of red squares containing the word 'Hi'. The scene then expands to reveal a second man, also wearing headphones and a blue denim shirt, seated across from the first, indicating a two-person podcast recording. The camera then cuts to a different setting: a bright, well-lit interview space with a backdrop displaying 'Hi Harvard innovation labs' repeatedly. Here, a woman with long brown hair, wearing a patterned cardigan over a black top and black tights, sits on a red stool, smiling and listening. A man in a green hoodie and beige pants joins her, holding a microphone and gesturing as he speaks. The setting includes professional lighting equipment, including two large Dracast lights on stands, illuminating the subjects. The atmosphere is conversational and professional, suggesting a formal interview or discussion event hosted by Harvard Innovation Labs.",
+            "active_entities": {
+                "Podcast Studio": "A professional recording space with microphones, headphones, and sound shields, featuring 'Hi' logos on the wall, where the man records or speaks into a microphone.",
+                "Man in Black T-shirt": "A man with short dark hair and a beard, wearing a black t-shirt with a blue stripe and a smartwatch, seen working out in the gym and later in a podcast studio.",
+                "Microphone Setup": "Professional audio equipment including a Marantz sound shield, a large-diaphragm condenser microphone, and a boom arm, used in the podcast studio."
+            },
+            "discovered_new_entities": {
+                "Harvard Innovation Labs Backdrop": "A white backdrop with repeating red squares containing 'Hi' and the text 'Harvard innovation labs', used for formal interviews or events.",
+                "Woman in Patterned Cardigan": "A woman with long brown hair, wearing a black and brown zigzag-patterned cardigan over a black top, black tights, and brown ankle boots, seated on a red stool during an interview.",
+                "Man in Green Hoodie": "A man with short dark hair, wearing a green hoodie with white drawstrings, beige pants, and a black smartwatch, holding a microphone and engaging in conversation during an interview.",
+                "Dracast Lighting Equipment": "Two large, black Dracast LED lights on stands, positioned on either side of the interview setup, providing bright, even illumination for the subjects."
+            }
+        },
+        {
+            "minute": 7,
+            "caption": "The video opens with an interview setting at the Harvard Innovation Labs, where the Man in Green Hoodie, holding a microphone, converses with the Woman in Patterned Cardigan, who is seated on a red stool against a backdrop featuring the 'Hi Harvard innovation labs' logo. They share a handshake and smile, indicating a friendly and professional interaction. The scene transitions to a modern, open-plan office environment where two young men, one in a gray t-shirt and another in a blue 'THE STREAK 23' t-shirt with a red Harvard cap, are seated and smiling at the camera. The camera then pans across the bustling office, showing multiple individuals working at desks with laptops, some using tablets and styluses, while others engage in discussions. A presentation is underway in a large room with a projector screen displaying 'Welcome to Harvard Innovation Labs,' with attendees seated and listening. The video highlights collaborative work, with close-ups of hands writing code on laptops and drawing chemical structures on tablets. A sign for 'Aliro' is visible, promoting quantum computing, and another for 'FORGEANT' emphasizing happier employees. The segment concludes with a large audience in a lecture-style setting, attentively watching a speaker, and a close-up of a man in a blue blazer speaking, suggesting a formal event or orientation.",
+            "active_entities": {
+                "Harvard Innovation Labs Backdrop": "A white backdrop with repeating red squares containing 'Hi' and the text 'Harvard innovation labs', used for formal interviews or events.",
+                "Man in Green Hoodie": "A man with short dark hair, wearing a green hoodie with white drawstrings, beige pants, and a black smartwatch, holding a microphone and engaging in conversation during an interview.",
+                "Woman in Patterned Cardigan": "A woman with long brown hair, wearing a black and brown zigzag-patterned cardigan over a black top, black tights, and brown ankle boots, seated on a red stool during an interview.",
+                "Office Environment": "A bright, open-plan office with white desks, green chairs, and large windows, featuring collaborative workspaces and visible signage for the Venture Incubation Program.",
+                "Sign": "A white sign on a table in the office that reads 'We are: FORGEANT — Talk to us about: Happier Employees 😊', indicating a team or initiative focused on employee well-being.",
+                "Whiteboard": "A large whiteboard in the office space covered in colorful sticky notes, indicating brainstorming or planning activities."
+            },
+            "discovered_new_entities": {
+                "Man in Gray T-shirt": "A young man with short dark hair and glasses, wearing a gray t-shirt, seen smiling at the camera and later writing on a tablet with a stylus.",
+                "Man in Blue T-shirt": "A young man with curly hair, glasses, and a red Harvard cap, wearing a blue t-shirt with 'THE STREAK 23' printed on it, smiling and engaging in conversation.",
+                "Laptop": "A silver laptop with visible code being written, used by individuals in the office for programming tasks.",
+                "Tablet": "A tablet with a stylus, used for drawing chemical structures and taking notes, held by a man in a gray t-shirt.",
+                "Projector Screen": "A large screen displaying 'Welcome to Harvard Innovation Labs' during a presentation in a conference room.",
+                "Audience": "A large group of people seated in rows, attentively watching a speaker during a formal event or orientation.",
+                "Man in Blue Blazer": "A man with short dark hair, wearing a blue blazer over a checkered shirt, speaking to the audience during a presentation.",
+                "Aliro Sign": "A white sign with colorful text reading 'We are: Aliro — Talk to us about: Quantum Computing', featuring a quantum circuit diagram and mathematical notation.",
+                "Code on Laptop": "A close-up of a laptop screen displaying Python code related to quantum computing, with syntax highlighting and comments.",
+                "Chemical Structure Diagram": "A tablet screen showing hand-drawn chemical structures with annotations, including benzene rings and reaction mechanisms.",
+                "Presentation Room": "A large, modern room with high ceilings, colorful ceiling decorations, and rows of chairs facing a stage with a projector screen.",
+                "Event Welcome Sign": "A large purple and white sign reading 'Welcome' for the Venture Program Orientation, with instructions to scan a QR code or visit a URL to register."
+            }
+        },
+        {
+            "minute": 8,
+            "caption": "The video opens with a close-up of a man in a green t-shirt holding a microphone, speaking to an audience in a blurred, lively setting. The scene quickly shifts to a dynamic workshop environment where participants are engaged in hands-on activities, including a close-up of a smartphone displaying a live video feed of a group working with colorful materials and tools on a table. The setting transitions to a formal event at Harvard Innovation Labs, where a man in a blue blazer and a woman in a white blouse stand on stage in front of a backdrop with the 'Hi' logo and 'Harvard innovation labs' text, addressing an audience. The man gestures animatedly while speaking, and the woman listens attentively. The video then cuts to a more casual, social setting where the same man in the blue blazer is seen interacting with attendees, including a young man in a white Champion sweatshirt holding a plate of pizza, who smiles and speaks to the camera. The background reveals a whiteboard covered in yellow sticky notes, indicating brainstorming or collaborative work. The man in the blue blazer continues to engage with various attendees, including a man in a red jacket, in a lively, informal atmosphere with people mingling and eating. The overall tone shifts from formal presentation to casual networking, capturing the energy of a startup or innovation event.",
+            "active_entities": {
+                "Man in Blue Blazer": "A man with short dark hair, wearing a blue blazer over a black shirt and brown pants, speaking on stage and later interacting with attendees in a casual setting.",
+                "Harvard Innovation Labs Backdrop": "A white backdrop with repeating red squares containing 'Hi' and the text 'Harvard innovation labs', used for the formal presentation stage.",
+                "Whiteboard": "A large whiteboard covered in yellow sticky notes, visible in the background during the informal networking scene, indicating brainstorming or planning activities.",
+                "Audience": "A group of people seated in rows, attentively watching the speakers on stage during the formal presentation at Harvard Innovation Labs."
+            },
+            "discovered_new_entities": {
+                "Woman in White Blouse": "A woman with shoulder-length dark hair, wearing a white blouse with ruffled sleeves and dark patterned pants, standing beside the man on stage during the presentation.",
+                "Man in White Champion Sweatshirt": "A young man with light brown hair, wearing a white Champion sweatshirt with a red logo, holding a plate of pizza and smiling at the camera during the networking event.",
+                "Man in Red Jacket": "A man with curly hair, wearing a red jacket over a blue shirt, seen laughing and interacting with the man in the blue blazer during the casual networking segment.",
+                "Smartphone with Live Feed": "A smartphone with an orange case, displaying a live video feed of a group working with colorful materials and tools on a table, indicating a workshop or collaborative activity.",
+                "Workshop Table": "A white table covered with various craft supplies, including colorful balls, tape, scissors, and a green basket, used during a hands-on activity."
+            }
+        },
+        {
+            "minute": 9,
+            "caption": "The video opens with a close-up of two men standing side-by-side in a modern, brightly lit office space. The man on the left, wearing glasses, a red vest over a blue polo shirt with a plaid collar, and a warm smile, has his arm around the man on the right, who is dressed in a gray blazer over a black shirt and has a short beard. They appear to be engaging in a friendly conversation, with the man in the red vest speaking animatedly while the other listens and responds with smiles and nods. The background reveals a casual office environment with a whiteboard displaying the word 'WELCOME' and a door, suggesting a welcoming or networking event. The camera then cuts to a wider shot of a bustling office space where people are mingling, some holding drinks and food, indicating a social or professional gathering. A woman in a white blouse with floral patterns and large hoop earrings waves at the camera, smiling warmly. The scene transitions to a large audience seated in rows, clapping enthusiastically, suggesting the conclusion of a presentation or talk. The final shot shows a group of people walking through a hallway with 'Harvard innovation labs' signage, some holding plates of food and smiling, reinforcing the collaborative and celebratory atmosphere of the event. The word 'DOZEON' appears in bold blue text over the initial two men, possibly indicating a brand or team name associated with the event.",
+            "active_entities": {
+                "Woman in White Blouse": "A woman with shoulder-length dark hair, wearing a white blouse with floral patterns and large hoop earrings, waving at the camera with a warm smile.",
+                "Audience": "A group of people seated in rows, clapping enthusiastically, indicating engagement with a presentation or event.",
+                "Harvard Innovation Labs Backdrop": "A white backdrop with repeating red squares containing 'Hi' and the text 'Harvard innovation labs', visible in the hallway as people walk through the space."
+            },
+            "discovered_new_entities": {
+                "Man in Red Vest": "A young man with curly hair, wearing glasses, a red vest over a blue polo shirt with a plaid collar, smiling and speaking animatedly while standing next to another man in a gray blazer.",
+                "Man in Gray Blazer": "A man with short dark hair and a beard, wearing a gray blazer over a black shirt, smiling and engaging in conversation with the man in the red vest.",
+                "DOZEON Text Overlay": "Bold blue text reading 'DOZEON' that appears over the two men in the initial frames, likely representing a brand, team, or project name associated with the event."
+            }
+        },
+        {
+            "minute": 10,
+            "caption": "The video opens with a lively indoor networking event, where attendees are mingling and smiling, including a woman in a gray shirt with a name tag reading 'Gina Young, Hi' and a man in a striped shirt. The scene quickly shifts to a group of people seated on a couch, enjoying food and conversation, with one man in a red Harvard cap and another in a striped shirt holding plates. The atmosphere becomes more formal as a woman in a red top addresses a seated audience in a presentation room with colorful ceiling decorations and a projector screen. The focus then narrows to a man in a gray blazer over a black and white shirt, seated among white chairs, speaking animatedly to the camera in what appears to be a post-event interview or commentary. The setting transitions abruptly to an outdoor winter scene, with a first-person perspective moving along a snow-lined path beside a frozen river, then onto a city street with snow-covered sidewalks and passing cars under dim streetlights, capturing the transition from a vibrant indoor event to a quiet, cold urban evening.",
+            "active_entities": {
+                "Man in Gray Blazer": "A man with short dark hair and a beard, wearing a gray blazer over a black and white shirt, seated among white chairs and speaking expressively to the camera.",
+                "Presentation Room": "A large, modern room with high ceilings, colorful ceiling decorations, rows of white chairs, and a stage with a projector screen, hosting a presentation or talk.",
+                "Audience": "A group of people seated in rows, attentively listening to the speaker on stage, with some clapping and others taking notes.",
+                "City Street": "A dimly lit urban street at dusk, with snow-covered sidewalks, parked cars, and moving vehicles under streetlights, viewed from a first-person perspective."
+            },
+            "discovered_new_entities": {
+                "Woman in Gray Shirt": "A woman with long dark hair, wearing a gray button-up shirt and a name tag that reads 'Gina Young, Hi', smiling warmly during the networking event.",
+                "Man in Striped Shirt": "A man with short dark hair, wearing a black and white striped shirt, seen laughing and engaging with others during the casual gathering.",
+                "Man in Red Harvard Cap": "A young man with curly hair, wearing a red Harvard cap and a blue t-shirt with 'THE STREAK 23' printed on it, holding a plate of food and smiling.",
+                "Woman in Red Top": "A woman with dark hair, wearing a red top and blue jeans, standing on a stage and speaking to an audience during a presentation.",
+                "Frozen River": "A wide, icy river visible alongside a paved path, bordered by bare trees and snow, reflecting the twilight sky.",
+                "Snow-Lined Path": "A paved pathway running parallel to the frozen river, marked with a yellow dashed line, with patches of snow on the edges and bare trees lining the route.",
+                "First-Person Perspective": "A dynamic, forward-moving viewpoint, likely from a camera mounted on a person walking or riding, capturing the transition from a park path to a city street."
+            }
+        },
+        {
+            "minute": 11,
+            "caption": "The video begins with a first-person perspective walking down a dimly lit city street at dusk, with snow on the sidewalks and cars passing by under streetlights. The camera moves quickly toward a house, entering through a front door into a warmly lit interior. Inside, a man wearing a gray beanie and a dark hoodie is seen holding a baby dressed in a green bib with white patterns. The baby reaches out curiously, touching the man’s face and hat, while the man smiles and interacts affectionately. The setting includes a checkered black-and-white kitchen floor, shelves with decorative items, and a sign reading 'In this house we laugh, play, and fight all the way — THE DREAN FAMILY.' The scene then abruptly shifts to a black-and-white shot of a presentation at Harvard Innovation Labs, where a man and a woman stand on stage in front of a backdrop with 'Hi' logos, addressing an audience seated in rows. The screen behind them displays text including 'SE: THE MEMBERSHIP' and 'connecting women,' indicating a professional or entrepreneurial event.",
+            "active_entities": {
+                "City Street": "A dimly lit urban street at dusk, with snow-covered sidewalks, parked cars, and moving vehicles under streetlights, viewed from a first-person perspective.",
+                "First-Person Perspective": "A dynamic, forward-moving viewpoint, likely from a camera mounted on a person walking or riding, capturing the transition from a park path to a city street.",
+                "Harvard Innovation Labs Backdrop": "A white backdrop with repeating red squares containing 'Hi' and the text 'Harvard innovation labs', visible behind the speakers on stage during the presentation.",
+                "Audience": "A group of people seated in rows, attentively listening to the speaker on stage, with some clapping and others taking notes."
+            },
+            "discovered_new_entities": {
+                "Man in Gray Beanie": "A man with a beard, wearing a gray knitted beanie and a dark hoodie, holding a baby and smiling warmly while interacting with the child in a home kitchen.",
+                "Baby": "A young child with light brown hair, wearing a green bib with white patterns, reaching out to touch the man’s face and hat, appearing curious and engaged.",
+                "Man on Stage": "A man with short dark hair, wearing a dark blazer and light pants, holding a microphone and speaking on stage during the presentation.",
+                "Woman on Stage": "A woman with shoulder-length dark hair, wearing a white blouse, standing beside the man on stage and engaging with the audience.",
+                "Presentation Screen": "A large screen displaying text including 'SE: THE MEMBERSHIP' and 'connecting women,' along with images of two people, indicating the theme of the event.",
+                "Kitchen Interior": "A warmly lit kitchen with a black-and-white checkered floor, white cabinets, shelves with decorative items, and a sign reading 'In this house we laugh, play, and fight all the way — THE DREAN FAMILY.'",
+                "Baby Bib": "A green bib with white patterns, worn by the baby, featuring small illustrations of animals or objects.",
+                "Sign on Wall": "A red wooden sign with white text reading 'In this house we laugh, play, and fight all the way — THE DREAN FAMILY,' mounted on a wall above a shelf with teapots and mugs."
+            }
+        }
+    ],
+    "entity_library": {
+        "Student": "A young man with a beard, wearing a red and navy jacket with a backpack, consistently speaking to the camera while walking through Harvard’s campus and later seated in the Harvard Library, engaging with the environment and waving at the camera.",
+        "Harvard Library": "A grand, ornate library with high ceilings, arched windows, wooden tables, and students studying under warm lighting, featuring a reading room with a fireplace, bookshelves, and a display case with a rare manuscript.",
+        "Harvard Campus Buildings": "Classical red-brick buildings with white columns and detailed pediments, including Harvard Hall with an engraved historical plaque, seen under bright, overcast daylight.",
+        "Digital Clock": "A glowing green digital clock displaying '4:30' in a dimly lit room with red ambient lighting.",
+        "Whiteboard": "A large whiteboard covered in yellow sticky notes, visible in the background during the informal networking scene, indicating brainstorming or planning activities.",
+        "City Street": "A dimly lit urban street at dusk, with snow-covered sidewalks, parked cars, and moving vehicles under streetlights, viewed from a first-person perspective.",
+        "MBTA Bus": "A white and yellow public transit bus with 'MBTA' branding and the number 1805, visible from behind as the student walks past on the city street.",
+        "Spaghetti-and-Marshmallow Tower": "A tall, delicate structure built from spaghetti sticks and marshmallows, constructed by students in a classroom activity, held up proudly by the student at the end.",
+        "Classroom Setting": "A modern, well-lit classroom with tables, chairs, and a presentation screen, where students are engaged in a collaborative engineering project.",
+        "Statue of Seated Figure": "A large, dark bronze statue of a seated man, likely a historical figure, located in front of a white Harvard building, with people walking around it.",
+        "Harry Elkins Widener Plaque": "A white marble plaque inscribed with the name 'HARRY ELKINS WIDENER', noting his birth (January 3, 1885), death (April 15, 1912, on the Titanic), and his status as a Harvard graduate.",
+        "Rare Manuscript Display": "An open, illuminated manuscript in a glass display case, featuring ornate text and a circular illustration, accompanied by a small informational card.",
+        "Chandelier": "An ornate, dark metal chandelier with multiple candle-like lights, hanging from a high, decorated ceiling in the library’s interior.",
+        "Portrait Above Fireplace": "A framed portrait of a historical figure in formal attire, mounted above a marble fireplace in the reading room, flanked by tall wooden bookshelves.",
+        "Dining Hall": "A grand, ornate dining hall with high ceilings, chandeliers, long wooden tables, and students eating, featuring large arched windows and classical architectural details.",
+        "Gym": "A well-lit indoor fitness center with mirrors, weight racks, treadmills, and exercise equipment, where the man performs a dumbbell exercise and uses a stationary bike.",
+        "Outdoor Courtyard": "A bright, open courtyard with a central fountain, surrounded by classical buildings and greenery, visible through glass doors.",
+        "Dumbbell": "A black, hexagonal dumbbell held by the man during a workout in the gym.",
+        "Fountain": "A central water feature in the outdoor courtyard, with a stone basin and flowing water, surrounded by trees and benches.",
+        "Stationary Bike": "A white and gray Schwinn stationary bike with a large flywheel, used by the man for cardio exercise in the gym.",
+        "Podcast Studio": "A professional recording space with microphones, headphones, and sound shields, featuring 'Hi' logos on the wall, where the man records or speaks into a microphone.",
+        "Sign": "A white sign on a table in the office that reads 'We are: FORGEANT — Talk to us about: Happier Employees 😊', indicating a team or initiative focused on employee well-being.",
+        "Man in Black T-shirt": "A man with short dark hair and a beard, wearing a black t-shirt with a blue stripe and a smartwatch, seen working out in the gym and later in a podcast studio.",
+        "FORGEANT Team": "A group of people in a modern office space, engaged in collaborative discussions, associated with the 'FORGEANT' sign promoting happier employees.",
+        "Microphone Setup": "Professional audio equipment including a Marantz sound shield, a large-diaphragm condenser microphone, and a boom arm, used in the podcast studio.",
+        "Office Environment": "A bright, open-plan office with white desks, green chairs, and large windows, featuring collaborative workspaces and visible signage for the Venture Incubation Program.",
+        "Harvard Innovation Labs Backdrop": "A white backdrop with repeating red squares containing 'Hi' and the text 'Harvard innovation labs', visible behind the speakers on stage during the presentation.",
+        "Woman in Patterned Cardigan": "A woman with long brown hair, wearing a black and brown zigzag-patterned cardigan over a black top, black tights, and brown ankle boots, seated on a red stool during an interview.",
+        "Man in Green Hoodie": "A man with short dark hair, wearing a green hoodie with white drawstrings, beige pants, and a black smartwatch, holding a microphone and engaging in conversation during an interview.",
+        "Dracast Lighting Equipment": "Two large, black Dracast LED lights on stands, positioned on either side of the interview setup, providing bright, even illumination for the subjects.",
+        "Man in Gray T-shirt": "A young man with short dark hair and glasses, wearing a gray t-shirt, seen smiling at the camera and later writing on a tablet with a stylus.",
+        "Man in Blue T-shirt": "A young man with curly hair, glasses, and a red Harvard cap, wearing a blue t-shirt with 'THE STREAK 23' printed on it, smiling and engaging in conversation.",
+        "Laptop": "A silver laptop with visible code being written, used by individuals in the office for programming tasks.",
+        "Tablet": "A tablet with a stylus, used for drawing chemical structures and taking notes, held by a man in a gray t-shirt.",
+        "Projector Screen": "A large screen displaying 'Welcome to Harvard Innovation Labs' during a presentation in a conference room.",
+        "Audience": "A group of people seated in rows, attentively listening to the speaker on stage, with some clapping and others taking notes.",
+        "Man in Blue Blazer": "A man with short dark hair, wearing a blue blazer over a black shirt and brown pants, speaking on stage and later interacting with attendees in a casual setting.",
+        "Aliro Sign": "A white sign with colorful text reading 'We are: Aliro — Talk to us about: Quantum Computing', featuring a quantum circuit diagram and mathematical notation.",
+        "Code on Laptop": "A close-up of a laptop screen displaying Python code related to quantum computing, with syntax highlighting and comments.",
+        "Chemical Structure Diagram": "A tablet screen showing hand-drawn chemical structures with annotations, including benzene rings and reaction mechanisms.",
+        "Presentation Room": "A large, modern room with high ceilings, colorful ceiling decorations, rows of white chairs, and a stage with a projector screen, hosting a presentation or talk.",
+        "Event Welcome Sign": "A large purple and white sign reading 'Welcome' for the Venture Program Orientation, with instructions to scan a QR code or visit a URL to register.",
+        "Woman in White Blouse": "A woman with shoulder-length dark hair, wearing a white blouse with floral patterns and large hoop earrings, waving at the camera with a warm smile.",
+        "Man in White Champion Sweatshirt": "A young man with light brown hair, wearing a white Champion sweatshirt with a red logo, holding a plate of pizza and smiling at the camera during the networking event.",
+        "Man in Red Jacket": "A man with curly hair, wearing a red jacket over a blue shirt, seen laughing and interacting with the man in the blue blazer during the casual networking segment.",
+        "Smartphone with Live Feed": "A smartphone with an orange case, displaying a live video feed of a group working with colorful materials and tools on a table, indicating a workshop or collaborative activity.",
+        "Workshop Table": "A white table covered with various craft supplies, including colorful balls, tape, scissors, and a green basket, used during a hands-on activity.",
+        "Man in Red Vest": "A young man with curly hair, wearing glasses, a red vest over a blue polo shirt with a plaid collar, smiling and speaking animatedly while standing next to another man in a gray blazer.",
+        "Man in Gray Blazer": "A man with short dark hair and a beard, wearing a gray blazer over a black and white shirt, seated among white chairs and speaking expressively to the camera.",
+        "DOZEON Text Overlay": "Bold blue text reading 'DOZEON' that appears over the two men in the initial frames, likely representing a brand, team, or project name associated with the event.",
+        "Woman in Gray Shirt": "A woman with long dark hair, wearing a gray button-up shirt and a name tag that reads 'Gina Young, Hi', smiling warmly during the networking event.",
+        "Man in Striped Shirt": "A man with short dark hair, wearing a black and white striped shirt, seen laughing and engaging with others during the casual gathering.",
+        "Man in Red Harvard Cap": "A young man with curly hair, wearing a red Harvard cap and a blue t-shirt with 'THE STREAK 23' printed on it, holding a plate of food and smiling.",
+        "Woman in Red Top": "A woman with dark hair, wearing a red top and blue jeans, standing on a stage and speaking to an audience during a presentation.",
+        "Frozen River": "A wide, icy river visible alongside a paved path, bordered by bare trees and snow, reflecting the twilight sky.",
+        "Snow-Lined Path": "A paved pathway running parallel to the frozen river, marked with a yellow dashed line, with patches of snow on the edges and bare trees lining the route.",
+        "First-Person Perspective": "A dynamic, forward-moving viewpoint, likely from a camera mounted on a person walking or riding, capturing the transition from a park path to a city street.",
+        "Man in Gray Beanie": "A man with a beard, wearing a gray knitted beanie and a dark hoodie, holding a baby and smiling warmly while interacting with the child in a home kitchen.",
+        "Baby": "A young child with light brown hair, wearing a green bib with white patterns, reaching out to touch the man’s face and hat, appearing curious and engaged.",
+        "Man on Stage": "A man with short dark hair, wearing a dark blazer and light pants, holding a microphone and speaking on stage during the presentation.",
+        "Woman on Stage": "A woman with shoulder-length dark hair, wearing a white blouse, standing beside the man on stage and engaging with the audience.",
+        "Presentation Screen": "A large screen displaying text including 'SE: THE MEMBERSHIP' and 'connecting women,' along with images of two people, indicating the theme of the event.",
+        "Kitchen Interior": "A warmly lit kitchen with a black-and-white checkered floor, white cabinets, shelves with decorative items, and a sign reading 'In this house we laugh, play, and fight all the way — THE DREAN FAMILY.'",
+        "Baby Bib": "A green bib with white patterns, worn by the baby, featuring small illustrations of animals or objects.",
+        "Sign on Wall": "A red wooden sign with white text reading 'In this house we laugh, play, and fight all the way — THE DREAN FAMILY,' mounted on a wall above a shelf with teapots and mugs."
+    }
+}

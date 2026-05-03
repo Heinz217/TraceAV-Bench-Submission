@@ -1,0 +1,206 @@
+{
+    "video_id": "video508",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video begins with a black screen, then transitions to an aerial view of a rural landscape with fields, roads, and scattered buildings under a clear blue sky. The camera rapidly zooms out, revealing Earth from space with swirling clouds and continents, accompanied by the bold white text 'EARTH' centered on the screen. The view continues to pull back, showing Earth as a small sphere against the vastness of space, dotted with stars. The scene shifts to a starfield with a radial zoom effect, followed by the text 'HOW BIG IS THE UNIVERSE?' appearing over a dark cosmic background. The Moon is then shown in close-up, with its cratered surface illuminated, and the distance to Earth is displayed as '384,399 km / 238,854 mi'. A side-by-side comparison of Earth and the Moon appears, followed by a visual representation of the distance between them with a car icon labeled '100km/h / 60mi/h' and the travel time '160 days'. The final shot is from the Moon’s surface, looking up at Earth hanging in the dark sky above the lunar horizon.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "Earth": "A blue and white planet with visible continents and cloud cover, shown first from an aerial perspective, then from space as a rotating sphere, and finally as a distant object viewed from the Moon.",
+                "Moon": "A gray, cratered celestial body shown in close-up, then in a side-by-side comparison with Earth, and finally as the foreground in a view looking up at Earth from its surface.",
+                "Starfield": "A dark expanse filled with numerous distant stars, shown during a radial zoom effect and as the backdrop for the text 'HOW BIG IS THE UNIVERSE?'",
+                "Car Icon": "A small gray car graphic used to represent travel speed (100km/h / 60mi/h) between Earth and the Moon, with the travel time '160 days' displayed below.",
+                "Text Overlay": "White bold text appearing sequentially: 'EARTH', 'HOW BIG IS THE UNIVERSE?', and the distance '384,399 km / 238,854 mi'."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The video begins with a breathtaking view of Earth rising above the Moon's cratered surface, a famous image from the Apollo 11 mission, labeled as 'Earth Rise'. The scene transitions to a side-by-side comparison of the Sun and Earth, with a line drawn between them to illustrate the astronomical unit (1 AU), which is then quantified as 149,000,000 km (93,000,000 mi). The perspective shifts to Earth silhouetted against the Sun, with the speed of light (300,000 km/sec, 186,000 mi/sec) displayed, emphasizing how quickly light travels across space. A commercial airplane icon appears, traveling at 900 km/h (560 mi/h), with a time label of '19 years' to show how long it would take to reach the Sun at that speed. The video then presents a scaled solar system model, showing the Sun and planets in orbit, before zooming in on the Sun’s surface with Earth shown to scale as a tiny dot, highlighting the immense size difference between the Sun and Earth.",
+            "active_entities": {
+                "Earth": "A blue and white planet with visible continents and cloud cover, shown first from an aerial perspective, then from space as a rotating sphere, and finally as a distant object viewed from the Moon.",
+                "Moon": "A gray, cratered celestial body shown in close-up, then in a side-by-side comparison with Earth, and finally as the foreground in a view looking up at Earth from its surface.",
+                "Starfield": "A dark expanse filled with numerous distant stars, shown during a radial zoom effect and as the backdrop for the text 'HOW BIG IS THE UNIVERSE?'",
+                "Text Overlay": "White bold text appearing sequentially: 'EARTH', 'HOW BIG IS THE UNIVERSE?', and the distance '384,399 km / 238,854 mi'."
+            },
+            "discovered_new_entities": {
+                "The Sun": "A large, bright orange star with visible solar flares and surface activity, shown in close-up and as the central body in the solar system model.",
+                "Airplane Icon": "A small gray airplane graphic used to represent travel speed (900 km/h / 560 mi/h) between Earth and the Sun, with the travel time '19 years' displayed below.",
+                "Solar System Model": "A 3D animated representation of the Sun and planets orbiting in concentric paths, with the inner planets and asteroid belt visible."
+            }
+        },
+        {
+            "minute": 3,
+            "caption": "The video begins with a close-up of The Sun, a massive, fiery orange star with visible solar flares, and a small Earth to scale in the upper right corner, emphasizing the Sun's immense size. The scene transitions to a simplified solar system model showing Earth and Mars orbiting The Sun, with Earth depicted as a blue and white sphere and Mars as a reddish-brown planet. The orbits are shown as concentric circles, and the video highlights the concept of 'opposition' when Earth and Mars are aligned on opposite sides of The Sun. As the planets move, the video illustrates 'closest approach' with a green line connecting them, displaying the distance as 54.6 million km (33.9 million mi). The view then shifts to show the maximum distance between Earth and Mars as 401 million km (250 million mi), with the planets positioned on opposite sides of their orbits. The video then presents a side-by-side comparison of Mars and Earth, followed by a dramatic zoom-out showing the vast distance between them, with an airplane icon traveling between them and text indicating '50 years For Max Distance'. The scene transitions to Mars with a spacecraft approaching, then to a Martian surface view with a streaking object in the sky, possibly a meteor or spacecraft. The video then shows Earth rotating in space, followed by a side-by-side comparison with Neptune, a large blue planet. Finally, a line connects Earth and Neptune, with text displaying the distance as 4.5 billion km (2.8 billion mi), emphasizing the immense scale of the solar system.",
+            "active_entities": {
+                "The Sun": "A large, bright orange star with visible solar flares and surface activity, shown in close-up and as the central body in the solar system model.",
+                "Earth": "A blue and white planet with visible continents and cloud cover, shown rotating in space and in side-by-side comparisons with Mars and Neptune.",
+                "Solar System Model": "A 3D animated representation of The Sun and planets orbiting in concentric paths, with Earth and Mars shown in their respective orbits.",
+                "Airplane Icon": "A small gray airplane graphic used to represent travel speed between Earth and Mars, with the travel time '50 years' displayed for maximum distance.",
+                "Text Overlay": "White bold text appearing sequentially: 'opposition', 'closest approach', '54.6 million km / 33.9 million mi', '401 million km / 250 million mi', '50 years For Max Distance', 'Neptune', and '4.5 Billion km / 2.8 Billion mi'."
+            },
+            "discovered_new_entities": {
+                "Mars": "A reddish-brown planet with visible surface features, shown orbiting The Sun, in side-by-side comparison with Earth, and with a spacecraft approaching.",
+                "Spacecraft": "A small, detailed spacecraft with solar panels, shown approaching Mars and orbiting it.",
+                "Martian Surface": "A reddish, rocky landscape with mountains and a hazy orange sky, viewed from the surface of Mars with a streaking object in the sky."
+            }
+        },
+        {
+            "minute": 4,
+            "caption": "The video begins with a side-by-side comparison of Earth and Neptune, emphasizing the vast distance between them with a text overlay stating '4.5 Billion km / 2.8 Billion mi'. The scene transitions to a close-up of Neptune, followed by a graph overlay showing fluctuating 'Relative Flux (Percent)' over time, suggesting scientific observation. The view then shifts to a solar system model with labeled orbits of Earth, Mars, Mercury, Venus, and Kepler, illustrating planetary positions. This is followed by real footage of a rocket launch, showing the vehicle ascending with smoke and fire, transitioning into a 3D animation of Voyager-1’s trajectory through the solar system, marked by a purple line extending beyond the outer planets. The animation zooms out to show Voyager-1’s path relative to the heliosphere, then focuses on a detailed 3D model of the Voyager-1 spacecraft rotating in space. The final scene reveals the iconic 'Pale Blue Dot' image of Earth from 6 Billion km (3.7 Billion mi) away, with a faint sunbeam visible, underscoring Earth’s smallness in the cosmos.",
+            "active_entities": {
+                "Earth": "A blue and white planet with visible continents and cloud cover, shown rotating in space and in side-by-side comparisons with Mars and Neptune.",
+                "Solar System Model": "A 3D animated representation of The Sun and planets orbiting in concentric paths, with Earth, Mars, Mercury, Venus, and Kepler shown in their respective orbits.",
+                "The Sun": "A large, bright orange star with visible solar flares and surface activity, shown as the central body in the solar system model.",
+                "Text Overlay": "White bold text appearing sequentially: 'Neptune', '4.5 Billion km / 2.8 Billion mi', 'Relative Flux (Percent)', 'TIME (DAYS)', 'Pale Blue Dot', '6 Billion km / 3.7 Billion mi'.",
+                "Starfield": "A dark expanse filled with numerous distant stars, serving as the backdrop for the Voyager-1 animation and the 'Pale Blue Dot' image."
+            },
+            "discovered_new_entities": {
+                "Neptune": "A large, pale blue planet with subtle atmospheric bands, shown in close-up and in a side-by-side comparison with Earth.",
+                "Voyager-1": "A detailed 3D model of the spacecraft with a large dish antenna, scientific instruments, and extended booms, shown rotating in space and traveling along a purple trajectory line.",
+                "Graph Overlay": "A green line graph on a blue grid, plotting 'Relative Flux (Percent)' against 'TIME (DAYS)', superimposed over Neptune.",
+                "Rocket Launch Footage": "Real-world video of a rocket ascending from a launchpad, emitting smoke and fire, transitioning from ground-level to aerial views.",
+                "Voyager-1 Trajectory Line": "A purple line in 3D space representing the path of Voyager-1, extending from the inner solar system outward beyond the heliosphere.",
+                "Pale Blue Dot Image": "A faint, tiny blue dot representing Earth, captured from 6 Billion km away, with a bright sunbeam streaking across the frame, symbolizing Earth’s insignificance in the vastness of space."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video begins with a hauntingly beautiful view of the 'Pale Blue Dot' image, showing Earth as a tiny speck in the vastness of space, 6 Billion km (3.7 Billion mi) away, with a bright sunbeam streaking across the frame. The scene transitions to a dark, star-filled expanse labeled 'Oort Cloud,' emphasizing the immense scale of the outer solar system. A logarithmic scale diagram then appears, illustrating the solar system's structure from the Sun to the Oort Cloud, with key boundaries like the Termination Shock and Heliopause marked, and Voyager-1 shown crossing into interstellar space. The perspective shifts to a dynamic 3D solar system model, with the Sun at the center and planets orbiting in concentric paths, including Earth, Mars, Mercury, Venus, and Kepler. The animation zooms out to show Voyager-1's trajectory extending beyond the heliosphere, with timestamps indicating its progress. The video concludes with a detailed infographic of the solar system, displaying planets, moons, and the Kuiper Belt, with the Oort Cloud depicted as a distant, sparse region of icy bodies, reinforcing the scale and isolation of our cosmic neighborhood.",
+            "active_entities": {
+                "Pale Blue Dot Image": "A faint, tiny blue dot representing Earth, captured from 6 Billion km away, with a bright sunbeam streaking across the frame, symbolizing Earth’s insignificance in the vastness of space.",
+                "Starfield": "A dark expanse filled with numerous distant stars, serving as the backdrop for the Voyager-1 animation and the 'Pale Blue Dot' image.",
+                "Voyager-1": "A detailed 3D model of the spacecraft with a large dish antenna, scientific instruments, and extended booms, shown rotating in space and traveling along a purple trajectory line, crossing into interstellar space.",
+                "Solar System Model": "A 3D animated representation of The Sun and planets orbiting in concentric paths, with Earth, Mars, Mercury, Venus, and Kepler shown in their respective orbits.",
+                "The Sun": "A large, bright orange star with visible solar flares and surface activity, shown as the central body in the solar system model.",
+                "Text Overlay": "White bold text appearing sequentially: 'Pale Blue Dot', '6 Billion km / 3.7 Billion mi', 'Oort Cloud', 'Termination Shock', 'Heliopause', 'Voyager-1', 'Interstellar Space', 'Jun 21, 2008', '15:48 UT', '18:40 UT'.",
+                "Graph Overlay": "A green line graph on a blue grid, plotting 'Relative Flux (Percent)' against 'TIME (DAYS)', superimposed over Neptune (though not visible in this segment, referenced in context)."
+            },
+            "discovered_new_entities": {
+                "Oort Cloud": "A vast, sparse region of icy bodies depicted as a dark, star-dusted expanse, shown as the outermost boundary of the solar system.",
+                "Logarithmic Scale Diagram": "A horizontal scale with logarithmic increments (100, 1,000, 10,000, 100,000, 1,000,000) showing the solar system's structure from the Sun to the Oort Cloud, with labeled boundaries like Termination Shock, Heliopause, and positions of Voyager-1 and nearby stars.",
+                "Solar System Infographic": "A detailed, static diagram of the solar system showing planets, moons, asteroid belt, Kuiper Belt, and Oort Cloud, with labeled distances and celestial bodies, emphasizing scale and structure."
+            }
+        },
+        {
+            "minute": 6,
+            "caption": "The video begins with a close-up of the Oort Cloud, depicted as a vast, translucent, oval-shaped shell of icy debris surrounding the solar system, with a bright star at its center. The scene transitions to a view of Earth from space, shown as a blue and white planet partially illuminated against a starfield, with the Milky Way visible in the background. The camera then zooms out, revealing a constellation diagram of Camelopardalis and Cepheus, with a bright star labeled 'WISE 1049-5319' appearing in the center. Text overlays display its distance: '41.3 Trillion km / 25.6 Trillion Mi' and '276,000 AU'. The star glows intensely as a dark, featureless planet enters the frame, moving across the foreground, silhouetted against the star and the Milky Way. The camera pans across the galactic plane, showcasing dense star fields and nebulae, before zooming into a bright star cluster. The scene shifts to a detailed 3D model of Voyager-1, shown traveling through space with a bright star system in the background. Text overlays indicate its speed: '17 km/s / 10.5 mi/s', and the time it would take to reach the star system: '70,000 years'. The spacecraft continues its journey, moving slowly toward the star system, emphasizing the vastness of interstellar space.",
+            "active_entities": {
+                "Oort Cloud": "A vast, translucent, oval-shaped shell of icy debris surrounding the solar system, with a bright star at its center, shown in a close-up view.",
+                "Earth": "A blue and white planet with visible continents and cloud cover, shown partially illuminated against a starfield, with the Milky Way in the background.",
+                "Starfield": "A dark expanse filled with numerous distant stars, serving as the backdrop for the constellation diagram and the Voyager-1 animation.",
+                "Voyager-1": "A detailed 3D model of the spacecraft with a large dish antenna, scientific instruments, and extended booms, shown rotating in space and traveling along a trajectory toward a bright star system.",
+                "The Sun": "A large, bright orange star with visible solar flares and surface activity, shown as the central body in the Oort Cloud scene, though not directly labeled as 'The Sun' in this segment.",
+                "Text Overlay": "White bold text appearing sequentially: '41.3 Trillion km / 25.6 Trillion Mi', '276,000 AU', '17 km/s / 10.5 mi/s', '70,000 years', providing distance and speed information for the star and Voyager-1."
+            },
+            "discovered_new_entities": {
+                "Constellation Diagram": "A white line diagram showing the constellations Camelopardalis and Cepheus, with labeled stars including 'WISE 1049-5319', appearing over the Milky Way background.",
+                "WISE 1049-5319": "A bright, orange-hued star located in the constellation Camelopardalis, shown as the focal point of the scene with distance and astronomical unit data overlaid, representing a distant brown dwarf star.",
+                "Dark Planet": "A large, featureless, black sphere with no visible surface details, shown moving across the foreground in silhouette against the bright star WISE 1049-5319 and the Milky Way, possibly representing a hypothetical exoplanet or rogue planet."
+            }
+        },
+        {
+            "minute": 7,
+            "caption": "The video begins with a close-up of a dark, silhouetted planet against a starfield, with a bright orange star glowing in the distance, suggesting a distant exoplanet system. The scene transitions to a detailed, labeled diagram of the Milky Way galaxy, highlighting its spiral arms and the Sun’s position within the Orion Spur. Text overlays appear, stating 'The Milky Way' and '100,000 light years in diameter,' emphasizing the galaxy’s vast scale. The view then zooms into the galaxy’s structure, showing a 3D perspective of the spiral arms with a box highlighting a small region, which is then magnified to reveal a dense starfield. The camera accelerates through space, creating a star-streaking effect as it moves toward the galactic center, culminating in a close-up of the bright, glowing core surrounded by swirling dust and gas. The final frames show a side view of the galaxy’s disk, with the luminous bulge at the center and the dark, dusty spiral arms extending outward, conveying the immense and dynamic nature of the Milky Way.",
+            "active_entities": {
+                "Starfield": "A dark expanse filled with numerous distant stars, serving as the backdrop for the initial planet and star scene, and later as the environment through which the camera travels at high speed.",
+                "Dark Planet": "A large, featureless, black sphere shown in silhouette against a bright star and starfield, moving across the foreground, possibly representing a rogue planet or exoplanet."
+            },
+            "discovered_new_entities": {
+                "The Milky Way": "A detailed, labeled spiral galaxy diagram showing its arms, central bulge, and the Sun’s position, with text overlays indicating its 100,000 light-year diameter.",
+                "Galactic Core": "A bright, glowing region at the center of the Milky Way, surrounded by swirling dust and gas, shown in close-up as the camera approaches it.",
+                "Spiral Arms Diagram": "A labeled, 3D representation of the Milky Way’s spiral arms, including Sagittarius, Norma, Scutum-Centaurus, and Perseus Arms, with radial distance markers and galactic longitude lines."
+            }
+        },
+        {
+            "minute": 8,
+            "caption": "The video begins with a close-up view of a spiral galaxy, likely the Milky Way, shown in a side-on perspective with a bright galactic core and swirling arms, set against a dark starfield. The camera then rapidly zooms out, transitioning into a vast starfield filled with countless stars, emphasizing the scale of space. As the view continues to expand, a 3D diagram of the Local Group and nearby galaxies appears, centered on the Milky Way, with concentric rings marking distances in millions of light-years (2, 4, 6, 8 million ly). Various galaxies, including Andromeda, are labeled and positioned in 3D space, with lines connecting them to their respective distances. The diagram rotates slowly, providing a dynamic perspective of the local cosmic neighborhood. Text overlays appear, including 'Local Group and nearest galaxies' and '10 Million Years', indicating the scale and time context. The scene then transitions back to a starfield, with the camera moving through space, passing by distant galaxies and stars, reinforcing the immense scale and depth of the universe.",
+            "active_entities": {
+                "The Milky Way": "A spiral galaxy shown in side-on view with a bright central bulge and visible spiral arms, set against a dark starfield, serving as the focal point before zooming out into the larger cosmic context.",
+                "Starfield": "A dark expanse filled with numerous distant stars, serving as the backdrop during the zoom-out sequence and the final travel-through-space scene.",
+                "Text Overlay": "White bold text appearing sequentially: 'Local Group and nearest galaxies' and '10 Million Years', providing context for the 3D diagram and the scale of the visualization."
+            },
+            "discovered_new_entities": {
+                "Local Group and nearest galaxies": "A 3D animated diagram showing the Milky Way at the center, surrounded by labeled galaxies like Andromeda, with concentric rings marking distances in millions of light-years (2, 4, 6, 8 million ly), rotating slowly to provide a dynamic view of the local cosmic structure."
+            }
+        },
+        {
+            "minute": 9,
+            "caption": "The video begins with a vast, dark starfield filled with countless distant stars, creating a sense of deep space. As the camera slowly zooms out, the starfield transitions into a detailed 3D cosmic map, revealing labeled galaxy clusters and superclusters such as the Virgo Supercluster, Centaurus Supercluster, and the Local Group. Text overlays appear, indicating distances like '110 Million Light Years' and '33 Megaparsecs', providing scale. The view continues to expand, forming a cylindrical structure labeled 'LANIAKEA' on the left side, which encapsulates the entire visible structure. The cylinder rotates slowly, showcasing the intricate web of galaxies and voids within the Laniakea Supercluster. A scale bar appears at the bottom, reading '500 Million Light Years', emphasizing the immense scale. The scene then transitions back to a rapid zoom through the starfield, simulating travel through space, ending with a dynamic, radial burst of stars moving toward the viewer, reinforcing the vastness and motion of the cosmos.",
+            "active_entities": {
+                "Starfield": "A dark expanse filled with numerous distant stars, serving as the backdrop during the zoom-out sequence and the final travel-through-space scene.",
+                "Text Overlay": "White bold text appearing sequentially: '110 Million Light Years', '33 Megaparsecs', and '500 Million Light Years', providing context for the scale of the visualization."
+            },
+            "discovered_new_entities": {
+                "LANIAKEA": "A large, transparent cylindrical structure labeled vertically on the left, containing a 3D map of galaxy clusters and superclusters, rotating slowly to reveal the cosmic web within the Laniakea Supercluster."
+            }
+        },
+        {
+            "minute": 10,
+            "caption": "The video begins with a dynamic travel-through-space effect, where countless white stars streak toward the viewer from a central point in a black void, simulating high-speed motion through the cosmos. This sequence transitions into a detailed 3D map of the local cosmic structure, revealing a complex web of galaxy clusters and voids labeled with names such as 'Virgo Supercluster', 'Shapley Supercluster', 'Perseus-Pisces Supercluster', and 'Coma Supercluster', among others. The map is contained within a transparent cylindrical boundary labeled 'LOCAL SUPERCLUSTERS' on the left side, which rotates slowly to reveal the full 3D structure. The camera then zooms out further, transitioning to an even larger scale, where the entire structure is now enclosed within a larger cylinder labeled 'OBSERVABLE UNIVERSE' on the left, with the text '93 Billion Light Years' appearing at the bottom, emphasizing the immense scale. The final view shows a dense, granular field of galaxies stretching across the observable universe, with the Virgo Supercluster highlighted in blue at the center, underscoring its position within the vast cosmic web.",
+            "active_entities": {
+                "Starfield": "A dark expanse filled with numerous distant stars, serving as the backdrop during the zoom-out sequence and the final travel-through-space scene, now also forming the background of the 3D cosmic map.",
+                "Text Overlay": "White bold text appearing sequentially: 'LOCAL SUPERCLUSTERS' and 'OBSERVABLE UNIVERSE' on the left side of the screen, and '93 Billion Light Years' at the bottom, providing context for the scale of the visualization."
+            },
+            "discovered_new_entities": {
+                "Virgo Supercluster": "A central, labeled region in the 3D cosmic map, highlighted in blue, representing the dense cluster of galaxies that includes our own Milky Way, and serving as the focal point within the Local Superclusters and Observable Universe visualizations.",
+                "Local Superclusters": "A transparent cylindrical structure labeled vertically on the left, containing a 3D map of galaxy clusters and superclusters, rotating slowly to reveal the cosmic web within the Laniakea Supercluster, now shown as a subset of the larger Observable Universe.",
+                "Observable Universe": "A larger transparent cylindrical structure labeled vertically on the left, encompassing the Local Superclusters, with the text '93 Billion Light Years' displayed at the bottom, representing the entire observable cosmos as a dense field of galaxies."
+            }
+        },
+        {
+            "minute": 11,
+            "caption": "The video begins with a 3D cylindrical representation of the Observable Universe, filled with a dense field of galaxies, labeled vertically on the left. The camera slowly zooms out, transitioning from the cylindrical model to a side-on view of the Milky Way galaxy, showcasing its spiral arms and bright galactic core. The scene then shifts to a view of Earth, partially illuminated against a starfield, followed by a zoom-out that reveals the Moon orbiting Earth, with a trajectory line indicating travel between them. The camera continues to zoom out, transitioning through a blue translucent sphere representing the observable universe, which is filled with galaxies and cosmic structures. Text appears in the center: 'Observable Universe ≠ Entire Universe', emphasizing the distinction between what we can observe and the full extent of the universe. The scene then transitions to a rapid, radial zoom through space, culminating in a view of a bright star and a faint, distant object, possibly a rogue planet or exoplanet, moving across the foreground. The final frames show a starfield with a bright star and a streaking object, suggesting travel through deep space.",
+            "active_entities": {
+                "Observable Universe": "A large, transparent cylindrical structure labeled vertically on the left, filled with a dense field of galaxies, transitioning into a blue translucent sphere representing the observable cosmos, with text overlay emphasizing it is not the entire universe.",
+                "The Milky Way": "A spiral galaxy shown in side-on view with a bright central bulge and visible spiral arms, serving as the focal point before zooming out into the larger cosmic context.",
+                "Earth": "A blue and white planet with visible continents and cloud cover, shown partially illuminated against a starfield, with the Milky Way in the background.",
+                "Moon": "A gray, cratered celestial body shown in close-up, then in a side-by-side comparison with Earth, and finally as the foreground in a view looking up at Earth from its surface.",
+                "Starfield": "A dark expanse filled with numerous distant stars, serving as the backdrop during the zoom-out sequence and the final travel-through-space scene, now also forming the background of the 3D cosmic map.",
+                "Text Overlay": "White bold text appearing sequentially: 'Observable Universe ≠ Entire Universe' in the center of the screen, providing context for the scale and conceptual distinction of the visualization."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 12,
+            "caption": "The video begins with a soft, glowing, pastel-hued nebula-like background, gradually transitioning into a vibrant cosmic scene filled with swirling clouds of gas and dust in blues, pinks, and purples. As the camera moves forward, a bright, spiraling galaxy emerges from the center, glowing with intense blue and white light, surrounded by scattered stars. The galaxy evolves into a more defined spiral structure with luminous arms, then undergoes a dramatic transformation as it brightens into a fiery orange and red hue, suggesting a galactic merger or intense stellar activity. The scene expands to reveal a vast field of galaxies of various shapes and sizes, all floating in the dark expanse of space, creating a sense of depth and scale. The final frames show a dense, dynamic universe filled with countless galaxies, emphasizing the immense scale and complexity of the cosmos. The overall atmosphere is one of awe-inspiring grandeur, with a focus on the evolution and structure of galaxies within the observable universe.",
+            "active_entities": {
+                "The Milky Way": "A spiral galaxy shown in side-on view with a bright central bulge and visible spiral arms, serving as the focal point before zooming out into the larger cosmic context.",
+                "Observable Universe": "A large, transparent cylindrical structure labeled vertically on the left, filled with a dense field of galaxies, transitioning into a blue translucent sphere representing the observable cosmos, with text overlay emphasizing it is not the entire universe."
+            },
+            "discovered_new_entities": {}
+        }
+    ],
+    "entity_library": {
+        "Earth": "A blue and white planet with visible continents and cloud cover, shown partially illuminated against a starfield, with the Milky Way in the background.",
+        "Moon": "A gray, cratered celestial body shown in close-up, then in a side-by-side comparison with Earth, and finally as the foreground in a view looking up at Earth from its surface.",
+        "Starfield": "A dark expanse filled with numerous distant stars, serving as the backdrop during the zoom-out sequence and the final travel-through-space scene, now also forming the background of the 3D cosmic map.",
+        "Car Icon": "A small gray car graphic used to represent travel speed (100km/h / 60mi/h) between Earth and the Moon, with the travel time '160 days' displayed below.",
+        "Text Overlay": "White bold text appearing sequentially: 'Observable Universe ≠ Entire Universe' in the center of the screen, providing context for the scale and conceptual distinction of the visualization.",
+        "The Sun": "A large, bright orange star with visible solar flares and surface activity, shown as the central body in the Oort Cloud scene, though not directly labeled as 'The Sun' in this segment.",
+        "Airplane Icon": "A small gray airplane graphic used to represent travel speed between Earth and Mars, with the travel time '50 years' displayed for maximum distance.",
+        "Solar System Model": "A 3D animated representation of The Sun and planets orbiting in concentric paths, with Earth, Mars, Mercury, Venus, and Kepler shown in their respective orbits.",
+        "Mars": "A reddish-brown planet with visible surface features, shown orbiting The Sun, in side-by-side comparison with Earth, and with a spacecraft approaching.",
+        "Spacecraft": "A small, detailed spacecraft with solar panels, shown approaching Mars and orbiting it.",
+        "Martian Surface": "A reddish, rocky landscape with mountains and a hazy orange sky, viewed from the surface of Mars with a streaking object in the sky.",
+        "Neptune": "A large, pale blue planet with subtle atmospheric bands, shown in close-up and in a side-by-side comparison with Earth.",
+        "Voyager-1": "A detailed 3D model of the spacecraft with a large dish antenna, scientific instruments, and extended booms, shown rotating in space and traveling along a trajectory toward a bright star system.",
+        "Graph Overlay": "A green line graph on a blue grid, plotting 'Relative Flux (Percent)' against 'TIME (DAYS)', superimposed over Neptune (though not visible in this segment, referenced in context).",
+        "Rocket Launch Footage": "Real-world video of a rocket ascending from a launchpad, emitting smoke and fire, transitioning from ground-level to aerial views.",
+        "Voyager-1 Trajectory Line": "A purple line in 3D space representing the path of Voyager-1, extending from the inner solar system outward beyond the heliosphere.",
+        "Pale Blue Dot Image": "A faint, tiny blue dot representing Earth, captured from 6 Billion km away, with a bright sunbeam streaking across the frame, symbolizing Earth’s insignificance in the vastness of space.",
+        "Oort Cloud": "A vast, translucent, oval-shaped shell of icy debris surrounding the solar system, with a bright star at its center, shown in a close-up view.",
+        "Logarithmic Scale Diagram": "A horizontal scale with logarithmic increments (100, 1,000, 10,000, 100,000, 1,000,000) showing the solar system's structure from the Sun to the Oort Cloud, with labeled boundaries like Termination Shock, Heliopause, and positions of Voyager-1 and nearby stars.",
+        "Solar System Infographic": "A detailed, static diagram of the solar system showing planets, moons, asteroid belt, Kuiper Belt, and Oort Cloud, with labeled distances and celestial bodies, emphasizing scale and structure.",
+        "Constellation Diagram": "A white line diagram showing the constellations Camelopardalis and Cepheus, with labeled stars including 'WISE 1049-5319', appearing over the Milky Way background.",
+        "WISE 1049-5319": "A bright, orange-hued star located in the constellation Camelopardalis, shown as the focal point of the scene with distance and astronomical unit data overlaid, representing a distant brown dwarf star.",
+        "Dark Planet": "A large, featureless, black sphere shown in silhouette against a bright star and starfield, moving across the foreground, possibly representing a rogue planet or exoplanet.",
+        "The Milky Way": "A spiral galaxy shown in side-on view with a bright central bulge and visible spiral arms, serving as the focal point before zooming out into the larger cosmic context.",
+        "Galactic Core": "A bright, glowing region at the center of the Milky Way, surrounded by swirling dust and gas, shown in close-up as the camera approaches it.",
+        "Spiral Arms Diagram": "A labeled, 3D representation of the Milky Way’s spiral arms, including Sagittarius, Norma, Scutum-Centaurus, and Perseus Arms, with radial distance markers and galactic longitude lines.",
+        "Local Group and nearest galaxies": "A 3D animated diagram showing the Milky Way at the center, surrounded by labeled galaxies like Andromeda, with concentric rings marking distances in millions of light-years (2, 4, 6, 8 million ly), rotating slowly to provide a dynamic view of the local cosmic structure.",
+        "LANIAKEA": "A large, transparent cylindrical structure labeled vertically on the left, containing a 3D map of galaxy clusters and superclusters, rotating slowly to reveal the cosmic web within the Laniakea Supercluster.",
+        "Virgo Supercluster": "A central, labeled region in the 3D cosmic map, highlighted in blue, representing the dense cluster of galaxies that includes our own Milky Way, and serving as the focal point within the Local Superclusters and Observable Universe visualizations.",
+        "Local Superclusters": "A transparent cylindrical structure labeled vertically on the left, containing a 3D map of galaxy clusters and superclusters, rotating slowly to reveal the cosmic web within the Laniakea Supercluster, now shown as a subset of the larger Observable Universe.",
+        "Observable Universe": "A large, transparent cylindrical structure labeled vertically on the left, filled with a dense field of galaxies, transitioning into a blue translucent sphere representing the observable cosmos, with text overlay emphasizing it is not the entire universe."
+    }
+}

@@ -1,0 +1,853 @@
+{
+  "video_id": "video460",
+  "audio_id": "video460_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "The Metabolic Link podcast opens with an abstract animation of glowing blue and green particles and bokeh effects, set to upbeat, futuristic music, introducing its focus on metabolism in health and disease. A 3D-rendered mitochondrial structure interlocked with a silver ring visually represents the podcast's theme. The voiceover announces the presentation was filmed at Metabolic Health Summit 2024 in Clearwater Beach, Florida. The scene transitions to a live presentation where upbeat music fades, and a male voiceover introduces Dr. Bickman, who stands behind a transparent podium in a dark button-up shirt, holding papers and speaking into a microphone. The background features a modern, geometric blue design with soft lighting. Dr. Bickman, with a PhD in bioenergetics and a post-doctoral fellowship, is described as a scientist and professor at Brigham Young University specializing in elevated insulin and nutrient signaling's role in obesity, diabetes, and dementia, while he gestures and consults his notes.",
+      "involved_entities": {
+        "The Metabolic Link Logo": {
+          "description": "A 3D-rendered blue mitochondrial structure interlocked with a silver ring, set against a dark, particle-filled background with glowing bokeh effects, symbolizing a scientific or biological connection. It is introduced by a female voiceover as the branding for 'The Metabolic Link,' a 'medical and science-focused podcast that explores the common thread of metabolism in health and disease.'",
+          "attribute": "audio-visual"
+        },
+        "Speaker": {
+          "description": "A man, identified by a male voiceover as 'Dr. Bickman,' in a dark button-up shirt standing behind a transparent podium, holding papers and speaking into a microphone, with a focused and professional demeanor in a modern blue-lit presentation setting. The voiceover details his academic background (PhD in bioenergetics, post-doctoral fellow at Duke National University of Singapore), his professional roles (scientist and professor at Brigham Young University), and his research focus (elevated insulin and nutrient signaling in regulating obesity, diabetes, and dementia). His family is also mentioned.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a visually rich, abstract animation featuring glowing particles and bokeh effects in deep blues and greens, creating a futuristic, scientific atmosphere, accompanied by upbeat, futuristic music. A clear female voiceover introduces, \"Welcome to The Metabolic Link,\" describing it as a medical and science-focused podcast exploring the common thread of metabolism in health and disease, as the text appears on screen. This transitions dynamically to a 3D-rendered blue mitochondrial structure interlocked with a silver ring, symbolizing the 'link' of the podcast's theme. The voiceover continues, welcoming viewers back to another episode and stating that the following presentation was filmed at Metabolic Health Summit 2024 in Clearwater Beach, Florida. The scene then shifts to a live presentation setting where the upbeat music fades, and a male voiceover begins to introduce the speaker. A man, identified as Dr. Bickman, stands behind a transparent podium, dressed in a dark button-up shirt. He holds a stack of papers and speaks into a microphone, occasionally glancing down at his notes and gesturing with his hands. The background is a modern, geometric blue design with soft lighting, suggesting a professional or scientific conference environment. The speaker appears engaged and deliberate, emphasizing points with subtle hand movements while maintaining a composed posture, as the male voiceover details his extensive background, including a PhD in bioenergetics, a post-doctoral fellowship, and his current role as a scientist and professor at Brigham Young University, focusing on elevated insulin and nutrient signaling in regulating obesity, diabetes, and dementia, also mentioning his family."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 9,
+      "summary": "The Metabolic Health Summit opens with an introducer announcing Benjamin Bikman, PhD, author of 'Why We Get Sick' and co-founder of HLTH Code, for his talk 'Fat, Why It Matters, and What to Do About It,' later adjusted to 'Shrinking Fat Cells: Energy vs. Insulin.' Visually, Bikman, in a dark button-up shirt, is seen on a modern, blue-lit stage, initially behind a transparent podium, holding papers and speaking into a microphone. He steps away from the podium, gesturing expressively and thanking organizers for the 'incredible event' in the 'most beautiful location.' A slide appears showing a world map with overlapping circles for 'Fat Cells' and 'Insulin Resistance,' highlighting that 'Roughly half of all adults are overweight' and 'Over half of all adults have insulin resistance,' establishing global context. Bikman, identifying as a 'fat scientist,' focuses on the fat cell as a model for energy usage, noting that over half the world's adults are metabolically sick and overweight or obese. He explains that fat mass grows through hypertrophy (individual cell enlargement) or hyperplasia (cell multiplication), illustrated by animated diagrams. He details two problems with hypertrophic fat gain: cells running out of room, leading to insulin resistance to prevent further growth, and cells 'suffocating' due to being too far from capillaries. This hypoxia triggers the release of pro-inflammatory cytokines, causing inflammation as the cell attempts to survive and stimulate new blood vessel growth. The presentation maintains a clean, scientific aesthetic with geometric patterns and The Metabolic Health Summit Logo consistently visible.",
+      "involved_entities": {
+        "Global Health Statistics Slide": {
+          "description": "A dynamic slide featuring a world map background, initially displaying two overlapping circles labeled 'Fat Cells' and 'Insulin Resistance' with red banners highlighting that 'Roughly half of all adults are overweight' and 'Over half of all adults have insulin resistance'. As the speaker elaborates on the widespread impact of insulin resistance, animated circles representing various health conditions (Heart Disease, Cancer, Fatty Liver, PCOS, Erectile Dysfunction, Dementias, Migraines, Obesity, and Diabetes) visually link to 'Insulin Resistance'. The slide then transitions to pose the question 'How does body fat cause insulin resistance?', with a red arrow and question mark connecting the two concepts, supporting the speaker's discussion on metabolic health.",
+          "attribute": "audio-visual"
+        },
+        "The Metabolic Health Summit Logo": {
+          "description": "A hexagonal design with interconnected scientific icons (brain, avocado, molecule) in white and blue, displayed in the lower-left corner of the screen along with the text 'METABOLIC HEALTH SUMMIT' and the website URL 'WWW.METABOLICHEALTHSUMMIT.COM'.",
+          "attribute": "visual"
+        },
+        "Presentation Title Slide": {
+          "description": "A black and blue graphic with bold white text reading 'Shrinking Fat Cells: Energy vs. Insulin', featuring the speaker's name, title, and affiliation, along with the Metabolic Health Summit logo and website URL. This slide sets the stage for the speaker's initial discussion about his interest in fat cells and energy.",
+          "attribute": "audio-visual"
+        },
+        "Speaker": {
+          "description": "A man in a dark button-up shirt, actively gesturing with his hands and moving slightly across the stage in a professional and engaging manner, standing in front of a blue-hexagonal backdrop. He delivers a clear, articulate, and authoritative explanation of complex biological concepts related to fat cell dysfunction and inflammation.",
+          "attribute": "audio-visual"
+        },
+        "Hypertrophy and Hyperplasia Diagram": {
+          "description": "A dynamic visual slide that evolves with the Speaker's explanation, initially showing two clusters of overlapping beige circles labeled 'Hypertrophy' and 'Hyperplasia'. It then focuses on hypertrophic fat cells, illustrating how they become too large (> 300 µm) for adequate blood flow, leading to hypoxia and 'suffocation' as described by the Speaker. Animated elements, including a red dashed line, a yellow starburst labeled 'Cytokines', and a red box labeled 'Inflammation', visually represent the biological consequences and the release of pro-inflammatory cytokines and proteins that the Speaker details.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with an unseen introducer's voice, describing the Speaker as the author of 'Why We Get Sick' and co-founder of HLTH Code/Health Code, announcing his talk title as 'Fat, Why It Matters, and What to Do About It.' Visually, the Speaker, a man in a dark button-up shirt, is seen in a close-up behind a transparent podium in a modern, blue-lit setting, holding papers and speaking into a microphone with a focused demeanor. The camera then pulls back to a wide stage view, showing him at the podium before the introducer asks for applause. Upbeat, energetic music plays as the scene transitions to a title slide for the presentation, 'Shrinking Fat Cells: Energy vs. Insulin,' by Benjamin Bikman, PhD, with the Metabolic Health Summit logo and website. The Speaker, Benjamin Bikman, then begins speaking in a clear, appreciative voice, greeting the audience and acknowledging that he 'changed the title a little bit' from what was announced. He steps away from the podium, walking across the stage and gesturing as he thanks Dom, Angela, Victoria, and all the people who helped organize what he calls 'such an incredible event,' praising it as the 'most beautiful location' he's ever spoken at. As he continues, a new slide appears behind him, displaying a world map with two large circles labeled 'Fat Cells' and 'Insulin Resistance,' accompanied by text highlighting that 'Roughly half of all adults are overweight' and 'Over half of all adults have insulin resistance,' setting the global context for his upcoming discussion.",
+        "The video opens at the Metabolic Health Summit with a presentation titled 'Shrinking Fat Cells: Energy vs. Insulin' displayed on a large screen with a black and blue gradient. The Speaker, Benjamin Bikman, PhD, a man in a dark button-up shirt, stands on a modern, blue-lit stage, initially behind a transparent podium. He immediately begins speaking in a clear, professional voice, stating his focus \"is really to zoom in on the fat cell,\" which he finds \"the most interesting.\" He briefly addresses the AV booth, asking for \"presenter mode\" to see upcoming slides. Stepping away from the podium, he gestures expressively as he jokes about being a \"fat scientist\" due to his focus on fat cells as a model to study energy and its usage. The slide then transitions to a 'Global Health Statistics' slide, featuring a world map with overlapping circles for 'Fat Cells' and 'Insulin Resistance' and red banners highlighting that \"Roughly half of all adults are overweight\" and \"Over half of all adults have insulin resistance.\" The Speaker continues to engage the audience, emphasizing these statistics, noting that \"over half of the adults in the world are metabolically sick... and have insulin resistance, and roughly half of all adults worldwide are overweight or obese,\" a problem he states \"continues to just grow.\" The stage maintains its cool blue lighting and abstract hexagonal patterns throughout.",
+        "The segment opens with a man in a dark button-up shirt, the Speaker, standing on a modern blue-lit stage, actively gesturing as he begins to explain his career's dedication to understanding insulin resistance. Behind him, the Global Health Statistics Slide is displayed, featuring a world map background and two large overlapping circles labeled 'Fat Cells' and 'Insulin Resistance', with red banners stating 'Roughly half of all adults are overweight' and 'Over half of all adults have insulin resistance'. The Speaker, with a clear and professional male voice, emphasizes that insulin resistance's relevance extends beyond its prevalence, as virtually every chronic disease—the 'plagues of prosperity'—is influenced or caused by it. As he speaks, animated circles representing various health conditions like Heart Disease, Cancer, Fatty Liver, PCOS, Erectile Dysfunction, Dementias, Migraines, Obesity, and Diabetes appear around the 'Insulin Resistance' circle, visually reinforcing its central role. The slide then transitions to a new question: 'How does body fat cause insulin resistance?', with a red arrow and question mark pointing from 'Fat Cells' to 'Insulin Resistance'. The Speaker continues to use hand gestures to underscore his points, stating his intention to provide a 'brief primer' on this connection, all while the clean, scientific aesthetic with geometric network patterns and The Metabolic Health Summit Logo in the lower-left corner remain visible.",
+        "The Speaker, a man in a dark button-up shirt, actively presents on a stage with a blue-hexagonal backdrop, using expansive hand gestures and moving slightly as he explains complex biological concepts. He begins by discussing how fat mass grows in the body, stating it occurs through \"one of two ways, and in some instances both.\" A large white presentation slide on the right displays two clusters of overlapping beige circles. As he introduces the first method, \"hypertrophy of each individual fat cell,\" the left cluster animates to reveal the label 'Hypertrophy'. He then explains the second method, \"hyperplasia,\" as the right cluster is labeled, describing it as when \"the fat cell size is staying generally the same, but the fat cells multiply to help share the metabolic burden.\" He elaborates that hypertrophy involves a static number of fat cells, with each \"getting bigger and bigger,\" while hyperplasia involves fat tissue being stimulated to grow, getting \"modestly bigger, and then it will multiply\" to \"recruit help to carry the load.\" A large red number '2' then appears on the left side of the slide as he transitions to discuss \"two problems with hypertrophic fat gain.\" Throughout, the Metabolic Health Summit Logo remains fixed in the lower-left corner, featuring its hexagonal design and website URL, reinforcing the professional and educational atmosphere.",
+        "The Speaker, a man in a dark button-up shirt, stands on stage in front of a blue-hexagonal backdrop, actively gesturing and moving slightly as he delivers a presentation at the Metabolic Health Summit. He begins by explaining his goal to convey complicated ideas in the simplest way possible. The screen displays a slide with a large red number '2', which transitions to '1' as he introduces the first problem: hypertrophic fat cells running out of room. Text overlays appear sequentially on the slide, stating 'Hypertrophic fat cells run out of room...' The Speaker likens this to a 'metabolic hotel that has no vacancy,' a concept visually reinforced by a red 'No Vacancy' box appearing below the diagram of overlapping beige circles labeled 'Hypertrophy'. He then shifts focus, explaining that 'insulin stimulates adipocyte, which is fat cell, growth,' and that it 'largely does this... by inhibiting the breakdown of fat.' Corresponding text appears on the slide: 'Become resistant to insulin to prevent further growth' and 'Insulin normally inhibits lipolysis'. The Speaker clarifies that insulin pushes in more fat, making the fat cell grow, but when the fat cell undergoes substantial hypertrophy, it reaches a 'point of maximum dimension.' He uses the analogy of a 'water balloon that we've filled so much that if we put any more in, it's going to pop,' further refining it to a scenario where 'we can't totally turn off the faucet.' Throughout, the Speaker uses expressive hand movements, occasionally pointing toward the screen, maintaining an engaging and professional demeanor, while the Metabolic Health Summit Logo and website URL remain visible in the lower-left corner.",
+        "The Speaker, a man in a dark button-up shirt, actively gestures and moves slightly across the stage in front of a blue-hexagonal backdrop at the Metabolic Health Summit. He explains that hypertrophic fat cells become resistant to insulin to prevent further growth, likening it to a water balloon that makes a tiny hole to leak rather than pop. As he speaks, the screen displays a dynamic slide, initially showing a large red number '1' with text explaining 'Hypertrophic fat cells run out of room...' and 'Become resistant to insulin to prevent further growth,' accompanied by a 'No Vacancy' box and a diagram of overlapping beige circles labeled 'Hypertrophy.' The Speaker emphasizes that this insulin resistance is a survival mechanism, preventing the cell from literally popping due to limited capacity. The slide then transitions to a large red number '2,' with the text changing to 'Hypertrophic fat cells 'suffocate'...' The Speaker elaborates on this second problem, stating that these cells start to suffocate or experience hypoxia, highlighting that a cell needs to be within a few microns of a capillary. New visual elements appear on the right side of the slide, including a red circle and two smaller beige circles with the text 'Small fat cells have sufficient blood flow,' visually contrasting the conditions. The Metabolic Health Summit Logo remains consistently visible in the lower-left corner.",
+        "The Speaker, a man in a dark button-up shirt, actively gestures and moves slightly across the stage in front of a blue-hexagonal backdrop, delivering a presentation at the Metabolic Health Summit. He begins by explaining that the capillary is the smallest functional unit of the cardiovascular system, where essential exchanges like giving out oxygen, taking in CO2, and exchanging nutrients and metabolites occur. He emphasizes that this vital exchange only happens at the capillaries, requiring cells to be very close to them to survive, including getting oxygen. On the right side of the screen, the Hypertrophy and Hyperplasia Diagram is displayed, updated to focus on point '2', with a red banner stating 'Hypertrophic fat cells 'suffocate'...'. As the Speaker transitions, the diagram visually illustrates his point about small fat cells, showing a red circle and two smaller beige circles with the text 'Small fat cells have sufficient blood flow' and a dashed line indicating '50 µm'. He explains that small fat cells are 'no problem' as they are 'well within this generally 50 micron range' of the capillary distance. He then highlights the unique ability of fat cells to expand, stating they 'can expand to more than 10 times its volume as it starts to undergo hypertrophy.' This is visually reinforced as a large beige circle appears to the right with a dashed line and the label '> 300 µm', contrasting the size of hypertrophic fat cells with smaller ones. The Metabolic Health Summit Logo remains fixed in the lower-left corner, maintaining the educational and visually structured atmosphere.",
+        "The segment opens with the Speaker, a man in a dark button-up shirt, actively gesturing and moving slightly across the stage in front of a blue-hexagonal backdrop, delivering a presentation at the Metabolic Health Summit. He explains how fat cells become \"much too far from the capillary,\" leading to \"capillaries whose distance is too great\" for hypertrophic fat cells. The screen displays a slide titled 'Hypertrophic fat cells 'suffocate'...' with a large red number '2', visually supporting his point with a diagram showing enlarged fat cells (> 300 µm) contrasted with smaller ones (50 µm) that have sufficient blood flow. The Speaker's clear voice continues, detailing how these cells \"have pushed themselves further and further from the capillary, from the life-giving blood,\" becoming \"hypoxic, they're suffocating.\" As he describes the fat cell's response, animated elements appear: a red dashed line connects the large fat cell to the smaller ones, a yellow starburst labeled 'Cytokines' emerges from the large cell, and a red box labeled 'Inflammation' appears below it. He elaborates that \"the fat cell, however, wants to survive\" and responds to hypoxia \"by releasing pro-inflammatory cytokines,\" stating, \"the hypertrophic fat cell will say, 'I'm suffocating, I need to correct this by stimulating the growth of new blood vessels... by flooding the system with pro-inflammatory proteins.'\" The overall atmosphere is educational and visually dynamic, with the speaker's articulate explanation seamlessly integrated with the evolving on-screen graphics, while The Metabolic Health Summit Logo remains visible in the lower-left corner."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 10,
+      "end_minute": 22,
+      "summary": "The Speaker, a man in a dark button-up shirt, actively gestures on stage against a blue-hexagonal backdrop, explaining that hypertrophic fat cells can induce the growth of new vessels to correct hypoxia, though their survival mechanisms, like becoming resistant to insulin and pro-inflammatory, create metabolic mayhem. He introduces the 'Personal Fat Threshold' concept, illustrating how bodies have a limit for fat storage, beyond which metabolic derangement and insulin resistance occur, but hyperplasia can push this threshold higher, paradoxically leading to insulin sensitivity. He notes that certain medications, like thiazolidinediones, activate hyperplasia, causing significant fat storage. Comparing South Asian and Caucasian populations, he reveals that South Asians have smaller, more numerous fat cells and a lower fat threshold, leading to insulin resistance at lower body fat percentages, while Caucasians have larger, fewer fat cells and a higher threshold, maintaining insulin sensitivity. This difference is reflected in insulin levels, with South Asians exhibiting higher fasting insulin. The Speaker then delves into the 'Caloric Theory,' explaining that fat cell growth requires both sufficient energy and elevated insulin, with insulin signaling the cell to grow and convert glucose into fat, and also facilitating triglyceride uptake. He clarifies that insulin's role is crucial, activating lipoprotein lipase to pull in fatty acids and preventing their release by inhibiting lipolysis, thus promoting fat storage and representing the 'Endocrine Theory.' He contrasts this with exercise, where energy output increases, and fat cells release free fatty acids, but insulin's presence dictates whether glucose is taken in or released.",
+      "involved_entities": {
+        "Hypertrophy and Hyperplasia Diagram": {
+          "description": "A visual slide that evolves throughout the segment, initially displaying a large red number '2' and text 'Hypertrophic fat cells 'suffocate'...'. It features enlarged beige circles labeled 'Hypertrophy' and smaller circles with annotations like '50 µm' and '> 300 µm', illustrating size differences. A red dashed line connects a large circle to a yellow starburst labeled 'Cytokines' and a red box labeled 'Inflammation', with text 'Small fat cells have sufficient blood flow' below. As the Speaker discusses metabolic mayhem, additional text appears: 'Hypertrophic fat cells run out of room... Become resistant to insulin to prevent further growth' and 'Become pro-inflammatory to correct blood flow'. Later, a red banner with 'An application of the idea... Personal Fat Threshold' is introduced, followed by a new slide showing a silhouette of a human figure and three beige circles labeled 'Fat Cells', with the text 'How much fat can be stored in fat cells', illustrating the 'personal fat threshold' concept.",
+          "attribute": "audio-visual"
+        },
+        "The Metabolic Health Summit Logo": {
+          "description": "A hexagonal design with interconnected scientific icons (brain, avocado, molecule) in white and blue, displayed in the lower-left corner of the screen along with the text 'METABOLIC HEALTH SUMMIT' and the website URL 'WWW.METABOLICHEALTHSUMMIT.COM'.",
+          "attribute": "visual"
+        },
+        "Speaker": {
+          "description": "A man in a dark button-up shirt, actively gesturing with his hands as he speaks, moving slightly across the stage in a professional and engaging manner, standing in front of a blue-hexagonal backdrop. He explains complex metabolic processes with a clear, articulate, and at times emphatic voice, using phrases like 'I'm gonna rip it off' to illustrate the action of lipoprotein lipase and 'slamming the door on lipolysis' to describe insulin's effect on fat output.",
+          "attribute": "audio-visual"
+        },
+        "Personal Fat Threshold Slide": {
+          "description": "A slide with a large red banner reading 'Personal Fat Threshold', featuring two beige human silhouettes labeled 'South Asian' and 'Caucasian' with a red question mark between them. The slide dynamically evolves as the Speaker explains, showing red horizontal lines indicating fat accumulation, with the South Asian silhouette filling first. Text boxes then appear above each silhouette: 'Insulin Resistant' over South Asian and 'Insulin Sensitive' over Caucasian, visually illustrating the metabolic differences being discussed. The slide also includes the subtitle 'Insulin Resistance and Body Fat Distribution in South Asian Men Compared to Caucasian Men' and initially displays microscopic fat tissue images for comparison.",
+          "attribute": "audio-visual"
+        },
+        "Fat Growth Question Slide": {
+          "description": "A slide with a large red question mark and the text 'What makes fat grow?' above two overlapping beige circles labeled 'Fat Cells', serving as a visual prompt for the next topic in the presentation, which the Speaker introduces as the growth and subsequent shrinking of fat cells.",
+          "attribute": "audio-visual"
+        },
+        "Insulin Comparison Slide": {
+          "description": "A slide featuring two beige human silhouettes labeled 'Insulin Resistant South Asian' and 'Insulin Sensitive Caucasian', initially posing the question 'Who will have the higher fasting insulin?', then revealing specific fasting insulin levels (17 µU/ml for the South Asian and 9 µU/ml for the Caucasian) as the Speaker directly references and explains these figures in relation to metabolic health.",
+          "attribute": "audio-visual"
+        },
+        "Fat Cells Diagram": {
+          "description": "Three overlapping beige circles labeled 'Fat Cells' in the center of a white slide, flanked by two house-shaped banners — a red one labeled 'Energy' on the left and an orange one labeled 'Insulin' on the right — illustrating a metabolic model involving energy and insulin in relation to fat cells.",
+          "attribute": "visual"
+        },
+        "Sufficient Energy Banner": {
+          "description": "Initially a red, house-shaped banner labeled 'Energy', it later changes to purple with the label 'Glucose' inside, aligning with the Speaker's discussion of 'glucose' as an energy source in the blood during exercise.",
+          "attribute": "audio-visual"
+        },
+        "Elevated Insulin Banner": {
+          "description": "An orange, house-shaped banner with white text reading 'Insulin' (the word 'Elevated' has been removed), appearing on the right side of the 'Fat Cells' diagram to represent a hormonal state, now faded and partially obscured.",
+          "attribute": "visual"
+        },
+        "FFA Arrow": {
+          "description": "A red arrow labeled 'FFA' (free fatty acids) pointing away from the 'Fat Cells' diagram, indicating the release of fatty acids from fat cells, appearing as the final animated element in the sequence.",
+          "attribute": "visual"
+        },
+        "TG Arrow": {
+          "description": "A red arrow labeled 'TG' (triglycerides) appearing below the 'Glucose' arrow, also pointing toward the 'Fat Cells' diagram, indicating another input into fat cell metabolism.",
+          "attribute": "visual"
+        },
+        "Glucose Arrow": {
+          "description": "A red arrow labeled 'Glucose' pointing toward the 'Fat Cells' diagram, appearing as part of the animated explanation of metabolic processes.",
+          "attribute": "visual"
+        },
+        "Regulation Question Box": {
+          "description": "A red rectangular box with white text reading 'But how is it regulated?' appearing below the fat cells diagram, accompanied by a large red question mark, prompting further discussion on metabolic regulation as the Speaker transitions his explanation.",
+          "attribute": "audio-visual"
+        },
+        "Caloric Theory Text Box": {
+          "description": "A red rectangular box with white text reading 'Caloric Theory' and a smaller quote 'More energy goes in than out' above it, appearing as the Speaker defines and discusses the 'caloric theory' of fat cell growth.",
+          "attribute": "audio-visual"
+        },
+        "Running Stick Figure": {
+          "description": "A red stick figure in a running pose appears to the right of the FFA arrow, visually representing physical activity and energy expenditure, which the Speaker links to the release of fat.",
+          "attribute": "audio-visual"
+        },
+        "How do fat cells know to release, not make, fat? Text Box": {
+          "description": "A red rectangular banner with white text appearing at the top of the screen, posing a central question about fat cell regulation.",
+          "attribute": "visual"
+        },
+        "Hormones Text Box": {
+          "description": "An orange rectangular box with white text reading 'Hormones' appearing above the fat cells diagram, introduced as the key regulatory mechanism by the Speaker.",
+          "attribute": "audio-visual"
+        },
+        "Energy Banner": {
+          "description": "A red, house-shaped banner with white text reading 'Energy' (the word 'Sufficient' has been removed), appearing on the left side of the 'Fat Cells' diagram to represent a metabolic state, which later fades to white.",
+          "attribute": "visual"
+        },
+        "Number 2": {
+          "description": "A large orange number '2' appearing next to the 'Insulin' banner, indicating a second point in the presentation, followed by two explanatory text boxes: 'Increases energy uptake into fat cells' and 'Reduces energy output'.",
+          "attribute": "visual"
+        },
+        "Insulin Banner": {
+          "description": "An orange, house-shaped banner with white text reading 'Insulin' (the word 'Elevated' has been removed), appearing on the right side of the 'Fat Cells' diagram to represent a hormonal state, which becomes fully visible and prominent.",
+          "attribute": "visual"
+        },
+        "Insulin promotes fat storage Text Box": {
+          "description": "A small orange text box with white text reading 'Insulin promotes fat storage', appearing above the diagram to reinforce the key takeaway.",
+          "attribute": "visual"
+        },
+        "Endocrine Theory Text Box": {
+          "description": "A large orange rectangular box with white text reading 'Endocrine Theory', appearing above the diagram as the Speaker concludes his explanation, explicitly stating, 'This in its simplest form represents the endocrine theory.'",
+          "attribute": "audio-visual"
+        },
+        "Prohibition Symbol over FFA Arrow": {
+          "description": "An orange circular prohibition symbol (a red circle with a diagonal line) appearing over the FFA arrow, visually indicating that insulin suppresses the release of free fatty acids from fat cells.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with the Speaker, a man in a dark button-up shirt, actively gesturing on a stage against a blue-hexagonal backdrop. He explains in a clear, educational tone how some fat cells \"will in fact induce the growth of new vessels, thereby correcting the hypoxia.\" The Hypertrophy and Hyperplasia Diagram is central, initially showing a large red '2' and text 'Hypertrophic fat cells 'suffocate'...'. The diagram illustrates enlarged beige 'Hypertrophy' circles versus smaller ones, annotated '50 µm' and '> 300 µm', with text 'Small fat cells have sufficient blood flow'. The Speaker continues, detailing how \"these two things that the hypertrophic fat cells do to survive, end up creating so much of the metabolic mayhem that we see throughout the rest of the body.\" Visually, a red dashed line connects a large fat cell to a yellow starburst 'Cytokines' and a red box 'Inflammation', while text appears: 'Hypertrophic fat cells run out of room... Become resistant to insulin to prevent further growth' and 'Become pro-inflammatory to correct blood flow'. The Speaker then shifts, stating, \"Now with all of this in mind... let this be a vehicle to introduce an interesting theoretical concept known as the personal fat threshold.\" A red banner 'An application of the idea... Personal Fat Threshold' appears, followed by a new slide featuring a human silhouette and three beige 'Fat Cells' circles, with the text 'How much fat can be stored in fat cells'. He elaborates that \"within certain bodies, people will have a varying threshold above which that body doesn't want to store more fat,\" humorously adding, \"Now you'll have to pardon my excessively cartoonish method.\" Throughout, the Metabolic Health Summit Logo remains visible in the lower-left corner, reinforcing the event's branding.",
+        "The Speaker, a man in a dark button-up shirt, actively gestures and moves slightly across the stage in front of a blue-hexagonal backdrop, delivering a presentation on metabolic health. He explains that while storing fat above certain levels doesn't always mean metabolic derangement, there's a threshold where the body starts to suffer. On the right, the 'Personal Fat Threshold' slide is displayed, featuring a large red banner with the title and a diagram of overlapping beige 'Fat Cells'. A beige human silhouette appears, with text asking 'How much fat can be stored in fat cells'. As the Speaker elaborates on fat accumulation, the silhouette gradually fills with red from the bottom up. He clarifies that if fat stored in cells is below a certain threshold, the person is 'Insulin Sensitive', a state where they are not suffering metabolic complications. This is visually represented by an orange 'Insulin Sensitive' text box appearing. He then transitions to explain that if a person has gained and stored fat beyond the optimal capacity of their adipose tissue, they move into 'metabolic derangement' and 'Insulin Resistant' states, which is shown by a darker orange 'Insulin Resistant' text box. The Speaker then poses a new question, 'What if we could force fat to store more fat?', which simultaneously appears in a red box on the evolving slide. The Metabolic Health Summit Logo remains fixed in the lower-left corner throughout this educational and visually dynamic explanation.",
+        "The segment features a male Speaker, dressed in a dark button-up shirt, actively gesturing and moving across a stage in front of a blue-hexagonal backdrop at the Metabolic Health Summit. He explains in a clear, explanatory voice how fat cells can undergo hyperplasia, stating, \"You would think if the story I just told you is true, that filling fat cells is what creates the not the amount, not the total amount of fat on the body, not the fat mass, but the size of each individual fat cell.\" As he speaks, the 'Personal Fat Threshold Slide' is displayed, featuring a large red banner title and a diagram of overlapping beige 'Fat Cells' with a beige human silhouette that gradually fills with red to represent fat accumulation. Text boxes appear sequentially, illustrating the progression from 'How much fat can be stored in fat cells' to 'Insulin Sensitive' and 'Insulin Resistant'. The Speaker emphasizes that if fat cells become too big, they lead to insulin resistance. He then poses a question, which appears on the slide in a red box: 'What if we could force fat to store more fat?', explaining that this would create a metabolic paradox. He continues, \"Even though they've gained more fat and their threshold was here, they went beyond it... By forcing them to gain more fat through hyperplasia, you push up the threshold even higher. So even though they're fatter, this is the paradox, they're now in fact insulin sensitive.\" He uses expressive hand movements, pointing towards the screen and gesturing to his own body to illustrate these concepts. He concludes by linking this mechanism to anti-diabetic medications called thiazolidinediones. The Metabolic Health Summit Logo, a hexagonal design with interconnected scientific icons, remains visible in the lower-left corner, reinforcing the scientific context.",
+        "The Speaker, a man in a dark button-up shirt, actively gestures on stage against a blue-hexagonal backdrop, his clear, professional voice explaining how certain 'CDs' improve insulin sensitivity by increasing the body's ability to store fat through activating hyperplasia. He humorously notes that patients might want to stop using such a 'hell of a drug' due to needing a new wardrobe every six months, implying significant fat storage. The slide behind him, titled 'Personal Fat Threshold' with a large red banner, initially illustrates a cluster of beige 'Fat Cells' and an 'Insulin Sensitive' human silhouette, posing the question 'What if we could force fat to store more fat?'. As the Speaker transitions to discuss a research paper, the slide updates to compare 'South Asian' and 'Caucasian' human silhouettes, subtitled 'Insulin Resistance and Body Fat Distribution in South Asian Men Compared to Caucasian Men'. He elaborates on the study, which controlled for factors like body fat, BMI, age, and sex, and involved fat biopsies to measure fat cell size in both populations. The visual then morphs to microscopic images, showing larger, fewer fat cells for the 'South Asian' side and smaller, more numerous cells for the 'Caucasian' side, directly illustrating the 'difference in fat cell size' that the Speaker emphasizes between the two groups. The Metabolic Health Summit Logo and website URL remain visible in the lower-left corner throughout his engaging presentation.",
+        "The Speaker, a man in a dark button-up shirt, delivers a presentation at the Metabolic Health Summit, actively gesturing and moving slightly across the stage in front of a blue-hexagonal backdrop. He speaks in a clear, explanatory male voice, discussing how one's body fat is \"substantially more hypertrophic\" despite having the \"same overall body fat mass.\" The main visual focus is the 'Personal Fat Threshold Slide,' which initially displays two beige human silhouettes labeled 'South Asian' and 'Caucasian' with a large red question mark, prompting the question, \"Who would you think has the higher threshold? Who could store more fat... and yet maintain their insulin sensitivity and their metabolic health?\" As he explains, red horizontal lines appear across the silhouettes, indicating fat accumulation, with the South Asian silhouette filling up first. He clarifies that \"fat cells are healthier cells\" and that the \"Caucasian population has a higher threshold.\" Text boxes then appear above each silhouette: 'Insulin Resistant' over South Asian and 'Insulin Sensitive' over Caucasian, illustrating the metabolic differences as he states, \"one group will have surpassed its threshold and thus be insulin resistant, while the other is still doing metabolically fine.\" The Speaker uses hand gestures to emphasize points, pointing toward the screen and moving his hands expressively, explaining this \"disconnect\" seen between the US and India regarding obesity and diabetes rates. The Metabolic Health Summit Logo remains consistently visible in the lower-left corner, with its website URL displayed below it, all set against a professional blue and purple gradient background with white network-like geometric patterns.",
+        "The segment features a Speaker, a man in a dark button-up shirt, actively gesturing and moving on a stage with a blue-hexagonal backdrop, engagingly explaining metabolic concepts. He poses a question to the audience, asking who would have higher insulin levels, as an 'Insulin Comparison Slide' appears, contrasting an 'Insulin Resistant South Asian' with an 'Insulin Sensitive Caucasian'. The Speaker elaborates on insulin resistance, stating that insulin levels would be higher, and then reveals the visual data: 17 µU/ml for the South Asian and 9 µU/ml for the Caucasian, confirming the South Asian's higher fasting insulin due to hypertrophic fat cells or a lower fat threshold. He briefly mentions the 'PMIDs' as citations before transitioning to a new topic. A 'Fat Growth Question Slide' then appears, asking 'What makes fat grow?', as the Speaker continues to gesture and explain that they will discuss the growth and subsequent shrinking of fat cells. The Metabolic Health Summit Logo remains visible in the lower-left corner throughout, reinforcing the professional and educational atmosphere.",
+        "The video opens with the Speaker, a man in a dark button-up shirt, standing on a stage with a blue-hexagonal backdrop, actively gesturing as he presents. He speaks clearly and confidently, explaining that \"a guy who's growing fat cells in his lab all the time\" and how \"we're taking fat cells from animals, we're taking fat cells from humans.\" He emphasizes his expertise, stating, \"If anything you've heard disagrees with what I'm about to say, they're wrong,\" which elicits laughter from the audience. The screen displays a large white slide with three overlapping beige circles labeled 'Fat Cells' in the center, which the Speaker refers to while discussing \"what makes fat cells grow and shrink.\" As he continues, two new graphical elements appear: a red house-shaped banner labeled 'Sufficient Energy' on the left and an orange house-shaped banner labeled 'Elevated Insulin' on the right. The Speaker directly links these visuals to his explanation, stating, \"You need elevated insulin and you need sufficient energy,\" clarifying that \"these are not the same, but they work together.\" He further elaborates that \"Insulin provides the necessary, utterly essential signal to the fat cell to grow,\" but notes that \"in the absence of fuel, the fat cell will say, 'well, I'm trying to grow, but I've nothing to grow with.'\" The Speaker uses hand gestures to emphasize points, occasionally placing a hand on his hip or pointing toward the screen, while The Metabolic Health Summit Logo remains consistently displayed in the lower portion. The overall atmosphere is professional and educational, with a clean, modern design using geometric patterns and a blue-to-teal gradient background, visually reinforcing the Speaker's detailed explanation of metabolic regulation.",
+        "The Speaker, a man in a dark button-up shirt, actively gestures and moves slightly across the stage as he presents in a clear, explanatory voice in front of a blue-hexagonal backdrop. He begins by discussing the role of 'energy' and 'insulin' in stimulating 'fat cell growth,' emphasizing that one cannot exist without the other. The central visual is the Fat Cells Diagram, featuring three overlapping beige circles labeled 'Fat Cells,' flanked by a red 'Energy' banner (representing 'Sufficient Energy') and a faded, partially obscured orange 'Insulin' banner (representing 'Elevated Insulin'). The Speaker then shifts focus to an 'energy-based paradigm,' explaining that with 'elevated energy,' there's 'sufficient glucose.' As he speaks, a red 'Glucose' arrow animates, pointing toward the Fat Cells. He elaborates that 'fat cells love glucose' and 'love turning glucose into fat,' at which point a second red arrow, labeled 'TG' (triglycerides), appears below the 'Glucose' arrow, also pointing toward the Fat Cells. He clarifies that while the diagram simplifies, fat cells can 'pull in fat' as triglyceride molecules 'float by' and 'rip off individual fats.' Concluding this sequence, he identifies these as 'inputs,' and as he mentions that 'fat cells have an output,' a third red arrow labeled 'FFA' (free fatty acids) animates, pointing away from the Fat Cells. Throughout the segment, The Metabolic Health Summit Logo and its website URL remain fixed in the lower-left corner against the professional gradient blue-to-teal background with white geometric network patterns.",
+        "The minute opens with the Speaker, a man in a dark button-up shirt, actively gesturing before a blue-hexagonal backdrop, explaining metabolic processes in a clear, articulate voice. He refers to a central Fat Cells Diagram, showing three overlapping beige circles labeled 'Fat Cells', flanked by a red 'Energy' banner on the left and a faded orange 'Insulin' banner on the right. Red arrows labeled 'Glucose' and 'TG' point towards the fat cells, while an 'FFA' (free fatty acids) arrow points away, which the Speaker explicitly mentions as 'free fatty acids' at the segment's start. The Speaker articulates the 'overall balance of these caloric molecules in versus these caloric molecules out,' defining it as the 'caloric theory of why fat cells grow or why we get fat.' This aligns with the appearance of a red 'Caloric Theory' text box, quoting 'More energy goes in than out,' as he states, 'More energy is going into the fat cell than is going out.' As he continues, a large red question mark and a red box with 'But how is it regulated?' appear below the fat cells, prompting his next point: 'However, even right here we've encountered a bit of a conundrum... what happens then with exercise? How is this regulated?' A red running stick figure appears, symbolizing exercise, as the Speaker explains that during exercise, 'the amount of energy coming out of the fat cell goes up,' specifically noting 'Free fatty acids go up a lot.' He then questions, 'but so too do other energy sources in the blood like glucose. Why isn't the fat cell picking in all of this glucose during exercise?' This coincides with the 'Energy' banner changing to purple and being relabeled 'Glucose'. The Metabolic Health Summit Logo and URL remain visible in the lower-left corner throughout the segment.",
+        "A man, the Speaker, in a dark button-up shirt, dynamically presents on stage against a blue-hexagonal backdrop, using hand gestures and moving slightly to emphasize his points. He explains in an engaging, explanatory tone how fat cells \"love taking in glucose to store for energy,\" as a diagram on the right illustrates fat cell metabolism with red 'Glucose' and 'TG' arrows pointing into three overlapping beige 'Fat Cells'. The Speaker continues, noting that even with \"plenty of energy in the blood,\" the fat cell \"knows that it's time to release fat rather than store it,\" visually represented by a red 'FFA' arrow pointing out and a red running stick figure symbolizing energy expenditure. A red box then appears below the diagram, asking, 'But how is it regulated?' with a large red question mark, followed by a red banner at the top posing the central question, 'How do fat cells know to release, not make, fat?'. The Speaker then reveals the answer, stating \"Yeah, hormones, specifically insulin,\" as an orange 'Hormones' box appears above the diagram and a red 'Energy' banner appears to its left. He gestures towards these visual aids, explaining that \"It is the hormone that tells the cell what to do with the energy that it has,\" emphasizing that cells \"must be told what to do\" based on the \"overall energetic state of the entire body,\" rather than acting autonomously. The Metabolic Health Summit Logo and website URL remain visible in the lower-left corner throughout this educational and dynamic presentation.",
+        "The Speaker, a man in a dark button-up shirt, actively gestures before a blue-hexagonal backdrop, explaining in a clear, instructional voice how hormones communicate the body's needs to prevent cells from becoming \"too selfish.\" A dynamic diagram centered on 'Fat Cells' shows energy inputs via red 'Glucose' and 'TG' arrows pointing inward, and energy output via a red 'FFA' arrow pointing away. Initially, a prominent red 'Energy' banner is on the left, with an orange 'Insulin' banner fading in on the right. As the Speaker shifts from discussing \"energetic\" to \"endocrine\" aspects of fat cell growth and shrinking, a large red question mark and a text box reading 'But how is it regulated?' appear below the diagram, followed by an orange 'Hormones' box above the fat cells, visually reinforcing the regulatory role. The Speaker then explicitly introduces insulin, stating its relevance for fat cell growth and shrinking for two reasons. Synchronously, the 'Energy' banner fades to white, and the 'Insulin' banner becomes fully visible. A large orange '2' appears next to the 'Insulin' banner, followed by two text boxes: 'Increases energy uptake into fat cells' and 'Reduces energy output,' which visually illustrate the Speaker's detailed explanation that insulin activates energy input into the fat cell and inhibits its output, effectively instructing the fat cell to store energy.",
+        "The segment opens with the Speaker, a man in a dark button-up shirt, actively gesturing on stage against a blue-hexagonal backdrop, explaining in a clear, confident voice how insulin increases energy uptake into the cell. He details that insulin dramatically activates the influx of glucose into the fat cell, a process visually represented by a red 'Glucose' arrow pointing towards the 'Fat Cells' diagram on the right. As glucose enters, insulin not only facilitates its intake but also activates enzymes, effectively signaling the fat cell to convert glucose into fat, which the cell readily does. This point is further emphasized by a large orange 'Number 2' next to the 'Insulin' banner, accompanied by text reading 'Increases energy uptake into fat cells'. The Speaker then transitions to discuss the role of insulin in changing fat intake, mentioning how studies on free fatty acids (indicated by the 'FFA' arrow pointing away from fat cells) can be flawed, as fat cells primarily take in circulating triglycerides (represented by the 'TG' arrow pointing towards fat cells). Throughout the presentation, the Metabolic Health Summit Logo remains visible in the lower-left corner, set against a professional gradient blue and purple background with white geometric network patterns.",
+        "The Speaker, a man in a dark button-up shirt, actively gestures on stage against a blue-hexagonal backdrop, explaining a metabolic process. He details how fat cells pull fatty acids from triglycerides via lipoprotein lipase, using emphatic language like \"I'm gonna rip it off\" to describe the continuous storage of fat into the 'Fat Cells' diagram, which shows 'Glucose' and 'TG' arrows entering. He then highlights insulin's role, stating it \"activates lipoprotein lipase.\" As he explains, text appears on screen: 'Does not directly increase TG uptake' and 'Increases indirectly via LPL expression'. The 'Insulin Banner' is prominent. The Speaker emphasizes that without insulin, fat \"never gets pulled in.\" He then summarizes insulin's dual action: activating energy input and restricting output. Visually, a large orange 'Number 2' appears next to the 'Insulin' banner, followed by two text boxes: 'Increases energy uptake into fat cells' and 'Reduces energy output'. A red 'Prohibition Symbol' appears over the 'FFA' arrow, visually confirming the suppression of free fatty acid release. The Speaker further clarifies this restriction as \"slamming the door on lipolysis,\" the breakdown of stored fat. Concluding, he states, \"This in its simplest form represents the endocrine theory,\" as the 'Insulin promotes fat storage' text box and the large orange 'Endocrine Theory' title box appear above the diagram. The Metabolic Health Summit Logo and website URL remain visible in the lower-left corner throughout."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 23,
+      "end_minute": 26,
+      "summary": "{\n  \"updated_summary\": \"The Speaker, a man in a dark button-up shirt, gestures on a stage with a blue-hexagonal backdrop, explaining that \\\"insulin promotes fat storage\\\" and that \\\"there's no growth of the fat cell unless insulin is elevated.\\\" Visuals accompany his explanation, including an 'Endocrine Theory' diagram with red 'Energy' and orange 'Insulin' banners flanking a 'Fat Cells' diagram or a beige human silhouette. Arrows labeled 'Glucose' and 'TG' point towards fat cells, while a prohibition symbol over an 'FFA' arrow signifies insulin's suppression of free fatty acid release. Text boxes reinforce key points like \\\"Insulin promotes fat storage,\\\" \\\"Increases energy uptake into fat cells,\\\" and \\\"Reduces energy output.\\\" The Speaker contrasts the difficulty of growing fat cells in vitro with their apparent nonstop growth in vivo, describing them as \\\"swimming in a sea of fats and glucose\\\" with \\\"all the energy they could want.\\\" He challenges the notion that fat cells can shrink when \\\"energy is up but insulin is down,\\\" posing the question, \\\"How can fat cells shrink if energy isn’t low?\\\" He critiques \\\"pure thermodynamics\\\" and \\\"counting calories\\\" as simplistic, asserting the body is an \\\"open system.\\\" Visuals illustrate increased energy expenditure with a red 'Increased EE' graphic and an 'Energy Wasting' arrow. The Speaker introduces an \\\"insulin knockout\\\" model, visually represented by a text box stating 'Human Insulin KO is an ideal model...'. The Metabolic Health Summit Logo remains consistently visible in the lower-left corner throughout the presentation.\"\nleft corner throughout the presentation.\"\nlower-left corner throughout the presentation.\"\n}",
+      "involved_entities": {
+        "FFA Arrow": {
+          "description": "A red arrow labeled 'FFA' (free fatty acids) pointing away from the 'Fat Cells' diagram, indicating the release of fatty acids from fat cells, appearing as the final animated element in the sequence.",
+          "attribute": "visual"
+        },
+        "Insulin Banner": {
+          "description": "An orange, house-shaped banner with white text reading 'Insulin' (the word 'Elevated' has been removed), appearing on the right side of the 'Fat Cells' diagram to represent a hormonal state, which becomes fully visible and prominent.",
+          "attribute": "visual"
+        },
+        "Number 2": {
+          "description": "A large red number '2' appearing next to the Human Silhouette, explicitly referred to by the Speaker as the 'second' point in his explanation.",
+          "attribute": "audio-visual"
+        },
+        "Insulin promotes fat storage Text Box": {
+          "description": "A small orange text box with white text reading 'Insulin promotes fat storage', appearing above the diagram to reinforce the key takeaway.",
+          "attribute": "visual"
+        },
+        "The Metabolic Health Summit Logo": {
+          "description": "A hexagonal design with interconnected scientific icons (brain, avocado, molecule) in white and blue, displayed in the lower-left corner of the screen along with the text 'METABOLIC HEALTH SUMMIT' and the website URL 'WWW.METABOLICHEALTHSUMMIT.COM'.",
+          "attribute": "visual"
+        },
+        "TG Arrow": {
+          "description": "A red arrow labeled 'TG' (triglycerides) appearing below the 'Glucose' arrow, also pointing toward the 'Fat Cells' diagram, indicating another input into fat cell metabolism.",
+          "attribute": "visual"
+        },
+        "Endocrine Theory Text Box": {
+          "description": "A large orange rectangular box with white text reading 'Endocrine Theory', appearing above the diagram to summarize the concept being explained.",
+          "attribute": "visual"
+        },
+        "Energy Banner": {
+          "description": "A red, house-shaped banner with white text reading 'Energy' (the word 'Sufficient' has been removed), appearing on the left side of the 'Fat Cells' diagram to represent a metabolic state, which later fades to white.",
+          "attribute": "visual"
+        },
+        "Glucose Arrow": {
+          "description": "A red arrow labeled 'Glucose' pointing toward the 'Fat Cells' diagram, appearing as part of the animated explanation of metabolic processes.",
+          "attribute": "visual"
+        },
+        "Prohibition Symbol over FFA Arrow": {
+          "description": "An orange circular prohibition symbol (a red circle with a diagonal line) appearing over the FFA arrow, visually indicating that insulin suppresses the release of free fatty acids from fat cells.",
+          "attribute": "visual"
+        },
+        "Speaker": {
+          "description": "A man in a dark button-up shirt, actively gesturing with his hands as he speaks, moving slightly across the stage in a professional and engaging manner. His voice is clear, articulate, and explanatory, posing rhetorical questions and emphasizing key metabolic concepts.",
+          "attribute": "audio-visual"
+        },
+        "Fat Cells Diagram": {
+          "description": "Three overlapping beige circles labeled 'Fat Cells' in the center of a white slide, flanked by two house-shaped banners — a red one labeled 'Energy' on the left and an orange one labeled 'Insulin' on the right — illustrating a metabolic model. The Speaker refers to these 'fat cells' as initially 'rinky dink, small little cells' that transform into full 'fat cells' once insulin is introduced, stimulating their growth.",
+          "attribute": "audio-visual"
+        },
+        "Animated Syringe": {
+          "description": "An orange syringe that appears and injects into the fat cells diagram, symbolizing the action of insulin being delivered to fat cells, enhancing the visual explanation of insulin’s role in fat storage.",
+          "attribute": "visual"
+        },
+        "Fat cells cannot grow unless insulin is elevated Text Box": {
+          "description": "An orange rectangular text box with white text appearing on the right side of the slide, stating 'Fat cells cannot grow unless insulin is elevated', which the Speaker emphatically declares as 'utterly and completely impossible', directly reinforcing the hormonal control of fat cell growth.",
+          "attribute": "audio-visual"
+        },
+        "How can fat cells shrink if energy isn’t low? Text Box": {
+          "description": "A red rectangular banner with white text and a large red question mark, appearing at the top of the screen, which the Speaker directly addresses as the central question of his explanation.",
+          "attribute": "audio-visual"
+        },
+        "Human Silhouette": {
+          "description": "A beige, simplified human figure with a rounded belly, positioned centrally between the 'Energy' and 'Insulin' banners, symbolizing the body's metabolic state.",
+          "attribute": "visual"
+        },
+        "Human Insulin KO Text Box": {
+          "description": "An orange text box in the top-right corner stating 'Human Insulin KO is an ideal model...', introduced by the Speaker as he transitions to discussing 'human insulin knockout' models.",
+          "attribute": "audio-visual"
+        },
+        "Energy Wasting Arrow": {
+          "description": "A red arrow labeled 'Energy Wasting' pointing from the Human Silhouette toward the 'Energy' banner, visually representing the 'phenomenon of wasting' that the Speaker explains.",
+          "attribute": "audio-visual"
+        },
+        "Increased EE Graphic": {
+          "description": "A red flame graphic labeled 'Increased EE' (Energy Expenditure) appearing over the Human Silhouette’s torso, directly illustrating the 'energy expenditure' that the Speaker describes as increasing.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with the Speaker, a man in a dark button-up shirt, actively gesturing on stage in front of a blue-hexagonal backdrop, immediately stating in a clear, articulate voice that \"insulin promotes fat storage.\" As he speaks, a diagram titled 'Endocrine Theory' appears, featuring a red 'Energy' banner on the left and an orange 'Insulin' banner on the right. The Speaker points to these banners while explaining how insulin increases energy uptake into fat cells and reduces energy output, illustrated by 'Glucose' and 'TG' arrows pointing towards fat cells, and a 'Prohibition Symbol' over an 'FFA' arrow, signifying insulin's suppression of free fatty acid release. A large orange '2' and corresponding text boxes, 'Increases energy uptake into fat cells' and 'Reduces energy output,' animate on screen, reinforcing his points. The Speaker then shifts to a more anecdotal tone, describing the irony of growing \"fickle\" fat cells in his lab compared to easily grown muscle cells, contrasting the in-vitro difficulty with the real-world observation that fat cells seem to grow \"nonstop.\" He elaborates on fat cells plated in a petri dish, \"adhering to the bottom\" and \"swimming in a sea of fats and glucose,\" having \"all the energy they could want.\" Throughout, the Metabolic Health Summit Logo and website URL remain visible in the lower-left corner, complementing the educational and visually structured presentation.",
+        "The Speaker, a man in a dark button-up shirt, actively gestures on a stage with a blue-hexagonal backdrop, explaining metabolic processes in a clear, engaging male voice. He begins by describing initial 'rinky dink, small little cells' that don't resemble fat cells, appearing to the left of a large presentation slide titled 'Endocrine Theory' in bold orange text. He elaborates that these 'normal little cells' don't know what to do with energy, even though they are 'alive' and 'breathing cells,' and remain small until 'we do one thing.' As he speaks, the slide visually explains insulin's role in fat storage, featuring a red 'Energy' banner and an orange 'Insulin' banner flanking a 'Fat Cells' diagram. Arrows labeled 'Glucose' and 'TG' point towards the fat cells, while a prohibition symbol over an 'FFA' arrow indicates insulin suppresses fat release. The Speaker then describes giving the cells a 'cocktail' and 'spiking in the insulin,' which is visually represented by an animated orange syringe injecting into the fat cells, reinforcing the text 'Insulin promotes fat storage.' He explains that immediately after insulin is introduced, 'we start to see the lipid droplet stimulating the growth of the fat cell,' transforming it into a 'fat cell' in 'all function and glory.' He then emphatically states, 'Fat cells cannot grow unless insulin is elevated,' which appears as a new orange text box on the right side of the slide, declaring it 'utterly and completely impossible.' Throughout the segment, the Metabolic Health Summit Logo and website URL remain fixed in the lower-left corner, contributing to the educational and visually dynamic atmosphere.",
+        "The video segment features a Speaker, a man in a dark button-up shirt, actively gesturing and moving slightly across the stage against a blue-hexagonal backdrop, as he explains intricate metabolic concepts. He emphasizes that \"there's no growth of the fat cell unless insulin is elevated,\" and challenges the audience to consider scenarios where \"energy is up but insulin is down.\" A simplified diagram is central to the visual, displaying a red 'Energy' banner on the left and an orange 'Insulin' banner on the right, flanking a beige human silhouette. A prominent red rectangular text box appears at the top, posing the central question: 'How can fat cells shrink if energy isn’t low?'. The Speaker directly addresses this, asking, \"How can fat cells shrink if energy is abundant, and yet insulin is down?\" He critiques the limitations of \"pure thermodynamics\" which would deem it \"impossible,\" asserting that \"the body is an open system that's exchanging energy in and out in ways we can't possibly fully control for,\" even in the best labs. He concludes by stating that \"counting calories is laughable\" and \"you just cannot count them,\" reinforcing his argument against simplistic metabolic views. The Metabolic Health Summit Logo remains visible in the lower-left corner.",
+        "The segment opens with the Speaker, a man in a dark button-up shirt, actively gesturing on stage against a blue-hexagonal backdrop, his clear and engaging voice posing a central question: \"So what happens though, if energy is abundant, but insulin is down? How can I be so bold as to say the fat cell will still shrink?\" This question is mirrored by the prominent slide title, 'How can fat cells shrink if energy isn’t low?' in a red banner at the top. As he explains, a red house-shaped 'Energy' banner and an orange house-shaped 'Insulin' banner frame a beige Human Silhouette with a rounded belly. The Speaker elaborates on the first point, stating, \"energy expenditure will go up by a lot,\" which is visually represented by a red flame graphic labeled 'Increased EE' appearing over the silhouette’s torso, followed by a red arrow labeled 'Energy Wasting' pointing from the silhouette toward the 'Energy' banner, illustrating energy dissipation as the body \"literally starts running hotter.\" He then transitions to the \"second\" point, as a large red number '2' appears next to the silhouette, explaining that this involves the \"phenomenon of wasting.\" Toward the end, the Speaker shifts to a case study, introducing the concept of an \"insulin knockout\" model, coinciding with the appearance of a new orange text box in the top-right corner stating, 'Human Insulin KO is an ideal model...'. Throughout, the Metabolic Health Summit Logo remains visible in the lower-left corner, and the background features a network of white geometric lines over a gradient blue-purple backdrop, maintaining a professional atmosphere, with no background music or environmental sounds present."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 27,
+      "end_minute": 29,
+      "summary": "The speaker, a man in a dark button-up shirt, gestures on a stage with a blue-hexagonal backdrop, initially discussing 'human knockouts of insulin production' as a model for type 1 diabetes, referencing an 'Human Insulin KO is an ideal model...' text box. He shifts focus to a 1912 presentation slide titled 'A study of metabolism in severe diabetes,' featuring portraits of E.P. Joslin and F.G. Benedict, with red 'Energy' and orange 'Insulin' banners. The speaker explains that metabolic rate is largely driven by body mass, using an example of gaining 50 pounds to illustrate increased metabolic rate, and sets the stage for the findings of Joslin and Benedict in severe diabetes cases. He then elaborates on how early diabetes cases showed a metabolic rate '20% too high,' with a red banner stating 'EE 20% higher than expected in T1DM,' translating to 'several hundred calories a day' due to the 'absence of insulin.' The slide transitions to a 1984 study, 'Increased energy expenditure in poorly controlled type 1 (insulin-dependent) diabetic patients,' showing a beige Human Silhouette with a red flame 'EE' over the torso, confirming that untreated type 1 diabetes had a metabolic rate 'way too high.' The speaker notes that the 1984 study involved insulin treatment, which reduced the metabolic rate 'right down to normal,' visually represented by a downward-trending red line on a 'Metabolic rate (ml/min)' graph and a banner stating 'Insulin reduced EE by ~20%.' He quantifies this reduction as 'several hundred calories' and introduces the concept of 'energy wasting of metabolic rate,' before discussing the 'production and the breathing out or the urinating out of ketones,' noting their caloric value. Throughout, the 'METABOLIC HEALTH SUMMIT' logo and website URL are visible at the bottom.",
+      "involved_entities": {
+        "Insulin Banner": {
+          "description": "An orange, house-shaped banner with white text reading 'Insulin', appearing on the right side of the slide in conjunction with the 1912 study, representing a hormonal state.",
+          "attribute": "audio-visual"
+        },
+        "Human Insulin KO Text Box": {
+          "description": "An orange text box in the top-right corner stating 'Human Insulin KO is an ideal model...', introduced as a new point to support the explanation.",
+          "attribute": "visual"
+        },
+        "Fat Cells Diagram": {
+          "description": "Three overlapping beige circles labeled 'Fat Cells' in the center of a white slide, flanked by two house-shaped banners — a red one labeled 'Energy' on the left and an orange one labeled 'Insulin' on the right — illustrating a metabolic model involving energy and insulin in relation to fat cells.",
+          "attribute": "visual"
+        },
+        "The Metabolic Health Summit Logo": {
+          "description": "A hexagonal design with interconnected scientific icons (brain, avocado, molecule) in white and blue, displayed in the lower-left corner of the screen along with the text 'METABOLIC HEALTH SUMMIT' and the website URL 'WWW.METABOLICHEALTHSUMMIT.COM'.",
+          "attribute": "visual"
+        },
+        "Energy Banner": {
+          "description": "A red, house-shaped banner with white text reading 'Energy', appearing on the left side of the slide in conjunction with the 1912 study, representing a metabolic state.",
+          "attribute": "audio-visual"
+        },
+        "Presentation Title Slide": {
+          "description": "The presentation slide evolves from a historical reference to a 1912 study titled 'A study of metabolism in severe diabetes' by E.P. Joslin and F.G. Benedict, featuring their portraits and red 'Energy' and orange 'Insulin' banners, then displaying a red banner stating 'EE 20% higher than expected in T1DM'. It transitions to a 1984 study titled 'Increased energy expenditure in poorly controlled type 1 (insulin-dependent) diabetic patients', which includes a beige human silhouette with a red flame labeled 'EE' over the torso, visually representing the elevated metabolic rate discussed by the speaker.",
+          "attribute": "audio-visual"
+        },
+        "Speaker": {
+          "description": "A man in a dark button-up shirt, actively gesturing with his hands as he speaks in a clear, explanatory, and engaging voice, moving slightly across the stage in a professional manner, standing in front of a blue-hexagonal backdrop, detailing the effects of insulin and metabolic processes.",
+          "attribute": "audio-visual"
+        },
+        "Number 2": {
+          "description": "A large orange number '2' appearing next to the 'Insulin' banner, indicating a second point in the presentation, followed by two explanatory text boxes: 'Increases energy uptake into fat cells' and 'Reduces energy output'.",
+          "attribute": "visual"
+        },
+        "How do fat cells know to release, not make, fat? Text Box": {
+          "description": "A red rectangular banner with white text appearing at the top of the screen, posing a central question about fat cell regulation.",
+          "attribute": "visual"
+        },
+        "Insulin promotes fat storage Text Box": {
+          "description": "A small orange text box with white text reading 'Insulin promotes fat storage', appearing above the diagram to reinforce the key takeaway.",
+          "attribute": "visual"
+        },
+        "Energy Wasting Arrow": {
+          "description": "A red arrow labeled 'Energy Wasting' pointing from the Human Silhouette toward the 'Energy' banner, illustrating the dissipation of energy, a concept the Speaker discusses in relation to metabolic rate.",
+          "attribute": "audio-visual"
+        },
+        "Animated Syringe": {
+          "description": "An orange syringe that appears and injects into the fat cells diagram, symbolizing the action of insulin being delivered to fat cells, enhancing the visual explanation of insulin’s role in fat storage.",
+          "attribute": "visual"
+        },
+        "Hormones Text Box": {
+          "description": "An orange rectangular box with white text reading 'Hormones' appearing above the fat cells diagram, introduced as the key regulatory mechanism.",
+          "attribute": "visual"
+        },
+        "Endocrine Theory Text Box": {
+          "description": "A large orange rectangular box with white text reading 'Endocrine Theory', appearing above the diagram to summarize the concept being explained.",
+          "attribute": "visual"
+        },
+        "Insulin Comparison Slide": {
+          "description": "A slide featuring two beige human silhouettes labeled 'Insulin Resistant South Asian' and 'Insulin Sensitive Caucasian', with a red question mark and the text 'Who will have the higher fasting insulin?'. Orange arrows appear above each silhouette to reveal fasting insulin levels: 17 µU/ml for the South Asian and 9 µU/ml for the Caucasian.",
+          "attribute": "visual"
+        },
+        "Personal Fat Threshold Slide": {
+          "description": "A slide with a large red banner reading 'Personal Fat Threshold', featuring two beige human silhouettes labeled 'South Asian' and 'Caucasian' with a red question mark between them. The slide evolves to show red horizontal lines indicating fat accumulation, with the South Asian silhouette filling first. Text boxes appear above each silhouette: 'Insulin Resistant' over South Asian and 'Insulin Sensitive' over Caucasian. The slide also includes the subtitle 'Insulin Resistance and Body Fat Distribution in South Asian Men Compared to Caucasian Men' and initially displays microscopic fat tissue images for comparison.",
+          "attribute": "visual"
+        },
+        "Hypertrophy and Hyperplasia Diagram": {
+          "description": "A visual slide with two clusters of overlapping beige circles, labeled 'Hypertrophy' and 'Hyperplasia' respectively, used to illustrate biological concepts of cell enlargement versus cell multiplication, with a large red number '2' appearing to the left, indicating a second point in the presentation. The number changes to '2' with the text 'Hypertrophic fat cells 'suffocate'...' and new visual elements (a red circle and two small beige circles) appear with the text 'Small fat cells have sufficient blood flow' to the right. Additional annotations include '50 µm' and '> 300 µm' to illustrate size differences between small and hypertrophic fat cells. Animated elements such as a red dashed line, a yellow starburst labeled 'Cytokines', and a red box labeled 'Inflammation' appear to illustrate the biological consequences of hypertrophic fat cells. Later, text boxes appear stating 'Hypertrophic fat cells run out of room... Become resistant to insulin to prevent further growth' and 'Become pro-inflammatory to correct blood flow', followed by a red banner introducing 'Personal Fat Threshold' and a new diagram with a human silhouette and 'Fat Cells' circles.",
+          "attribute": "visual"
+        },
+        "Human Silhouette": {
+          "description": "A beige, simplified human figure with a rounded belly, positioned centrally, now featuring a red flame labeled 'EE' over the torso to represent increased energy expenditure.",
+          "attribute": "visual"
+        },
+        "Fat cells cannot grow unless insulin is elevated Text Box": {
+          "description": "An orange rectangular text box with white text appearing on the right side of the slide, stating 'Fat cells cannot grow unless insulin is elevated', emphasizing the hormonal control of fat cell growth.",
+          "attribute": "visual"
+        },
+        "How can fat cells shrink if energy isn’t low? Text Box": {
+          "description": "A red rectangular banner with white text and a large red question mark, appearing at the top of the screen to pose a central question about fat cell regulation under conditions of sufficient energy.",
+          "attribute": "visual"
+        },
+        "Regulation Question Box": {
+          "description": "A red rectangular box with white text reading 'But how is it regulated?' appearing below the fat cells diagram, accompanied by a large red question mark, prompting further discussion on metabolic regulation.",
+          "attribute": "visual"
+        },
+        "Caloric Theory Text Box": {
+          "description": "A red rectangular box with white text reading 'Caloric Theory' and a smaller quote 'More energy goes in than out' above it, appearing to the right of the fat cells diagram to explain the energy imbalance concept.",
+          "attribute": "visual"
+        },
+        "Global Health Statistics Slide": {
+          "description": "A slide with a world map background and two large overlapping circles labeled 'Fat Cells' and 'Insulin Resistance', with red banners stating 'Roughly half of all adults are overweight' and 'Over half of all adults have insulin resistance', which later transitions to a question slide asking 'How does body fat cause insulin resistance?' with a red arrow and question mark linking the two concepts.",
+          "attribute": "visual"
+        },
+        "Increased EE Graphic": {
+          "description": "A red flame graphic labeled 'Increased EE' (Energy Expenditure) appearing over the Human Silhouette’s torso, symbolizing elevated energy expenditure, a concept the Speaker refers to as 'energy wasting of metabolic rate'.",
+          "attribute": "audio-visual"
+        },
+        "Fat Growth Question Slide": {
+          "description": "A slide with a large red question mark and the text 'What makes fat grow?' above two overlapping beige circles labeled 'Fat Cells', serving as a visual prompt for the next topic in the presentation.",
+          "attribute": "visual"
+        },
+        "Running Stick Figure": {
+          "description": "A red stick figure in a running pose appearing to the right of the FFA arrow, symbolizing physical activity and energy expenditure.",
+          "attribute": "visual"
+        },
+        "Prohibition Symbol over FFA Arrow": {
+          "description": "An orange circular prohibition symbol (a red circle with a diagonal line) appearing over the FFA arrow, visually indicating that insulin suppresses the release of free fatty acids from fat cells.",
+          "attribute": "visual"
+        },
+        "Metabolic Rate Graph": {
+          "description": "A line graph titled 'Metabolic rate (ml/min)' with a dashed red line trending downward over time from 0 to 180 minutes, visually representing the reduction in metabolic rate with insulin administration, which the Speaker confirms is 'the exact data I just superimposed my own figure' and that it continued to go down for hours.",
+          "attribute": "audio-visual"
+        },
+        "Insulin reduced EE by ~20% Banner": {
+          "description": "A red, downward-pointing banner with white text reading 'Insulin reduced EE by ~20%', replacing the initial 'EE 20% higher than expected in T1DM' banner, directly illustrating the effect of insulin on metabolic rate as explained by the Speaker, who states 'metabolic rate went right down to normal'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a speaker, a man in a dark button-up shirt, actively gesturing and moving slightly across a stage with a blue-hexagonal backdrop. He speaks clearly and engagingly, initially discussing \"human knockouts of insulin production\" as a model for type 1 diabetes, aligning with an orange text box in the top-right corner that reads 'Human Insulin KO is an ideal model...'. His focus then shifts to a presentation slide titled 'A study of metabolism in severe diabetes' from 1912, which features black-and-white portraits of E.P. Joslin and F.G. Benedict. The speaker explains that his fascination with adipose tissue stemmed from serendipitously discovering this 1912 work by these \"two absolute legends.\" He identifies E.P. Joslin as the \"godfather of modern endocrinology\" and F.G. Benedict, whose influence on metabolic rate is still evident through the Benedict equation, which estimates metabolic rate based on a person's size and mass. On the left side of the slide, a red house-shaped banner labeled 'Energy' is displayed, while on the right, an orange house-shaped banner labeled 'Insulin' is shown. The speaker elaborates on how metabolic rate is largely driven by body mass, illustrating with a hypothetical example of gaining 50 pounds, which would significantly increase metabolic rate. He concludes by setting the stage for what these \"two geniuses\" found in cases of \"severe diabetes.\" Throughout, the 'METABOLIC HEALTH SUMMIT' logo with interconnected scientific icons and its website URL remains visible at the bottom of the screen.",
+        "The segment opens with the speaker, a man in a dark button-up shirt, actively gesturing on stage against a blue-hexagonal backdrop. He explains that early diabetes cases, which he refers to as \"type one,\" showed a metabolic rate \"20% too high.\" The presentation slide initially displays a historical reference to a 1912 study by E.P. Joslin and F.G. Benedict, featuring their portraits and red 'Energy' and orange 'Insulin' banners. A new red banner appears, stating 'EE 20% higher than expected in T1DM', visually reinforcing the speaker's point that this elevated metabolic rate translates to \"several hundred calories a day\" just from \"living their life,\" not from strenuous activity. He emphasizes that \"everything is happening at a higher level\" due to the \"absence of insulin,\" with \"energy expenditure... just moving.\" The slide then transitions to a 1984 study titled 'Increased energy expenditure in poorly controlled type 1 (insulin-dependent) diabetic patients', featuring a beige human silhouette with a red flame labeled 'EE' over the torso, symbolizing elevated energy expenditure. The speaker humorously interjects that 1984 was \"a wonderful year because that's when BYU won the national championship,\" adding a lighthearted comment about sports history. He then returns to the study, confirming that the 1984 research \"confirmed the findings of Joslin and Benedict,\" again showing that the metabolic rate in untreated type 1 diabetes was \"way too high,\" like an \"engine\" running \"too hot.\" He concludes by noting that the 1984 study involved treating patients with insulin, an intervention not available to Joslin and Benedict. Throughout, an orange text box in the top-right corner consistently displays 'Human Insulin KO is an ideal model...', and the Metabolic Health Summit logo and website URL remain visible at the bottom.",
+        "The Speaker, a man in a dark button-up shirt, actively gestures on stage against a blue-hexagonal backdrop, explaining a slide titled 'Increased energy expenditure in poorly controlled type 1 (insulin-dependent) diabetic patients' from 1984. He details how insulin injections dramatically reduced metabolic rate, stating, \"metabolic rate went right down to normal,\" aligning with the visual of a beige Human Silhouette initially showing a red flame 'EE' over its torso, symbolizing elevated energy expenditure. The slide transitions from a red house-shaped banner indicating 'EE 20% higher than expected in T1DM' to a downward-pointing red banner reading 'Insulin reduced EE by ~20%'. The Speaker emphasizes that this reduction was immediate and sustained, as visually represented by a 'Metabolic rate (ml/min)' graph with a dashed red line trending downward from 0 to 180 minutes, which he notes is \"the exact data I just superimposed my own figure.\" He further quantifies that \"they would slow that metabolic rate by what would end up being several hundred calories.\" The Speaker then introduces the concept of \"energy wasting of metabolic rate,\" before shifting to discuss \"the production and the breathing out or the urinating out of ketones,\" highlighting that \"ketones have a caloric value roughly similar to glucose.\" Throughout, the Metabolic Health Summit Logo and website URL remain visible, and an orange text box in the top-right corner introduces 'Human Insulin KO is an ideal model...'."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 30,
+      "end_minute": 35,
+      "summary": "The speaker, a man in a dark button-up shirt, gestures on stage against a blue-hexagonal backdrop, explaining that when insulin is low, the body cannot store energy efficiently, leading to increased energy expenditure through breathing and urinating ketones, thus producing waste heat. A 1984 slide titled 'Increased energy expenditure in poorly controlled type 1 (insulin-dependent) diabetic patients' visually reinforces this with a Human Silhouette showing elevated 'EE' (Energy Expenditure), an 'Insulin' syringe injecting, and a banner stating 'Insulin reduced EE by ~20%', alongside a Metabolic Rate Graph demonstrating a downward trend. The speaker then introduces 'Diabulimia,' a condition where type 1 diabetics deliberately underdose insulin to avoid weight gain, despite risks like ketoacidosis and hyperglycemia, as depicted on a slide with the title 'Diabulimia' and subtitle 'Deliberate insulin underdosing to stay thin'. The Human Silhouette reappears with an 'Energy' arrow and a prohibition symbol over the 'Insulin' syringe, illustrating insulin restriction. The speaker explains that low insulin causes fat cells to shrink, as indicated by a text box 'Fat cells must shrink if insulin is low,' and an 'Energy Wasting' arrow. He notes that 'Human Insulin KO is an ideal model...' for understanding how underdosing insulin leads to a higher metabolic rate and energy wasting. The narrative shifts to the problem of low energy when insulin remains high, causing the body to force energy into fat cells, making them grow even as blood energy decreases. This is visualized with a diagram showing 'Energy' and 'Insulin' banners flanking a Human Silhouette with a 'Low energy' question mark, leading to fat accumulation and a rounded belly. The speaker emphasizes the brain's unique inability to store energy, requiring constant blood supply. When energy intake drops and insulin stays elevated, the brain, deprived of energy, faces a crisis, symbolized by a red brain icon with a lightning bolt, then a red skull icon, indicating dysfunction and the choice to 'shut off' or 'die,' leading to unconsciousness. A 'Glucose (mg/dl)' graph shows a sharp decline, illustrating severe hypoglycemia. The speaker also discusses how ketones, another energy source, decrease if insulin rises, and a 'Diabetic Shock' text box appears. He contrasts 'Low-calorie diets' with 'Low-insulin diets,' explaining that a scenario of low energy but high insulin is impossible because insulin's primary role is energy storage, and it must decrease if energy is restricted. A tangent explores macronutrient effects on insulin, showing that only carbs significantly impact insulin response in non-diabetics, though protein can cause an exaggerated response in diabetics. The segment concludes by returning to the 'Low-calorie diets' and 'Low-insulin diets' slide, now featuring a brain dysfunction icon and a question 'Can you see the problem?', as the speaker poses the comparison between these dietary approaches.",
+      "involved_entities": {
+        "Human Insulin KO Text Box": {
+          "description": "An orange text box in the top-right corner stating 'Human Insulin KO is an ideal model...', introduced as a new point to support the explanation.",
+          "attribute": "visual"
+        },
+        "Prohibition Symbol over Insulin Syringe": {
+          "description": "An orange circular prohibition symbol (a red circle with a diagonal line) appearing over the 'Insulin' syringe, visually indicating that insulin is being deliberately restricted.",
+          "attribute": "visual"
+        },
+        "Metabolic Rate Graph": {
+          "description": "A line graph titled 'Metabolic rate (ml/min)' with a dashed red line trending downward over time from 0 to 180 minutes, visually representing the reduction in metabolic rate with insulin administration, aligning with the speaker's explanation of a 'higher metabolic rate' when insulin is low.",
+          "attribute": "audio-visual"
+        },
+        "Energy Arrow": {
+          "description": "A red arrow labeled 'Energy' pointing toward the Human Silhouette, indicating energy input into the body, which the speaker explains is being diverted from the brain.",
+          "attribute": "audio-visual"
+        },
+        "The Metabolic Health Summit Logo": {
+          "description": "A hexagonal design with interconnected scientific icons (brain, avocado, molecule) in white and blue, displayed in the lower-left corner of the screen along with the text 'METABOLIC HEALTH SUMMIT' and the website URL 'WWW.METABOLICHEALTHSUMMIT.COM'.",
+          "attribute": "visual"
+        },
+        "Insulin reduced EE by ~20% Banner": {
+          "description": "A red, downward-pointing banner with white text reading 'Insulin reduced EE by ~20%', visually demonstrating the effect of insulin on energy expenditure, a concept elaborated upon by the speaker.",
+          "attribute": "audio-visual"
+        },
+        "Increased EE Graphic": {
+          "description": "A red flame graphic labeled 'Increased EE' (Energy Expenditure) appearing over the Human Silhouette’s torso, symbolizing the 'higher metabolic rate' and elevated energy expenditure described by the speaker.",
+          "attribute": "audio-visual"
+        },
+        "Diabulimia Text Box": {
+          "description": "A red rectangular box with white text reading 'Diabulimia', appearing at the top of the screen, with a subtitle 'Deliberate insulin underdosing to stay thin' in an orange box below it, introduced by the speaker as he explains the concept.",
+          "attribute": "audio-visual"
+        },
+        "Human Silhouette": {
+          "description": "A beige, simplified human figure with a rounded belly, centrally positioned, now featuring a red brain icon, a yellow lightning bolt, and a red skull icon over the head to symbolize progressive brain dysfunction due to low energy, with a red arrow pointing from the brain to the belly.",
+          "attribute": "visual"
+        },
+        "Speaker": {
+          "description": "A man in a dark button-up shirt, actively gesturing with his hands as he speaks, moving slightly across the stage in a professional and engaging manner, standing in front of a blue-hexagonal backdrop. He speaks clearly and informatively, explaining scientific concepts related to diets and insulin response, referencing his own lab's work and clarifying data context for the audience.",
+          "attribute": "audio-visual"
+        },
+        "Fat cells must shrink if insulin is low Text Box": {
+          "description": "An orange rectangular text box with white text appearing on the right side of the slide, stating 'Fat cells must shrink if insulin is low', which the speaker references in his explanation of insulin's role in fat metabolism.",
+          "attribute": "audio-visual"
+        },
+        "Energy Wasting Arrow": {
+          "description": "A red arrow labeled 'Energy Wasting' pointing from the Human Silhouette toward the 'Energy' banner, illustrating the dissipation of energy.",
+          "attribute": "visual"
+        },
+        "Fat Accumulation Arrow": {
+          "description": "A red arrow pointing from the left side of the human silhouette toward the belly, visually indicating fat accumulation as the silhouette gains a rounded belly, illustrating the speaker's point about energy being forced into fat cells.",
+          "attribute": "audio-visual"
+        },
+        "Low energy Question Box": {
+          "description": "A red question mark with the text 'Low energy' appearing above the human silhouette, directly referenced by the speaker's discussion of \"low energy.\"",
+          "attribute": "audio-visual"
+        },
+        "Energy Banner": {
+          "description": "A red, downward-pointing banner with white text reading 'Energy', appearing on the left side of the diagram to represent a metabolic state.",
+          "attribute": "visual"
+        },
+        "Insulin Banner": {
+          "description": "An orange, upward-pointing banner with white text reading 'Insulin', appearing on the right side of the diagram to represent a hormonal state.",
+          "attribute": "visual"
+        },
+        "Brain Dysfunction Animation": {
+          "description": "A sequence of visual elements including a red skull icon with a yellow lightning bolt, symbolizing escalating brain dysfunction, which the speaker describes as the brain being \"deprived of its two energy sources\" and \"shutting off.\"",
+          "attribute": "audio-visual"
+        },
+        "Glucose Decline Graph": {
+          "description": "A line graph titled 'Glucose (mg/dl)' with a dashed line showing a sharp drop, which the speaker references directly when stating \"glucose goes down.\"",
+          "attribute": "audio-visual"
+        },
+        "Metabolic Health Summit Logo": {
+          "description": "A hexagonal design with interconnected scientific icons (brain, avocado, molecule) in white and blue, displayed in the lower-left corner of the screen along with the text 'METABOLIC HEALTH SUMMIT' and the website URL 'WWW.METABOLICHEALTHSUMMIT.COM'.",
+          "attribute": "visual"
+        },
+        "Low-calorie diets Text Box": {
+          "description": "A red rectangular box with white text reading 'Low-calorie diets', appearing above the 'Energy' banner to indicate a dietary approach.",
+          "attribute": "visual"
+        },
+        "Diabetic Shock Text Box": {
+          "description": "A red text box labeled 'Diabetic Shock' appearing next to the skull icon, directly referenced by the speaker's explanation that this state is known as \"diabetic shock.\"",
+          "attribute": "audio-visual"
+        },
+        "Fat Cells Diagram": {
+          "description": "Three overlapping beige circles labeled 'Fat Cells' in the center of a white slide, flanked by the 'Energy' and 'Insulin' banners, illustrating a metabolic model involving energy and insulin in relation to fat cells.",
+          "attribute": "visual"
+        },
+        "Low-insulin diets Text Box": {
+          "description": "An orange rectangular box with white text reading 'Low-insulin diets', appearing above the 'Insulin' banner to indicate a dietary approach.",
+          "attribute": "visual"
+        },
+        "Ketones Arrow": {
+          "description": "A blue arrow labeled 'Ketones' pointing downward toward the glucose decline graph, which the speaker introduces as \"another energy source\" and explains that \"ketones also go down\" if insulin rises.",
+          "attribute": "audio-visual"
+        },
+        "Tangent: How do macronutrients affect insulin? Slide": {
+          "description": "A slide with a large red banner at the top reading 'Tangent: How do macronutrients affect insulin?', featuring a graph with 'Insulin' on the y-axis and time (0 to 3hr) on the x-axis, and three colored boxes labeled 'Fat', 'Protein', and 'Carb' below the graph, with corresponding dashed lines showing insulin response.",
+          "attribute": "visual"
+        },
+        "Can you see the problem? Text Box": {
+          "description": "A red rectangular banner with white text reading 'Can you see the problem?', appearing below the human silhouette to prompt audience reflection.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with the Speaker, a man in a dark button-up shirt, actively gesturing on stage against a blue-hexagonal backdrop, explaining how the body cannot fully store energy when insulin is low, leading to increased energy expenditure through breathing and urinating out ketones, effectively causing the body to \"burn more\" and produce \"more heat,\" which is waste. As he speaks, a slide titled 'Increased energy expenditure in poorly controlled type 1 (insulin-dependent) diabetic patients' from 1984 is displayed, featuring a beige Human Silhouette with a red flame labeled 'EE' over the torso, symbolizing this elevated energy expenditure. An orange syringe labeled 'Insulin' is shown injecting into the figure, followed by a red, downward-pointing banner stating 'Insulin reduced EE by ~20%', and a Metabolic Rate Graph illustrating a dashed red line trending downward over 180 minutes, visually reinforcing insulin's effect on metabolic rate. The speaker then transitions to introduce a \"case study\" at 0:32, explaining that insulin's \"absolutely essential role\" in promoting and maintaining fat mass is so obvious that some type 1 diabetics are \"tempted to deliberately underdose insulin\" to avoid gaining weight. Concurrently, a new slide titled 'Diabulimia' appears in a red box, with the subtitle 'Deliberate insulin underdosing to stay thin'. The Human Silhouette reappears with an orange syringe labeled 'Insulin' and a red arrow labeled 'Energy' pointing toward it, which then evolves to show a red prohibition symbol over the 'Insulin' syringe, visually emphasizing the deliberate insulin restriction and its metabolic consequences. The Metabolic Health Summit Logo remains visible in the lower-left corner throughout the segment.",
+        "The segment opens with a male speaker, dressed in a dark button-up shirt, actively gesturing on a stage against a blue-hexagonal backdrop, while the Metabolic Health Summit logo and website URL are visible in the lower-left. He speaks with a clear, engaging voice, discussing the temptation of 'Diabulimia,' a concept highlighted on the large presentation slide behind him. The slide features the title 'Diabulimia' in a red box, subtitled 'Deliberate insulin underdosing to stay thin' in an orange box. He explains how individuals might 'stay as thin as they want' by underdosing insulin, despite the severe health risks like 'ketoacidosis' and 'massive hyperglycemia,' emphasizing that 'they will look great,' which 'matters.' As he elaborates on the bioenergetics, a beige human silhouette on the slide, initially shown with a red 'Energy' arrow pointing towards it and an orange 'Insulin' syringe with a prohibition symbol, visually representing insulin restriction, animates further. A red flame labeled 'EE' (Energy Expenditure) appears over the silhouette’s torso, followed by a red arrow labeled 'Energy Wasting' pointing away from the body, illustrating the metabolic effects. The speaker continues, stating that this condition 'gets more sympathy for me than any other' eating disorder. He then introduces a key point, 'if insulin is low, fat cells must shrink,' which is reinforced by an orange text box appearing on the slide. Concurrently, an orange text box in the top-right corner reads 'Human Insulin KO is an ideal model...', supporting his explanation of how the body takes advantage of bioenergetics through underdosing insulin to achieve a 'higher metabolic rate and begin energy wasting.' He concludes by stressing, 'There is no avoiding it,' even with 'abundant energy coming in.'",
+        "The segment opens with a slide titled 'Diabulimia' in a red box, subtitled 'Deliberate insulin underdosing to stay thin' in orange. A beige human silhouette is depicted with a red flame 'EE' for energy expenditure and a red 'Energy' arrow, alongside an orange 'Insulin' syringe with a red prohibition symbol. An orange text box states 'Fat cells must shrink if insulin is low,' with a red 'Energy Wasting' arrow. The speaker, a man in a dark button-up shirt, actively gestures as he explains in a clear, explanatory voice how patients with diabulimia learn that restricting insulin makes them hungry, causes them to eat a lot, and keeps them thin, but starting insulin therapy leads to eating less and gaining weight. He then transitions, asking \"what about low energy?\" as the slide changes to a new diagram. This diagram features a red downward-pointing 'Energy' banner on the left, a beige human silhouette in the center, and an orange upward-pointing 'Insulin' banner on the right. A red question mark with 'Low energy' appears above the silhouette, which then gains a rounded belly, with a red arrow indicating fat accumulation. The speaker elaborates that if there's little energy coming in but insulin is still high, the body would be \"forcing all of the energy into the fat cells,\" and other body cells, but \"most especially\" fat cells. He concludes that the fat cells are \"being told to grow\" even as the total amount of energy in the blood starts to decrease, noting that the fat cell \"doesn't care\" because it has \"plenty of energy stored.\" Throughout, the speaker maintains an engaging posture, gesturing to emphasize these complex metabolic interactions, with the Metabolic Health Summit logo and website URL visible in the lower-left corner.",
+        "The Speaker, a man in a dark button-up shirt, actively gestures on stage against a blue-hexagonal backdrop, explaining how organs like muscle cells, the liver, and kidneys store energy and can handle reductions in blood energy. He then shifts focus to the brain, emphasizing its unique inability to store energy and its constant need to pull energy from the blood. As he describes a scenario where \"energy in the mouth is going down\" while \"insulin stays elevated,\" pushing energy into other cells, a diagram featuring a beige Human Silhouette appears. This diagram is flanked by a red 'Energy' banner pointing down and an orange 'Insulin' banner pointing up, with a red 'Energy' arrow indicating input. A red 'Low energy' question mark appears above the silhouette, visually prompting the speaker's point that the brain is \"left wondering how it's going to continue to get fed\" because it \"isn't getting any\" energy from the blood. The speaker's narrative intensifies as he explains the brain \"starts to panic,\" leading to a visual animation over the silhouette's head: a red brain icon, struck by a yellow lightning bolt, then replaced by a red skull icon, symbolizing the brain's escalating dysfunction. He articulates the brain's dire choices: \"reduce my function, shut off\" or \"die,\" concluding that it's \"better to go unconscious.\" This metabolic crisis is further illustrated by a 'Glucose (mg/dl)' line graph appearing next to the skull, showing a sharp decline in glucose levels over 90 minutes, visually reinforcing the severe hypoglycemia that can lead to such brain states. The Metabolic Health Summit Logo and website URL remain visible, framing this critical discussion on metabolic health.",
+        "The video segment opens with the Speaker, a man in a dark button-up shirt, actively gesturing on stage in front of a blue-hexagonal backdrop, explaining a metabolic concept in a clear, professional voice. He begins by referencing \"Dr. Cahill\" and discussing how \"if there's no energy coming in and you spike insulin, glucose goes down.\" As he speaks, a diagram appears on screen, featuring a red downward-pointing 'Energy' banner on the left and an orange upward-pointing 'Insulin' banner on the right. A central glucose decline graph shows a sharp drop from 100 mg/dl to below 25 mg/dl over 90 minutes, visually representing the glucose drop he describes. Above the graph, a red 'Low energy' question mark appears, followed by a red skull icon with a yellow lightning bolt, symbolizing brain dysfunction, as the Speaker explains that the brain is \"deprived of its two energy sources\" and \"shuts off.\" He then introduces \"ketones\" as another energy source, and a blue 'Ketones' arrow appears, pointing downward toward the graph, as he notes that \"ketones also go down\" if insulin rises. A red 'Diabetic Shock' text box appears next to the skull icon, aligning with his statement that this state is known as \"diabetic shock.\" The scene transitions to a new diagram featuring three overlapping beige 'Fat Cells' circles, still flanked by the 'Energy' and 'Insulin' banners. The Speaker continues to gesture, emphasizing that a scenario of \"low energy but high insulin cannot happen\" because \"insulin must go down\" if energy is restricted. He highlights that \"insulin only wants to store energy,\" and the body \"cannot afford for insulin to stay high\" with limited energy. As he discusses the problem with studies comparing dietary approaches, a red 'Low-calorie diets' text box appears above the 'Energy' banner, and an orange 'Low-insulin diets' text box appears above the 'Insulin' banner, illustrating the two concepts he mentions. The Metabolic Health Summit Logo and website URL remain visible in the lower-left corner throughout.",
+        "The video segment opens with a slide titled 'Low-calorie diets' and 'Low-insulin diets', featuring a central diagram of overlapping beige 'Fat Cells' flanked by red 'Energy' and orange 'Insulin' banners. A man in a dark button-up shirt, the speaker, actively gestures as he begins explaining the concepts, stating, \"versus a low carb diet.\" He continues, referencing his lab's data, \"As a reminder, and this is once again data that is just directly superimposed on a figure. We have done these experiments in my lab and we're going to publish them soon.\" The scene then transitions to a new slide titled 'Tangent: How do macronutrients affect insulin?', displaying a graph of insulin response over time for 'Fat', 'Protein', and 'Carb'. The speaker emphasizes, \"You can see that it's only carbs that have a substantial or any demonstrable effect on insulin at all.\" He addresses a potential audience query, explaining the graph's context: \"Now, those who were in Dr. Kootnik's talk this morning, you're saying, well, Ben, he showed an insulin curve. This, these are non-diabetic. If a person is a diabetic, they will have an exaggerated response to the protein that a non-diabetic won't have. So, these are real human data.\" He clarifies, \"my data from my lab is exactly like this. Although I'm not showing mine, I'm showing someone else's work here.\" A text box 'For an insulin-sensitive person' appears on the slide, aligning with his statement, \"This is for an insulin sensitive person, non-diabetic.\" He further elaborates on insulin resistance before concluding this tangent with, \"Just as a reminder.\" The video then returns to the original 'Low-calorie diets' and 'Low-insulin diets' slide, now featuring a beige human silhouette with a red brain icon, yellow lightning bolt, and red skull, symbolizing brain dysfunction, and a red arrow pointing to the belly. A red banner below asks 'Can you see the problem?'. The speaker connects back to the main topic, asking, \"So, we have the low calorie, low energy, low fat diets versus low carb or in other words, low insulin diets and how do they compare?\" The Metabolic Health Summit logo remains visible in the lower-left corner throughout."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 36,
+      "end_minute": 38,
+      "summary": "The Speaker, a man in a dark button-up shirt, gestures on stage against a blue-hexagonal backdrop, presenting slides from the Metabolic Health Summit. Initially, he contrasts 'Low-calorie diets' with 'Low-insulin diets,' explaining that restricting energy while allowing insulin to remain high is 'incompatible with life,' a concept reinforced by a silhouette with icons symbolizing brain dysfunction. He asserts that all low-energy diets are inherently low-insulin diets, identifying this as a 'massive confounding variable' in studies comparing dietary models. The presentation then shifts to a study titled 'Weight loss with a Low-carbohydrate, Mediterranean, or Low-fat diet,' comparing these three diets. The Speaker critiques the 'calorie clamped' low-fat and Mediterranean diets, noting that forcing individuals onto a low-calorie diet results in reduced intake of all macronutrients, including carbohydrates. He highlights that the low-fat diet showed 'Worst' outcomes for 'Glucose' and 'Insulin,' while the low-carb diet, which was 'calorie unlimited' and 'carb restricted,' showed 'Best' outcomes. Further analysis of weight change over 24 months reveals the low-carb diet achieved the steepest and most sustained weight loss, prompting researchers to increase carbohydrate intake to moderate the rate. A subsequent graph on 'Insulin Change' shows a downward trend, leading the Speaker to rhetorically ask about insulin's response to prove his point as the segment concludes.",
+      "involved_entities": {
+        "Insulin Banner": {
+          "description": "An orange, upward-pointing banner with white text reading 'Insulin', appearing on the right side of the diagram to represent a hormonal state.",
+          "attribute": "visual"
+        },
+        "All low-energy diets are low-insulin diets! Text Box": {
+          "description": "An orange rectangular box with white text reading 'All low-energy diets are low-insulin diets!', appearing above the 'Confounding Variable!' box to clarify the relationship between energy and insulin in dietary contexts.",
+          "attribute": "visual"
+        },
+        "Low-insulin diets Text Box": {
+          "description": "An orange rectangular box with white text reading 'Low-insulin diets', appearing above the 'Insulin' banner to indicate a dietary approach.",
+          "attribute": "visual"
+        },
+        "Metabolic Health Summit Logo": {
+          "description": "A hexagonal design with interconnected scientific icons (brain, avocado, molecule) in white and blue, displayed in the lower-left corner of the screen along with the text 'METABOLIC HEALTH SUMMIT' and the website URL 'WWW.METABOLICHEALTHSUMMIT.COM'.",
+          "attribute": "visual"
+        },
+        "Low-calorie diets Text Box": {
+          "description": "A red rectangular box with white text reading 'Low-calorie diets', appearing above the 'Energy' banner to indicate a dietary approach.",
+          "attribute": "visual"
+        },
+        "Can you see the problem? Text Box": {
+          "description": "A red rectangular banner with white text reading 'Can you see the problem?', appearing below the human silhouette to prompt audience reflection.",
+          "attribute": "visual"
+        },
+        "Energy Banner": {
+          "description": "A red, downward-pointing banner with white text reading 'Energy', appearing on the left side of the diagram to represent a metabolic state.",
+          "attribute": "visual"
+        },
+        "Weight loss with a Low-carbohydrate, Mediterranean, or Low-fat diet Slide": {
+          "description": "A slide with a blue-titled 'Weight loss with a Low-carbohydrate, Mediterranean, or Low-fat diet', featuring three diet categories ('Low-fat diet', 'MED', 'Low-carb diet') with their fat/carb content and calorie limits, and metrics 'Glucose', 'Insulin', and 'Ins Resistance'. The Speaker's narration explains its dynamic updates, which show 'Worst' for 'Glucose' and 'Insulin' under the Low-fat diet and 'Best' for the Low-carb diet. It then transitions to a line graph of 'Mean Weight Change (kg)' over 24 months, illustrating the weight loss for each diet, with the Low-carb line (orange) showing the greatest reduction, which the Speaker attributes to scientists increasing carbs to mitigate rapid weight loss, as noted by the annotation '*increased carbs from 20 to 120g/day...'. The slide concludes with a graph showing 'Insulin Change (uU/ml)' over 24 months, with a single orange line trending downward, further supporting the Speaker's points.",
+          "attribute": "audio-visual"
+        },
+        "Confounding Variable! Text Box": {
+          "description": "A large red rectangular box with white text reading 'Confounding Variable!', appearing centrally to highlight the core issue in the comparison between low-calorie and low-insulin diets.",
+          "attribute": "visual"
+        },
+        "Human Silhouette": {
+          "description": "A beige, simplified human figure with a rounded belly, centrally positioned, now featuring a red brain icon, a yellow lightning bolt, and a red skull icon over the head to symbolize progressive brain dysfunction due to low energy, with a red arrow pointing from the brain to the belly.",
+          "attribute": "visual"
+        },
+        "Speaker": {
+          "description": "A man in a dark button-up shirt, actively gesturing with his hands and moving slightly across the stage in a professional and engaging manner, standing in front of a blue-hexagonal backdrop. He speaks with a clear, explanatory voice, detailing study results on diet metrics, weight change, and insulin levels, explaining the rationale behind scientific interventions in the study.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with the Speaker, a man in a dark button-up shirt, actively gesturing on stage against a blue-hexagonal backdrop. He stands to the left of a presentation slide contrasting 'Low-calorie diets' (red banner) and 'Low-insulin diets' (orange banner), both pointing to a central human silhouette. The Speaker, with a clear and explanatory voice, discusses the implications of a low-energy diet, stating that restricting energy while allowing insulin to stay high is \"incompatible with life,\" which is visually reinforced by the silhouette featuring a red brain icon, a yellow lightning bolt, and a red skull, symbolizing brain dysfunction due to low energy. He poses a question to the audience, \"what's going to happen to insulin?\" in a low-energy diet, then answers, \"Insulin will go down. Every time.\" A red banner below the silhouette asks, 'Can you see the problem?'. As he continues, a large red box labeled 'Confounding Variable!' appears on the slide, followed by orange text stating, 'All low-energy diets are low-insulin diets!'. The Speaker emphasizes this, identifying it as a \"massive confounding variable\" present in \"every single low-calorie, low-fat diet,\" and critiques studies that claim to test different models without accounting for this \"enormous confounding variable\" in \"every one of these low-calorie diets.\" The slide then transitions to a new layout titled 'Weight loss with a Low-carbohydrate, Mediterranean, or Low-fat diet', showing three diet types: 'Low-fat diet', 'MED', and 'Low-carb diet', along with 'Glucose', 'Insulin', and 'Ins Resistance' listed below. The Speaker introduces this as \"the most famous study\" that looked at \"these three diets,\" beginning to describe them. Throughout, the Metabolic Health Summit Logo and website URL remain visible in the lower-left corner.",
+        "The Speaker, a man in a dark button-up shirt, actively gestures and moves across the stage in front of a blue-hexagonal backdrop, presenting a slide titled 'Weight loss with a Low-carbohydrate, Mediterranean, or Low-fat diet' from the Metabolic Health Summit. He explains the comparison of a low-fat diet and a 'slightly higher fat' Mediterranean diet, noting the latter 'means whatever you want it to mean.' He emphasizes that these diets were 'calorie clamped,' forcing participants to 'eat a lower calorie diet.' The Speaker critiques this approach, stating that if you take the 'average person eating the standard American diet' (or 'global diet,' which is about '70% carbohydrate and hypercaloric') and 'force them into a low calorie diet,' they're 'eating less of everything,' even 'fewer carbs than they were before.' He uses expressive hand movements, occasionally pointing toward the slide, to highlight 'how silly this is to try to use these kinds of studies to make these comparisons.' As he speaks, the slide dynamically updates, showing 'Worst' under 'Glucose' and 'Insulin' for the Low-fat diet. He then shifts to the 'low carb diet,' which was 'calorie unlimited' and 'carb restricted,' noting it 'started at 20 grams' and was later 'increased to 120 grams,' a 'pretty substantial increase.' The slide simultaneously updates to show 'Best' under 'Glucose' and 'Insulin' for the Low-carb diet, indicating superior metabolic outcomes. The Metabolic Health Summit Logo and website URL remain visible in the lower-left corner, against the professional blue and purple geometric background.",
+        "The Speaker, a man in a dark button-up shirt, actively gestures and moves slightly on stage against a blue-hexagonal backdrop, explaining the results of a study. He begins by discussing \"metrics glucose, insulin, and insulin resistance,\" noting a \"consistent loser and a consistent winner\" as the 'Weight loss with a Low-carbohydrate, Mediterranean, or Low-fat diet' slide dynamically updates. Initially showing three diet categories with their fat/carb content and calorie limits, the slide highlights 'Worst' for 'Glucose' and 'Insulin' under the Low-fat diet and 'Best' under the Low-carb diet, while a PMID reference (18635428) is visible. The Speaker then transitions to discussing \"weight change,\" as the slide shifts to a line graph plotting 'Mean Weight Change (kg)' over 24 months. He points out the \"low fat diet had some drop,\" and the \"Mediterranean diet had slightly better results,\" before emphasizing that \"coming in for the win was the low carb diet,\" which shows the steepest initial drop and remains lowest on the graph. He questions the \"weird increase\" in weight loss, revealing that \"the scientists were concerned about the rate of weight loss, they considered it to be too much,\" leading them to \"increase the carbs\" to mitigate it, as indicated by the annotation '*increased carbs from 20 to 120g/day...' below the graph. The slide then changes to a new graph showing 'Insulin Change (uU/ml)' over 24 months, with a single orange line trending downward. The Speaker asks, \"Now, what happens to insulin to prove my point?\" before stating, \"No surprise that the low carb diet...\" as the segment ends. The Metabolic Health Summit Logo and website URL are consistently displayed in the lower-left and bottom-right corners, respectively."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 39,
+      "end_minute": 42,
+      "summary": "A speaker, a man in a dark button-up shirt, gestures on stage against a blue-hexagonal backdrop, presenting slides from the Metabolic Health Summit. He initially discusses weight loss studies, noting that all low-energy diets lower insulin, a point reinforced by text overlays stating 'But insulin still came down!' and 'All low-energy diets are low-insulin diets!'. He then pivots to the challenge of confounding variables in testing endocrine versus caloric theories of obesity, questioning how to account for them and proposing a shift from weight loss to weight gain studies, specifically by putting diets in a hypercaloric state, visually emphasized by a 'Hypercaloric!' banner. The speaker introduces an 'N of one' study by Sam Feltem, influenced by Dr. Eric Westman, which tested 'Caloric Theory' (Hypercaloric low-fat diet) versus 'Endocrine Theory' (Hypercaloric low-carb diet) by having participants consume 5800 calories daily for two weeks. Pie charts illustrate the macro splits: the low-fat diet at 64% carbs, 22% fat, 14% protein, and the low-carb diet at 72% fat, 22% protein, 6% carbs. The study outcomes, referencing PMID 34352821, showed significant body weight and waist circumference changes. The low-fat diet resulted in a +7.1 kg body weight increase and a +9.2 cm waist circumference increase, while the low-carb diet led to a smaller +1.3 kg body weight increase and a -3.0 cm waist circumference reduction. The speaker concludes by stressing the importance of understanding fat cell dynamics and insulin's role as 'the hormone of the fed state' to interpret these results.",
+      "involved_entities": {
+        "Metabolic Health Summit Logo": {
+          "description": "A hexagonal design with interconnected scientific icons (brain, avocado, molecule) in white and blue, displayed in the lower-left corner of the screen along with the text 'METABOLIC HEALTH SUMMIT' and the website URL 'WWW.METABOLICHEALTHSUMMIT.COM'.",
+          "attribute": "visual"
+        },
+        "Weight loss with a Low-carbohydrate, Mediterranean, or Low-fat diet Slide": {
+          "description": "A slide with a title in blue text, featuring three diet categories: 'Low-fat diet' (30% fat, low calorie), 'MED' (35% fat, low calorie), and 'Low-carb diet' (20g carbs, no calorie limit), with 'Glucose', 'Insulin', and 'Ins Resistance' listed below in colored boxes. The slide includes a PMID reference (18635428) at the bottom left. During the segment, the slide dynamically updates to show 'Worst' under 'Glucose' and 'Insulin' for the Low-fat diet, and 'Best' under the same categories for the Low-carb diet. It then transitions to a line graph of 'Mean Weight Change (kg)' over 24 months, showing three dashed lines for each diet, with the Low-carb line (orange) showing the greatest weight loss. An annotation '*increased carbs from 20 to 120g/day...' appears below the graph. The graph then changes to show 'Insulin Change (uU/ml)' over 24 months, with a single orange line trending downward, which the speaker interprets as the Low-carb diet showing the greatest insulin drop, followed by Mediterranean, and then Low-fat, all demonstrating a significant reduction due to calorie restriction.",
+          "attribute": "audio-visual"
+        },
+        "Hypercaloric! Text Box": {
+          "description": "A large red banner with white text reading 'Hypercaloric!', appearing above the 'Confounding Variable!' box, which the Speaker refers to when discussing 'low fat versus low carb hypercaloric' diets in the context of studies.",
+          "attribute": "audio-visual"
+        },
+        "Confounding Variable! Text Box": {
+          "description": "A large red rectangular box with white text reading 'Confounding Variable!', appearing centrally to highlight the core issue in the comparison between low-calorie and low-insulin diets, which the Speaker implies is the focus of understanding obesity's origins.",
+          "attribute": "audio-visual"
+        },
+        "Speaker": {
+          "description": "A man in a dark button-up shirt, actively gesturing with his hands as he speaks, moving slightly across the stage in a professional and engaging manner, standing in front of a blue-hexagonal backdrop, whose clear and explanatory voice details the numerical outcomes of different diets on body weight and waist circumference, emphasizing specific figures from the slide and discussing the role of insulin.",
+          "attribute": "audio-visual"
+        },
+        "All low-energy diets are low-insulin diets! Text Box": {
+          "description": "An orange rectangular box with white text reading 'All low-energy diets are low-insulin diets!', appearing above the 'Confounding Variable!' box, a concept the Speaker implicitly addresses when discussing the need to differentiate between diet types.",
+          "attribute": "audio-visual"
+        },
+        "Caloric Theory Text Box": {
+          "description": "A red rectangular box with white text reading 'Caloric Theory' and a smaller quote 'More energy goes in than out' above it, appearing to the right of the fat cells diagram to explain the energy imbalance concept.",
+          "attribute": "visual"
+        },
+        "Endocrine Theory Text Box": {
+          "description": "A large orange rectangular box with white text reading 'Endocrine Theory', appearing above the diagram to summarize the concept being explained.",
+          "attribute": "visual"
+        },
+        "Test with a weight-gain diet! Text Box": {
+          "description": "A black banner with white text reading 'Test with a weight-gain diet!', appearing at the top of the screen, which the Speaker repeatedly emphasizes as the crucial methodology, advocating for 'weight gain studies' over traditional 'weight loss studies' to properly investigate obesity.",
+          "attribute": "audio-visual"
+        },
+        "Human Silhouette": {
+          "description": "A beige, simplified human figure with a rounded belly, centrally positioned, now featuring a red brain icon, a yellow lightning bolt, and a red skull icon over the head to symbolize progressive brain dysfunction due to low energy, with a red arrow pointing from the brain to the belly.",
+          "attribute": "visual"
+        },
+        "Low-fat diet Text Box": {
+          "description": "A purple rectangular box with white text reading 'Low-fat diet' and '5800 Cals' beneath it, appearing under the 'Caloric Theory' section, which the speaker refers to as the 'hypercaloric low-fat diet' while discussing its impact.",
+          "attribute": "audio-visual"
+        },
+        "Waist circumference Text Box": {
+          "description": "A blue rectangular box with white text reading 'Waist circumference', appearing over the lower torso of the human silhouette.",
+          "attribute": "visual"
+        },
+        "Body weight Text Box": {
+          "description": "A blue rectangular box with white text reading 'Body weight', appearing over the upper torso of the human silhouette.",
+          "attribute": "visual"
+        },
+        "PMID Reference": {
+          "description": "A small white text label reading 'PMID: 34352821' located in the bottom-left corner of the main content area, beneath the human silhouette.",
+          "attribute": "visual"
+        },
+        "Low-carb diet Text Box": {
+          "description": "A blue rectangular box with white text reading 'Low-carb diet' and '5800 Cals' beneath it, appearing under the 'Endocrine Theory' section, which the speaker refers to while detailing its outcomes.",
+          "attribute": "audio-visual"
+        },
+        "Pie Chart for Low-fat diet": {
+          "description": "A circular chart divided into three segments: 64% purple (Carb), 22% blue (Fat), and 14% green (Protein), labeled with percentages and positioned under the 'Low-fat diet' text box. The speaker refers to this as showing the 'macros split' and details its '65-ish percent carbs.'",
+          "attribute": "audio-visual"
+        },
+        "Pie Chart for Low-carb diet": {
+          "description": "A circular chart divided into three segments: 72% blue (Fat), 22% green (Protein), and 6% purple (Carb), labeled with percentages and positioned under the 'Low-carb diet' text box. The speaker refers to this as showing the 'macros split' and describes it as 'really, really low carb.'",
+          "attribute": "audio-visual"
+        },
+        "Upward Arrow for Low-fat Diet": {
+          "description": "A large teal upward-pointing arrow appearing under the 'Low-fat diet' text box, labeled '+7.1 kg', which the speaker explicitly states as a '7 kilos' increase in body weight.",
+          "attribute": "audio-visual"
+        },
+        "Upward Arrow for Waist Circumference (Low-fat)": {
+          "description": "A large teal upward-pointing arrow appearing under the 'Waist circumference' text box, labeled '+9.2 cm', which the speaker explicitly states as a '9 centimeters' increase in waist circumference.",
+          "attribute": "audio-visual"
+        },
+        "The Metabolic Health Summit Logo": {
+          "description": "A hexagonal design with interconnected scientific icons (brain, avocado, molecule) in white and blue, displayed in the lower-left corner of the screen along with the text 'METABOLIC HEALTH SUMMIT' and the website URL 'WWW.METABOLICHEALTHSUMMIT.COM'.",
+          "attribute": "visual"
+        },
+        "Downward Arrow for Waist Circumference (Low-carb)": {
+          "description": "A large teal downward-pointing arrow appearing under the 'Waist circumference' text box for the low-carb diet, labeled '-3.0 cm', which the speaker explicitly states as a '3 centimeters' reduction in waist circumference.",
+          "attribute": "audio-visual"
+        },
+        "Upward Arrow for Low-carb Diet": {
+          "description": "A large teal upward-pointing arrow appearing under the 'Low-carb diet' text box, labeled '+1.3 kg', which the speaker describes as 'a little over a kilo' increase in body weight.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "A speaker, a man in a dark button-up shirt, actively gestures while explaining data from a slide titled 'Weight loss with a Low-carbohydrate, Mediterranean, or Low-fat diet'. The slide displays a line graph tracking insulin change over 24 months, showing the Low-carb diet with the steepest decline, followed by a more subtle reduction for the Mediterranean diet, and the most subtle but still significant drop for the Low-fat diet. The speaker emphasizes that \"every one of these diets was lowering insulin because if you just restrict the amount of food a person is eating, insulin will come down,\" a point reinforced by the text overlays 'But insulin still came down!' and 'All low-energy diets are low-insulin diets!'. He then transitions to a new visual featuring a red banner labeled 'Confounding Variable!' placed between banners for 'Energy' and 'Insulin', with a question above asking 'How can we account for the confounding variable?'. The speaker continues to gesture, questioning how to truly test the endocrine or caloric theories of obesity in weight loss studies given this \"massive confounding variable.\" He proposes, \"We need to forget about weight loss studies and look at weight gain studies,\" suggesting \"We need to put these same diets in a hypercaloric state\" to acknowledge and isolate this variable. This solution is visually highlighted by a large red banner reading 'Hypercaloric!' appearing above the 'Confounding Variable!' box. Throughout the segment, the Metabolic Health Summit logo remains visible in the lower-left corner, with the website URL at the bottom right.",
+        "The video segment features the Speaker, a man in a dark button-up shirt, actively gesturing on stage against a blue-hexagonal backdrop, presenting dynamic slides from the Metabolic Health Summit. He begins by discussing how to identify which diets are most resistant or favorable to weight gain, stating in a clear, persuasive tone, \"We're flipping it all around.\" As a slide emphasizes 'Hypercaloric!' in large red text, with a central red box labeled 'Confounding Variable!' and an orange box above it stating 'All low-energy diets are low-insulin diets!', the Speaker explains that they are using a \"weight gain diet\" to understand the origins of obesity. He explicitly contrasts \"the endocrine origins of obesity versus the caloric origins of obesity,\" aligning with the slide's transition to compare 'Caloric Theory' (Hypercaloric low-fat diet) and 'Endocrine Theory' (Hypercaloric low-carb diet), separated by a yellow 'vs' starburst. The Speaker emphatically questions why \"anti-obesity treatments\" and \"weight loss studies\" are always used, advocating instead for \"weight gain studies,\" a point reinforced by a black banner at the top reading 'Test with a weight-gain diet!'. He humorously adds that \"if you pay college students enough, you can get them to do anything, including gain 10 pounds.\" Below the theory comparison, a red banner states 'No large-scale trial has ever tested this...', which the Speaker confirms, noting that while \"overfeeding studies\" exist, none have separated groups into \"low fat versus low carb hypercaloric.\" The slide then simplifies to show a beige Human Silhouette with a large number '1' above it, indicating a new point, while the 'Caloric Theory vs Endocrine Theory' comparison remains visible, as the Speaker continues his persuasive argument.",
+        "The segment opens with a speaker, a man in a dark button-up shirt, actively gesturing on stage against a blue-hexagonal backdrop. He discusses a unique 'N of one' study, expressing his long-standing advocacy for more case studies in clinical research, calling this a 'perfect example' and 'the only one I could find.' He introduces the experiments, done by 'Sam Feltem in the UK,' partly influenced by 'Dr. Eric Westman.' On screen, a slide titled 'Caloric Theory vs Endocrine Theory' is displayed, featuring a beige human silhouette. The speaker explains that Sam 'clamped calories' for the participants, requiring them to eat '5800 calories a day.' Correspondingly, 'Low-fat diet' and 'Low-carb diet' text boxes appear, both indicating '5800 Cals.' The speaker then points to and describes the 'macros split' as two pie charts appear: the low-fat diet showing 64% carbs, 22% fat, and 14% protein, and the low-carb diet showing 72% fat, 22% protein, and 6% carbs. He elaborates on the low-fat diet's carb percentage, 'roughly matching the global diet' at '65-ish percent carbs,' and the low-carb diet as 'really, really low carb, but still these big calorie loads.' He mentions the study lasted 'I think it was two weeks,' before introducing the primary outcomes. As he speaks, 'Body weight' and 'Waist circumference' text boxes appear over the human silhouette, with the Metabolic Health Summit logo and a PMID reference (34352821) visible at the bottom of the educational and dynamically structured slide.",
+        "The speaker, a man in a dark button-up shirt, actively gestures on stage with a blue-hexagonal backdrop, explaining a slide that visually contrasts the 'Caloric Theory' (Hypercaloric low-fat diet) and the 'Endocrine Theory' (Hypercaloric low-carb diet). He begins by discussing body weight and waist circumference, noting the importance of the latter. As he explains the 'Caloric Theory' and its 'Low-fat diet' (5800 Cals), a large teal arrow appears, indicating a body weight increase of '+7.1 kg', which the speaker emphasizes as \"7 kilos.\" He then contrasts this with the 'Low-carb diet' (5800 Cals) under the 'Endocrine Theory', where a subsequent teal arrow shows a body weight increase of only '+1.3 kg', which he describes as \"a little over a kilo.\" The speaker then shifts focus to waist circumference, explaining that for the low-fat diet, an upward-pointing teal arrow appears, showing an increase of '+9.2 cm', which he highlights as \"9 centimeters.\" Crucially, for the low-carb diet, a downward-pointing teal arrow appears, indicating a reduction of '-3.0 cm' in waist circumference, which he states as \"down by 3 centimeters.\" The slide, featuring a beige human silhouette labeled 'Body weight' and 'Waist circumference' and a PMID reference '34352821', remains visible, along with The Metabolic Health Summit logo. The speaker concludes by stressing the necessity of understanding fat cell dynamics and the role of insulin as \"the hormone of the fed state\" to properly address these outcomes."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 43,
+      "end_minute": 44,
+      "summary": "The presentation begins by contrasting the 'Caloric Theory' and 'Endocrine Theory' of weight gain, illustrating the effects of low-fat versus low-carb diets on a human silhouette. The slide shows that a low-fat diet resulted in a +7.1 kg weight gain and a +9.2 cm waist increase, while a low-carb diet led to a +1.3 kg weight gain and a -3.0 cm waist reduction. The speaker, a man in a dark button-up shirt, stands before a blue hexagonal backdrop, explaining that insulin is a confounding variable and must decrease. The 'Metabolic Health Summit' logo is visible. The slide then shifts to a red question mark and banner asking, 'How big are your fat cells?'. The speaker emphasizes this by asking the audience how they would know, discussing the difficulty of measuring fat cell size and introducing insulin's 'anti-lipolytic effect,' posing rhetorical questions about the relationship between insulin and free fatty acids. He then introduces the 'adipose insulin resistance index' or 'adipo-IR' as a 'perfect score,' displaying the formula 'Adipo-IR = Insulin × FFA' with thresholds. He explains the calculation, multiplying insulin by free fatty acids, and clarifies the different thresholds for men ('<5') and women ('<8'), noting that women burn more fat and have higher free fatty acids, thus requiring a different scale. He reiterates that for men, an Adipo-IR less than five indicates insulin-sensitive fat cells, and for women, a number less than eight signifies the same, using expressive hand gestures throughout.",
+      "involved_entities": {
+        "Caloric Theory Text Box": {
+          "description": "A red rectangular box with white text reading 'Caloric Theory' and a smaller quote 'More energy goes in than out' above it, appearing to the right of the fat cells diagram to explain the energy imbalance concept.",
+          "attribute": "visual"
+        },
+        "Low-fat diet Text Box": {
+          "description": "A purple rectangular box with white text reading 'Low-fat diet' and '5800 Cals' beneath it, appearing under the 'Caloric Theory' section.",
+          "attribute": "visual"
+        },
+        "Waist circumference Text Box": {
+          "description": "A blue rectangular box with white text reading 'Waist circumference', appearing over the lower torso of the human silhouette.",
+          "attribute": "visual"
+        },
+        "Body weight Text Box": {
+          "description": "A blue rectangular box with white text reading 'Body weight', appearing over the upper torso of the human silhouette.",
+          "attribute": "visual"
+        },
+        "Upward Arrow for Low-fat Diet": {
+          "description": "A large teal upward-pointing arrow appearing under the 'Low-fat diet' text box, labeled '+7.1 kg', indicating weight gain.",
+          "attribute": "visual"
+        },
+        "Upward Arrow for Waist Circumference (Low-fat)": {
+          "description": "A large teal upward-pointing arrow appearing under the 'Waist circumference' text box, labeled '+9.2 cm', indicating waist expansion.",
+          "attribute": "visual"
+        },
+        "Downward Arrow for Waist Circumference (Low-carb)": {
+          "description": "A large teal downward-pointing arrow appearing under the 'Waist circumference' text box for the low-carb diet, labeled '-3.0 cm', indicating waist reduction.",
+          "attribute": "visual"
+        },
+        "PMID Reference": {
+          "description": "A small white text label reading 'PMID: 34352821' located in the bottom-left corner of the main content area, beneath the human silhouette.",
+          "attribute": "visual"
+        },
+        "Metabolic Health Summit Logo": {
+          "description": "A hexagonal design with interconnected scientific icons (brain, avocado, molecule) in white and blue, displayed in the lower-left corner of the screen along with the text 'METABOLIC HEALTH SUMMIT' and the website URL 'WWW.METABOLICHEALTHSUMMIT.COM'.",
+          "attribute": "visual"
+        },
+        "Endocrine Theory Text Box": {
+          "description": "A large orange rectangular box with white text reading 'Endocrine Theory', appearing above the diagram to summarize the concept being explained.",
+          "attribute": "visual"
+        },
+        "Upward Arrow for Low-carb Diet": {
+          "description": "A large teal upward-pointing arrow appearing under the 'Low-carb diet' text box, labeled '+1.3 kg', indicating weight gain.",
+          "attribute": "visual"
+        },
+        "How big are your fat cells? Text Box": {
+          "description": "A red rectangular banner with white text reading 'How big are your fat cells?' appearing at the top of the screen, accompanied by a large red question mark, prompting the audience to consider the size of fat cells.",
+          "attribute": "visual"
+        },
+        "Human Silhouette": {
+          "description": "A beige, simplified human figure with a rounded belly, centrally positioned, now featuring a red brain icon, a yellow lightning bolt, and a red skull icon over the head to symbolize progressive brain dysfunction due to low energy, with a red arrow pointing from the brain to the belly.",
+          "attribute": "visual"
+        },
+        "Low-carb diet Text Box": {
+          "description": "A blue rectangular box with white text reading 'Low-carb diet' and '5800 Cals' beneath it, appearing under the 'Endocrine Theory' section.",
+          "attribute": "visual"
+        },
+        "Speaker": {
+          "description": "A man in a dark button-up shirt, actively gesturing with his hands as he speaks, moving slightly across the stage in a professional and engaging manner, standing in front of a blue-hexagonal backdrop. He speaks with a clear, instructional tone, explaining complex metabolic concepts like lipolysis, the 'adipose insulin resistance index' (Adipo-IR), and detailing its calculation and the interpretation of its gender-specific thresholds.",
+          "attribute": "audio-visual"
+        },
+        "Adipo-IR Formula": {
+          "description": "A formula displayed on the slide reading 'Adipo-IR = Insulin × FFA' with thresholds '<5' and '<8' in orange and pink boxes, respectively. The speaker explicitly defines this as the 'adipose insulin resistance index' or 'adipo-IR,' detailing its calculation by multiplying insulin in microunits per mill by free fatty acids in millimolar, and explaining the significance of the '<5' threshold for men and '<8' for women as indicators of insulin-sensitive fat cells, noting the physiological reasons for the different thresholds.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a presentation slide contrasting the 'Caloric Theory' and 'Endocrine Theory' of weight gain, specifically comparing hypercaloric low-fat and low-carb diets. The slide displays a central beige human silhouette with 'Body weight' and 'Waist circumference' text boxes. Under 'Low-fat diet', teal upward arrows show a +7.1 kg weight gain and +9.2 cm waist increase. In contrast, under 'Low-carb diet', a teal upward arrow indicates a +1.3 kg weight gain, while a teal downward arrow shows a -3.0 cm waist reduction. The speaker, a man in a dark button-up shirt, actively gestures in front of a blue-hexagonal backdrop, explaining in a clear, professional voice that insulin must come down and is a confounding variable. The 'Metabolic Health Summit' logo is visible. The slide then transitions to a new one featuring a large red question mark and a red banner asking, 'How big are your fat cells?'. The speaker emphasizes this question with expansive hand movements, asking the audience how they would know if their fat cells are bigger or smaller. He elaborates on the difficulty of measuring fat cell size, mentioning lab biopsies and immunohistochemistry, and then shifts to discussing insulin's 'anti-lipolytic effect'. He poses rhetorical questions about the relationship between insulin levels and free fatty acids, concluding that if insulin is up, free fatty acids are down, and vice-versa, before asking, 'What if they're both high?'",
+        "The segment opens with a presentation slide asking 'How big are your fat cells?' in bold white text on a red banner, accompanied by a large red question mark. A speaker, a man in a dark button-up shirt, stands on stage against a blue hexagonal backdrop, actively gesturing with his hands as he explains that insulin should inhibit lipolysis unless fat cells have undergone hypertrophy and are no longer responsive, activating lipolysis on their own. He introduces the 'adipose insulin resistance index' or 'adipo-IR' as a 'perfect score.' The Metabolic Health Summit logo is visible in the lower-left corner. As he continues, the slide evolves to display the formula 'Adipo-IR = Insulin × FFA' with thresholds '<5' and '<8' in orange and pink boxes. The speaker details the calculation, instructing to 'just take the insulin in microunits per mill times by free fatty acids in millimolar, and you're going to get a number.' He clarifies that '<5 is a man's number, that's the male number,' and '<8 is the female number,' explaining that women burn more fat and have higher free fatty acids, necessitating a different scale. He emphasizes that for a man, an Adipo-IR less than five indicates insulin-sensitive fat cells, and for women, a number less than eight signifies the same, using expressive hand movements to underscore his points, occasionally gesturing towards the screen or his own body."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 45,
+      "end_minute": 45,
+      "summary": "A male speaker, wearing a dark button-up shirt, gestures on stage in front of a blue-hexagonal backdrop, while a presentation slide titled 'How big are your fat cells?' displays a large red question mark, the formula 'Adipo-IR = Insulin × FFA', and thresholds '<5' and '<8', with The Metabolic Health Summit Logo and website URL in the lower-left corner. The speaker concludes his presentation by expressing hope that the audience has learned something valuable to share, followed by the commencement of upbeat, electronic, and slightly futuristic background music. The slide then transitions to a full-screen graphic of 'The Metabolic Link', featuring a 3D-rendered blue mitochondrial structure interlocked with a silver ring against a dark, particle-filled background with glowing bokeh effects. A female announcer's voice overlays the music, thanking listeners for tuning into 'this episode of The Metabolic Link', urging them to 'share, subscribe, follow, and leave us a comment or review', and inviting them to 'join us next time', with the 'The Metabolic Link' graphic, music, and announcer's voice persisting.",
+      "involved_entities": {
+        "The Metabolic Link Logo": {
+          "description": "A 3D-rendered blue mitochondrial structure interlocked with a silver ring, set against a dark, particle-filled background with glowing bokeh effects, symbolizing a scientific or biological connection. This logo is displayed full-screen while an upbeat, electronic background music plays and a female announcer's voice promotes 'The Metabolic Link' podcast, encouraging listeners to engage with it.",
+          "attribute": "audio-visual"
+        },
+        "How big are your fat cells? Text Box": {
+          "description": "A red rectangular banner with white text reading 'How big are your fat cells?' appearing at the top of the screen, accompanied by a large red question mark, prompting the audience to consider the size of fat cells.",
+          "attribute": "visual"
+        },
+        "Adipo-IR Formula": {
+          "description": "A formula displayed on the slide reading 'Adipo-IR = Insulin × FFA' with thresholds '<5' and '<8' in orange and pink boxes, respectively, indicating a metric for assessing fat cell size and metabolic health.",
+          "attribute": "visual"
+        },
+        "The Metabolic Health Summit Logo": {
+          "description": "A hexagonal design with interconnected scientific icons (brain, avocado, molecule) in white and blue, displayed in the lower-left corner of the screen along with the text 'METABOLIC HEALTH SUMMIT' and the website URL 'WWW.METABOLICHEALTHSUMMIT.COM'.",
+          "attribute": "visual"
+        },
+        "Speaker": {
+          "description": "A man in a dark button-up shirt, actively gesturing with his hands as he speaks, moving slightly across the stage in a professional and engaging manner, standing in front of a blue-hexagonal backdrop. He has a clear, concluding male voice, expressing gratitude and hope that the audience found his presentation valuable.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a male speaker, dressed in a dark button-up shirt, actively gesturing on stage against a blue-hexagonal backdrop. To his right, a presentation slide titled 'How big are your fat cells?' is displayed, featuring a large red question mark, the formula 'Adipo-IR = Insulin × FFA', and thresholds '<5' and '<8'. The Metabolic Health Summit Logo and website URL are visible in the lower-left corner. The speaker concludes his presentation in a clear male voice, stating, \"I hope you've learned something valuable indeed to such a point that you can share these sentiments with someone else. Thank you.\" As he finishes, an upbeat, electronic, and slightly futuristic background music begins to play. The slide then transitions to a full-screen graphic titled 'The Metabolic Link', which features a 3D-rendered blue mitochondrial structure interlocked with a silver ring, set against a dark, particle-filled background with glowing bokeh effects. A female announcer's voice then overlays the music, thanking listeners for tuning into \"this episode of The Metabolic Link\" and encouraging them to \"share, subscribe, follow, and leave us a comment or review on whichever platform you use to tune in\" before inviting them to \"join us next time.\" The 'The Metabolic Link' graphic remains on screen for the remainder of the segment, accompanied by the continuing background music and the female announcer's voice."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "The Metabolic Link Logo": "A 3D-rendered blue mitochondrial structure interlocked with a silver ring, set against a dark, particle-filled background with glowing bokeh effects, symbolizing a scientific or biological connection. This logo is displayed full-screen while an upbeat, electronic background music plays and a female announcer's voice promotes 'The Metabolic Link' podcast, encouraging listeners to engage with it.",
+    "Speaker": "A man in a dark button-up shirt, actively gesturing with his hands as he speaks, moving slightly across the stage in a professional and engaging manner, standing in front of a blue-hexagonal backdrop. He has a clear, concluding male voice, expressing gratitude and hope that the audience found his presentation valuable.",
+    "Global Health Statistics Slide": "A slide with a world map background and two large overlapping circles labeled 'Fat Cells' and 'Insulin Resistance', with red banners stating 'Roughly half of all adults are overweight' and 'Over half of all adults have insulin resistance', which later transitions to a question slide asking 'How does body fat cause insulin resistance?' with a red arrow and question mark linking the two concepts.",
+    "The Metabolic Health Summit Logo": "A hexagonal design with interconnected scientific icons (brain, avocado, molecule) in white and blue, displayed in the lower-left corner of the screen along with the text 'METABOLIC HEALTH SUMMIT' and the website URL 'WWW.METABOLICHEALTHSUMMIT.COM'.",
+    "Presentation Title Slide": "The presentation slide evolves from a historical reference to a 1912 study titled 'A study of metabolism in severe diabetes' by E.P. Joslin and F.G. Benedict, featuring their portraits and red 'Energy' and orange 'Insulin' banners, then displaying a red banner stating 'EE 20% higher than expected in T1DM'. It transitions to a 1984 study titled 'Increased energy expenditure in poorly controlled type 1 (insulin-dependent) diabetic patients', which includes a beige human silhouette with a red flame labeled 'EE' over the torso, visually representing the elevated metabolic rate discussed by the speaker.",
+    "Hypertrophy and Hyperplasia Diagram": "A visual slide with two clusters of overlapping beige circles, labeled 'Hypertrophy' and 'Hyperplasia' respectively, used to illustrate biological concepts of cell enlargement versus cell multiplication, with a large red number '2' appearing to the left, indicating a second point in the presentation. The number changes to '2' with the text 'Hypertrophic fat cells 'suffocate'...' and new visual elements (a red circle and two small beige circles) appear with the text 'Small fat cells have sufficient blood flow' to the right. Additional annotations include '50 µm' and '> 300 µm' to illustrate size differences between small and hypertrophic fat cells. Animated elements such as a red dashed line, a yellow starburst labeled 'Cytokines', and a red box labeled 'Inflammation' appear to illustrate the biological consequences of hypertrophic fat cells. Later, text boxes appear stating 'Hypertrophic fat cells run out of room... Become resistant to insulin to prevent further growth' and 'Become pro-inflammatory to correct blood flow', followed by a red banner introducing 'Personal Fat Threshold' and a new diagram with a human silhouette and 'Fat Cells' circles.",
+    "Personal Fat Threshold Slide": "A slide with a large red banner reading 'Personal Fat Threshold', featuring two beige human silhouettes labeled 'South Asian' and 'Caucasian' with a red question mark between them. The slide evolves to show red horizontal lines indicating fat accumulation, with the South Asian silhouette filling first. Text boxes appear above each silhouette: 'Insulin Resistant' over South Asian and 'Insulin Sensitive' over Caucasian. The slide also includes the subtitle 'Insulin Resistance and Body Fat Distribution in South Asian Men Compared to Caucasian Men' and initially displays microscopic fat tissue images for comparison.",
+    "Fat Growth Question Slide": "A slide with a large red question mark and the text 'What makes fat grow?' above two overlapping beige circles labeled 'Fat Cells', serving as a visual prompt for the next topic in the presentation.",
+    "Insulin Comparison Slide": "A slide featuring two beige human silhouettes labeled 'Insulin Resistant South Asian' and 'Insulin Sensitive Caucasian', with a red question mark and the text 'Who will have the higher fasting insulin?'. Orange arrows appear above each silhouette to reveal fasting insulin levels: 17 µU/ml for the South Asian and 9 µU/ml for the Caucasian.",
+    "Fat Cells Diagram": "Three overlapping beige circles labeled 'Fat Cells' in the center of a white slide, flanked by the 'Energy' and 'Insulin' banners, illustrating a metabolic model involving energy and insulin in relation to fat cells.",
+    "Sufficient Energy Banner": "Initially a red, house-shaped banner labeled 'Energy', it later changes to purple with the label 'Glucose' inside, aligning with the Speaker's discussion of 'glucose' as an energy source in the blood during exercise.",
+    "Elevated Insulin Banner": "An orange, house-shaped banner with white text reading 'Insulin' (the word 'Elevated' has been removed), appearing on the right side of the 'Fat Cells' diagram to represent a hormonal state, now faded and partially obscured.",
+    "FFA Arrow": "A red arrow labeled 'FFA' (free fatty acids) pointing away from the 'Fat Cells' diagram, indicating the release of fatty acids from fat cells, appearing as the final animated element in the sequence.",
+    "TG Arrow": "A red arrow labeled 'TG' (triglycerides) appearing below the 'Glucose' arrow, also pointing toward the 'Fat Cells' diagram, indicating another input into fat cell metabolism.",
+    "Glucose Arrow": "A red arrow labeled 'Glucose' pointing toward the 'Fat Cells' diagram, appearing as part of the animated explanation of metabolic processes.",
+    "Regulation Question Box": "A red rectangular box with white text reading 'But how is it regulated?' appearing below the fat cells diagram, accompanied by a large red question mark, prompting further discussion on metabolic regulation.",
+    "Caloric Theory Text Box": "A red rectangular box with white text reading 'Caloric Theory' and a smaller quote 'More energy goes in than out' above it, appearing to the right of the fat cells diagram to explain the energy imbalance concept.",
+    "Running Stick Figure": "A red stick figure in a running pose appearing to the right of the FFA arrow, symbolizing physical activity and energy expenditure.",
+    "How do fat cells know to release, not make, fat? Text Box": "A red rectangular banner with white text appearing at the top of the screen, posing a central question about fat cell regulation.",
+    "Hormones Text Box": "An orange rectangular box with white text reading 'Hormones' appearing above the fat cells diagram, introduced as the key regulatory mechanism.",
+    "Energy Banner": "A red, downward-pointing banner with white text reading 'Energy', appearing on the left side of the diagram to represent a metabolic state.",
+    "Number 2": "A large orange number '2' appearing next to the 'Insulin' banner, indicating a second point in the presentation, followed by two explanatory text boxes: 'Increases energy uptake into fat cells' and 'Reduces energy output'.",
+    "Insulin Banner": "An orange, upward-pointing banner with white text reading 'Insulin', appearing on the right side of the diagram to represent a hormonal state.",
+    "Insulin promotes fat storage Text Box": "A small orange text box with white text reading 'Insulin promotes fat storage', appearing above the diagram to reinforce the key takeaway.",
+    "Endocrine Theory Text Box": "A large orange rectangular box with white text reading 'Endocrine Theory', appearing above the diagram to summarize the concept being explained.",
+    "Prohibition Symbol over FFA Arrow": "An orange circular prohibition symbol (a red circle with a diagonal line) appearing over the FFA arrow, visually indicating that insulin suppresses the release of free fatty acids from fat cells.",
+    "Animated Syringe": "An orange syringe that appears and injects into the fat cells diagram, symbolizing the action of insulin being delivered to fat cells, enhancing the visual explanation of insulin’s role in fat storage.",
+    "Fat cells cannot grow unless insulin is elevated Text Box": "An orange rectangular text box with white text appearing on the right side of the slide, stating 'Fat cells cannot grow unless insulin is elevated', emphasizing the hormonal control of fat cell growth.",
+    "How can fat cells shrink if energy isn’t low? Text Box": "A red rectangular banner with white text and a large red question mark, appearing at the top of the screen to pose a central question about fat cell regulation under conditions of sufficient energy.",
+    "Human Silhouette": "A beige, simplified human figure with a rounded belly, centrally positioned, now featuring a red brain icon, a yellow lightning bolt, and a red skull icon over the head to symbolize progressive brain dysfunction due to low energy, with a red arrow pointing from the brain to the belly.",
+    "Human Insulin KO Text Box": "An orange text box in the top-right corner stating 'Human Insulin KO is an ideal model...', introduced as a new point to support the explanation.",
+    "Energy Wasting Arrow": "A red arrow labeled 'Energy Wasting' pointing from the Human Silhouette toward the 'Energy' banner, illustrating the dissipation of energy.",
+    "Increased EE Graphic": "A red flame graphic labeled 'Increased EE' (Energy Expenditure) appearing over the Human Silhouette’s torso, symbolizing the 'higher metabolic rate' and elevated energy expenditure described by the speaker.",
+    "Metabolic Rate Graph": "A line graph titled 'Metabolic rate (ml/min)' with a dashed red line trending downward over time from 0 to 180 minutes, visually representing the reduction in metabolic rate with insulin administration, aligning with the speaker's explanation of a 'higher metabolic rate' when insulin is low.",
+    "Insulin reduced EE by ~20% Banner": "A red, downward-pointing banner with white text reading 'Insulin reduced EE by ~20%', visually demonstrating the effect of insulin on energy expenditure, a concept elaborated upon by the speaker.",
+    "Prohibition Symbol over Insulin Syringe": "An orange circular prohibition symbol (a red circle with a diagonal line) appearing over the 'Insulin' syringe, visually indicating that insulin is being deliberately restricted.",
+    "Energy Arrow": "A red arrow labeled 'Energy' pointing toward the Human Silhouette, indicating energy input into the body, which the speaker explains is being diverted from the brain.",
+    "Diabulimia Text Box": "A red rectangular box with white text reading 'Diabulimia', appearing at the top of the screen, with a subtitle 'Deliberate insulin underdosing to stay thin' in an orange box below it, introduced by the speaker as he explains the concept.",
+    "Fat cells must shrink if insulin is low Text Box": "An orange rectangular text box with white text appearing on the right side of the slide, stating 'Fat cells must shrink if insulin is low', which the speaker references in his explanation of insulin's role in fat metabolism.",
+    "Fat Accumulation Arrow": "A red arrow pointing from the left side of the human silhouette toward the belly, visually indicating fat accumulation as the silhouette gains a rounded belly, illustrating the speaker's point about energy being forced into fat cells.",
+    "Low energy Question Box": "A red question mark with the text 'Low energy' appearing above the human silhouette, directly referenced by the speaker's discussion of \"low energy.\"",
+    "Brain Dysfunction Animation": "A sequence of visual elements including a red skull icon with a yellow lightning bolt, symbolizing escalating brain dysfunction, which the speaker describes as the brain being \"deprived of its two energy sources\" and \"shutting off.\"",
+    "Glucose Decline Graph": "A line graph titled 'Glucose (mg/dl)' with a dashed line showing a sharp drop, which the speaker references directly when stating \"glucose goes down.\"",
+    "Metabolic Health Summit Logo": "A hexagonal design with interconnected scientific icons (brain, avocado, molecule) in white and blue, displayed in the lower-left corner of the screen along with the text 'METABOLIC HEALTH SUMMIT' and the website URL 'WWW.METABOLICHEALTHSUMMIT.COM'.",
+    "Low-calorie diets Text Box": "A red rectangular box with white text reading 'Low-calorie diets', appearing above the 'Energy' banner to indicate a dietary approach.",
+    "Diabetic Shock Text Box": "A red text box labeled 'Diabetic Shock' appearing next to the skull icon, directly referenced by the speaker's explanation that this state is known as \"diabetic shock.\"",
+    "Low-insulin diets Text Box": "An orange rectangular box with white text reading 'Low-insulin diets', appearing above the 'Insulin' banner to indicate a dietary approach.",
+    "Ketones Arrow": "A blue arrow labeled 'Ketones' pointing downward toward the glucose decline graph, which the speaker introduces as \"another energy source\" and explains that \"ketones also go down\" if insulin rises.",
+    "Tangent: How do macronutrients affect insulin? Slide": "A slide with a large red banner at the top reading 'Tangent: How do macronutrients affect insulin?', featuring a graph with 'Insulin' on the y-axis and time (0 to 3hr) on the x-axis, and three colored boxes labeled 'Fat', 'Protein', and 'Carb' below the graph, with corresponding dashed lines showing insulin response.",
+    "Can you see the problem? Text Box": "A red rectangular banner with white text reading 'Can you see the problem?', appearing below the human silhouette to prompt audience reflection.",
+    "All low-energy diets are low-insulin diets! Text Box": "An orange rectangular box with white text reading 'All low-energy diets are low-insulin diets!', appearing above the 'Confounding Variable!' box, a concept the Speaker implicitly addresses when discussing the need to differentiate between diet types.",
+    "Weight loss with a Low-carbohydrate, Mediterranean, or Low-fat diet Slide": "A slide with a title in blue text, featuring three diet categories: 'Low-fat diet' (30% fat, low calorie), 'MED' (35% fat, low calorie), and 'Low-carb diet' (20g carbs, no calorie limit), with 'Glucose', 'Insulin', and 'Ins Resistance' listed below in colored boxes. The slide includes a PMID reference (18635428) at the bottom left. During the segment, the slide dynamically updates to show 'Worst' under 'Glucose' and 'Insulin' for the Low-fat diet, and 'Best' under the same categories for the Low-carb diet. It then transitions to a line graph of 'Mean Weight Change (kg)' over 24 months, showing three dashed lines for each diet, with the Low-carb line (orange) showing the greatest weight loss. An annotation '*increased carbs from 20 to 120g/day...' appears below the graph. The graph then changes to show 'Insulin Change (uU/ml)' over 24 months, with a single orange line trending downward, which the speaker interprets as the Low-carb diet showing the greatest insulin drop, followed by Mediterranean, and then Low-fat, all demonstrating a significant reduction due to calorie restriction.",
+    "Confounding Variable! Text Box": "A large red rectangular box with white text reading 'Confounding Variable!', appearing centrally to highlight the core issue in the comparison between low-calorie and low-insulin diets, which the Speaker implies is the focus of understanding obesity's origins.",
+    "Hypercaloric! Text Box": "A large red banner with white text reading 'Hypercaloric!', appearing above the 'Confounding Variable!' box, which the Speaker refers to when discussing 'low fat versus low carb hypercaloric' diets in the context of studies.",
+    "Test with a weight-gain diet! Text Box": "A black banner with white text reading 'Test with a weight-gain diet!', appearing at the top of the screen, which the Speaker repeatedly emphasizes as the crucial methodology, advocating for 'weight gain studies' over traditional 'weight loss studies' to properly investigate obesity.",
+    "Low-fat diet Text Box": "A purple rectangular box with white text reading 'Low-fat diet' and '5800 Cals' beneath it, appearing under the 'Caloric Theory' section.",
+    "Waist circumference Text Box": "A blue rectangular box with white text reading 'Waist circumference', appearing over the lower torso of the human silhouette.",
+    "Body weight Text Box": "A blue rectangular box with white text reading 'Body weight', appearing over the upper torso of the human silhouette.",
+    "PMID Reference": "A small white text label reading 'PMID: 34352821' located in the bottom-left corner of the main content area, beneath the human silhouette.",
+    "Low-carb diet Text Box": "A blue rectangular box with white text reading 'Low-carb diet' and '5800 Cals' beneath it, appearing under the 'Endocrine Theory' section.",
+    "Pie Chart for Low-fat diet": "A circular chart divided into three segments: 64% purple (Carb), 22% blue (Fat), and 14% green (Protein), labeled with percentages and positioned under the 'Low-fat diet' text box. The speaker refers to this as showing the 'macros split' and details its '65-ish percent carbs.'",
+    "Pie Chart for Low-carb diet": "A circular chart divided into three segments: 72% blue (Fat), 22% green (Protein), and 6% purple (Carb), labeled with percentages and positioned under the 'Low-carb diet' text box. The speaker refers to this as showing the 'macros split' and describes it as 'really, really low carb.'",
+    "Upward Arrow for Low-fat Diet": "A large teal upward-pointing arrow appearing under the 'Low-fat diet' text box, labeled '+7.1 kg', indicating weight gain.",
+    "Upward Arrow for Waist Circumference (Low-fat)": "A large teal upward-pointing arrow appearing under the 'Waist circumference' text box, labeled '+9.2 cm', indicating waist expansion.",
+    "Downward Arrow for Waist Circumference (Low-carb)": "A large teal downward-pointing arrow appearing under the 'Waist circumference' text box for the low-carb diet, labeled '-3.0 cm', indicating waist reduction.",
+    "Upward Arrow for Low-carb Diet": "A large teal upward-pointing arrow appearing under the 'Low-carb diet' text box, labeled '+1.3 kg', indicating weight gain.",
+    "How big are your fat cells? Text Box": "A red rectangular banner with white text reading 'How big are your fat cells?' appearing at the top of the screen, accompanied by a large red question mark, prompting the audience to consider the size of fat cells.",
+    "Adipo-IR Formula": "A formula displayed on the slide reading 'Adipo-IR = Insulin × FFA' with thresholds '<5' and '<8' in orange and pink boxes, respectively, indicating a metric for assessing fat cell size and metabolic health."
+  }
+}

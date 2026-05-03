@@ -1,0 +1,280 @@
+{
+  "video_id": "video465",
+  "audio_id": "video465_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 6,
+      "summary": "Under an overcast sky at the TT Circuit Assen, the video captures a dynamic procession of high-performance supercars and exotic vehicles parading through the racetrack pit lane and onto the track, accompanied by the constant roar and whine of powerful engines and enthusiastic Dutch commentary. The sequence begins with a vibrant yellow Pagani Huayra with black accents parked in the pit lane, its engine rumbling, as a man in a red shirt walks past, followed by a black McLaren P1 GTR with orange trim and a large rear wing, its engine emitting a high-pitched whine before accelerating, and a black Bugatti Veyron with Dutch license plate '5-TSR-86', its quad taillights glowing and engine growling. A white Bugatti Veyron ('7-KGN-48') and a white Lamborghini Centenario with red brake calipers follow, then a red Ferrari LaFerrari with black wheels and a prominent front splitter, all contributing to the symphony of engines and crowd excitement. The procession continues with a yellow Mercedes-AMG G63, a silver-grey Koenigsegg Regera with blue and yellow accents, a red three-wheeled Polaris Slingshot, a black and red Tramontana R, a silver Audi R8, a red Ford GT, a grey Ferrari 488 Pista, a white Porsche 911 GT3 RS, a blue Lamborghini Huracán, and a green Mercedes-AMG G63, each vehicle showcasing its unique design and engine sound. A green Mercedes-AMG GT R exits a garage, followed by a white Porsche Carrera GT, as the convoy races around a sweeping turn, the Dutch commentator describing the 'Super Hypercars' and reassuring that everything is 'geregeld' and 'goed voor elkaar'. Photographers, spectators, and 'MEDIA' staff capture the event, set against the backdrop of grandstands, the 'GEERT TIMMER TRIBUNE', and various sponsor banners, as the vehicles navigate the track with intense bursts of engine power and gear shifts.",
+      "involved_entities": {
+        "black Bugatti Veyron": {
+          "description": "A black Bugatti Veyron with a Dutch license plate '5-TSR-86', showcasing its iconic quad circular taillights and rear design, seen briefly in the pit lane.",
+          "attribute": "visual"
+        },
+        "black McLaren P1 GTR": {
+          "description": "A black McLaren P1 GTR with orange trim and 'McLaren P1 GTR' text on the side, featuring a large rear wing and 'ENDEAVOUR' license plate, driving slowly through the pit lane and onto the track, its powerful engine producing a distinct high-pitched whine as it passes, and later explicitly named by the Dutch announcer.",
+          "attribute": "audio-visual"
+        },
+        "red Ferrari LaFerrari": {
+          "description": "A red Ferrari LaFerrari with black wheels, a prominent front splitter, and sleek aerodynamic bodywork, seen moving slowly through the pit lane and onto the track, its engine emitting an aggressive growl and whine, and later identified by the Dutch announcer.",
+          "attribute": "audio-visual"
+        },
+        "man in red shirt": {
+          "description": "A man wearing a red shirt and orange sneakers, seen walking past the vehicles in the pit lane.",
+          "attribute": "visual"
+        },
+        "racetrack pit lane": {
+          "description": "The setting features a paved pit lane with blue and red curbs, surrounded by barriers and grandstands, under an overcast sky, transitioning to the main track with grassy run-off areas and advertising banners, filled with the continuous sounds of high-performance engines, distinct horn honks, and the voice of a Dutch announcer over a loudspeaker.",
+          "attribute": "audio-visual"
+        },
+        "yellow Pagani Huayra": {
+          "description": "A bright yellow Pagani Huayra with black wheels and front splitter, featuring a 'PACE' badge, heard with powerful engine roars and acceleration as it moves at high speed on the racetrack, showcasing its aerodynamic curves.",
+          "attribute": "audio-visual"
+        },
+        "photographers and spectators": {
+          "description": "A group of people lining the pit lane and grandstands, many holding cameras, some wearing blue vests labeled 'MEDIA', capturing the hypercars as they pass.",
+          "attribute": "visual"
+        },
+        "white Bugatti Veyron": {
+          "description": "A white Bugatti Veyron with license plate '7-KGN-48', featuring silver wheels and classic Veyron styling, visible in the pit lane.",
+          "attribute": "visual"
+        },
+        "white Lamborghini Centenario": {
+          "description": "A white Lamborghini Centenario with sharp angular lines, black front grille, and red brake calipers, visible in the pit lane lineup.",
+          "attribute": "visual"
+        },
+        "silver-grey Koenigsegg Regera": {
+          "description": "A silver-grey Koenigsegg Regera with blue and yellow accents, a 'PACE' badge, and a large rear wing, showcasing its futuristic design as it moves slowly through the pit lane, its engine producing a very loud, high-pitched scream, and later named by the Dutch announcer.",
+          "attribute": "audio-visual"
+        },
+        "yellow Mercedes-AMG G63": {
+          "description": "A bright yellow Mercedes-AMG G63 with black wheels and 'THIJS TIMMERMANS' branding on the side, moving slowly through the pit lane.",
+          "attribute": "visual"
+        },
+        "blue Lamborghini Huracán": {
+          "description": "A blue Lamborghini Huracán with 'SG-SV 750' license plate, sharp angular lines, and black wheels, seen from the front as it exits a garage and joins the procession, its engine emitting a powerful roar and deep rumble as it moves.",
+          "attribute": "audio-visual"
+        },
+        "white Porsche 911 GT3 RS": {
+          "description": "A white Porsche 911 GT3 RS with 'AC-M 991' license plate, a prominent rear wing, and black wheels, moving slowly through the pit lane with a deep, powerful engine sound.",
+          "attribute": "audio-visual"
+        },
+        "red Ford GT": {
+          "description": "A red Ford GT with an aggressive front splitter, 'S6 GT 350' license plate, and a sleek, low-profile design, moving slowly past spectators in the pit lane.",
+          "attribute": "visual"
+        },
+        "white Aston Martin DB11": {
+          "description": "A white Aston Martin DB11 with a Dutch license plate 'NF-683-H' and a distinctive rear diffuser, moving slowly past spectators in the pit lane.",
+          "attribute": "visual"
+        },
+        "red Polaris Slingshot": {
+          "description": "A red three-wheeled Polaris Slingshot with exposed mechanical components, a 'PACE' badge, and a transparent canopy, driving slowly through the pit lane, and named by the Dutch announcer as it passes.",
+          "attribute": "audio-visual"
+        },
+        "green Mercedes-AMG G63": {
+          "description": "A green Mercedes-AMG G63 with 'THIJS TIMMERMANS' branding on the side, black wheels, and a boxy design, moving slowly through the pit lane.",
+          "attribute": "visual"
+        },
+        "black and red Tramontana R": {
+          "description": "A black and red Tramontana R with 'TRAMONTANA R' decal on the side, aggressive aerodynamic design, and a 'PACE' badge, moving slowly past the crowd in the pit lane, and identified by the Dutch announcer.",
+          "attribute": "audio-visual"
+        },
+        "silver Audi R8": {
+          "description": "A silver Audi R8 with a 'PACE' badge, large rear wing, and quad exhausts, seen from the rear as it drives through the pit lane.",
+          "attribute": "visual"
+        },
+        "grey Ferrari 488 Pista": {
+          "description": "A grey Ferrari 488 Pista with a 'DE TUTTIS' decal, yellow brake calipers, and black wheels, seen from the side as it passes the crowd in the pit lane.",
+          "attribute": "visual"
+        },
+        "white Porsche Carrera GT": {
+          "description": "A white Porsche Carrera GT with a Dutch license plate 'HD-06046', featuring a classic mid-engine design, black wheels, and a prominent rear wing, moving slowly through the pit lane.",
+          "attribute": "visual"
+        },
+        "green Mercedes-AMG GT R": {
+          "description": "A vibrant green Mercedes-AMG GT R with 'AMG' branding and a '7 ELEVEN' sticker, slowly exiting a garage in the pit lane with an audible engine rev, featuring black wheels and a sleek, aggressive design.",
+          "attribute": "audio-visual"
+        },
+        "man in white shirt": {
+          "description": "A man wearing a white shirt and jeans, standing near the pit lane, observing and gesturing toward the cars, possibly a crew member or event official.",
+          "attribute": "visual"
+        },
+        "man in blue patterned shirt": {
+          "description": "A man in a blue patterned shirt and jeans, standing near the pit lane, holding a phone or camera, likely documenting the event.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video begins in a racetrack pit lane under an overcast sky, where a vibrant yellow Pagani Huayra with black accents is parked, its engine emitting a low rumble. A man in a red shirt and orange sneakers walks past. The atmosphere is filled with the excited murmur of a crowd and the clicks of cameras as a lineup of hypercars emerges from the garage. A black McLaren P1 GTR with orange trim and a large rear wing drives forward, its engine revving with a high-pitched whine before accelerating powerfully down the track. Following closely, a black Bugatti Veyron with Dutch license plate '5-TSR-86' passes, its iconic quad taillights glowing, accompanied by a deeper, resonant engine growl. A white Bugatti Veyron ('7-KGN-48') then appears, showcasing its classic design and silver wheels, as a male voice delivers commentary in Dutch over the ambient sounds. Next, a white Lamborghini Centenario with sharp angular lines and red brake calipers drives by, followed by a striking red Ferrari LaFerrari with black wheels and a prominent front splitter, all contributing to the rich symphony of high-performance engines and crowd excitement. The scene is bustling with spectators, photographers, and 'MEDIA' staff, all captured under the 'GUMBAL' watermark.",
+        "The video captures a dynamic procession of high-performance supercars moving through a racetrack pit lane under an overcast sky, accompanied by the thrilling symphony of their powerful engines. The sequence begins with a red Ferrari LaFerrari, its sleek body and black wheels gliding past photographers and spectators lining the barriers, its engine emitting a distinct, high-performance revving and accelerating sound. Following closely is a bright yellow Mercedes-AMG G63, its bold color and 'THIJS TIMMERMANS' branding drawing attention as it moves slowly, its engine contributing to the overall powerful hum of the pit lane. A yellow Pagani Huayra with black wheels and front splitter then emerges, its aggressive design and 'PACE' badge visible as it passes the crowd, its engine roaring with an aggressive exhaust note and acceleration bursts. Next, a black McLaren P1 GTR with orange brake calipers and a large rear wing commands the scene, its 'ENDEAVOUR' license plate clearly displayed, its engine producing a very distinct, high-pitched whine followed by a powerful roar and acceleration, punctuated by a 'pop' or backfire. The procession continues with a silver-grey Koenigsegg Regera, featuring blue and yellow accents and a 'PACE' badge, its futuristic design and large rear wing drawing admiration from onlookers, its powerful engine contributing a deep, consistent hum. Throughout, the photographers and spectators, many in blue 'MEDIA' vests, actively capture the moment amidst the background chatter and muffled commentary, while the racetrack pit lane with its blue and red curbs and grandstands provides a consistent backdrop. The atmosphere is charged with excitement as each car moves with precision and power, showcasing their unique designs and engineering, their engine sounds dominating the auditory landscape.",
+        "The minute opens in a racetrack pit lane, flanked by barriers, grandstands, and a modern building with blue garage doors, under an overcast sky, as a dynamic procession of high-performance supercars moves slowly past enthusiastic photographers and spectators, many wearing 'MEDIA' vests. The 'GUMBAL' watermark is visible throughout. A red Ferrari LaFerrari, its sleek body and black wheels, glides past with a deep, rumbling engine sound. It's followed by a white Aston Martin DB11, bearing a Dutch license plate 'NF-683-H' and a distinctive rear diffuser, its engine humming steadily. Next, a red three-wheeled Polaris Slingshot with exposed mechanics and a 'PACE' badge maneuvers through, emitting a distinct, aggressive engine sound. A black and red Tramontana R, featuring a 'TRAMONTANA R' decal and aggressive styling, passes with a noticeable engine whine. A silver Audi R8 with a 'PACE' badge and large rear wing then drives by, its engine revving loudly with a distinct gear shift and powerful acceleration. The procession continues with a red Ford GT, its aggressive front splitter and 'S6 GT 350' license plate visible, producing a steady engine rumble. A grey Ferrari 488 Pista with a 'DE TUTTIS' decal and yellow brake calipers follows, emitting a metallic engine whine. A white Porsche 911 GT3 RS with 'AC-M 991' plate and a prominent rear wing moves through with a deep, powerful engine sound. A blue Lamborghini Huracán with 'SG-SV 750' plate and sharp angular lines then exits a garage, producing a very loud, aggressive engine revving and acceleration followed by a distinct 'whoosh' sound. Finally, a green Mercedes-AMG G63 with 'THIJS TIMMERMANS' branding and black wheels moves slowly past the crowd with a deep, throaty engine rumble, while a man in a red shirt and orange sneakers walks past the vehicles.",
+        "The video opens in the racetrack pit lane with the distinct sound of an engine revving as a vibrant green Mercedes-AMG GT R, adorned with 'AMG' branding and a '7 ELEVEN' sticker, slowly exits a garage, surrounded by photographers and spectators whose murmurs are audible. The camera follows as a white Porsche Carrera GT with a Dutch license plate 'HD-06046' emerges behind it, accompanied by more engine sounds and a brief horn blast. The scene then transitions to a dynamic track sequence where the roar of powerful engines intensifies as a convoy of hypercars – including a yellow Pagani Huayra, a red Ferrari LaFerrari, a a black McLaren P1 GTR, and a silver-grey Koenigsegg Regera – race around a sweeping turn, maintaining tight formation. The crowd's cheers rise as the cars speed past the grandstands, showcasing their aerodynamic designs. A Dutch commentator's voice is heard over the action, describing the 'Super Hypercars' and mentioning 'Hapsen,' while also reassuring that everything is 'geregeld' (arranged) and 'goed voor elkaar' (well-organized), with 'geen zorgen' (no worries). The sequence concludes with the cars accelerating down a straight, passing under the 'GEERT TIMMER TRIBUNE' and 'VREDESTEIN' banners, under an overcast sky, with the continuous powerful engine sounds dominating the audio.",
+        "The minute opens at TT Circuit Assen under an overcast sky, with the distinct whine and rumble of high-performance engines filling the air. A dynamic procession of supercars and hypercars moves through the pit lane, led by a bright yellow Mercedes-AMG G63 and a yellow Pagani Huayra. This convoy, also featuring a green Mercedes-AMG G63, a white Aston Martin DB11, and a red Ford GT, slowly passes grandstands packed with spectators. A male announcer's voice, speaking in Dutch over a loudspeaker, addresses the crowd, whose murmurs are audible in the background. The scene then shifts to a lineup of hypercars in the pit lane, including a red Ferrari LaFerrari, a black McLaren P1 GTR, a white Bugatti Veyron, and a silver-grey Koenigsegg Regera, all poised for a parade. The atmosphere is punctuated by loud, sharp horn honks and powerful engine roars, particularly as vehicles like the yellow Pagani Huayra and other hypercars accelerate onto the track, showcasing their sleek designs and immense power. Photographers and media personnel in blue vests line the pit lane, capturing the event amidst the continuous rumble and occasional bursts of acceleration from the engines. The iconic 'GEERT TIMMER TRIBUNE' and 'WWW.TTCIRCUIT.COM' signage, along with Vredestein and Total branding, are visible, emphasizing the prestigious setting as the high-performance vehicles navigate the track with a final, intense burst of engine power and gear shifts.",
+        "Under an overcast sky at the TT Circuit Assen, a dynamic parade of hypercars and exotic vehicles unfolds in the pit lane and onto the track, accompanied by the constant roar and whine of powerful engines and a Dutch announcer's enthusiastic commentary. The segment opens with a black McLaren P1 GTR, featuring orange trim and a large rear wing, driving slowly past spectators and photographers, its engine emitting a distinct high-pitched whine as the announcer welcomes everyone. Following closely, a red Ferrari LaFerrari with black wheels and a prominent front splitter glides smoothly, its engine producing an aggressive growl and whine, with the announcer explicitly identifying both the McLaren and Ferrari. A red three-wheeled Polaris Slingshot, with its transparent canopy, then maneuvers through the pit lane, followed by a black and red Tramontana R with aggressive aerodynamics, both vehicles named by the announcer. The silver-grey Koenigsegg Regera, adorned with blue and yellow accents, makes its appearance, its engine unleashing a very loud, high-pitched scream before the announcer identifies it. Finally, a blue Lamborghini Huracán with sharp angular lines exits a garage and joins the procession, its engine emitting a powerful roar and deep rumble. Throughout, photographers and spectators, many wearing 'MEDIA' vests, line the pit lane, capturing the automotive excellence, while event officials observe the controlled, slow parade, all set against the backdrop of the announcer's ongoing descriptions and the thrilling symphony of high-performance engines."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 7,
+      "end_minute": 11,
+      "summary": "At the TT Circuit Assen pit lane under an overcast sky, a vast array of supercars and hypercars, including a black Bugatti Veyron, red Ford GT, grey Ferrari 488 Pista, blue Lamborghini Huracán, white Porsche 911 GT3 RS, green Mercedes-AMG GT R, red Ferrari LaFerrari, white Aston Martin DB11, white Porsche Carrera GT, silver Audi R8, black McLaren P1 GTR, yellow Pagani Huayra, white Bugatti Veyron, white Lamborghini Centenario, yellow Mercedes-AMG G63, red Polaris Slingshot, black and red Tramontana R, and a silver-grey Koenigsegg Regera, were displayed and prepared for an event. A Dutch announcer provided commentary, expressing anticipation and describing the event as 'very nice.' As the cars began to move, their engines roared, creating an electric atmosphere. The procession involved controlled drifts, with tires squealing and leaving marks on the asphalt, accompanied by the distinct sounds of engines revving and tires gripping and sliding. Spectators and photographers lined the pit lane and grandstands, capturing the action. Close-ups highlighted car details, including 'PACE' badges. The event featured a lineup at the checkered finish line, with cars like the black McLaren P1 GTR, yellow Pagani Huayra, and white Bugatti Veyron having their doors open. A brief female voice interjected during the commentary, followed by laughter. The track featured distance markers and signage for 'TT CIRCUIT ASSEN SINCE 1925,' with advertising banners for 'VREDESTEIN' and 'OLIEHANDEL.' The 'GUMBAL' watermark was visible throughout.",
+      "involved_entities": {
+        "white Porsche Carrera GT": {
+          "description": "A white Porsche Carrera GT with a Dutch license plate 'HD-06046', featuring a classic mid-engine design, black wheels, and a prominent rear wing, visible in the convoy following the green GT R.",
+          "attribute": "visual"
+        },
+        "black Bugatti Veyron": {
+          "description": "A black Bugatti Veyron with a Dutch license plate '5-TSR-86', showcasing its iconic quad circular taillights and rear design, briefly visible in the pit lane lineup before the cars begin to move.",
+          "attribute": "visual"
+        },
+        "green Mercedes-AMG GT R": {
+          "description": "A vibrant green Mercedes-AMG GT R with 'AMG' branding on the front grille and a '7 ELEVEN' sticker on the rear, featuring black wheels and a sleek design, visible in the convoy.",
+          "attribute": "visual"
+        },
+        "blue Lamborghini Huracán": {
+          "description": "A blue Lamborghini Huracán with 'SG-SV 750' license plate, sharp angular lines, and black wheels, seen in the procession behind the Ferrari.",
+          "attribute": "visual"
+        },
+        "man in white shirt": {
+          "description": "A man wearing a white shirt and jeans, standing near the pit lane, observing and gesturing toward the cars, possibly a crew member or event official, seen interacting with others during the lineup.",
+          "attribute": "visual"
+        },
+        "white Porsche 911 GT3 RS": {
+          "description": "A white Porsche 911 GT3 RS with 'AC-M 991' license plate, a prominent rear wing, and black wheels, following the Lamborghini in the line.",
+          "attribute": "visual"
+        },
+        "yellow Pagani Huayra": {
+          "description": "A bright yellow Pagani Huayra with black wheels and front splitter, featuring a 'PACE' badge, leading the convoy down the track and performing a controlled drift.",
+          "attribute": "visual"
+        },
+        "white Bugatti Veyron": {
+          "description": "A white Bugatti Veyron with license plate '7-KGN-48', featuring silver wheels and classic Veyron styling, visible in the convoy following the McLaren.",
+          "attribute": "visual"
+        },
+        "red Ford GT": {
+          "description": "A red Ford GT with an aggressive front splitter, 'S6 GT 350' license plate, and a sleek, low-profile design, parked in the pit lane lineup with its hood open.",
+          "attribute": "visual"
+        },
+        "racetrack pit lane": {
+          "description": "The setting features a paved track with blue and red curbs, surrounded by barriers and grandstands, under an overcast sky, with distance markers (200, 150, 100, 50) and signage for 'TT CIRCUIT ASSEN SINCE 1925' and 'www.ttcircuit.com'.",
+          "attribute": "visual"
+        },
+        "white Aston Martin DB11": {
+          "description": "A white Aston Martin DB11 with a Dutch license plate 'NF-683-H' and a distinctive rear diffuser, parked in the pit lane lineup.",
+          "attribute": "visual"
+        },
+        "silver Audi R8": {
+          "description": "A silver Audi R8 with a 'PACE' badge, large rear wing, and quad exhausts, parked in the pit lane lineup.",
+          "attribute": "visual"
+        },
+        "red Ferrari LaFerrari": {
+          "description": "A red Ferrari LaFerrari with black wheels and a prominent front splitter, following the Slingshot and drifting down the track.",
+          "attribute": "visual"
+        },
+        "black McLaren P1 GTR": {
+          "description": "A black McLaren P1 GTR with orange trim and 'McLaren P1 GTR' text on the side, featuring a large rear wing and 'ENDEAVOUR' license plate, following the Pagani and drifting.",
+          "attribute": "visual"
+        },
+        "man in red shirt": {
+          "description": "A man wearing a red shirt and orange sneakers, seen walking past the vehicles in the pit lane.",
+          "attribute": "visual"
+        },
+        "photographers and spectators": {
+          "description": "A group of people lining the track and grandstands, many holding cameras, some wearing blue vests labeled 'MEDIA' and orange vests labeled 'MARSHAL' or 'KNAF', actively capturing the drifting cars.",
+          "attribute": "visual"
+        },
+        "grey Ferrari 488 Pista": {
+          "description": "A grey Ferrari 488 Pista with a 'DE TUTTIS' decal, yellow brake calipers, and black wheels, visible in the convoy as it follows the Koenigsegg.",
+          "attribute": "visual"
+        },
+        "man in blue patterned shirt": {
+          "description": "A man in a blue patterned shirt and jeans, standing near the pit lane, holding a phone or camera, likely documenting the event, seen walking alongside the cars as they begin to move.",
+          "attribute": "visual"
+        },
+        "silver-grey Koenigsegg Regera": {
+          "description": "A silver-grey Koenigsegg Regera with blue and yellow accents, a 'PACE' badge, and a large rear wing, drifting behind the Ferrari and maintaining formation.",
+          "attribute": "visual"
+        },
+        "red Polaris Slingshot": {
+          "description": "A red three-wheeled Polaris Slingshot with exposed mechanical components, a transparent canopy, and a 'PACE' badge, leading the convoy and drifting smoothly around the track corner, its engine revving intensely and tires squealing.",
+          "attribute": "audio-visual"
+        },
+        "green Mercedes-AMG G63": {
+          "description": "A green Mercedes-AMG G63 with 'THIJS TIMMERMANS' branding on the side, black wheels, and a boxy design, parked in the pit lane lineup.",
+          "attribute": "visual"
+        },
+        "black and red Tramontana R": {
+          "description": "A black and red Tramontana R with 'TRAMONTANA R' decal on the side, aggressive aerodynamic design, and a 'PACE' badge, parked in the pit lane lineup.",
+          "attribute": "visual"
+        },
+        "white Lamborghini Centenario": {
+          "description": "A white Lamborghini Centenario with sharp angular lines, black front grille, and red brake calipers, visible in the pit lane lineup.",
+          "attribute": "visual"
+        },
+        "yellow Mercedes-AMG G63": {
+          "description": "A bright yellow Mercedes-AMG G63 with black wheels and 'THIJS TIMMERMANS' branding, labeled 'MEDIA & SUPPORT CAR' and 'PASSION FOR GOOD' on the rear, seen among the cars.",
+          "attribute": "visual"
+        },
+        "man in orange vest": {
+          "description": "A man wearing an orange vest labeled 'MARSHAL' or 'KNAF', standing near the pit lane, actively directing or observing the cars, possibly an event official or safety marshal.",
+          "attribute": "visual"
+        },
+        "photographer on barrier": {
+          "description": "A photographer in a blue shirt leaning over the track barrier, capturing images of the drifting cars from a close vantage point, visible along the track.",
+          "attribute": "visual"
+        },
+        "black Mercedes-AMG G63": {
+          "description": "A black Mercedes-AMG G63 with '#ROCKTHEROAD' on the rear, black wheels, and 'THIJS TIMMERMANS' branding, following the yellow G63 in the procession.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a wide shot of the TT Circuit Assen pit lane under an overcast sky, filled with a lineup of high-performance supercars. Spectators and event staff, including photographers, line the pit lane, capturing the moment. A male announcer's voice, speaking Dutch, provides commentary throughout the scene, adding to the event atmosphere. Initially, a black Bugatti Veyron and a red Ford GT are parked side-by-side with their hoods open, drawing inspection from people. The camera then pans across the pit lane, revealing a grey Ferrari 488 Pista, a blue Lamborghini Huracán, and a white Porsche 911 GT3 RS, all positioned for a parade or display. As the cars begin to move, their powerful engines roar, creating an electric atmosphere. A vibrant green Mercedes-AMG GT R with 'AMG' branding and a '7 ELEVEN' sticker on the rear drives slowly forward, followed by a red Ferrari LaFerrari with its sleek aerodynamic bodywork, its engine sound distinctly heard. The procession continues with a white Aston Martin DB11, a white Porsche Carrera GT, and a silver Audi R8, each moving deliberately past the crowd, their engines rumbling. The camera captures close-ups of the cars' details, including the 'PACE' badges on several vehicles, indicating their role in the event. The sequence culminates with a lineup of hypercars at the checkered finish line, including a black McLaren P1 GTR with orange trim, a yellow Pagani Huayra, and a white Bugatti Veyron, all with their doors open, drawing attention from the excited crowd, whose cheers and the continuous engine sounds fill the air.",
+        "The video opens with a close-up of a white Bugatti Veyron, license plate '7-KGN-48', parked in the pit lane, surrounded by an excited crowd of spectators and photographers, some wearing 'MEDIA' vests. Throughout the scene, distant engine sounds and a lively buzz of crowd murmurs fill the air, punctuated by a male announcer speaking enthusiastically in Dutch. He expresses anticipation, stating \"Ja, we kunnen niet wachten\" (Yes, we can't wait) and repeatedly calling the event \"heel leuk\" (very nice). The camera then pans to a bright yellow Pagani Huayra with a 'PACE' badge and its doors open, drawing significant attention, followed by a black McLaren P1 GTR with orange trim and 'McLaren P1 GTR' text, also with open doors, as a man in a red shirt walks past. The announcer continues to build excitement, mentioning \"starten\" (start) and that \"iedereen klaar is\" (everyone is ready). The scene transitions to a stunning lineup of hypercars, including a yellow Ferrari LaFerrari, a black Bugatti Veyron ('5-TSR-86'), and a silver-grey Koenigsegg Regera with blue and yellow accents, all parked in formation. The camera offers a detailed interior view of the Koenigsegg Regera, showcasing its blue and black carbon fiber with yellow stitching and a 'Regera' badge, then shifts to the red Ferrari LaFerrari's interior, highlighting its black carbon fiber dashboard, yellow Ferrari logo on the steering wheel, and red stitching. Amidst the ongoing Dutch commentary, a brief, distinct female voice interjects, saying \"Als ze dat zeggen dan is het niet zo\" (If they say that, it's not true), followed by light laughter and continued crowd murmurs. The video pulls back to a wide-angle shot of the entire pit lane, revealing a massive lineup of hypercars: a white Lamborghini Centenario, yellow Mercedes-AMG G63, white Aston Martin DB11, red Polaris Slingshot, black and red Tramontana R, silver Audi R8, red Ford GT, grey Ferrari 488 Pista, white Porsche 911 GT3 RS, blue Lamborghini Huracán, green Mercedes-AMG G63, green Mercedes-AMG GT R, and white Porsche Carrera GT. Spectators line the barriers and grandstands, many capturing the moment on cameras and phones, a sight the announcer encourages by suggesting they take a \"mooie foto\" (beautiful photo) and \"Instagram zetten\" (put on Instagram), also referencing \"Supercar.nl\". The overcast sky casts diffused lighting over the racetrack, with blue and red curbs and advertising banners for 'VREDESTEIN' and 'OLIEHANDEL' visible, creating an electric atmosphere as the cars remain stationary, awaiting the event's start.",
+        "The minute opens with a wide-angle view of a bustling racetrack pit lane, packed with an impressive lineup of hypercars including a yellow Pagani Huayra, black McLaren P1 GTR, black Bugatti Veyron, white Bugatti Veyron, red Ferrari LaFerrari, and a silver-grey Koenigsegg Regera, all parked under an overcast sky. Spectators fill the grandstands, while photographers and media personnel in blue 'MEDIA' vests and marshals in orange 'MARSHAL' or 'KNAF' vests gather along the pit wall, actively capturing the scene. Amidst the general chatter and crowd noise, a Dutch voice is heard making an announcement, possibly about photography, mentioning 'cameras' being used, followed by another voice casually remarking 'back into the cash register.' As the cars begin to move, the atmosphere shifts dramatically; the yellow Pagani Huayra and black McLaren P1 GTR lead the procession down the track, followed by the white Bugatti Veyron and red Ferrari LaFerrari, and then the Koenigsegg. The initial engine hum quickly escalates into a symphony of high-pitched engine revs and powerful roars, accompanied by the distinct sound of tires squealing as each car performs controlled drifts, leaving tire marks on the asphalt. The camera follows the dynamic action from various angles, including side tracking shots and long-distance views, capturing the visual spectacle and the electric excitement of the crowd, all underscored by the continuous, thrilling sounds of high-performance engines and drifting tires.",
+        "The minute opens with an electrifying scene at the TT Circuit Assen racetrack, as a procession of high-performance supercars begins to move from the pit lane onto the track, their powerful engines roaring and tires squealing. A red Polaris Slingshot, its engine revving intensely, leads the formation, drifting smoothly around a corner, followed closely by a red Ferrari LaFerrari and a silver-grey Koenigsegg Regera, both executing controlled drifts that leave tire marks on the asphalt, accompanied by the distinct sound of tires gripping and sliding. Spectators and photographers, some in blue 'MEDIA' and orange 'MARSHAL' vests, line the track and fill the grandstands, capturing the thrilling moment amidst the continuous roar of engines. The convoy accelerates down the straight, a long line of exotic vehicles including a grey Ferrari 488 Pista, a blue Lamborghini Huracán, a white Porsche 911 GT3 RS, a green Mercedes-AMG GT R, a white Porsche Carrera GT, and support vehicles like a yellow Mercedes-AMG G63 labeled 'MEDIA & SUPPORT CAR' and a black Mercedes-AMG G63 with '#ROCKTHEROAD' branding, all maintaining tight formation and contributing to the high-octane engine symphony. The track, marked with distance signs (200, 150, 100, 50 meters) and 'TT CIRCUIT ASSEN SINCE 1925' signage, witnesses further action as a bright yellow Pagani Huayra takes the lead, its engine emitting a deep growl as it performs a controlled drift, followed by a black McLaren P1 GTR and a white Bugatti Veyron, their combined engine sounds creating an immersive atmosphere of power and precision, with tire smoke occasionally visible. The 'GUMBAL' watermark is visible in the bottom right corner throughout.",
+        "The dynamic procession of high-performance supercars at TT Circuit Assen unfolds with a continuous, high-octane auditory backdrop of roaring engines and intense tire screeches, perfectly mirroring their visually striking drifts. The scene opens with a bright yellow Pagani Huayra, featuring a 'PACE' badge, leading the convoy, its powerful engine sound prominent as it executes a controlled drift, leaving visible tire marks. Close behind, a black McLaren P1 GTR with orange trim and a large rear wing follows, its engine contributing to the pervasive roar as it too drifts with precision. The camera remains stationary, offering a wide-angle view of the track, flanked by blue and yellow grandstands, mostly empty save for scattered spectators and photographers, many capturing the event with professional cameras. A photographer in a blue shirt leans over the track barrier for a closer shot, amidst the loud automotive symphony. The convoy continues with a white Bugatti Veyron, a red Ferrari LaFerrari, and a silver-grey Koenigsegg Regera with blue and yellow accents, each adding to the cacophony of powerful engine notes and tire friction as they maintain formation and drift. Further along, a grey Ferrari 488 Pista, a blue Lamborghini Huracán, a white Porsche 911 GT3 RS, and a vibrant green Mercedes-AMG GT R maintain tight spacing, their collective engine sounds and tire screeches creating an immersive experience. The procession concludes with a white Porsche Carrera GT, its classic mid-engine design and prominent rear wing visible, its engine note blending into the overall high-performance soundscape. The overcast sky casts diffused lighting, enhancing the vivid colors of these automotive marvels against the grey tarmac, while distance markers (200, 150, 100, 50) line the track, all set against the prominent 'www.ttcircuit.com' and 'TT CIRCUIT ASSEN SINCE 1925' signage overhead. The entire sequence is an energetic, audio-visually integrated display of automotive performance and coordination."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 12,
+      "end_minute": 12,
+      "summary": "The auditory segment begins with the high-pitched whine of a racing engine, which rapidly transitions into a powerful engine roar as a car accelerates. The sound then evolves into a lower, sustained roar, indicating high-speed movement, before gradually fading.",
+      "involved_entities": {},
+      "raw_segments": [
+        "The segment is entirely auditory, featuring the distinct sounds of a powerful vehicle. It commences with a high-pitched whine, characteristic of a racing engine, which quickly transitions into a robust engine roar as a car rapidly accelerates. This sound then evolves into a lower, more sustained roar, strongly indicating the vehicle is moving at high speed, before gradually fading slightly."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "black Bugatti Veyron": "A black Bugatti Veyron with a Dutch license plate '5-TSR-86', showcasing its iconic quad circular taillights and rear design, briefly visible in the pit lane lineup before the cars begin to move.",
+    "black McLaren P1 GTR": "A black McLaren P1 GTR with orange trim and 'McLaren P1 GTR' text on the side, featuring a large rear wing and 'ENDEAVOUR' license plate, following the Pagani and drifting.",
+    "red Ferrari LaFerrari": "A red Ferrari LaFerrari with black wheels and a prominent front splitter, following the Slingshot and drifting down the track.",
+    "man in red shirt": "A man wearing a red shirt and orange sneakers, seen walking past the vehicles in the pit lane.",
+    "racetrack pit lane": "The setting features a paved track with blue and red curbs, surrounded by barriers and grandstands, under an overcast sky, with distance markers (200, 150, 100, 50) and signage for 'TT CIRCUIT ASSEN SINCE 1925' and 'www.ttcircuit.com'.",
+    "yellow Pagani Huayra": "A bright yellow Pagani Huayra with black wheels and front splitter, featuring a 'PACE' badge, leading the convoy down the track and performing a controlled drift.",
+    "photographers and spectators": "A group of people lining the track and grandstands, many holding cameras, some wearing blue vests labeled 'MEDIA' and orange vests labeled 'MARSHAL' or 'KNAF', actively capturing the drifting cars.",
+    "white Bugatti Veyron": "A white Bugatti Veyron with license plate '7-KGN-48', featuring silver wheels and classic Veyron styling, visible in the convoy following the McLaren.",
+    "white Lamborghini Centenario": "A white Lamborghini Centenario with sharp angular lines, black front grille, and red brake calipers, visible in the pit lane lineup.",
+    "silver-grey Koenigsegg Regera": "A silver-grey Koenigsegg Regera with blue and yellow accents, a 'PACE' badge, and a large rear wing, drifting behind the Ferrari and maintaining formation.",
+    "yellow Mercedes-AMG G63": "A bright yellow Mercedes-AMG G63 with black wheels and 'THIJS TIMMERMANS' branding, labeled 'MEDIA & SUPPORT CAR' and 'PASSION FOR GOOD' on the rear, seen among the cars.",
+    "blue Lamborghini Huracán": "A blue Lamborghini Huracán with 'SG-SV 750' license plate, sharp angular lines, and black wheels, seen in the procession behind the Ferrari.",
+    "white Porsche 911 GT3 RS": "A white Porsche 911 GT3 RS with 'AC-M 991' license plate, a prominent rear wing, and black wheels, following the Lamborghini in the line.",
+    "red Ford GT": "A red Ford GT with an aggressive front splitter, 'S6 GT 350' license plate, and a sleek, low-profile design, parked in the pit lane lineup with its hood open.",
+    "white Aston Martin DB11": "A white Aston Martin DB11 with a Dutch license plate 'NF-683-H' and a distinctive rear diffuser, parked in the pit lane lineup.",
+    "red Polaris Slingshot": "A red three-wheeled Polaris Slingshot with exposed mechanical components, a transparent canopy, and a 'PACE' badge, leading the convoy and drifting smoothly around the track corner, its engine revving intensely and tires squealing.",
+    "green Mercedes-AMG G63": "A green Mercedes-AMG G63 with 'THIJS TIMMERMANS' branding on the side, black wheels, and a boxy design, parked in the pit lane lineup.",
+    "black and red Tramontana R": "A black and red Tramontana R with 'TRAMONTANA R' decal on the side, aggressive aerodynamic design, and a 'PACE' badge, parked in the pit lane lineup.",
+    "silver Audi R8": "A silver Audi R8 with a 'PACE' badge, large rear wing, and quad exhausts, parked in the pit lane lineup.",
+    "grey Ferrari 488 Pista": "A grey Ferrari 488 Pista with a 'DE TUTTIS' decal, yellow brake calipers, and black wheels, visible in the convoy as it follows the Koenigsegg.",
+    "white Porsche Carrera GT": "A white Porsche Carrera GT with a Dutch license plate 'HD-06046', featuring a classic mid-engine design, black wheels, and a prominent rear wing, visible in the convoy following the green GT R.",
+    "green Mercedes-AMG GT R": "A vibrant green Mercedes-AMG GT R with 'AMG' branding on the front grille and a '7 ELEVEN' sticker on the rear, featuring black wheels and a sleek design, visible in the convoy.",
+    "man in white shirt": "A man wearing a white shirt and jeans, standing near the pit lane, observing and gesturing toward the cars, possibly a crew member or event official, seen interacting with others during the lineup.",
+    "man in blue patterned shirt": "A man in a blue patterned shirt and jeans, standing near the pit lane, holding a phone or camera, likely documenting the event, seen walking alongside the cars as they begin to move.",
+    "man in orange vest": "A man wearing an orange vest labeled 'MARSHAL' or 'KNAF', standing near the pit lane, actively directing or observing the cars, possibly an event official or safety marshal.",
+    "photographer on barrier": "A photographer in a blue shirt leaning over the track barrier, capturing images of the drifting cars from a close vantage point, visible along the track.",
+    "black Mercedes-AMG G63": "A black Mercedes-AMG G63 with '#ROCKTHEROAD' on the rear, black wheels, and 'THIJS TIMMERMANS' branding, following the yellow G63 in the procession."
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "video_id": "video387",
+  "audio_id": "video387_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "The animation begins with an abstract, microscopic view of a cellular environment, featuring a hexagonal lattice and a glowing center, which transitions to a greenish, textured surface with moving bubble-like structures, accompanied by subtle atmospheric music. A male narrator introduces the animation, stating, \"In this animation, we want to show the human immune system with images never seen before,\" and promises to reveal how cells like macrophages protect the organism daily. The scene then shifts to a close-up of a skin surface, revealing a hair follicle with a sebaceous gland secreting golden, oily sebum, while on-screen text explains sebum's protective and nourishing role for skin cells and the microbiome. The camera zooms into the skin, showing various small, colorful microorganisms and particles floating in the sebum layer. A 3D-rendered human figure with closed eyes appears against a dark gray background, overlaid with the title 'The Human Immune System by Thomas Schwenke'. The narrator explains, \"Our skin, like the bark of a tree, represents valuable protection,\" but also notes it's \"home to countless microorganisms.\" The video returns to a microscopic view of a hair follicle with sebum secretion, followed by a dynamic sequence of translucent, blue, and dark cellular or microbial entities with protrusions moving across a brownish, textured surface. The narrator elaborates that these microorganisms are \"nourished and protected by an oily fluid called sebum,\" which is \"produced by sebaceous glands.\" He further explains that \"Sebum also contains antimicrobial elements that can kill microbes,\" ensuring that \"if they are harmful or too many microbes on the skin, the sebum is composed in such a way that these microbes are killed,\" thereby creating a \"harmonious coexistence.\"",
+      "involved_entities": {
+        "Hair": {
+          "description": "A dark, textured hair shaft emerging from the skin, with a visible follicle and associated sebaceous gland.",
+          "attribute": "visual"
+        },
+        "Title text": {
+          "description": "White text reading 'The Human Immune System by Thomas Schwenke' displayed over the human figure. The narrator introduces the topic as 'the human immune system'.",
+          "attribute": "audio-visual"
+        },
+        "Sebum": {
+          "description": "Visually a golden, oily substance secreted by the sebaceous gland, with on-screen text describing its protective and nourishing role. The narrator identifies it as an 'oily fluid' that nourishes and protects microorganisms, and also states it 'contains antimicrobial elements that can kill microbes', especially if they are harmful or too numerous.",
+          "attribute": "audio-visual"
+        },
+        "Human figure": {
+          "description": "A 3D-rendered, bald, neutral-expression human torso and head with closed eyes, appearing calm against a dark gray background, over which the title text is displayed.",
+          "attribute": "audio-visual"
+        },
+        "Sebaceous gland": {
+          "description": "Visually a structure connected to a hair follicle, secreting sebum, labeled 'not visible' on screen. The narrator explicitly states that 'Sebum is produced by sebaceous glands'.",
+          "attribute": "audio-visual"
+        },
+        "Cellular/microbial entities": {
+          "description": "These are the dynamic translucent, blue, and dark-colored moving structures with protrusions, representing the 'microbes' that the narrator describes as being nourished, protected, and potentially killed by sebum to maintain a 'harmonious coexistence'.",
+          "attribute": "audio-visual"
+        },
+        "Microorganisms": {
+          "description": "Visually various small, colorful, and irregularly shaped entities floating in the sebum layer, and later dynamic translucent, blue, and dark forms with protrusions. The narrator refers to them as 'countless microorganisms' and 'microbes' that are nourished and protected by sebum, but also notes that sebum can kill them if they are harmful or too many, creating a 'harmonious coexistence'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a microscopic, abstract view of a cellular environment featuring a hexagonal lattice and a glowing center, transitioning to a greenish, textured surface with moving bubble-like structures, all set to a subtle, atmospheric background music. A male narrator with a clear, informative voice introduces the animation, stating, \"In this animation, we want to show the human immune system with images never seen before,\" and promises to reveal how cells like macrophages protect the organism daily. The scene then shifts to a close-up of a skin surface, showing a hair follicle with a sebaceous gland (labeled 'not visible') secreting golden, oily sebum, while on-screen text explains sebum's protective and nourishing role for skin cells and the microbiome. The camera zooms into the skin, revealing various small, colorful microorganisms and particles floating in the sebum layer. A 3D-rendered human figure with closed eyes appears against a dark gray background, overlaid with the title 'The Human Immune System by Thomas Schwenke'. The narrator explains, \"Our skin, like the bark of a tree, represents valuable protection,\" but also notes it's \"home to countless microorganisms.\" The video returns to a microscopic view of a hair follicle with sebum secretion, followed by a dynamic sequence of translucent, blue, and dark cellular or microbial entities with protrusions moving across a brownish, textured surface. The narrator elaborates that these microorganisms are \"nourished and protected by an oily fluid called sebum,\" which is \"produced by sebaceous glands.\" He further explains that \"Sebum also contains antimicrobial elements that can kill microbes,\" ensuring that \"if they are harmful or too many microbes on the skin, the sebum is composed in such a way that these microbes are killed,\" thereby creating a \"harmonious coexistence.\""
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 2,
+      "summary": "The video begins with a close-up of a translucent blue cellular structure traversing a brown, textured surface as a male narrator introduces the concept of 'symbiosis between skin cells and microbes.' The scene then dynamically illustrates microbial entities, including a 'Pathogen' characterized by green, spindly appendages, interacting with other structures, while the narrator explains their role in maintaining balance and eliminating dangerous pathogens. A 3D-rendered human figure, initially viewed from behind, turns to face forward with closed eyes against a backdrop of rhythmic, tense electronic music. The camera then zooms into the human airway, identifying the 'Carina tracheae' within a fleshy passage, simulating a respiratory tract journey, as the narrator describes the 'mucus membrane' as a protective layer for hollow organs like the nose, mouth, and trachea. The view progresses into a dense field of rhythmically moving 'Cilia,' tiny hair-like projections, which sweep 'Dirt particles' along with their motion. The narrator further explains that 'Mucus membranes possess cilia' that move in a wavelike manner to propel mucus, carrying adhered foreign substances, upward into the oral cavity. The segment concludes with a dark frame displaying a glowing human outline coughing, overlaid with the text 'Coughing as a Defense Mechanism,' as the narrator states, 'If mucociliary clearance is not sufficient, an attempt is made to...' before the audio abruptly stops, highlighting the body's defense mechanisms against irritants.",
+      "involved_entities": {
+        "Cilia": {
+          "description": "Slender, threadlike projections densely covering a surface, moving rhythmically to clear the respiratory tract. The narrator explicitly states that 'Mucus membranes possess cilia' and that 'Cilia move back and forth in a wavelike manner' to move mucus.",
+          "attribute": "audio-visual"
+        },
+        "Title text": {
+          "description": "White text reading 'Coughing as a Defense Mechanism' displayed on a dark background alongside a glowing human outline, appearing as the narrator describes the body's response when 'mucociliary clearance is not sufficient'.",
+          "attribute": "audio-visual"
+        },
+        "Glowing human outline": {
+          "description": "A stylized, neon-blue outline of a human figure in a coughing posture, shown within a dark, framed interface, visually representing the 'Coughing as a Defense Mechanism' mentioned in the accompanying text and implied by the narrator's final, cut-off statement about insufficient clearance.",
+          "attribute": "audio-visual"
+        },
+        "Human figure": {
+          "description": "A 3D-rendered, bald human torso and head with closed eyes, shown from back to front, appearing calm against a dark gray background, representing the human body whose internal systems and defense mechanisms are being described by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Dirt particle": {
+          "description": "Small, gray, irregularly shaped particles being swept along by the motion of cilia, representing 'foreign substances' that 'adhere' to mucus, as described by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Carina tracheae": {
+          "description": "A labeled anatomical structure within the trachea, shown as a cartilaginous ridge at the bifurcation of the bronchi, visible in a tubular, fleshy airway passage, part of the 'trachea' which the narrator identifies as a 'hollow organ' with a 'mucus membrane'.",
+          "attribute": "audio-visual"
+        },
+        "Cellular/microbial entities": {
+          "description": "Translucent, blue, and dark-colored moving structures with protrusions, interacting on a surface; one is labeled 'Pathogen' with green, spindly appendages. These are identified by the narrator as 'skin cells and microbes' that engage in 'symbiosis,' with some 'microbes' killing 'pathogens that can be dangerous to our cells'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of a translucent blue cellular structure moving across a brown, textured surface, as a male narrator begins to speak about the 'symbiosis between skin cells and microbes.' This transitions to a dynamic scene where various microbial entities, including a labeled 'Pathogen' with green, spindly appendages, interact with other structures, while the narrator explains that 'These microbes also keep one another in balance and kill pathogens that can be dangerous to our cells.' The scene then shifts to a 3D-rendered human figure, initially shown from the back, turning to face forward with closed eyes, against a backdrop of rhythmic, slightly tense electronic background music. The camera zooms into the human airway, revealing the 'Carina tracheae' labeled within a tubular, fleshy passage, simulating a journey through the respiratory tract, as the narrator describes this as 'The protective layer of hollow organs such as the nose, mouth, and trachea is a mucus membrane.' The view continues into a dense field of 'Cilia'—tiny, hair-like projections—moving rhythmically, with 'Dirt particles' being swept along by their motion. The narrator elaborates, stating that 'Mucus membranes possess cilia. Cilia move back and forth in a wavelike manner,' allowing them 'to move mucus, to which foreign substances adhere, upward into the oral cavity.' The segment concludes with a dark, stylized frame showing a glowing outline of a human figure coughing, accompanied by the text 'Coughing as a Defense Mechanism,' as the narrator's voice returns, stating, 'If mucociliary clearance is not sufficient, an attempt is made to...' before the audio cuts off, emphasizing the body’s protective response to irritants."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 3,
+      "end_minute": 4,
+      "summary": "A glowing neon-blue human outline in a coughing posture, with the title 'Coughing as a Defense Mechanism', illustrates the expulsion of foreign substances from the lungs and trachea through inhalation and sudden exhalation. The scene transitions to a microscopic, warm-toned biological environment where 'Stem cell' entities divide, with one becoming a 'Progenitor cell', as a narrator explains that bone marrow stem cells are the origin of leukocytes, undergoing symmetric division to form either more stem cells or progenitor cells, which then divide repeatedly until a single stem cell becomes many immune cells. The interface shifts to 'Division and Maturation of Neutrophils', showing teal-colored cells proliferating. Returning to the microscopic view, a 'Neutrophil' approaches an 'Endothelial cell of the blood vessel'. The narrator explains that neutrophils, part of the innate immune system, travel through the bloodstream, adhering to the endothelium during inflammation via special receptors. The process of 'Diapedesis' is depicted as the neutrophil squeezes through the vessel wall, guided by cytokines through the connective tissue, following a path previously made by other neutrophils. The video concludes with call-to-action buttons for 'LIKE', 'SUBSCRIBE', and 'ACTIVATED'.",
+      "involved_entities": {
+        "Progenitor cell": {
+          "description": "A translucent, blue, spiky spherical cell resulting from the division of a 'Stem cell', visually identical but labeled differently to indicate developmental stage, described by the narrator as a result of \"symmetric cell division\" and further dividing \"again and again.\"",
+          "attribute": "audio-visual"
+        },
+        "Endothelial cell of the blood vessel": {
+          "description": "A red, textured, tubular structure forming the inner lining of the blood vessel, shown in close-up with a bumpy, cellular surface, and described by a male narrator as having 'special receptors' during inflammatory processes, which facilitate the neutrophil's adhesion and passage.",
+          "attribute": "audio-visual"
+        },
+        "Title text": {
+          "description": "White text reading 'Coughing as a Defense Mechanism' displayed on a dark background alongside a glowing human outline, with the narrator explaining the mechanism of coughing as a defense.",
+          "attribute": "audio-visual"
+        },
+        "Division and Maturation of Neutrophils": {
+          "description": "Text displayed on a dark interface, accompanied by a visual of teal-colored, irregularly shaped cells multiplying and clustering to illustrate cellular proliferation, which the narrator summarizes as a process where \"a single stem cell becomes many immune cells or leukocytes.\"",
+          "attribute": "audio-visual"
+        },
+        "Glowing human outline": {
+          "description": "A stylized, neon-blue outline of a human figure in a coughing posture, shown within a dark, framed interface, transitioning between side and front views.",
+          "attribute": "visual"
+        },
+        "Human figure": {
+          "description": "A 3D-rendered, bald human torso and head with closed eyes, shown from back to front, appearing calm against a dark gray background, now depicted in a glowing neon-blue outline in a coughing posture, which the narrator describes as a mechanism for \"clearance of unwanted particles\" from the \"lungs and trachea.\"",
+          "attribute": "audio-visual"
+        },
+        "Cellular/microbial entities": {
+          "description": "Translucent, blue, and dark-colored moving structures with protrusions, interacting on a surface; one is labeled 'Stem cell' and divides into a 'Progenitor cell', later identified as a 'Neutrophil'.",
+          "attribute": "visual"
+        },
+        "Stem cell": {
+          "description": "A translucent, blue, spiky spherical cell that divides into two, with one becoming a 'Progenitor cell', shown in a warm-toned biological environment, identified by the narrator as being from \"bone marrow\" and the \"birthplace for many different immune cells, which we also call leukocytes,\" explaining its division into \"daughter cells\" which can be \"asymmetric or symmetric.\"",
+          "attribute": "audio-visual"
+        },
+        "Neutrophil": {
+          "description": "A translucent, white, spiky spherical cell, explicitly named by a male narrator as 'the neutrophil' and described as an 'immune cell' that makes its way into the bloodstream, belongs to the 'innate immune system', moves through blood vessels, and undergoes diapedesis by going through the endothelium, following cytokines along paths made by other neutrophils.",
+          "attribute": "audio-visual"
+        },
+        "Call-to-action buttons": {
+          "description": "Interactive-style overlays appearing at the end of the segment, including 'LIKE', 'SUBSCRIBE', and 'ACTIVATED' buttons with animated hand cursor, indicating a digital video platform interface.",
+          "attribute": "visual"
+        },
+        "Innate immune system (nonspecific)": {
+          "description": "Text overlay describing the first line of defense, including skin, mucous membranes, and neutrophils, which a male narrator explicitly states the neutrophil belongs to.",
+          "attribute": "audio-visual"
+        },
+        "Diapedesis": {
+          "description": "Text overlay defining the migration of blood cells into surrounding damaged or infected tissue, visually shown as the neutrophil squeezing through the endothelial layer, and explicitly named and described by a male narrator as the process where the granulocyte goes through the endothelium.",
+          "attribute": "audio-visual"
+        },
+        "Adaptive immune system (specific)": {
+          "description": "Text overlay explaining the slower, targeted immune response that takes over if the innate system fails, displayed alongside the innate system description.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a dark, framed interface displaying a glowing neon-blue outline of a human figure in a coughing posture, accompanied by the white text 'Coughing as a Defense Mechanism'. A male narrator explains this as the \"clearance of unwanted particles through coughing,\" detailing it as \"inhalation, followed by a sudden exhalation, so that foreign substances are removed from the lungs and trachea.\" The human figure transitions from a side profile to a front-facing view, then back to a side view, emphasizing the act of coughing. The scene then shifts to a microscopic, warm-toned environment resembling biological tissue, where translucent blue, spiky spherical entities labeled 'Stem cell' are shown dividing into two, with one becoming a 'Progenitor cell'. The narrator explains that \"The bone marrow has stem cells,\" which are \"the birthplace for many different immune cells, which we also call leukocytes.\" He continues, \"Stem cells divide to form daughter cells, asymmetric or symmetric,\" and that \"Symmetric cell division results in either two stem cells or two progenitor cells, as seen here.\" This cellular division process repeats, with the narrator adding that \"The progenitor cells divide again and again.\" The scene transitions again to a dark interface with the text 'Division and Maturation of Neutrophils', showing teal-colored, irregularly shaped cells multiplying and clustering, illustrating cellular proliferation. The narrator concludes this segment by stating, \"Thus, a single stem cell becomes many immune cells or leukocytes.\" Finally, the video returns to the microscopic view, where a blue, spiky cell labeled 'Neutrophil' is seen near a red, textured structure identified as an 'Endothelial cell of the blood vessel', suggesting the neutrophil's movement toward or interaction with the vessel wall, all set to a subtle, ambient background music.",
+        "The segment opens with a microscopic view of a blood vessel, where a white, spiky spherical cell, identified by a male narrator as \"the neutrophil,\" adheres to the red, textured lining of the 'Endothelial cell of the blood vessel'. The narrator explains that some neutrophils remain in the bone marrow while others \"make their way into the bloodstream.\" As the camera zooms in on the bumpy endothelial surface, then shifts to a broader view of the neutrophil floating among red blood cells in a deep red fluid, an orchestral, slightly dramatic background music begins to build. The narrator clarifies that \"Our neutrophil belongs to the so-called innate immune system and moves through the blood vessels.\" On-screen text appears, detailing the 'Innate immune system (nonspecific)' as the first line of defense and the 'Adaptive immune system (specific)' as a slower, targeted response. The narrator continues, explaining that \"During inflammatory processes, the endothelial cells of the blood vessels have special receptors,\" leading to weak, then strong adhesion, and finally, the \"granulocyte goes through the endothelium.\" The neutrophil is then shown undergoing 'Diapedesis'—squeezing through the vessel wall—a process the narrator explicitly names: \"This process is called diapedesis.\" The environment changes to a warmer, yellowish tissue space, where the neutrophil navigates a fibrous matrix, with the narrator adding that \"The path through the connective tissue has already been made by other neutrophils,\" and \"Our neutrophil only has to follow cytokines.\" The video concludes with a call-to-action overlay featuring 'LIKE', 'SUBSCRIBE', and 'ACTIVATED' buttons, accompanied by the continuing background music."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 5,
+      "end_minute": 5,
+      "summary": "A sebaceous gland secretes glistening golden sebum onto the skin surface, which is populated by small, colorful, irregularly shaped microorganisms. A translucent, white, spiky spherical Neutrophil navigates this oily environment, its directed movement driven by 'signal substances of other cells,' a process identified as 'Chemotaxis,' defined as the attraction of immune cells by chemokines. Uplifting, slightly dramatic background music plays as the Neutrophil proceeds. The male voice identifies the microorganisms as 'bacteria, everywhere,' noting they 'produce toxins and thus harm the cells of the organism.' The Neutrophil engulfs a bacterium, a process the voice clarifies is a neutrophil's job and is called 'Phagocytosis.' Some neutrophils produce cytokines to attract other granulocytes. The scene shifts to a cluster of white cells converging around a larger, complex Macrophage with blue and purple internal structures and branching protrusions, actively processing debris. The male voice concludes by mentioning 'Other cells of the innate immune system,' as the warm-toned, textured biological environment highlights ongoing cellular activity.",
+      "involved_entities": {
+        "Phagocytosis": {
+          "description": "A process visually demonstrated by the Neutrophil engulfing a particle, and explicitly defined by a male voice as 'This eating process' of bacteria or cells by phagocytes, accompanied by on-screen text.",
+          "attribute": "audio-visual"
+        },
+        "Macrophage": {
+          "description": "A larger, complex cell with blue and purple internal structures and branching protrusions, shown actively processing debris after the convergence of neutrophils, and verbally referred to as one of the 'Other cells of the innate immune system.'",
+          "attribute": "audio-visual"
+        },
+        "Chemotaxis": {
+          "description": "A process visually indicated by the Neutrophil’s directed movement toward a site of infection, explicitly defined by a male voice as the action of 'signal substances of other cells' (chemokines) to attract immune cells, with corresponding on-screen text.",
+          "attribute": "audio-visual"
+        },
+        "Sebum": {
+          "description": "A golden, oily substance coating the skin surface, shown glistening under warm light and hosting microorganisms.",
+          "attribute": "visual"
+        },
+        "Sebaceous gland": {
+          "description": "A structure connected to a hair follicle, secreting golden sebum onto the skin surface, visible at the start of the segment.",
+          "attribute": "visual"
+        },
+        "Neutrophil": {
+          "description": "A translucent, white, spiky spherical cell that moves through the sebum layer, responding to chemotactic signals. Its primary 'job is to eat these bacteria' through phagocytosis, and it also produces certain cytokines that attract other granulocytes.",
+          "attribute": "audio-visual"
+        },
+        "Microorganisms": {
+          "description": "Small, colorful, irregularly shaped entities floating within the golden sebum layer, verbally identified by a male voice as 'bacteria, everywhere' that 'produce toxins and thus harm the cells of the organism.'",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of a sebaceous gland secreting glistening golden sebum onto the skin surface, teeming with small, colorful, irregularly shaped microorganisms. As a translucent, white, spiky spherical Neutrophil emerges and navigates this oily environment, a male voice explains that its directed movement is due to 'signal substances of other cells,' a process called 'Chemotaxis,' which is also displayed as on-screen text defining it as the attraction of immune cells by chemokines. Uplifting, slightly dramatic background music begins as the Neutrophil continues its journey. The male voice then identifies the microorganisms as 'bacteria, everywhere,' noting they 'produce toxins and thus harm the cells of the organism.' The Neutrophil is shown engulfing one of these particles, with the male voice clarifying, 'A neutrophil's job is to eat these bacteria.' The text 'Phagocytosis' appears, describing this 'eating' process, which the male voice confirms is 'called phagocytosis.' He further explains that some neutrophils produce cytokines to attract other granulocytes. The scene transitions to a cluster of similar white cells converging, revealing a larger, complex Macrophage with blue and purple internal structures and branching protrusions, actively processing debris. The male voice concludes by mentioning 'Other cells of the innate immune system,' as the warm-toned, textured biological environment continues to highlight cellular activity."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 6,
+      "end_minute": 6,
+      "summary": "The video segment begins with a detailed view of an antigen, a foreign substance composed of blue, purple, and white interwoven elements against an orange backdrop, as electronic, suspenseful music starts. Macrophages are introduced as entities that arrive before neutrophils, phagocytose bacteria, and produce signal substances. A purple, star-shaped molecule, identified as Tumor necrosis factor, moves towards the antigen, with narration explaining its roles in suppressing hunger, inducing fever, and stimulating leukocyte production. The camera focuses on the antigen's surface, highlighting ring-like protrusions suggestive of receptor sites. A spiky, light-blue spherical macrophage enters from the right and contacts the antigen, with the Tumor necrosis factor appearing to bind to a specific site on the antigen, illustrating molecular recognition. Macrophages are further described as professional antigen-presenting cells capable of presenting antigens via surface proteins to initiate specific processes. The narration then introduces T-cells, explaining that certain T-cells can recognize specific antigens presented by macrophages through their receptors, a process for which they were trained in the thymus, all within the consistent warm, glowing background and continuing electronic music.",
+      "involved_entities": {
+        "Antigen": {
+          "description": "A complex, textured structure with interwoven blue, purple, and white components, featuring ring-like protrusions on its surface, visually labeled as 'antigen (= antibody-generating)' and defined as a foreign substance that evokes antibody production, which macrophages present and T-cells recognize.",
+          "attribute": "audio-visual"
+        },
+        "Antigen surface receptors": {
+          "description": "Ring-like structures on the antigen’s surface, appearing as circular indentations or protrusions, likely representing binding sites for immune molecules such as tumor necrosis factor.",
+          "attribute": "visual"
+        },
+        "Tumor necrosis factor": {
+          "description": "A small, purple, star-shaped molecule, explicitly named 'Tumor necrosis factor' by the narrator, which drifts into the scene, binds to the antigen, and functions to suppress hunger, cause fever, and stimulate leukocyte production.",
+          "attribute": "audio-visual"
+        },
+        "Cellular/microbial entities": {
+          "description": "A spiky, light-blue spherical entity, identified by the narrator as a 'macrophage' and a 'professional antigen presenting cell,' which arrives on the scene, phagocytoses bacteria, produces signaling substances, and presents antigens via surface proteins.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of a complex, textured structure, visually identified as an 'antigen'—a foreign substance evoking antibody production—composed of interwoven blue, purple, and white elements against a warm orange background. As electronic, slightly suspenseful music begins, a narrator introduces \"macrophages,\" stating they \"arrive on the scene before neutrophils,\" \"phagocytose bacteria,\" and \"produce a signal substance.\" A small, purple, star-shaped molecule, which the narrator names \"Tumor necrosis factor,\" drifts into the frame and moves toward the antigen. The narrator explains its functions: it \"suppresses the feeling of hunger, causes fever, [and] stimulates leukocyte production.\" The camera zooms in on the antigen’s surface, revealing intricate ring-like protrusions, suggesting receptor sites. A spiky, light-blue spherical entity, identified by the narrator as a macrophage, enters from the right and makes contact with the antigen. The scene emphasizes a molecular recognition event as the Tumor necrosis factor appears to dock with a specific site on the antigen. The narrator further elaborates on macrophages, calling them \"professional antigen presenting cells\" that \"have the ability to present antigens via certain proteins on their surface,\" initiating \"certain processes.\" The narrator then introduces \"T-cells,\" another leukocyte type, explaining that \"some T-cells can use their receptors to recognize exactly those antigens of the macrophages for which they have been trained in the thymus,\" all while the warm, glowing background remains consistent and the electronic music continues."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 7,
+      "end_minute": 8,
+      "summary": "The development of T cells, known as Thymopoiesis, begins in the bone marrow, from which they migrate via the bloodstream to the thymus, a primary lymphoid organ where they mature and are named 'T for thymus cells'. Within the thymus, T cells form antigen receptors before migrating to secondary lymphoid organs like the lymph nodes and spleen. In these lymphoid organs, naive T cells encounter dendritic cells, which are professional antigen-presenting cells that have encountered a pathogen and display its antigen on their surface. The T cell then scans the dendritic cell for this antigen. If an antigen is found, T-cell activation commences, leading to clonal expansion where the cell reproduces itself thousands of times, a process defined as the activation and proliferation of antigen-specific lymphocytes that respond to a specific pathogen or antigen. Subsequently, some T cells migrate to other tissues, including a transition to a warm, orange-hued cellular landscape. Here, a Cytotoxic T cell, a specialized type of T cell, moves through a dense field of orange tissue cells, scanning with its receptors for cells displaying a specific antigen. Upon finding the antigen on a cell, indicating the presence of a pathogen, the Cytotoxic T cell targets and binds to it, initiating cell death. This entire process is underscored by a low, atmospheric electronic hum.",
+      "involved_entities": {
+        "Development of T Cells (Thymopoiesis)": {
+          "description": "Text overlay describing the process of T cell maturation in the thymus, displayed prominently on a dark, digital interface alongside a human outline.",
+          "attribute": "visual"
+        },
+        "Title text": {
+          "description": "White text reading 'Development of T Cells (Thymopoiesis)' displayed on a dark, digital-style background, positioned to the left of the human figure outline.",
+          "attribute": "visual"
+        },
+        "Thymus": {
+          "description": "A small, triangular structure located in the upper chest region of the human outline, labeled and highlighted as the primary site of T cell development. The narrator explicitly states that T cells mature here, hence their name 'T for thymus cells,' and identifies it as 'one of the primary lymphoid organs' where T cells form antigen receptors.",
+          "attribute": "audio-visual"
+        },
+        "Lymphoid system and lymph nodes": {
+          "description": "A network of glowing, branching structures within the human outline, extending from the neck down to the limbs, indicating their role in immune cell trafficking and maturation. The narrator refers to them as 'secondary lymphoid organs' where T cells migrate after maturation, specifically mentioning 'lymph nodes'.",
+          "attribute": "audio-visual"
+        },
+        "Human figure": {
+          "description": "A stylized, neon-blue outline of a human figure shown in a frontal view, with internal structures highlighted, including the thymus, lymphoid system, lymph nodes, and spleen, indicating the anatomical sites involved in T cell development.",
+          "attribute": "visual"
+        },
+        "Underwater-like environment": {
+          "description": "A dark, green, murky setting with rocky, uneven terrain, simulating a biological or extracellular matrix, where the dendritic cell navigates, creating an immersive, almost alien atmosphere.",
+          "attribute": "visual"
+        },
+        "Spleen": {
+          "description": "A labeled, glowing organ located in the upper left abdomen of the human outline, shown as part of the immune system's secondary lymphoid organs, explicitly mentioned by the narrator as a destination for T cells.",
+          "attribute": "audio-visual"
+        },
+        "Dendritic cell": {
+          "description": "A spherical, spiky, translucent cell with a glowing surface, navigating through a dark, rocky, green-hued environment, representing its role in antigen presentation and immune surveillance.",
+          "attribute": "visual"
+        },
+        "Orange tissue cells": {
+          "description": "Rounded, textured, orange-colored cells forming a dense, undulating surface, representing normal host cells in the tissue environment, some of which are targeted by the Cytotoxic T cell.",
+          "attribute": "visual"
+        },
+        "Clonal expansion": {
+          "description": "Visually represented by the proliferation of spiky spheres and defined by on-screen text, the narrator explicitly states that 'clonal expansion occurs' and that 'the cell reproduces itself thousands of times,' explaining that 'these cells respond to a specific pathogen or antigen.'",
+          "attribute": "audio-visual"
+        },
+        "Cytotoxic T cell": {
+          "description": "Introduced visually as a white, spiky spherical cell that moves through a dense field of orange cells, the narrator explicitly names it as 'the cytotoxic T-cell' and describes its function: to 'scan other cells with their receptors to look for cells that have the specific antigen on their surface,' and upon finding it, 'they know that a pathogen... is in the cell,' leading to its binding with a target orange cell.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video begins with a close-up of a textured, organic surface featuring a glowing, spiky spherical entity, resembling an immune cell, as a calm male voice states, \"Let us take a closer look at this.\" A low, sustained synth hum provides background music. The scene then transitions to a dark, digital interface displaying a neon-blue human figure outline with the text 'Development of T Cells (Thymopoiesis)'. The narrator explains that \"T cells are also formed in the bone marrow\" and \"migrate via the bloodstream to the thymus.\" The human outline highlights the thymus, which then emits a cascade of small, glowing particles, illustrating the migration and development of T cells as they travel through the body, illuminating the lymphoid system, lymph nodes, and spleen. The voice clarifies that \"because they mature in the thymus, they are called T for thymus cells,\" and that the thymus is \"one of the primary lymphoid organs\" where \"T cells form antigen receptors.\" He adds that \"afterwards, they usually migrate to secondary lymphoid organs, such as the lymph nodes and the spleen.\" The atmosphere shifts dramatically to a cold, digital visualization, then to a dark, immersive, and slightly eerie, murky green underwater-like environment, accompanied by a more dramatic, deep synth sound. Here, a spherical, spiky cell labeled 'Dendritic cell' navigates rocky terrain. The narrator explains that \"in the lymphoid organs, naive T cells and dendritic cells meet,\" and that \"the dendritic cells have already had contact with a pathogen and present the antigen on the surface,\" identifying them as \"professional antigen-presenting cells.\" The segment concludes as the narrator describes \"the T cell scans the dendritic cell for the antigen...\"",
+        "The minute begins in a dark, murky, green underwater-like environment, simulating a biological extracellular matrix, where a single spiky, light-blue spherical entity—a dendritic cell—navigates through rocky terrain. A male narrator explains that if an antigen is found, T-cell activation begins. As the scene progresses, the dendritic cell undergoes clonal expansion, multiplying into multiple identical spiky spheres, while the narrator states that \"clonal expansion occurs\" and \"the cell reproduces itself thousands of times.\" On-screen text defines 'Clonal expansion' as the activation and proliferation of antigen-specific lymphocytes. The narrator adds that \"these cells respond to a specific pathogen or antigen.\" The environment then transitions to a warm, orange-hued, cellular landscape resembling a tissue surface, as the narrator explains that \"some T-cells start their journey and migrate to other tissues.\" Here, a new entity, the Cytotoxic T cell, is introduced as a white, spiky sphere moving through a dense field of rounded, orange cells. The narrator details its function: \"the cytotoxic T-cell scan other cells with their receptors to look for cells that have the specific antigen on their surface.\" The Cytotoxic T cell targets and binds to a specific orange cell, forming a tight interaction, with the narrator concluding that \"if they find their antigen on a cell, they know that a pathogen, for example, is in the cell,\" suggesting the initiation of cell death. Throughout the segment, a consistent, low, atmospheric electronic hum provides a subtle, slightly tense background score."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 9,
+      "end_minute": 14,
+      "summary": "The cytotoxic T cells initiate apoptosis, a cellular 'suicide program' involving shrinking and fragmentation, with debris subsequently consumed by macrophages, which also act as phagocytes removing dead cells. Concurrently, B cells, originating in the bone marrow and possessing T cell-like receptors, search for specific antigens in the lymphatic system or bloodstream. Upon antigen detection, B cells either activate immediately or move to lymphoid tissue to interact with T helper cells, which are also antigen-specific. The B cell then presents its antigen to the T cell for scanning, facilitating immune communication. This process, triggered by an antigen for which a T cell is trained, signals the division and maturation of B cells, leading to clonal expansion and the generation of thousands of plasmablasts and plasma cells, which produce and release antibodies (immunoglobulins) into the bloodstream. Memory B cells are also formed for future infections. Antibodies bind to toxins, bacteria, or antigens, rendering them harmless and marking them for easier recognition and phagocytosis by macrophages through a process called opsonization. All immune cells, including natural killer cells and platelets, originate from stem cells. Platelets, or thrombocytes, are produced from megakaryocytes in the bone marrow, with one megakaryocyte generating thousands of platelets emitted into circulation via pseudopodia, a process known as thrombopoiesis. In case of blood vessel injury, hemostasis begins: platelets adhere to collagen fibers and each other, forming a fragile plug. Fibrin strands then strengthen this plug by binding more platelets and red blood cells, creating a robust clot to prevent blood escape.",
+      "involved_entities": {
+        "Macrophage": {
+          "description": "A light-blue, spiky, spherical cell moving through a dense field of orange cells, actively engulfing debris, which a male voice explains is responsible for eating cell debris, with text identifying it as a phagocyte responsible for the removal of dead cells and debris.",
+          "attribute": "audio-visual"
+        },
+        "Different Types of T Cells": {
+          "description": "A diagram on a dark digital interface displaying 'Different Types of T Cells,' showing a progenitor T cell differentiating into cytotoxic T cell, T helper cell, memory T cell, and regulatory T cell, with an arrow from T helper cell to a B cell. A male voice explicitly names these types, including cytotoxic T cells, T helper cells, memory T cells, and regulatory T cells, stating there are 'others as well' and that 'T helper cells work hand...' before the audio cuts off.",
+          "attribute": "audio-visual"
+        },
+        "Apoptosis text overlay": {
+          "description": "White text appearing in the lower right corner defining apoptosis as a 'Suicide program' (programmed cell death) of individual cells, e.g., by external signals, a process also mentioned by a male voice.",
+          "attribute": "audio-visual"
+        },
+        "Orange tissue cells": {
+          "description": "Rounded, textured, orange-colored cells forming a dense, undulating surface, serving as the background environment for apoptosis and macrophage activity.",
+          "attribute": "visual"
+        },
+        "Macrophage text overlay": {
+          "description": "White text appearing in the lower right corner defining macrophage as a phagocyte responsible for the removal of dead cells (cell debris) and more, a role also described by a male voice.",
+          "attribute": "audio-visual"
+        },
+        "Apoptosis": {
+          "description": "A process shown as white spherical structures within orange tissue cells shrinking, fragmenting, and disintegrating, which a male voice states is induced by cytotoxic T cells, accompanied by text defining it as programmed cell death ('Suicide program') triggered by external signals.",
+          "attribute": "audio-visual"
+        },
+        "B cell": {
+          "description": "A spiky, light-gray spherical cell that receives a 'starting signal for division and maturation' from an antigen, undergoing 'clonal expansion' to generate thousands of new cells, including plasmablasts and plasma cells, as described by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Cellular/microbial entities": {
+          "description": "A second spiky, spherical cell with a darker, reddish hue and distinct surface features, appearing in the green environment and approaching the B cell. The narrator describes T helper cells as being trained for specific antigens, waiting in lymphoid tissue, and T cells using their receptors to scan the B cell, strongly suggesting this second cell is a T cell interacting with the B cell.",
+          "attribute": "audio-visual"
+        },
+        "Call-to-action buttons": {
+          "description": "Interactive-style overlays appearing at the end of the segment, including 'LIKE', 'SUBSCRIBE', and 'GET NOTIFIED' buttons with animated hand cursor, indicating a digital video platform interface.",
+          "attribute": "visual"
+        },
+        "Sebum": {
+          "description": "A golden, oily substance coating the skin surface, shown glistening under warm light and hosting microorganisms.",
+          "attribute": "visual"
+        },
+        "Sebaceous gland": {
+          "description": "A structure connected to a hair follicle, secreting golden sebum onto the skin surface, visible at the start of the segment.",
+          "attribute": "visual"
+        },
+        "Underwater-like environment": {
+          "description": "A dark, green, murky setting with rocky, uneven terrain, simulating a biological or extracellular matrix, where the B cell navigates, creating an immersive, almost alien atmosphere.",
+          "attribute": "visual"
+        },
+        "Antibody": {
+          "description": "Purple, Y-shaped molecular structures embedded on the surface of the plasma cell and later shown binding to a yellow particle, explained by the narrator as binding to toxins, bacteria, or antigens to render them harmless and mark them for macrophage recognition and phagocytosis.",
+          "attribute": "audio-visual"
+        },
+        "Plasma cell": {
+          "description": "A golden-yellow spherical cell with purple Y-shaped antibodies on its surface, shown rotating and interacting with small particles in a gray environment, described by the narrator as producing antibodies that bind to antigens.",
+          "attribute": "audio-visual"
+        },
+        "Microorganisms": {
+          "description": "Small, colorful, irregularly shaped entities floating within the sebum layer, representing the skin’s microbiome.",
+          "attribute": "visual"
+        },
+        "Megakaryocyte": {
+          "description": "A teal-colored, textured spherical cell attached to a red, ridged Blood vessel, extending pseudopodia to produce platelets, though not directly visible in this segment, its function is implied by the platelet aggregation.",
+          "attribute": "visual"
+        },
+        "Human Immune Cells diagram": {
+          "description": "A dark, digital-style flowchart showing the differentiation of 'Stem Cell' into various immune cells, which the narrator refers to as illustrating how 'all immune cells have a stem cell as their origin' and develop into the 'immune cells just shown'.",
+          "attribute": "audio-visual"
+        },
+        "Opsonization": {
+          "description": "A process visually depicted by a pink antibody binding to a yellow particle in a red, blood-like environment, accompanied by on-screen text defining it. The narrator explicitly names this process as 'opsonization' and explains its purpose: marking antigens for easier recognition and quicker phagocytosis by macrophages.",
+          "attribute": "audio-visual"
+        },
+        "Human Immune Cells title text": {
+          "description": "White text at the top of the dark diagram reading 'Human Immune Cells,' serving as the heading for the immune cell differentiation flowchart, which the narrator refers to when discussing the origin and development of 'the immune cells just shown'.",
+          "attribute": "audio-visual"
+        },
+        "Megakaryocyte label": {
+          "description": "White text identifying the teal cell as 'Megakaryocyte,' appearing next to the cell in the final frame, with the narrator providing functional context by mentioning 'platelets' as important immune cells.",
+          "attribute": "audio-visual"
+        },
+        "Opsonization text overlay": {
+          "description": "White text appearing in the lower right corner defining 'Opsonization' as 'Marking of specific particles by antibodies, especially to enhance phagocytosis,' which is explicitly named and explained by the narrator.",
+          "attribute": "audio-visual"
+        },
+        "Pseudopodium": {
+          "description": "Long, branching, teal-colored extensions from the Megakaryocyte that extend into the blood vessel and fragment into platelets, implied by the presence of platelets in the network.",
+          "attribute": "visual"
+        },
+        "Blood vessel": {
+          "description": "A red, ridged tubular structure forming the inner lining of the vessel, shown in close-up with a bumpy, cellular surface, serving as the site of platelet release and aggregation.",
+          "attribute": "visual"
+        },
+        "Thrombopoiesis": {
+          "description": "Text overlay defining the production of platelets (thrombocytes) by megakaryocytes in the bone marrow, implied by the platelet aggregation process shown.",
+          "attribute": "visual"
+        },
+        "Hemostasis": {
+          "description": "Text overlay describing all physiological processes that prevent and stop bleeding in case of blood vessel injuries, implied by the platelet aggregation and network formation.",
+          "attribute": "visual"
+        },
+        "Platelets (thrombocytes)": {
+          "description": "Small, disc-shaped, red entities flowing through the white network and accumulating, described by a male voice as forming a 'quite fragile platelet plug' initially, and later binding with 'fibrin strands' and 'red blood cells' to create a 'stronger plug' and ultimately 'a strong clot'.",
+          "attribute": "audio-visual"
+        },
+        "Fibrin network": {
+          "description": "A white, web-like lattice composed of interconnected spherical particles and thin filaments, forming a dense matrix that traps platelets, initially contributing to a 'fragile platelet plug', and later described by a male voice as 'fibrin strands' that form on the platelets to ensure a stronger, more stable clot.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of orange tissue cells, where white, spherical structures are seen undergoing apoptosis—a process of shrinking and fragmentation. A male voice explains that \"The cytotoxic T cells begin to induce apoptosis,\" while on-screen text defines apoptosis as a 'suicide program' triggered by external signals. Atmospheric, slightly ominous background music plays throughout. The scene then transitions to a blue, underwater-like environment where a light-blue, spiky macrophage cell actively moves through a dense field of orange cells, engulfing debris. The male voice clarifies that \"The cells' debris are eventually eaten by macrophages and new cells form,\" as text on screen identifies the macrophage as a phagocyte responsible for removing dead cells and debris. Finally, the visual shifts to a dark, digital interface displaying a diagram titled 'Different Types of T Cells,' illustrating a progenitor T cell differentiating into cytotoxic T cell, T helper cell, memory T cell, and regulatory T cell, with an arrow indicating the T helper cell's role in activating a B cell. The male voice explicitly names these, stating, \"There are not only cytotoxic T cells, but others as well. T helper cells, memory T cells, regulatory T cells, and others,\" before adding, \"T helper cells work hand...\" as the audio fades.",
+        "The segment opens with a dark red, textured background, resembling a blood vessel, where a spiky, light-gray spherical cell labeled 'B cell' floats centrally. A male narrator immediately begins, stating the segment is \"in hand with B cells,\" as the camera slowly zooms in to reveal the B cell's detailed surface with numerous protrusions. Atmospheric, slightly tense background music begins to play as the narrator continues, detailing that \"B cells possess receptors like T cells\" and \"also originate in the bone marrow.\" The visual background then transitions to a deep green, uneven, rocky terrain, resembling lymphoid tissue, while the narrator explains that B cells \"then search for their specific antigen in the lymphatic system or in the bloodstream.\" A second, spiky, spherical cell with a darker, reddish hue and distinct surface features appears in this green environment, moving closer to the B cell. The narrator describes how, \"If the B cell finds its antigen with its receptors, either activation occurs immediately\" or the B cell \"moves into the lymphoid tissue where T helper cells wait.\" The camera dramatically zooms in on the interaction between the two cells, highlighting their intricate surface structures, as the narrator clarifies that \"T helper cells... were also trained for one specific antigen.\" The lighting shifts, emphasizing the three-dimensional texture and dynamic movement of the cells, suggesting a biological process of immune cell communication. The narrator concludes that \"For this reason, the B cell presents its antigen on the surface,\" which \"allows the T cell with its receptors to scan the B cell,\" before his speech is cut off. The scene ends with a close-up of the two cells in proximity, implying an imminent interaction or signaling event, with the background music continuing.",
+        "The video opens with a close-up of a green, textured surface, resembling skin, where a reddish, spiky structure, likely a hair follicle or sebaceous gland, emerges, surrounded by glistening, golden sebum. Within this sebum, small, colorful microorganisms float, representing the skin's microbiome. A deep, electronic background music with a driving beat begins as a clear, authoritative male voice explains the role of an \"antigen for which the T cell has been trained,\" providing the \"starting signal for the division and maturation of the B cell.\" Visually, a spiky, light-gray spherical B cell floats in a red, blood-like environment before moving into a green, rocky, underwater-like terrain. The music continues as the voice states that \"clonal expansion occurs,\" and \"thousands of new B cells or plasmablasts and plasma cells are generated from a single B cell.\" The B cell then undergoes a transformation, splitting into two identical spheres, which rapidly multiply into a cluster of translucent, golden-yellow cells. These cells are later shown with purple, Y-shaped structures on their surface, labeled 'Antibody' and 'Plasma cell'. The voice further explains that \"Memory B cells are also produced,\" which \"will spring into action in the event of another subsequent infection.\" During \"acute infection,\" \"plasmablasts and plasma cells immediately begin to produce antibodies,\" and \"release these antibodies into the bloodstream.\" The voice clarifies that \"Antibodies are also often called immunoglobulins.\" The environment shifts to a neutral gray background, emphasizing the cellular processes, while animated call-to-action buttons ('LIKE', 'SUBSCRIBE', 'GET NOTIFIED') briefly appear, suggesting a digital video platform interface.",
+        "The segment opens with a gentle, ambient synth pad and a slow, arpeggiated melody playing softly in the background. A golden-yellow spherical plasma cell, adorned with purple Y-shaped antibodies, rotates in a gray environment, actively binding to small floating particles. A male voice with a clear, slightly accented tone explains that \"the antibody just produced by the plasma cell can bind to it,\" referring to toxins, bacteria, or antigens in the blood, rendering them harmless. The scene transitions to a red, blood-like environment where a pink Y-shaped antibody binds to an irregularly shaped yellow particle, a process visually labeled 'Opsonization' with an on-screen definition. The speaker elaborates that this marking allows macrophages to recognize and phagocytize the antigen more easily and quickly, explicitly stating, \"This process is called opsonization.\" The video then shifts to a dark, digital-style diagram titled 'Human Immune Cells,' illustrating the differentiation of a 'Stem Cell' into various immune cells. The narrator confirms, \"All immune cells have a stem cell as their origin. It develops into progenitor cells and eventually into the immune cells just shown.\" He adds that \"other important immune cells are natural killer cells and platelets.\" The final frame shows a teal-colored 'Megakaryocyte' in a yellow, fibrous environment, attached to a red, blood vessel-like structure, with the background music swelling slightly before fading out.",
+        "The video opens with a close-up of a teal-colored Megakaryocyte, a textured spherical cell, attached to a red, ridged Blood vessel within a yellow, fibrous bone marrow environment. A male narrator, speaking over gentle, ambient, slightly suspenseful background music, explains that \"Platelets, also known as thrombocytes,\" originate in the bone marrow from these \"megakaryocytes.\" The Megakaryocyte extends long, branching, teal-colored Pseudopodia into the vessel, which the narrator clarifies are the means by which \"platelets are emitted into circulation.\" These pseudopodia then fragment into smaller, disc-shaped Platelets. As the camera moves through the blood vessel, the narrator adds that \"one megakaryocyte can produce 1,000 to 3,000 platelets,\" and a text overlay labels this process as \"Thrombopoiesis,\" which the narrator confirms, stating, \"This process is called thrombopoiesis.\" The small, disc-shaped, teal-colored Platelets flow through the vessel, with the narrator noting, \"The platelets move through the blood vessels of the body.\" The scene transitions to a red, textured interior of a blood vessel where a text overlay introduces \"Hemostasis\" as the physiological processes that prevent and stop bleeding in case of injury, a concept the narrator introduces by saying, \"If injury to a blood vessel occurs, hemostasis begins.\" Suddenly, the vessel wall ruptures, revealing a bright orange, damaged area with debris and platelets accumulating at the site, illustrating the initiation of clotting and wound healing. The narrator further explains that \"the platelets adhere first to the collagen fibers of the connective tissue and eventually adhere to one another,\" as the environment shifts from a calm, structured vessel to a chaotic, inflamed zone, emphasizing the body’s rapid response to vascular injury.",
+        "The segment opens in a warm, orange-hued biological environment, possibly a vascular lumen, where a central, golden, starburst-like structure gradually defines itself. White, spherical particles emerge, clustering to form a dense, web-like network of interconnected spheres and thin filaments, which expands into a complex lattice. A male voice explains that \"This results in a quite fragile platelet plug, which prevents the blood from escaping.\" Red, disc-shaped entities, resembling platelets, then flow into the scene from the periphery, moving through the white network and accumulating within it, interacting to suggest aggregation. The dramatic, orchestral background music continues to build as the voice adds, \"Eventually, fibrin strands form on the platelets, which ensures a stronger plug.\" The network matures, binding \"more platelets and red blood cells,\" leading to the formation of \"a strong clot.\" The scene then transitions to complete darkness as the music becomes more serene and reflective, concluding the visual narrative of hemostasis."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 15,
+      "end_minute": 15,
+      "summary": "The segment begins with a deep, resonant gong, followed by fifty-nine rapid, continuous chimes. These chimes feature a dynamic pitch progression, starting high, descending, rising slightly, and then descending again in a rhythmic, undulating pattern that continues for the rest of the minute.",
+      "involved_entities": {},
+      "raw_segments": [
+        "With no visual information available, the segment is entirely auditory, commencing with a deep, resonant gong sound. This is immediately followed by a rapid and continuous sequence of fifty-nine distinct chimes. The chimes exhibit a dynamic pitch progression, starting high, then gradually descending, only to rise slightly before descending again in a rhythmic, undulating pattern that persists throughout the remainder of the minute."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Hair": "A dark, textured hair shaft emerging from the skin, with a visible follicle and associated sebaceous gland.",
+    "Title text": "White text reading 'Development of T Cells (Thymopoiesis)' displayed on a dark, digital-style background, positioned to the left of the human figure outline.",
+    "Sebum": "A golden, oily substance coating the skin surface, shown glistening under warm light and hosting microorganisms.",
+    "Human figure": "A stylized, neon-blue outline of a human figure shown in a frontal view, with internal structures highlighted, including the thymus, lymphoid system, lymph nodes, and spleen, indicating the anatomical sites involved in T cell development.",
+    "Sebaceous gland": "A structure connected to a hair follicle, secreting golden sebum onto the skin surface, visible at the start of the segment.",
+    "Cellular/microbial entities": "A second spiky, spherical cell with a darker, reddish hue and distinct surface features, appearing in the green environment and approaching the B cell. The narrator describes T helper cells as being trained for specific antigens, waiting in lymphoid tissue, and T cells using their receptors to scan the B cell, strongly suggesting this second cell is a T cell interacting with the B cell.",
+    "Microorganisms": "Small, colorful, irregularly shaped entities floating within the sebum layer, representing the skin’s microbiome.",
+    "Cilia": "Slender, threadlike projections densely covering a surface, moving rhythmically to clear the respiratory tract. The narrator explicitly states that 'Mucus membranes possess cilia' and that 'Cilia move back and forth in a wavelike manner' to move mucus.",
+    "Glowing human outline": "A stylized, neon-blue outline of a human figure in a coughing posture, shown within a dark, framed interface, transitioning between side and front views.",
+    "Dirt particle": "Small, gray, irregularly shaped particles being swept along by the motion of cilia, representing 'foreign substances' that 'adhere' to mucus, as described by the narrator.",
+    "Carina tracheae": "A labeled anatomical structure within the trachea, shown as a cartilaginous ridge at the bifurcation of the bronchi, visible in a tubular, fleshy airway passage, part of the 'trachea' which the narrator identifies as a 'hollow organ' with a 'mucus membrane'.",
+    "Progenitor cell": "A translucent, blue, spiky spherical cell resulting from the division of a 'Stem cell', visually identical but labeled differently to indicate developmental stage, described by the narrator as a result of \"symmetric cell division\" and further dividing \"again and again.\"",
+    "Endothelial cell of the blood vessel": "A red, textured, tubular structure forming the inner lining of the blood vessel, shown in close-up with a bumpy, cellular surface, and described by a male narrator as having 'special receptors' during inflammatory processes, which facilitate the neutrophil's adhesion and passage.",
+    "Division and Maturation of Neutrophils": "Text displayed on a dark interface, accompanied by a visual of teal-colored, irregularly shaped cells multiplying and clustering to illustrate cellular proliferation, which the narrator summarizes as a process where \"a single stem cell becomes many immune cells or leukocytes.\"",
+    "Stem cell": "A translucent, blue, spiky spherical cell that divides into two, with one becoming a 'Progenitor cell', shown in a warm-toned biological environment, identified by the narrator as being from \"bone marrow\" and the \"birthplace for many different immune cells, which we also call leukocytes,\" explaining its division into \"daughter cells\" which can be \"asymmetric or symmetric.\"",
+    "Neutrophil": "A translucent, white, spiky spherical cell that moves through the sebum layer, responding to chemotactic signals. Its primary 'job is to eat these bacteria' through phagocytosis, and it also produces certain cytokines that attract other granulocytes.",
+    "Call-to-action buttons": "Interactive-style overlays appearing at the end of the segment, including 'LIKE', 'SUBSCRIBE', and 'GET NOTIFIED' buttons with animated hand cursor, indicating a digital video platform interface.",
+    "Innate immune system (nonspecific)": "Text overlay describing the first line of defense, including skin, mucous membranes, and neutrophils, which a male narrator explicitly states the neutrophil belongs to.",
+    "Diapedesis": "Text overlay defining the migration of blood cells into surrounding damaged or infected tissue, visually shown as the neutrophil squeezing through the endothelial layer, and explicitly named and described by a male narrator as the process where the granulocyte goes through the endothelium.",
+    "Adaptive immune system (specific)": "Text overlay explaining the slower, targeted immune response that takes over if the innate system fails, displayed alongside the innate system description.",
+    "Phagocytosis": "A process visually demonstrated by the Neutrophil engulfing a particle, and explicitly defined by a male voice as 'This eating process' of bacteria or cells by phagocytes, accompanied by on-screen text.",
+    "Macrophage": "A light-blue, spiky, spherical cell moving through a dense field of orange cells, actively engulfing debris, which a male voice explains is responsible for eating cell debris, with text identifying it as a phagocyte responsible for the removal of dead cells and debris.",
+    "Chemotaxis": "A process visually indicated by the Neutrophil’s directed movement toward a site of infection, explicitly defined by a male voice as the action of 'signal substances of other cells' (chemokines) to attract immune cells, with corresponding on-screen text.",
+    "Antigen": "A complex, textured structure with interwoven blue, purple, and white components, featuring ring-like protrusions on its surface, visually labeled as 'antigen (= antibody-generating)' and defined as a foreign substance that evokes antibody production, which macrophages present and T-cells recognize.",
+    "Antigen surface receptors": "Ring-like structures on the antigen’s surface, appearing as circular indentations or protrusions, likely representing binding sites for immune molecules such as tumor necrosis factor.",
+    "Tumor necrosis factor": "A small, purple, star-shaped molecule, explicitly named 'Tumor necrosis factor' by the narrator, which drifts into the scene, binds to the antigen, and functions to suppress hunger, cause fever, and stimulate leukocyte production.",
+    "Development of T Cells (Thymopoiesis)": "Text overlay describing the process of T cell maturation in the thymus, displayed prominently on a dark, digital interface alongside a human outline.",
+    "Thymus": "A small, triangular structure located in the upper chest region of the human outline, labeled and highlighted as the primary site of T cell development. The narrator explicitly states that T cells mature here, hence their name 'T for thymus cells,' and identifies it as 'one of the primary lymphoid organs' where T cells form antigen receptors.",
+    "Lymphoid system and lymph nodes": "A network of glowing, branching structures within the human outline, extending from the neck down to the limbs, indicating their role in immune cell trafficking and maturation. The narrator refers to them as 'secondary lymphoid organs' where T cells migrate after maturation, specifically mentioning 'lymph nodes'.",
+    "Underwater-like environment": "A dark, green, murky setting with rocky, uneven terrain, simulating a biological or extracellular matrix, where the B cell navigates, creating an immersive, almost alien atmosphere.",
+    "Spleen": "A labeled, glowing organ located in the upper left abdomen of the human outline, shown as part of the immune system's secondary lymphoid organs, explicitly mentioned by the narrator as a destination for T cells.",
+    "Dendritic cell": "A spherical, spiky, translucent cell with a glowing surface, navigating through a dark, rocky, green-hued environment, representing its role in antigen presentation and immune surveillance.",
+    "Orange tissue cells": "Rounded, textured, orange-colored cells forming a dense, undulating surface, serving as the background environment for apoptosis and macrophage activity.",
+    "Clonal expansion": "Visually represented by the proliferation of spiky spheres and defined by on-screen text, the narrator explicitly states that 'clonal expansion occurs' and that 'the cell reproduces itself thousands of times,' explaining that 'these cells respond to a specific pathogen or antigen.'",
+    "Cytotoxic T cell": "Introduced visually as a white, spiky spherical cell that moves through a dense field of orange cells, the narrator explicitly names it as 'the cytotoxic T-cell' and describes its function: to 'scan other cells with their receptors to look for cells that have the specific antigen on their surface,' and upon finding it, 'they know that a pathogen... is in the cell,' leading to its binding with a target orange cell.",
+    "Different Types of T Cells": "A diagram on a dark digital interface displaying 'Different Types of T Cells,' showing a progenitor T cell differentiating into cytotoxic T cell, T helper cell, memory T cell, and regulatory T cell, with an arrow from T helper cell to a B cell. A male voice explicitly names these types, including cytotoxic T cells, T helper cells, memory T cells, and regulatory T cells, stating there are 'others as well' and that 'T helper cells work hand...' before the audio cuts off.",
+    "Apoptosis text overlay": "White text appearing in the lower right corner defining apoptosis as a 'Suicide program' (programmed cell death) of individual cells, e.g., by external signals, a process also mentioned by a male voice.",
+    "Macrophage text overlay": "White text appearing in the lower right corner defining macrophage as a phagocyte responsible for the removal of dead cells (cell debris) and more, a role also described by a male voice.",
+    "Apoptosis": "A process shown as white spherical structures within orange tissue cells shrinking, fragmenting, and disintegrating, which a male voice states is induced by cytotoxic T cells, accompanied by text defining it as programmed cell death ('Suicide program') triggered by external signals.",
+    "B cell": "A spiky, light-gray spherical cell that receives a 'starting signal for division and maturation' from an antigen, undergoing 'clonal expansion' to generate thousands of new cells, including plasmablasts and plasma cells, as described by the narrator.",
+    "Antibody": "Purple, Y-shaped molecular structures embedded on the surface of the plasma cell and later shown binding to a yellow particle, explained by the narrator as binding to toxins, bacteria, or antigens to render them harmless and mark them for macrophage recognition and phagocytosis.",
+    "Plasma cell": "A golden-yellow spherical cell with purple Y-shaped antibodies on its surface, shown rotating and interacting with small particles in a gray environment, described by the narrator as producing antibodies that bind to antigens.",
+    "Megakaryocyte": "A teal-colored, textured spherical cell attached to a red, ridged Blood vessel, extending pseudopodia to produce platelets, though not directly visible in this segment, its function is implied by the platelet aggregation.",
+    "Human Immune Cells diagram": "A dark, digital-style flowchart showing the differentiation of 'Stem Cell' into various immune cells, which the narrator refers to as illustrating how 'all immune cells have a stem cell as their origin' and develop into the 'immune cells just shown'.",
+    "Opsonization": "A process visually depicted by a pink antibody binding to a yellow particle in a red, blood-like environment, accompanied by on-screen text defining it. The narrator explicitly names this process as 'opsonization' and explains its purpose: marking antigens for easier recognition and quicker phagocytosis by macrophages.",
+    "Human Immune Cells title text": "White text at the top of the dark diagram reading 'Human Immune Cells,' serving as the heading for the immune cell differentiation flowchart, which the narrator refers to when discussing the origin and development of 'the immune cells just shown'.",
+    "Megakaryocyte label": "White text identifying the teal cell as 'Megakaryocyte,' appearing next to the cell in the final frame, with the narrator providing functional context by mentioning 'platelets' as important immune cells.",
+    "Opsonization text overlay": "White text appearing in the lower right corner defining 'Opsonization' as 'Marking of specific particles by antibodies, especially to enhance phagocytosis,' which is explicitly named and explained by the narrator.",
+    "Pseudopodium": "Long, branching, teal-colored extensions from the Megakaryocyte that extend into the blood vessel and fragment into platelets, implied by the presence of platelets in the network.",
+    "Blood vessel": "A red, ridged tubular structure forming the inner lining of the vessel, shown in close-up with a bumpy, cellular surface, serving as the site of platelet release and aggregation.",
+    "Thrombopoiesis": "Text overlay defining the production of platelets (thrombocytes) by megakaryocytes in the bone marrow, implied by the platelet aggregation process shown.",
+    "Hemostasis": "Text overlay describing all physiological processes that prevent and stop bleeding in case of blood vessel injuries, implied by the platelet aggregation and network formation.",
+    "Platelets (thrombocytes)": "Small, disc-shaped, red entities flowing through the white network and accumulating, described by a male voice as forming a 'quite fragile platelet plug' initially, and later binding with 'fibrin strands' and 'red blood cells' to create a 'stronger plug' and ultimately 'a strong clot'.",
+    "Fibrin network": "A white, web-like lattice composed of interconnected spherical particles and thin filaments, forming a dense matrix that traps platelets, initially contributing to a 'fragile platelet plug', and later described by a male voice as 'fibrin strands' that form on the platelets to ensure a stronger, more stable clot."
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "video_id": "video188",
+  "audio_id": "video188_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "The video begins with a first-person view of a football game, featuring a player in a white and orange 'HAWKS' jersey numbered 4, running on a green field alongside players in green and purple uniforms, underscored by crowd cheers, whistles, and tackle sounds. A hand in a black glove attempts to grab a football as commands of \"Ready!\" and \"Go!\" are heard. The scene shifts to a post-game interview with Kael Fortz (C83), wearing a black 'postgame' t-shirt, who discusses \"Week three of my outdoor season\" and a \"tough loss to the Cincy Hawks,\" promising engaging content for his channel, with on-screen text overlays including 'CHANNEL', 'SEE', 'HAWKS', 'SAS', and 'THINK' appearing. Behind him, an orange jersey with the number 9 and a Western Michigan University (WMU) banner are visible. The video ends with a bright, abstract light effect, resuming intense game sounds and music, and an unclear voice exclaiming \"What the hell?\".",
+      "involved_entities": {
+        "WMU Banner": {
+          "description": "A brown banner with 'Western Michigan University' and 'WMU' text, along with a bronco logo, displayed on the wall behind the interviewer.",
+          "attribute": "visual"
+        },
+        "Player in Green Uniform": {
+          "description": "Wearing a green jersey and purple helmet, seen in defensive and offensive positions during the game, amidst the sounds of intense football action.",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Text Overlays": {
+          "description": "White text appearing sequentially on screen during the interview, including 'CHANNEL', 'SEE', 'HAWKS', 'SAS', and 'THINK', which align with the speaker's introduction to his channel and his discussion of the 'Cincy Hawks' game.",
+          "attribute": "audio-visual"
+        },
+        "Orange Jersey with Number 9": {
+          "description": "An orange football jersey with the number 9, displayed on a mannequin or hanger behind the interviewer, featuring a black bird logo.",
+          "attribute": "visual"
+        },
+        "Interviewer": {
+          "description": "A young man with dark hair, wearing a black t-shirt with 'postgame' printed on it, speaking directly to the camera. He introduces himself as Kael Fortz, also known as C83, a semi-professional football player from Ohio, discussing his 'Week three of my outdoor season' and a 'tough loss to the Cincy Hawks,' while promising entertaining content for his channel.",
+          "attribute": "audio-visual"
+        },
+        "Player in Hawks Jersey": {
+          "description": "Wearing a white and orange 'HAWKS' jersey with number 4, black helmet, and orange pants, actively participating in a football game from a first-person perspective, accompanied by intense game sounds like crowd cheers, whistles, and tackles, and later identified by the speaker as part of the 'Cincy Hawks' context.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a first-person perspective of an intense football game, showing a player in a white and orange 'HAWKS' jersey with the number 4, running on a green field amidst other players in green and purple uniforms. The dynamic action, accompanied by the sounds of crowd cheers, whistles, and impactful tackles, includes a close-up of a hand in a black glove reaching for a football, with a voice shouting \"Ready!\" and \"Go!\" during the play. The scene then transitions to a post-game interview setting where a young man, Kael Fortz (also known as C83), wearing a black 'postgame' t-shirt, speaks directly to the camera. Behind him, an orange jersey with the number 9 and a Western Michigan University (WMU) banner are displayed. Kael, a semi-professional football player from Ohio, discusses \"Week three of my outdoor season,\" a \"tough loss to the Cincy Hawks,\" and promises entertaining content for his channel. On-screen text overlays like 'CHANNEL', 'SEE', 'HAWKS', 'SAS', and 'THINK' appear during his commentary. The video concludes with a bright, abstract light effect, as the intense game sounds and music resume, with an unclear voice exclaiming \"What the hell?\"."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 2,
+      "summary": "The video begins with a close-up of a player in a green 'Flag City' jersey with number 5 in a locker room, accompanied by rapid speech about \"probation,\" which is reinforced by an on-screen text overlay. The scene shifts to an overcast outdoor football field with purple and gold markings, where the team in green jerseys and purple helmets huddles with coaches, including Player Tucker (26), Player Butten (4), and Player Wilkinson (97). A coach delivers a motivational speech, stating, \"There's not shit to say other than execution. I give my life to see you guys successful,\" as the 'OTHER' on-screen text appears. The team erupts in an energetic chant, \"Phantoms on two, family on four! One two! Phantoms! Three four! Family!\", with 'PHANTOMS' and 'FAMILY' text overlays. As players move across the field, background chatter and shouts like \"line, line\" and \"Get a boy!\" are audible. A casual remark, \"I think it's CTE actually,\" is made, coinciding with the 'ACTUALLY' text. Later, a player playfully sings, \"Baby girl, let me see you dance, let me see you twirl,\" followed by repeated \"Game day\" exclamations and grunting sounds. Another player shares, \"I never scored either until my very first game,\" as 'EITHER' appears. The segment concludes with energetic cheers of \"Let's go! Phantoms!\" and a final \"Copy? Yes sir,\" underscoring the team's unity and high energy.",
+      "involved_entities": {
+        "Player Wilkinson (97)": {
+          "description": "Wearing a green jersey with 'WILKINSON' and number 97, purple helmet, seen from behind during team movements, and is part of the collective player voices heard in chants, shouts, and playful interactions.",
+          "attribute": "audio-visual"
+        },
+        "Field with Purple and Gold Markings": {
+          "description": "The football field features prominent purple and gold end zone designs, with white yard lines and goalposts, under an overcast sky.",
+          "attribute": "visual"
+        },
+        "Coach in Black Jacket": {
+          "description": "Wearing a black jacket and white cap, interacting with players during the huddle, gesturing and providing instructions. One of the coaches delivers a deliberate, motivational speech, stating, \"There's not shit to say other than execution. I give my life to see you guys successful.\"",
+          "attribute": "audio-visual"
+        },
+        "Player Butten (4)": {
+          "description": "Wearing a green jersey with 'BUTTEN' and number 4, purple helmet with an American flag decal, seen from behind during team movements, and is part of the collective player voices heard in chants, shouts, and playful interactions.",
+          "attribute": "audio-visual"
+        },
+        "WMU Banner": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Player in Green Uniform": {
+          "description": "Wearing a green jersey with 'Flag City' and number 5, later seen in various green jerseys with names like 'TUCKER' (26), 'BUTTEN' (4), and 'WILKINSON' (97), all paired with purple helmets, actively participating in team huddles and field movements, contributing to team chants (\"Phantoms on two, family on four!\"), making playful comments (\"Baby girl, let me see you dance...\"), and sharing anecdotes (\"I never scored either until my very first game\").",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Text Overlays": {
+          "description": "White text overlays appear sequentially, including 'PROBATION' (aligning with a rapid speech about \"probation\"), 'OTHER' (during a coach's speech about \"other than execution\"), 'PHANTOMS' (during team chants of \"Phantoms on two\" and \"Let's go! Phantoms!\"), 'ACTUALLY' (during a casual comment \"I think it's CTE actually\"), 'EITHER' (during a player's anecdote \"I never scored either\"), and 'FAMILY' (during team chants of \"family on four\").",
+          "attribute": "audio-visual"
+        },
+        "Orange Jersey with Number 9": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Interviewer": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Player in Hawks Jersey": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Coach in Red Jacket": {
+          "description": "Wearing a red jacket with a black logo, standing near the huddle, observing and engaging with players. One of the coaches delivers a deliberate, motivational speech, stating, \"There's not shit to say other than execution. I give my life to see you guys successful.\"",
+          "attribute": "audio-visual"
+        },
+        "Player Tucker (26)": {
+          "description": "Wearing a green jersey with 'TUCKER' and number 26, purple helmet with skull decals, actively participating in team huddles and field movements, and is part of the collective player voices heard in chants, shouts, and playful interactions.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a locker room with a close-up of a player in a green 'Flag City' jersey with number 5, as an energetic male voice rapidly speaks about \"what the hell he\" and \"probation,\" aligning with the 'PROBATION' on-screen text. The scene quickly transitions to an outdoor football field under an overcast sky, featuring purple and gold markings, where the team in green jerseys and purple helmets gathers. A deeper, deliberate male voice, likely a coach, delivers a motivational speech, stating, \"There's not shit to say other than execution. I give my life to see you guys successful,\" while the team, including players like 'TUCKER' (26), 'BUTTEN' (4), and 'WILKINSON' (97), huddles with coaches. On-screen text 'OTHER' appears during this speech. The team then engages in an energetic chant, \"Phantoms on two, family on four! One two! Phantoms! Three four! Family!\", with 'PHANTOMS' and 'FAMILY' text overlays appearing. As players move across the field, background chatter and shouts like \"line, line\" and \"Get a boy!\" are heard. A casual comment, \"I think it's CTE actually,\" is made, coinciding with the 'ACTUALLY' text. Later, a player playfully sings, \"Baby girl, let me see you dance, let me see you twirl,\" followed by repeated \"Game day\" exclamations and grunting sounds. Another player shares an anecdote, \"I never scored either until my very first game,\" as 'EITHER' appears. The segment concludes with energetic cheers of \"Let's go! Phantoms!\" and a final \"Copy? Yes sir,\" capturing the team's unity and high energy."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 3,
+      "end_minute": 6,
+      "summary": "The football team, clad in green jerseys and purple helmets, engages in pre-game warm-ups on a field marked with white yard lines and purple end zones, with players like TUCKER (26), BUTTEN (4), and WILKINSON (97) visible. Energetic shouts of \"Let's go, baby!\" and \"Warm up\" are heard, interspersed with grunts and heavy breathing, as players banter and express their passion for the game with statements like \"I love my life.\" On-screen text overlays such as 'LOVE', 'YOU', 'MAN', 'YAY', 'GOSH DARN', 'FICHES', and 'FAMILY' reinforce team spirit. The scene shifts to a locker room where players, including TUCKER and MOORE (88), receive motivational instructions from a coach in a black jacket and white cap, who declares, \"Now is the time. Y'all hear me? Now is the goddamn time,\" eliciting a \"Yes sir!\" response. Back on the field, under overcast skies, the coach reiterates the need for a \"60 minute\" fight. Gameplay unfolds with strategic calls like 'black, black. Fox Trot 11,' aggressive shouts such as 'Know your fucking place, trash!', and reactions like '20, 20, 20!' A player in a white and orange 'Hawks' jersey, number 4, is prominent during intense action. The ball carrier evades tackles, with the camera focusing on a tackle near the 20-yard line. LARABY (15) is seen running and signaling. A young man in a black shirt reflects on a \"feel out drive\" and a \"pick,\" while another player notes being \"hit as I'm trying to throw.\" Later, a referee in a black-and-white striped uniform is seen, followed by player 4 in a 'Hawks' jersey. Gameplay includes shouts of \"Go!\" and \"Good shit, Ando!\" with grunts and impacts. Player 5 is seen up close, and LARABY (15) signals amidst shouts of \"Oh yes!\" and \"Oh yeah!\". A player takes responsibility, saying, \"It's on me, Eric. Should have blocked for you.\" In a sideline huddle, the coach in the black jacket and white cap instructs, \"Safeties don't want to hit. Linebackers want to spread out and they want to collapse late. Keep toting now.\" On-screen text overlays like 'PROBATION', 'PHANTOMS', and 'FAMILY' reappear. MORRISON (85) is visible as the team moves along the sideline. A coach in a red jacket observes. Intense football sounds, grunts, and whistles punctuate the action, with shouts of \"Stay here! Stay here!\" and \"Let's go!\" A touchdown is announced: \"Stay off the wheel... Flag City touchdown.\" Close-ups of WILKINSON (97) and TUCKER (26) with skull decals are shown. Players prepare for a play with shouts of \"Ready!\" and \"Let's fucking go, Jared! Let's go, Jared! Way to block!\" A coach praises, \"Good hold up, baby. Good hold, baby.\" Post-play communication includes \"Good snap, bro.\" and \"Thank you.\" Further communication involves \"Go, Don. Go, Don,\" and \"Aiden? How was operation?\" with a reply of \"Good.\" The video concludes with players in green jerseys moving across the field, the coach with a clipboard giving instructions, and LARABY (15) running and signaling, as the on-screen text 'SNAP' appears before a final \"Let's go, Don!\" and \"Let's go!\"",
+      "involved_entities": {
+        "Player in Green Uniform": {
+          "description": "Wearing a green jersey with 'Flag City' and number 5, later seen in various green jerseys with names like 'LARABY' (15), 'TUCKER' (26), 'BUTTEN' (4), and 'WILKINSON' (97), all paired with purple helmets, actively participating in team huddles and field movements.",
+          "attribute": "visual"
+        },
+        "Player Wilkinson (97)": {
+          "description": "Wearing a green jersey with 'WILKINSON' and number 97, purple helmet, seen from behind during team movements.",
+          "attribute": "visual"
+        },
+        "Coach in White Cap and Black Jacket": {
+          "description": "Wearing a black jacket and white cap, seen on the field holding a clipboard and giving instructions to players, his voice clearly heard providing strategic advice: 'Safeties don't want to hit. Linebackers want to spread out and they want to collapse late. Keep toting now.'",
+          "attribute": "audio-visual"
+        },
+        "Coach in Black Jacket": {
+          "description": "Wearing a black jacket and white cap, interacting with players during the huddle, gesturing and providing instructions.",
+          "attribute": "visual"
+        },
+        "Player Moore (88)": {
+          "description": "Wearing a green jersey with 'MOORE' and number 88, purple helmet, seen in the locker room and on the field, actively engaging with teammates.",
+          "attribute": "visual"
+        },
+        "Player Butten (4)": {
+          "description": "Wearing a green jersey with 'BUTTEN' and number 4, purple helmet with an American flag decal, seen from behind during team movements.",
+          "attribute": "visual"
+        },
+        "Player Tucker (26)": {
+          "description": "Wearing a green jersey with 'TUCKER' and number 26, purple helmet with skull decals, actively participating in team huddles and field movements.",
+          "attribute": "visual"
+        },
+        "Field with Purple and Gold Markings": {
+          "description": "The football field features prominent purple and gold end zone designs, with white yard lines and goalposts, under an overcast sky.",
+          "attribute": "visual"
+        },
+        "Player Laraby (15)": {
+          "description": "Wearing a green jersey with 'LARABY' and number 15, purple helmet, seen running and signaling during the game.",
+          "attribute": "visual"
+        },
+        "Player in Hawks Jersey": {
+          "description": "Wearing a white and orange 'Hawks' jersey with number 4, seen up close during the game, actively participating in the play.",
+          "attribute": "visual"
+        },
+        "Young Man in Black Shirt": {
+          "description": "A young man in a black shirt with 'postgame' text, speaking directly to the camera in an indoor setting, with a Western Michigan University banner and an orange jersey with number 9 displayed behind him. He speaks calmly and analytically about the game's defense and fumbles.",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Text Overlays": {
+          "description": "White text overlays appear sequentially, including 'PROBATION', 'OTHER', 'PHANTOMS', 'ACTUALLY', 'EITHER', and 'FAMILY', emphasizing team identity and motivational themes during the huddle and field movement.",
+          "attribute": "visual"
+        },
+        "Coach in Red Jacket": {
+          "description": "Wearing a red jacket with a black logo, standing near the huddle, observing and engaging with players.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a black-and-white striped uniform and black cap, walking ahead on the field, signaling during gameplay.",
+          "attribute": "visual"
+        },
+        "Player Morrison (85)": {
+          "description": "Wearing a green jersey with 'MORRISON' and number 85, purple helmet, seen from behind during team movements.",
+          "attribute": "visual"
+        },
+        "Player in Green Jersey with Number 14": {
+          "description": "Wearing a green jersey with number 14 and purple helmet, seen during a sideline interaction and play.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a first-person perspective on a football field, showing a player’s gloved hands raised as they walk across the green turf marked with white yard lines and purple end zones, accompanied by an energetic male voice exclaiming, \"Let's go, baby!\" and another instructing to \"Warm up.\" As the camera pans across the field, teammates in green jerseys with purple helmets—some with names like 'TUCKER' (26), 'BUTTEN' (4), and 'WILKINSON' (97)—are seen standing or moving in formation, with players asking \"Are you QB?\" and instructing to \"film me on three.\" Sounds of grunts, heavy breathing, and exertion punctuate the scene, with one player reflectively stating, \"I love my life.\" Playful banter is heard as a player teases, \"You saw your favorite target, didn't you?\" then clarifies, \"I'm kidding. I love all of you guys.\" On-screen text overlays appear sequentially: 'LOVE', 'YOU', 'MAN', 'YAY', 'GOSH DARN', 'FICHES', and 'FAMILY', emphasizing team spirit. The scene transitions to a locker room where players in green uniforms, including 'TUCKER' and 'MOORE' (88), gather around a coach in a black jacket and white cap, who is writing on a clipboard and giving instructions. The coach's authoritative voice declares, \"Now is the time. Y'all hear me? Now is the goddamn time,\" to which players respond with a resounding \"Yes sir!\" The video then cuts back to the field, where players are lined up, some adjusting their gear, and the coach, still in his black jacket and white cap, is seen discussing strategy with players, pointing at a clipboard, reinforcing his message: \"We will be in a fight, man, 60 minutes.\" The atmosphere is focused and motivational under overcast skies, with the field’s purple and gold markings visible, as an upbeat, motivational track with clapping begins, building to a final shouted \"Let's go!\"",
+        "The segment opens with a wide-angle view of a football field under an overcast sky, where players in green and orange uniforms are lined up for a play, as a strategic male voice is heard calling out 'black, black. Fox Trot 11.' The camera, likely player-mounted, then captures dynamic movement as a play unfolds with a whistle, grunts, impacts, and crowd noise. A player in a white and orange 'Hawks' jersey with number 4 is seen up close, coinciding with an aggressive male voice shouting, 'Know your fucking place, trash!' The perspective shifts to the offensive line engaging with the defense, followed by shouts of '20, 20, 20!' and 'He did, he did, he did!' from players reacting to the action. A handoff leads to the ball carrier running downfield, evading tackles, with the camera closely following a tackle near the 20-yard line where a player in green is brought down amidst more intense football sounds and shouts like 'Whoa!' and 'Take that ball, bitch!' The scene transitions to a player in a green jersey with 'LARABY' and number 15, seen running and signaling. Subsequently, an indoor setting shows a young man in a black shirt speaking calmly to the camera, with a Western Michigan University banner and an orange jersey with number 9 behind him, reflecting, 'Like Damir said, it was a feel out drive and we chose to feel it out with the pick, I guess.' Another male voice then adds a player's perspective, stating, 'I was getting hit as I'm trying to throw.' The video concludes back on the field, showing players in green uniforms with purple helmets, including one with 'Flag City' and number 5, huddling and preparing for the next play on a field marked with prominent purple and gold, as shouts of 'Run! Go! Yeah!' and further football action sounds bring the segment to an intense close.",
+        "The video opens with a wide shot of a football field under an overcast sky, where players in green 'Flag City' jerseys and purple helmets are seen warming up and moving across the field, with a player in a white and orange 'Hawks' jersey visible in the distance. The sounds of football play, grunts, shouts, and a whistle fill the air, with a player yelling \"Let's go!\" The scene transitions to an indoor setting where a young man in a black shirt with 'postgame' text speaks directly to the camera, standing in front of a Western Michigan University banner and an orange jersey with number 9, calmly analyzing the game: \"Defense got us stopped. We fumble it right back. But then, check out what the defense did.\" The video then cuts back to the field, showing a close-up of a player in a green jersey with 'BUTTEN' and number 4, followed by a team huddle where players in green jerseys with names like 'LARABY' (15), 'TUCKER' (26), 'WILKINSON' (97), and 'MOORE' (88) are seen interacting. On-screen text overlays such as 'PROBATION', 'OTHER', 'PHANTOMS', 'ACTUALLY', 'EITHER', and 'FAMILY' appear sequentially, emphasizing team identity. The camera captures dynamic movements of the players, including 'LARABY' (15) running and signaling, while a coach in a black jacket and white cap gives instructions. The field features prominent purple and gold end zone designs, with white yard lines and goalposts. A coach in a red jacket observes the huddle, and 'BUTTEN' (4) is seen from behind during team movements. Intense football sounds, grunts, and whistles punctuate the action, with a coach or player shouting \"Stay here! Stay here!\" and \"Let's go!\", followed by an excited \"It's a Jaden! It's a Jaden! Let's go!\" A commentator's voice provides game updates, noting \"Stay off the wheel... Flag City touchdown.\" The sequence includes a close-up of 'WILKINSON' (97) and 'TUCKER' (26) with skull decals on the helmet. As players prepare for a play, one shouts \"Ready!\" and another exclaims, \"Let's fucking go, Jared! Let's go, Jared! Way to block!\" A coach encourages, \"Good hold up, baby. Good hold, baby.\" After a play, a player remarks, \"Good snap, bro. Good snap,\" receiving a \"Thank you.\" Further on-field communication includes \"Go, Don. Go, Don,\" and a check-in: \"Aiden? How was operation?\" to which a player replies, \"Good.\" The video concludes with a wide shot of the field, showing players in green jerseys moving across it, with the coach in a black jacket and white cap holding a clipboard and giving instructions, and 'LARABY' (15) running and signaling. The on-screen text 'SNAP' appears as the players prepare for the next play, and the video ends with a shot of the field and players in green jerseys moving across it, amidst ongoing football sounds and shouts like \"Let's go, Don!\" and a final \"Let's go!\"",
+        "The video opens with a first-person perspective on a football field under an overcast sky, showing a referee in a black-and-white striped uniform walking ahead, followed by a player in a white and orange 'Hawks' jersey with number 4, as crowd cheers and shouts of \"Go!\" and \"Good shit, Ando!\" fill the air. Live gameplay unfolds with players in green 'Flag City' jerseys and purple helmets engaging in tackles and plays, punctuated by grunts, impacts, and exclamations like \"Whoa!\". A player in a green jersey with number 5 is seen up close during a play, while another, 'LARABY' (15), signals during the game amidst intense grunts and shouts of \"Oh yes!\" and \"Oh yeah!\". A player's voice is heard taking responsibility, stating, \"It's on me, Eric. Should have blocked for you.\" The action shifts to a sideline huddle where players in green jerseys, including 'TUCKER' (26), 'BUTTEN' (4), and 'WILKINSON' (97), gather around a coach in a black jacket and white cap. The coach, holding a clipboard, gestures actively as he provides strategic instructions, his voice clearly heard advising, \"Safeties don't want to hit. Linebackers want to spread out and they want to collapse late. Keep toting now.\" On-screen text overlays appear sequentially, including 'PROBATION', 'PHANTOMS', and 'FAMILY', emphasizing team identity as the team moves along the sideline, with 'MORRISON' (85) visible from behind. The field features white yard lines and purple and gold end zone designs, and the segment concludes with more dynamic gameplay, grunts, and a player's voice declaring \"Money down!\" followed by \"I like that,\" maintaining the cloudy, diffused light atmosphere throughout."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 7,
+      "end_minute": 12,
+      "summary": "The video chronicles a football game, opening with players in green 'Flag City' jerseys and purple helmets, including Laraby (15), Tucker (26), Butten (4), Wilkinson (97), and Morrison (85), in a sideline huddle amidst motivational shouts and conversational fragments. On-screen text overlays like 'SHE'S', 'FOR', 'DID', 'WANT', 'BALL', 'COME', 'POSTGAME' punctuate the scene as the team moves toward the field under an overcast sky, with the 'BULLDOG PRIDE' scoreboard visible. An indoor segment features a Young Man in Black Shirt reflecting on the game, stating, \"She went down, scored. Tied ball game. But then we come out hungry,\" and later, \"Who would lie to you? I have respect for you,\" with a Western Michigan University banner and an Orange Jersey with Number 9 behind him. Gameplay unfolds with intense grunts, shouts, heavy breathing, and impacts, featuring Player in Green Jersey with Number 14 evading defenders in white and orange 'Hawks' jerseys, including Player in Hawks Jersey (number 4). The action includes tackles, a fumble, a referee's whistle, and excited cheers of \"Let's go!\" A yellow penalty flag is frequently visible on the ground. Coaches, including one in a black jacket and white cap, and another in a blue hoodie with a 'New York Rangers' logo, strategize with players, discussing plays like kicking a field goal for the lead and going for two. A player confidently claims, \"I might be the best holder in semi-pro,\" which is affirmed by teammates. The game's intensity is underscored by close-ups of players, interactions with the referee, and verbal exchanges like \"You touching, you're silly.\" The field is marked with purple and gold end zone designs and white yard lines. The narrative also incorporates a player's apology, \"I'm sorry,\" and a brief mention of \"Mount Union\" and \"Donnie J.\" The young man in black reappears, clarifying the video was filmed two days after the game and mentioning a coach sustained minor injuries. The game sounds include whistles, crowd noise, and specific play calls like \"Arrow!\" and \"Wheel!\" with Captain CT being noted for a tackle. The sequence concludes with players regrouping and the referee walking ahead, emphasizing the ongoing intensity.",
+      "involved_entities": {
+        "Player in Green Uniform": {
+          "description": "Wearing a green jersey with 'Flag City' and number 5, later seen in various green jerseys with names like 'LARABY' (15), 'TUCKER' (26), 'BUTTEN' (4), 'WILKINSON' (97), and 'MORRISON' (85), all paired with purple helmets, actively participating in team huddles and field movements.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a black-and-white striped uniform and black cap, seen walking ahead on the field and signaling during gameplay. The sound of a whistle and a thud are heard, likely associated with the start of a play or an infraction he is signaling, especially with a yellow penalty flag visible.",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Text Overlays": {
+          "description": "White text overlays appear sequentially, including 'SHE'S', 'FOR', 'DID', 'WANT', 'BALL', 'COME', 'POSTGAME', emphasizing team identity and motivational themes during the huddle and field movement.",
+          "attribute": "visual"
+        },
+        "Player Morrison (85)": {
+          "description": "Wearing a green jersey with 'MORRISON' and number 85, purple helmet, seen from behind during team movements.",
+          "attribute": "visual"
+        },
+        "Player Wilkinson (97)": {
+          "description": "Wearing a green jersey with 'WILKINSON' and number 97, purple helmet, seen from behind during team movements.",
+          "attribute": "visual"
+        },
+        "Player in Green Jersey with Number 14": {
+          "description": "Wearing a green jersey with number 14 and purple helmet, seen during a sideline interaction and play, running with the ball and evading defenders.",
+          "attribute": "visual"
+        },
+        "Player Laraby (15)": {
+          "description": "Wearing a green jersey with 'LARABY' and number 15, purple helmet, seen running and signaling during the game.",
+          "attribute": "visual"
+        },
+        "Player in Hawks Jersey": {
+          "description": "Wearing a white and orange 'Hawks' jersey with number 4, seen up close during the game, actively participating in the play, including running and engaging with the referee.",
+          "attribute": "visual"
+        },
+        "Player Butten (4)": {
+          "description": "Wearing a green jersey with 'BUTTEN' and number 4, purple helmet with an American flag decal, seen from behind during team movements.",
+          "attribute": "visual"
+        },
+        "Young Man in Black Shirt": {
+          "description": "A young man in a black shirt with 'postgame' text, speaking directly to the camera in an indoor setting, holding a purple helmet with 'RAIDERS' written on it, with a Western Michigan University banner and an orange jersey with number 9 displayed behind him. He clearly states, 'How are you gonna tell me where I played college football? I played college football at Mount Union. I'm finishing up my education at Bluffton,' revealing details about his athletic and academic background.",
+          "attribute": "audio-visual"
+        },
+        "Player Tucker (26)": {
+          "description": "Wearing a green jersey with 'TUCKER' and number 26, purple helmet with skull decals, actively participating in team huddles and field movements.",
+          "attribute": "visual"
+        },
+        "Yellow Penalty Flag": {
+          "description": "A bright yellow penalty flag is visible on the ground during the game, indicating a foul or infraction.",
+          "attribute": "visual"
+        },
+        "Field with Purple and Gold Markings": {
+          "description": "The football field features prominent purple and gold end zone designs, with white yard lines and goalposts, under an overcast sky.",
+          "attribute": "visual"
+        },
+        "Coach in Black Jacket": {
+          "description": "Wearing a black jacket and white cap, seen giving instructions during a huddle where a voice identifies the team as 'Freshman team's Warrior' and mentions 'CF3,' likely a play call.",
+          "attribute": "audio-visual"
+        },
+        "Coach in White Cap and Black Jacket": {
+          "description": "Wearing a black jacket and white cap, seen on the field holding a clipboard and giving instructions to players, likely the same as 'Coach in Black Jacket' but now identified with a cap and clipboard in a field setting.",
+          "attribute": "visual"
+        },
+        "Player Stafford (76)": {
+          "description": "Wearing a green jersey with 'STAFFORD' and number 76, purple helmet, seen from behind during field movements, running down the sideline.",
+          "attribute": "visual"
+        },
+        "Coach in Blue Hoodie": {
+          "description": "Wearing a blue hoodie with a 'New York Rangers' logo and a yellow cap, holding a football and a clipboard, speaking to players and explaining plays. During this interaction, a casual greeting ('how y'all doing?') is heard, along with a lighthearted 'hi, mom!' and a player confidently stating, 'I might be the best holder in semi-pro,' which the coach or another player affirms with 'I think you're right' and 'Right there every time.'",
+          "attribute": "audio-visual"
+        },
+        "Player Wahlie (22)": {
+          "description": "Wearing a green jersey with 'WAHLIE' and number 22, purple helmet, seen from behind during team movements, actively participating in the huddle and field actions.",
+          "attribute": "visual"
+        },
+        "Player Phillips Sr. (11)": {
+          "description": "Wearing a green jersey with 'PHILLIPS SR.' and number 11, purple helmet, seen from behind during team movements, actively participating in the huddle and field actions.",
+          "attribute": "visual"
+        },
+        "Player Farley (54)": {
+          "description": "Wearing a green jersey with 'FARLEY' and number 54, purple helmet, seen from behind during team movements, actively participating in the huddle and field actions.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of players in green 'Flag City' jerseys and purple helmets, including Laraby (15), Tucker (26), Butten (4), Wilkinson (97), and Morrison (85), gathered in a huddle on the sideline. Amidst motivational shouts of \"Let's go score, fellas!\" and other conversational remarks like \"I don't think she's coming\" and \"Did you say she was for sure coming?\", on-screen text overlays sequentially display 'SHE'S', 'FOR', 'DID', 'WANT', 'BALL', 'COME', 'POSTGAME'. The camera then shifts to a wide-angle view of the team moving toward the field under an overcast sky, with the 'BULLDOG PRIDE' scoreboard visible. A cut to an indoor setting reveals a Young Man in Black Shirt, speaking directly to the camera with a calm, narrative tone, reflecting \"She went down, scored. Tied ball game. But then we come out hungry.\" and later, \"Who would lie to you? I have respect for you.\" Behind him are a Western Michigan University banner and an Orange Jersey with Number 9. The scene returns to the field, plunging into dynamic gameplay filled with grunts, shouts, heavy breathing, and impacts. A Player in Green Jersey with Number 14 runs with the ball, evading defenders in white and orange 'Hawks' jerseys, including Player in Hawks Jersey (number 4). The action intensifies with tackles, a fumble, and the distinct sound of a referee's whistle signaling. Players from both teams continue running downfield amidst excited cheers of \"Let's go!\", and the camera captures a close-up of the referee and Player in Hawks Jersey (number 4) near the 20-yard line. The sequence concludes with a wide shot of the field, showing players regrouping and the referee walking ahead, emphasizing the ongoing intensity of the game.",
+        "The video opens with a first-person perspective on a football field, showing a player in a green 'Flag City' number 5 jersey and teammates in green uniforms with purple helmets lining up against opponents in white and orange 'Hawks' jerseys. A voice states, \"Alright, here we go,\" followed by \"Take your ref.\" The camera moves dynamically as players engage in an intense play, accompanied by sounds of grunts and exertion, before a voice exclaims, \"Good job!\" The game continues with a referee in a black-and-white striped uniform signaling, as a voice, likely a coach or teammate, repeatedly encourages, \"Good job, line,\" and instructs, \"Keep your quarterback, line.\" Amidst the ongoing game, a voice affirms, \"Yes sir, I like it that much,\" followed by a brief conversation with voices debating, \"No you don't,\" \"What do you mean? We had a good game last game,\" and questioning, \"Did that stumble, stumble?\" The scene then shifts to an indoor setting where a young man in a black shirt with 'postgame' text speaks directly to the camera, with a Western Michigan University banner and an orange number 9 jersey behind him, audibly questioning, \"Did did the ref just ask me if I agree with his call? Or if like, what, dude?\" The video returns to the field, showing close-ups of players in green jerseys, including 'BUTTEN' (4), 'TUCKER' (26), and 'WILKINSON' (97), as they huddle and prepare. The action intensifies with sounds of grunts, tackles, and shouts, a yellow penalty flag visible on the ground, and a voice heard saying, \"Good job, bro.\" A voice, likely a coach or team leader, then strategizes, \"We go three and out. Let's kick this field goal for the lead. We need you here, man, let's go. We need you here.\" Players in green jerseys, including 'LARABY' (15) and a player with number 14, run and tackle, as a voice shouts \"Ready!\" followed by intense grunts, shouts, and the sounds of a chaotic play. The sequence ends with a chaotic sideline moment where players in green and white jerseys are on the ground, and a coach in a black jacket and white cap interacts with them under an overcast sky, while a voice concludes, \"Alright, don't do it, I ain't gonna do it.\"",
+        "The video opens with a close-up, low-angle shot of a football team huddle on a green turf field, where players in green jerseys with purple helmets and orange jerseys with white helmets are gathered around a coach in a black jacket and white cap. Energetic chanting and shouts of 'Back up! Back up!' and 'Watch out!' fill the air as the team interacts. The camera then cuts to a young man in a black shirt with 'postgame' text, speaking directly to the camera in an indoor setting, with a Western Michigan University banner and an orange jersey with number 9 displayed behind him. He calmly explains that this video was filmed two days after the game, mentioning a coach sustained minor injuries but is perfectly okay and hoping he heals up before their game this Saturday, asking for prayers for the coach in the comments. On-screen text overlays appear sequentially, including 'SHE'S', 'FOR', 'DID', 'WANT', 'BALL', 'COME', 'POSTGAME', emphasizing team identity and motivational themes. The scene transitions back to the field, showing a wide view of the football game under an overcast sky, with players in green and orange uniforms lined up for a play, accompanied by a whistle and crowd noise. The camera follows the action from the sideline, capturing the players' movements and the referee in a black-and-white striped uniform signaling during gameplay. A player's voice is heard shouting 'Let's go to the air!' followed by another player explaining a strategy: 'I'm gonna turn and let you push me in the back, they gonna throw that flag, mark my words.' A player in a white and orange 'Hawks' jersey with number 4 is seen up close, actively participating in the play, including running and engaging with the referee, while verbal exchanges like 'You touching, you're silly' and 'I should have touched you' are heard. The field features prominent purple and gold end zone designs, with white yard lines and goalposts. The video captures the dynamic sequence of the game, including a yellow penalty flag on the ground indicating a foul or infraction, and the players' interactions with the referee and each other.",
+        "The video opens with a close-up of a player in a white and orange 'Hawks' jersey with number 4, who gestures toward the camera while on the field, as male voices discuss a play, asking \"What happened?\" and noting, \"Pretty fun, but he got hit.\" On-screen text reads 'SHE'S'. The scene shifts to a sideline view where a player in a green jersey with 'Flag City' and number 5 is seen walking past the bleachers, with the text 'FOR' displayed, while a voice criticizes the \"offensive line not blocking.\" The camera then focuses on a group of players in green jerseys with purple helmets, including 'LARABY' (15), 'TUCKER' (26), 'BUTTEN' (4), and 'WILKINSON' (97), gathered near the sideline, as the text 'DID' appears, and voices discuss a player named \"Donnie J\" being \"good.\" A coach in a black jacket and white cap, holding a clipboard, walks toward the group, with the text 'WANT' appearing, and interacts with the players, as the text 'BALL' appears. During this, voices are heard asking \"How you guys doing?\" and inquiring about a player named \"Damir,\" asking if he's okay, and another player needing a \"rib protector.\" The scene transitions to a coach in a blue hoodie with a 'New York Rangers' logo and a yellow cap, holding a football and a clipboard, speaking to a player in a green jersey with 'LARABY' (15), with the text 'COME' displayed. The coach gestures while explaining a play, and the text 'POSTGAME' appears, as voices analyze a previous play, mentioning \"Jared\" and how \"the snap and hold was beautiful,\" but it was \"just the pressure.\" The camera pans across the field, showing players in green jerseys lining up for a play, with the scoreboard visible in the background, accompanied by a shouted \"Block it!\" followed by whistles, crowd cheering, and excited shouts of \"Oh!\" as a play unfolds. Later, a voice mentions \"More Minecraft gummies?\" and \"Oh my god, thank you.\" The game sounds continue with more whistles and crowd noise, and a voice attributes an event to \"the timeout.\" The scene then shifts to a young man in a black shirt speaking directly to the camera, with a Western Michigan University banner and an orange jersey with number 9 behind him, with the text 'HALF' appearing, as he states, \"It's halftime, man. We gotta figure something out.\" The video concludes with a first-person view of a player in a green jersey with 'STAFFORD' (76) running down the sideline, with the text 'THE' appearing, accompanied by an engine revving sound.",
+        "The video opens with a first-person perspective from a player in a green 'STAFFORD' jersey (number 76) holding a purple helmet, walking along the sideline of a football field under an overcast sky, accompanied by grunts and heavy breathing, and a brief, apologetic 'I'm sorry.' The camera pans across the field, revealing players in green and orange uniforms engaged in dynamic gameplay, with a referee in black-and-white stripes signaling amidst shouts of 'Peter! Peter!' and the distinct sound of a whistle. The field features prominent white yard lines and a large purple and gold logo at midfield. Intense grunts, impacts, and an 'Ooh, ooh!' exclamation underscore the physical nature of the game, which includes a close-up of a player in a white and orange 'Hawks' jersey (number 4) actively running and engaging with the play. A voice is heard saying 'left to two, nigga,' followed by a brief exchange about 'Mount Union.' The scene then transitions to an indoor setting where a young man in a black 'postgame' shirt speaks directly to the camera, holding a purple 'RAIDERS' helmet. He emphatically states, 'How are you gonna tell me where I played college football? I played college football at Mount Union. I'm finishing up my education at Bluffton,' with an orange number 9 jersey and a Western Michigan University banner displayed behind him. The video cuts back to the field, showing the 'Hawks' player (number 4) in a defensive stance, followed by a wide shot of green and orange players moving towards the end zone. A close-up captures a player in a green 'LARABY' jersey (number 15) running with the ball and evading defenders, amidst continued grunts, heavy breathing, and shouts like 'Let it go!' The segment concludes with a shot of the field, showing players still engaged in play, with a bright yellow penalty flag clearly visible on the ground, indicating a foul.",
+        "The video opens with an energetic football scene, featuring a player in a green 'Flag City' jersey with number 5, as the camera quickly pans to reveal the 'Warriors' team in green uniforms and purple helmets, including players like PHILLIPS SR. (11), TUCKER (26), FARLEY (54), and WAHLIE (22), actively moving across the field. Sounds of grunts and shouts like \"I got it\" and \"Good cover\" accompany their dynamic movements. A voice is heard praising a player, \"I know you like that, Damir.\" The team gathers for a huddle near the sideline, where a coach in a black jacket and white cap gives instructions, while a voice identifies them as the \"Freshman team's Warrior\" and mentions \"CF3.\" The atmosphere is highly energetic, with players high-fiving and gesturing amidst loud cheers and specific play calls like \"Arrow!\" and \"Wheel!\" On-screen text overlays such as 'WARRIOR', 'GOAL', 'THANK', 'READY', 'Y'ALL', 'MIGHT', and 'YEAH' emphasize the team spirit. From the sideline, players like LARABY (15), BUTTEN (4), WILKINSON (97), and MORRISON (85) interact with coaches, with a voice calling for a \"field goal\" and another asking, \"Are they going for two?\" A coach in a blue hoodie with a 'New York Rangers' logo and yellow cap is seen holding a clipboard and football, explaining plays. During this, a casual greeting \"how y'all doing?\" is heard, followed by a lighthearted \"Hey, hi, mom!\" and laughter. A confident male voice states, \"I might be the best holder in semi-pro,\" which is affirmed by another voice with \"I think you're right\" and \"Right there every time.\" The sequence culminates with players lining up for a play, accompanied by a whistle and a thud, and an expletive followed by urgent encouragement, \"Go! Let's go, baby!\" A referee in a black-and-white striped uniform signals, and a yellow penalty flag is visible on the ground, indicating a recent infraction. A voice announces \"Captain CT on the tackle\" twice, amidst further cheers, highlighting the team's preparation and camaraderie throughout the game, set against a field with prominent purple and gold end zone markings under an overcast sky."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 13,
+      "end_minute": 17,
+      "summary": "The football game unfolds under an overcast sky with illuminated stadium lights and prominent purple and gold end zone markings, featuring players in green 'Flag City' jerseys with purple helmets and white and orange 'Hawks' jerseys, accompanied by intense game sounds, grunts, shouts, and whistles. On-screen text overlays like 'SHE'S', 'FOR', 'DID', 'WANT', 'BALL', 'COME', 'POSTGAME' appear sequentially. A referee in a black-and-white striped uniform signals throughout the dynamic action, which includes players like Laraby (15), Farley (54), Wahlie (22), Phillips Sr. (11), Garcia (86), Conley (71), Tucker (26), Butten (4), Wilkinson (97), Morrison (85), Moore (88), Stafford (76) actively participating, huddling, and strategizing. Coaches, including one in a black jacket and white cap, and another in a blue hoodie, provide instructions during huddles, with one coach audibly taking responsibility for a play before leading a team prayer and motivational words, met with \"Yes sir!\" responses. Players engage in heated exchanges, with accusations of being \"dirty\" and explanations of being a \"rookie.\" A yellow penalty flag is visible on the field. Indoor segments feature a young man in a black 'postgame' shirt speaking to the camera in front of a Western Michigan University banner, commenting on defensive stops, the \"gray zone,\" and the need to convert on fourth down, while also reflecting on an \"unfortunate place for CF3\" and his involvement in punts. The game concludes with a transition to a gray screen displaying the 'CF3' logo.",
+      "involved_entities": {
+        "Field with Purple and Gold Markings": {
+          "description": "The football field features prominent purple and gold end zone designs, with white yard lines and goalposts, under an overcast sky.",
+          "attribute": "visual"
+        },
+        "Coach in Black Jacket": {
+          "description": "Wearing a black jacket and white cap, interacting with players during the huddle, gesturing and providing instructions.",
+          "attribute": "visual"
+        },
+        "Player Laraby (15)": {
+          "description": "Wearing a green jersey with 'LARABY' and number 15, purple helmet, seen running and signaling during the game.",
+          "attribute": "visual"
+        },
+        "Player Garcia (86)": {
+          "description": "Wearing a green jersey with 'GARCIA' and number 86, purple helmet, seen from behind during team movements, actively participating in the huddle and field actions.",
+          "attribute": "visual"
+        },
+        "Player Conley (71)": {
+          "description": "Wearing a green jersey with 'CONLEY' and number 71, purple helmet, seen from behind during team movements, actively participating in the huddle and field actions.",
+          "attribute": "visual"
+        },
+        "Player in Green Uniform": {
+          "description": "Wearing a green jersey with 'Flag City' and number 5, later seen in various green jerseys with names like 'LARABY' (15), 'GARCIA' (86), 'CONLEY' (71), 'TUCKER' (26), 'BUTTEN' (4), 'WILKINSON' (97), and 'MORRISON' (85), all paired with purple helmets, actively participating in team huddles and field movements.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a black-and-white striped uniform and black cap, walking ahead on the field, signaling during gameplay.",
+          "attribute": "visual"
+        },
+        "On-Screen Text Overlays": {
+          "description": "White text overlays appear sequentially, including 'SHE'S', 'FOR', 'DID', 'WANT', 'BALL', 'COME', 'POSTGAME', emphasizing team identity and motivational themes during the huddle and field movement.",
+          "attribute": "visual"
+        },
+        "Player in Green Jersey with Number 14": {
+          "description": "Wearing a green jersey with number 14 and purple helmet, seen during a sideline interaction and play, running with the ball and evading defenders.",
+          "attribute": "visual"
+        },
+        "Player in Hawks Jersey": {
+          "description": "Wearing a white and orange 'Hawks' jersey with number 4, seen up close during the game, actively participating in the play, including running and engaging with the referee.",
+          "attribute": "visual"
+        },
+        "Young Man in Black Shirt": {
+          "description": "A young man in a black shirt with 'postgame' text, speaking directly to the camera in an indoor setting, with a Western Michigan University banner and an orange jersey with number 9 displayed behind him, delivering a calm yet assertive speech about converting on fourth down and reaching the 'promised land'.",
+          "attribute": "audio-visual"
+        },
+        "Player Morrison (85)": {
+          "description": "Wearing a green jersey with 'MORRISON' and number 85, purple helmet, seen from behind during team movements.",
+          "attribute": "visual"
+        },
+        "Player Wilkinson (97)": {
+          "description": "Wearing a green jersey with 'WILKINSON' and number 97, purple helmet, seen from behind during team movements.",
+          "attribute": "visual"
+        },
+        "Player Butten (4)": {
+          "description": "Wearing a green jersey with 'BUTTEN' and number 4, purple helmet with an American flag decal, seen from behind during team movements.",
+          "attribute": "visual"
+        },
+        "Yellow Penalty Flag": {
+          "description": "A bright yellow penalty flag is visible on the ground during the game, indicating a foul or infraction, adding to the realism of the intense football action.",
+          "attribute": "audio-visual"
+        },
+        "Player Tucker (26)": {
+          "description": "Wearing a green jersey with 'TUCKER' and number 26, purple helmet with skull decals, actively participating in team huddles and field movements.",
+          "attribute": "visual"
+        },
+        "Player Wahlie (22)": {
+          "description": "Wearing a green jersey with 'WAHLIE' and number 22, purple helmet, seen from behind during team movements, actively participating in the huddle and field actions.",
+          "attribute": "visual"
+        },
+        "Player Phillips Sr. (11)": {
+          "description": "Wearing a green jersey with 'PHILLIPS SR.' and number 11, purple helmet, seen from behind during team movements, actively participating in the huddle and field actions.",
+          "attribute": "visual"
+        },
+        "Player Farley (54)": {
+          "description": "Wearing a green jersey with 'FARLEY' and number 54, purple helmet, seen from behind during team movements, actively participating in the huddle and field actions.",
+          "attribute": "visual"
+        },
+        "Coach in Blue Hoodie": {
+          "description": "Wearing a blue hoodie with a 'New York Rangers' logo and a yellow cap, holding a football and a clipboard, speaking to players and explaining plays, heard instructing a player to 'go to T' and referring to 'the fella'.",
+          "attribute": "audio-visual"
+        },
+        "Player Moore (88)": {
+          "description": "Wearing a green jersey with 'MOORE' and number 88, purple helmet, seen in the locker room and on the field, actively engaging with teammates.",
+          "attribute": "visual"
+        },
+        "Player Stafford (76)": {
+          "description": "Wearing a green jersey with 'STAFFORD' and number 76, purple helmet, seen from behind during field movements, running down the sideline.",
+          "attribute": "visual"
+        },
+        "CF3 Logo": {
+          "description": "A bold black and red 'CF3' logo displayed on a gray screen, marking the end of the segment.",
+          "attribute": "visual"
+        },
+        "Coach in White Cap and Black Jacket": {
+          "description": "Wearing a black jacket and white cap, seen on the field holding a clipboard and giving instructions to players, likely the same as 'Coach in Black Jacket' but now identified with a cap and clipboard in a field setting.",
+          "attribute": "visual"
+        },
+        "Coach in Red Jacket": {
+          "description": "Wearing a red jacket with a black logo, standing near the huddle, observing and engaging with players, and audibly leading an energetic huddle break-out chant: \"Family on two! Family on four! One, two, family! Four, family! Let's go home!\"",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of Player Laraby (15) in a green 'Flag City' jersey and purple Riddell helmet on the sideline, as on-screen text overlays like 'SHE'S', 'FOR', 'DID', 'WANT', 'BALL', 'COME', 'POSTGAME' appear. Muffled male voices are heard discussing a 'pneumonia' diagnosis, with one warning, 'Don't touch me.' The scene transitions to dynamic gameplay under an overcast sky with field lights illuminated, accompanied by a whistle, crowd cheering, and excited shouts of 'Let's go!' and 'There you go! 43!' A Referee in a black-and-white striped uniform signals during the game. The perspective shifts to a Coach in a black jacket and white cap, holding a clipboard, intensely instructing players including Garcia (86), Conley (71), and Laraby (15) in a huddle, repeatedly shouting motivational commands like 'Block! Block! Block! Don't stop your feet! Let's go!' Sideline interactions capture a Player in a green jersey with number 14 running with the ball and evading defenders, amidst excited shouts of 'Good shit, let's go!' and 'Release!', along with calls of 'Eric! Eric!' and a player's self-identification as 'I'm a rookie' followed by a critical 'You missed the tackle!' and an explanation, 'he just say I'm a rookie and that's why I missed the tackle.' The field features prominent purple and gold end zone markings, with the scoreboard visible in the background, all set against a backdrop of continuous game sounds, whistles, and shouts of 'Go! Go! Go!' The video concludes with a close-up of a Player in a white and orange 'Hawks' jersey with number 4 actively participating in play, followed by a brief indoor scene where a Young Man in a black shirt with 'postgame' text speaks to the camera in front of a Western Michigan University banner, beginning his commentary with 'As you can see...'.",
+        "The segment opens with a close-up of a football player in a white and orange 'Hawks' jersey with number 4, wearing a blue helmet, visibly exerting effort, as the on-screen text 'MAN' appears. A male voice narrates, describing the intense effort required to push his '200-pound body to the sideline' and questioning why a referee didn't call a foul when his jersey was grabbed. The scene then transitions to an indoor setting where a young man in a black 'postgame' shirt, who is the narrator, speaks directly to the camera, gesturing expressively, with a Western Michigan University banner and an orange jersey with number 9 behind him. The video cuts to a first-person perspective on a football field under an overcast sky, showing players in green 'Flag City' jerseys with purple helmets and white and orange 'Hawks' jerseys moving dynamically. On-screen text overlays like 'SHE'S', 'FOR', 'DID', 'WANT', 'BALL', 'COME', 'POSTGAME' appear sequentially, accompanied by crowd noise, shouts, grunts, and a whistle. Amidst the gameplay, a heated argument erupts on the field, with voices shouting \"No!\", \"Get out your four!\", and repeatedly accusing someone of being \"dirty,\" while the narrator's voice emphatically states, \"I'm a nice guy and you dirty, bro!\" and \"I've been nice to you all game!\" A coach in a black jacket gives instructions during a sideline huddle, and a yellow penalty flag is visible on the purple and gold marked field. The action includes a player in a green jersey with number 14 running with the ball and evading defenders, while a referee in a black-and-white striped uniform signals. The segment concludes with the young man in the black shirt continuing his commentary, reflecting on an \"unfortunate place for CF3\" and his unexpected involvement in punts.",
+        "The video opens with a young man in a black 'postgame' shirt, speaking directly to the camera in an indoor setting, a Western Michigan University banner and orange jersey #9 visible behind him. He narrates a football play, expressing frustration about being 'smoked in my back' and praising the referee for making a 'good call,' humorously concluding, 'I'm too nice. I'm not sorry.' On-screen text overlays like 'SHE'S', 'FOR', 'DID', 'WANT', 'BALL', 'COME', and 'POSTGAME' appear sequentially, reinforcing team and motivational themes. The scene then transitions to an outdoor football field under an overcast sky, where a coach in a blue 'New York Rangers' hoodie and yellow cap is seen holding a football and clipboard, instructing players, including telling one to 'go to T' and referring to 'the fella.' Players in green jerseys with purple helmets, such as LARABY (15), FARLEY (54), WAHLIE (22), PHILLIPS SR. (11), GARCIA (86), and CONLEY (71), are actively participating in huddles and field movements. Amidst the sounds of grunts, heavy breathing, and running, a player excitedly exclaims, 'Oh yeah, that was all me, you know,' and later reports, 'Man, Kayla just got knocked out!' The field features prominent purple and gold end zone designs. A referee in a black-and-white striped uniform walks and signals, while a player in a white and orange 'Hawks' jersey #4 runs and interacts with the referee. The atmosphere is energetic, with players shouting 'Who is it? Who is it?' and 'He hit it! He hit it!' and coaches/players yelling 'Go, go, go!' and 'Let's go!' A yellow penalty flag is visible on the ground, indicating a foul, as the dynamic action unfolds.",
+        "The video opens with an intense football game under an overcast sky, stadium lights illuminating the green field with prominent purple and gold end zone markings. The dynamic camera follows a player in a white and orange 'Hawks' jersey (number 4) as he runs with the ball, evading defenders amidst the sounds of grunts, impacts, and shouts like \"You didn't catch that!\" and \"Hit the ground, right?\". He is eventually tackled near the 20-yard line, with whistles signaling the end of the play. The scene briefly transitions indoors to a young man in a black 'postgame' shirt, speaking to the camera in front of a Western Michigan University banner, commenting, \"Thankfully, defense got a stop.\" The action then returns to the field, where players in green 'Flag City' jerseys with purple helmets, including numbers 16, 15 (LARABY), 26 (TUCKER), 4 (BUTTEN), 97 (WILKINSON), 85 (MORRISON), 88 (MOORE), 76 (STAFFORD), 54 (FARLEY), 22 (WAHLIE), 11 (PHILLIPS SR.), 86 (GARCIA), and 71 (CONLEY), huddle and move strategically. Throughout the game, the referee in a black-and-white striped uniform signals, accompanied by whistles and the fervent shouts of players and coaches like \"Hey, what the fuck are you doing?!\", \"Let's go, let's go!\", \"Watch out with that!\", \"We gotta play face man!\", \"Ready!\", \"What's the call?\", \"Go!\", and rapid play calls such as \"15, 10, 3, 43, 49!\". The scoreboard displays game time and score, capturing the high-stakes atmosphere of the match.",
+        "The video opens with a dynamic football game under an overcast sky, featuring players in green 'Flag City' jerseys with purple helmets and orange 'Hawks' jerseys, accompanied by intense game sounds, grunts, shouts, and whistles. The camera follows a player in a green jersey (Laraby #15) running downfield, while a referee signals play progression amidst the crowd noise. The scene shifts indoors to a young man in a black 'postgame' shirt, speaking directly to the camera with a Western Michigan University banner and an orange jersey (number 9) behind him, calmly but assertively stating, \"It's fourth down. We gotta convert. We're in the gray zone. We're about to be in the promised land. Come on.\" The action returns to the field with more intense game sounds and shouts, showing players in green jerseys (including Tucker #26, Butten #4, Wilkinson #97, Morrison #85) engaging in gameplay and sideline interactions. A huddle forms with the green team, led by a coach in a black jacket and white cap, who audibly takes responsibility (\"That's on me\"), then leads a solemn recitation (\"For thine is the kingdom, the power, and the glory, forever and ever. Amen\"), to which players respond \"Yes sir!\" He continues with motivational words (\"That won't be the last time we see them. We're gonna see them again.\"), again met with \"Yes sir!\" On-screen text overlays like 'SHE'S', 'FOR', 'DID', 'WANT', 'BALL', 'COME', 'POSTGAME' appear, reinforcing motivational themes. The huddle culminates in a high-energy moment with players raising their helmets and fists, as another coach or player, possibly the one in the red jacket, leads an energetic chant: \"Family on two! Family on four! One, two, family! Four, family! Let's go home!\" The segment concludes with a transition to a gray screen displaying the bold black and red 'CF3' logo, as the game sounds fade. The field features purple and gold end zone markings, maintaining an intense and focused atmosphere under stadium lights."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 18,
+      "end_minute": 18,
+      "summary": "Electronic music played throughout the brief duration of the segment.",
+      "involved_entities": {},
+      "raw_segments": [
+        "With no visual information available for this segment, the scene is characterized solely by the presence of electronic music playing throughout the brief duration."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "WMU Banner": "Not visible in this segment.",
+    "Player in Green Uniform": "Wearing a green jersey with 'Flag City' and number 5, later seen in various green jerseys with names like 'LARABY' (15), 'GARCIA' (86), 'CONLEY' (71), 'TUCKER' (26), 'BUTTEN' (4), 'WILKINSON' (97), and 'MORRISON' (85), all paired with purple helmets, actively participating in team huddles and field movements.",
+    "On-Screen Text Overlays": "White text overlays appear sequentially, including 'SHE'S', 'FOR', 'DID', 'WANT', 'BALL', 'COME', 'POSTGAME', emphasizing team identity and motivational themes during the huddle and field movement.",
+    "Orange Jersey with Number 9": "Not visible in this segment.",
+    "Interviewer": "Not visible in this segment.",
+    "Player in Hawks Jersey": "Wearing a white and orange 'Hawks' jersey with number 4, seen up close during the game, actively participating in the play, including running and engaging with the referee.",
+    "Player Wilkinson (97)": "Wearing a green jersey with 'WILKINSON' and number 97, purple helmet, seen from behind during team movements.",
+    "Field with Purple and Gold Markings": "The football field features prominent purple and gold end zone designs, with white yard lines and goalposts, under an overcast sky.",
+    "Coach in Black Jacket": "Wearing a black jacket and white cap, interacting with players during the huddle, gesturing and providing instructions.",
+    "Player Butten (4)": "Wearing a green jersey with 'BUTTEN' and number 4, purple helmet with an American flag decal, seen from behind during team movements.",
+    "Coach in Red Jacket": "Wearing a red jacket with a black logo, standing near the huddle, observing and engaging with players, and audibly leading an energetic huddle break-out chant: \"Family on two! Family on four! One, two, family! Four, family! Let's go home!\"",
+    "Player Tucker (26)": "Wearing a green jersey with 'TUCKER' and number 26, purple helmet with skull decals, actively participating in team huddles and field movements.",
+    "Coach in White Cap and Black Jacket": "Wearing a black jacket and white cap, seen on the field holding a clipboard and giving instructions to players, likely the same as 'Coach in Black Jacket' but now identified with a cap and clipboard in a field setting.",
+    "Player Moore (88)": "Wearing a green jersey with 'MOORE' and number 88, purple helmet, seen in the locker room and on the field, actively engaging with teammates.",
+    "Player Laraby (15)": "Wearing a green jersey with 'LARABY' and number 15, purple helmet, seen running and signaling during the game.",
+    "Young Man in Black Shirt": "A young man in a black shirt with 'postgame' text, speaking directly to the camera in an indoor setting, with a Western Michigan University banner and an orange jersey with number 9 displayed behind him, delivering a calm yet assertive speech about converting on fourth down and reaching the 'promised land'.",
+    "Referee": "Wearing a black-and-white striped uniform and black cap, walking ahead on the field, signaling during gameplay.",
+    "Player Morrison (85)": "Wearing a green jersey with 'MORRISON' and number 85, purple helmet, seen from behind during team movements.",
+    "Player in Green Jersey with Number 14": "Wearing a green jersey with number 14 and purple helmet, seen during a sideline interaction and play, running with the ball and evading defenders.",
+    "Yellow Penalty Flag": "A bright yellow penalty flag is visible on the ground during the game, indicating a foul or infraction, adding to the realism of the intense football action.",
+    "Player Stafford (76)": "Wearing a green jersey with 'STAFFORD' and number 76, purple helmet, seen from behind during field movements, running down the sideline.",
+    "Coach in Blue Hoodie": "Wearing a blue hoodie with a 'New York Rangers' logo and a yellow cap, holding a football and a clipboard, speaking to players and explaining plays, heard instructing a player to 'go to T' and referring to 'the fella'.",
+    "Player Wahlie (22)": "Wearing a green jersey with 'WAHLIE' and number 22, purple helmet, seen from behind during team movements, actively participating in the huddle and field actions.",
+    "Player Phillips Sr. (11)": "Wearing a green jersey with 'PHILLIPS SR.' and number 11, purple helmet, seen from behind during team movements, actively participating in the huddle and field actions.",
+    "Player Farley (54)": "Wearing a green jersey with 'FARLEY' and number 54, purple helmet, seen from behind during team movements, actively participating in the huddle and field actions.",
+    "Player Garcia (86)": "Wearing a green jersey with 'GARCIA' and number 86, purple helmet, seen from behind during team movements, actively participating in the huddle and field actions.",
+    "Player Conley (71)": "Wearing a green jersey with 'CONLEY' and number 71, purple helmet, seen from behind during team movements, actively participating in the huddle and field actions.",
+    "CF3 Logo": "A bold black and red 'CF3' logo displayed on a gray screen, marking the end of the segment."
+  }
+}

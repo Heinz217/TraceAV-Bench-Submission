@@ -1,0 +1,573 @@
+{
+  "video_id": "video88",
+  "audio_id": "video88_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 2,
+      "summary": "In a cluttered apartment, a Man in Blue Henley, seated in a folding chair reading a book, is pitched encyclopedias for '$1200' by a Man in Suit, who speaks with a sales-like cadence about 'vomit.' The Man in Blue Henley humorously deflects, questioning the price and his own financial state, proposing 'zero down and zero a month,' to which the Man in Suit concludes, 'You don't have anything.' Joey, smiling, closes his book, places it on the table, and pulls a 'baby Tootsie Roll,' a 'movie stub,' a small metallic Key, a 'Kleenex,' a 'rock,' and an 'army man' from his person as the Man in Suit watches with amusement. Later, in a kitchen, the Man in Suit, holding a small box, discusses a '50 box' and asks, 'What'll it be? Uh, A, B, C?' The Man in Blue Henley, examining the Key, responds, 'No, no, I I think I'm gonna stick with the V. I wanna see how this bad boy turns out.' He walks through the kitchen, past a White Horse Statue and a Purple Umbrella, with a Zillah Poster visible, and places the Key on a counter near a black toaster as the Man in Suit follows. The scene shifts to a living room where the Man in Blue Henley, now on a brown couch with the Key and book, converses with a Woman in Patterned Top and the Man in Suit. The Woman in Patterned Top asks about a breakup with 'Joanna,' and the Man in Suit compares her to 'Vesuvius,' leading to a discussion about volcanoes and igneous rock formations. The Man in Blue Henley then suggests topics like 'Vivisection? Daffy Duck? The Vietnam War?' A Woman in Black Top joins, asking about a Korean War documentary, as the group engages in a lively discussion against a backdrop of a wooden shelf with red boxes and a brick wall.",
+      "involved_entities": {
+        "White Horse Statue": {
+          "description": "A tall, white, stylized horse statue positioned near the doorway, visible in the background as the man in blue walks through the kitchen.",
+          "attribute": "visual"
+        },
+        "Man in Suit": {
+          "description": "A man in a dark suit, light blue shirt, and patterned tie with yellow and blue diamonds, wearing glasses and with long dark hair tied back in a ponytail, speaking animatedly and gesturing throughout the scene, discussing a '50 box' and 'volcanoes' with an enthusiastic and explanatory voice.",
+          "attribute": "audio-visual"
+        },
+        "Zillah Poster": {
+          "description": "A poster on the wall featuring the word 'Zillah' and an image of a person in a bunny costume, adding a quirky element to the room, visible during the kitchen scene.",
+          "attribute": "visual"
+        },
+        "Purple Umbrella": {
+          "description": "A closed purple umbrella hanging on the wall near the doorway, visible as the man in blue passes by.",
+          "attribute": "visual"
+        },
+        "Wooden Canoe": {
+          "description": "A small wooden canoe placed on the floor near the folding chair, adding to the eclectic decor.",
+          "attribute": "visual"
+        },
+        "Man in Blue Henley": {
+          "description": "A man wearing a blue long-sleeved henley shirt and light blue jeans, initially seated reading a book, then standing and examining a small key with a smile, later seated on a couch gesturing while speaking, who responds to questions and suggests conversation topics like 'Vivisection,' 'Daffy Duck,' and 'The Vietnam War' in a questioning tone.",
+          "attribute": "audio-visual"
+        },
+        "Key": {
+          "description": "A small metallic key held and examined by the man in blue, appearing to be the focus of the scene's climax, later used as a prop during conversation on the couch.",
+          "attribute": "visual"
+        },
+        "Woman in Black Top": {
+          "description": "A woman with dark hair wearing a black V-neck top and a delicate necklace, seated next to the woman in the patterned top, engaged in the conversation, who asks 'Oh, did anybody see that that documentary on the Korean War?'",
+          "attribute": "audio-visual"
+        },
+        "Woman in Patterned Top": {
+          "description": "A woman with blonde hair wearing a colorful, patterned top with red, black, and white geometric designs, seated on the couch and listening attentively, who asks 'So did you break up with Joanna?' and later questions why volcanoes are being discussed.",
+          "attribute": "audio-visual"
+        },
+        "Wooden Shelf with Red Boxes": {
+          "description": "A wooden shelf in the background of the living room holding several red boxes, adding to the room's eclectic decor.",
+          "attribute": "visual"
+        },
+        "Brown Couch": {
+          "description": "A large, brown leather couch where the group is seated in the living room, serving as the central piece of furniture in the scene.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "In a cluttered apartment, a man named Joey, dressed in a blue henley shirt and jeans, is initially seen seated in a folding chair, reading a book, while a man in a dark suit, patterned tie, and glasses sits opposite him at a small, round, white marble-top table. The man in the suit speaks animatedly with a persuasive, sales-like cadence, gesturing as he discusses 'vomit' and then attempts to sell a set of encyclopedias for '$1200,' asking Joey, 'what do you say, Joey?' Joey listens, occasionally glancing up, before responding with a dry, humorous tone, questioning the price and remarking on his own financial situation, stating, 'I'm home in the middle of the day, and I got patio furniture in my living room.' He then proposes 'zero down and zero a month' for a long time, prompting the man in the suit to conclude, 'You don't have anything.' With a smile and a nod, Joey closes his book, places it on the table, and stands up, asking, 'Wanna see what I got?' He then proceeds to pull out a series of miscellaneous items from his person: a 'baby Tootsie Roll,' a 'movie stub,' a small metallic key which he examines closely with a slight smile, a 'Kleenex,' a 'rock,' and an 'army man.' The man in the suit watches with a mix of curiosity and amusement as Joey reveals each item. The eclectic background includes a wooden canoe, a white horse statue, a purple umbrella, a kitchen area, and a 'Zillah' poster, all bathed in warm, consistent lighting, underscoring the casual, lived-in environment.",
+        "In a kitchen, the Man in Suit, wearing a dark suit and patterned tie, animatedly speaks and gestures, holding a small box, as he discusses a '50 box' and asks, 'What'll it be? Uh, A, B, C?' The Man in Blue Henley, initially reading a book, looks up with a smile, examining a small metallic Key, and responds, 'No, no, I I think I'm gonna stick with the V. I wanna see how this bad boy turns out.' He then stands, still holding the key, and walks through the kitchen, passing the White Horse Statue and the Purple Umbrella near the doorway, with the Zillah Poster visible behind him. The Man in Suit follows, carrying a larger box, and they move toward a counter with a black toaster. The Man in Blue Henley places the key on the counter, continuing to interact with the Man in Suit, who gestures toward the toaster. The scene shifts to a living room where the Man in Blue Henley is now seated on a brown couch, still holding the key and a book, engaging in conversation. A Woman in Patterned Top asks, 'So did you break up with Joanna?' to which the Man in Suit replies, 'I think so. That's a good thing you got out when you did, before she blew up like that Vesuvius.' The Man in Blue Henley questions, 'The volcano?' and the Man in Suit continues, 'Yeah. And speaking of volcanoes, man, are they a violent igneous rock formation?' The Man in Blue Henley then suggests other topics, 'Well, we can talk about something else. What do you want to talk about? Vivisection? Daffy Duck? The Vietnam War?' as he gestures expressively. The camera pans to reveal the Woman in Patterned Top and a Woman in Black Top, who then asks, 'Oh, did anybody see that that documentary on the Korean War?' The group appears engaged in a lively discussion, with a wooden shelf holding red boxes and a brick wall in the background, creating a cozy atmosphere."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 3,
+      "end_minute": 3,
+      "summary": "On the Brown Couch, the Man in Blue Henley intently examined a small Key, flanked by the Woman in Patterned Top and the Woman in Black Top, as he remarked on Korea's 'beautiful country' with a 'sad history' and inquired about 'B-Mark Kims,' eliciting laughter and applause. The scene shifted to a Christmas-decorated living room with a tree and lights, accompanied by festive music, where the Man in Blue Henley laughed and gestured while speaking with the women. The Man in Suit entered, exclaiming 'Ho, ho, ho, holy crap, is it hot in here?' and offered to adjust the heat, prompting a quip about 'thinking earlier.' After the Man in Suit stated he would 'go,' a woman's voice expressed she 'couldn't go in' but was okay because 'he's there.' The Man in Blue Henley then announced, 'Hey, guys, it's after midnight. Merry Christmas, everyone!' to cheers. The Man in Suit explained to 'Monica' about turning something off 'from underneath' due to a broken knob, leading to more laughter. In the kitchen, the Man in Suit was near a counter as the Man in Blue Henley passed by the White Horse Statue and Purple Umbrella. The segment concluded in another room with the Man in Red Shirt at a desk with a laptop, looking up as a male voice asked, 'What you working on?'",
+      "involved_entities": {
+        "White Horse Statue": {
+          "description": "A tall, white, stylized horse statue positioned near the doorway, visible in the background as the man in blue walks through the kitchen.",
+          "attribute": "visual"
+        },
+        "Woman in Black Top": {
+          "description": "A woman with dark hair wearing a black V-neck top and a delicate necklace, seated next to the woman in the patterned top, engaged in the conversation, and audibly contributing to the conversation with a female voice, saying 'Hey, we could have used that kind of thinking earlier!' and later expressing 'Oh, I couldn't go in' and 'Yeah, yeah, no, it's okay 'cause I mean I know he's there. So, that's enough for now.'",
+          "attribute": "audio-visual"
+        },
+        "Woman in Patterned Top": {
+          "description": "A woman with blonde hair wearing a colorful, patterned top with red, black, and white geometric designs, seated on the couch and listening attentively, and audibly contributing to the conversation with a female voice, saying 'Hey, we could have used that kind of thinking earlier!' and later expressing 'Oh, I couldn't go in' and 'Yeah, yeah, no, it's okay 'cause I mean I know he's there. So, that's enough for now.'",
+          "attribute": "audio-visual"
+        },
+        "Man in Suit": {
+          "description": "A man in a dark suit, light blue shirt, and patterned tie with yellow and blue diamonds, wearing glasses and with long dark hair tied back in a ponytail, speaking animatedly and gesturing throughout the scene, audibly exclaiming 'Ho, ho, ho, holy crap, is it hot in here?', asking 'Really? Hey, you mind if I turn the heat down?', stating 'Oh, I'll go,' and later addressing 'Monica' about a broken knob, saying 'Hey, Monica, the knob was broken, so I just turned it off from underneath. I hope that's all right,' all delivered with a distinct, expressive voice.",
+          "attribute": "audio-visual"
+        },
+        "Man in Red Shirt": {
+          "description": "A man wearing a red button-up shirt, seated at a desk with a laptop, looking up and speaking, appearing in a different room from the main living area, and is audibly asked 'What you working on?' by another male voice.",
+          "attribute": "audio-visual"
+        },
+        "Wooden Shelf with Red Boxes": {
+          "description": "A wooden shelf in the background of the living room holding several red boxes, adding to the room's eclectic decor.",
+          "attribute": "visual"
+        },
+        "Zillah Poster": {
+          "description": "A poster on the wall featuring the word 'Zillah' and an image of a person in a bunny costume, adding a quirky element to the room, visible during the kitchen scene.",
+          "attribute": "visual"
+        },
+        "Brown Couch": {
+          "description": "A large, brown leather couch where the group is seated in the living room, serving as the central piece of furniture in the scene.",
+          "attribute": "visual"
+        },
+        "Purple Umbrella": {
+          "description": "A closed purple umbrella hanging on the wall near the doorway, visible as the man in blue passes by.",
+          "attribute": "visual"
+        },
+        "Man in Blue Henley": {
+          "description": "A man wearing a blue long-sleeved henley shirt and light blue jeans, initially seated reading a book, then standing and examining a small key with a smile, later seated on a couch gesturing while speaking, and audibly commenting on Korea's 'sad history,' asking about 'B-Mark Kims,' inquiring 'Are you okay?', and announcing 'Hey, guys, it's after midnight. Merry Christmas, everyone!' with a clear, somewhat deep voice.",
+          "attribute": "audio-visual"
+        },
+        "Key": {
+          "description": "A small metallic key held and examined by the man in blue, appearing to be the focus of the scene's climax, later used as a prop during conversation on the couch.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with the Man in Blue Henley, holding and examining a small Key with a focused expression on the Brown Couch, flanked by the Woman in Patterned Top and the Woman in Black Top who listen intently. A male voice, likely the Man in Blue Henley, comments on Korea being a 'beautiful country' with a 'sad history,' followed by a query about 'B-Mark Kims,' all met with laughter and applause. The scene then transitions to a wider shot of the cozy living room, now festively decorated for Christmas with a tree, lights, and ornaments, as light, festive background music begins. The Man in Blue Henley is seen laughing and gesturing while speaking, engaging with the two women. The Man in Suit enters, speaking animatedly and gesturing, exclaiming 'Ho, ho, ho, holy crap, is it hot in here?' and offering to turn down the heat, prompting a female voice (likely one of the women) to quip, 'Hey, we could have used that kind of thinking earlier!' The Man in Suit then says he'll 'go,' and a woman's voice expresses she 'couldn't go in,' before reassuring someone she's okay because 'he's there.' The Man in Blue Henley then announces, 'Hey, guys, it's after midnight. Merry Christmas, everyone!' which is met with cheers and shouts of 'Merry Christmas!' The Man in Suit subsequently explains to 'Monica' that he 'just turned it off from underneath' due to a broken knob, eliciting more laughter and applause. The camera shifts to a kitchen area where the Man in Suit is near a counter, and the Man in Blue Henley walks through, passing by the White Horse Statue and Purple Umbrella. The segment concludes in a different room where the Man in Red Shirt is seated at a desk with a laptop, looking up and speaking, as a male voice asks him, 'What you working on?' The overall atmosphere is lively and social, filled with conversation, laughter, and festive cheer in the warm, decorated environment."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 4,
+      "end_minute": 4,
+      "summary": "In a cluttered kitchen, Joey (Man in Red Shirt) sat at a counter with a laptop, expressing to Chandler (Man in Dark Jacket) his desire for his writing to sound intelligent despite a limited vocabulary. Chandler demonstrated how to use a thesaurus tool on the laptop, highlighting a word and explaining that it generates a list of choices to select the smartest-sounding one. Joey reacted with elation, exclaiming his newfound intelligence and wit, prompting audience laughter. The scene shifted to a close-up of the laptop screen, showing a grainy, vintage-style video of a man holding a paper and a woman sipping from a glass on a couch. Subsequently, in a living room with a beige couch, yellow lamp, framed picture, and blue cabinet, Joey and Monica (Woman in White Graphic Shirt) watched the video with surprise and discomfort. Monica commented, \"Interesting,\" followed by Joey's remark, \"Anyway, um, probably worked out for the best.\" Monica then revealed, \"In about 10 seconds, you're gonna see him kiss me,\" to which Joey quickly responded, \"And in about 5 seconds, you're gonna see why.\"",
+      "involved_entities": {
+        "Beige Couch": {
+          "description": "A beige couch in the living room where the Man in Red Shirt and the Woman in White Graphic Shirt are seated, serving as the focal point for their reaction to the video.",
+          "attribute": "visual"
+        },
+        "Man in Dark Jacket": {
+          "description": "Chandler, a man wearing a dark jacket, standing beside Joey in the kitchen, leaning over the laptop and gesturing as he speaks, appearing engaged and animated in the discussion, instructing Joey on how to use a thesaurus by saying, 'Well, why don't you use your thesaurus?' and explaining, 'the thesaurus generates, it gives... gives a whole list of choices. You can pick the word that sounds smartest.'",
+          "attribute": "audio-visual"
+        },
+        "Blue Cabinet": {
+          "description": "A blue cabinet in the background of the living room, adding a pop of color to the setting.",
+          "attribute": "visual"
+        },
+        "Man in Red Shirt": {
+          "description": "Joey, a man wearing a red button-up shirt, initially seated at a kitchen counter with a laptop, leaning in to view the screen with intense focus while enthusiastically discussing and demonstrating the use of a thesaurus, exclaiming, 'I want it to sound smart, but I don't know any big words or anything, so.' and later, 'Oh my god, that's great! I'm smart! Wait, no, I'm brainy, bright, clever! I love this thing! Look out, ladies, Joey Tribbiani's got the whole package!' He is later seen seated on a couch in a living room, appearing surprised and slightly uncomfortable while watching a video, and commenting on its content, 'Anyway, um, probably worked out for the best.' and 'And in about 5 seconds, you're gonna see why.'",
+          "attribute": "audio-visual"
+        },
+        "Yellow Lamp": {
+          "description": "A tall yellow lamp with a textured shade positioned on a side table in the living room, adding warmth to the scene.",
+          "attribute": "visual"
+        },
+        "Framed Picture": {
+          "description": "A framed picture on the wall behind the couch in the living room, partially visible, contributing to the room's decor.",
+          "attribute": "visual"
+        },
+        "Woman in White Graphic Shirt": {
+          "description": "Monica, a woman with blonde hair wearing a white long-sleeved shirt featuring a black-and-white graphic print of a person in a hat, seated on a beige couch in the living room, looking surprised and slightly uncomfortable while watching a video, commenting 'Interesting,' 'Yeah, sure,' and later revealing, 'In about 10 seconds, you're gonna see him kiss me.'",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The scene opens in a cluttered kitchen where Joey, the Man in Red Shirt, is seated at a counter with a laptop, discussing with Chandler, the Man in Dark Jacket, who leans in, gesturing toward the screen. Joey expresses his desire for his writing to sound smart, saying, \"I want it to sound smart, but I don't know any big words or anything, so.\" Chandler suggests, \"Well, why don't you use your thesaurus?\" and then demonstrates, explaining how to highlight a word and use the thesaurus tool to find better choices, saying, \"the thesaurus generates, it gives... gives a whole list of choices. You can pick the word that sounds smartest.\" Joey reacts with enthusiastic surprise, exclaiming, \"Oh my god, that's great! I'm smart! Wait, no, I'm brainy, bright, clever! I love this thing! Look out, ladies, Joey Tribbiani's got the whole package!\" amidst audience laughter. The camera then cuts to a close-up of the laptop screen, revealing a grainy, vintage-style video of a man and a woman sitting on a couch, seemingly in a relaxed, intimate setting — the man is holding a piece of paper and the woman is sipping from a glass. The scene then transitions to a living room where Joey and Monica, the Woman in White Graphic Shirt, are seated on a beige couch, looking surprised and slightly uncomfortable as they watch the video. Monica comments, \"Interesting,\" and after some paper rustling sounds, Joey adds, \"Anyway, um, probably worked out for the best.\" Monica replies, \"Yeah, sure,\" then reveals, \"In about 10 seconds, you're gonna see him kiss me,\" to which Joey quickly adds, \"And in about 5 seconds, you're gonna see why.\" The room features eclectic decor, including a yellow lamp, a framed picture, and a blue cabinet in the background, setting an atmosphere that shifts from focused curiosity in the kitchen to awkward observation in the living room, suggesting the video content is unexpected or revealing."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 5,
+      "end_minute": 5,
+      "summary": "In a warmly lit living room, a Man in Red Shirt and a Woman in White Graphic Shirt sat on a Beige Couch, reacting with surprise and amusement to a screen, the Man holding a white object and the Woman a black one to her face. The scene shifted to a Brown Couch in a more eclectic living room with a Blue Cabinet and Yellow Lamp, where a Woman in Gray Blazer, holding a remote, initiated a lively discussion by asking, \"Ross, did I ever tell you about the time that I went backpacking through Western Europe?\" This elicited laughter, including from a Man in Dark Jacket who raised his hand emphatically. The Woman in Gray Blazer continued, \"Hey, get ready to see some begging,\" prompting the Man in Dark Jacket to exclaim, \"Oh, you came on the run, Ross!\" and later clarify, \"You use the Europe story. That's the magic story you use when you want to have sex!\" causing gasps and more laughter. The Woman in Gray Blazer, surprised, asked, \"What are you talking about? How do you know about that story?\" and explained, \"I heard it from my friend Irene who heard it from some guy,\" which the Man in Dark Jacket mockingly repeated, \"Some guy!\" The conversation concluded with cheers and applause as the Woman in Gray Blazer revealed, \"No, no, she told me that his name was Ken Adams,\" a name the Man in Dark Jacket excitedly echoed, \"Ken Adams!\" The group's casual and humorous interaction unfolded against a backdrop of a Wooden Shelf with Red Boxes and a Framed Picture.",
+      "involved_entities": {
+        "Beige Couch": {
+          "description": "A beige couch in the living room where the Man in Red Shirt and the Woman in White Graphic Shirt are seated, serving as the focal point for their reaction to the video.",
+          "attribute": "visual"
+        },
+        "Woman in Black Top": {
+          "description": "A woman with dark hair wearing a black V-neck top and a delicate necklace, seated next to the Woman in Patterned Top, engaged in the conversation.",
+          "attribute": "visual"
+        },
+        "Woman in Patterned Top": {
+          "description": "A woman with blonde hair wearing a colorful, patterned top with red, black, and white geometric designs, seated on the Brown Couch and listening attentively.",
+          "attribute": "visual"
+        },
+        "Man in Dark Jacket": {
+          "description": "A man wearing a dark jacket, seated on a Brown Couch, raising his hand in a surprised or emphatic gesture, who actively participates in the conversation by identifying the 'Europe story' as a 'magic story you use when you want to have sex,' mimicking the storyteller, and excitedly reacting to the name 'Ken Adams'.",
+          "attribute": "audio-visual"
+        },
+        "Blue Cabinet": {
+          "description": "A blue cabinet in the background of the living room, adding a pop of color to the setting.",
+          "attribute": "visual"
+        },
+        "Woman in Gray Blazer": {
+          "description": "A woman with blonde hair wearing a gray blazer over a black top, seated on the Brown Couch, holding a remote and gesturing as she speaks, initiating a humorous story about backpacking through Western Europe, expressing surprise at the group's knowledge of it, and ultimately revealing the name 'Ken Adams' to much amusement and applause.",
+          "attribute": "audio-visual"
+        },
+        "Man in Red Shirt": {
+          "description": "A man wearing a red button-up shirt, seated on a Beige Couch, holding a white object and reacting with surprise while watching a video.",
+          "attribute": "visual"
+        },
+        "Yellow Lamp": {
+          "description": "A tall yellow lamp with a textured shade positioned on a side table in the living room, adding warmth to the scene.",
+          "attribute": "visual"
+        },
+        "Wooden Shelf with Red Boxes": {
+          "description": "A wooden shelf in the background of the living room holding several red boxes, adding to the room's eclectic decor.",
+          "attribute": "visual"
+        },
+        "Framed Picture": {
+          "description": "A framed picture on the wall behind the couch in the living room, partially visible, contributing to the room's decor.",
+          "attribute": "visual"
+        },
+        "Brown Couch": {
+          "description": "A large, brown leather couch where the group is seated in the living room, serving as the central piece of furniture in the scene.",
+          "attribute": "visual"
+        },
+        "Woman in White Graphic Shirt": {
+          "description": "A woman with blonde hair wearing a white long-sleeved shirt featuring a black-and-white graphic print of a person in a hat, seated on a Beige Couch, holding a black object to her face and appearing surprised.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a warmly lit living room where a Man in Red Shirt and a Woman in White Graphic Shirt are seated on a Beige Couch, reacting with surprise and amusement to something on a screen, possibly a video or game. The Man holds a white object, perhaps a controller, while the Woman holds a black object to her face. The scene then cuts to a different group seated on a Brown Couch in a more eclectic living room setting, featuring a Blue Cabinet and a Yellow Lamp. Here, a Woman in Gray Blazer, holding a remote, leads a lively discussion, asking, \"Ross, did I ever tell you about the time that I went backpacking through Western Europe?\" This prompts laughter from the group, including a Man in Dark Jacket who raises his hand in a surprised or emphatic gesture. The Woman in Gray Blazer continues, \"Hey, get ready to see some begging,\" to which the Man in Dark Jacket exclaims, \"Oh, you came on the run, Ross!\" and later clarifies, \"You use the Europe story. That's the magic story you use when you want to have sex!\" eliciting gasps and more laughter from the group. The Woman in Gray Blazer, surprised, asks, \"What are you talking about? How do you know about that story?\" and then explains, \"I heard it from my friend Irene who heard it from some guy,\" which the Man in Dark Jacket mockingly repeats, \"Some guy!\" The conversation culminates in cheers and applause as the Woman in Gray Blazer reveals, \"No, no, she told me that his name was Ken Adams,\" a name the Man in Dark Jacket excitedly echoes, \"Ken Adams!\" The atmosphere is casual and humorous, with the group clearly enjoying their shared moment of entertainment and debate, set against a background of a Wooden Shelf with Red Boxes and a Framed Picture."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 6,
+      "end_minute": 6,
+      "summary": "In a cluttered living room with a blue cabinet and a wooden shelf with red boxes, a woman in a white shirt on a beige couch and a man in a red sweatshirt on a patterned armchair are present, while a man in a dark shirt on a brown couch gestures thoughtfully. The woman in white greets Monica, who enters holding a purple object, and the man in dark clothing inquires if she saw Donald Trump at her convention, to which the woman in white confirms seeing him waiting for an elevator, prompting laughter. The woman in white then asks Monica to borrow her eyelash curler, and Monica directs her to the bathroom, leading to more laughter. The man in red suddenly exclaims in agitation, \"Oh! Whoa! Oh, oh, oh!\" as the man in dark clothing stands, points, and speaks animatedly. Sounds of struggle and grunts are heard as the man in red is pulled from his chair and carried by the man in dark clothing into a pink bedroom featuring floral bedding and framed posters. The man in red is thrown onto the bed with a thud, and the man in dark clothing sternly states \"Yes,\" which the man in red echoes. The man in dark clothing then points and accuses, \"You! And and you!\" Monica intervenes, revealing, \"Yes, but you cannot tell anyone, no one knows.\" When pressed about how and when, Monica discloses, \"It happened in London,\" leading to the man in dark clothing's shocked exclamation, \"In London?!\" He then explains, \"The reason we didn't tell anyone was because we didn't want to make a big deal.\"",
+      "involved_entities": {
+        "Floral Bedding": {
+          "description": "A white bedspread with a floral pattern covering the bed in the pink bedroom, visible during the physical altercation.",
+          "attribute": "visual"
+        },
+        "Pink Bedroom": {
+          "description": "A bedroom with pink walls, floral bedding, framed posters (including one with a cartoon character), and a brick wall, serving as the location of the physical confrontation.",
+          "attribute": "visual"
+        },
+        "Woman in Striped Shirt": {
+          "description": "A woman with dark hair wearing a red, white, and blue striped shirt over a black top, holding a purple object, entering the room, observing the interaction, and later intervening in the bedroom with expressive gestures. She is identified as Monica, has a calm, clear voice, replying 'Yeah, it's in the bathroom,' then becomes secretive, stating 'Yes, but you cannot tell anyone, no one knows,' and reveals 'It happened in London.'",
+          "attribute": "audio-visual"
+        },
+        "Framed Picture": {
+          "description": "A framed picture on the wall behind the couch in the living room, partially visible, contributing to the room's decor and seen during the initial scene.",
+          "attribute": "visual"
+        },
+        "Brown Couch": {
+          "description": "A brown couch in the living room where the Man in Dark Jacket is initially seated, later becoming a point of departure for his movement into the bedroom.",
+          "attribute": "visual"
+        },
+        "Woman in White Graphic Shirt": {
+          "description": "A woman with blonde hair wearing a white long-sleeved shirt, reclining on a beige couch, reacting with surprise and amusement, greeting 'Hey, hey, hey,' and asking 'Hey, can I borrow your eyelash curler? I think I lost mine,' in a casual, conversational voice, also laughing.",
+          "attribute": "audio-visual"
+        },
+        "Purple Umbrella": {
+          "description": "A closed purple umbrella hanging on the wall near the doorway, visible as the woman in striped shirt enters the room.",
+          "attribute": "visual"
+        },
+        "Wooden Canoe": {
+          "description": "A small wooden canoe placed on the floor near the folding chair, adding to the eclectic decor and visible in the living room.",
+          "attribute": "visual"
+        },
+        "White Horse Statue": {
+          "description": "A tall, white, stylized horse statue positioned near the doorway, visible in the background as the man in dark clothing moves through the kitchen.",
+          "attribute": "visual"
+        },
+        "Beige Couch": {
+          "description": "A beige couch in the living room where the Woman in White Graphic Shirt is seated, serving as a focal point for her reactions.",
+          "attribute": "visual"
+        },
+        "Cartoon Character Poster": {
+          "description": "A framed poster on the bedroom wall featuring a cartoon character with a large head and expressive eyes, visible above the bed.",
+          "attribute": "visual"
+        },
+        "Man in Dark Jacket": {
+          "description": "A man wearing a dark long-sleeved shirt and black pants, initially seated on a brown couch, then standing and gesturing animatedly with a clear, somewhat commanding voice, greeting 'Oh hey, Monica,' before physically carrying the man in red into the bedroom and throwing him onto the bed. He then speaks sternly, stating 'Yes,' points accusingly saying 'You! And and you!', reacts with a loud, shocked 'In London?!', and explains 'The reason we didn't tell anyone was because we didn't want to make a big deal.'",
+          "attribute": "audio-visual"
+        },
+        "Blue Cabinet": {
+          "description": "A blue cabinet in the background of the living room, adding a pop of color to the setting and visible during the initial scene.",
+          "attribute": "visual"
+        },
+        "Brick Wall": {
+          "description": "An exposed brick wall visible in the bedroom, adding texture and character to the room's design.",
+          "attribute": "visual"
+        },
+        "Man in Red Shirt": {
+          "description": "A man wearing a red sweatshirt and blue jeans, initially lounging on a patterned armchair, then reacting with a surprised, distressed voice, exclaiming 'Oh!' and 'Whoa! Oh, oh, oh!' with sounds of struggle and grunts before being carried into the bedroom and thrown onto a bed, later echoing 'Yes' in distress.",
+          "attribute": "audio-visual"
+        },
+        "Wooden Shelf with Red Boxes": {
+          "description": "A wooden shelf in the background of the living room holding several red boxes, contributing to the room's eclectic decor and visible during the opening shots.",
+          "attribute": "visual"
+        },
+        "Yellow Lamp": {
+          "description": "A tall yellow lamp with a textured shade positioned on a side table in the living room, adding warmth to the scene and visible during the initial shots.",
+          "attribute": "visual"
+        },
+        "Zillah Poster": {
+          "description": "A poster on the wall featuring the word 'Zillah' and an image of a person in a bunny costume, visible during the kitchen scene and adding a quirky element to the room.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The scene opens in a cluttered, eclectic living room, featuring a blue cabinet, a wooden shelf with red boxes, and a white refrigerator adorned with magnets. A woman in a white shirt reclines on a beige couch, while a man in a red sweatshirt lounges on a patterned armchair. A man in a dark shirt sits on a brown couch, gesturing thoughtfully. The woman in white casually greets \"Hey, hey, hey,\" as a woman in a red, white, and blue striped shirt, identified as Monica, enters holding a purple object. The man in dark clothing greets her, \"Oh hey, Monica,\" and asks, \"I heard you saw Donald Trump at your convention.\" The woman in white responds, \"Yeah, saw him waiting for an elevator,\" eliciting laughter. She then asks Monica, \"Hey, can I borrow your eyelash curler? I think I lost mine,\" to which Monica replies, \"Yeah, it's in the bathroom,\" followed by more laughter. Suddenly, the man in red becomes agitated, exclaiming \"Oh!\" and then \"Whoa! Oh, oh, oh!\" as he reacts to something off-screen. The man in dark clothing stands up, pointing and speaking animatedly, as the tension escalates. With sounds of struggle and grunts, the man in red is physically pulled from his chair and carried into a pink bedroom by the man in dark clothing. In the bedroom, which features floral bedding, framed posters (including one with a cartoon character), and a brick wall, the man in red is thrown onto the bed with a thud. The man in dark clothing stands over him, sternly stating \"Yes,\" which the distressed man in red echoes. The man in dark clothing then points, accusingly saying \"You! And and you!\" Monica, who had been watching with amusement, intervenes, gesturing as she reveals, \"Yes, but you cannot tell anyone, no one knows.\" The man in dark clothing presses, \"How? When?\" and Monica discloses, \"It happened in London.\" The man in dark clothing reacts with a loud, shocked \"In London?!\" before explaining, \"The reason we didn't tell anyone was because we didn't want to make a big deal.\" The atmosphere shifts from casual to chaotic, culminating in a physical confrontation and a tense secret revelation in the bedroom."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 7,
+      "end_minute": 7,
+      "summary": "In a pink bedroom adorned with floral bedding and a cartoon character poster, the Man in Dark Jacket forcefully confronts the Man in Red Shirt, who is seated on the bed, exclaiming, \"But it is a big deal!\" and \"I have to tell someone!\"; the Man in Dark Jacket then grabs, lifts, and throws the Man in Red Shirt onto the bed amidst sounds of struggle. The Woman in Striped Shirt, holding a purple object, watches with concern before intervening, pleading emphatically, \"No, no, no, no, no, no, no!\", \"You can't!\", and \"Please, please, we just don't want to deal with telling everyone, okay? Please, just promise you won't tell!\", to which the Man in Dark Jacket calmly replies, \"Alright.\" The scene transitions to a kitchen featuring blue cabinets, a Zillah Poster, and a White Horse Statue, where the Woman in Black Top and the Woman in Green Jacket engage in a tense conversation with the Man in Blue Henley, who holds a glass of red wine. The Man in Blue Henley expresses confusion and frustration, exclaiming, \"Man, this is unbelievable!\" and \"I mean, it's great!\", later adding, \"Oh, I don't want to see that!\". The Woman in Black Top gestures animatedly, stating, \"We're going to take Clunkers to Ross's, we'll be back in a minute,\" and inquires, \"when a guy breaks up with his girlfriend, what is an appropriate amount of time to wait before you make a move?\". The Woman in Green Jacket, holding a patterned bag, listens intently and suggests, \"Oh, I'd say about a month,\" while the Man in Blue Henley proposes \"three to four\" or \"Half hour,\" eliciting laughter. The Woman in Green Jacket then adds, \"When it's your assistant, I would say never.\" The Man in Blue Henley concludes, \"Alright, Rage, the big question is...\", the atmosphere charged with tension under warm, consistent lighting.",
+      "involved_entities": {
+        "Floral Bedding": {
+          "description": "A white bedspread with a floral pattern covering the bed in the pink bedroom, visible during the physical altercation.",
+          "attribute": "visual"
+        },
+        "Woman in Black Top": {
+          "description": "A woman with dark hair wearing a black V-neck top and a delicate necklace, standing in the kitchen, gesturing animatedly while speaking to the Man in Blue Henley, stating 'We're going to take Clunkers to Ross's, we'll be back in a minute' and asking 'when a guy breaks up with his girlfriend, what is an appropriate amount of time to wait before you make a move?'",
+          "attribute": "audio-visual"
+        },
+        "Pink Bedroom": {
+          "description": "A bedroom with pink walls, floral bedding, framed posters (including one with a cartoon character), and a brick wall, serving as the location of the physical confrontation.",
+          "attribute": "visual"
+        },
+        "Woman in Striped Shirt": {
+          "description": "A woman with dark hair wearing a red, white, and blue striped shirt over a black top, holding a purple object, entering the room, observing the interaction, and later intervening in the bedroom with expressive gestures, pleading 'No, no, no, no, no, no, no!', 'You can't!', and 'Please, please, we just don't want to deal with telling everyone, okay? Please, just promise you won't tell!'",
+          "attribute": "audio-visual"
+        },
+        "Cartoon Character Poster": {
+          "description": "A framed poster on the bedroom wall featuring a cartoon character with a large head and expressive eyes, visible above the bed.",
+          "attribute": "visual"
+        },
+        "White Horse Statue": {
+          "description": "A tall, white, stylized horse statue positioned near the doorway, visible in the background as the man in dark clothing moves through the kitchen.",
+          "attribute": "visual"
+        },
+        "Woman in Green Jacket": {
+          "description": "A woman with blonde hair wearing a green jacket, holding a patterned bag, standing in the kitchen and listening intently to the conversation, offering her opinion with 'Oh, I'd say about a month' and 'When it's your assistant, I would say never.'",
+          "attribute": "audio-visual"
+        },
+        "Man in Dark Jacket": {
+          "description": "A man wearing a dark long-sleeved shirt and black pants, initially standing and gesturing animatedly, then physically carrying the Man in Red Shirt into the bedroom and throwing him onto the bed, later calmly agreeing with 'Alright' after the Woman in Striped Shirt's intervention.",
+          "attribute": "audio-visual"
+        },
+        "Brick Wall": {
+          "description": "An exposed brick wall visible in the bedroom, adding texture and character to the room's design.",
+          "attribute": "visual"
+        },
+        "Blue Cabinet": {
+          "description": "A blue cabinet in the background of the kitchen, adding a pop of color to the setting and visible during the kitchen scene.",
+          "attribute": "visual"
+        },
+        "Man in Red Shirt": {
+          "description": "A man wearing a red sweatshirt and blue jeans, initially seated on a bed with floral bedding, then forcefully thrown onto it by the Man in Dark Jacket, reacting with surprise and distress while exclaiming, 'But it is a big deal!' and 'I have to tell someone!'",
+          "attribute": "audio-visual"
+        },
+        "Zillah Poster": {
+          "description": "A poster on the wall featuring the word 'Zillah' and an image of a person in a bunny costume, visible during the kitchen scene and adding a quirky element to the room.",
+          "attribute": "visual"
+        },
+        "Man in Blue Henley": {
+          "description": "A man wearing a blue long-sleeved henley shirt, holding a glass of red wine, standing in the kitchen and responding with a mix of confusion and frustration, exclaiming 'Man, this is unbelievable!' and 'I mean, it's great!', later adding 'Oh, I don't want to see that!', suggesting 'three to four' or 'Half hour' as an appropriate waiting time, and finally addressing someone with 'Alright, Rage, the big question is...'",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a pink bedroom with floral bedding and a cartoon character poster, where the Man in Dark Jacket confronts the Man in Red Shirt, who is seated on the bed. The Man in Red Shirt exclaims, \"But it is a big deal!\" and \"I have to tell someone!\" before the Man in Dark Jacket grabs him, lifts him, and forcefully throws him onto the bed, accompanied by sounds of struggle. The Woman in Striped Shirt, holding a purple object, watches with concern, then intervenes, gesturing emphatically as she pleads, \"No, no, no, no, no, no, no!\", \"You can't!\", and \"Please, please, we just don't want to deal with telling everyone, okay? Please, just promise you won't tell!\" The Man in Dark Jacket calmly responds, \"Alright.\" The scene then shifts to a kitchen with blue cabinets, a Zillah Poster, and a White Horse Statue. Here, the Woman in Black Top and the Woman in Green Jacket are engaged in a tense conversation with the Man in Blue Henley, who holds a glass of red wine. The Man in Blue Henley expresses a mix of confusion and frustration, exclaiming, \"Man, this is unbelievable!\" and \"I mean, it's great!\", later adding, \"Oh, I don't want to see that!\" The Woman in Black Top gestures animatedly, stating, \"We're going to take Clunkers to Ross's, we'll be back in a minute,\" and then asks, \"when a guy breaks up with his girlfriend, what is an appropriate amount of time to wait before you make a move?\" The Woman in Green Jacket listens intently, holding a patterned bag, and offers, \"Oh, I'd say about a month,\" while the Man in Blue Henley suggests \"three to four\" or \"Half hour,\" followed by laughter from the group. The Woman in Green Jacket then adds, \"When it's your assistant, I would say never.\" The Man in Blue Henley concludes, \"Alright, Rage, the big question is...\" The atmosphere is charged with tension, suggesting a conflict or misunderstanding among the group, all under warm, consistent lighting."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 8,
+      "end_minute": 8,
+      "summary": "In a kitchen featuring blue cabinetry and a brick backsplash, Joey, the Man in Blue Henley, holding a glass of red wine, faces the Woman in Black Top, who, with arms crossed and a serious expression, questions his use of the term 'a moo point.' Joey explains his 'moo point' as 'a cow's opinion' that 'doesn't matter,' prompting laughter and applause from an unseen audience. The Woman in Green Jacket, standing beside the Woman in Black Top with arms crossed, listens intently before agreeing with the latter's advice. A wider shot reveals the Woman in Black Top, Woman in Green Jacket, and a third woman in a dark top, all with arms crossed and skeptical expressions. Back in the kitchen, Joey, increasingly exasperated, argues, 'No one ever listens to me. When the package is this pretty, no one cares what's inside!' The Woman in Black Top advises against listening to Joey, suggesting he is depressed and needs a friend, a sentiment the Woman in Green Jacket acknowledges, stating, 'Oh, you're right. I'm sorry. Thank you. Okay, that's what I'm gonna do.' The scene shifts to a living room where the Man in Suit sits at an Office Desk, conversing with the Man in Brown Jacket, who has his feet up. The room contains a large window with blinds, a computer monitor, and office items. A transition to a busy City Street Scene with yellow taxis and cars, accompanied by background music, suggests a change of setting. The final shot returns to the office, where the Man in Suit gestures emphatically while speaking to Joey, beginning, 'Hey, look Joey, I'm just saying if you need something to hold you...'",
+      "involved_entities": {
+        "City Street Scene": {
+          "description": "A busy urban street filled with yellow taxis and other vehicles, capturing the hustle and bustle of city life, shown as a brief transition between scenes.",
+          "attribute": "visual"
+        },
+        "Man in Brown Jacket": {
+          "description": "A man wearing a brown jacket, seated casually with his feet up on a chair, engaged in conversation with the Man in Suit in an office setting.",
+          "attribute": "visual"
+        },
+        "Woman in Black Top": {
+          "description": "A woman with dark hair wearing a black V-neck top and a delicate necklace, standing in the kitchen, gesturing animatedly while speaking to the Man in Blue Henley. She questions his 'moo point' and later advises against listening to Joey, revealing his name and suggesting he is depressed and needs a friend, with her dialogue met by audience laughter.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Green Jacket": {
+          "description": "A woman with blonde hair wearing a green jacket, holding a patterned bag, standing in the kitchen and listening intently to the conversation. She later speaks, agreeing with the Woman in Black Top's advice, saying, 'Oh, you're right. I'm sorry. Thank you. Okay, that's what I'm gonna do.'",
+          "attribute": "audio-visual"
+        },
+        "Blue Cabinet": {
+          "description": "A blue cabinet in the background of the kitchen, adding a pop of color to the setting and visible during the kitchen scene.",
+          "attribute": "visual"
+        },
+        "Man in Suit": {
+          "description": "A man in a dark suit, light blue shirt, and patterned tie with yellow and blue diamonds, wearing glasses and with long dark hair tied back in a ponytail, speaking animatedly and gesturing throughout the scene. At the end of the segment, he addresses 'Joey' and begins to say, 'Hey, look Joey, I'm just saying if you need something to hold you...'",
+          "attribute": "audio-visual"
+        },
+        "Office Desk": {
+          "description": "A large black desk in the office, cluttered with papers, a computer monitor, a telephone, and various office supplies, serving as the focal point of the conversation between the two men.",
+          "attribute": "visual"
+        },
+        "Zillah Poster": {
+          "description": "A poster on the wall featuring the word 'Zillah' and an image of a person in a bunny costume, visible during the kitchen scene and adding a quirky element to the room.",
+          "attribute": "visual"
+        },
+        "Man in Blue Henley": {
+          "description": "A man wearing a blue long-sleeved henley shirt, holding a glass of red wine, standing in the kitchen and responding with confusion and frustration to the Woman in Black Top. He is identified as Joey, makes a joke about a 'moo point' being a 'cow's opinion' that 'doesn't matter,' and later complains about not being listened to, stating, 'When the package is this pretty, no one cares what's inside!' His dialogue elicits audience laughter and applause.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The scene opens in a cozy kitchen with blue cabinetry and a brick backsplash, where the Man in Blue Henley, holding a glass of red wine, stands facing the Woman in Black Top, who has her arms crossed and speaks with a serious expression, questioning his use of the term 'a moo point.' The Man in Blue Henley, identified as Joey, responds with confusion and frustration, gesturing with his free hand as he explains his 'moo point' as 'a cow's opinion' that 'doesn't matter,' eliciting laughter and applause from an unseen audience. The Woman in Green Jacket stands beside her, also with arms crossed, listening intently, before agreeing with the Woman in Black Top's advice. The camera cuts to a wider shot showing the three women—Woman in Black Top, Woman in Green Jacket, and a third woman in a dark top—standing together, all with arms crossed, looking skeptical. The scene shifts back to the kitchen, where Joey continues to argue, his expression growing more exasperated as he complains, 'No one ever listens to me. When the package is this pretty, no one cares what's inside!' The Woman in Black Top then advises against listening to Joey, suggesting he is depressed and needs a friend, which the Woman in Green Jacket acknowledges, saying, 'Oh, you're right. I'm sorry. Thank you. Okay, that's what I'm gonna do.' The camera then pans to a living room where the Man in Suit sits at an Office Desk, engaged in a conversation with the Man in Brown Jacket, who is seated casually with his feet up. The room features a large window with blinds, a computer monitor, and various office items. The scene transitions to a busy City Street Scene with yellow taxis and cars, suggesting a shift in location or time, accompanied by background music. The final shot returns to the office, where the two men continue their discussion, the Man in Suit gesturing emphatically as he speaks, addressing Joey and beginning to say, 'Hey, look Joey, I'm just saying if you need something to hold you...'"
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 9,
+      "end_minute": 9,
+      "summary": "In an office setting, Joey Tribbiani, clad in a brown plaid jacket, animatedly explains an entry-level 'processor' job, asserting its simplicity and his own role as a processor. The Man in Suit, seated at a cluttered Office Desk and holding a pen, responds with hand gestures, questioning the experience requirement and subsequently laughing. As Joey moves towards the exit, Scott Alexander, dressed in a dark suit, calmly greets 'Chandler' and presents 'this morning's projection.' Joey introduces himself as 'Joey Tribbiani,' a 'fellow processor,' prompting Scott's surprised 'No kidding!' and an inquiry about Joey's workplace. Joey admits to being 'in between things,' leading the Man in Suit to mention an opening in 'Fleishman's group.' Scott humorously advises, 'Whatever you do, don't touch your sandwiches,' which draws laughter from Joey and the Man in Suit, before Scott asks if all processors are 'dorks.' Joey then exclaims, 'Hey, guys, take a look at this!' accompanied by a 'boing' sound and further laughter, after which the scene shifts to a beach bathed in golden-hour light. A man in a floral shirt walks towards the ocean, viewed from behind, while another man in a white shirt is partially buried in the sand near the water's edge.",
+      "involved_entities": {
+        "Man in Suit": {
+          "description": "A man in a gray suit with a patterned tie, seated behind a large black Office Desk, holding a pen and responding with expressive hand gestures during a discussion. He speaks, inquiring about job experience and later mentioning an opening in 'Fleishman's group,' and is heard laughing.",
+          "attribute": "audio-visual"
+        },
+        "Man in Dark Suit": {
+          "description": "A man in a dark suit and tie, standing with arms crossed near the doorway, listening to the Man in Brown Jacket with a calm, observant demeanor.",
+          "attribute": "visual"
+        },
+        "Man in Brown Jacket": {
+          "description": "A man wearing a brown plaid jacket over a white shirt and jeans, initially seated at a desk, then standing and gesturing during a heated conversation in an office.",
+          "attribute": "visual"
+        },
+        "Office Desk": {
+          "description": "A large black desk cluttered with papers, a computer monitor, a telephone, and various office supplies, serving as the central point of interaction between the Man in Suit and the Man in Brown Jacket.",
+          "attribute": "visual"
+        },
+        "Beach Scene": {
+          "description": "A sandy beach with ocean waves, where a man in a floral shirt walks toward the water and another man in a white shirt is partially buried in the sand, under golden-hour lighting, indicating a shift to a relaxed, outdoor environment.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The scene opens in an office where Joey Tribbiani, wearing a brown plaid jacket, animatedly gestures while explaining an entry-level 'processor' job, stating it's 'not that hard to learn' and that he acts like a processor. The Man in Suit, seated behind a cluttered Office Desk, holding a pen, responds with expressive hand gestures, asking about the need for experience and later laughing. As Joey stands and moves toward the doorway, he's met by Scott Alexander, in a dark suit, who, with a calm demeanor, greets 'Chandler' and presents 'this morning's projection.' Joey introduces himself as 'Joey Tribbiani,' a 'fellow processor,' to which Scott replies, 'No kidding!' and inquires about his workplace. Joey admits he's 'in between things,' prompting the Man in Suit to mention an opening in 'Fleishman's group.' Scott humorously warns, 'Whatever you do, don't touch your sandwiches,' eliciting laughter from Joey and the Man in Suit, before asking if all processors are 'dorks.' Joey then exclaims, 'Hey, guys, take a look at this!' followed by a distinct 'boing' sound and more laughter, as the scene abruptly transitions to a beach. Under a golden-hour glow, a man in a floral shirt is seen from behind, walking toward the ocean, while another man in a white shirt is partially submerged in the sand near the water’s edge, suggesting a playful or chaotic moment."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 10,
+      "end_minute": 10,
+      "summary": "On a sunny beach, Joe, a man in a white t-shirt, is partially buried in the sand near the shoreline, exclaiming about the hole he dug as waves crash around him. A woman in a red bikini top and gray shorts, accompanied by a man in a floral Hawaiian shirt, approaches; the man compliments Joe's hole. The woman runs toward the water, laughing, but screams and cries out in pain after being stung by a jellyfish, exclaiming, \"It hurts, it hurts, it hurts!\" The man in the floral shirt offers help and suggests taking her back to the house, while Joe, still buried, mentions being tired from digging. The woman curses the jellyfish, and the man in the floral shirt advises her to pee on the sting, citing the Discovery Channel. Joe agrees, mentioning ammonia's pain-killing properties, but the woman dismisses the idea, only to yelp loudly. Joe humorously offers his hole for privacy, followed by laughter. The scene then shifts abruptly to an indoor setting: a cozy, eclectic living room with a brown couch, wooden coffee table, purple umbrella, wooden canoe, and a Zillah poster. A man in a dark jacket moves quickly through the room, observed by a woman in a green jacket in the kitchen area. A voice, likely the man in the dark jacket, states, \"I just got my uh, teacher evaluation...\"",
+      "involved_entities": {
+        "Man in Floral Shirt": {
+          "description": "A man with light brown hair wearing a cream-colored Hawaiian shirt with tropical floral and palm tree patterns, who runs toward the woman, asks what's wrong, offers help, suggests peeing on the jellyfish sting citing the 'Discovery Channel', and helps pull the man in the white t-shirt from the sand, later comforting the woman by placing a hand on her shoulder.",
+          "attribute": "audio-visual"
+        },
+        "Living Room Interior": {
+          "description": "A cozy, eclectic living room with warm lighting, featuring a brown couch, wooden coffee table, a yellow lamp, a framed picture on the wall, and various decorative items including a wooden canoe and a purple umbrella, serving as the indoor setting after the beach scene.",
+          "attribute": "visual"
+        },
+        "Woman in Red Bikini Top": {
+          "description": "A woman with dark hair wearing a red bikini top and gray drawstring shorts, who runs toward the water, laughs, then screams in pain from a jellyfish sting, exclaiming 'it hurts, it hurts, it hurts!' and 'Damn the jellyfish!', reacting with shock and disgust to the suggestion of peeing on the sting, and later engaging in an animated conversation with the two men on the beach.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Green Jacket": {
+          "description": "A woman with blonde hair wearing a green jacket, holding a patterned bag, standing in the kitchen and observing the scene with a neutral expression.",
+          "attribute": "visual"
+        },
+        "Man in White T-Shirt": {
+          "description": "A man named Joe, wearing a plain white t-shirt and green shorts, initially partially buried in the sand on the beach, who speaks about digging a hole, screams in pain from a jellyfish sting, and later humorously offers his 'hole' for privacy, appearing surprised and slightly disoriented.",
+          "attribute": "audio-visual"
+        },
+        "Zillah Poster": {
+          "description": "A poster on the wall featuring the word 'Zillah' and an image of a person in a bunny costume, visible during the kitchen scene and adding a quirky element to the room.",
+          "attribute": "visual"
+        },
+        "Brown Couch": {
+          "description": "A brown couch in the living room, visible in the background as the man in dark clothing moves through the room.",
+          "attribute": "visual"
+        },
+        "Purple Umbrella": {
+          "description": "A closed purple umbrella hanging on the wall near the doorway, visible as the woman in striped shirt enters the room.",
+          "attribute": "visual"
+        },
+        "Wooden Canoe": {
+          "description": "A small wooden canoe placed on the floor near the folding chair, adding to the eclectic decor and visible in the living room.",
+          "attribute": "visual"
+        },
+        "Beach Scene": {
+          "description": "A sandy beach with ocean waves, where a man in a white t-shirt is partially buried in the sand, and a woman in a red bikini top and gray shorts, along with a man in a floral Hawaiian shirt, interact with him under golden-hour lighting.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens on a sunny beach under a bright blue sky, where a man in a white t-shirt, identified as Joe, is partially buried in the sand near the shoreline, smiling as waves crash around him. Joe exclaims, \"Check this baby out, dug me a hole!\" as a woman in a red bikini top and gray shorts, accompanied by a man in a floral Hawaiian shirt, approaches. The man in the floral shirt comments, \"Excellent hole, Joe!\" The woman runs toward the water, laughing, but then screams, \"Oh no, no, my hole! Ow!\" as she is stung by a jellyfish. She cries out, \"It hurts, it hurts, it hurts!\" The man in the floral shirt asks, \"What? What is it? Can we help you? Want us to take you back to the house?\" to which the woman replies, \"Oh, it's too wild!\" Joe, still partially buried, adds, \"Yeah, and I'm a little tired from digging the hole.\" The woman continues to exclaim, \"Damn the jellyfish! Damn all the jellyfish!\" The man in the floral shirt suggests, \"Well, there's really only one thing he can do... You're gonna have to pee on it.\" The woman reacts with a shocked \"What? Woah!\" while the man in the floral shirt defends his advice, \"Don't blame me, I saw it on the Discovery Channel.\" Joe chimes in, \"You know what, he's right. There's something like ammonia in that, that kills the pain.\" The woman dismisses it, \"Well, forget it! It doesn't hurt that bad!\" followed by a loud yelp. Joe then humorously offers, \"You want some privacy, you can use my hole,\" as laughter is heard. The scene abruptly shifts to an indoor setting – a cozy, eclectic living room with warm lighting, a brown couch, a wooden coffee table, and various decorative items including a purple umbrella, a wooden canoe, and a Zillah poster. A man in a dark jacket moves quickly through the room, while a woman in a green jacket stands in the kitchen area, observing. A new male voice, likely the man in the dark jacket, is heard saying, \"I just got my uh, teacher evaluation...\""
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 11,
+      "end_minute": 11,
+      "summary": "In a kitchen setting, a Man in Brown Jacket reads an anonymous student evaluation praising 'Dr. Geller' as 'the hottie of the paleontology department,' sparking laughter and discussion about a 'big selling calendar.' A blue cabinet and a white refrigerator are visible in the background. The scene shifts to a Man in Black Shirt relaxing on a white couch, while a Woman in Black Top inquires about the author of the evaluation, learning it's anonymous. A Man in Green Shirt, seated in a brown leather armchair, humorously suggests matching handwriting to final exams to identify the writer, a task the Man in Brown Jacket confirms is possible. The Man in Green Shirt further jokes about someone becoming 'Rain Man' over a 'hot girl,' eliciting further amusement. The Man in Black Shirt reacts with a smirk. The segment ends with a promotional still of the 'Friends' cast on a red couch, overlaid with the 'Friends' theme song and YouTube end screen text 'FRIENDS' and 'SUBSCRIBE'.",
+      "involved_entities": {
+        "Promotional Still": {
+          "description": "A group photo of six characters from the show 'Friends' posing together on a red couch, with the text 'FRIENDS' and 'SUBSCRIBE' displayed in the bottom left corner, serving as an end screen for a YouTube video.",
+          "attribute": "visual"
+        },
+        "Man in Brown Jacket": {
+          "description": "A man wearing a brown jacket over a collared shirt, holding papers and speaking with a focused expression in a kitchen setting, reading a student evaluation about 'Dr. Geller' and commenting on it, then answering questions about the evaluations and exams.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Black Top": {
+          "description": "A woman with blonde hair wearing a black top, seated on a chair, smiling and engaged in the dialogue, asking 'Who wrote it?'",
+          "attribute": "audio-visual"
+        },
+        "Refrigerator": {
+          "description": "A white refrigerator with magnets and notes attached, visible in the kitchen, contributing to the lived-in feel of the space.",
+          "attribute": "visual"
+        },
+        "Man in Green Shirt": {
+          "description": "A man in a light green button-up shirt, seated on a brown leather armchair, gesturing expressively while speaking, suggesting a method to identify the student who wrote the evaluation and making a 'Rain Man' joke.",
+          "attribute": "audio-visual"
+        },
+        "Blue Cabinet": {
+          "description": "A blue cabinet in the kitchen background, filled with various food items and kitchenware, adding color and detail to the setting.",
+          "attribute": "visual"
+        },
+        "Man in Black Shirt": {
+          "description": "A man in a black long-sleeved shirt, reclining on a white couch with floral cushions, appearing relaxed and amused, reacting with laughter and a smirk to the conversation.",
+          "attribute": "audio-visual"
+        },
+        "White Couch": {
+          "description": "A white couch with floral-patterned cushions, where the Man in Black Shirt is reclining, serving as a central piece of furniture in the living room.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a cozy kitchen where a Man in Brown Jacket, holding a stack of papers, reads aloud a student's evaluation praising 'Dr. Geller' as 'the hottie of the paleontology department,' prompting laughter from the group. He then comments on the idea of 'hotties of the paleontology department' and a 'big selling calendar.' Behind him, a blue cabinet is stocked with kitchen items, and a white refrigerator with magnets is visible. The scene cuts to a Man in Black Shirt lounging on a white couch with floral cushions, looking relaxed and amused by the reading. A Woman in Black Top, seated on a chair, smiles and asks, 'Who wrote it?' The Man in Brown Jacket replies that the evaluations are anonymous. The camera then shifts to a Man in Green Shirt, seated on a brown leather armchair, who expressively suggests matching the evaluation's handwriting to final exams to identify the admirer, to which the Man in Brown Jacket confirms having the exams. The Man in Green Shirt then quips about someone becoming 'Rain Man' when a 'hot girl' is taken, eliciting more laughter. The Man in Black Shirt reacts with a smirk, leaning back on the couch. The segment concludes with a promotional still of the six main characters from 'Friends' posing on a red couch, accompanied by the iconic 'Friends' theme song, with 'FRIENDS' and 'SUBSCRIBE' text for a YouTube end screen."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "White Horse Statue": "A tall, white, stylized horse statue positioned near the doorway, visible in the background as the man in dark clothing moves through the kitchen.",
+    "Man in Suit": "A man in a gray suit with a patterned tie, seated behind a large black Office Desk, holding a pen and responding with expressive hand gestures during a discussion. He speaks, inquiring about job experience and later mentioning an opening in 'Fleishman's group,' and is heard laughing.",
+    "Zillah Poster": "A poster on the wall featuring the word 'Zillah' and an image of a person in a bunny costume, visible during the kitchen scene and adding a quirky element to the room.",
+    "Purple Umbrella": "A closed purple umbrella hanging on the wall near the doorway, visible as the woman in striped shirt enters the room.",
+    "Wooden Canoe": "A small wooden canoe placed on the floor near the folding chair, adding to the eclectic decor and visible in the living room.",
+    "Man in Blue Henley": "A man wearing a blue long-sleeved henley shirt, holding a glass of red wine, standing in the kitchen and responding with confusion and frustration to the Woman in Black Top. He is identified as Joey, makes a joke about a 'moo point' being a 'cow's opinion' that 'doesn't matter,' and later complains about not being listened to, stating, 'When the package is this pretty, no one cares what's inside!' His dialogue elicits audience laughter and applause.",
+    "Key": "A small metallic key held and examined by the man in blue, appearing to be the focus of the scene's climax, later used as a prop during conversation on the couch.",
+    "Woman in Black Top": "A woman with blonde hair wearing a black top, seated on a chair, smiling and engaged in the dialogue, asking 'Who wrote it?'",
+    "Woman in Patterned Top": "A woman with blonde hair wearing a colorful, patterned top with red, black, and white geometric designs, seated on the Brown Couch and listening attentively.",
+    "Wooden Shelf with Red Boxes": "A wooden shelf in the background of the living room holding several red boxes, contributing to the room's eclectic decor and visible during the opening shots.",
+    "Brown Couch": "A brown couch in the living room, visible in the background as the man in dark clothing moves through the room.",
+    "Man in Red Shirt": "A man wearing a red sweatshirt and blue jeans, initially seated on a bed with floral bedding, then forcefully thrown onto it by the Man in Dark Jacket, reacting with surprise and distress while exclaiming, 'But it is a big deal!' and 'I have to tell someone!'",
+    "Beige Couch": "A beige couch in the living room where the Woman in White Graphic Shirt is seated, serving as a focal point for her reactions.",
+    "Blue Cabinet": "A blue cabinet in the kitchen background, filled with various food items and kitchenware, adding color and detail to the setting.",
+    "Yellow Lamp": "A tall yellow lamp with a textured shade positioned on a side table in the living room, adding warmth to the scene and visible during the initial shots.",
+    "Framed Picture": "A framed picture on the wall behind the couch in the living room, partially visible, contributing to the room's decor and seen during the initial scene.",
+    "Woman in White Graphic Shirt": "A woman with blonde hair wearing a white long-sleeved shirt, reclining on a beige couch, reacting with surprise and amusement, greeting 'Hey, hey, hey,' and asking 'Hey, can I borrow your eyelash curler? I think I lost mine,' in a casual, conversational voice, also laughing.",
+    "Woman in Gray Blazer": "A woman with blonde hair wearing a gray blazer over a black top, seated on the Brown Couch, holding a remote and gesturing as she speaks, initiating a humorous story about backpacking through Western Europe, expressing surprise at the group's knowledge of it, and ultimately revealing the name 'Ken Adams' to much amusement and applause.",
+    "Floral Bedding": "A white bedspread with a floral pattern covering the bed in the pink bedroom, visible during the physical altercation.",
+    "Pink Bedroom": "A bedroom with pink walls, floral bedding, framed posters (including one with a cartoon character), and a brick wall, serving as the location of the physical confrontation.",
+    "Woman in Striped Shirt": "A woman with dark hair wearing a red, white, and blue striped shirt over a black top, holding a purple object, entering the room, observing the interaction, and later intervening in the bedroom with expressive gestures, pleading 'No, no, no, no, no, no, no!', 'You can't!', and 'Please, please, we just don't want to deal with telling everyone, okay? Please, just promise you won't tell!'",
+    "Cartoon Character Poster": "A framed poster on the bedroom wall featuring a cartoon character with a large head and expressive eyes, visible above the bed.",
+    "Brick Wall": "An exposed brick wall visible in the bedroom, adding texture and character to the room's design.",
+    "Woman in Green Jacket": "A woman with blonde hair wearing a green jacket, holding a patterned bag, standing in the kitchen and observing the scene with a neutral expression.",
+    "City Street Scene": "A busy urban street filled with yellow taxis and other vehicles, capturing the hustle and bustle of city life, shown as a brief transition between scenes.",
+    "Man in Brown Jacket": "A man wearing a brown jacket over a collared shirt, holding papers and speaking with a focused expression in a kitchen setting, reading a student evaluation about 'Dr. Geller' and commenting on it, then answering questions about the evaluations and exams.",
+    "Office Desk": "A large black desk cluttered with papers, a computer monitor, a telephone, and various office supplies, serving as the central point of interaction between the Man in Suit and the Man in Brown Jacket.",
+    "Man in Dark Suit": "A man in a dark suit and tie, standing with arms crossed near the doorway, listening to the Man in Brown Jacket with a calm, observant demeanor.",
+    "Beach Scene": "A sandy beach with ocean waves, where a man in a white t-shirt is partially buried in the sand, and a woman in a red bikini top and gray shorts, along with a man in a floral Hawaiian shirt, interact with him under golden-hour lighting.",
+    "Man in Floral Shirt": "A man with light brown hair wearing a cream-colored Hawaiian shirt with tropical floral and palm tree patterns, who runs toward the woman, asks what's wrong, offers help, suggests peeing on the jellyfish sting citing the 'Discovery Channel', and helps pull the man in the white t-shirt from the sand, later comforting the woman by placing a hand on her shoulder.",
+    "Living Room Interior": "A cozy, eclectic living room with warm lighting, featuring a brown couch, wooden coffee table, a yellow lamp, a framed picture on the wall, and various decorative items including a wooden canoe and a purple umbrella, serving as the indoor setting after the beach scene.",
+    "Woman in Red Bikini Top": "A woman with dark hair wearing a red bikini top and gray drawstring shorts, who runs toward the water, laughs, then screams in pain from a jellyfish sting, exclaiming 'it hurts, it hurts, it hurts!' and 'Damn the jellyfish!', reacting with shock and disgust to the suggestion of peeing on the sting, and later engaging in an animated conversation with the two men on the beach.",
+    "Man in White T-Shirt": "A man named Joe, wearing a plain white t-shirt and green shorts, initially partially buried in the sand on the beach, who speaks about digging a hole, screams in pain from a jellyfish sting, and later humorously offers his 'hole' for privacy, appearing surprised and slightly disoriented.",
+    "Promotional Still": "A group photo of six characters from the show 'Friends' posing together on a red couch, with the text 'FRIENDS' and 'SUBSCRIBE' displayed in the bottom left corner, serving as an end screen for a YouTube video.",
+    "Refrigerator": "A white refrigerator with magnets and notes attached, visible in the kitchen, contributing to the lived-in feel of the space.",
+    "Man in Green Shirt": "A man in a light green button-up shirt, seated on a brown leather armchair, gesturing expressively while speaking, suggesting a method to identify the student who wrote the evaluation and making a 'Rain Man' joke.",
+    "Man in Black Shirt": "A man in a black long-sleeved shirt, reclining on a white couch with floral cushions, appearing relaxed and amused, reacting with laughter and a smirk to the conversation.",
+    "White Couch": "A white couch with floral-patterned cushions, where the Man in Black Shirt is reclining, serving as a central piece of furniture in the living room."
+  }
+}

@@ -1,0 +1,202 @@
+{
+    "video_id": "video222",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video opens with a male news anchor in a dark blue suit, white shirt, and dark tie, standing in front of a blurred nighttime backdrop of London’s skyline, featuring Big Ben and the Houses of Parliament. He speaks directly to the camera with expressive hand gestures, introducing the topic. The scene transitions to a colorful animated graphic with the text 'ARTIFICIAL INTELLIGENCE Decoded' in bold, modern typography, signaling the segment’s theme. The anchor reappears, continuing his narration. The video then cuts to a series of static news article previews: first, a headline from The New York Times about France fining Google over AI and news media disputes, showing a photo of the Google logo at night; next, a Wired article titled 'Here’s Proof You Can Train an AI Model Without Slurping Copyrighted Content,' illustrated with a stylized image of a person eating letters from a plate; finally, an Associated Press headline about the UN voting on its first AI safety resolution, accompanied by a photo of a woman with gray hair and glasses speaking at a UN meeting. The BBC logo remains in the top left corner throughout, and each article preview includes its respective media outlet’s logo in the bottom right.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "Male News Anchor": "A man in a dark blue suit, white shirt, and dark tie, with neatly styled dark hair, speaking directly to the camera in front of a blurred London skyline backdrop.",
+                "Google Logo": "A brightly lit, colorful Google logo displayed on a building at night, shown in a news article preview.",
+                "Wired Article Illustration": "A stylized illustration of a person in a purple outfit eating green letters from a white plate, symbolizing AI training on text data.",
+                "UN Delegate": "A woman with gray curly hair, wearing glasses and a dark blazer, speaking at a UN meeting, shown in a news article preview.",
+                "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen.",
+                "New York Times Logo": "The black 'NYT' logo in a white square, visible in the bottom right corner of the Google article preview.",
+                "Wired Logo": "The black 'W' logo in a white square, visible in the bottom right corner of the Wired article preview.",
+                "AP Logo": "The black 'AP' logo with a red underline, visible in the bottom right corner of the UN article preview."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The video segment presents a rapid succession of news article previews, each highlighting a different aspect of artificial intelligence's impact on society, all framed within a consistent BBC broadcast layout. The sequence begins with a preview of a BBC World News article featuring the UN Delegate, a woman with gray curly hair, glasses, and a dark blazer, speaking at a UN meeting, with the AP logo visible in the corner. This transitions to a The Verge article preview about Ubisoft’s AI-powered NPCs, showing a character named Bloom in a teal jacket and beanie, with on-screen dialogue and the The Verge logo in the corner. Next, an FT Magazine article appears, titled 'The delivery rider who took on his faceless boss,' displaying three portrait photos of a man with curly hair and glasses against a pink background, with the FT logo visible. This is followed by an AFP article featuring Salman Rushdie, an older man in a dark suit and tie, holding an open certificate, with the AFP logo in the corner. The final preview is from NME, showing James Blunt playing an acoustic guitar on stage, with the NME logo in the corner. Throughout, the BBC logo remains fixed in the top left corner, and each article preview is presented as a static image with clear headlines and source logos, creating a dynamic but visually static montage of AI-related news stories.",
+            "active_entities": {
+                "UN Delegate": "A woman with gray curly hair, wearing glasses and a dark blazer, speaking at a UN meeting, shown in a news article preview with the AP logo in the bottom right corner.",
+                "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen."
+            },
+            "discovered_new_entities": {
+                "The Verge Logo": "The purple and white 'V' logo in a black square, visible in the bottom right corner of the Ubisoft AI NPCs article preview.",
+                "FT Logo": "The black 'FT' logo in a white square, visible in the bottom right corner of the delivery rider article preview.",
+                "AFP Logo": "The blue 'AFP' logo with a white circle, visible in the bottom right corner of the Salman Rushdie article preview.",
+                "NME Logo": "The black 'NME' logo in a white square, visible in the bottom right corner of the James Blunt article preview.",
+                "Bloom (AI NPC)": "A male video game character with a beanie and teal jacket, shown in a screenshot from Ubisoft’s AI-powered game, with dialogue text and a 'Hold LT' prompt visible on screen.",
+                "Delivery Rider": "A man with curly hair and glasses, shown in three portrait photos against a pink background, featured in the FT Magazine article about challenging algorithmic management.",
+                "Salman Rushdie": "An older man with a bald head, wearing a dark suit, tie, and sunglasses, holding an open certificate, shown in the AFP article preview.",
+                "James Blunt": "A man with short brown hair, wearing a dark jacket, playing an acoustic guitar on stage, shown in the NME article preview."
+            }
+        },
+        {
+            "minute": 3,
+            "caption": "The video begins with a news article preview from NME, featuring James Blunt playing an acoustic guitar on stage, with the headline 'James Blunt 'humiliated' by 'generic' AI versions' and a quote from the singer criticizing AI-generated lyrics. The scene transitions to a BBC news studio where a male news anchor in a dark blue suit and a female guest in a light blue blazer are seated at a glossy black desk. The backdrop displays a nighttime London skyline with Big Ben and the River Thames, while a large screen behind them reads 'ARTIFICIAL INTELLIGENCE Decoded'. The anchor gestures while speaking, occasionally glancing at his notes, and the guest listens attentively. The segment then cuts to another article preview from The New York Times, showing a brightly lit Google logo on a building at night, with the headline 'France Fines Google Amid A.I. Dispute With News Media', explaining that Google was fined for failing to negotiate fair licensing deals with media outlets and not informing them it was using their articles to train its chatbot. The video returns to the studio, where the female guest, identified by a lower-third graphic as Madhumita Murgia, Artificial Intelligence Editor at the Financial Times, speaks with expressive hand gestures. A red banner appears at the bottom of the screen stating 'Google fined $271 million by competition watchdog', reinforcing the article's content. The BBC logo remains consistently in the top left corner throughout the segment.",
+            "active_entities": {
+                "Male News Anchor": "A man in a dark blue suit, white shirt, and dark tie, with neatly styled dark hair, speaking directly to the camera in front of a blurred London skyline backdrop, gesturing with his hands while referencing notes on the desk.",
+                "James Blunt": "A man with short brown hair, wearing a dark jacket, playing an acoustic guitar on stage, shown in the NME article preview.",
+                "Google Logo": "A brightly lit, colorful Google logo displayed on a building at night, shown in a news article preview.",
+                "New York Times Logo": "The black 'NYT' logo in a white square, visible in the bottom right corner of the Google article preview.",
+                "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen."
+            },
+            "discovered_new_entities": {
+                "Madhumita Murgia": "A woman with long dark hair, wearing a light blue blazer over a white top, seated at the news desk, speaking with expressive hand gestures, identified by a lower-third graphic as Artificial Intelligence Editor, Financial Times."
+            }
+        },
+        {
+            "minute": 4,
+            "caption": "The video segment opens with a close-up of Madhumita Murgia, the Artificial Intelligence Editor from the Financial Times, seated at a BBC News desk, speaking expressively with hand gestures. She is wearing a light blue blazer over a white top, with long dark hair, and is positioned in front of a red and white geometric backdrop. The lower third displays the headline: 'Google fined $271 million by competition watchdog' under the BBC News banner. The camera then cuts to a wider shot revealing the Male News Anchor, dressed in a dark blue suit, white shirt, and dark tie, seated across from her at a glossy black desk. Behind them, a large screen displays a nighttime view of the London skyline, including the London Eye and Big Ben. The anchor gestures with his hands as he speaks, referencing notes on the desk. The scene transitions to a shot where a large screen behind them displays the title 'ARTIFICIAL INTELLIGENCE Decoded' in bold white text over a colorful abstract background. The two anchors continue their discussion, with Madhumita Murgia occasionally referring to papers in front of her. The camera alternates between close-ups of each speaker and wider shots of the desk, maintaining a professional and dynamic news broadcast atmosphere. The BBC logo remains consistently in the top left corner throughout.",
+            "active_entities": {
+                "Male News Anchor": "A man in a dark blue suit, white shirt, and dark tie, with neatly styled dark hair, seated at a news desk, gesturing with his hands while speaking and referencing notes, positioned in front of a nighttime London skyline backdrop.",
+                "Madhumita Murgia": "A woman with long dark hair, wearing a light blue blazer over a white top, seated at the news desk, speaking with expressive hand gestures, identified by a lower-third graphic as Artificial Intelligence Editor, Financial Times.",
+                "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen."
+            },
+            "discovered_new_entities": {
+                "ARTIFICIAL INTELLIGENCE Decoded": "A large screen display behind the anchors showing the title 'ARTIFICIAL INTELLIGENCE Decoded' in bold white text over a colorful abstract background, indicating the segment's theme."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video begins with a static image of a Wired article titled 'Here’s Proof You Can Train an AI Model Without Slurping Copyrighted Content,' featuring an illustration of a person in a purple outfit eating green letters from a plate, symbolizing AI training on text data. The Wired logo is visible in the bottom right corner, and the BBC logo is in the top left. The scene transitions to a BBC News studio where Madhumita Murgia, a woman with long dark hair wearing a light blue blazer over a white top, is seated at a news desk. She speaks expressively, using hand gestures, as a red lower-third graphic reads 'AI training dataset free from copyright concerns' with the BBC News logo. The camera alternates between close-ups of Madhumita and wider shots showing her alongside the Male News Anchor, who is dressed in a dark blue suit, white shirt, and dark tie, seated across from her. Behind them, a large screen displays 'ARTIFICIAL INTELLIGENCE Decoded' over a colorful abstract background. The backdrop features a nighttime London skyline, including the London Eye and Big Ben, visible through a window. The Male News Anchor listens attentively, occasionally referencing notes and gesturing as he engages in the discussion. The studio lighting is bright and professional, emphasizing the formal news setting.",
+            "active_entities": {
+                "Wired Article Illustration": "A stylized illustration of a person in a purple outfit eating green letters from a white plate, symbolizing AI training on text data, shown at the start of the segment.",
+                "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen.",
+                "Wired Logo": "The black 'W' logo in a white square, visible in the bottom right corner of the Wired article preview.",
+                "Madhumita Murgia": "A woman with long dark hair, wearing a light blue blazer over a white top, seated at the news desk, speaking with expressive hand gestures, identified by a lower-third graphic as Artificial Intelligence Editor, Financial Times.",
+                "Male News Anchor": "A man in a dark blue suit, white shirt, and dark tie, with neatly styled dark hair, seated at a news desk, gesturing with his hands while speaking and referencing notes, positioned in front of a nighttime London skyline backdrop.",
+                "ARTIFICIAL INTELLIGENCE Decoded": "A large screen display behind the anchors showing the title 'ARTIFICIAL INTELLIGENCE Decoded' in bold white text over a colorful abstract background, indicating the segment's theme."
+            },
+            "discovered_new_entities": {
+                "BBC News Lower Third": "A red banner at the bottom of the screen displaying 'AI training dataset free from copyright concerns' with the BBC News logo."
+            }
+        },
+        {
+            "minute": 6,
+            "caption": "The video segment opens with a news studio setting featuring the Male News Anchor and Madhumita Murgia seated at a glossy black desk, engaged in a discussion about AI training datasets free from copyright concerns, as indicated by the BBC News lower third. The backdrop alternates between a nighttime London skyline with illuminated landmarks like Big Ben and the London Eye, and a vibrant red-and-white geometric pattern. The Male News Anchor, dressed in a dark blue suit, white shirt, and dark tie, gestures expressively while speaking and occasionally refers to notes. Madhumita Murgia, wearing a light blue blazer over a white top, listens attentively, then responds with animated hand gestures, emphasizing her points. Behind them, a large screen displays the title 'ARTIFICIAL INTELLIGENCE Decoded' over a colorful abstract background, reinforcing the segment’s theme. The camera alternates between wide shots capturing both anchors and close-ups focusing on each speaker, highlighting their facial expressions and engagement. The BBC logo remains consistently in the top left corner, and the red lower third with the topic remains visible throughout, anchoring the segment’s focus on AI and copyright issues.",
+            "active_entities": {
+                "Male News Anchor": "A man in a dark blue suit, white shirt, and dark tie, with neatly styled dark hair, seated at a news desk, gesturing with his hands while speaking and referencing notes, positioned in front of a nighttime London skyline backdrop.",
+                "Madhumita Murgia": "A woman with long dark hair, wearing a light blue blazer over a white top, seated at the news desk, speaking with expressive hand gestures, identified by a lower-third graphic as Artificial Intelligence Editor, Financial Times.",
+                "ARTIFICIAL INTELLIGENCE Decoded": "A large screen display behind the anchors showing the title 'ARTIFICIAL INTELLIGENCE Decoded' in bold white text over a colorful abstract background, indicating the segment's theme.",
+                "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen.",
+                "BBC News Lower Third": "A red banner at the bottom of the screen displaying 'AI training dataset free from copyright concerns' with the BBC News logo."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 7,
+            "caption": "The segment opens with the Male News Anchor and Madhumita Murgia seated at a sleek, reflective news desk in a modern studio, with a nighttime London skyline backdrop featuring the London Eye and Big Ben. The Male News Anchor, dressed in a dark blue suit, white shirt, and dark tie, gestures while speaking and referencing papers. Madhumita Murgia, wearing a light blue blazer over a white top, listens attentively and then begins to speak, using expressive hand gestures. Behind them, a large screen displays the title 'ARTIFICIAL INTELLIGENCE Decoded' in bold white text over a colorful abstract background. As the conversation progresses, a red lower-third graphic appears with the text 'UN resolution on artificial intelligence' and the BBC News logo. The camera alternates between close-ups of Madhumita Murgia and wider shots of both anchors. The segment transitions to a news article preview showing a woman with gray curly hair, wearing glasses and a dark blazer, speaking at a UN meeting, with the headline 'The UN will vote on its first resolution on artificial intelligence, aimed at ensuring its safety' and the AP logo in the bottom right corner. The BBC logo remains consistently in the top left corner throughout.",
+            "active_entities": {
+                "Male News Anchor": "A man in a dark blue suit, white shirt, and dark tie, with neatly styled dark hair, seated at a news desk, gesturing with his hands while speaking and referencing notes, positioned in front of a nighttime London skyline backdrop.",
+                "Madhumita Murgia": "A woman with long dark hair, wearing a light blue blazer over a white top, seated at the news desk, speaking with expressive hand gestures, identified by a lower-third graphic as Artificial Intelligence Editor, Financial Times.",
+                "ARTIFICIAL INTELLIGENCE Decoded": "A large screen display behind the anchors showing the title 'ARTIFICIAL INTELLIGENCE Decoded' in bold white text over a colorful abstract background, indicating the segment's theme.",
+                "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen.",
+                "BBC News Lower Third": "A red banner at the bottom of the screen displaying 'UN resolution on artificial intelligence' with the BBC News logo.",
+                "UN Delegate": "A woman with gray curly hair, wearing glasses and a dark blazer, speaking at a UN meeting, shown in a news article preview with the AP logo in the bottom right corner."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 8,
+            "caption": "The video segment begins with a news article preview from BBC World News, featuring a headline about the UN voting on its first resolution on artificial intelligence to ensure its safety. The image shows the UN Delegate, a woman with gray curly hair and glasses, speaking at a meeting, with the AP logo in the bottom right corner. The scene transitions to a BBC News studio where the Male News Anchor, dressed in a dark blue suit, white shirt, and dark tie, is seated at a glossy desk with a nighttime London skyline backdrop. He gestures while speaking to Madhumita Murgia, who is seated across from him, wearing a light blue blazer over a white top. The studio features a large screen behind them displaying 'ARTIFICIAL INTELLIGENCE Decoded' over a colorful abstract background. A red lower-third banner reads 'UN resolution on artificial intelligence' with the BBC News logo. The anchor and Madhumita Murgia engage in a discussion, with the anchor referencing notes and occasionally flipping through papers. Madhumita Murgia speaks expressively, using hand gestures, and is identified by a lower-third graphic as 'Artificial Intelligence Editor, Financial Times'. The camera alternates between close-ups of each speaker and wider shots of the desk, maintaining a professional and informative tone throughout the segment.",
+            "active_entities": {
+                "Male News Anchor": "A man in a dark blue suit, white shirt, and dark tie, with neatly styled dark hair, seated at a news desk, gesturing with his hands while speaking and referencing notes, positioned in front of a nighttime London skyline backdrop.",
+                "Madhumita Murgia": "A woman with long dark hair, wearing a light blue blazer over a white top, seated at the news desk, speaking with expressive hand gestures, identified by a lower-third graphic as Artificial Intelligence Editor, Financial Times.",
+                "ARTIFICIAL INTELLIGENCE Decoded": "A large screen display behind the anchors showing the title 'ARTIFICIAL INTELLIGENCE Decoded' in bold white text over a colorful abstract background, indicating the segment's theme.",
+                "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen.",
+                "BBC News Lower Third": "A red banner at the bottom of the screen displaying 'UN resolution on artificial intelligence' with the BBC News logo.",
+                "UN Delegate": "A woman with gray curly hair, wearing glasses and a dark blazer, speaking at a UN meeting, shown in a news article preview with the AP logo in the bottom right corner."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 9,
+            "caption": "The segment begins with the Male News Anchor, dressed in a dark blue suit, white shirt, and dark tie, seated at a news desk against a nighttime London skyline backdrop featuring Big Ben and the Houses of Parliament. He speaks directly to the camera, gesturing with his right hand while holding a pen, and the BBC News lower third displays 'UN resolution on artificial intelligence'. The scene then transitions to a video game prototype screenshot from Ubisoft, showing Bloom (AI NPC), a male character in a beanie and teal jacket, standing in a dimly lit room with a computer monitor and cardboard boxes. On-screen dialogue options appear, including 'Speak to Bloom' and 'Get closer to Bloom', with a relationship meter labeled 'Bloom relationship' showing levels 1 and 2. Bloom responds to the player's query, 'Tell me one word why I should stay,' with a motivational speech about passion and fighting for what's right. The screen also displays 'GDC 2024 BUILD - PROTOTYPE NOT ACTUAL GAME FOOTAGE' in the bottom right corner, indicating the footage is not final. The BBC logo remains in the top left throughout.",
+            "active_entities": {
+                "Male News Anchor": "A man in a dark blue suit, white shirt, and dark tie, with neatly styled dark hair, seated at a news desk, gesturing with his hands while speaking and referencing notes, positioned in front of a nighttime London skyline backdrop.",
+                "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen.",
+                "BBC News Lower Third": "A red banner at the bottom of the screen displaying 'UN resolution on artificial intelligence' with the BBC News logo.",
+                "Bloom (AI NPC)": "A male video game character with a beanie and teal jacket, shown in a screenshot from Ubisoft’s AI-powered game, with dialogue text and a 'Bloom relationship' meter visible on screen, standing in a dimly lit room with a computer monitor and cardboard boxes. The screen also displays 'GDC 2024 BUILD - PROTOTYPE NOT ACTUAL GAME FOOTAGE' in the bottom right corner."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 10,
+            "caption": "The video segment showcases a dialogue sequence from a prototype game build, featuring Bloom (AI NPC), a male character wearing a black beanie and a teal denim jacket over a patterned shirt, standing in a dimly lit, cluttered room with cardboard boxes and a white desk. On the desk is a computer monitor displaying a blue abstract interface, and two white bottles are placed beside it. A neon sign with yellow lettering is visible in the background. The scene is framed by an on-screen UI overlay from the BBC, including a 'Bloom relationship' meter that progresses from 1 to 2 as the conversation unfolds. Bloom speaks passionately about fighting for a better world, emphasizing family and resilience, while the player character, Nelson, expresses hesitation due to having a family and two daughters. The dialogue reveals Bloom’s personal losses—his son, friends, and home—and how these tragedies fuel his determination, leading him to find a new family in the resistance. The UI also displays optional objectives such as 'Learn more about the megacorps' and 'Ask about the resistance,' and a note in the bottom right corner states 'GDC 2024 BUILD - PROTOTYPE NOT ACTUAL GAME FOOTAGE.' The interaction is emotionally charged, with Bloom using empathetic gestures and direct eye contact to build rapport, while the relationship meter visually reflects the growing connection.",
+            "active_entities": {
+                "Bloom (AI NPC)": "A male video game character with a beanie and teal jacket, shown in a screenshot from Ubisoft’s AI-powered game, with dialogue text and a 'Bloom relationship' meter visible on screen, standing in a dimly lit room with a computer monitor and cardboard boxes. The screen also displays 'GDC 2024 BUILD - PROTOTYPE NOT ACTUAL GAME FOOTAGE' in the bottom right corner.",
+                "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 11,
+            "caption": "The segment opens with a wide shot of the BBC news studio, where the Male News Anchor and Madhumita Murgia are seated at a glossy black desk, engaged in a discussion under the large screen displaying 'ARTIFICIAL INTELLIGENCE Decoded'. The Male News Anchor gestures with his hands while holding a pen, referencing notes, while Madhumita Murgia listens attentively, occasionally writing. The backdrop features a nighttime view of London, including the Tower Bridge and Big Ben. The camera then cuts to a close-up of Madhumita Murgia, with a red lower-third graphic identifying her as 'Artificial Intelligence Editor, Financial Times' under the BBC News banner. The scene transitions to a full-screen graphic of an article from The Verge titled 'Ubisoft let me actually speak with its new AI-powered video game NPCs', featuring Bloom (AI NPC) in a dimly lit room with dialogue text and a 'Bloom relationship' meter, alongside the The Verge Logo. The segment returns to the studio, where the Male News Anchor continues speaking, and a red banner appears with the text 'Real speech to speech AI conversations'. The camera then shows a close-up of the Male News Anchor as he hands a document to Madhumita Murgia. The next graphic displays an article from FT Magazine titled 'The delivery rider who took on his faceless boss', showing three portrait photos of the Delivery Rider against a pink background, with the FT Logo in the corner. The camera cuts back to Madhumita Murgia, now with a new red banner reading 'Delivery worker takes on Uber Eats over algorithm', as she speaks with expressive hand gestures. The final shot returns to the wide studio view, with both anchors seated, the Male News Anchor listening intently as Madhumita Murgia continues her point, the London skyline visible behind them.",
+            "active_entities": {
+                "Male News Anchor": "A man in a dark blue suit, white shirt, and dark tie, with neatly styled dark hair, seated at a news desk, gesturing with his hands while speaking and referencing notes, positioned in front of a nighttime London skyline backdrop.",
+                "Madhumita Murgia": "A woman with long dark hair, wearing a light blue blazer over a white top, seated at the news desk, speaking with expressive hand gestures, identified by a lower-third graphic as Artificial Intelligence Editor, Financial Times.",
+                "ARTIFICIAL INTELLIGENCE Decoded": "A large screen display behind the anchors showing the title 'ARTIFICIAL INTELLIGENCE Decoded' in bold white text over a colorful abstract background, indicating the segment's theme.",
+                "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen.",
+                "The Verge Logo": "The purple and white 'V' logo in a black square, visible in the bottom right corner of the Ubisoft AI NPCs article preview.",
+                "Bloom (AI NPC)": "A male video game character with a beanie and teal jacket, shown in a screenshot from Ubisoft’s AI-powered game, with dialogue text and a 'Bloom relationship' meter visible on screen, standing in a dimly lit room with a computer monitor and cardboard boxes. The screen also displays 'GDC 2024 BUILD - PROTOTYPE NOT ACTUAL GAME FOOTAGE' in the bottom right corner.",
+                "FT Logo": "The black 'FT' logo in a white square, visible in the bottom right corner of the delivery rider article preview.",
+                "Delivery Rider": "A man with curly hair and glasses, shown in three portrait photos against a pink background, featured in the FT Magazine article about challenging algorithmic management.",
+                "BBC News Lower Third": "A red banner at the bottom of the screen displaying 'Real speech to speech AI conversations' and later 'Delivery worker takes on Uber Eats over algorithm' with the BBC News logo."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 12,
+            "caption": "The segment opens with a close-up of Madhumita Murgia, the Artificial Intelligence Editor from the Financial Times, speaking passionately at a news desk, her hands gesturing as she discusses the topic. The BBC News lower third reads 'Delivery worker takes on Uber Eats over algorithm'. The camera then pulls back to reveal the full studio setup, showing Madhumita seated across from the Male News Anchor at a sleek, reflective desk. Behind them, a large screen displays 'ARTIFICIAL INTELLIGENCE Decoded' over a colorful abstract background. The Male News Anchor listens attentively, then responds, gesturing with his hands while referencing notes. The backdrop behind them shifts to a nighttime view of the London skyline, including the London Eye and Big Ben. The anchor picks up a paper and continues the discussion, while Madhumita listens and occasionally interjects. The segment transitions to a full-screen graphic of an AFP article featuring Salman Rushdie, an older man with a bald head, wearing a dark suit, tie, and sunglasses, holding an open certificate, with the headline 'Salman Rushdie: AI only poses threat to unoriginal writers'. The screen then cuts back to the studio, where the Male News Anchor gestures toward the screen as Madhumita listens. The segment concludes with a full-screen graphic of an NME article about James Blunt, showing him playing an acoustic guitar on stage, with the headline 'James Blunt “humiliated” by “generic” AI versions of his lyrics'. Throughout, the BBC logo remains in the top left corner, and the red BBC News lower third persists at the bottom.",
+            "active_entities": {
+                "Madhumita Murgia": "A woman with long dark hair, wearing a light blue blazer over a white top, seated at the news desk, speaking with expressive hand gestures, identified by a lower-third graphic as Artificial Intelligence Editor, Financial Times.",
+                "Male News Anchor": "A man in a dark blue suit, white shirt, and dark tie, with neatly styled dark hair, seated at a news desk, gesturing with his hands while speaking and referencing notes, positioned in front of a nighttime London skyline backdrop.",
+                "ARTIFICIAL INTELLIGENCE Decoded": "A large screen display behind the anchors showing the title 'ARTIFICIAL INTELLIGENCE Decoded' in bold white text over a colorful abstract background, indicating the segment's theme.",
+                "BBC News Lower Third": "A red banner at the bottom of the screen displaying 'Delivery worker takes on Uber Eats over algorithm' with the BBC News logo.",
+                "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen.",
+                "Salman Rushdie": "An older man with a bald head, wearing a dark suit, tie, and sunglasses, holding an open certificate, shown in the AFP article preview.",
+                "AFP Logo": "The blue 'AFP' logo with a white circle, visible in the bottom right corner of the Salman Rushdie article preview.",
+                "James Blunt": "A man with short brown hair, wearing a dark jacket, playing an acoustic guitar on stage, shown in the NME article preview.",
+                "NME Logo": "The black 'NME' logo in a white square, visible in the bottom right corner of the James Blunt article preview."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 13,
+            "caption": "The segment opens with a close-up of Madhumita Murgia, the Artificial Intelligence Editor from the Financial Times, seated at a news desk, wearing a light blue blazer over a white top, speaking expressively with hand gestures. The background features a bold red and white geometric pattern, and the BBC logo is visible in the top left corner. A red lower-third banner appears, reading 'Salman Rushdie says AI lacks originality' with the BBC News logo. The camera then cuts to a wider shot showing Madhumita and the Male News Anchor seated across a glossy black desk. Behind them, a large screen displays 'ARTIFICIAL INTELLIGENCE Decoded' over a colorful abstract design. The Male News Anchor, dressed in a dark blue suit, white shirt, and dark tie, listens attentively, occasionally glancing at notes. The lower-third banner updates to 'James Blunt unimpressed by AI lyrics'. The camera alternates between close-ups of Madhumita speaking and the Male News Anchor reacting, smiling and gesturing as he engages in the conversation. The backdrop behind the Male News Anchor shifts to a nighttime view of London, including Big Ben and the Houses of Parliament, illuminated across the River Thames. The segment maintains a professional, dynamic tone, with both anchors actively participating in a discussion on AI’s impact on creativity, as indicated by the on-screen text and their animated expressions.",
+            "active_entities": {
+                "Madhumita Murgia": "A woman with long dark hair, wearing a light blue blazer over a white top, seated at the news desk, speaking with expressive hand gestures, identified by a lower-third graphic as Artificial Intelligence Editor, Financial Times.",
+                "Male News Anchor": "A man in a dark blue suit, white shirt, and dark tie, with neatly styled dark hair, seated at a news desk, gesturing with his hands while speaking and referencing notes, positioned in front of a nighttime London skyline backdrop.",
+                "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen.",
+                "ARTIFICIAL INTELLIGENCE Decoded": "A large screen display behind the anchors showing the title 'ARTIFICIAL INTELLIGENCE Decoded' in bold white text over a colorful abstract background, indicating the segment's theme.",
+                "BBC News Lower Third": "A red banner at the bottom of the screen displaying 'Salman Rushdie says AI lacks originality' and later 'James Blunt unimpressed by AI lyrics' with the BBC News logo."
+            },
+            "discovered_new_entities": {}
+        }
+    ],
+    "entity_library": {
+        "Male News Anchor": "A man in a dark blue suit, white shirt, and dark tie, with neatly styled dark hair, seated at a news desk, gesturing with his hands while speaking and referencing notes, positioned in front of a nighttime London skyline backdrop.",
+        "Google Logo": "A brightly lit, colorful Google logo displayed on a building at night, shown in a news article preview.",
+        "Wired Article Illustration": "A stylized illustration of a person in a purple outfit eating green letters from a white plate, symbolizing AI training on text data, shown at the start of the segment.",
+        "UN Delegate": "A woman with gray curly hair, wearing glasses and a dark blazer, speaking at a UN meeting, shown in a news article preview with the AP logo in the bottom right corner.",
+        "BBC Logo": "The white 'BBC' logo in a black square, consistently displayed in the top left corner of the screen.",
+        "New York Times Logo": "The black 'NYT' logo in a white square, visible in the bottom right corner of the Google article preview.",
+        "Wired Logo": "The black 'W' logo in a white square, visible in the bottom right corner of the Wired article preview.",
+        "AP Logo": "The black 'AP' logo with a red underline, visible in the bottom right corner of the UN article preview.",
+        "The Verge Logo": "The purple and white 'V' logo in a black square, visible in the bottom right corner of the Ubisoft AI NPCs article preview.",
+        "FT Logo": "The black 'FT' logo in a white square, visible in the bottom right corner of the delivery rider article preview.",
+        "AFP Logo": "The blue 'AFP' logo with a white circle, visible in the bottom right corner of the Salman Rushdie article preview.",
+        "NME Logo": "The black 'NME' logo in a white square, visible in the bottom right corner of the James Blunt article preview.",
+        "Bloom (AI NPC)": "A male video game character with a beanie and teal jacket, shown in a screenshot from Ubisoft’s AI-powered game, with dialogue text and a 'Bloom relationship' meter visible on screen, standing in a dimly lit room with a computer monitor and cardboard boxes. The screen also displays 'GDC 2024 BUILD - PROTOTYPE NOT ACTUAL GAME FOOTAGE' in the bottom right corner.",
+        "Delivery Rider": "A man with curly hair and glasses, shown in three portrait photos against a pink background, featured in the FT Magazine article about challenging algorithmic management.",
+        "Salman Rushdie": "An older man with a bald head, wearing a dark suit, tie, and sunglasses, holding an open certificate, shown in the AFP article preview.",
+        "James Blunt": "A man with short brown hair, wearing a dark jacket, playing an acoustic guitar on stage, shown in the NME article preview.",
+        "Madhumita Murgia": "A woman with long dark hair, wearing a light blue blazer over a white top, seated at the news desk, speaking with expressive hand gestures, identified by a lower-third graphic as Artificial Intelligence Editor, Financial Times.",
+        "ARTIFICIAL INTELLIGENCE Decoded": "A large screen display behind the anchors showing the title 'ARTIFICIAL INTELLIGENCE Decoded' in bold white text over a colorful abstract background, indicating the segment's theme.",
+        "BBC News Lower Third": "A red banner at the bottom of the screen displaying 'Salman Rushdie says AI lacks originality' and later 'James Blunt unimpressed by AI lyrics' with the BBC News logo."
+    }
+}

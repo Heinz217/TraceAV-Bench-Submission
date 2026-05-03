@@ -1,0 +1,197 @@
+{
+    "video_id": "video91",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video segment features a split-screen layout with a large white grid background on the left displaying red handwritten Chinese characters '偷懒. 现实.' (meaning 'Slacking. Reality.') in a casual, expressive script. On the right, a smaller inset video shows a young man with short dark hair, wearing a white t-shirt with a graphic print, standing against a plain green chalkboard-like background. He appears to be speaking or presenting, occasionally gesturing with his hands, shifting his gaze, and moving his head slightly as if emphasizing points. The top right corner displays a yellow rectangular block with the text 'HuanFuRen' and the Bilibili logo, indicating the creator or platform. The overall atmosphere is educational or reflective, possibly a vlog or lecture-style video discussing themes of laziness and reality. The man’s expressions and movements suggest he is engaged in delivering a message or commentary, though no audio is available to confirm the content of his speech.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "White Grid Background": "A large white background with a subtle grid pattern, occupying the left side of the screen, featuring red handwritten Chinese characters '偷懒. 现实.' in a casual, expressive style.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The video segment features a split-screen layout with a large white grid background on the left and a small inset video on the right. The white grid background displays red handwritten Chinese characters '偷懒. 现实.' (Lazy. Reality.) in a casual, expressive style. As the segment progresses, the character '反' (opposite/reverse) is added below the initial text, forming '反点' (reverse point), suggesting a thematic shift or counterpoint. On the right, the Young Man, with short dark hair and a white graphic t-shirt, stands in front of a green chalkboard, actively speaking and gesturing with his hands, indicating he is explaining or discussing the content on the whiteboard. His expressions and movements are dynamic, emphasizing key points. The yellow block in the top right corner remains static, displaying 'HuanFuRen' and the Bilibili logo, serving as a consistent branding element. The overall atmosphere is educational or explanatory, with a focus on the evolving text and the speaker’s engagement.",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "White Grid Background": "A large white background with a subtle grid pattern, occupying the left side of the screen, featuring red handwritten Chinese characters '偷懒. 现实.' and later '反点' in a casual, expressive style.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 3,
+            "caption": "The video segment features a split-screen layout with a large white grid background on the left and a small inset video on the right showing a young man speaking. The white grid background displays red handwritten Chinese characters '偷懒. 现实.' and '反点' in a casual, expressive style. As the segment progresses, the young man gestures while speaking, and at around 0:28, a simple red outline of a rectangular shape with a small circle and a downward arrow appears on the white grid background, followed by a circle drawn around the small circle. Later, at 0:56, the word '现实' is circled in red. The young man continues to speak and gesture throughout, maintaining an engaged demeanor. The yellow block in the top right corner remains static, displaying 'HuanFuRen' and the Bilibili logo, indicating the creator or platform branding. The overall atmosphere is educational or explanatory, with the visual elements evolving to support the spoken content.",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "White Grid Background": "A large white background with a subtle grid pattern, occupying the left side of the screen, featuring red handwritten Chinese characters '偷懒. 现实.' and '反点' in a casual, expressive style, with additional red drawings of a rectangular shape, a small circle with an arrow, and a circled '现实' appearing over time.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 4,
+            "caption": "The video begins with a split-screen layout: on the left, a white grid background displays red handwritten Chinese characters '偷懒. 现实.' and '反点', along with a simple red drawing of a rectangular shape containing a small circle with an arrow, and a circled '现实'. On the right, a small inset shows the Young Man, who is actively speaking and gesturing while standing in front of a green chalkboard. The top right corner features the Yellow Block with Text, displaying 'HuanFuRen' and the Bilibili logo. As the video progresses, the left side transitions to a digital presentation interface with a light gray background, showing a menu with four numbered items: '质点的概念', '质点的判断', '练习', and '归纳总结'. The Young Man continues to speak and gesture, guiding the viewer through the content. The presentation then navigates to a slide titled '1. 质点的概念', where the term '质点' appears, followed by its definition: '一个有质量的点'. A red circle then appears, containing the text '只有质量 没有体积和大小的理想模型', emphasizing the concept of a point mass as an idealized model with mass but no volume or size. The Young Man remains engaged, using hand gestures to explain the concept throughout the transition and presentation.",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "White Grid Background": "A large white background with a subtle grid pattern, occupying the left side of the screen, featuring red handwritten Chinese characters '偷懒. 现实.' and '反点' in a casual, expressive style, with additional red drawings of a rectangular shape, a small circle with an arrow, and a circled '现实' appearing over time.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding."
+            },
+            "discovered_new_entities": {
+                "Digital Presentation Interface": "A light gray digital interface with a menu of four items: '质点的概念', '质点的判断', '练习', and '归纳总结', featuring numbered blue circles and a yellow icon labeled '目录', used to navigate the educational content.",
+                "Concept Slide": "A slide titled '1. 质点的概念' with the term '质点' displayed prominently, followed by its definition '一个有质量的点' and a red circle containing the text '只有质量 没有体积和大小的理想模型', visually explaining the physics concept of a point mass."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video segment presents a static educational slide titled '1. 质点的概念' (Concept of a Point Mass) on the left side of the screen, featuring a light gray digital interface with a red circle containing the text '只有质量 没有体积和大小的理想模型' (Only mass, no volume or size, ideal model), which defines a point mass in physics. The slide also includes the definition '质点: 一个有质量的点' (Point mass: a point with mass) above the circle. On the right side, a small inset video shows the Young Man, who is actively speaking and gesturing with his hands, likely explaining the concept. He wears a white t-shirt with a graphic print and stands in front of a green chalkboard background. The yellow block in the top right corner displays 'HuanFuRen' and the Bilibili logo, indicating the creator or platform. The scene remains consistent throughout the minute, with no changes in the slide or background, and the Young Man continues his explanation with expressive hand movements and facial expressions, emphasizing key points about the idealized model of a point mass.",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "Concept Slide": "A slide titled '1. 质点的概念' with the term '质点' displayed prominently, followed by its definition '一个有质量的点' and a red circle containing the text '只有质量 没有体积和大小的理想模型', visually explaining the physics concept of a point mass.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 6,
+            "caption": "The video begins with a presentation slide titled '1. 质点的概念' (Concept of a Point Mass), featuring a red circle with the text '只有质量 没有体积和大小的理想模型' (Only mass, no volume or size, ideal model), explaining the physics concept of a point mass. The Young Man, visible in a small inset on the right, gestures and speaks while the slide remains on screen. The scene transitions to a digital interface with a menu of four options: '质点的概念', '质点的判断', '练习', and '归纳总结', accompanied by numbered blue circles and a yellow '目录' (Table of Contents) icon. The Young Man continues to explain, pointing toward the interface as if navigating the content. The interface then transitions to a new slide titled '如何判断' (How to Judge), with the text '看研究问题与形状、体积是否相关' (Check if the research problem is related to shape and volume), indicating a shift to the criteria for determining when an object can be treated as a point mass. Throughout, the Yellow Block with Text remains in the top right corner, and the background is a consistent light gray digital interface.",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "Digital Presentation Interface": "A light gray digital interface with a menu of four items: '质点的概念', '质点的判断', '练习', and '归纳总结', featuring numbered blue circles and a yellow icon labeled '目录', used to navigate the educational content.",
+                "Concept Slide": "A slide titled '1. 质点的概念' with the term '质点' displayed prominently, followed by its definition '一个有质量的点' and a red circle containing the text '只有质量 没有体积和大小的理想模型', visually explaining the physics concept of a point mass.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding."
+            },
+            "discovered_new_entities": {
+                "Judgment Slide": "A new slide titled '如何判断' (How to Judge) with the text '看研究问题与形状、体积是否相关' (Check if the research problem is related to shape and volume), introduced as the next topic in the presentation."
+            }
+        },
+        {
+            "minute": 7,
+            "caption": "The video segment begins with a slide titled '如何判断' (How to Judge), featuring a red circle containing the text '看研究问题与形状、体积是否相关' (Check if the research problem is related to shape and volume), indicating the core criterion for determining if an object can be treated as a point mass. The Young Man, visible in a small inset on the right, gestures and speaks, explaining the concept. The presentation then transitions to a new slide titled '2. 质点的判断' (2. Judgment of Point Mass), which lists three examples: '例题1: 松鼠搬家' (Example 1: Squirrel Moving House), '例题2: 地球轨迹' (Example 2: Earth's Trajectory), and '例题3: 火车轨迹' (Example 3: Train's Trajectory). The Young Man points to the first example, and the screen shifts to a detailed illustration labeled '研究松鼠搬家的轨迹' (Studying the Squirrel's Moving Path), showing a blue dashed line tracing a curved path from a tree to a squirrel. The Young Man continues to explain, using hand gestures to emphasize the idea that for studying the squirrel's trajectory, its shape and size are irrelevant, making it a suitable candidate for a point mass model. The visual narrative flows from a general rule to a specific, illustrative example, with the Young Man actively guiding the viewer through the logic.",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "Judgment Slide": "A slide titled '如何判断' (How to Judge) with the text '看研究问题与形状、体积是否相关' (Check if the research problem is related to shape and volume), introduced as the next topic in the presentation.",
+                "Digital Presentation Interface": "A light gray digital interface with a menu of four items: '质点的概念', '质点的判断', '练习', and '归纳总结', featuring numbered blue circles and a yellow icon labeled '目录', used to navigate the educational content.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding."
+            },
+            "discovered_new_entities": {
+                "New Example Slide": "A slide titled '2. 质点的判断' (2. Judgment of Point Mass) listing three examples: '例题1: 松鼠搬家', '例题2: 地球轨迹', and '例题3: 火车轨迹', with the first example highlighted and expanded upon.",
+                "Squirrel Trajectory Illustration": "An animated diagram titled '研究松鼠搬家的轨迹' (Studying the Squirrel's Moving Path), showing a blue dashed line tracing a curved path from a stylized tree to a small orange squirrel, visually representing the concept of motion without regard to the object's physical dimensions."
+            }
+        },
+        {
+            "minute": 8,
+            "caption": "The video segment presents a static educational slide titled '研究松鼠搬家的轨迹' (Studying the Squirrel's Moving Path) as part of a physics lesson, displayed on a light gray digital interface with a blue header. The slide features a stylized blue tree icon on the left and a small orange squirrel on the right, connected by a curved blue dashed line representing the squirrel's trajectory. In the bottom right corner, the Young Man continues to speak and gesture, explaining the concept, while the Yellow Block with Text remains visible in the top right corner. The interface includes the FOCUSKY logo in the top left and the Bilibili branding. The cursor occasionally moves over the trajectory line, suggesting interactive elements or emphasis during the explanation. The overall atmosphere is instructional, with the visual focus on the animated diagram to illustrate motion without considering the squirrel's physical size, aligning with the concept of a point mass discussed earlier in the presentation.",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "Squirrel Trajectory Illustration": "An animated diagram titled '研究松鼠搬家的轨迹' (Studying the Squirrel's Moving Path), showing a blue dashed line tracing a curved path from a stylized tree to a small orange squirrel, visually representing the concept of motion without regard to the object's physical dimensions.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding.",
+                "Digital Presentation Interface": "A light gray digital interface with a menu of four items: '质点的概念', '质点的判断', '练习', and '归纳总结', featuring numbered blue circles and a yellow icon labeled '目录', used to navigate the educational content."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 9,
+            "caption": "The video segment begins with a digital presentation interface displaying a slide titled '研究松鼠的性别' (Studying the Squirrel's Gender), featuring an orange stylized squirrel illustration and a blue dashed line beneath it. The Young Man, visible in a small inset on the right, gestures and speaks as the slide evolves: first, a red female symbol (♀) appears to the left of the squirrel, followed by a black male symbol (♂) to the right, visually representing gender distinction. The Young Man continues explaining, maintaining eye contact and using hand movements to emphasize points. The scene then transitions to a new slide titled '2. 质点的判断' (2. Judgment of Point Mass), which lists three examples: '例题1: 松鼠搬家' (Example 1: Squirrel Moving Home), '例题2: 地球轨迹' (Example 2: Earth's Trajectory), and '例题3: 火车轨迹' (Example 3: Train's Trajectory). The first example is highlighted, and the presentation advances to a new slide titled '研究地球的自转' (Studying Earth's Rotation), showing a blue globe with a yellow curved line indicating rotation. Throughout, the Yellow Block with Text remains in the top right corner, and the Digital Presentation Interface is visible at the bottom, showing navigation controls and slide progress (10/22 to 11/22).",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "Digital Presentation Interface": "A light gray digital interface with a menu of four items: '质点的概念', '质点的判断', '练习', and '归纳总结', featuring numbered blue circles and a yellow icon labeled '目录', used to navigate the educational content.",
+                "New Example Slide": "A slide titled '2. 质点的判断' (2. Judgment of Point Mass) listing three examples: '例题1: 松鼠搬家', '例题2: 地球轨迹', and '例题3: 火车轨迹', with the first example highlighted and expanded upon.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding.",
+                "Squirrel Trajectory Illustration": "An animated diagram titled '研究松鼠搬家的轨迹' (Studying the Squirrel's Moving Path), showing a blue dashed line tracing a curved path from a stylized tree to a small orange squirrel, visually representing the concept of motion without regard to the object's physical dimensions.",
+                "Judgment Slide": "A slide titled '如何判断' (How to Judge) with the text '看研究问题与形状、体积是否相关' (Check if the research problem is related to shape and volume), introduced as the next topic in the presentation."
+            },
+            "discovered_new_entities": {
+                "Earth Rotation Illustration": "A slide titled '研究地球的自转' (Studying Earth's Rotation) featuring a blue globe with a yellow curved line indicating the Earth's rotational path, introduced as the next example in the presentation."
+            }
+        },
+        {
+            "minute": 10,
+            "caption": "The video segment begins with a slide titled '研究地球的自转' (Studying Earth's Rotation), featuring a blue globe icon centered on a light gray background. The Young Man, visible in a small inset on the right, gestures and speaks while explaining the concept. A curved black arrow appears on the globe, illustrating Earth's rotational direction. The scene then transitions to a new slide titled '研究地球的公转轨迹' (Studying Earth's Orbital Path), labeled '典例 2' (Classic Example 2), with a red circle labeled '太阳' (Sun) appearing on the left side of the screen. The Young Man continues to explain, maintaining his position and expressive hand movements. The interface remains consistent with the yellow block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, while the background of the main slide retains its light gray, clean design. The transition between slides is smooth, maintaining focus on the educational content and the presenter’s explanation.",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "Earth Rotation Illustration": "A slide titled '研究地球的自转' (Studying Earth's Rotation) featuring a blue globe with a yellow curved line indicating the Earth's rotational path, introduced as the next example in the presentation.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding.",
+                "New Example Slide": "A slide titled '2. 质点的判断' (2. Judgment of Point Mass) listing three examples: '例题1: 松鼠搬家', '例题2: 地球轨迹', and '例题3: 火车轨迹', with the second example now being presented."
+            },
+            "discovered_new_entities": {
+                "Earth Orbital Path Illustration": "A slide titled '研究地球的公转轨迹' (Studying Earth's Orbital Path) with a red circle labeled '太阳' (Sun) on the left side, indicating the focus on Earth's orbit around the Sun."
+            }
+        },
+        {
+            "minute": 11,
+            "caption": "The video segment begins with a slide titled '研究地球的自转' (Studying Earth's Rotation), showing a blue globe with a curved yellow line indicating rotation, as the Young Man explains the concept. The scene transitions to a new slide titled '研究地球的公转轨迹' (Studying Earth's Orbital Path), featuring a red circle labeled '太阳' (Sun) on the left, with a curved black line being drawn to represent Earth's orbit. The Young Man gestures and speaks, emphasizing the concept. Text appears on the slide: '判断：大的物体一定不能当作质点' (Judgment: Large objects cannot be treated as point masses), reinforcing the lesson. The presentation then shifts to a slide titled '2. 质点的判断' (2. Judgment of Point Mass), listing three examples: '例题1: 松鼠搬家', '例题2: 地球轨迹', and '例题3: 火车轨迹'. The Young Man points to the third example, '火车轨迹' (Train Trajectory), and the screen transitions to a new illustration titled '研究火车过桥的轨迹' (Studying the Train's Path Over a Bridge). This diagram shows a red train with a length of 30m approaching a 50m bridge, visually demonstrating the scenario for analysis. Throughout, the Yellow Block with Text remains in the top right, and the Young Man continues to explain, using hand gestures to emphasize key points.",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding.",
+                "Earth Orbital Path Illustration": "A slide titled '研究地球的公转轨迹' (Studying Earth's Orbital Path) with a red circle labeled '太阳' (Sun) on the left side, indicating the focus on Earth's orbit around the Sun.",
+                "Judgment Slide": "A slide titled '如何判断' (How to Judge) with the text '看研究问题与形状、体积是否相关' (Check if the research problem is related to shape and volume), introduced as the next topic in the presentation.",
+                "New Example Slide": "A slide titled '2. 质点的判断' (2. Judgment of Point Mass) listing three examples: '例题1: 松鼠搬家', '例题2: 地球轨迹', and '例题3: 火车轨迹', with the third example now being presented."
+            },
+            "discovered_new_entities": {
+                "Train Trajectory Illustration": "A diagram titled '研究火车过桥的轨迹' (Studying the Train's Path Over a Bridge), showing a red train (30m) approaching a 50m bridge, used to illustrate the concept of whether a train can be treated as a point mass in this context."
+            }
+        },
+        {
+            "minute": 12,
+            "caption": "The video segment continues the educational presentation on the concept of a point mass, focusing on the third example: '研究火车过桥的轨迹' (Studying the Train's Path Over a Bridge). The Train Trajectory Illustration is displayed prominently on the left side of the screen, showing a red train (labeled 30m) approaching a 50m bridge represented by a black horizontal line. The Young Man, visible in the small inset on the right, actively explains the scenario, using hand gestures to emphasize his points. He appears to be discussing whether the train can be treated as a point mass in this context, likely addressing the relevance of its length compared to the bridge. The diagram remains static, but the Young Man's dynamic explanation suggests a progression in the lesson, possibly leading to a conclusion about the train's dimensions being significant for this particular study. The Yellow Block with Text remains in the top right corner, and the overall layout maintains the educational interface style with clear visual aids and a focused speaker.",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "Train Trajectory Illustration": "A diagram titled '研究火车过桥的轨迹' (Studying the Train's Path Over a Bridge), showing a red train (30m) approaching a 50m bridge represented by a black horizontal line, used to illustrate the concept of whether a train can be treated as a point mass in this context.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 13,
+            "caption": "The video segment transitions to a new example within the physics presentation, focusing on the concept of treating a train as a point mass when studying its trajectory over long distances. The slide, titled '研究火车从南昌到西藏的轨迹 典例3' (Studying the Train's Trajectory from Nanchang to Tibet, Example 3), displays a wavy orange line representing the train's path, with a small red train icon at the end. The distance '4000km' is labeled above the curve, emphasizing the vast scale of the journey. A blue icon of a desert landscape with a cactus and sun appears on the left, symbolizing the starting point. As the Young Man speaks in the inset, he gestures to explain that the train's own size is negligible compared to the 4000km distance, reinforcing the idea that it can be modeled as a point mass. The text '自身的大小与研究距离的大小相比可以忽略不计' (The train's own size can be ignored compared to the research distance) appears on screen to support this explanation. The interface remains consistent with the previous slides, featuring the FOCUSKY logo, the yellow 'HuanFuRen' block, and the green chalkboard background behind the speaker.",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "Train Trajectory Illustration": "A diagram titled '研究火车从南昌到西藏的轨迹 典例3' (Studying the Train's Trajectory from Nanchang to Tibet, Example 3), showing a wavy orange line representing a 4000km journey, with a small red train icon at the end and a blue desert landscape icon on the left. The text '自身的大小与研究距离的大小相比可以忽略不计' appears to explain the point mass concept.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding.",
+                "Digital Presentation Interface": "A light gray digital interface with a menu of four items: '质点的概念', '质点的判断', '练习', and '归纳总结', featuring numbered blue circles and a yellow icon labeled '目录', used to navigate the educational content."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 14,
+            "caption": "The video segment begins with the Train Trajectory Illustration, which displays a wavy orange line representing a 4000km journey from Nanchang to Tibet, with a small red train icon at the end and a blue desert landscape icon on the left. The text '自身的大小与研究距离的大小相比可以忽略不计' (The size of the object can be ignored compared to the research distance) is shown, emphasizing the concept of a point mass. The Young Man, visible in a small inset on the right, gestures and speaks, likely explaining the example. The scene then transitions to a dynamic Digital Presentation Interface, where a yellow circle highlights the '练习' (Practice) section, indicating a shift to exercises. The interface then displays a new slide titled '3. 配套练习' (3. Accompanying Practice), presenting a multiple-choice question: '以下可以看成质点的有（ ）' (Which of the following can be considered a point mass?), with options A, B, C, and D listed. The Young Man continues to speak and gesture, guiding the viewer through the practice question. The background remains consistent with the light gray digital interface, and the Yellow Block with Text in the top right corner remains visible throughout.",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "Train Trajectory Illustration": "A diagram titled '研究火车从南昌到西藏的轨迹 典例3' (Studying the Train's Trajectory from Nanchang to Tibet, Example 3), showing a wavy orange line representing a 4000km journey, with a small red train icon at the end and a blue desert landscape icon on the left. The text '自身的大小与研究距离的大小相比可以忽略不计' appears to explain the point mass concept.",
+                "Digital Presentation Interface": "A light gray digital interface with a menu of four items: '质点的概念', '质点的判断', '练习', and '归纳总结', featuring numbered blue circles and a yellow icon labeled '目录', used to navigate the educational content.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding.",
+                "New Example Slide": "A slide titled '2. 质点的判断' (2. Judgment of Point Mass) listing three examples: '例题1: 松鼠搬家', '例题2: 地球轨迹', and '例题3: 火车轨迹', with the third example now being presented."
+            },
+            "discovered_new_entities": {
+                "Practice Slide": "A slide titled '3. 配套练习' (3. Accompanying Practice) presenting a multiple-choice question: '以下可以看成质点的有（ ）' (Which of the following can be considered a point mass?), with options A, B, C, and D listed."
+            }
+        },
+        {
+            "minute": 15,
+            "caption": "The video segment begins with a practice slide titled '3. 配套练习' (3. Accompanying Practice), presenting a multiple-choice question: '以下可以看成质点的有（ ）' (Which of the following can be considered a point mass?), with options A, B, C, and D. The Young Man, visible in a small inset on the right, gestures and speaks, likely explaining the concept. The scene then transitions to a White Grid Background, where red handwritten Chinese characters '偷懒. 现实.' (Slacking. Reality.) and '反点' (Counterpoint) appear, along with a simple drawing of a rectangular shape with a small circle and arrow inside, and a circled '现实' (Reality). As the Young Man continues to explain, a new diagram is drawn: a right triangle with a small square at the base and another at the top, labeled '5m', illustrating a physical scenario. The Young Man uses hand gestures to emphasize points, maintaining an engaging and instructional tone throughout. The Yellow Block with Text remains consistently in the top right corner, displaying 'HuanFuRen' and the Bilibili logo, reinforcing the creator's branding. The overall atmosphere is educational and interactive, with the Young Man actively guiding the viewer through the concept using both verbal explanation and visual aids on the grid background.",
+            "active_entities": {
+                "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+                "White Grid Background": "A large white background with a subtle grid pattern, occupying the left side of the screen, featuring red handwritten Chinese characters '偷懒. 现实.' and '反点' in a casual, expressive style, with additional red drawings of a rectangular shape, a small circle with an arrow, and a right triangle with two squares and a '5m' label appearing over time.",
+                "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding."
+            },
+            "discovered_new_entities": {}
+        }
+    ],
+    "entity_library": {
+        "Young Man": "A young man with short dark hair, wearing a white t-shirt with a graphic print, standing in front of a green chalkboard background, actively gesturing and speaking in a small inset video on the right side of the screen.",
+        "White Grid Background": "A large white background with a subtle grid pattern, occupying the left side of the screen, featuring red handwritten Chinese characters '偷懒. 现实.' and '反点' in a casual, expressive style, with additional red drawings of a rectangular shape, a small circle with an arrow, and a right triangle with two squares and a '5m' label appearing over time.",
+        "Yellow Block with Text": "A yellow rectangular block in the top right corner displaying 'HuanFuRen' and the Bilibili logo, likely indicating the creator or platform branding.",
+        "Digital Presentation Interface": "A light gray digital interface with a menu of four items: '质点的概念', '质点的判断', '练习', and '归纳总结', featuring numbered blue circles and a yellow icon labeled '目录', used to navigate the educational content.",
+        "Concept Slide": "A slide titled '1. 质点的概念' with the term '质点' displayed prominently, followed by its definition '一个有质量的点' and a red circle containing the text '只有质量 没有体积和大小的理想模型', visually explaining the physics concept of a point mass.",
+        "Judgment Slide": "A slide titled '如何判断' (How to Judge) with the text '看研究问题与形状、体积是否相关' (Check if the research problem is related to shape and volume), introduced as the next topic in the presentation.",
+        "New Example Slide": "A slide titled '2. 质点的判断' (2. Judgment of Point Mass) listing three examples: '例题1: 松鼠搬家', '例题2: 地球轨迹', and '例题3: 火车轨迹', with the third example now being presented.",
+        "Squirrel Trajectory Illustration": "An animated diagram titled '研究松鼠搬家的轨迹' (Studying the Squirrel's Moving Path), showing a blue dashed line tracing a curved path from a stylized tree to a small orange squirrel, visually representing the concept of motion without regard to the object's physical dimensions.",
+        "Earth Rotation Illustration": "A slide titled '研究地球的自转' (Studying Earth's Rotation) featuring a blue globe with a yellow curved line indicating the Earth's rotational path, introduced as the next example in the presentation.",
+        "Earth Orbital Path Illustration": "A slide titled '研究地球的公转轨迹' (Studying Earth's Orbital Path) with a red circle labeled '太阳' (Sun) on the left side, indicating the focus on Earth's orbit around the Sun.",
+        "Train Trajectory Illustration": "A diagram titled '研究火车从南昌到西藏的轨迹 典例3' (Studying the Train's Trajectory from Nanchang to Tibet, Example 3), showing a wavy orange line representing a 4000km journey, with a small red train icon at the end and a blue desert landscape icon on the left. The text '自身的大小与研究距离的大小相比可以忽略不计' appears to explain the point mass concept.",
+        "Practice Slide": "A slide titled '3. 配套练习' (3. Accompanying Practice) presenting a multiple-choice question: '以下可以看成质点的有（ ）' (Which of the following can be considered a point mass?), with options A, B, C, and D listed."
+    }
+}

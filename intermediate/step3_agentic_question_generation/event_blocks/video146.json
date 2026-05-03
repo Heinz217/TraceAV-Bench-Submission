@@ -1,0 +1,505 @@
+{
+  "video_id": "video146",
+  "audio_id": "video146_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "As a serene sunrise paints the misty landscape with warm orange and pink hues, a large orange and green blueberry harvester, its rotating tines agitating water, dislodges ripe red berries while moving through a flooded field, a process observed from a wide aerial view that reveals vast, geometrically arranged blueberry fields, some flooded and others dry, bordered by greenery and waterways. A silver pickup truck, equipped with auxiliary lights and a roof-mounted light bar, navigates these misty fields at sunrise, its driver, a man wearing a cap, reflecting on the freedom of the farm lifestyle, working with family and a familiar crew, having learned the trade since he was ten, and stating he could never live in town again due to the beautiful atmosphere. A second male voice echoes this sentiment, sharing a lifetime spent on the farm, living in close proximity to family, and recalling a childhood filled with enjoyable farm activities and occasional mischief. The sequence concludes with a close-up of the truck’s rugged front and the driver’s focused expression.",
+      "involved_entities": {
+        "Man in Pickup Truck": {
+          "description": "A man wearing a cap, visible through the windshield, driving the pickup truck with a focused expression, who reflects on the freedom and beauty of his cranberry-growing farm lifestyle, emphasizing working alongside family and a lifelong crew, and stating he couldn't live in town again. His voice is reflective and appreciative of the farm environment.",
+          "attribute": "audio-visual"
+        },
+        "Pickup Truck": {
+          "description": "A silver pickup truck equipped with auxiliary lights on the front bumper and a roof-mounted light bar, driven by a man who expresses deep connection to the farm and its lifestyle, navigating misty fields during sunrise.",
+          "attribute": "audio-visual"
+        },
+        "Blueberry Fields": {
+          "description": "Extensive, rectangular plots of land arranged in a grid pattern, some flooded and others dry, with vibrant green vegetation and red berries, bordered by waterways and trees, serving as the setting for a cranberry-growing lifestyle deeply cherished by the farmers who speak about their lifelong connection to the land and community.",
+          "attribute": "audio-visual"
+        },
+        "Blueberry Harvester": {
+          "description": "A large orange and green agricultural machine with rotating tines, designed to shake blueberries from bushes into a collection bin, seen operating in a flooded field.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a serene sunrise casting warm orange and pink hues over a misty landscape, silhouetting distant trees, accompanied by gentle, reflective background music. This tranquil scene transitions to a close-up of a large orange and green blueberry harvester, its rotating tines agitating water and dislodging ripe red berries as it moves through a flooded field. A wide aerial view then reveals vast, geometrically arranged blueberry fields, some flooded and others dry, bordered by greenery and waterways, showcasing the scale of the operation. As a silver pickup truck, equipped with auxiliary lights and a roof-mounted light bar, navigates the misty fields at sunrise, the man visible inside, wearing a cap, reflects on his life. He states that the best part of this cranberry-growing lifestyle is the freedom of the farm, working alongside family and the crew he grew up with, learning from those who taught him since he was ten. He emphasizes the beauty and nice atmosphere, concluding he couldn't live in town ever again. A second, distinct male voice then adds to this sentiment, sharing that he has spent his entire life on this farm, living in three houses close enough to throw a stone between them, and fondly recalling a childhood filled with activities and occasional mischief, always enjoying the farm life. The sequence concludes with a close-up of the truck’s rugged front and the driver’s focused expression."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 3,
+      "summary": "{\n  \"updated_summary\": \"As a serene sunrise gives way to winter preparations, a silver Pickup Truck navigates a mist-covered cranberry field, while Robert Duckart reflects on family presence. Aerial views showcase the Jacob Searls Cranberry Co. farm, established in 1903, with its grid-like layout and snow-covered fields marked by geometric patterns and tire tracks. Robert Duckart, the 4th generation grower, explains the winter practice of encasing cranberry plants in ice and covering them with sand on a three to four-year rotation to prevent overgrowth and provide nutrients. Erik Duckart, the 5th generation grower, further clarifies that this process prevents overgrowth and nourishes the vines. A worker shovels soil, and a red tractor with a box spreads soil across a cleared section, illustrating these early winter preparations. The scene shifts to a red dump truck unloading a large volume of granular material onto the snow-covered field, forming a long pile, accompanied by machinery hum. Jon Duckart, a 5th Generation Grower, explains that the sand used is sourced from their property, dug, and stockpiled. Heavy machinery, including a yellow excavator and conveyor belts, actively processes earth at an excavation site. A blue tractor with a blade smooths the material into a large mound. Robert Duckart details how, in spring, the sand filters down, covering old growth and insect pests, while also keeping the beds warmer. The segment concludes with black and red dump trucks unloading more material in the cold, snowy environment, emphasizing the coordinated effort of machinery and personnel in winter agricultural preparation.\"\n.\"\nshaping and managing soil for agricultural preparation.\"\n}",
+      "involved_entities": {
+        "Robert Duckart": {
+          "description": "A middle-aged man wearing a gray cap with 'Caterpillar Diesel' embroidered in yellow, glasses, and a gray fleece jacket, speaking in a snowy field with a deeper, slightly gravelly voice. He explains how the sand filters down to plants when ice melts, covers old growth and insect pests living in the soil layer, effectively burying them, and also keeps the cranberry beds warmer. He is identified as the 4th generation grower and owner of Jacob Searls Cranberry Co.",
+          "attribute": "audio-visual"
+        },
+        "Worker with Shovel": {
+          "description": "A man in a dark jacket and rubber boots, actively shoveling soil in a snow-covered area, contributing to field preparation during winter.",
+          "attribute": "visual"
+        },
+        "Erik Duckart": {
+          "description": "Erik Duckart, a younger man with a beard, wearing a dark hoodie with 'Montana Hard Wear' branding and a cap, identified as the 5th generation grower, speaks clearly from a snowy field, detailing how sand application prevents overgrowth and supplies fresh nutrients to the berries and vines for the upcoming season.",
+          "attribute": "audio-visual"
+        },
+        "Pickup Truck": {
+          "description": "A silver pickup truck equipped with auxiliary lights on the front bumper and a roof-mounted light bar, driven by a man wearing a cap, navigating misty fields during sunrise, seen moving along a dirt path between mounded cranberry beds at dawn.",
+          "attribute": "visual"
+        },
+        "Red Tractor with Box": {
+          "description": "A red tractor pulling a long, rectangular box, spreading soil across a cleared section of a snow-covered field, visible in an aerial shot, indicating winter field maintenance.",
+          "attribute": "visual"
+        },
+        "Aerial Drone View": {
+          "description": "A high-angle, sweeping aerial perspective capturing the entire field operation, including the layout of material piles, machinery movement, and surrounding snowy landscape, providing context for the scale of the work.",
+          "attribute": "visual"
+        },
+        "Red Dump Truck": {
+          "description": "A red dump truck with a raised bed, unloading brown granular material onto a snow-covered field, visible in multiple shots from different angles, including close-ups of the material falling.",
+          "attribute": "visual"
+        },
+        "Jon Duckart": {
+          "description": "A bearded man wearing a black beanie with 'Orhan' text, a red hoodie, and a dark jacket with 'Joseph Equipment' branding, speaking directly to the camera in a snowy field with a clear, calm voice. He details that the sand used for sanding is sourced directly from their property, dug out of the ground, and stockpiled. He is identified as a 5th generation grower.",
+          "attribute": "audio-visual"
+        },
+        "Blue Tractor with Blade": {
+          "description": "A blue tractor equipped with a front-mounted blade, actively smoothing and shaping a large mound of brown material in a snowy field, seen from both ground-level and aerial perspectives.",
+          "attribute": "visual"
+        },
+        "Excavator and Conveyor System": {
+          "description": "A yellow excavator and associated conveyor belts at an excavation site, processing and transporting earth, visible in an aerial shot with surrounding snow and rock piles.",
+          "attribute": "visual"
+        },
+        "Black Dump Truck": {
+          "description": "A black dump truck with a raised bed, unloading similar brown material onto the field, shown in a side view with snow and cleared ground in the background.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a serene sunrise over a vast, mist-covered field, where a silver Pickup Truck drives along a dirt path between mounded cranberry beds, as a male voice, later identified as Robert Duckart, briefly mentions \"living it here and being on the family all the time.\" Gentle, atmospheric background music begins as the scene transitions to an aerial view of a grid-like cranberry farm, with text overlay introducing Jacob Searls Cranberry Co., established in 1903 in Wisconsin Rapids, Wisconsin, and noting that their cranberries are shipped across North America and Europe. The narrative progresses into winter, with aerial shots of snow-covered fields marked by geometric patterns and tire tracks. Robert Duckart, the 4th generation grower and owner, appears in a close-up, wearing a cap and glasses against the snowy backdrop, speaking in a clear, calm, and informative voice about the winter practice of protecting the perennial cranberry plants by encasing them in ice and applying a layer of sand over them on a three to four-year rotation. The camera then shows aerial views of snow being cleared from fields, revealing dark soil beneath, followed by Erik Duckart, the 5th generation grower, standing in a snowy field, wearing a dark hoodie and cap. He speaks clearly, explaining that this process prevents overgrowth and provides fresh nutrients to the berries and vines for the upcoming season. The segment concludes with a worker shoveling soil in a snow-covered area, and an aerial shot of a red tractor pulling a box, spreading soil across a cleared section of the field, illustrating these early winter preparations for the next growing season, all accompanied by the continuing atmospheric background music.",
+        "The segment opens with a red dump truck unloading a large volume of brown, granular material onto a snow-covered field, creating a long, winding pile, all set to a gentle, ethereal background music and the hum of machinery. Close-ups capture the material cascading from the truck bed, followed by sweeping aerial shots that reveal the expansive, partially snow-covered landscape dotted with multiple parallel rows of the dumped material. Jon Duckart, a bearded man in a black beanie and red hoodie, identified as a 5th Generation Grower, appears on screen, explaining in a clear, calm voice that \"The sand that we use for sanding is typically on our property. We dig it out of the ground and stock pile it and that's what we're using to sand.\" The scene then transitions to an aerial view of a large excavation site where heavy machinery, including a yellow excavator and conveyor belts, is actively processing and moving earth, with the machinery hum persisting. A blue tractor with a front-mounted blade is subsequently shown smoothing and shaping the material into a large, curved mound, with aerial shots emphasizing the scale and precision of the operation. Robert Duckart, wearing a 'Caterpillar Diesel' cap and glasses, appears speaking in the snowy field with a deeper, slightly gravelly voice, detailing how \"When the spring of the year, when the ice melts, the sand goes down and filters down onto the plants and it covers up some of the old growth and a lot of the insect pests that we have live under the in the duff or the soil layer and by we're burying them by covering them up with sand then it also keeps the bed warmer.\" He further elaborates on temperature regulation, mentioning, \"We can have a cold night and you can have two beds side by side, one that you...\" before his audio fades. The video concludes with more dump trucks, including a black and a red one, unloading material, with close-ups of the material falling and spreading in the consistently cold and snowy environment, highlighting the coordinated effort of heavy machinery and personnel in shaping and managing large quantities of soil or sand for winter agricultural preparation."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 4,
+      "end_minute": 5,
+      "summary": "In a snowy field, Jon Duckart, wearing a black beanie with 'Orhan' text, a red hoodie, and a dark jacket with 'Joseph Equipment' branding, explained the winter process of sanding cranberry fields, noting that proper sanding can significantly reduce temperature fluctuations on cold nights and that the application rate, typically three-quarters of an inch every three to five years, depends on whether it's for new plantings or heavy overgrowth. Simultaneously, a white dump truck labeled 'JACOB SEARLS CRANBERRY CO. WISCONSIN RAPIDS, WI' and a red dump truck unloaded granular material onto the snow, creating parallel strips, while aerial drone views captured multiple trucks and machinery spreading the material across the expansive field. Transitioning to spring, with misty fields and green vegetation, Duckart discussed reactivating irrigation systems for the growing season, and aerial shots revealed flooded cranberry fields with water spraying from irrigation systems, highlighting the farm's gravity-fed water reservoirs located uphill of the beds. The narrative then shifted to a different operation, with a blue tractor pulling a trailer loaded with harvested material through tilled fields where other trucks were working. Duckart returned, detailing the renovation of older beds and the planting of new vines, including improved varieties from universities. Workers, one in a red shirt and another in a gray 'FEDERAL' shirt, were observed manually loading large bundles of harvested plants onto a trailer, which was then pulled by the blue tractor through the field.",
+      "involved_entities": {
+        "White Dump Truck": {
+          "description": "A large white dump truck labeled 'JACOB SEARLS CRANBERRY CO. WISCONSIN RAPIDS, WI' unloading brown granular material onto a snow-covered field, creating long, parallel strips.",
+          "attribute": "visual"
+        },
+        "Aerial Drone View": {
+          "description": "A high-angle, sweeping aerial perspective capturing the entire field operation, including the layout of material piles, machinery movement, and surrounding snowy landscape, providing context for the scale of the work.",
+          "attribute": "visual"
+        },
+        "Blueberry Fields": {
+          "description": "Extensive, rectangular plots of land arranged in a grid pattern, some flooded and others dry, with vibrant green vegetation and red berries, bordered by waterways and trees, which are identified as cranberry fields requiring significant water and undergoing renovation and frost protection.",
+          "attribute": "audio-visual"
+        },
+        "Red Dump Truck": {
+          "description": "A red dump truck with a raised bed, unloading brown granular material onto the field, visible in multiple shots from different angles, including close-ups of the material falling.",
+          "attribute": "visual"
+        },
+        "Jon Duckart": {
+          "description": "A bearded man wearing a black beanie with 'Orhan' text, a red hoodie, and a dark jacket with 'Joseph Equipment' branding, speaking directly to the camera in a snowy field, providing commentary on cranberry water requirements, renovation processes, and the sourcing of new vine varieties.",
+          "attribute": "audio-visual"
+        },
+        "Blue Tractor with Blade": {
+          "description": "A blue tractor equipped with a front-mounted blade, actively smoothing and shaping a large mound of brown material in a snowy field, seen from both ground-level and aerial perspectives.",
+          "attribute": "visual"
+        },
+        "Excavator and Conveyor System": {
+          "description": "A yellow excavator and associated conveyor belts at an excavation site, processing and transporting earth, visible in an aerial shot with surrounding snow and rock piles.",
+          "attribute": "visual"
+        },
+        "Black Dump Truck": {
+          "description": "A black dump truck with a raised bed, unloading similar brown material onto the field, shown in a side view with snow and cleared ground in the background.",
+          "attribute": "visual"
+        },
+        "Worker in Red Shirt": {
+          "description": "A man wearing a red shirt, actively loading large bundles of harvested plants onto a trailer, seen from multiple angles during the harvesting process.",
+          "attribute": "visual"
+        },
+        "Blue Tractor with Trailer": {
+          "description": "A blue tractor pulling a green trailer loaded with stacked bundles of harvested material, moving through a field and shown from various angles, including aerial and ground-level views.",
+          "attribute": "visual"
+        },
+        "Worker in Gray Shirt with 'FEDERAL'": {
+          "description": "A man wearing a gray shirt with 'FEDERAL' printed on the back, assisting in loading harvested material onto a trailer, visible during the manual labor sequence.",
+          "attribute": "visual"
+        },
+        "Harvested Plant Bundles": {
+          "description": "Large, dense bundles of harvested green plants, tied with red twine, being manually loaded onto a trailer by workers, indicating a post-harvest operation.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of a dark, muddy substance, likely soil or compost, being dumped from a vehicle onto a snowy field, accompanied by a gentle, ambient musical score. Jon Duckart, a bearded man in a black beanie with 'Orhan' text, a red hoodie, and a dark jacket with 'Joseph Equipment' branding, speaks directly to the camera in the snowy field, explaining the process of sanding: he notes the difference between \"sanded and one that hasn't been sanded for a few years,\" which can lead to \"a 10-degree difference on a cold night.\" He elaborates that \"Depending on the sanding, the type of sanding that we're doing, whether it be a new planting or a really heavy overgrowth planting, depends kind of on how much sand we would apply between a half inch to an inch,\" adding that \"it's usually about three-quarters of an inch of sand every three to five years, ideally, if you can.\" As he speaks, a large white dump truck labeled 'JACOB SEARLS CRANBERRY CO. WISCONSIN RAPIDS, WI' unloads brown granular material onto the snow-covered ground, creating long, parallel strips, followed by a red dump truck also unloading, with close-ups of the falling substance. Aerial drone views reveal the expansive layout of the field, showing multiple trucks and machinery working in tandem to spread the material across the snow, forming distinct brown pathways, all set against the continuous ambient music. The scene transitions to spring, showing misty fields and green vegetation, as the speaker continues, \"So during the springtime, we're getting ready to put in our irrigation systems back online and getting ready for the growing season.\" Aerial shots then capture flooded cranberry fields with water spraying from irrigation systems, illustrating the speaker's description that \"The water reservoirs that we have are all on the farm right next to the growing area, and a lot of them are uphill of the beds, so we can gravity feed if we were putting on a flood,\" emphasizing the transition from winter field maintenance to spring cultivation and the scale of agricultural operations.",
+        "The video opens with Jon Duckart, a bearded man in a black beanie with 'Orhan' text, a red hoodie, and a dark jacket with 'Joseph Equipment' branding, speaking directly to the camera in a snowy field, explaining the significant water requirements for cranberries, noting about seven acres of support land per planted acre. A distinct, older male voice then details the spring agenda: getting all sprinklers operational by late April or early May for crucial frost protection, as well as renovating and preparing beds by hauling sand throughout the winter. As this speaker concludes, a gentle, melancholic instrumental background music begins. The scene transitions to expansive aerial views of Blueberry Fields, showcasing a grid of flooded and dry plots with vibrant green vegetation and red berries, bordered by waterways and trees, visually reinforcing the discussion of water and agricultural scale. Close-ups of irrigation systems show sprinklers spraying water across lush green fields, followed by wide aerial shots of numerous sprinklers operating in unison, illustrating the frost protection efforts. The perspective shifts to a different farming operation with tilled fields, tractors, and trucks actively working, including a blue tractor pulling a trailer loaded with harvested material. Jon Duckart's voice returns, describing the renovation of older, less productive beds and the planting of new vines, either self-mowed or sourced from other growers and universities developing improved varieties for yield, quality, and fruit size. Workers are then seen manually loading large bundles of harvested plants onto a trailer, with one in a red shirt and another in a gray 'FEDERAL' shirt, as the blue tractor pulls the loaded trailer through the field, concluding with Jon Duckart reappearing to the camera with the harvested material behind him, underscoring the labor and scale of the farming process."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 6,
+      "end_minute": 6,
+      "summary": "A man in a blue tractor cab, wearing a cap and sunglasses, operates the vehicle while a voiceover explains that new hybrid varieties have tripled or quadrupled production levels compared to older types. Aerial views reveal two workers shoveling dark soil into a large, open trailer attached to the tractor, with the voiceover detailing the process of sprinkling vines on sand and disking them in. Close-ups show a man in a camouflage cap and gray shirt, followed by three men—two in caps and one in a red shirt—standing in the trailer, actively shoveling soil. From above, the blue tractor pulls a disc harrow, tilling a dry, sandy field and creating furrows, as the voiceover describes a custom-made planter that lays a layer of vines directly on the sand, with workers following to remove vine clumps. A side view shows the blue tractor pulling a large, green and brown trailer labeled 'FARM-ED DAIRY' and 'HYDRO-SEEDING' along a dirt road. Workers manually spread soil across the field with shovels, with close-ups highlighting the soil's texture and embedded twigs, all accompanied by light, instrumental background music. The scene shifts to a flooded field with red berries floating on the surface for a cranberry harvest, where a large green and yellow harvester with rotating tines moves through the water, dislodging berries from the vines. The voiceover elaborates on the three-to-five-year waiting period for harvesting to establish a strong root system, crucial for fresh fruit production and to prevent vines from being uprooted during picking. The video concludes with the tractor driver, wearing a camouflage cap, focused on operating the machine as it continues its work in the field.",
+      "involved_entities": {
+        "Worker in Red Shirt": {
+          "description": "A man wearing a red shirt, actively shoveling soil in the trailer, contributing to the manual field preparation and planting process.",
+          "attribute": "audio-visual"
+        },
+        "Worker with Shovel": {
+          "description": "Workers actively shoveling dark soil into a large trailer and manually spreading it across the field, performing the labor-intensive tasks of field preparation and vine planting as detailed by the voiceover, including removing clumps of vines.",
+          "attribute": "audio-visual"
+        },
+        "Blueberry Fields": {
+          "description": "Extensive, rectangular plots of land arranged in a grid pattern, some flooded and others dry, with vibrant green vegetation and red berries, bordered by waterways and trees.",
+          "attribute": "visual"
+        },
+        "Blue Tractor with Blade": {
+          "description": "A blue tractor equipped with a front-mounted blade, actively smoothing and shaping a large mound of brown material in a snowy field, seen from both ground-level and aerial perspectives.",
+          "attribute": "visual"
+        },
+        "Man in Pickup Truck": {
+          "description": "A man wearing a cap, visible through the windshield, driving the pickup truck with a focused expression, likely overseeing farm operations during early morning hours.",
+          "attribute": "visual"
+        },
+        "Worker in Gray Shirt with 'FEDERAL'": {
+          "description": "A man wearing a gray shirt with 'FEDERAL' printed on the back, assisting in loading harvested material onto a trailer, visible during the manual labor sequence.",
+          "attribute": "visual"
+        },
+        "Harvested Plant Bundles": {
+          "description": "Large, dense bundles of harvested green plants, tied with red twine, being manually loaded onto a trailer by workers, indicating a post-harvest operation.",
+          "attribute": "visual"
+        },
+        "Blue Tractor with Trailer": {
+          "description": "A blue tractor pulling a green trailer loaded with stacked bundles of harvested material, moving through a field and shown from various angles, including aerial and ground-level views.",
+          "attribute": "visual"
+        },
+        "Blueberry Harvester": {
+          "description": "A large orange and green agricultural machine with rotating tines, designed to shake blueberries from bushes into a collection bin, seen operating in a flooded field.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of a man in a blue tractor cab, wearing a cap and sunglasses, operating the vehicle. A male voiceover begins, discussing how new hybrids developed over the last 10-15 years have led to production levels three to four times higher than old varieties. The scene transitions to an aerial view showing two workers shoveling dark soil into the back of a large, open trailer attached to the tractor. The voiceover continues, explaining the process: \"Basically all you do is sprinkle vines on top of the on top of the sand and we disk 'em in. And they take off from there.\" A close-up then shows a man in a camouflage cap and gray shirt, followed by a shot of three men—two in caps and one in a red shirt—standing in the trailer, actively shoveling soil. The tractor, now pulling a disc harrow, is seen from above as it tills the dry, sandy field, creating distinct furrows. The voiceover describes a custom-made planter: \"We have a planter that we made in house and it it lays a layer of vines right on the sand.\" He adds that \"there's also a few guys walking behind to get clumps of vines out.\" A side view captures the blue tractor pulling a large, green and brown trailer labeled 'FARM-ED DAIRY' and 'HYDRO-SEEDING', moving along a dirt road. Workers are then seen spreading the soil manually across the field using shovels, with close-ups revealing the soil's texture and embedded twigs. Throughout these scenes, light, instrumental background music plays. The video then transitions to a flooded field with red berries floating on the surface, indicating a cranberry harvest. A large green and yellow harvester with rotating tines moves through the water, shaking the berries from the vines. The voiceover explains the harvesting timeline: \"We don't start harvesting 'em typically three to five years. We need to get a strong root system and especially since we do fresh fruit and we are basically combing the vines with our pickers. We need to have a a strong root system so that we're not just ripping 'em out of the ground.\" The final shot shows the driver of the tractor, wearing a camouflage cap, focused on operating the machine as it continues its work in the field."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 7,
+      "end_minute": 7,
+      "summary": "A green tractor with a tank attachment, operated by a man in a gray polo shirt, tills dry, sandy soil, kicking up dust, as a male voice explains the costly renovation of a field for improved production and superior hybrid varieties. The tractor methodically works across the vast, flat field, divided into rectangular plots, under a bright sky, with calm background music playing. The scene transitions to a serene sunrise, with 'SUMMER' appearing in golden letters. A second male voice then details the essential role of bees as pollinators, brought in around June during the blossom period. Close-ups show a bee actively pollinating delicate white cranberry blossoms among green foliage, visually confirming the presence and audible buzz of pollinators. The video concludes with a sweeping aerial view of the entire field, now lush with blooming cranberry plants under a clear blue sky, signifying successful cultivation and natural pollination.",
+      "involved_entities": {
+        "Green Tractor with Tank Attachment": {
+          "description": "A green tractor equipped with a large cylindrical tank mounted on a frame at the rear, used for field preparation, operated by a man in a gray polo shirt and glasses, moving across a dry, sandy field.",
+          "attribute": "visual"
+        },
+        "Field": {
+          "description": "A vast, flat agricultural field with dry, sandy soil initially, later transitioning to lush green cranberry plants in full bloom, bordered by trees and under a bright blue sky; a speaker discusses the 'very expensive' process of 'renovating a bed' for 'better production' and the associated 'cost of renovations,' highlighting the significant investment in its cultivation.",
+          "attribute": "audio-visual"
+        },
+        "Bee": {
+          "description": "A small, fuzzy bee with yellow and black stripes, actively flying between cranberry blossoms, collecting nectar and pollen; a speaker emphasizes their 'huge' role as pollinators, noting that they are 'everywhere' and can be 'absolutely' heard in the field.",
+          "attribute": "audio-visual"
+        },
+        "Cranberry Blossoms": {
+          "description": "Delicate white flowers with bell-shaped petals and red centers, growing densely among green foliage, shown in close-up with a bee pollinating them; a speaker explains that their appearance around June signals the time when pollinators are brought in.",
+          "attribute": "audio-visual"
+        },
+        "Aerial View of Field": {
+          "description": "A high-angle, sweeping drone shot showing the entire field divided into large rectangular plots, with the green tractor working in one section, providing context for the scale of the operation.",
+          "attribute": "visual"
+        },
+        "Man in Gray Polo Shirt": {
+          "description": "A middle-aged man with glasses, wearing a gray polo shirt and khaki shorts, operating the green tractor with focused attention, seen from multiple angles including side and front views.",
+          "attribute": "visual"
+        },
+        "Sunrise Scene": {
+          "description": "A tranquil sunrise over the field with golden light radiating from the horizon, accompanied by the word 'SUMMER' displayed in bold, golden letters, marking the seasonal transition.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of a tractor's large rear tire and disc harrow tilling dry, sandy soil, kicking up dust, while a male voice discusses the very expensive process of renovating a bed, emphasizing the goal of better production and superior attributes of new hybrid varieties over older ones, noting the costs of buying and potentially paying royalties for these vines. The scene transitions to a wide shot of a vast, flat field under a bright sky, where a green tractor with a cylindrical tank attachment moves across the terrain, preparing the land. A man, wearing a gray polo shirt and glasses, is shown operating the green tractor with a focused expression, navigating the field from multiple angles. An aerial view reveals the expansive layout of the field, divided into large rectangular plots, with the tractor working methodically, all set to a continuous, calm background music. The scene shifts to a serene sunrise over the field, with the word 'SUMMER' appearing in golden letters against the glowing horizon. As the music continues, a different male voice explains that around June, when the blossom occurs, pollinators are brought in, highlighting the huge and essential role bees play. The video then focuses on close-ups of delicate white cranberry blossoms among green foliage, with a bee actively pollinating the flowers, visually reinforcing the speaker's point that pollinators are 'everywhere' and can be 'absolutely' heard in the bed. The final shot is a wide, sweeping view of the entire field, now lush with blooming cranberry plants under a clear blue sky, indicating the successful progression from land preparation to flourishing summer growth, driven by the careful cultivation and natural pollination processes described."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 8,
+      "end_minute": 8,
+      "summary": "A field of cranberry blossoms, characterized by delicate white, bell-shaped flowers with red centers amidst vibrant green foliage, is presented with a slow zoom to reveal intricate details and gentle swaying in a light breeze, accompanied by melancholic background music. A bee, identifiable by its fuzzy yellow and black stripes, actively flies among the blossoms, collecting nectar and pollen. A male voice explains this process as \"plant science,\" detailing how bees distribute pollen as they travel through the vine canopy. The scene shifts to a wider view of a wooden beehive, teeming with bees entering and exiting, signifying a robust colony, before returning to the blossoms where more bees are observed working. Another male voice further elaborates on the practice, referring to honeybees and bumblebees as the \"two main pollinating insects that are brought in\" as a \"supplement\" and an \"insurance policy\" to ensure \"a decent crop\" with \"good coverage\" during the two to three weeks of bloom, acknowledging the expense of importing colonies. The sequence concludes with a transition to green, unripe cranberries forming on the plants, indicating fruit set after the bloom period, as a third male voice confirms, all under a bright, clear sky that underscores the summer season and the critical role of pollinators in agriculture.",
+      "involved_entities": {
+        "Bee": {
+          "description": "A small, fuzzy bee with yellow and black stripes, actively flying between cranberry blossoms, collecting nectar and pollen. Identified as 'honeybees or bumblebees,' they collect 'pollen on their legs' and distribute it through the 'canopy of the vines.' They are described as the 'two main pollinating insects' brought in as a 'supplement' to ensure a 'decent crop' and 'good coverage' during the bloom, acting as an 'insurance policy' despite the expense of bringing in their 'colonies'.",
+          "attribute": "audio-visual"
+        },
+        "Cranberry Blossoms": {
+          "description": "Delicate white flowers with bell-shaped petals and red centers, growing densely among green foliage, shown in close-up with a bee pollinating them. They are described as being in their 'bloom or blossom period' for 'two or three weeks' during which good coverage for fruit development is sought.",
+          "attribute": "audio-visual"
+        },
+        "Field": {
+          "description": "A vast, flat agricultural field with lush green cranberry plants in full bloom, bordered by trees and under a bright blue sky. It contains the 'canopy of the vines' where bees distribute pollen, and the plants are in 'bloom' for 'two or three weeks' to ensure 'good coverage' for fruit development.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a gentle, slightly melancholic background music as a close-up reveals a lush field of cranberry blossoms, showcasing delicate white, bell-shaped flowers with red centers nestled among vibrant green foliage. The camera slowly zooms in, highlighting the intricate details of the blossoms and the gentle sway of the plants in a light breeze. A fuzzy yellow and black striped bee enters the frame, actively flying from flower to flower, collecting nectar and pollen. A male voice explains that \"they collect pollen on their legs, and as they travel through the canopy of the vines, they distribute that pollen,\" calling it \"plant science.\" The scene transitions to a wider shot of a wooden beehive, where numerous bees are seen crawling over the surface and entering and exiting, indicating a thriving colony. The camera returns to the blossoms, capturing more bees at work. Another male voice elaborates that it's \"a supplement,\" with \"honeybees or bumblebees\" being \"the two main pollinating insects that are brought in,\" ensuring \"a decent crop\" and providing \"good coverage over the two or three weeks that they're in bloom,\" despite the expense of bringing in colonies, acting as \"an insurance policy.\" The sequence concludes with a shift to green, unripe cranberries forming on the same plants, signaling the progression from bloom to fruit development, as a third male voice notes that \"following the bloom or blossom period, there's actually a fruit set.\" The overall atmosphere is bright and natural under a clear sky, highlighting the summer season and the essential role of pollinators in agriculture, all set to the continuous background music."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 9,
+      "end_minute": 9,
+      "summary": "Lush green cranberry vines are shown, with a voice explaining that small green cranberries will appear, initiating the fertilizing process. Instrumental music begins as an aerial view reveals a vast field where a Blue Tractor with Blade pulls a large white Irrigation Boom, spraying water. The camera follows the tractor along a dirt path, showcasing segmented fields under a bright blue sky with scattered clouds. The male voice explains that cranberries size up throughout the summer, developing a red hue when near full size. A close-up of vibrant red cranberries among green foliage confirms ripeness, with the word 'FALL' appearing on screen. The scene transitions to a Flooded Field where a Cranberry Harvester, with a distinct mechanical whirring and rumbling, shakes berries into the water; a Worker on Harvester oversees the operation, and a Red Dump Truck is visible in the background. The male voice concludes that harvest season is his favorite time of year, despite long days, as instrumental music continues, capturing the active harvest under clear, crisp autumn skies.",
+      "involved_entities": {
+        "Blueberry Fields": {
+          "description": "Extensive, rectangular plots of land arranged in a grid pattern, now flooded in parts, with vibrant green vegetation and red berries, bordered by waterways and trees.",
+          "attribute": "visual"
+        },
+        "Irrigation Boom": {
+          "description": "A large white articulated boom attached to the blue tractor, extending horizontally and spraying water in a wide arc across the field, used for field maintenance or pre-harvest irrigation.",
+          "attribute": "visual"
+        },
+        "Red Dump Truck": {
+          "description": "A red dump truck with a raised bed, parked near the edge of a flooded field, visible in the background during the harvesting process.",
+          "attribute": "visual"
+        },
+        "Blue Tractor with Blade": {
+          "description": "A blue tractor equipped with a front-mounted blade, actively moving along a dirt path while pulling a large white irrigation boom, spraying water across the field, likely involved in the crop fertilization mentioned by the speaker.",
+          "attribute": "audio-visual"
+        },
+        "Worker on Harvester": {
+          "description": "A man in dark clothing, standing on the harvester, overseeing the cranberry harvesting operation in the flooded field.",
+          "attribute": "visual"
+        },
+        "Flooded Field": {
+          "description": "A section of the cranberry field intentionally flooded with water, allowing the harvester to shake berries loose and float them to the surface for collection.",
+          "attribute": "visual"
+        },
+        "Blueberry Harvester": {
+          "description": "A large orange and green agricultural machine with rotating tines, designed to shake blueberries from bushes into a collection bin, seen operating in a flooded field, now actively harvesting cranberries.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of lush green cranberry vines, as a male voice explains that \"little small green cranberries will start to come on\" and that's when they'll begin \"fertilizing the crop.\" Instrumental music then begins, accompanying an aerial view of a vast field where a blue tractor pulls a large white irrigation boom, spraying water in a wide arc. The camera follows the tractor along a dirt path, showcasing the expansive, segmented fields under a bright blue sky with scattered clouds. The male voice returns, describing how the cranberries \"size up throughout the summer months,\" starting to \"get a hue of red\" when they are \"about full size.\" The scene shifts to a close-up of vibrant red cranberries nestled among green foliage, confirming their ripeness, as the word 'FALL' appears on screen. The video transitions to a flooded field where a red and green cranberry harvester operates with a distinct mechanical whirring and rumbling sound, shaking berries into the water. A worker in dark clothing stands on the harvester, overseeing the process, while a red dump truck is visible in the background. The male voice concludes, stating that \"harvest season is probably my favorite time of the year, despite all the long days and hours,\" as the instrumental music continues, capturing the active harvest under clear, crisp autumn skies."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 10,
+      "end_minute": 11,
+      "summary": "Jon Duckart, wearing a black beanie and red hoodie, explains from a snowy field that his family's busiest time is the harvest, during which he operates the 'picking machine' on the marsh. The scene then shifts to a vast, flooded cranberry field at sunrise where an orange and green Blueberry Harvester, repurposed for cranberries, moves through shallow water, dislodging bright red berries that float to the surface. An unidentified male voice describes the intense process for fresh fruit harvesting, emphasizing the need for operators to be gentle and precise with the machinery to maintain quality, avoiding excessive speed that could damage the plants. The harvester's tines agitate the water, causing cranberries to surface and be collected into floating black bins, which are then deposited into larger bins. The speaker notes the crew's pressure to cover significant acreage before the weather turns cold. Jon Duckart further clarifies their 'fresh fruit picking' as a modernized, slower, and more delicate method akin to hand-picking for fresh fruit sales, involving slowly raking berries into a boat. Multiple harvesters are seen working in parallel, with Red and Black Dump Trucks positioned near the field's edge. The operation, described as an '8-week window' and '7-8 weeks of nose to the storm,' involves managing weather and potential breakdowns, transitioning from early morning light to bright daylight as the coordinated effort continues.",
+      "involved_entities": {
+        "Red Dump Truck": {
+          "description": "A red dump truck with a raised bed, parked near the edge of the flooded field, visible in the background during the harvesting process.",
+          "attribute": "visual"
+        },
+        "Jon Duckart": {
+          "description": "A bearded man wearing a black beanie with 'Orhan' text, a red hoodie, and a dark jacket with 'Joseph Equipment' branding, seen operating the Blueberry Harvester with focused attention in the flooded field. He also speaks directly to the camera, explaining their 'fresh fruit picking' harvest style, which is a 'modernized method of hand-picking' that is 'a lot more delicate' and involves 'slowly raking the cranberries up and putting them in a boat.' His voice is clear, direct, and informative.",
+          "attribute": "audio-visual"
+        },
+        "Worker on Harvester": {
+          "description": "A man in dark clothing, standing on the harvester, overseeing the cranberry harvesting operation in the flooded field, visible operating the machine.",
+          "attribute": "visual"
+        },
+        "Flooded Field": {
+          "description": "A section of the cranberry field intentionally flooded with water, allowing the harvester to shake berries loose and float them to the surface for collection, shown under golden sunrise light.",
+          "attribute": "visual"
+        },
+        "Black Dump Truck": {
+          "description": "A black dump truck with a raised bed, unloading similar brown material onto the field, shown in a side view with snow and cleared ground in the background, now visible near the flooded field.",
+          "attribute": "visual"
+        },
+        "Blueberry Harvester": {
+          "description": "A large orange and green agricultural machine with rotating tines, designed to shake blueberries from bushes, now repurposed for cranberry harvesting in a flooded field. It actively moves through shallow water, shaking red berries loose from the vines and depositing them into floating black bins attached to its rear, performing the 'raking' action described in the audio.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with Jon Duckart, a bearded man wearing a black beanie with 'Orhan' text, a red hoodie, and a dark jacket with 'Joseph Equipment' branding, speaking directly to the camera from a snowy field. He explains that his family works together to get the harvest done, which is their busiest time of year, and that he personally runs the 'picking machine' out on the marsh, experiencing it all firsthand. As ambient instrumental music begins, the scene transitions to a vast, flooded cranberry field at sunrise, divided into rectangular plots. A large orange and green Blueberry Harvester, now actively harvesting cranberries, moves methodically through the water. An unidentified male voice elaborates on the process, stating that harvesting for fresh fruit is more intense, requiring operators to have faith in the crew who must be gentle and precise with the machinery to maintain quality. He stresses that they cannot go too fast, must pick gently, and get the speed just right to avoid ripping plants. The harvester's rotating tines agitate the water, causing bright red cranberries to float to the surface, where they are scooped up and funneled into large collection bins, then deposited into floating black bins arranged in a grid. The sun glints off the water, creating a shimmering effect under the golden morning light, as the harvester continues its work. The speaker adds that the crew is under pressure to cover significant acreage in a day, needing to finish before the weather gets cold. In the background, a red dump truck and a black dump truck are visible near the edge of the field, ready for transport.",
+        "The video opens with an aerial view of a flooded cranberry field, where a calm, reflective male voice speaks of an \"8-week window\" to complete the harvest. An orange and green Blueberry Harvester, repurposed for cranberries, actively moves through the shallow water, shaking red berries loose from the vines and depositing them into floating black bins attached to its rear. The camera follows the harvester from multiple angles, including a close-up of the operator, Jon Duckart—a bearded man in a black beanie and red hoodie—who appears focused on steering the machine. Jon's clear, direct voice then explains their \"fresh fruit picking\" harvest style, noting it's a \"modernized method of hand-picking for fresh fruit sales\" and \"a lot slower and tedious process,\" distinct from conventional methods. A wide aerial shot reveals multiple harvesters working in parallel across the flooded field, with Red and Black Dump Trucks visible in the background. As vibrant red cranberries are dumped into the bins, Jon continues, describing the process as \"a lot more delicate\" where they are \"slowly raking the cranberries up and putting them in a boat,\" emphasizing the unique harvest approach. The scene transitions to a sweeping panoramic view of the field at sunrise, with the sun casting golden light across the water and machinery. The segment concludes with Jon Duckart speaking directly to the camera, standing in the field, reinforcing his role, while the initial male voice returns, reflecting on the \"7-8 weeks of nose to the storm,\" dealing with \"weather\" and \"breakdowns,\" as the environment shifts from early morning light to bright daylight, underscoring the scale and coordination of the operation."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 12,
+      "end_minute": 14,
+      "summary": "The narrative begins in a flooded cranberry field at sunrise, where a large orange and green harvester mechanically shakes cranberries into floating bins, the sounds of its operation audible over rippling water. These berries are then conveyed and collected, with a yellow excavator transferring bins to a red dump truck. Inside a processing facility, the cranberries are washed and dried; Erik Duckart explains the drying room process of separating debris and the careful balance of heat required to avoid cooking them, emphasizing constant monitoring of temperature and flow. Workers in various colored shirts and hairnets manage machinery and large gray plastic crates, which are moved by a forklift. Cranberries are sprayed with a \"sanidate\" to kill bacteria before being transported via a dual conveyor system to a propane-heated dryer and then a cooler for cold storage. An electronic sorter, equipped with color cameras and lasers, performs a final inspection, followed by a hand inspection. Workers place inspected berries into white plastic crates and guide them through machinery. The cranberries are then elevated to a packaging machine that seals and labels \"Ocean Spray\" branded white bags, which are placed into \"FRESH CRANBERRIES\" cardboard boxes for shipment nationwide and worldwide. These boxes are stacked onto pallets in a warehouse by workers, with a forklift assisting in moving crates.",
+      "involved_entities": {
+        "Erik Duckart": {
+          "description": "Erik Duckart, a younger man with a beard, wearing a dark hoodie with 'Montana Hard Wear' branding and a cap, is identified as the 5th generation grower. He is seen observing the cranberry flow on the conveyor inside the processing facility, and his voice explains his role in operating the drying room and the initial steps of separating berries from grass, leaves, and debris.",
+          "attribute": "audio-visual"
+        },
+        "Conveyor System": {
+          "description": "A long, industrial conveyor belt system inside the processing facility, transporting wet cranberries from unloading to washing and sorting stations, with berries tumbling along its length, described by a male narrator as the initial stage before electronic sorting.",
+          "attribute": "audio-visual"
+        },
+        "Cranberries": {
+          "description": "Vibrant red, glossy berries shown in close-up, moving along conveyor belts, tumbling into processing machinery, and being sorted and stored in gray plastic crates, glistening with moisture and occasionally mixed with green leaves; their journey through electronic sorting, hand inspection, and packaging is detailed by a male narrator.",
+          "attribute": "audio-visual"
+        },
+        "Red Dump Truck": {
+          "description": "A red dump truck with a raised bed, parked near the edge of the flooded field, visible in the background during the harvesting process, now actively receiving cranberries from a yellow excavator.",
+          "attribute": "visual"
+        },
+        "Yellow Excavator": {
+          "description": "A yellow New Holland excavator with a crane arm, lifting and transferring bins of cranberries from the field to a red dump truck, operating with precision in a sunny outdoor setting.",
+          "attribute": "visual"
+        },
+        "Flooded Field": {
+          "description": "A section of the cranberry field intentionally flooded with water, allowing the harvester to shake berries loose and float them to the surface for collection, shown under golden sunrise light.",
+          "attribute": "visual"
+        },
+        "Blueberry Harvester": {
+          "description": "A large orange and green agricultural machine, identified as a cranberry harvester, is seen actively shaking cranberries from vines into floating bins in the flooded field, accompanied by its distinct mechanical operating sounds and the rippling of water.",
+          "attribute": "audio-visual"
+        },
+        "Worker in Red Shirt": {
+          "description": "A man wearing a red shirt, actively managing large gray plastic crates filled with cranberries, seen operating machinery and overseeing the flow of berries in the processing facility.",
+          "attribute": "visual"
+        },
+        "Processing Facility": {
+          "description": "A large industrial building with high ceilings, metal beams, and bright fluorescent lighting, housing conveyor systems, sorting machinery, and storage areas for cranberries, where a male narrator describes the comprehensive process from sorting with color cameras and lasers to hand inspection and final packaging for global distribution.",
+          "attribute": "audio-visual"
+        },
+        "Worker in Hairnet": {
+          "description": "A worker wearing a white hairnet and dark shirt, standing beside the multi-tiered sorting machine, actively monitoring and adjusting the cranberry flow during processing.",
+          "attribute": "visual"
+        },
+        "Gray Plastic Crates": {
+          "description": "Large, stackable gray plastic crates filled with cranberries, arranged in neat rows and columns throughout the warehouse, used for storage and transport within the facility.",
+          "attribute": "visual"
+        },
+        "Multi-tiered Sorting Machine": {
+          "description": "A large, multi-tiered metal machine with horizontal slats, used for sorting or drying cranberries, with a worker in a hairnet monitoring the process and adjusting components; a male narrator identifies this as an 'electronic sorter' equipped with 'color cameras and lasers' for detailed inspection.",
+          "attribute": "audio-visual"
+        },
+        "Yellow Hopper": {
+          "description": "A large yellow hopper used to pour cranberries into a processing bin, positioned above a conveyor system, facilitating the transfer of berries to the next stage of processing.",
+          "attribute": "visual"
+        },
+        "Worker in Gray Shirt with 'FEDERAL'": {
+          "description": "A man wearing a gray shirt with 'FEDERAL' printed on the back, assisting in handling cranberries and operating machinery within the processing facility, visible near the sorting machine.",
+          "attribute": "visual"
+        },
+        "Forklift": {
+          "description": "A red forklift operated by a worker in a red jacket, maneuvering pallets of gray plastic crates filled with cranberries through the warehouse, moving efficiently between stacks.",
+          "attribute": "visual"
+        },
+        "Cardboard Boxes": {
+          "description": "Brown cardboard boxes labeled 'FRESH CRANBERRIES' with the Ocean Spray logo, used for packaging the sealed bags of cranberries and stacked on pallets in the warehouse; a male narrator explains these contain cranberries in 'many different sized bags and languages' for shipment 'all over the country and the world'.",
+          "attribute": "audio-visual"
+        },
+        "Sealing Machine": {
+          "description": "An automated machine that seals and labels white bags with 'Ocean Spray' branding, featuring a rotating mechanism and barcode printing, positioned above a conveyor belt; a male narrator refers to this as a 'packaging machine' that prepares cranberries for shipment.",
+          "attribute": "audio-visual"
+        },
+        "Worker in Yellow Shirt": {
+          "description": "A worker wearing a yellow shirt and yellow gloves, actively placing cranberries into white plastic crates and guiding them along the conveyor system.",
+          "attribute": "visual"
+        },
+        "Pallet Stacker": {
+          "description": "A mechanical device or worker-operated system used to stack cardboard boxes onto wooden pallets in the warehouse, ensuring stability and efficiency in storage.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a serene wide shot of a flooded cranberry field under a clear blue sky, a lone figure walking along a grassy path, setting an early-morning atmosphere. A male voice describes the routine of starting at sunrise and working until sundown. Gentle, evolving orchestral music begins to play as the scene transitions to an aerial view of a large orange and green cranberry harvester, now actively shaking cranberries from vines into floating bins in the flooded field, its distinct mechanical sounds audible amidst the water rippling around it. Close-ups show the vibrant red berries being lifted by a mechanical conveyor, cascading into a collection bin, emphasizing the harvest's intensity. The camera then follows a yellow New Holland excavator lifting a bin full of cranberries and transferring them into a red dump truck, with an aerial shot capturing the precise coordination. The music intensifies as the sequence continues with a high-angle view of the truck moving through a farmyard, unloading berries into a processing facility where a conveyor belt transports the cranberries through a washing station. Inside the facility, Erik Duckart, a man in a dark hoodie with 'Montana Hard Wear' branding and a cap, observes the process. His voice explains that he operates the drying room and describes how they separate the berries from all the grass, leaves, and debris. Close-ups reveal the glistening berries tumbling along the conveyor, as the lighting shifts from golden sunrise to bright daylight, highlighting the scale and efficiency of the operation before the music fades out.",
+        "The segment opens with a close-up of glistening, vibrant red cranberries, some still on green stems, as a gentle, ambient background music begins. A male voice explains they are sprayed with a \"sanidate,\" an organic peroxide to kill any bacteria on the berries. The scene transitions to an industrial processing facility where these cranberries are rapidly transported by a dual conveyor system, moving down inclined belts and then up an \"elevator\" onto a large, \"propane heated dryer.\" They cascade into a rotating metal drum for washing or sorting before flowing onto a flat conveyor belt. Another male voice emphasizes the careful balance of heat needed for drying, stating, \"You don't want to get 'em too hot because you'll cook 'em,\" and highlights the constant monitoring of temperature and \"gravity flowing through the system at a constant speed,\" as the berries are spread out for further processing. Workers in red and dark clothing operate machinery and manage large gray plastic crates filled with cranberries, stacked high in a warehouse. A forklift maneuvers pallets of these crates. The first voice continues, explaining that from the dryer, the cranberries go \"through the wall into the cooler and bend and stored in cold storage,\" describing the facility as a \"massive building,\" an \"industrial cooler\" that is \"floor to ceiling with fruit all the way to the back.\" An aerial view shows the entire plant and surrounding fields. Inside, cranberries are poured from a yellow hopper into a large bin, then transferred to a multi-tiered drying or sorting machine, where a worker in a hairnet monitors the process. The facility is brightly lit, showcasing cranberries in various stages, from wet to sorted and stored. The second voice concludes by identifying them as \"Ocean Spray growers,\" who package the berries \"as needed.\" The overall atmosphere is one of efficient, large-scale agricultural processing, focused on the journey of cranberries from harvest to storage.",
+        "The video opens inside a brightly lit industrial processing facility, where a complex conveyor system transports vibrant red cranberries. A male narrator explains the process, detailing how the cranberries move along a blue conveyor belt, tumbling down an inclined chute into a large sorting machine labeled 'tyx'. He identifies this as an \"electronic sorter\" equipped with \"color cameras and lasers\" for a \"final inspection.\" Workers in protective gear, including one in a yellow shirt and another in a gray shirt with 'FEDERAL' on the back, are seen actively managing the flow of berries, placing them into white plastic crates and guiding them through the machinery. The narrator mentions a subsequent \"hand inspection\" table where people are \"lined up.\" The camera pans across the facility, capturing the intricate network of metal frames and conveyor belts. The narrator then describes the berries being \"elevated\" and going through a \"packaging machine.\" A close-up reveals this machine sealing and labeling white bags with 'Ocean Spray' branding, which are then placed into cardboard boxes labeled 'FRESH CRANBERRIES'. The narrator adds that these are put into \"many different sized bags and languages to be shipped all over the country and the world.\" The scene transitions to a warehouse area where workers stack the filled boxes onto pallets, with a forklift maneuvering large stacks of crates. Throughout, a consistent background music track plays, accompanying the visual narrative of this clean, organized, and highly mechanized cranberry processing workflow."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 15,
+      "end_minute": 15,
+      "summary": "Inside a brightly lit warehouse, a worker in dark clothing operates a green forklift, navigating a tall pallet of cardboard boxes marked 'FRESH CRANBERRIES' and bearing the Ocean Spray logo through narrow aisles between extensive stacks of similar boxes, all underscored by continuous ambient instrumental music. The forklift then enters a refrigerated storage unit, a cold, frost-covered room illuminated by red lighting, highlighting temperature-controlled preservation. Transitioning to an aerial perspective, a red semi-truck drives along a snow-covered rural road bordered by trees and fields, with the ambient music persisting. A ground-level view reveals a wooden 'JACOB SEARLS CRANBERRY CO.' sign against a clear blue sky and autumnal trees. The concluding shots present a black-and-white exterior of the Jacob Searls Cranberry Company's brick building, featuring a stone sign above a garage door reading 'JACOB SEARLS CRANBERRY COMPANY,' accompanied by overlaid company identification, copyright, and production credits as the music gradually fades.",
+      "involved_entities": {
+        "Cardboard Boxes": {
+          "description": "Brown cardboard boxes labeled 'FRESH CRANBERRIES' with the Ocean Spray logo, stacked on pallets in the warehouse and transported by the forklift.",
+          "attribute": "visual"
+        },
+        "Refrigerated Storage Unit": {
+          "description": "A cold, frost-covered storage room with red lighting, where the forklift enters to store the cranberry boxes, emphasizing temperature-controlled preservation.",
+          "attribute": "visual"
+        },
+        "Red Semi-Truck": {
+          "description": "A red semi-truck driving along a snow-covered rural road, seen from an aerial perspective, indicating transportation of goods.",
+          "attribute": "visual"
+        },
+        "Forklift": {
+          "description": "A green forklift operated by a worker in dark clothing, maneuvering pallets of cardboard boxes labeled 'FRESH CRANBERRIES' with the Ocean Spray logo through a warehouse and into a refrigerated storage unit.",
+          "attribute": "visual"
+        },
+        "JACOB SEARLS CRANBERRY CO. Sign": {
+          "description": "A wooden sign with the company name 'JACOB SEARLS CRANBERRY CO.' and a logo, standing in a grassy field under a clear blue sky, surrounded by autumn trees.",
+          "attribute": "visual"
+        },
+        "Jacob Searls Cranberry Company Building": {
+          "description": "A brick building with a stone sign above a white garage door reading 'JACOB SEARLS CRANBERRY COMPANY,' shown in black-and-white with overlaid text including copyright and production credits.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens inside a brightly lit warehouse, where a green forklift, operated by a worker in dark clothing, maneuvers a tall pallet stacked with cardboard boxes labeled 'FRESH CRANBERRIES' and featuring the Ocean Spray logo. The forklift moves through narrow aisles between towering stacks of similar boxes, showcasing the scale of storage, all set to a gentle, ambient instrumental music that plays continuously. The scene transitions to a refrigerated storage unit, where the forklift enters a cold, frost-covered room with red lighting, emphasizing temperature-controlled preservation, as the same music continues. The video then shifts to an aerial view of a snowy rural landscape, showing a red semi-truck driving along a snow-covered road flanked by trees and fields, still accompanied by the ambient music. This is followed by a ground-level shot of a wooden sign reading 'JACOB SEARLS CRANBERRY CO.' set against a clear blue sky and autumnal trees. The final frames show a black-and-white exterior of a brick building with a stone sign above a garage door that reads 'JACOB SEARLS CRANBERRY COMPANY,' overlaid with text identifying the company and copyright information, along with production credits, as the ambient music slowly fades out. The sequence highlights the journey from warehouse storage to transportation and the company’s physical identity."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Man in Pickup Truck": "A man wearing a cap, visible through the windshield, driving the pickup truck with a focused expression, likely overseeing farm operations during early morning hours.",
+    "Pickup Truck": "A silver pickup truck equipped with auxiliary lights on the front bumper and a roof-mounted light bar, driven by a man wearing a cap, navigating misty fields during sunrise, seen moving along a dirt path between mounded cranberry beds at dawn.",
+    "Blueberry Fields": "Extensive, rectangular plots of land arranged in a grid pattern, now flooded in parts, with vibrant green vegetation and red berries, bordered by waterways and trees.",
+    "Blueberry Harvester": "A large orange and green agricultural machine, identified as a cranberry harvester, is seen actively shaking cranberries from vines into floating bins in the flooded field, accompanied by its distinct mechanical operating sounds and the rippling of water.",
+    "Robert Duckart": "A middle-aged man wearing a gray cap with 'Caterpillar Diesel' embroidered in yellow, glasses, and a gray fleece jacket, speaking in a snowy field with a deeper, slightly gravelly voice. He explains how the sand filters down to plants when ice melts, covers old growth and insect pests living in the soil layer, effectively burying them, and also keeps the cranberry beds warmer. He is identified as the 4th generation grower and owner of Jacob Searls Cranberry Co.",
+    "Worker with Shovel": "Workers actively shoveling dark soil into a large trailer and manually spreading it across the field, performing the labor-intensive tasks of field preparation and vine planting as detailed by the voiceover, including removing clumps of vines.",
+    "Erik Duckart": "Erik Duckart, a younger man with a beard, wearing a dark hoodie with 'Montana Hard Wear' branding and a cap, is identified as the 5th generation grower. He is seen observing the cranberry flow on the conveyor inside the processing facility, and his voice explains his role in operating the drying room and the initial steps of separating berries from grass, leaves, and debris.",
+    "Red Tractor with Box": "A red tractor pulling a long, rectangular box, spreading soil across a cleared section of a snow-covered field, visible in an aerial shot, indicating winter field maintenance.",
+    "Aerial Drone View": "A high-angle, sweeping aerial perspective capturing the entire field operation, including the layout of material piles, machinery movement, and surrounding snowy landscape, providing context for the scale of the work.",
+    "Red Dump Truck": "A red dump truck with a raised bed, parked near the edge of the flooded field, visible in the background during the harvesting process, now actively receiving cranberries from a yellow excavator.",
+    "Jon Duckart": "A bearded man wearing a black beanie with 'Orhan' text, a red hoodie, and a dark jacket with 'Joseph Equipment' branding, seen operating the Blueberry Harvester with focused attention in the flooded field. He also speaks directly to the camera, explaining their 'fresh fruit picking' harvest style, which is a 'modernized method of hand-picking' that is 'a lot more delicate' and involves 'slowly raking the cranberries up and putting them in a boat.' His voice is clear, direct, and informative.",
+    "Blue Tractor with Blade": "A blue tractor equipped with a front-mounted blade, actively moving along a dirt path while pulling a large white irrigation boom, spraying water across the field, likely involved in the crop fertilization mentioned by the speaker.",
+    "Excavator and Conveyor System": "A yellow excavator and associated conveyor belts at an excavation site, processing and transporting earth, visible in an aerial shot with surrounding snow and rock piles.",
+    "Black Dump Truck": "A black dump truck with a raised bed, unloading similar brown material onto the field, shown in a side view with snow and cleared ground in the background, now visible near the flooded field.",
+    "White Dump Truck": "A large white dump truck labeled 'JACOB SEARLS CRANBERRY CO. WISCONSIN RAPIDS, WI' unloading brown granular material onto a snow-covered field, creating long, parallel strips.",
+    "Worker in Red Shirt": "A man wearing a red shirt, actively managing large gray plastic crates filled with cranberries, seen operating machinery and overseeing the flow of berries in the processing facility.",
+    "Blue Tractor with Trailer": "A blue tractor pulling a green trailer loaded with stacked bundles of harvested material, moving through a field and shown from various angles, including aerial and ground-level views.",
+    "Worker in Gray Shirt with 'FEDERAL'": "A man wearing a gray shirt with 'FEDERAL' printed on the back, assisting in handling cranberries and operating machinery within the processing facility, visible near the sorting machine.",
+    "Harvested Plant Bundles": "Large, dense bundles of harvested green plants, tied with red twine, being manually loaded onto a trailer by workers, indicating a post-harvest operation.",
+    "Green Tractor with Tank Attachment": "A green tractor equipped with a large cylindrical tank mounted on a frame at the rear, used for field preparation, operated by a man in a gray polo shirt and glasses, moving across a dry, sandy field.",
+    "Field": "A vast, flat agricultural field with lush green cranberry plants in full bloom, bordered by trees and under a bright blue sky. It contains the 'canopy of the vines' where bees distribute pollen, and the plants are in 'bloom' for 'two or three weeks' to ensure 'good coverage' for fruit development.",
+    "Bee": "A small, fuzzy bee with yellow and black stripes, actively flying between cranberry blossoms, collecting nectar and pollen. Identified as 'honeybees or bumblebees,' they collect 'pollen on their legs' and distribute it through the 'canopy of the vines.' They are described as the 'two main pollinating insects' brought in as a 'supplement' to ensure a 'decent crop' and 'good coverage' during the bloom, acting as an 'insurance policy' despite the expense of bringing in their 'colonies'.",
+    "Cranberry Blossoms": "Delicate white flowers with bell-shaped petals and red centers, growing densely among green foliage, shown in close-up with a bee pollinating them. They are described as being in their 'bloom or blossom period' for 'two or three weeks' during which good coverage for fruit development is sought.",
+    "Aerial View of Field": "A high-angle, sweeping drone shot showing the entire field divided into large rectangular plots, with the green tractor working in one section, providing context for the scale of the operation.",
+    "Man in Gray Polo Shirt": "A middle-aged man with glasses, wearing a gray polo shirt and khaki shorts, operating the green tractor with focused attention, seen from multiple angles including side and front views.",
+    "Sunrise Scene": "A tranquil sunrise over the field with golden light radiating from the horizon, accompanied by the word 'SUMMER' displayed in bold, golden letters, marking the seasonal transition.",
+    "Irrigation Boom": "A large white articulated boom attached to the blue tractor, extending horizontally and spraying water in a wide arc across the field, used for field maintenance or pre-harvest irrigation.",
+    "Worker on Harvester": "A man in dark clothing, standing on the harvester, overseeing the cranberry harvesting operation in the flooded field, visible operating the machine.",
+    "Flooded Field": "A section of the cranberry field intentionally flooded with water, allowing the harvester to shake berries loose and float them to the surface for collection, shown under golden sunrise light.",
+    "Conveyor System": "A long, industrial conveyor belt system inside the processing facility, transporting wet cranberries from unloading to washing and sorting stations, with berries tumbling along its length, described by a male narrator as the initial stage before electronic sorting.",
+    "Cranberries": "Vibrant red, glossy berries shown in close-up, moving along conveyor belts, tumbling into processing machinery, and being sorted and stored in gray plastic crates, glistening with moisture and occasionally mixed with green leaves; their journey through electronic sorting, hand inspection, and packaging is detailed by a male narrator.",
+    "Yellow Excavator": "A yellow New Holland excavator with a crane arm, lifting and transferring bins of cranberries from the field to a red dump truck, operating with precision in a sunny outdoor setting.",
+    "Processing Facility": "A large industrial building with high ceilings, metal beams, and bright fluorescent lighting, housing conveyor systems, sorting machinery, and storage areas for cranberries, where a male narrator describes the comprehensive process from sorting with color cameras and lasers to hand inspection and final packaging for global distribution.",
+    "Worker in Hairnet": "A worker wearing a white hairnet and dark shirt, standing beside the multi-tiered sorting machine, actively monitoring and adjusting the cranberry flow during processing.",
+    "Gray Plastic Crates": "Large, stackable gray plastic crates filled with cranberries, arranged in neat rows and columns throughout the warehouse, used for storage and transport within the facility.",
+    "Multi-tiered Sorting Machine": "A large, multi-tiered metal machine with horizontal slats, used for sorting or drying cranberries, with a worker in a hairnet monitoring the process and adjusting components; a male narrator identifies this as an 'electronic sorter' equipped with 'color cameras and lasers' for detailed inspection.",
+    "Yellow Hopper": "A large yellow hopper used to pour cranberries into a processing bin, positioned above a conveyor system, facilitating the transfer of berries to the next stage of processing.",
+    "Forklift": "A green forklift operated by a worker in dark clothing, maneuvering pallets of cardboard boxes labeled 'FRESH CRANBERRIES' with the Ocean Spray logo through a warehouse and into a refrigerated storage unit.",
+    "Cardboard Boxes": "Brown cardboard boxes labeled 'FRESH CRANBERRIES' with the Ocean Spray logo, stacked on pallets in the warehouse and transported by the forklift.",
+    "Sealing Machine": "An automated machine that seals and labels white bags with 'Ocean Spray' branding, featuring a rotating mechanism and barcode printing, positioned above a conveyor belt; a male narrator refers to this as a 'packaging machine' that prepares cranberries for shipment.",
+    "Worker in Yellow Shirt": "A worker wearing a yellow shirt and yellow gloves, actively placing cranberries into white plastic crates and guiding them along the conveyor system.",
+    "Pallet Stacker": "A mechanical device or worker-operated system used to stack cardboard boxes onto wooden pallets in the warehouse, ensuring stability and efficiency in storage.",
+    "Refrigerated Storage Unit": "A cold, frost-covered storage room with red lighting, where the forklift enters to store the cranberry boxes, emphasizing temperature-controlled preservation.",
+    "Red Semi-Truck": "A red semi-truck driving along a snow-covered rural road, seen from an aerial perspective, indicating transportation of goods.",
+    "JACOB SEARLS CRANBERRY CO. Sign": "A wooden sign with the company name 'JACOB SEARLS CRANBERRY CO.' and a logo, standing in a grassy field under a clear blue sky, surrounded by autumn trees.",
+    "Jacob Searls Cranberry Company Building": "A brick building with a stone sign above a white garage door reading 'JACOB SEARLS CRANBERRY COMPANY,' shown in black-and-white with overlaid text including copyright and production credits."
+  }
+}

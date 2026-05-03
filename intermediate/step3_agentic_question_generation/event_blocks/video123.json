@@ -1,0 +1,349 @@
+{
+  "video_id": "video123",
+  "audio_id": "video123_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 11,
+      "summary": "The video begins with an exterior view of a McDonald's restaurant, transitioning to an interior shot where a customer, using a self-service kiosk, navigates the menu, selects 'Spicy McMuffins' and a coffee deal, and customizes a large iced coffee with specific preferences for sweetness and cream. The customer then attempts to order a 'Big Breakfast,' encountering an issue with using a deal, and proceeds to payment via card. Later, the customer receives order number '43' and collects their meal, which includes a drink and a McDonald's bag, but expresses dissatisfaction, stating, \"This does not look right.\" Upon returning to a table, the customer unpacks the meal, revealing a sausage McMuffin, fries, and sauce, but expresses confusion about receiving syrup and butter, questioning the order's accuracy. The customer then assembles a breakfast sandwich with a sausage McMuffin, biscuit, and hash browns, noting the presence of a coffee drink labeled '1065'. Further confusion arises regarding the order contents, with the customer musing, \"I thought I had pancakes,\" and \"I don't even know if I messed up.\" The scene shifts to the customer preparing a sandwich, buttering a biscuit half with a black plastic knife and assembling it with a sausage patty and egg, expressing satisfaction with the sandwich. Amidst background restaurant sounds and order number announcements, the customer enjoys the meal, with the tray containing the coffee, a McDonald's bag, and crumbs from the meal.",
+      "involved_entities": {
+        "McDonald's Restaurant": {
+          "description": "Interior features wooden paneling at the McCafé counter, tiled floors, dark brick walls, and digital menu boards; bright overhead lighting with visible ceiling fixtures. The restaurant is characterized by a bustling atmosphere with ambient sounds of muffled conversations, clatter, and distinct female voices calling out order numbers.",
+          "attribute": "audio-visual"
+        },
+        "Self-Service Kiosk": {
+          "description": "White kiosk with a large touchscreen displaying a breakfast sandwich and options like 'Order Pickup', 'Order McDelivery', 'Get Deals', and 'Earn Free Food'; includes a straw dispenser and a black ECOLAB Hand Sanitizer dispenser.",
+          "attribute": "visual"
+        },
+        "Customer at Table": {
+          "description": "Seated at a table near the window, wearing a gray shirt and blue cap, holding a yellow drink cup, visible in the background.",
+          "attribute": "visual"
+        },
+        "Kiosk Screen Interface": {
+          "description": "Displays breakfast menu with options like Hotcakes, Hotcakes and Sausage, and Big Breakfast; transitions to customization screen, order confirmation, and payment interface with keypad for card entry.",
+          "attribute": "visual"
+        },
+        "Yellow Wet Floor Signs": {
+          "description": "Placed near the counter, yellow with McDonald’s logo and 'WET FLOOR' text, indicating caution.",
+          "attribute": "visual"
+        },
+        "Woman in Pink Dress": {
+          "description": "Standing near the entrance, wearing a red patterned dress, carrying a black bag, arms crossed, observing the counter area.",
+          "attribute": "visual"
+        },
+        "Man in Blue Shirt and Shorts": {
+          "description": "Standing at the pickup counter, wearing a blue t-shirt and dark shorts, receiving a bag and drink from the employee.",
+          "attribute": "visual"
+        },
+        "Hand Holding Smartphone": {
+          "description": "Visible intermittently, holding a phone with the McDonald's app open, showing a coffee deal and QR code, used to interact with the kiosk. This hand belongs to the male customer whose voice is heard making selections and comments.",
+          "attribute": "audio-visual"
+        },
+        "Blue Pickup Truck": {
+          "description": "Parked at curbside pickup lane, visible near the entrance with 'SILVERADO' branding on the side.",
+          "attribute": "visual"
+        },
+        "Man in Red Shirt": {
+          "description": "Walking past the kiosk, wearing a red shirt and dark pants, briefly visible in the background.",
+          "attribute": "visual"
+        },
+        "Boy in Orange Shirt": {
+          "description": "Running past the kiosk toward the counter, wearing an orange t-shirt and white shorts, dark shoes, energetic movement.",
+          "attribute": "visual"
+        },
+        "Man in White Robe and Cap": {
+          "description": "Standing at the main counter, wearing a white robe and white cap, barefoot with white socks, handing over payment and receiving a drink cup from the cashier.",
+          "attribute": "visual"
+        },
+        "Counter Area": {
+          "description": "Service counter with multiple registers, digital screens, and a glass display case for McCafé items; includes a 'SKIP THE LINE' sign promoting mobile ordering.",
+          "attribute": "visual"
+        },
+        "McDonald’s Employee in Red Vest": {
+          "description": "Standing behind the counter, wearing a red vest over a black shirt, assisting customers, visible near the cash register with a number '32' sign; later seen wearing a pink safety vest over her uniform while handing over a drink and bag. A loud, clear female voice, likely belonging to this employee or another staff member, is heard calling out order numbers such as 'Hey yo! 2602!' and '273!' and '73!'.",
+          "attribute": "audio-visual"
+        },
+        "Order Number Card": {
+          "description": "The camera operator explicitly mentions \"43\" when asked about his order, and later \"49,\" indicating his order numbers.",
+          "attribute": "audio-visual"
+        },
+        "Man in Black Shirt and Blue Shorts": {
+          "description": "Standing at the McCafé counter, wearing a black t-shirt with a red graphic, blue shorts, and black shoes, holding a receipt or order slip, interacting with the staff.",
+          "attribute": "visual"
+        },
+        "Digital Menu Boards": {
+          "description": "Large screens above the counter displaying breakfast, beverages, and other menu items with images and text, including 'Summertime deliciousness' and 'Breakfast Meals'.",
+          "attribute": "visual"
+        },
+        "McCafé Counter": {
+          "description": "Service counter with a 'McCafé EST. 1993' sign, wooden slat design, and glass display case for McCafé items.",
+          "attribute": "visual"
+        },
+        "Camera Operator": {
+          "description": "The primary speaker, heard commenting on his order (\"Here it is,\" \"Hotcakes,\" \"Strawberry\"), questioning the lack of a receipt (\"What? I didn't print one\"), confirming his order number (\"43\"), discussing a \"big breakfast without pancakes\" with an employee, expressing frustration (\"I guess I messed up,\" \"Oh, that sucks,\" \"Whatever\"), planning to \"make a crazy sandwich,\" and later noting, \"I thought I had pancakes,\" and \"I don't even know if I messed up,\" before mentioning \"49.\"",
+          "attribute": "audio-visual"
+        },
+        "McDonald’s Employee in Red Shirt and Cap": {
+          "description": "Wearing a red shirt, red cap, and face mask, walking near the counter area, carrying a white cup and interacting with the environment.",
+          "attribute": "visual"
+        },
+        "McDonald’s Employee in Pink Safety Vest": {
+          "description": "Wearing a pink safety vest over her uniform, handing over a drink and bag to the Man in White Robe and Cap.",
+          "attribute": "visual"
+        },
+        "Breakfast Tray": {
+          "description": "Black tray with a sausage McMuffin, biscuit, hash browns, and a coffee drink labeled '1065', placed on a table next to a McDonald’s bag.",
+          "attribute": "visual"
+        },
+        "Coffee Drink with Label '1065'": {
+          "description": "Clear plastic cup with a brown beverage, topped with foam, featuring a white label with the number '1065' and McDonald’s branding.",
+          "attribute": "visual"
+        },
+        "McDonald’s Employee in Yellow Safety Vest": {
+          "description": "Wearing a black shirt under a yellow safety vest, holding a brown paper bag and a drink cup, interacting with the Man in Blue Shirt and Shorts at the pickup counter.",
+          "attribute": "visual"
+        },
+        "Black Plastic Knife": {
+          "description": "Small black plastic knife used by the camera operator to open and spread butter on the biscuit.",
+          "attribute": "visual"
+        },
+        "Man in Plaid Shirt and Cap": {
+          "description": "Standing at the McCafé counter, wearing a blue and white plaid shirt and a beige cap, holding a drink and interacting with the counter staff.",
+          "attribute": "visual"
+        },
+        "McDonald’s Bag": {
+          "description": "White paper bag with golden arches pattern and red McDonald’s logo, standing upright on the table.",
+          "attribute": "visual"
+        },
+        "Biscuit Half": {
+          "description": "Golden-brown biscuit half held in the camera operator’s hand, being buttered with a knife, then assembled into a sandwich and bitten into, with the camera operator expressing satisfaction with remarks like 'Mmm, that's good' and 'Mmm-hmm'.",
+          "attribute": "audio-visual"
+        },
+        "Butter Packet": {
+          "description": "Small foil-wrapped packet of butter, opened with the knife and spread onto the biscuit half.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with an exterior view of a modern McDonald's restaurant under a partly cloudy sky, where a blue pickup truck is parked at the curbside pickup lane and a woman in a pink dress walks toward the entrance. A male voice, presumably the person filming, states, \"All right, Mickey D's for breakfast. Pretty hungry,\" as the camera moves closer to the glass doors, revealing interior signage for 'SNACK WRAP' and 'ICE'. A distinct door opening sound is heard as the camera enters the clean, contemporary interior, featuring wooden flooring, patterned walls, and self-service kiosks. General restaurant ambiance, including distant chatter and a child's voice, fills the background. A man in a blue shirt and shorts is seen interacting with a kiosk, while other customers are seated. The camera focuses on a kiosk screen displaying a login prompt with a QR code scanner. The male voice says \"Yeah\" as a hand holding a smartphone scans the QR code. After scanning, the screen welcomes the user back and displays the main menu with categories like 'McMuffin and Biscuits' and a promotional banner for 'A SPICY GOOD MORNING'. The male voice mentions \"points\" and \"Come on\" as a finger taps on the 'Spicy McMuffins' option, indicating an order selection. A child's voice is heard saying \"Daddy!\" and other words amidst the background chatter. The male voice then says, \"All right, so there's that,\" and \"I got points,\" followed by \"You guys ready?\" and a child's voice responding \"No.\" The environment is bright and well-lit, with visible hand sanitizer stations and yellow 'Wet Floor' signs.",
+        "The minute opens inside a modern McDonald's, featuring wooden floors and patterned walls, as a customer interacts with a bright self-service kiosk. Distant children's voices and faint background music are audible. A male voice asks, \"Where is it?\" as a hand repeatedly taps the screen, navigating the breakfast menu which displays options like Hotcakes and Sausage with prices and calorie counts. The voice comments on \"value like,\" \"two for two,\" and \"homestyle breakfast\" before selecting 'Hotcakes and Sausage'. The screen briefly prompts \"Still deciding?\" then confirms the selection, with the voice noting \"599\" and saying \"add to order,\" then \"got it.\" A hand holding a smartphone with the McDonald's app and a coffee deal appears, and the male voice states, \"then I got some deals, let's see.\" The kiosk screen transitions to a promotional offer for '$0.99 any size Premium Roast or Iced Coffee,' which the user selects by tapping 'Use Deal,' accompanied by the voice saying \"add a coffee,\" \"premium roast,\" and \"use deal.\" The voice then queries \"restaurant code\" and \"maybe?\" as the kiosk processes the order, concluding with \"come up.\" In the background, a customer in a gray shirt sits at a table near the window, and a yellow 'WET FLOOR' sign is visible near the seating area, while a man in a red shirt walks past the kiosk.",
+        "Inside a modern McDonald's with wooden floors and patterned walls, a customer interacts with a white Self-Service Kiosk, holding a smartphone. The kiosk screen initially displays a '$0.99 any size Premium Roast or Iced Coffee' deal. The customer's male voice is heard considering options, asking \"Oh, what else I got in here?\" before tapping 'Use Deal' and reacting with a satisfied \"Nice.\" He continues to ponder, stating, \"I think there's another deal I got,\" as the screen transitions to a 'Select product' menu. Deciding aloud, \"Yeah, what do I want? I want a iced...\", he selects 'Iced Coffee', then chooses 'Large' size, confirming the price with \"Yes, large is for a dollar, right?\". He proceeds to customize the drink, expressing preferences like \"Not super sweet,\" \"More cream,\" and \"Light on the liquid sugar,\" before confirming \"Save changes.\" The screen updates to show the deal applied, with the total at $0.99. Throughout the interaction, background restaurant chatter and a distant child's voice saying \"Get stop!\" contribute to the ambient soundscape. A Customer at Table and a Man in Red Shirt are visible in the background, along with Yellow Wet Floor Signs and an ECOLAB Hand Sanitizer dispenser mounted on the kiosk.",
+        "Inside a modern McDonald's with wooden floors and patterned walls, a customer interacts with a white self-service kiosk, which features an ECOLAB Hand Sanitizer dispenser. The kiosk screen displays the breakfast menu, including Hotcakes and Big Breakfast, with calorie counts and prices visible. The customer, heard saying \"to order, cool. It's kind of fun,\" selects the 'Big Breakfast' option. They attempt to use a deal, remarking \"I've already used the deal. Oh, so I don't get a new deal. Okay. That's upsetting. I guess you can only do one deal a day.\" They then customize the Big Breakfast, adjusting ingredients like scrambled eggs, sausage, and biscuit, adding it to their order with a decisive \"Bam\" after an internal deliberation, saying \"Not today. No, remove that guy.\" The screen shows the item added to the bag, prompting a choice between 'Here' or 'To Go'. The customer proceeds to the payment screen, selecting 'Right here (Credit & Arch Cards Only)' and entering a card number via the on-screen keypad. In the background, natural light streams through large windows, illuminating a Customer at Table in a gray shirt and blue cap holding a yellow drink, a yellow Wet Floor Sign, and a Man in Red Shirt walking past. Amidst the interaction, a distinct voice is heard saying, \"Can't table 40,\" adding to the ambient restaurant sounds.",
+        "The video opens with a close-up of a white self-service kiosk screen, initially blank, then displaying a McDonald’s loyalty message to 'Keep collecting points' with a meal graphic and logo. A male voice is heard stating \"payment instructions\" as the screen transitions to a 'Thank You' message with a table and chairs graphic, accompanied by beeping and a 'ding' sound. The camera operator holds up a small white card displaying order number '43', and a male voice comments, \"Hmm, I guess you don't get more than one deal a day,\" likely referring to the kiosk interaction. The camera then pans right, revealing the bustling interior of the McDonald’s restaurant, characterized by modern decor with wooden flooring, patterned walls, and tiled floors near the counter. Amidst continuous background chatter and upbeat pop music, several customers are visible: a woman in a pink dress near the entrance, a man in a white robe and cap at the counter, and another man in a black shirt and blue shorts also ordering. A young boy in an orange shirt runs past the kiosk toward the counter area. The camera moves forward, passing yellow 'WET FLOOR' signs, toward the service counter where digital menu boards display breakfast and beverage options. A McDonald’s employee in a red vest is visible behind the counter, contributing to the lively atmosphere of customers waiting, ordering, and moving about under bright, even lighting from overhead fixtures and large windows, as the camera operator seemingly approaches to pick up their order.",
+        "The video opens inside a bustling McDonald's restaurant, characterized by its modern design with wooden paneling at the McCafé counter, tiled floors, and dark brick walls, all brightly lit by overhead fixtures, accompanied by the general sounds of a busy fast-food environment and background chatter. A man in a black t-shirt with a red graphic, blue shorts, and black shoes, holding a receipt, stands at the McCafé counter, interacting with a staff member preparing an order. The camera then shifts to a white self-service kiosk, where a hand reaches in to take a straw from a dispenser, while the screen displays a breakfast sandwich and options like 'Order Pickup', 'Order McDelivery', 'Get Deals', and 'Earn Free Food', next to a black ECOLAB Hand Sanitizer dispenser. The scene returns to the main counter area, which features multiple registers, digital screens, a glass display case for McCafé items, and a 'SKIP THE LINE' sign. Here, a McDonald’s employee in a red vest over a black shirt, visible near a '32' sign, calls out \"Order 24!\" amidst the activity. A man in a white robe and cap, barefoot with white socks, approaches this cashier, hands over payment, and receives a drink cup. During their interaction, the cashier is heard asking \"No, what are we having?\", and later a voice responds \"Good.\" and \"Yeah, yeah, yeah.\" The man in the black shirt and blue shorts, previously at McCafé, moves away after receiving his order. The counter environment remains active, with large digital menu boards above displaying breakfast and beverage options, including 'Summertime deliciousness' and 'Breakfast Meals'. A yellow 'WET FLOOR' sign with the McDonald’s logo is visible near the counter, as the McDonald’s employee continues assisting customers and the man in the white robe waits for his order, all within the bright, active atmosphere.",
+        "The video opens inside a bustling McDonald's Restaurant, focusing on the main counter area where digital menu boards display breakfast and beverage options, including 'Summertime deliciousness' and 'Breakfast Meals'. The McCafé counter, marked 'EST. 1993', is visible to the left. Amidst general restaurant ambiance and indistinct chatter, a voice calls out \"367\". A Man in White Robe and Cap stands at the main counter, while a McDonald’s Employee in Red Vest is behind it. Yellow Wet Floor Signs are placed near the counter. The camera pans across the modern dining area, revealing wooden paneling, tiled floors, and decorative wall patterns, with bright overhead lighting. Several customers are seated, including a Customer at Table near the window, and a Man in Blue Shirt and Shorts interacts with a Self-Service Kiosk. The camera then moves back toward the counter as the Camera Operator, holding an Order Number Card with '43', asks, \"Is that for me?\" and confirms \"43\" with the McDonald’s Employee in Red Vest, who is now wearing a pink safety vest over her uniform. The employee smiles and gestures as she hands over a drink cup and a brown McDonald’s bag. The Camera Operator then asks, \"Can I get some extra butter?\", to which the employee replies, \"Sure.\" The Camera Operator walks away, carrying the bag and drink, passing by a Man in Black Shirt and Blue Shorts holding a receipt and a Woman in Pink Dress near the entrance. The Camera Operator then says, \"Thank you,\" followed by \"Excuse me,\" and finally, \"This does not look right,\" indicating a potential issue with the received order.",
+        "The video opens from a first-person perspective inside a bustling McDonald’s, where the camera operator is seated at a table with a tray, drink cup, and a McDonald’s paper bag. As the operator begins to open the bag, revealing a wrapped sandwich, fries, and a small container of sauce, they audibly comment, \"Oh, let's see,\" and \"Uh, I don't know what I'm gonna get,\" accompanied by the distinct rustling sounds of the bag. The camera pans slightly, showcasing the modern interior with wooden paneling, tiled floors, and dark brick walls under bright overhead lights. In the background, a McDonald’s employee in a red shirt, cap, and face mask walks near the counter, while another employee in a red vest is briefly visible behind the counter. A yellow 'WET FLOOR' caution sign stands near the McCafé counter. Amidst the ambient restaurant chatter and movement, a clear, loud announcement calls out, \"Order 71!\" The operator then reacts, \"Yeah, a hash... hotcakes, hotcakes,\" and \"That's crazy,\" as they continue unpacking the meal, placing items on the tray. Other customers are visible, including a man in a blue shirt and shorts standing at a kiosk and a woman in a red patterned dress walking past with a drink. Further announcements punctuate the scene: \"Order 44! Table 44!\" and \"Order 69!\" The operator responds, \"The night,\" and \"Yeah, I got it,\" before concluding with, \"It's frustrating,\" as the sounds of rustling paper continue, capturing a casual, everyday moment in the busy fast-food setting.",
+        "The video opens inside a bustling McDonald’s restaurant, showcasing its modern interior with wooden paneling at the McCafé counter, tiled floors, dark brick walls, and bright digital menu boards displaying 'Summertime deliciousness' and 'Breakfast Meals'. A McDonald’s Employee in a yellow safety vest is seen handing a brown paper bag and a drink cup to the Man in Blue Shirt and Shorts at the pickup counter, while a female voice calls out \"44!\" and then \"372!\". The camera operator, holding a McDonald’s bag and drink cup, comments \"Here it is,\" \"Hotcakes,\" and \"Strawberry,\" then questions \"What? I didn't print one,\" referring to a receipt. A female employee's voice asks in Spanish, \"Usted tomó esta orden?\" (Did you take this order?), to which the camera operator responds \"43.\" The employee's voice then clarifies, \"Es una orden de un big breakfast sin pancakes\" (It's an order for a big breakfast without pancakes). The camera operator asks, \"What happened? Is the order in the kiosk?\" and an employee's voice confirms, \"Yeah, the kiosk, no receipt.\" The camera operator acknowledges, \"I need to put the big breakfast. Okay. Okay. Thank you. Yeah. I guess I messed up.\" As the camera pans to the dining area, showing a Customer at Table with a yellow drink cup and a Man in White Robe and Cap receiving a drink from a McDonald’s Employee in a pink safety vest, the camera operator sighs, \"Oh, that sucks,\" and then \"Whatever,\" after another \"372!\" is called out. Walking past Yellow Wet Floor Signs, the camera operator approaches a table, stating, \"We're gonna make a crazy sandwich, man,\" and later, \"We're gonna make a real crazy sandwich.\" A close-up reveals a breakfast tray with a sausage McMuffin, biscuit, hash browns, and a coffee drink labeled '1065', next to a McDonald’s bag, as the camera operator's hand adjusts items. He muses, \"I thought I had pancakes,\" and \"I don't even know if I messed up,\" before mentioning \"49.\" In the background, a Woman in Pink Dress observes the counter, and a Boy in Orange Shirt runs past a kiosk, all contributing to the active, bustling atmosphere of the restaurant, filled with general chatter and beeping sounds.",
+        "The video captures a first-person perspective inside a brightly lit McDonald’s restaurant, where a male camera operator is seated at a table, preparing to eat a breakfast meal. On a black tray, a sausage McMuffin, biscuit, scrambled eggs, hash browns, and a coffee drink labeled '1065' are visible. The operator expresses confusion, stating, \"I think I did,\" and then questions, \"But why they give me syrup?\" as he begins to open packets, accompanied by distinct rustling sounds. He uses a black plastic knife to open a butter packet and generously spreads it on a biscuit half, remarking, \"I think I just got ripped off,\" and later reiterating his confusion, \"But why butter, why syrup? It makes no sense.\" In the background, the restaurant's interior features wooden paneling at the McCafé counter, tiled floors, and digital menu boards. A McDonald’s employee in a yellow safety vest is seen interacting with a man in a blue shirt, while a female employee's clear voice periodically calls out order numbers like \"3:34!\" and \"362!\", later correcting a number to \"639!\". Amidst the general restaurant ambiance of chatter and occasional clatter, the camera operator makes an \"Mmm\" sound, possibly reacting to the food, and then states, \"Let me look it up,\" perhaps in response to the called order numbers.",
+        "The minute opens with a first-person perspective inside a bustling McDonald’s restaurant, where the ambient sounds of muffled conversations, clatter, and general restaurant noise create a lively atmosphere. The customer, whose hands are the primary focus, is seated at a table with a black breakfast tray. They use a black plastic knife to spread butter from a small foil packet onto a golden-brown biscuit half, held in their left hand. After buttering, they meticulously assemble a breakfast sandwich by placing a fried egg and a sausage patty between the biscuit halves. As they prepare the food, a male voice, likely the camera operator, expresses satisfaction, remarking, \"Mmm, that's good,\" and then, \"Make a nice sandwich.\" The assembled sandwich is then held up and bitten into, revealing its soft, flaky interior, prompting another contented \"Mmm-hmm\" from the customer. In the background, the McDonald’s interior is visible with wooden paneling, digital menu boards, and staff in red vests and yellow safety vests attending to customers. A coffee drink labeled '1065' and a McDonald’s bag with golden arches sit on the tray, which is now mostly empty with crumbs. Amidst the general restaurant chatter, a clear female voice, likely a staff member, is heard calling out order numbers, first with a distinct \"Hey yo! 2602!\" and later, \"273!\" followed by a repeated \"73!\". The customer also makes an unclear comment, \"That crazy thing,\" before the minute concludes with the ongoing sounds of the busy restaurant."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 12,
+      "end_minute": 12,
+      "summary": "A customer, holding a partially eaten, buttered biscuit with visible crumbs on a black plastic tray, repeatedly expresses satisfaction with an \"Mmm\" sound. The tray also holds a McDonald's bag, a coffee drink labeled '1065', a used butter packet, a black plastic knife, and crumpled napkins, all situated on a brown liner within a bustling McDonald's restaurant. The background features wooden paneling, tiled floors, dark brick walls, and digital menu boards under bright lighting, with ambient chatter and occasional clinking sounds. In the distance, a McDonald's employee in a red vest works behind the counter, while a man in a blue shirt and shorts is seen at the pickup counter and a woman in a pink dress is near the entrance. A speaker announces \"Seventy-five!\" amidst the activity. Towards the end, the customer questions, \"What should I do?\" and expresses concern, \"I think I might have got ripped off,\" as the camera maintains a close-up focus on the biscuit and tray, with minor hand adjustments.",
+      "involved_entities": {
+        "McDonald's Restaurant": {
+          "description": "Interior features wooden paneling at the McCafé counter, tiled floors, dark brick walls, and digital menu boards; bright overhead lighting with visible ceiling fixtures. The environment is bustling with constant distant chatter, occasional clinking sounds, and a clear female voice from a speaker calling out order numbers, such as 'Seventy-five!'.",
+          "attribute": "audio-visual"
+        },
+        "Black Plastic Knife": {
+          "description": "Small black plastic knife used by the camera operator to open and spread butter on the biscuit, now resting on the tray.",
+          "attribute": "visual"
+        },
+        "McDonald’s Bag": {
+          "description": "White paper bag with golden arches pattern and red McDonald’s logo, standing upright on the table.",
+          "attribute": "visual"
+        },
+        "Woman in Pink Dress": {
+          "description": "Standing near the entrance, wearing a red patterned dress, carrying a black bag, arms crossed, observing the counter area.",
+          "attribute": "visual"
+        },
+        "Breakfast Tray": {
+          "description": "Black tray with remnants of a breakfast meal, including crumbs and a black plastic knife, placed on a table next to a McDonald’s bag.",
+          "attribute": "visual"
+        },
+        "Man in Blue Shirt and Shorts": {
+          "description": "Standing at the pickup counter, wearing a blue t-shirt and dark shorts, receiving a bag and drink from the employee.",
+          "attribute": "visual"
+        },
+        "Coffee Drink with Label '1065'": {
+          "description": "Clear plastic cup with a brown beverage, topped with foam, featuring a white label with the number '1065' and McDonald’s branding.",
+          "attribute": "visual"
+        },
+        "Biscuit Half": {
+          "description": "Golden-brown biscuit half held in the camera operator’s hand, being buttered with a knife, now partially eaten with visible butter and crumbs. The camera operator frequently makes an appreciative 'Mmm' sound while consuming it, but later expresses potential dissatisfaction, asking 'What should I do?' and stating, 'I think I might have got ripped off,' possibly in relation to the biscuit or the overall meal.",
+          "attribute": "audio-visual"
+        },
+        "McDonald’s Employee in Red Vest": {
+          "description": "Standing behind the counter, wearing a red vest over a black shirt, assisting customers, visible near the cash register with a number '32' sign.",
+          "attribute": "visual"
+        },
+        "Butter Packet": {
+          "description": "Small foil-wrapped packet of butter, opened with the knife and spread onto the biscuit half, now crumpled on the tray.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video captures a close-up, first-person perspective of a customer seated at a McDonald’s restaurant table, holding a partially eaten, golden-brown biscuit in their left hand. The biscuit, appearing buttered with visible residue and crumbs scattered on the black plastic tray below, is frequently met with an appreciative \"Mmm\" sound from the customer throughout the minute. The tray rests on a brown liner, accompanied by a McDonald’s bag, a coffee drink labeled '1065', a used butter packet, a black plastic knife, and crumpled napkins. The background reveals the bustling restaurant interior with wooden paneling, tiled floors, dark brick walls, and digital menu boards, all under bright, even lighting. The ambient soundscape is filled with constant distant chatter and occasional clinking, typical of a fast-food dining area. In the distance, a McDonald’s employee in a red vest is visible behind the counter, while other customers, including a man in a blue shirt and shorts at the pickup counter and a woman in a pink dress near the entrance, move about. Amidst this activity, a clear female voice from a speaker calls out \"Seventy-five!\", likely an order number. Towards the end of the segment, the customer's \"Mmm\" sounds are punctuated by their own voice, first asking \"What should I do?\" and then stating, \"I think I might have got ripped off,\" adding a layer of potential dissatisfaction or concern to the casual, post-meal moment. The camera remains mostly steady, focusing on the biscuit and tray, with slight movements as the hand adjusts its grip, emphasizing the texture and remnants of the breakfast item."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 13,
+      "end_minute": 14,
+      "summary": "The Camera Operator's hands, exhibiting visible arm hair, meticulously examine a partially eaten, golden-brown, flaky biscuit, broken in half to reveal a soft, buttery interior with visible chunks of egg and sausage, at a McDonald's table. Crumbs fall onto a black plastic tray below, which also holds a black plastic knife and a crumpled butter packet. To the left, a clear plastic cup with a brown coffee drink labeled '1065' and bearing McDonald's branding sits beside an upright McDonald’s paper bag and a white napkin. The background depicts the bustling McDonald’s interior, featuring wooden paneling, tiled floors, dark brick walls, and illuminated digital menu boards, under bright, consistent overhead lighting. Other patrons are visible, including a Man in Blue Shirt and Shorts at the pickup counter and a Customer at Table in the background, while a McDonald’s Employee in a Yellow Safety Vest walks past the counter carrying a bag and drink. The ambient soundscape is a mix of indistinct chatter, occasional clinking of dishes or cutlery, a repetitive beeping sound, and a female voice repeatedly announcing \"377,\" contributing to the lively atmosphere.",
+      "involved_entities": {
+        "McDonald's Restaurant": {
+          "description": "Interior with wooden paneling at the McCafé counter, tiled floors, dark brick walls, and digital menu boards; bright overhead lighting with visible ceiling fixtures, filled with ambient indistinct chatter, occasional clinking sounds, and a distinct, repetitive beeping sound.",
+          "attribute": "audio-visual"
+        },
+        "Black Plastic Knife": {
+          "description": "Small black plastic knife resting on the tray, previously used to spread butter, now surrounded by crumbs.",
+          "attribute": "visual"
+        },
+        "Customer at Table": {
+          "description": "Seated at a table near the window, wearing a gray shirt and blue cap, holding a yellow drink cup, visible in the background.",
+          "attribute": "visual"
+        },
+        "McDonald’s Bag": {
+          "description": "White paper bag with golden arches pattern and red logo, standing upright on the table, partially visible behind the tray.",
+          "attribute": "visual"
+        },
+        "Breakfast Tray": {
+          "description": "Black tray with a textured surface, covered in crumbs and remnants of the meal, holding the knife and butter packet.",
+          "attribute": "visual"
+        },
+        "Biscuit Half": {
+          "description": "Golden-brown, flaky biscuit broken in half, revealing a soft interior with egg and sausage filling, being rotated and pulled apart for inspection.",
+          "attribute": "visual"
+        },
+        "Man in Blue Shirt and Shorts": {
+          "description": "Standing at the pickup counter, wearing a blue t-shirt and dark shorts, receiving a bag and drink from the employee, visible in the background.",
+          "attribute": "visual"
+        },
+        "Coffee Drink with Label '1065'": {
+          "description": "Clear plastic cup with brown beverage and foam, labeled '1065' and McDonald’s branding, positioned to the left of the tray.",
+          "attribute": "visual"
+        },
+        "Woman in Pink Dress": {
+          "description": "Standing near the entrance, wearing a red patterned dress, carrying a black bag, arms crossed, observing the counter area, visible in the background.",
+          "attribute": "visual"
+        },
+        "Butter Packet": {
+          "description": "Crumbled foil-wrapped packet of butter, opened and used, lying on the tray next to the knife.",
+          "attribute": "visual"
+        },
+        "Camera Operator": {
+          "description": "Holding a partially eaten biscuit with both hands, displaying its interior; arms with visible hair, manipulating the food closely over a black tray, accompanied by subtle clinking and rustling sounds as they interact with the biscuit and napkin.",
+          "attribute": "audio-visual"
+        },
+        "McDonald’s Employee in Yellow Safety Vest": {
+          "description": "Wearing a black shirt under a yellow safety vest, holding a brown paper bag and a drink cup, interacting with the Man in Blue Shirt and Shorts at the pickup counter.",
+          "attribute": "visual"
+        },
+        "McDonald’s Restaurant": {
+          "description": "Interior with wooden paneling at the McCafé counter, tiled floors, dark brick walls, and digital menu boards; bright overhead lighting with visible ceiling fixtures, filled with a constant ambient hum and the repeated announcement of \"377\" by a female voice, likely an employee calling out an order.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up, first-person view of the Camera Operator's hands, which have visible arm hair, meticulously handling a partially eaten, golden-brown, and flaky biscuit at a McDonald's table. The biscuit is broken in half, revealing a soft, buttery interior filled with visible chunks of egg and sausage, as the operator rotates and pulls it apart for inspection. A black plastic tray beneath is littered with crumbs and holds a black plastic knife and a crumpled, used butter packet. To the left, a clear plastic cup with a brown coffee drink, labeled '1065' and bearing McDonald's branding, sits beside an upright McDonald’s paper bag. The background reveals the bustling McDonald’s interior, characterized by wooden paneling, tiled floors, dark brick walls, and illuminated digital menu boards. Other patrons are visible, including a Man in Blue Shirt and Shorts receiving an order at the pickup counter, and a Woman in Pink Dress observing near the entrance. A Customer at Table is also seen in the background. Throughout this casual, post-meal scene, the bright and consistent lighting emphasizes the food textures. The ambient soundscape of the restaurant is filled with indistinct chatter, occasional clinking of dishes or cutlery, and a distinct, repetitive beeping sound, likely from a kitchen timer or POS system, all contributing to the lively atmosphere of the McDonald's.",
+        "The video presents a close-up, first-person perspective of the Camera Operator seated at a McDonald’s table, manipulating a partially eaten, golden-brown, flaky biscuit with both hands. The biscuit is broken in half, revealing a soft interior with visible egg and sausage filling, as crumbs fall onto the black plastic tray below. The tray, labeled with 'Enjoy a McCrispy' on its yellow liner, is littered with crumbs, a black plastic knife, and a crumpled butter packet. A coffee drink in a clear plastic cup labeled '1065' sits to the left. Throughout the segment, subtle clinking and rustling sounds accompany the operator's actions of rotating and pulling apart the biscuit and occasionally wiping their fingers with a brown paper napkin. In the background, the McDonald’s interior, with wooden paneling, tiled floors, and digital menu boards, is visible under bright, consistent overhead lighting. A McDonald’s Bag stands upright on the table, and a white napkin lies nearby. Amidst a constant ambient restaurant hum, a female voice repeatedly announces \"377,\" likely an employee calling out an order. A McDonald’s Employee in a Yellow Safety Vest walks past the counter, carrying a bag and drink, while other customers, including one at a table near the window and a Man in Blue Shirt and Shorts at the pickup counter, are visible in the distance."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 15,
+      "end_minute": 16,
+      "summary": "Inside a McDonald’s Restaurant, the Camera Operator, seated at a table with a breakfast tray holding remnants of a meal including a crumpled butter packet and a black plastic knife, manipulates a white plastic straw from its wrapper and inserts it into a clear plastic cup labeled '1065' containing a light brown iced beverage, commenting, \"I'm gonna watch the video again,\" and \"I guess check it out.\" A white McDonald’s Bag stands beside the tray. The Camera Operator then picks up the empty bag and carries the tray and drink toward the exit, remarking, \"Just driving.\" The camera pans to show the interior, including a Self-Service Kiosk and a McDonald’s Employee in Yellow Safety Vest handing items to a customer, as the Camera Operator states, \"Hopefully it's just my mistake.\" Exiting through glass doors into a bright, sunny parking lot, rattling and clinking sounds are heard, and another voice says, \"Just so you know...\" Outside, a Blue Pickup Truck branded 'SILVERADO' is parked at the curbside pickup lane under a partly cloudy sky. The Camera Operator declares, \"Hey, I'm out,\" to which another voice responds, \"Yeah, I know,\" as the scene ends with the Camera Operator holding the drink outside, with the McDonald’s entrance visible behind them. The speaker also remarks, \"I guess I got this giant coffee, so that's cool for 90 cents,\" and \"I guess it's a lot more,\" concluding, \"Thanks for the coffee, discounted McDonald's.\"",
+      "involved_entities": {
+        "Self-Service Kiosk": {
+          "description": "White kiosk with a large touchscreen displaying a breakfast sandwich and options like 'Order Pickup', 'Order McDelivery', 'Get Deals', and 'Earn Free Food'; includes a straw dispenser and a black ECOLAB Hand Sanitizer dispenser.",
+          "attribute": "visual"
+        },
+        "Black Plastic Knife": {
+          "description": "Small black plastic knife resting on the tray, previously used to spread butter, now surrounded by crumbs.",
+          "attribute": "visual"
+        },
+        "McDonald’s Bag": {
+          "description": "White paper bag with golden arches pattern and red logo, standing upright on the table, partially visible behind the tray.",
+          "attribute": "visual"
+        },
+        "Yellow Wet Floor Signs": {
+          "description": "Placed near the counter, yellow with McDonald’s logo and 'WET FLOOR' text, indicating caution.",
+          "attribute": "visual"
+        },
+        "Breakfast Tray": {
+          "description": "Black tray with a textured surface, covered in crumbs and remnants of the meal, holding the knife and butter packet.",
+          "attribute": "visual"
+        },
+        "Coffee Drink with Label '1065'": {
+          "description": "Clear plastic cup with brown iced beverage, labeled '1065' with McDonald’s branding, red-and-white striped straw, held in the camera operator’s hand, described by the speaker as a 'giant coffee' obtained for '90 cents' and 'discounted'.",
+          "attribute": "audio-visual"
+        },
+        "McDonald’s Employee in Yellow Safety Vest": {
+          "description": "Wearing a black shirt under a yellow safety vest, holding a brown paper bag and a drink cup, interacting with the Man in Blue Shirt and Shorts at the pickup counter.",
+          "attribute": "visual"
+        },
+        "McDonald’s Restaurant": {
+          "description": "Interior with wooden paneling at the McCafé counter, tiled floors, dark brick walls, and digital menu boards; bright overhead lighting with visible ceiling fixtures, filled with ambient clinking and rattling sounds, and background voices.",
+          "attribute": "audio-visual"
+        },
+        "Butter Packet": {
+          "description": "Crumbled foil-wrapped packet of butter, opened and used, lying on the tray next to the knife.",
+          "attribute": "visual"
+        },
+        "Camera Operator": {
+          "description": "The primary speaker, heard commenting on the video recording and their actions with phrases like 'I'm gonna watch the video again,' 'I guess check it out,' 'I feel like... it did. Oh well,' 'Just driving,' 'Hopefully it's just my mistake,' and 'Hey, I'm out,' while manipulating meal remnants and exiting the restaurant.",
+          "attribute": "audio-visual"
+        },
+        "Blue Pickup Truck": {
+          "description": "Parked at the curbside pickup lane, visible with 'SILVERADO' branding on the side, dark blue color, positioned near the entrance with yellow parking barriers.",
+          "attribute": "visual"
+        },
+        "McDonald's Restaurant": {
+          "description": "Exterior with gray and brick facade, large 'McDonald's' signage, 'Curbside Pick Up' signs with number '4', visible windows displaying 'SNACK' and 'WRAP' menu items, and a modern design with awnings and lighting fixtures, explicitly mentioned by the speaker in relation to the 'discounted' coffee.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens inside a McDonald’s Restaurant, where the Camera Operator is seated at a table with a black tray covered by a yellow 'Enjoy a McCrispy' mat, holding remnants of a meal including a crumpled butter packet, a black plastic knife, and a partially eaten biscuit. As the Camera Operator's hands manipulate the butter packet and then extract a white plastic straw from its wrapper, inserting it into a clear plastic cup labeled '1065' containing a light brown iced beverage, they are heard commenting, \"I'm gonna watch the video again,\" followed by \"I guess check it out,\" and later, \"I feel like... it did. Oh well.\" A white McDonald’s Bag with golden arches stands upright beside the tray. The Camera Operator then picks up the empty bag and carries the tray and drink toward the exit, remarking, \"Just driving.\" As they move, the camera pans to show the interior, including wooden paneling at the McCafé counter, digital menu boards, and a Self-Service Kiosk with a touchscreen. A McDonald’s Employee in Yellow Safety Vest is seen near the pickup counter, handing items to a customer, while the Camera Operator states, \"Hopefully it's just my mistake.\" As the Camera Operator exits through glass doors into a bright, sunny parking lot, rattling and clinking sounds are heard, and another voice says, \"Just so you know...\" Outside, a Blue Pickup Truck with 'SILVERADO' branding and a 'GO COWBOYS' decal on its front grille is parked at the curbside pickup lane. The parking lot is busy with various vehicles under a partly cloudy sky. The Camera Operator then declares, \"Hey, I'm out,\" to which another voice responds, \"Yeah, I know,\" as the scene ends with the Camera Operator holding the drink outside, with the McDonald’s entrance visible behind them.",
+        "The video begins with a first-person perspective, showing someone walking through a McDonald's parking lot on a partly cloudy day. In hand is a clear plastic cup containing a brown iced beverage, prominently labeled '1065' with the McDonald’s logo and a red-and-white striped straw. The speaker remarks, \"I guess I got this giant coffee, so that's cool for 90 cents,\" and then adds, \"I guess it's a lot more.\" As the camera pans across the parking lot, various vehicles like a red pickup, silver SUV, white pickup, and a blue pickup truck are seen near the curbside pickup lane. The modern gray and brick McDonald’s building appears, featuring large signage and 'Curbside Pick Up' signs with number '4' near the entrance. The camera briefly focuses on the blue pickup truck, branded 'SILVERADO', parked at a pickup spot. The speaker concludes, \"Thanks for the coffee, discounted McDonald's,\" as the hand holding the drink slightly adjusts its position, with other parked cars and distant commercial buildings visible under the bright, scattered clouds, emphasizing the curbside experience and the branded drink."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "McDonald's Restaurant": "Exterior with gray and brick facade, large 'McDonald's' signage, 'Curbside Pick Up' signs with number '4', visible windows displaying 'SNACK' and 'WRAP' menu items, and a modern design with awnings and lighting fixtures, explicitly mentioned by the speaker in relation to the 'discounted' coffee.",
+    "Self-Service Kiosk": "White kiosk with a large touchscreen displaying a breakfast sandwich and options like 'Order Pickup', 'Order McDelivery', 'Get Deals', and 'Earn Free Food'; includes a straw dispenser and a black ECOLAB Hand Sanitizer dispenser.",
+    "Customer at Table": "Seated at a table near the window, wearing a gray shirt and blue cap, holding a yellow drink cup, visible in the background.",
+    "Kiosk Screen Interface": "Displays breakfast menu with options like Hotcakes, Hotcakes and Sausage, and Big Breakfast; transitions to customization screen, order confirmation, and payment interface with keypad for card entry.",
+    "Yellow Wet Floor Signs": "Placed near the counter, yellow with McDonald’s logo and 'WET FLOOR' text, indicating caution.",
+    "Woman in Pink Dress": "Standing near the entrance, wearing a red patterned dress, carrying a black bag, arms crossed, observing the counter area, visible in the background.",
+    "Man in Blue Shirt and Shorts": "Standing at the pickup counter, wearing a blue t-shirt and dark shorts, receiving a bag and drink from the employee, visible in the background.",
+    "Hand Holding Smartphone": "Visible intermittently, holding a phone with the McDonald's app open, showing a coffee deal and QR code, used to interact with the kiosk. This hand belongs to the male customer whose voice is heard making selections and comments.",
+    "Blue Pickup Truck": "Parked at the curbside pickup lane, visible with 'SILVERADO' branding on the side, dark blue color, positioned near the entrance with yellow parking barriers.",
+    "Man in Red Shirt": "Walking past the kiosk, wearing a red shirt and dark pants, briefly visible in the background.",
+    "Boy in Orange Shirt": "Running past the kiosk toward the counter, wearing an orange t-shirt and white shorts, dark shoes, energetic movement.",
+    "Man in White Robe and Cap": "Standing at the main counter, wearing a white robe and white cap, barefoot with white socks, handing over payment and receiving a drink cup from the cashier.",
+    "Counter Area": "Service counter with multiple registers, digital screens, and a glass display case for McCafé items; includes a 'SKIP THE LINE' sign promoting mobile ordering.",
+    "McDonald’s Employee in Red Vest": "Standing behind the counter, wearing a red vest over a black shirt, assisting customers, visible near the cash register with a number '32' sign.",
+    "Order Number Card": "The camera operator explicitly mentions \"43\" when asked about his order, and later \"49,\" indicating his order numbers.",
+    "Man in Black Shirt and Blue Shorts": "Standing at the McCafé counter, wearing a black t-shirt with a red graphic, blue shorts, and black shoes, holding a receipt or order slip, interacting with the staff.",
+    "Digital Menu Boards": "Large screens above the counter displaying breakfast, beverages, and other menu items with images and text, including 'Summertime deliciousness' and 'Breakfast Meals'.",
+    "McCafé Counter": "Service counter with a 'McCafé EST. 1993' sign, wooden slat design, and glass display case for McCafé items.",
+    "Camera Operator": "The primary speaker, heard commenting on the video recording and their actions with phrases like 'I'm gonna watch the video again,' 'I guess check it out,' 'I feel like... it did. Oh well,' 'Just driving,' 'Hopefully it's just my mistake,' and 'Hey, I'm out,' while manipulating meal remnants and exiting the restaurant.",
+    "McDonald’s Employee in Red Shirt and Cap": "Wearing a red shirt, red cap, and face mask, walking near the counter area, carrying a white cup and interacting with the environment.",
+    "McDonald’s Employee in Pink Safety Vest": "Wearing a pink safety vest over her uniform, handing over a drink and bag to the Man in White Robe and Cap.",
+    "Breakfast Tray": "Black tray with a textured surface, covered in crumbs and remnants of the meal, holding the knife and butter packet.",
+    "Coffee Drink with Label '1065'": "Clear plastic cup with brown iced beverage, labeled '1065' with McDonald’s branding, red-and-white striped straw, held in the camera operator’s hand, described by the speaker as a 'giant coffee' obtained for '90 cents' and 'discounted'.",
+    "McDonald’s Employee in Yellow Safety Vest": "Wearing a black shirt under a yellow safety vest, holding a brown paper bag and a drink cup, interacting with the Man in Blue Shirt and Shorts at the pickup counter.",
+    "Black Plastic Knife": "Small black plastic knife resting on the tray, previously used to spread butter, now surrounded by crumbs.",
+    "Man in Plaid Shirt and Cap": "Standing at the McCafé counter, wearing a blue and white plaid shirt and a beige cap, holding a drink and interacting with the counter staff.",
+    "McDonald’s Bag": "White paper bag with golden arches pattern and red logo, standing upright on the table, partially visible behind the tray.",
+    "Biscuit Half": "Golden-brown, flaky biscuit broken in half, revealing a soft interior with egg and sausage filling, being rotated and pulled apart for inspection.",
+    "Butter Packet": "Crumbled foil-wrapped packet of butter, opened and used, lying on the tray next to the knife."
+  }
+}

@@ -1,0 +1,825 @@
+{
+  "video_id": "video148",
+  "audio_id": "video148_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 2,
+      "summary": "The narrative transitions from a dimly lit nightclub, where a woman in a black sequined outfit sits with a cocktail and another in a black jacket with pearl trim gestures animatedly amidst flashing lights and dancing, to a brightly lit office or school hallway. In the latter, a young man in a green jacket, Zach, smiles at his phone, confirming he \"just moved in last month\" to a female voice, while another comments, \"He's so great.\" A woman with red hair and glasses, appearing concerned, walks with a woman in a blue dress down the hallway, as dialogue about knowing someone and being \"done for\" is exchanged. The scene shifts again to a woman in a black and white polka-dot top speaking animatedly, eliciting surprise from a man in a mustard sweater who questions her identity and expresses a dislike for \"gym teachers.\" A man in a maroon shirt walks through a classroom with children's drawings, holding a clipboard, as \"Good job\" is heard. In a breakroom, a woman in a yellow cardigan and another in a gray blazer converse seriously, while a cynical male voice remarks on betrayal. The final club scene shows two women, one in a black leather jacket and the other in an orange blazer, gesturing and talking in a school hallway, accompanied by aggressive male voiceover commentary about \"Siskel and Ebert\" and \"the voice is in the trash,\" ending with a loud thud. The video then shifts to a school setting with a reflective male voice stating, \"you should watch out and you don't know who you're messing with,\" as a woman in a black leather jacket and another in an orange blazer converse in a brightly lit hallway. A breakroom scene follows, with a man in a blue shirt reacting to a woman in a blue patterned blouse with red trim gesturing, while a woman with red hair observes. The man in a gray sweater and tie, identified as the lively male voice, sings a children's rhyme about turkeys and declares, \"That's who runs the world, kids.\" He then stands before a whiteboard labeled 'ILUMINATE' in a classroom, discussing a \"construction site\" and \"caution sign.\" He points at children's drawings on a wall with a man in a white shirt, while discussing a \"square sun\" and \"Don Cheadle\" with the woman in the blue patterned blouse, who offers interpretations of the drawings. Transitions show a woman in a floral top in a library, a woman in a red blouse preparing food in a kitchen, and a young man in a gray sweater running in a hallway, all while a male voice complains about bills and the man in the gray sweater and tie laments running \"out of oats in my earthquake kit.\" The woman in the blue patterned blouse dismisses the idea of earthquakes, leading to a retort about kitchens moving across the street and a loud laugh and crash. The final shot features the man in the gray sweater and tie in a bathroom, speaking to a young girl in a school uniform, as a male voice asks, \"Do what?\" The overall environment consistently remains bright and functional, emphasizing a school setting.",
+      "involved_entities": {
+        "Man in mustard sweater": {
+          "description": "Speaks, questioning 'Who is she, again?' and stating he doesn't 'mess with gym teachers' because 'their voices never match their faces.'",
+          "attribute": "audio-visual"
+        },
+        "Woman in yellow cardigan": {
+          "description": "Sits at a table in a breakroom, wearing a yellow cardigan over a coral blouse, with a red mug in front of her.",
+          "attribute": "visual"
+        },
+        "Man in maroon shirt": {
+          "description": "Walks through a classroom holding a clipboard, wearing a maroon shirt and gray pants, with children’s drawings on the walls.",
+          "attribute": "visual"
+        },
+        "Woman in black jacket with pearl trim": {
+          "description": "Stands at a table in the club, gesturing expressively, wearing a black jacket with a pearl necklace and bold makeup.",
+          "attribute": "visual"
+        },
+        "Man in black jacket": {
+          "description": "Dances energetically in a party setting, raising his arm, wearing a black jacket and showing an intense expression.",
+          "attribute": "visual"
+        },
+        "Woman in black sequined outfit": {
+          "description": "Sits at a table in a nightclub, holding a cocktail, with dramatic makeup and a glamorous appearance.",
+          "attribute": "visual"
+        },
+        "Woman in gray blazer": {
+          "description": "Sits beside the woman in yellow, wearing a gray blazer and looking concerned, with a blue patterned water bottle on the table.",
+          "attribute": "visual"
+        },
+        "Breakroom table setup": {
+          "description": "A round wooden table with a red mug, a blue patterned water bottle, and papers, suggesting a casual meeting space.",
+          "attribute": "visual"
+        },
+        "Woman with red hair and glasses": {
+          "description": "Appears to be involved in a conversation with the woman in blue dress, discussing someone who 'knew you and was like, 'More!'' and questioning 'Done for me? I don't know.'",
+          "attribute": "audio-visual"
+        },
+        "Woman in blue dress": {
+          "description": "Appears to be involved in a conversation with the red-haired woman, discussing someone who 'knew you and was like, 'More!'' and questioning 'Done for me? I don't know.'",
+          "attribute": "audio-visual"
+        },
+        "School hallway environment": {
+          "description": "Brightly lit hallway with lockers, bulletin boards, and colorful artwork, indicating an educational setting, seen during conversations and a running scene.",
+          "attribute": "visual"
+        },
+        "Young man in green jacket": {
+          "description": "Identified as Zach, who confirms he 'just moved in last month' with someone, and is described by a female voice as 'so great.'",
+          "attribute": "audio-visual"
+        },
+        "Woman in black and white polka-dot top": {
+          "description": "Speaks animatedly in a hallway, wearing a black top with white polka dots and a gold chain necklace.",
+          "attribute": "visual"
+        },
+        "Woman in black leather jacket": {
+          "description": "Walks down a hallway, wearing a black leather jacket with long dark hair, and a lanyard, engaging in conversation and later observing children’s artwork.",
+          "attribute": "visual"
+        },
+        "Children’s drawings on classroom wall": {
+          "description": "Colorful, childlike drawings of people, rainbows, and animals pinned to a corkboard in a classroom, including a prominent red portrait of a smiling child.",
+          "attribute": "visual"
+        },
+        "Woman in orange blazer": {
+          "description": "Walks and talks with the woman in black leather jacket, wearing an orange blazer, curly hair, and large hoop earrings, gesturing during their discussion.",
+          "attribute": "visual"
+        },
+        "Woman in red blouse": {
+          "description": "Stands in a kitchen, preparing food, wearing a red blouse and a lanyard, with a focused expression.",
+          "attribute": "visual"
+        },
+        "Woman in blue patterned blouse with red trim": {
+          "description": "Stands in a breakroom, gesturing animatedly while speaking to a man in a blue shirt. She is heard interjecting with observations like \"You got a playground. Those are the kids,\" \"That's the sun,\" and \"No. Um, that's you\" during a discussion about children's drawings, and later stating, \"We don't have earthquakes.\"",
+          "attribute": "audio-visual"
+        },
+        "Young man in gray sweater": {
+          "description": "Runs down a school hallway, wearing a gray sweater and dark pants, carrying a backpack, suggesting urgency or excitement.",
+          "attribute": "visual"
+        },
+        "Man in white shirt": {
+          "description": "Points at a child’s drawing on a classroom wall, wearing a white shirt and a lanyard, engaging with the artwork.",
+          "attribute": "visual"
+        },
+        "Man in blue shirt": {
+          "description": "Stands in the breakroom, reacting with surprise to a lively male voice singing a children's rhyme, wearing a blue shirt and a lanyard.",
+          "attribute": "audio-visual"
+        },
+        "Young girl in school uniform": {
+          "description": "Stands in a bathroom, wearing a light blue school uniform with a bow in her hair, looking up at the man in the gray sweater and tie, appearing attentive or concerned.",
+          "attribute": "visual"
+        },
+        "Man in gray sweater and tie": {
+          "description": "Stands in a classroom before a whiteboard labeled 'ILUMINATE,' later seen in a bathroom holding a towel and speaking to a young girl, wearing a gray sweater over a collared shirt and tie. He is a prominent male speaker, heard reflecting, \"Okay, so, um, what I got from that is you should watch out and you don't know who you're messing with,\" singing a children's rhyme (\"How many turkeys? Hank has two turkeys. He gets two more. How many turkeys? He has four!\"), declaring \"That's who runs the world, kids,\" and discussing children's drawings with comments like \"I'm at a um, construction site here,\" \"But this is a caution sign,\" \"Square sun. Okay. Don Cheadle,\" and \"Hmm.\" He also laments running \"out of oats in my earthquake kit,\" retorting, \"That's what everybody says until they wake up and their kitchen is across the street,\" and asks, \"Do what?\"",
+          "attribute": "audio-visual"
+        },
+        "Woman with red hair": {
+          "description": "Sits on a couch in the breakroom, observing the interaction, wearing a gray blazer and with red hair, appearing attentive.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a dimly lit, vibrant nightclub with blue and purple lighting, where a woman in a black sequined outfit sits at a table with a cocktail, while another woman in a black jacket with pearl trim gestures animatedly. A male voice criticizes a singer for being \"pitchy\" and refusing to use his diaphragm, followed by a loud, off-key rendition of \"Cut my life into pieces! This is my last resort!\" from Papa Roach, contributing to the chaotic party environment with flashing lights and people dancing, including a man in a black jacket raising his arm energetically. The scene then transitions to a brightly lit office or school hallway, where a young man in a green jacket and checkered shirt, identified as Zach, smiles while looking at his phone. A female voice asks if he lives with someone, to which Zach confirms he \"just moved in last month,\" and another voice comments, \"He's so great.\" The camera follows a woman with red hair and glasses, who appears concerned, walking down a hallway with another woman in a blue dress, as a female voice playfully remarks, \"So he knew you and was like, 'More!'\" and another questions, \"Done for me? I don't know.\" The scene cuts to a woman in a black and white polka-dot top speaking animatedly, while a man in a mustard sweater reacts with surprise, asking \"Who is she, again?\" and stating he doesn't \"mess with gym teachers\" because \"their voices never match their faces.\" A brief \"Good job\" is heard as a man in a maroon shirt walks through a classroom adorned with children’s drawings, holding a clipboard. The next scene features two women at a table in a breakroom, one in a yellow cardigan and the other in a gray blazer, engaged in a serious conversation, overlaid with a male voice cynically remarking, \"Well, you think you know someone, and then they cheat on you with their thumb.\" The final shot shows two women walking and talking in a school hallway—one in a black leather jacket with long dark hair, the other in an orange blazer with curly hair—gesturing as they converse, while the male voiceover continues with aggressive remarks like \"Siskel and Ebert, two thumbs up, looking ass boy,\" and \"the voice is in the trash,\" concluding with a loud thud or crash. Throughout, the lighting shifts from dark, moody club tones to bright, natural office and school environments, reflecting a narrative transition from nightlife to professional or educational settings.",
+        "The video opens with a reflective male voice stating, \"Okay, so, um, what I got from that is you should watch out and you don't know who you're messing with,\" to which a female voice responds with an acknowledging \"Mm,\" as a Woman in black leather jacket and a Woman in orange blazer engage in conversation in a brightly lit school hallway, both wearing lanyards and displaying expressive gestures. The scene quickly shifts to a breakroom where a Man in a blue shirt reacts with surprise as a Woman in a blue patterned blouse with red trim gestures animatedly, while a Woman with red hair sits on a couch observing. A lively male voice, later identified as the Man in gray sweater and tie, sings a children's rhyme, \"How many turkeys? Hank has two turkeys. He gets two more. How many turkeys? He has four!\" before declaring, \"That's who runs the world, kids.\" The setting then transitions to a classroom where the Man in a gray sweater and tie stands before a whiteboard labeled 'ILUMINATE,' addressing students, continuing his dialogue about a \"construction site\" and a \"caution sign.\" The camera pans to a wall covered in colorful Children’s drawings, where a Man in a white shirt points at a drawing, and the Woman in black leather jacket looks on with interest, as the Man in gray sweater and tie discusses a \"square sun\" and \"Don Cheadle\" with the Woman in blue patterned blouse with red trim, who interjects with observations like \"You got a playground. Those are the kids,\" \"That's the sun,\" and \"No. Um, that's you.\" The scene cuts to a library where a woman in a floral top walks past bookshelves, followed by a kitchen where a woman in a red blouse prepares food, then a hallway where a young man in a gray sweater runs. During these transitions, an unidentified male voice complains, \"The last time I was up this early was to cuss out the mailman. I don't need all them bills coming,\" while the Man in gray sweater and tie laments running \"out of oats in my earthquake kit.\" The Woman in blue patterned blouse with red trim replies, \"We don't have earthquakes,\" prompting the Man in gray sweater and tie to retort, \"That's what everybody says until they wake up and their kitchen is across the street,\" followed by a loud, exaggerated laugh and a crashing sound. The final shot shows the Man in a gray sweater and tie in a bathroom, holding a towel and speaking to a young girl in a school uniform, suggesting a moment of care or instruction, as a male voice asks, \"Do what?\" The environment shifts from public school corridors to intimate breakrooms and classrooms, with lighting remaining consistently bright and functional, emphasizing a school setting."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 3,
+      "end_minute": 3,
+      "summary": "A woman in a pink cardigan and lace-collared blouse intently flips through a book at a cluttered classroom desk as a male voice says, \"Alright.\" In a breakroom, a woman in a black leather jacket and another in a purple top with a pink scarf sit at a round table, writing and reacting, while a female voice playfully asks, \"Now, who took that picture of me?\" Amidst this, a bald man in a teal shirt walks through a kitchen, followed by a woman in a black blazer with a pearl necklace who appears to be speaking urgently in a hallway, while an energetic, preacher-like male voice dramatically declares, \"Just that you all drop your vices and take a hit of my drug of choice, J-E-S-U-S, street name Christ! Baby Jesus and the grown one too! My desks have been des-\" The scene shifts to a school hallway where a young man in a dark jacket walks past a bulletin board alongside a woman in a floral blouse. A young girl with a large bow in her hair walks past shelves of books and plants in a classroom, accompanied by a high-pitched female voice exclaiming, \"Fly free, little birdie!\" Two women in dark hoodies and sunglasses walk through a mall, sipping from bottles, as a male voice states, \"I'm a dog here,\" followed by a \"Woof woof\" sound effect. A calm female voice observes, \"Last night, as the kids would say, was a film. I don't know what that means. That sounds like an accurate description.\" A young man with curly hair in a dark jacket looks surprised, while a muffled male voice comments, \"I've ever seen him experience joy before. It's weird.\" A young man in a blue jacket runs down a school staircase, accompanied by building, driving music that culminates in a loud crash. Finally, a man in a gray shirt with a lanyard sits at a library table, speaking with a slightly exasperated tone, \"I hate gardening so much,\" to someone off-screen, with a woman in a black top and red lanyard beside him, and another male voice requests, \"Somebody give me a chair!\" which is met with a distinct, loud, almost cackling laugh from the woman.",
+      "involved_entities": {
+        "Woman in floral blouse": {
+          "description": "Stands beside the young man in the hallway, wearing a floral blouse and a lanyard, looking forward.",
+          "attribute": "visual"
+        },
+        "Young man in dark jacket": {
+          "description": "Walks through a school hallway, wearing a dark jacket and a lanyard, with a neutral expression.",
+          "attribute": "visual"
+        },
+        "Young girl with large bow in hair": {
+          "description": "Walks through a classroom, wearing a white top with a red vest and a large bow in her hair, smiling slightly.",
+          "attribute": "visual"
+        },
+        "Young man with curly hair in dark jacket": {
+          "description": "Looks surprised, wearing a dark jacket and a lanyard, with curly hair and a focused expression.",
+          "attribute": "visual"
+        },
+        "Man in gray shirt with lanyard": {
+          "description": "Sits at a table in a library, speaking with a slightly exasperated tone about gardening ('I hate gardening so much') and later requesting a chair ('Somebody give me a chair!'), wearing a gray shirt and a lanyard, engaged in conversation.",
+          "attribute": "audio-visual"
+        },
+        "Breakroom table setup": {
+          "description": "A round wooden table with a red mug, a blue patterned water bottle, and papers, suggesting a casual meeting space.",
+          "attribute": "visual"
+        },
+        "Woman in black blazer with pearl necklace": {
+          "description": "Stands in a hallway, speaking with urgency, wearing a black blazer with a pearl necklace and a lanyard.",
+          "attribute": "visual"
+        },
+        "School hallway environment": {
+          "description": "Brightly lit hallway with lockers, bulletin boards, and colorful artwork, indicating an educational setting, seen during conversations and a running scene.",
+          "attribute": "visual"
+        },
+        "Woman in black leather jacket": {
+          "description": "Sits at a breakroom table, writing in a notebook, wearing a black leather jacket over a green top, with a red mug and patterned water bottle nearby.",
+          "attribute": "visual"
+        },
+        "Woman with red hair and sunglasses": {
+          "description": "Walks beside the woman in the dark hoodie, wearing a black coat, sunglasses, and holding a drink with a straw, with long red hair.",
+          "attribute": "visual"
+        },
+        "Woman in purple top with pink scarf": {
+          "description": "Sits beside the woman in black leather jacket, reacting with a surprised expression, wearing a purple top with a pink scarf and a pearl necklace.",
+          "attribute": "visual"
+        },
+        "Woman in dark hoodie with sunglasses": {
+          "description": "Walks through a mall, wearing a dark hoodie, sunglasses, and holding a blue drink with a straw, with a red lanyard.",
+          "attribute": "visual"
+        },
+        "Young man in blue jacket": {
+          "description": "Runs down a school staircase, wearing a blue jacket and dark pants, carrying a backpack, appearing urgent.",
+          "attribute": "visual"
+        },
+        "Woman in pink cardigan and lace-collared blouse": {
+          "description": "Sits at a cluttered desk in a classroom, flipping through a book with a focused expression, wearing a pink cardigan over a lace-collared blouse.",
+          "attribute": "visual"
+        },
+        "Bald man in teal shirt": {
+          "description": "Walks through a kitchen area, wearing a teal shirt, with a white bottle in hand, appearing to be in motion.",
+          "attribute": "visual"
+        },
+        "Library setting": {
+          "description": "A room with bookshelves, a 'BOOK' banner, and a table where a man and woman are seated, suggesting a quiet, academic environment.",
+          "attribute": "visual"
+        },
+        "Woman in black top with red lanyard": {
+          "description": "Sits beside the man in gray shirt in the library, characterized by a distinct, loud, almost cackling laugh heard after a male voice requests a chair, wearing a black top and a red lanyard, looking engaged.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a woman in a pink cardigan and lace-collared blouse intently flipping through a book at a cluttered classroom desk, as a male voice states, \"Alright.\" The scene then shifts to a breakroom where a woman in a black leather jacket and another in a purple top with a pink scarf sit at a round table, writing and reacting, while a female voice playfully asks, \"Now, who took that picture of me?\" An energetic, preacher-like male voice then dramatically declares, \"Just that you all drop your vices and take a hit of my drug of choice, J-E-S-U-S, street name Christ! Baby Jesus and the grown one too! My desks have been des-\", his speech cutting off as the visuals transition. During this, a bald man in a teal shirt walks through a kitchen, followed by a woman in a black blazer with a pearl necklace who appears to be speaking urgently in a hallway. The scene moves to a school hallway where a young man in a dark jacket walks past a bulletin board alongside a woman in a floral blouse. A young girl with a large bow in her hair then walks past shelves of books and plants in a classroom, accompanied by a high-pitched female voice exclaiming, \"Fly free, little birdie!\" The visuals continue with two women in dark hoodies and sunglasses walking through a mall, sipping from bottles, as a male voice states, \"I'm a dog here,\" followed by a \"Woof woof\" sound effect. A calm female voice then observes, \"Last night, as the kids would say, was a film. I don't know what that means. That sounds like an accurate description.\" A young man with curly hair in a dark jacket looks surprised, while a muffled male voice comments, \"I've ever seen him experience joy before. It's weird.\" The scene intensifies with a young man in a blue jacket running down a school staircase, accompanied by building, driving music that culminates in a loud crash. The final scene shows a man in a gray shirt with a lanyard sitting at a library table, speaking with a slightly exasperated tone, \"I hate gardening so much,\" to someone off-screen, with a woman in a black top and red lanyard beside him. Another male voice then requests, \"Somebody give me a chair!\" which is met with a distinct, loud, almost cackling laugh from the woman."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 4,
+      "end_minute": 4,
+      "summary": "The scene opens with a woman with short dark hair in a white top and lanyard speaking expressively in a dimly lit room, accompanied by the sound of a car door closing and a 'whoosh.' A deep male voice introduces 'Tariq Temple,' asserting he 'could single-handedly stop drug use in all of America.' The visuals shift to a man with curly hair and amber glasses appearing surprised, as a softer male voice recounts his son's excitement to read a book, leading to an older female voice questioning his tiredness and his tired reply, 'I am sleepy.' Amidst group laughter and shouts of 'Go man go! Yes!', a panicked male voice exclaims, 'What the hell is happening?' A man in a brown jacket holding a red rose and a phone in a classroom is then seen, as a frantic male voice is interrupted by a loud thud and metallic clatter. A woman in a black jacket with a pearl necklace, speaking urgently and gesturing in a hallway, screams 'NO!' and breathlessly states, 'I can't open the door, they'll escape,' her voice filled with distress, an urgency echoed by a woman in a blue dress looking alarmed. A frustrated male voice explains, 'See, this is why I don't ever tell anybody, okay? 'Cause everyone always freaks out and acts like it's a personal attack,' defensively adding, 'That's not my fault. I was born this way.' Another male voice sternly warns, 'Don't you bring Lady Gaga into this,' and questions, 'Why are you breathing so hard?' to which an excited female voice replies, 'I'm excited!' A skeptical male voice suggests, 'Well, it's weird. You should get that checked out,' followed by a resigned 'Okay' from a female. A hushed male voice advises, 'Don't, don't say that. I don't believe that she does,' met with a protesting 'No, she's not!' from a female, and a calm male voice explaining, 'She's not very coordinated.' Another loud crash and 'whoosh' sound are followed by a male shout of 'Oh! He's down!' and an exasperated 'Oh!' A woman in a blue blouse gestures animatedly in a breakroom, and a woman in a black leather jacket writes, while a woman in a purple top reacts with surprise. An aggressive male voice shouts, 'Hey yo!' followed by a stern female voice, likely the woman with short dark hair, warning, 'Watch it, Stick-Stickly!' and challenging, 'What are you looking at, Spongebob?' A defensive male voice defends someone as 'teacher of the year,' met with a mocking, high-pitched female voice, likely the same expressive woman, exclaiming, 'Yeah, Kenneth Tommy Pickles! Oh my god!' A mediating male voice says, 'Okay,' before the female voice questions, 'Why does she watch the...' The minute concludes with a group of people in a hallway looking surprised or concerned, and a woman in a red blouse preparing food in a kitchen as a bald man walks by, the overall atmosphere marked by escalating tension, surprise, and emotional intensity through rapid scene changes and expressive character reactions.",
+      "involved_entities": {
+        "Woman in red blouse": {
+          "description": "Stands in a kitchen, preparing food with a focused expression, wearing a red blouse and a lanyard.",
+          "attribute": "visual"
+        },
+        "Man in brown jacket with red rose": {
+          "description": "Stands in a classroom, holding a red rose and a phone, wearing a brown jacket and gray shirt, with children’s drawings on the wall behind him.",
+          "attribute": "visual"
+        },
+        "Woman in blue blouse with red trim": {
+          "description": "Gestures animatedly while speaking to a man in a blue shirt, wearing a blue blouse with red trim and a lanyard, in a breakroom setting.",
+          "attribute": "visual"
+        },
+        "Woman in black leather jacket": {
+          "description": "Sits at a breakroom table, writing in a notebook, wearing a black leather jacket over a green top, with a red mug and patterned water bottle nearby.",
+          "attribute": "visual"
+        },
+        "Man in brown jacket leaning over car": {
+          "description": "Leans over a car in a parking lot, wearing a brown jacket and lanyard, appearing hurried or distressed.",
+          "attribute": "visual"
+        },
+        "Woman in purple top with pink scarf": {
+          "description": "Sits beside the woman in black leather jacket, reacting with a surprised expression, wearing a purple top with a pink scarf and a pearl necklace.",
+          "attribute": "visual"
+        },
+        "Young man in dark jacket": {
+          "description": "Walks through a school hallway, wearing a dark jacket and a lanyard, with a neutral expression.",
+          "attribute": "visual"
+        },
+        "Woman in blue dress with pearl necklace": {
+          "description": "Looks surprised or alarmed, wearing a blue dress, pearl necklace, and large hoop earrings.",
+          "attribute": "visual"
+        },
+        "Woman in black jacket with pearl necklace": {
+          "description": "Stands in a hallway, speaking with urgency and gesturing with her hand, wearing a black jacket and a pearl necklace. Her distressed scream of 'NO!' and urgent plea 'I can't open the door, they'll escape' are heard.",
+          "attribute": "audio-visual"
+        },
+        "Bald man in teal shirt": {
+          "description": "Walks through a kitchen area, wearing a teal shirt, with a white bottle in hand, appearing to be in motion.",
+          "attribute": "visual"
+        },
+        "Man in blue shirt": {
+          "description": "Stands in the breakroom, reacting with surprise, wearing a blue shirt and a lanyard, facing the woman in the blue patterned blouse.",
+          "attribute": "visual"
+        },
+        "Man with curly hair and amber glasses": {
+          "description": "Sits in a vehicle or office, wearing a gray shirt and amber-tinted glasses, with a surprised or concerned expression.",
+          "attribute": "visual"
+        },
+        "Man in gray sweater and tie": {
+          "description": "Stands in a hallway, appearing surprised, wearing a gray sweater over a collared shirt and tie.",
+          "attribute": "visual"
+        },
+        "Woman with short dark hair in white top": {
+          "description": "Sits in a dimly lit room, speaking with an open mouth and expressive face, wearing a white top and a lanyard. Her aggressive and challenging voice is heard warning, 'Watch it, Stick-Stickly!' and asking, 'What are you looking at, Spongebob?', later mocking with 'Yeah, Kenneth Tommy Pickles! Oh my god!'",
+          "attribute": "audio-visual"
+        },
+        "Woman in black blazer with pearl necklace": {
+          "description": "Stands in a hallway, speaking with urgency, wearing a black blazer with a pearl necklace and a lanyard.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with the distinct sound of a car door closing and a 'whoosh,' as a close-up shows a woman with short dark hair, wearing a white top and a lanyard, speaking with an expressive, open-mouthed gesture in a dimly lit room. A deep male voice introduces 'Tariq Temple,' claiming he 'could single-handedly stop drug use in all of America.' The scene quickly shifts to a man with curly hair and amber-tinted glasses, looking surprised or concerned, while a softer male voice shares that his son was excited to read a book, prompting an older female voice to question why he's going to sleep before his son, to which he tiredly replies, 'I am sleepy.' Amidst group laughter and excited shouts of 'Go man go! Yes!', a panicked male voice exclaims, 'What the hell is happening?' The visuals continue with a man in a brown jacket holding a red rose and a phone in a classroom, as a frantic male voice is cut off by a loud thud and metallic clatter. A woman in a black jacket with a pearl necklace, seen speaking with urgency and gesturing in a hallway, screams 'NO!' and then breathlessly states, 'I can't open the door, they'll escape,' her voice filled with distress. This urgency is mirrored by a woman in a blue dress looking surprised or alarmed. A frustrated male voice then explains, 'See, this is why I don't ever tell anybody, okay? 'Cause everyone always freaks out and acts like it's a personal attack,' adding defensively, 'That's not my fault. I was born this way.' Another male voice sternly warns, 'Don't you bring Lady Gaga into this,' and questions, 'Why are you breathing so hard?' to which an excited female voice replies, 'I'm excited!' A skeptical male voice suggests, 'Well, it's weird. You should get that checked out,' followed by a resigned 'Okay' from a female. A hushed male voice advises, 'Don't, don't say that. I don't believe that she does,' which is met with a protesting 'No, she's not!' from a female, and a calm male voice explaining, 'She's not very coordinated.' Another loud crash and 'whoosh' sound accompany a male shout of 'Oh! He's down!' and an exasperated 'Oh!' The scene shifts to a woman in a blue blouse gesturing animatedly in a breakroom, and a woman in a black leather jacket writing, while a woman in a purple top reacts with surprise. An aggressive male voice shouts, 'Hey yo!' followed by a stern female voice, likely the woman with short dark hair, warning, 'Watch it, Stick-Stickly!' and challenging, 'What are you looking at, Spongebob?' A defensive male voice defends someone as 'teacher of the year,' only to be met with a mocking, high-pitched female voice, likely the same expressive woman, exclaiming, 'Yeah, Kenneth Tommy Pickles! Oh my god!' A mediating male voice says, 'Okay,' before the female voice questions, 'Why does she watch the...' as the minute concludes with a group of people in a hallway looking surprised or concerned, and a woman in a red blouse preparing food in a kitchen while a bald man walks by. The overall atmosphere is one of escalating tension, surprise, and emotional intensity, punctuated by rapid scene changes and expressive character reactions."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 5,
+      "end_minute": 5,
+      "summary": "A tense exchange unfolds between a woman in a black and white polka-dot top and a man in a gray suit before a backdrop of red curtains and an American flag, punctuated by the sound of a passing car. Outdoors, near a brick building, a woman in a blue dress with a pearl necklace, a man in a maroon shirt with a lanyard, and a woman with red hair in a beige coat look alarmed as a white car drives by, its engine audible. A woman's voice questions, \"Oh my god, what did he just say to you? If you don't do well, you're going to get fired?\" to which a man replies, \"Worse,\" and \"He mumbled and I didn't hear it.\" The agitated driver, a man in a blue shirt, grips the steering wheel tightly, while the group outside reacts with shock. The scene shifts to a dimly lit indoor space where a woman in a dark hoodie with sunglasses and a red lanyard, accompanied by a woman with red hair and sunglasses, both holding drinks, walks confidently. A woman's voice asks, \"She's doing sit-ups in there?\" followed by a loud male voice shouting, \"GREGORY! What are you doing out here? Is this about the pizza?\" Gregory denies it. In a school hallway, a man in a black shirt with a lanyard and a young man in a plaid shirt with a lanyard appear startled. Inside a breakroom, a woman in a blue blouse with red trim gestures animatedly at a man in a blue shirt, drawing surprise from a woman in a gray blazer and a woman in a black leather jacket. A woman asks, \"What is that? What are you eating?\" and the man defiantly responds, \"Why'd you just leave me and my boiled chicken sandwich alone?\" The woman criticizes the cooking method, leading the man to assert, \"I consult... you know what? I'm not explaining anything to y'all, okay? I'm a grown ass man.\" Another car sound is heard, and a male voice reflects, \"Ooh, I think we broke that boy.\" A woman casually mentions, \"I forgot to put my shoes on.\" In the breakroom, a man reveals, \"Janine smokes weed every day,\" eliciting shocked reactions, including \"Damn, Afro man?\" A woman clarifies, \"Nope. Not every day,\" with another sarcastically adding, \"Every night.\" A man then shares, \"I've been here a year and a half. She's been pregnant the whole time,\" adding, \"I don't ask questions.\" The video concludes with a man in a blue shirt at a water cooler, a woman in a blue and white checkered top running down a hallway, and a woman in a blue dress with a pearl necklace walking briskly, suggesting a series of escalating events across various settings, marked by surprise, urgency, and confrontation, ending with a friendly \"Hi\" and a trailing \"Bet you...\"",
+      "involved_entities": {
+        "Man in maroon shirt": {
+          "description": "Stands beside the woman in blue dress, wearing a maroon shirt and gray pants, with a lanyard, looking alarmed.",
+          "attribute": "visual"
+        },
+        "Woman in gray blazer": {
+          "description": "Sits at a breakroom table, wearing a gray blazer, looking concerned, with a blue patterned water bottle on the table.",
+          "attribute": "visual"
+        },
+        "Woman in blue dress with pearl necklace": {
+          "description": "Stands with a surprised expression, wearing a blue dress, pearl necklace, and large hoop earrings, in an outdoor setting near a brick building.",
+          "attribute": "visual"
+        },
+        "Man in blue shirt (breakroom)": {
+          "description": "Stands in a breakroom, reacting with surprise, wearing a blue shirt and a lanyard, facing the woman in the blue blouse with red trim. He is identified as 'Gregory' by a booming male voice and replies 'No'. He also defiantly defends his 'boiled chicken sandwich' and asserts he's a 'grown ass man'. He is also likely the man who states 'Janine smokes weed every day' and mentions a woman being 'pregnant the whole time'.",
+          "attribute": "audio-visual"
+        },
+        "Man in black shirt with lanyard": {
+          "description": "Stands in a school hallway, wearing a black shirt and a lanyard, with a surprised expression.",
+          "attribute": "visual"
+        },
+        "Woman with red hair": {
+          "description": "Stands beside the man in maroon shirt, wearing a beige coat and red hair, with a concerned expression.",
+          "attribute": "visual"
+        },
+        "Brick building exterior": {
+          "description": "An outdoor setting with a brick wall and black railing, where the group of three stands, suggesting a school or institutional building.",
+          "attribute": "visual"
+        },
+        "Woman in blue blouse with red trim": {
+          "description": "Gestures animatedly while speaking to a man in a blue shirt in a breakroom setting. She is likely the woman who asks 'She's doing sit-ups in there?', questions a man about his 'boiled chicken sandwich', and possibly contributes to the discussion about 'Janine' by correcting 'Not every day' to 'Every night'.",
+          "attribute": "audio-visual"
+        },
+        "School hallway with lockers": {
+          "description": "A brightly lit hallway with lockers and bulletin boards, where the man in black shirt and young man in plaid shirt stand, indicating a school environment.",
+          "attribute": "visual"
+        },
+        "Young man in plaid shirt with lanyard": {
+          "description": "Stands beside the man in black shirt, wearing a plaid shirt and a lanyard, looking startled.",
+          "attribute": "visual"
+        },
+        "Woman in black and white polka-dot top": {
+          "description": "Speaks animatedly in a hallway, wearing a black top with white polka dots and a gold chain necklace, appearing to confront a man in a gray suit.",
+          "attribute": "visual"
+        },
+        "Woman in black leather jacket": {
+          "description": "Sits at a breakroom table, writing in a notebook, wearing a black leather jacket over a green top, with a red mug and patterned water bottle nearby.",
+          "attribute": "visual"
+        },
+        "Woman with red hair and sunglasses": {
+          "description": "Walks beside the woman in the dark hoodie, wearing a black coat, sunglasses, and holding a drink with a straw, with long red hair.",
+          "attribute": "visual"
+        },
+        "Breakroom with water cooler": {
+          "description": "An indoor breakroom with a water cooler, shelves, and a bulletin board, where the woman in blue blouse with red trim speaks to the man in blue shirt.",
+          "attribute": "visual"
+        },
+        "Man in gray suit": {
+          "description": "Faces the woman in the polka-dot top, wearing a gray suit, with his back to the camera, in a formal setting with red curtains and an American flag.",
+          "attribute": "visual"
+        },
+        "Woman in dark hoodie with sunglasses": {
+          "description": "Walks through a dimly lit public space, wearing a dark hoodie, sunglasses, and holding a blue drink with a straw, with a red lanyard.",
+          "attribute": "visual"
+        },
+        "Man in blue shirt": {
+          "description": "Sits in a white car, gripping the steering wheel, wearing a blue shirt and a lanyard, appearing agitated, with the distinct sound of his car driving past twice. He is possibly the 'boy' a reflective male voice later comments on as being 'broken'.",
+          "attribute": "audio-visual"
+        },
+        "White car": {
+          "description": "A white sedan driving past a group of people, with a man in a blue shirt visible inside, gripping the steering wheel tightly, accompanied by distinct engine sounds as it drives past twice.",
+          "attribute": "audio-visual"
+        },
+        "Woman in blue and white checkered top": {
+          "description": "Runs down a school hallway, wearing a blue and white checkered top and beige pants, with a lanyard, appearing urgent. She is likely the woman who casually mentions, 'I forgot to put my shoes on'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a tense interaction in a formal setting, where a woman in a black and white polka-dot top appears to be in a heated exchange with a man in a gray suit, set against red curtains and an American flag. Simultaneously, the distinct sound of a car driving past is heard. The scene quickly shifts to an outdoor setting where a group of three—comprising a woman in a blue dress with a pearl necklace, a man in a maroon shirt with a lanyard, and a woman with red hair in a beige coat—stand near a brick building, looking alarmed as a white car drives past, its engine sound prominent. A woman's voice exclaims, \"Oh my god, what did he just say to you? If you don't do well, you're going to get fired?\" to which a man replies, \"Worse,\" then adds, \"He mumbled and I didn't hear it.\" The camera cuts to the driver, a man in a blue shirt, who appears agitated and is seen gripping the steering wheel tightly, while the group outside reacts with shock and concern. The scene transitions to a dimly lit indoor environment, possibly a mall or public space, where a woman in a dark hoodie with sunglasses and a red lanyard walks confidently, holding a blue drink, accompanied by a woman with red hair and sunglasses, also holding a drink. A woman's voice then asks, \"She's doing sit-ups in there?\" This is followed by a loud, booming male voice shouting, \"GREGORY! What are you doing out here? Is this about the pizza?\" to which a male voice (Gregory) replies, \"No.\" The video then cuts to a school hallway where a man in a black shirt with a lanyard and a young man in a plaid shirt with a lanyard appear startled. The scene shifts to a breakroom where a woman in a blue blouse with red trim gestures animatedly at a man in a blue shirt, while others, including a woman in a gray blazer and a woman in a black leather jacket, react with surprise. A woman's voice asks, \"What is that? What are you eating?\" and a man's voice (likely the man in blue shirt in the breakroom) defiantly responds, \"Why'd you just leave me and my boiled chicken sandwich alone?\" The woman retorts, \"Oh, boiled? That's the worst way to cook it, man.\" The man then asserts, \"Oh, I'm sorry. I consult... you know what? I'm not explaining anything to y'all, okay? I'm a grown ass man.\" Another car sound is heard, followed by a reflective male voice stating, \"Ooh, I think we broke that boy.\" A woman's voice casually mentions, \"I forgot to put my shoes on.\" In the breakroom or a similar setting, a man's voice reveals, \"Janine smokes weed every day,\" prompting a shocked \"No!\" from a woman, and a surprised \"Damn, Afro man?\" from another man. A woman's voice corrects, \"Nope. Not every day,\" followed by another woman's sarcastic \"Every night.\" A man's voice then shares, \"I've been here a year and a half. She's been pregnant the whole time,\" adding, \"I don't ask questions.\" The final scenes show a man in a blue shirt at a water cooler, a woman in a blue and white checkered top running down a hallway, and a woman in a blue dress with a pearl necklace walking briskly, all suggesting a chain of escalating events across different locations, from formal to school to public spaces, with consistent themes of surprise, urgency, and confrontation, concluding with a friendly \"Hi\" and a trailing \"Bet you...\""
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 6,
+      "end_minute": 7,
+      "summary": "The video transitions from a vibrant nightclub scene featuring the Woman in black jacket with pearl trim and a woman in a black sequined outfit, to a school hallway where the Bald man in teal shirt, adopting a pirate accent, urges Children in white uniforms to \"abandon ship,\" followed by a disappearing basketball trick. A classroom scene shows the Woman in a red vest walking past a Bulletin board with motivational signs, accompanied by playful banter between a child and an adult about age and baldness, escalating into a mock threat between male voices, ending with the Bald man in teal shirt instructing someone (possibly the Young man in green jacket) to \"pick up that mop.\" The Bald man in teal shirt, the Young man in a green jacket, and the Woman in a patterned dress are then seen in a School hallway environment in what appears to be a serious discussion. The scene shifts to an outdoor setting where the Woman in a bright pink blouse and a Man in a black jacket socialize with drinks, before returning to the Bald man in teal shirt in a breakroom, reaching for a bottle amidst voices expressing disapproval. The scene then cuts to a cluttered kitchen where the Bald man in teal shirt, holding a broom, speaks urgently with a Man in brown suit, followed by a heated discussion between the Woman in black jacket with pearl trim and a Young man in plaid shirt. Playful group voices call out directions and seasons, while repetitive beeping sounds are heard. In a classroom, the Bald man in teal shirt dramatically narrates the story of Moses to Children in white uniforms, prompting humorous reactions. The Woman in blue blouse with red trim speaks to the Man in blue shirt in a breakroom, followed by strong opinions expressed by male voices. A Woman in a black blazer speaks urgently in a school hallway, followed by a surprised Woman in a blue dress, while greetings are exchanged and a message is announced. The Woman in a black leather jacket writes in a notebook in the breakroom, while a Woman in a purple top reacts with surprise. The segment concludes with a Woman in a yellow cardigan and a Woman in a gray blazer in the breakroom, as an excited male voice exclaims, \"Oh, little black panther!\"",
+      "involved_entities": {
+        "Young man in green jacket": {
+          "description": "Appears concerned during a conversation in a school hallway, and is potentially heard in a playful verbal exchange with another adult, stating, 'Please, you can't reach my ass to kick it,' and later respectfully replying, 'Yes, sir' to an instruction.",
+          "attribute": "audio-visual"
+        },
+        "Woman in black jacket with pearl trim": {
+          "description": "Stands in a hallway, speaking with urgency, wearing a black jacket with a pearl necklace and a lanyard.",
+          "attribute": "visual"
+        },
+        "Man in black jacket": {
+          "description": "Stands beside the woman in pink blouse, wearing a black jacket, holding a drink, and engaging in conversation with her.",
+          "attribute": "visual"
+        },
+        "Woman in black sequined outfit": {
+          "description": "Sits at a table in a nightclub, holding a cocktail, with dramatic makeup and a glamorous appearance.",
+          "attribute": "visual"
+        },
+        "Bulletin board with motivational signs": {
+          "description": "Displays messages such as 'TRY YOUR BEST!', 'EMBRACE MISTAKES', 'LISTEN', and 'KIND TO EACH OTHER', visible in the classroom background.",
+          "attribute": "visual"
+        },
+        "Woman in red vest with bow": {
+          "description": "Walks through a classroom, wearing a white shirt with a red vest and a large bow in her hair, holding a water bottle, with a confident expression.",
+          "attribute": "visual"
+        },
+        "Bald man in teal shirt": {
+          "description": "Walks through a kitchen area, wearing a teal shirt, with a white bottle in hand, appearing to be in motion; later seen speaking into a microphone to children and then reaching for a bottle on a shelf, and is heard speaking with urgency, saying 'Just not it,' and later narrating dramatically, 'And that is when Moses split that sea, baby.'",
+          "attribute": "audio-visual"
+        },
+        "Children in white uniforms": {
+          "description": "Stand in a school assembly, wearing white polo shirts and khaki pants, listening to the bald man in teal shirt speak into a microphone.",
+          "attribute": "visual"
+        },
+        "Classroom setting": {
+          "description": "A classroom with desks, children’s drawings on the wall, and motivational posters, where the woman in red vest walks and the bald man in teal shirt speaks to children.",
+          "attribute": "visual"
+        },
+        "Woman in patterned dress": {
+          "description": "Stands in a school hallway, wearing a long dress with a red and blue geometric pattern, gesturing while speaking to the bald man in teal shirt, with a lanyard around her neck.",
+          "attribute": "visual"
+        },
+        "Woman in pink blouse": {
+          "description": "Stands in a dimly lit outdoor setting, wearing a bright pink blouse with a keyhole neckline, smiling and talking to a man in a black jacket, holding a drink.",
+          "attribute": "visual"
+        },
+        "School hallway environment": {
+          "description": "Brightly lit hallway with lockers, bulletin boards, and colorful artwork, indicating an educational setting, seen during conversations and a running scene.",
+          "attribute": "visual"
+        },
+        "Woman in yellow cardigan": {
+          "description": "Sits at a table in a breakroom, wearing a yellow cardigan over a coral blouse, with a red mug in front of her.",
+          "attribute": "visual"
+        },
+        "Man in gray sweater": {
+          "description": "Stands in a hallway, appearing surprised, wearing a gray sweater over a collared shirt and tie.",
+          "attribute": "visual"
+        },
+        "Woman in gray blazer": {
+          "description": "Sits at a breakroom table, wearing a gray blazer, looking concerned, with a blue patterned water bottle on the table.",
+          "attribute": "visual"
+        },
+        "Man in blue shirt (breakroom)": {
+          "description": "Stands in a breakroom, reacting with surprise, wearing a blue shirt and a lanyard, facing the woman in the blue blouse with red trim, and is heard saying 'You shouldn't have.'",
+          "attribute": "audio-visual"
+        },
+        "Man in brown suit": {
+          "description": "Stands beside the bald man in teal shirt, wearing a brown suit, with a concerned expression, in a kitchen or storage area.",
+          "attribute": "visual"
+        },
+        "Woman in blue blouse with red trim": {
+          "description": "Gestures animatedly while speaking to a man in a blue shirt, wearing a blue blouse with red trim and a lanyard, in a breakroom setting, and is heard saying, 'Me, but it's okay, 'cause it's mutual. I'm you too.'",
+          "attribute": "audio-visual"
+        },
+        "Young man in plaid shirt with lanyard": {
+          "description": "Stands beside the man in black shirt, wearing a plaid shirt and a lanyard, looking startled.",
+          "attribute": "visual"
+        },
+        "School hallway with lockers": {
+          "description": "A brightly lit hallway with lockers and bulletin boards, where the man in black shirt and young man in plaid shirt stand, indicating a school environment.",
+          "attribute": "visual"
+        },
+        "Woman in black leather jacket": {
+          "description": "Sits at a breakroom table, writing in a notebook, wearing a black leather jacket over a green top, with a red mug and patterned water bottle nearby.",
+          "attribute": "visual"
+        },
+        "Breakroom with water cooler": {
+          "description": "An indoor breakroom with a water cooler, shelves, and a bulletin board, where the woman in blue blouse with red trim speaks to the man in blue shirt.",
+          "attribute": "visual"
+        },
+        "Woman in purple top with pink scarf": {
+          "description": "Sits beside the woman in black leather jacket, reacting with a surprised expression, wearing a purple top with a pink scarf and a pearl necklace.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a dimly lit, vibrant nightclub with upbeat music and laughter, where a woman in a floral blouse (likely the Woman in black jacket with pearl trim) gestures expressively while another in a black sequined outfit holds a cocktail, both exuding glamour amidst animated conversation. The scene quickly shifts to a brightly lit school hallway where the Bald man in teal shirt, speaking with a pirate-like accent, exclaims \"Shiver me timbers, tiny buckle! Time to abandon ship!\" to a group of excited Children in white uniforms. Another voice encourages the children to \"make some noise,\" which they do with enthusiastic cheers and applause, as a performer then announces, \"I'm gonna make this basketball disappear,\" accompanied by a \"whoosh\" sound and a \"ta-da,\" eliciting further cheers. The camera then cuts to a classroom where a Woman in a red vest over a white shirt, with a large bow in her hair, walks confidently while holding a water bottle, passing a Bulletin board with motivational signs. Over this, a playful exchange between a child and an adult is heard, with the child claiming to be \"you\" and then \"just a you,\" and when asked why, humorously retorts, \"'Cause you're 100 years old!\" Another child's voice bluntly states, \"Sir, you are bald.\" A playful, slightly aggressive exchange follows, with one male voice threatening, \"I'll kick your ass tomorrow,\" and another (possibly the Young man in green jacket) retorting, \"Please, you can't reach my ass to kick it.\" A distinct \"thud\" is heard, and the Bald man in teal shirt instructs, \"Pick up that mop,\" to which a male voice (possibly the Young man in green jacket) respectfully replies, \"Yes, sir.\" This occurs as the Bald man in teal shirt is seen in a School hallway environment conversing with the Young man in a green jacket (who appears concerned) and a Woman in a patterned dress (who gestures as if explaining), both wearing lanyards, amidst indistinct murmuring and ambient school sounds. The video then cuts to a dimly lit outdoor setting with upbeat, slightly dramatic music, where a Woman in a bright pink blouse smiles and talks to a Man in a black jacket, both holding drinks, suggesting a social outing. The final shot returns to the Bald man in teal shirt, now in a kitchen or breakroom, reaching for a bottle on a shelf with a focused expression, while voices are heard saying \"No,\" \"Hey, no,\" and \"Oh,\" suggesting a moment of disagreement or surprise, before a male voice is heard saying, \"You're gonna make a great...\" as the segment ends.",
+        "The segment opens in a cluttered kitchen or storage area where the Bald man in teal shirt, holding a broom, speaks with urgency, heard saying, \"Just not it.\" He is soon joined by a Man in brown suit, and they appear to be in a tense conversation. The scene quickly shifts to a classroom or office setting where a Woman in black jacket with pearl trim and a Young man in plaid shirt with a lanyard are engaged in a heated discussion, gesturing emphatically, while male voices are heard dramatically declaring, \"Guilty. Case closed,\" and \"You are hereby sentenced to never speak to us again. Period.\" Playful group voices then call out, \"South! For wine,\" and \"No. When? Winter! For winter!\" Repetitive beeping sounds are heard. The camera then cuts to a classroom setting with children’s drawings and motivational posters, where a group of adults, including a Woman in a patterned dress, a Man in a gray sweater, and a Woman in a red vest with a bow, listen intently as the Bald man in teal shirt speaks into a microphone to Children in white uniforms, narrating dramatically, \"And that is when Moses split that sea, baby.\" Reactions like, \"Oh my gosh, should I read the Bible?\" and \"Okay, no more spoilers\" are heard. The setting transitions to a breakroom with a water cooler, where the Woman in blue blouse with red trim gestures animatedly while speaking to the Man in blue shirt, who reacts with surprise, as she is heard saying, \"Me, but it's okay, 'cause it's mutual. I'm you too,\" followed by the Man in blue shirt saying, \"You shouldn't have.\" Other male voices are heard expressing strong opinions like, \"He shouldn't have. Like, he really shouldn't have. He's the ugliest things I've ever seen in my life,\" and exclaiming, \"Damn!\" The scene then moves to a school hallway with lockers, where a Woman in a black blazer with a pearl necklace speaks with urgency, followed by a Woman in a blue dress with a pearl necklace and large hoop earrings, who looks surprised, while greetings like, \"Hello,\" \"Hey, sorry,\" and \"Hey\" are exchanged, and a male voice announces, \"Pick up from Mr. Johnson.\" The video continues in the breakroom with a Woman in a black leather jacket writing in a notebook at a table, while a Woman in a purple top with a pink scarf reacts with surprise beside her. The final scenes show a Woman in a yellow cardigan sitting at a breakroom table with a red mug, and a Woman in a gray blazer looking concerned, as the camera pans across the room, and an excited male voice exclaims, \"Oh, little black panther!\" The environment shifts between a school hallway, a classroom, and a breakroom, indicating a dynamic and tense atmosphere throughout the segment."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 8,
+      "end_minute": 8,
+      "summary": "In a school hallway, a young man in a black and gray plaid jacket and beanie reacts with surprise to a woman's question about 'forever,' while a man clarifies 'for the day.' Outdoors, a young man in a blue jacket performs a handstand on stairs near a 'SLOW' pedestrian sign, eliciting shouts of excitement and a woman's declaration, 'Y'all must've forgotten I'm me.' Outside a brick building, a woman in a blue dress with a pearl necklace raises her hand. In an office, a woman with red hair and sunglasses shakes hands with a woman in a white coat, as one woman recounts a story about a man thought dead but merely napping, and a man named 'Shay' tells 'Barb' a similar story happened at his house. A young man in a black sweater with a lanyard speaks animatedly in a cafeteria, with a man approving his actions. In a classroom, a woman in a green sweater gestures while speaking to a man in a gray sweater and a woman in a red blouse, followed by a surprised 'Oh! Psych!' In a kitchen, a woman in a red blouse and a man in a patterned sweater are addressed by a woman asking 'Melissa' questions. In an auditorium, a young man in a blue sweater raises his hand among children, as a woman dramatically asks about a dead guy in her bed and tells 'Jacob' not to make it about himself. At a formal event with a 'BOARD OF EDUCATION' podium, a woman in a black blazer speaks between a bald man in a vest and a man in a brown suit, while a crowd chants 'We want justice!' until told to stop. At a party, a woman in a striped dress adjusts the jacket of a woman in a sequined top, as a man playfully remarks on a 'pirate' transformation and tells someone to leave the room, followed by surprise at an unexpected presence. The segment concludes with a hand holding a red box of 'Gourmet Chocolate Truffles,' a white car passing a brick building with a 'NO PARKING' sign, a man asking 'Is this me?', and a crowd chanting for an unintelligible name.",
+      "involved_entities": {
+        "Young man in black and gray plaid jacket": {
+          "description": "Stands in a school hallway, wearing a black and gray plaid jacket and a beanie, with a surprised expression.",
+          "attribute": "visual"
+        },
+        "Woman in red blouse": {
+          "description": "Stands in a festive kitchen, wearing a red blouse and a lanyard, possibly \"Melissa,\" as another woman addresses her by name multiple times, asking \"Question for you, Melissa,\" and exclaiming \"Oh, Melissa, Melissa, Melissa.\"",
+          "attribute": "audio-visual"
+        },
+        "Hand holding red box": {
+          "description": "Holds a red box labeled 'Gourmet Chocolate Truffles', suggesting a gift or treat, with a blurred background.",
+          "attribute": "visual"
+        },
+        "Man in gray sweater": {
+          "description": "Stands in a classroom or office, wearing a gray sweater, looking attentive during a conversation.",
+          "attribute": "visual"
+        },
+        "Woman in blue dress with pearl necklace": {
+          "description": "Stands outside a brick building, wearing a blue dress, pearl necklace, and large hoop earrings, raising her hand as if signaling.",
+          "attribute": "visual"
+        },
+        "SLOW pedestrian sign": {
+          "description": "A yellow sign with a black pedestrian symbol and the word 'SLOW', visible near the outdoor stairs where the handstand occurs.",
+          "attribute": "visual"
+        },
+        "Woman in black blazer": {
+          "description": "Speaks at a podium labeled 'BOARD OF EDUCATION', wearing a black blazer, saying \"I mean...\", while flanked by a bald man in a vest and a man in a brown suit, amidst a crowd chanting \"We want justice!\"",
+          "attribute": "audio-visual"
+        },
+        "Young man in black sweater with lanyard": {
+          "description": "Sits at a table in a breakroom, holding a drink with a straw, wearing a black sweater and a lanyard, speaking animatedly, with a man's voice heard saying, \"Oh, okay. Do it,\" and \"That sounds nice.\"",
+          "attribute": "audio-visual"
+        },
+        "Woman in green sweater": {
+          "description": "Stands in an office or classroom, wearing a green sweater, gesturing while speaking to a group, and is possibly the source of a sudden, playful \"Oh! Psych!\"",
+          "attribute": "audio-visual"
+        },
+        "Woman in sequined top": {
+          "description": "Wears a sparkly gold top under a beige blazer, being adjusted by the woman in striped dress in a warm, festive environment, and is possibly \"C. Barbara,\" who is mentioned by a man's voice as going \"full pirate\" at the party.",
+          "attribute": "audio-visual"
+        },
+        "Bald man in vest": {
+          "description": "Stands beside the woman in black blazer at the podium, wearing a vest, white shirt, and tie, with a serious expression.",
+          "attribute": "visual"
+        },
+        "Man in brown suit": {
+          "description": "Stands beside the bald man in vest, wearing a brown suit, with a concerned expression.",
+          "attribute": "visual"
+        },
+        "Woman in striped dress": {
+          "description": "Stands in a party setting, wearing a black and white striped dress, adjusting the jacket of another woman.",
+          "attribute": "visual"
+        },
+        "Woman with red hair and sunglasses": {
+          "description": "Wears a black leather jacket, red hair, and sunglasses, greeting a woman in a white coat with a handshake.",
+          "attribute": "visual"
+        },
+        "Woman in white coat": {
+          "description": "Stands beside the woman with red hair, wearing a white coat and holding a black handbag, engaging in a brief conversation where a man identifies himself as \"Shay\" and addresses her as \"Barb.\"",
+          "attribute": "audio-visual"
+        },
+        "Young man in blue jacket": {
+          "description": "Performs a handstand on outdoor stairs, wearing a blue jacket and dark pants, with a backpack, appearing energetic.",
+          "attribute": "visual"
+        },
+        "Young man in blue sweater": {
+          "description": "Raises his hand enthusiastically in a crowded auditorium, wearing a blue sweater, surrounded by children in school uniforms, and is possibly \"Jacob,\" as a woman addresses him, saying \"Jacob, please do not make this all about you.\"",
+          "attribute": "audio-visual"
+        },
+        "Podium with 'BOARD OF EDUCATION' sign": {
+          "description": "A wooden podium with a plaque reading 'BOARD OF EDUCATION' and a logo, used during a formal presentation or meeting.",
+          "attribute": "visual"
+        },
+        "Man in patterned sweater": {
+          "description": "Stands beside the woman in red blouse, wearing a patterned sweater, possibly during a holiday gathering.",
+          "attribute": "visual"
+        },
+        "White car": {
+          "description": "Drives past a brick building, with a 'NO PARKING' sign visible, suggesting a transition or departure.",
+          "attribute": "visual"
+        },
+        "Red box labeled 'Gourmet Chocolate Truffles'": {
+          "description": "A red gift box with gold lettering, held by a hand, indicating a festive or celebratory gesture.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a young man in a black and gray plaid jacket and a beanie looking surprised in a school hallway, as a woman exclaims \"Oh!\" and then asks \"what kind of forever?\" while a man suggests \"just what kind of for the day.\" The scene quickly shifts to a dynamic outdoor shot where a young man in a blue jacket performs a handstand on stairs near a 'SLOW' pedestrian sign, amidst excited shouts of \"Oh, she's going down!\" and \"Jesus!\", followed by a woman's confident declaration, \"Y'all must've forgotten I'm me.\" The camera then cuts to a woman in a blue dress with a pearl necklace and large hoop earrings, raising her hand outside a brick building. Inside a brightly lit office, a woman with red hair and sunglasses, wearing a black leather jacket, greets a woman in a white coat with a handshake, as a woman's voice recounts, \"Girl, she thought he was dead and he was just taking a nap,\" and a man, identifying himself as \"Shay,\" addresses \"Barb\" saying, \"I know that story happened at my house.\" The scene transitions to a school cafeteria where a young man in a black sweater with a lanyard holds a drink and speaks animatedly, with a man's voice heard saying, \"Oh, okay. Do it,\" and \"That sounds nice.\" The setting shifts to a classroom where a woman in a green sweater gestures while speaking to a group, including a man in a gray sweater and a woman in a red blouse, punctuated by a sudden \"Oh! Psych!\" The video then cuts to a festive kitchen scene where a woman in a red blouse and a man in a patterned sweater stand together, as a woman's voice addresses \"Melissa\" multiple times, asking \"Question for you, Melissa,\" and exclaiming \"Oh, Melissa, Melissa, Melissa.\" The next scene shows a young man in a blue sweater raising his hand enthusiastically in a crowded auditorium, surrounded by children, while a woman's voice dramatically asks, \"Is a dead guy in my bed?\" and then tells \"Jacob, please do not make this all about you.\" The video then moves to a formal event with a podium labeled 'BOARD OF EDUCATION' where a woman in a black blazer speaks, saying \"I mean...\", flanked by a bald man in a vest and a man in a brown suit, as a crowd chants \"We want justice! We want justice!\" before being told to \"Stop the chants!\" The final scenes depict a warm, intimate party setting where a woman in a striped dress adjusts the jacket of a woman in a sequined top, while a man's voice playfully remarks, \"Your party made C. Barbara go full pirate. Didn't know you had it in ya,\" and later says, \"Okay, yo ho ho, leave the room,\" followed by a surprised \"Oh, how'd they get there? Oh no!\" The segment ends with a close-up of a hand holding a red box labeled 'Gourmet Chocolate Truffles', and a blurry shot of a white car driving past a brick building with a 'NO PARKING' sign, as a man's voice asks, \"Hey! Is this me?\" and a crowd chants \"Let's go, [unintelligible name]!\""
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 9,
+      "end_minute": 9,
+      "summary": "In a breakroom, the Woman in black leather jacket, Woman in purple top with pink scarf, and Woman in yellow cardigan engaged in a serious conversation amidst chaotic chanting and shouting, including a male voice exclaiming \"Oh no, it's the blacks.\" The scene shifted to a classroom where the Woman in pink cardigan and lace-collared blouse flipped through a book at a cluttered desk, as a female voice expressed eagerness, \"Okay, I can't wait to learn,\" met by a dismissive \"Yuck\" from a male voice, while the Woman in black blazer with pearl necklace stood nearby, gesturing urgently. A hallway scene showed the Young man in green jacket holding a sign with a photo, looking surprised, as the Woman in black blazer with pearl necklace walked past him with a group, including the Woman in blue dress and Woman with red hair and glasses, all appearing alarmed, punctuated by a male voice pleading, \"Somebody please give me a lobotomy,\" and a distinct thud. Amidst urgent questions about redoing a practice test, a male voice's exasperated \"So annoying\" was heard, alongside dialogue about the place being \"a buffet elementary\" and clarification that \"We're named after historical racists.\" A dry \"Congratulations\" and a question about \"sleeping standing up again\" preceded a male voice stating, \"I'm getting peanut butter.\" The setting transitioned to a dimly lit hallway where the Woman in black sequined outfit laughed, accompanied by high-pitched, squeaky \"boing\" sounds, as the Young man in green jacket, holding a different sign, walked through a crowded school hallway. The tension escalated as the Woman in black blazer with pearl necklace led a group, including the Young man in green jacket, down the hallway, gesturing frantically, amidst loud, chaotic shouting, a crashing sound, and a thud. A male voice lamented, \"I should've known better than to dream,\" then decided, \"I'm gonna go out and buy a Mountain Dew,\" followed by a female voice shouting \"No!\" and a male \"tsk\" sound, concluding with the sound of a car driving away and a casual male inquiry, \"What's up?\" The lighting shifted from bright in the breakroom and classroom to dim and dramatic in the hallway, underscoring the growing urgency.",
+      "involved_entities": {
+        "Woman in yellow cardigan": {
+          "description": "Sits at a table in a breakroom, wearing a yellow cardigan over a coral blouse, with a red mug in front of her.",
+          "attribute": "visual"
+        },
+        "Young man in green jacket": {
+          "description": "Smiles while looking at his phone in an office setting, wearing a green jacket over a checkered shirt and a lanyard; later seen in a school hallway, appearing concerned during a conversation.",
+          "attribute": "visual"
+        },
+        "Woman in black blazer with pearl necklace (hallway)": {
+          "description": "Stands in a hallway, speaking with urgency, wearing a black blazer with a pearl necklace and a lanyard.",
+          "attribute": "visual"
+        },
+        "Woman in black leather jacket": {
+          "description": "Sits at a breakroom table, writing in a notebook, wearing a black leather jacket over a green top, with a red mug and patterned water bottle nearby.",
+          "attribute": "visual"
+        },
+        "Woman in purple top with pink scarf": {
+          "description": "Sits beside the woman in black leather jacket, reacting with a surprised expression, wearing a purple top with a pink scarf and a pearl necklace.",
+          "attribute": "visual"
+        },
+        "Woman in blue dress": {
+          "description": "Walks beside the red-haired woman, wearing a blue dress, pearl necklace, and large hoop earrings, with a surprised look.",
+          "attribute": "visual"
+        },
+        "Woman in black sequined outfit": {
+          "description": "Sits at a table in a nightclub, holding a cocktail, with dramatic makeup and a glamorous appearance.",
+          "attribute": "visual"
+        },
+        "Woman in pink cardigan and lace-collared blouse": {
+          "description": "Sits at a cluttered desk in a classroom, flipping through a book with a focused expression, wearing a pink cardigan over a lace-collared blouse.",
+          "attribute": "visual"
+        },
+        "Woman with red hair and glasses": {
+          "description": "Walks down a hallway with a concerned expression, wearing a gray blazer and glasses perched on her head.",
+          "attribute": "visual"
+        },
+        "Woman in black blazer with pearl necklace": {
+          "description": "Stands in a hallway, speaking with urgency and gesturing with her hand, wearing a black blazer and a pearl necklace.",
+          "attribute": "visual"
+        },
+        "School hallway environment": {
+          "description": "Brightly lit hallway with lockers, bulletin boards, and colorful artwork, indicating an educational setting, seen during conversations and a running scene.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a breakroom setting where the Woman in black leather jacket, Woman in purple top with pink scarf, and Woman in yellow cardigan are seated around a table with mugs and papers, engaged in a serious conversation, while chaotic chanting and shouting, including a male voice exclaiming \"Oh no, it's the blacks,\" create an immediate sense of tension. The scene quickly shifts to a classroom where the Woman in pink cardigan and lace-collared blouse is flipping through a book at a cluttered desk, as a female voice expresses eagerness, \"Okay, I can't wait to learn,\" met by a dismissive \"Yuck\" from a male voice, and the Woman in black blazer with pearl necklace stands nearby, gesturing urgently. The camera then cuts to a hallway where the Young man in green jacket is seen holding a sign with a photo, looking surprised, as the Woman in black blazer with pearl necklace walks past him with a group of others, including the Woman in blue dress and Woman with red hair and glasses, all appearing alarmed, while a male voice dramatically pleads, \"Somebody please give me a lobotomy,\" followed by a distinct thud. A female voice urgently asks, \"Ava, can I redo the practice test?\" twice, which is met with a male voice's exasperated \"So annoying.\" Further dialogue includes a male voice describing \"this place, a buffet elementary,\" and clarifying, \"That's not our name. We're named after historical racists.\" A dry \"Congratulations\" from a male voice is heard, followed by a female voice asking, \"Are you sleeping standing up again?\" and another male voice stating, \"I'm getting peanut butter.\" The scene transitions to a dimly lit hallway where the Woman in black sequined outfit is seen laughing, accompanied by a series of distinct, high-pitched, squeaky \"boing\" sounds. The Young man in green jacket is again seen holding a different sign, walking through a crowded school hallway as these peculiar sounds continue. The tension escalates as the Woman in black blazer with pearl necklace leads a group, including the Young man in green jacket, down the hallway, gesturing frantically, while loud, chaotic shouting and a crashing sound, followed by a thud, emphasize the unfolding crisis. A male voice laments, \"I should've known better than to dream,\" then decides, \"I'm gonna go out and buy a Mountain Dew,\" followed by a female voice shouting \"No!\" and a male \"tsk\" sound. The segment concludes with the sound of a car driving away, and a male voice casually asking, \"What's up?\" The lighting shifts from bright and neutral in the breakroom and classroom to dim and dramatic in the hallway, emphasizing the growing urgency throughout the varied auditory landscape."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 10,
+      "end_minute": 10,
+      "summary": "In an office setting, a man in a blue shirt and a woman in a gray blazer shake hands amidst commentary on 'goals' and 'multiplying,' punctuated by a questioning male voice about 'bribes' and a warning about 'Warren.' A woman in a blue dress appears surprised, while a woman in a pink blouse gestures. The scene shifts to a school hallway where a woman in a black blazer speaks urgently as a young man in a striped shirt runs past, his footsteps echoing, followed by a muffled male voice referencing 'school since ever.' An announcement over the PA system informs 'Abbott staff' of an HR representative's visit. Inside a classroom decorated with children's drawings, a bald man in a teal shirt addresses children in white uniforms, engaging in a conversation about 'Cinderella' and what she represents. In a breakroom, a man in a black jacket, admitting to letting a child go to the bathroom, sits with a woman in a yellow cardigan. A sudden, angry female voice shouts about shaving above the knee, startling a man in a gray sweater and tie and a young girl in a school uniform in a hallway. In a dimly lit library, a tense female voice whispers about losing nerve, as a man in a gray shirt discusses disciplining 'Micah' and questions why children were sent to 'Ava' if she doesn't discipline them. The video concludes with a man in a brown jacket holding a red rose in front of children's drawings and a woman in a black blazer speaking at a podium labeled 'BOARD OF EDUCATION,' accompanied by a bald man in a vest and a man in a brown suit, while a muffled female voice asks about fitting in.",
+      "involved_entities": {
+        "Bulletin board with motivational signs": {
+          "description": "Displays messages such as 'TRY YOUR BEST!', 'EMBRACE MISTAKES', 'LISTEN', and 'KIND TO EACH OTHER', visible in the classroom background.",
+          "attribute": "visual"
+        },
+        "Young man in striped shirt": {
+          "description": "Runs down a school hallway, wearing a striped shirt and dark pants, carrying a backpack, with the sound of his urgent footsteps heard.",
+          "attribute": "audio-visual"
+        },
+        "Woman in black blazer": {
+          "description": "Speaks at a podium labeled 'BOARD OF EDUCATION', wearing a black blazer, with a bald man in a vest and a man in a brown suit beside her, and potentially the source of a muffled female voice asking, 'Remember when I said you fit, you do that?'.",
+          "attribute": "audio-visual"
+        },
+        "Woman in black blazer with pearl necklace": {
+          "description": "Stands in a hallway, speaking with urgency and gesturing with her hand, wearing a black blazer and a pearl necklace.",
+          "attribute": "visual"
+        },
+        "Woman in blue dress": {
+          "description": "Stands beside the red-haired woman, wearing a blue dress, pearl necklace, and large hoop earrings, with a surprised look.",
+          "attribute": "visual"
+        },
+        "Bald man in vest": {
+          "description": "Stands beside the woman in black blazer at the podium, wearing a vest, white shirt, and tie, with a serious expression.",
+          "attribute": "visual"
+        },
+        "Man in brown suit": {
+          "description": "Stands beside the bald man in vest, wearing a brown suit, with a concerned expression.",
+          "attribute": "visual"
+        },
+        "Children’s drawings on classroom wall": {
+          "description": "Colorful, childlike drawings of people, rainbows, and animals pinned to a corkboard in a classroom, including a prominent red portrait of a smiling child.",
+          "attribute": "visual"
+        },
+        "Podium with 'BOARD OF EDUCATION' sign": {
+          "description": "A wooden podium with a plaque reading 'BOARD OF EDUCATION' and a logo, used during a formal presentation or meeting.",
+          "attribute": "visual"
+        },
+        "Classroom setting": {
+          "description": "A classroom with desks, children’s drawings on the wall, and motivational posters, where the woman in red vest walks and the bald man in teal shirt speaks to children.",
+          "attribute": "visual"
+        },
+        "Bald man in teal shirt": {
+          "description": "Walks through a kitchen area, wearing a teal shirt, with a white bottle in hand, appearing to be in motion; later seen speaking into a microphone to children and then reaching for a bottle on a shelf.",
+          "attribute": "visual"
+        },
+        "Children in white uniforms": {
+          "description": "Stand in a school assembly, wearing white polo shirts and khaki pants, listening to the bald man in teal shirt speak into a microphone.",
+          "attribute": "visual"
+        },
+        "Young girl in school uniform": {
+          "description": "Stands in a bathroom, wearing a light blue school uniform with a bow in her hair, looking up at the man in the gray sweater and tie, appearing attentive or concerned.",
+          "attribute": "visual"
+        },
+        "Man in gray sweater and tie": {
+          "description": "Stands in a hallway, appearing surprised, potentially reacting to an angry female voice shouting 'Jacob!' from off-screen.",
+          "attribute": "audio-visual"
+        },
+        "Library setting": {
+          "description": "A room with bookshelves, a 'BOOK' banner, and a table where a man and woman are seated, suggesting a quiet, academic environment.",
+          "attribute": "visual"
+        },
+        "Woman with short dark hair in white top": {
+          "description": "Sits in a dimly lit room, speaking with an open mouth and expressive face, wearing a white top and a lanyard.",
+          "attribute": "visual"
+        },
+        "Man in brown jacket with red rose": {
+          "description": "Stands in a classroom, holding a red rose and a phone, wearing a brown jacket and gray shirt, with children’s drawings on the wall behind him.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a bustling office where a man in a blue shirt and a woman in a gray blazer shake hands, while a casual male voice comments on 'goals' and things 'multiplying.' Another authoritative male voice questions, 'What y'all doing out there? Taking bribes?' and warns, 'Just don't let Warren see,' before expressing pride. A woman in a blue dress with a pearl necklace and large hoop earrings appears surprised amidst this, as a woman in a pink blouse smiles and gestures in the background. The scene transitions to a school hallway where a woman in a black blazer with a pearl necklace speaks urgently as a young man in a striped shirt runs past, his urgent footsteps echoing. A muffled male voice mentions 'school since ever,' followed by a female voice making a school-wide announcement over a PA system: 'Attention Abbott staff. Tomorrow an HR representative from the district will be here for the day.' Inside a classroom adorned with children’s drawings, including a prominent red portrait, a bald man in a teal shirt speaks into a microphone to children in white uniforms. A playful male voice asks, 'You like Cinderella?', to which another deeper male voice responds, 'I like what she represents.' The scene cuts to a breakroom where a man in a black jacket, possibly the source of a panicked male voice admitting he 'definitely let one of my kids go to the bathroom,' sits with a woman in a yellow cardigan at a table with a red mug and a blue patterned water bottle. A sudden, angry female voice shouts, 'You just hate me! I shaved above the knee, Jacob! Above the knee!', causing a man in a gray sweater and tie to look surprised in a hallway, while a young girl in a school uniform looks up attentively beside him. In a dimly lit library, a tense female voice whispers, 'I'm losing my nerve. You're getting all mine.' A man in a gray shirt then seriously discusses disciplining 'Micah' and states that 'Ava doesn't discipline the kids,' questioning, 'So then why did you tell me to send them to her?' The video concludes with a man in a brown jacket holding a red rose and a phone in front of children’s drawings on a classroom wall, and a woman in a black blazer speaking at a podium labeled 'BOARD OF EDUCATION', with a bald man in a vest and a man in a brown suit beside her, while a muffled female voice asks, 'Remember when I said you fit, you do that?'"
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 11,
+      "end_minute": 11,
+      "summary": "Initially, a young girl in a pink and white striped dress eats noodles with a fork while a young man in a red and black plaid shirt gestures beside her; the scene then shifts to a man in a maroon shirt, wearing a lanyard, seated at a table with adults including a woman with red hair and a woman in a patterned blouse, where the man in maroon shirt states, \"Look, yeah, but let's not rush out and make accusations,\" before an emotional female scream of \"I hate for you!\" and a loud thud are heard; subsequently, in an office area with a wooden counter, a brick wall with autumn decorations, and a bulletin board with papers, a woman with long black hair in a dark green top and a woman with red hair in a black top sit beside a young man in a navy blazer, and a man in a blue suit approaches, extends his hand for a handshake, introduces himself as \"Ava Coleman\" and then \"Draymond Winding, pleasure to meet you,\" to which the woman in the dark green top responds, \"Gotcha.\"",
+      "involved_entities": {
+        "Woman with long black hair in dark green top": {
+          "description": "Sits at a wooden counter in an office or school setting, wearing a dark green top and a lanyard, shaking hands with a man in a blue suit, and is heard responding with a playful 'Gotcha' to his introduction.",
+          "attribute": "audio-visual"
+        },
+        "Man in maroon shirt": {
+          "description": "Sits at a table in an office or school setting, wearing a maroon shirt and a lanyard, gesturing while speaking to a group of adults, and is heard stating, 'Look, yeah, but let's not rush out and make accusations,' indicating his role in the serious discussion.",
+          "attribute": "audio-visual"
+        },
+        "Young man in navy blazer": {
+          "description": "Sits at the counter, wearing a navy blazer over a mustard shirt, with a lanyard, looking forward attentively.",
+          "attribute": "visual"
+        },
+        "Wooden counter with autumn decorations": {
+          "description": "A long wooden counter in an office or school setting, decorated with autumn leaves and a bulletin board with papers, indicating a formal or administrative space.",
+          "attribute": "visual"
+        },
+        "Woman in patterned blouse": {
+          "description": "Stands beside the man in maroon shirt, wearing a floral blouse with stripes and a lanyard, looking forward with a serious expression.",
+          "attribute": "visual"
+        },
+        "Woman in black sequined outfit": {
+          "description": "Sits at a table in a nightclub, holding a cocktail, with dramatic makeup and a glamorous appearance.",
+          "attribute": "visual"
+        },
+        "Bulletin board with papers": {
+          "description": "A corkboard on a brick wall displaying various documents and notices, suggesting an institutional or educational environment.",
+          "attribute": "visual"
+        },
+        "Bald man in teal shirt": {
+          "description": "Stands behind the man in maroon shirt, wearing a teal shirt and a lanyard, with a stern expression.",
+          "attribute": "visual"
+        },
+        "Woman with red hair in black top": {
+          "description": "Sits beside the woman in dark green top, wearing a black top and a lanyard, with a concerned expression.",
+          "attribute": "visual"
+        },
+        "Woman with red hair": {
+          "description": "Stands beside the man in maroon shirt, wearing a beige coat and red hair, with a concerned expression.",
+          "attribute": "visual"
+        },
+        "Man in blue suit": {
+          "description": "Stands at the counter, wearing a blue suit and white shirt, extending his hand for a handshake with the woman in the dark green top, and is heard introducing himself with a clear voice, stating 'Ava Coleman' and then 'Draymond Winding, pleasure to meet you.'",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a casual dining setting where a young girl in a pink and white striped dress eats noodles with a fork, while a young man in a red and black plaid shirt sits beside her, gesturing as if speaking. The scene quickly shifts to a school or office environment where a man in a maroon shirt, wearing a lanyard, is seated at a table surrounded by several adults, including a woman with red hair and a woman in a patterned blouse, all appearing engaged in a serious discussion. A male voice, likely belonging to the man in maroon shirt, is heard stating, \"Look, yeah, but let's not rush out and make accusations.\" This serious tone is abruptly interrupted by a sudden, emotional female scream of \"I hate for you!\" followed by a loud thud or crash. The atmosphere then transitions to a different office or administrative area with a wooden counter, featuring a brick wall with autumn decorations and a bulletin board with papers. Here, a woman with long black hair in a dark green top and a woman with red hair in a black top sit beside a young man in a navy blazer, all looking attentive. A man in a blue suit approaches the counter, extending his hand for a handshake. He introduces himself with a clear voice, stating \"Ava Coleman\" and then \"Draymond Winding, pleasure to meet you.\" The woman in the dark green top reciprocates the handshake, responding with a playful \"Gotcha.\""
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Man in mustard sweater": "Speaks, questioning 'Who is she, again?' and stating he doesn't 'mess with gym teachers' because 'their voices never match their faces.'",
+    "Woman in yellow cardigan": "Sits at a table in a breakroom, wearing a yellow cardigan over a coral blouse, with a red mug in front of her.",
+    "Man in maroon shirt": "Sits at a table in an office or school setting, wearing a maroon shirt and a lanyard, gesturing while speaking to a group of adults, and is heard stating, 'Look, yeah, but let's not rush out and make accusations,' indicating his role in the serious discussion.",
+    "Woman in black jacket with pearl trim": "Stands in a hallway, speaking with urgency, wearing a black jacket with a pearl necklace and a lanyard.",
+    "Woman in black sequined outfit": "Sits at a table in a nightclub, holding a cocktail, with dramatic makeup and a glamorous appearance.",
+    "Woman in gray blazer": "Sits at a breakroom table, wearing a gray blazer, looking concerned, with a blue patterned water bottle on the table.",
+    "Breakroom table setup": "A round wooden table with a red mug, a blue patterned water bottle, and papers, suggesting a casual meeting space.",
+    "Woman with red hair and glasses": "Walks down a hallway with a concerned expression, wearing a gray blazer and glasses perched on her head.",
+    "Woman in blue dress": "Stands beside the red-haired woman, wearing a blue dress, pearl necklace, and large hoop earrings, with a surprised look.",
+    "School hallway environment": "Brightly lit hallway with lockers, bulletin boards, and colorful artwork, indicating an educational setting, seen during conversations and a running scene.",
+    "Young man in green jacket": "Smiles while looking at his phone in an office setting, wearing a green jacket over a checkered shirt and a lanyard; later seen in a school hallway, appearing concerned during a conversation.",
+    "Woman in black and white polka-dot top": "Speaks animatedly in a hallway, wearing a black top with white polka dots and a gold chain necklace, appearing to confront a man in a gray suit.",
+    "Woman in black leather jacket": "Sits at a breakroom table, writing in a notebook, wearing a black leather jacket over a green top, with a red mug and patterned water bottle nearby.",
+    "Children’s drawings on classroom wall": "Colorful, childlike drawings of people, rainbows, and animals pinned to a corkboard in a classroom, including a prominent red portrait of a smiling child.",
+    "Woman in orange blazer": "Walks and talks with the woman in black leather jacket, wearing an orange blazer, curly hair, and large hoop earrings, gesturing during their discussion.",
+    "Woman in red blouse": "Stands in a festive kitchen, wearing a red blouse and a lanyard, possibly \"Melissa,\" as another woman addresses her by name multiple times, asking \"Question for you, Melissa,\" and exclaiming \"Oh, Melissa, Melissa, Melissa.\"",
+    "Woman in blue patterned blouse with red trim": "Stands in a breakroom, gesturing animatedly while speaking to a man in a blue shirt. She is heard interjecting with observations like \"You got a playground. Those are the kids,\" \"That's the sun,\" and \"No. Um, that's you\" during a discussion about children's drawings, and later stating, \"We don't have earthquakes.\"",
+    "Young man in gray sweater": "Runs down a school hallway, wearing a gray sweater and dark pants, carrying a backpack, suggesting urgency or excitement.",
+    "Man in white shirt": "Points at a child’s drawing on a classroom wall, wearing a white shirt and a lanyard, engaging with the artwork.",
+    "Man in blue shirt": "Sits in a white car, gripping the steering wheel, wearing a blue shirt and a lanyard, appearing agitated, with the distinct sound of his car driving past twice. He is possibly the 'boy' a reflective male voice later comments on as being 'broken'.",
+    "Young girl in school uniform": "Stands in a bathroom, wearing a light blue school uniform with a bow in her hair, looking up at the man in the gray sweater and tie, appearing attentive or concerned.",
+    "Man in gray sweater and tie": "Stands in a hallway, appearing surprised, potentially reacting to an angry female voice shouting 'Jacob!' from off-screen.",
+    "Woman with red hair": "Stands beside the man in maroon shirt, wearing a beige coat and red hair, with a concerned expression.",
+    "Woman in floral blouse": "Stands beside the young man in the hallway, wearing a floral blouse and a lanyard, looking forward.",
+    "Young man in dark jacket": "Walks through a school hallway, wearing a dark jacket and a lanyard, with a neutral expression.",
+    "Young girl with large bow in hair": "Walks through a classroom, wearing a white top with a red vest and a large bow in her hair, smiling slightly.",
+    "Young man with curly hair in dark jacket": "Looks surprised, wearing a dark jacket and a lanyard, with curly hair and a focused expression.",
+    "Man in gray shirt with lanyard": "Sits at a table in a library, speaking with a slightly exasperated tone about gardening ('I hate gardening so much') and later requesting a chair ('Somebody give me a chair!'), wearing a gray shirt and a lanyard, engaged in conversation.",
+    "Woman in black blazer with pearl necklace": "Stands in a hallway, speaking with urgency and gesturing with her hand, wearing a black blazer and a pearl necklace.",
+    "Woman with red hair and sunglasses": "Wears a black leather jacket, red hair, and sunglasses, greeting a woman in a white coat with a handshake.",
+    "Woman in purple top with pink scarf": "Sits beside the woman in black leather jacket, reacting with a surprised expression, wearing a purple top with a pink scarf and a pearl necklace.",
+    "Woman in dark hoodie with sunglasses": "Walks through a dimly lit public space, wearing a dark hoodie, sunglasses, and holding a blue drink with a straw, with a red lanyard.",
+    "Young man in blue jacket": "Performs a handstand on outdoor stairs, wearing a blue jacket and dark pants, with a backpack, appearing energetic.",
+    "Woman in pink cardigan and lace-collared blouse": "Sits at a cluttered desk in a classroom, flipping through a book with a focused expression, wearing a pink cardigan over a lace-collared blouse.",
+    "Bald man in teal shirt": "Stands behind the man in maroon shirt, wearing a teal shirt and a lanyard, with a stern expression.",
+    "Library setting": "A room with bookshelves, a 'BOOK' banner, and a table where a man and woman are seated, suggesting a quiet, academic environment.",
+    "Woman in black top with red lanyard": "Sits beside the man in gray shirt in the library, characterized by a distinct, loud, almost cackling laugh heard after a male voice requests a chair, wearing a black top and a red lanyard, looking engaged.",
+    "Man in brown jacket with red rose": "Stands in a classroom, holding a red rose and a phone, wearing a brown jacket and gray shirt, with children’s drawings on the wall behind him.",
+    "Woman in blue blouse with red trim": "Gestures animatedly while speaking to a man in a blue shirt, wearing a blue blouse with red trim and a lanyard, in a breakroom setting, and is heard saying, 'Me, but it's okay, 'cause it's mutual. I'm you too.'",
+    "Man in brown jacket leaning over car": "Leans over a car in a parking lot, wearing a brown jacket and lanyard, appearing hurried or distressed.",
+    "Woman in blue dress with pearl necklace": "Stands outside a brick building, wearing a blue dress, pearl necklace, and large hoop earrings, raising her hand as if signaling.",
+    "Woman in black jacket with pearl necklace": "Stands in a hallway, speaking with urgency and gesturing with her hand, wearing a black jacket and a pearl necklace. Her distressed scream of 'NO!' and urgent plea 'I can't open the door, they'll escape' are heard.",
+    "Man with curly hair and amber glasses": "Sits in a vehicle or office, wearing a gray shirt and amber-tinted glasses, with a surprised or concerned expression.",
+    "Woman with short dark hair in white top": "Sits in a dimly lit room, speaking with an open mouth and expressive face, wearing a white top and a lanyard.",
+    "Man in blue shirt (breakroom)": "Stands in a breakroom, reacting with surprise, wearing a blue shirt and a lanyard, facing the woman in the blue blouse with red trim, and is heard saying 'You shouldn't have.'",
+    "Man in black shirt with lanyard": "Stands in a school hallway, wearing a black shirt and a lanyard, with a surprised expression.",
+    "Brick building exterior": "An outdoor setting with a brick wall and black railing, where the group of three stands, suggesting a school or institutional building.",
+    "School hallway with lockers": "A brightly lit hallway with lockers and bulletin boards, where the man in black shirt and young man in plaid shirt stand, indicating a school environment.",
+    "Young man in plaid shirt with lanyard": "Stands beside the man in black shirt, wearing a plaid shirt and a lanyard, looking startled.",
+    "Breakroom with water cooler": "An indoor breakroom with a water cooler, shelves, and a bulletin board, where the woman in blue blouse with red trim speaks to the man in blue shirt.",
+    "Man in gray suit": "Faces the woman in the polka-dot top, wearing a gray suit, with his back to the camera, in a formal setting with red curtains and an American flag.",
+    "White car": "Drives past a brick building, with a 'NO PARKING' sign visible, suggesting a transition or departure.",
+    "Woman in blue and white checkered top": "Runs down a school hallway, wearing a blue and white checkered top and beige pants, with a lanyard, appearing urgent. She is likely the woman who casually mentions, 'I forgot to put my shoes on'.",
+    "Bulletin board with motivational signs": "Displays messages such as 'TRY YOUR BEST!', 'EMBRACE MISTAKES', 'LISTEN', and 'KIND TO EACH OTHER', visible in the classroom background.",
+    "Woman in red vest with bow": "Walks through a classroom, wearing a white shirt with a red vest and a large bow in her hair, holding a water bottle, with a confident expression.",
+    "Children in white uniforms": "Stand in a school assembly, wearing white polo shirts and khaki pants, listening to the bald man in teal shirt speak into a microphone.",
+    "Classroom setting": "A classroom with desks, children’s drawings on the wall, and motivational posters, where the woman in red vest walks and the bald man in teal shirt speaks to children.",
+    "Woman in patterned dress": "Stands in a school hallway, wearing a long dress with a red and blue geometric pattern, gesturing while speaking to the bald man in teal shirt, with a lanyard around her neck.",
+    "Woman in pink blouse": "Stands in a dimly lit outdoor setting, wearing a bright pink blouse with a keyhole neckline, smiling and talking to a man in a black jacket, holding a drink.",
+    "Man in gray sweater": "Stands in a classroom or office, wearing a gray sweater, looking attentive during a conversation.",
+    "Man in brown suit": "Stands beside the bald man in vest, wearing a brown suit, with a concerned expression.",
+    "Young man in black and gray plaid jacket": "Stands in a school hallway, wearing a black and gray plaid jacket and a beanie, with a surprised expression.",
+    "Hand holding red box": "Holds a red box labeled 'Gourmet Chocolate Truffles', suggesting a gift or treat, with a blurred background.",
+    "SLOW pedestrian sign": "A yellow sign with a black pedestrian symbol and the word 'SLOW', visible near the outdoor stairs where the handstand occurs.",
+    "Woman in black blazer": "Speaks at a podium labeled 'BOARD OF EDUCATION', wearing a black blazer, with a bald man in a vest and a man in a brown suit beside her, and potentially the source of a muffled female voice asking, 'Remember when I said you fit, you do that?'.",
+    "Young man in black sweater with lanyard": "Sits at a table in a breakroom, holding a drink with a straw, wearing a black sweater and a lanyard, speaking animatedly, with a man's voice heard saying, \"Oh, okay. Do it,\" and \"That sounds nice.\"",
+    "Woman in green sweater": "Stands in an office or classroom, wearing a green sweater, gesturing while speaking to a group, and is possibly the source of a sudden, playful \"Oh! Psych!\"",
+    "Woman in sequined top": "Wears a sparkly gold top under a beige blazer, being adjusted by the woman in striped dress in a warm, festive environment, and is possibly \"C. Barbara,\" who is mentioned by a man's voice as going \"full pirate\" at the party.",
+    "Bald man in vest": "Stands beside the woman in black blazer at the podium, wearing a vest, white shirt, and tie, with a serious expression.",
+    "Woman in striped dress": "Stands in a party setting, wearing a black and white striped dress, adjusting the jacket of another woman.",
+    "Woman in white coat": "Stands beside the woman with red hair, wearing a white coat and holding a black handbag, engaging in a brief conversation where a man identifies himself as \"Shay\" and addresses her as \"Barb.\"",
+    "Young man in blue sweater": "Raises his hand enthusiastically in a crowded auditorium, wearing a blue sweater, surrounded by children in school uniforms, and is possibly \"Jacob,\" as a woman addresses him, saying \"Jacob, please do not make this all about you.\"",
+    "Podium with 'BOARD OF EDUCATION' sign": "A wooden podium with a plaque reading 'BOARD OF EDUCATION' and a logo, used during a formal presentation or meeting.",
+    "Man in patterned sweater": "Stands beside the woman in red blouse, wearing a patterned sweater, possibly during a holiday gathering.",
+    "Red box labeled 'Gourmet Chocolate Truffles'": "A red gift box with gold lettering, held by a hand, indicating a festive or celebratory gesture.",
+    "Woman in black blazer with pearl necklace (hallway)": "Stands in a hallway, speaking with urgency, wearing a black blazer with a pearl necklace and a lanyard.",
+    "Young man in striped shirt": "Runs down a school hallway, wearing a striped shirt and dark pants, carrying a backpack, with the sound of his urgent footsteps heard.",
+    "Woman with long black hair in dark green top": "Sits at a wooden counter in an office or school setting, wearing a dark green top and a lanyard, shaking hands with a man in a blue suit, and is heard responding with a playful 'Gotcha' to his introduction.",
+    "Young man in navy blazer": "Sits at the counter, wearing a navy blazer over a mustard shirt, with a lanyard, looking forward attentively.",
+    "Wooden counter with autumn decorations": "A long wooden counter in an office or school setting, decorated with autumn leaves and a bulletin board with papers, indicating a formal or administrative space.",
+    "Woman in patterned blouse": "Stands beside the man in maroon shirt, wearing a floral blouse with stripes and a lanyard, looking forward with a serious expression.",
+    "Bulletin board with papers": "A corkboard on a brick wall displaying various documents and notices, suggesting an institutional or educational environment.",
+    "Woman with red hair in black top": "Sits beside the woman in dark green top, wearing a black top and a lanyard, with a concerned expression.",
+    "Man in blue suit": "Stands at the counter, wearing a blue suit and white shirt, extending his hand for a handshake with the woman in the dark green top, and is heard introducing himself with a clear voice, stating 'Ava Coleman' and then 'Draymond Winding, pleasure to meet you.'"
+  }
+}

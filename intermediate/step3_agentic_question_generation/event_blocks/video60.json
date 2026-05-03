@@ -1,0 +1,988 @@
+{
+  "video_id": "video60",
+  "audio_id": "video60_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 2,
+      "summary": "Chris, a woman with shoulder-length wavy blonde hair with purple highlights, a nose ring, and winged eyeliner, wearing a maroon top, enthusiastically introduces her YouTube channel to the camera, using expressive hand gestures and animated facial expressions. On-screen graphics prompt viewers to 'LIKE', 'SUBSCRIBE' (which changes to 'SUBSCRIBED' with a bell icon), and enable 'NOTIFICATIONS ENABLED'. Chris announces her solo trip to Iceland, expressing excitement for its landscapes, glaciers, and Northern Lights, and mentioning her six-and-a-half-year vacation drought. The scene abruptly shifts to an aerial view of a powerful waterfall cascading over moss-covered rocks, generating mist and a rainbow in the spray, before returning to Chris. She continues with consistent energy and soft lighting, discussing her personal neglect of mental health and self-care despite advocating for it, and her responsibility to be transparent about mental health. She clarifies the upcoming trip is for her to get away and free her mind, aiming for an organic vlog, and acknowledges that not everyone can travel, expressing gratitude for her own position. She hopes the video offers escapism with beautiful landscapes and a shared journey, concluding by thanking her audience for their support and assuring them she will continue posting, taking a five-day trip rather than a break.",
+      "involved_entities": {
+        "Waterfall Scene": {
+          "description": "A dramatic aerial view of a powerful waterfall surrounded by moss-covered rocks, with mist rising and a rainbow forming in the spray, providing a brief natural interlude.",
+          "attribute": "visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length wavy blonde hair featuring purple highlights, wearing a maroon top, a nose ring, and dark nail polish, speaking expressively to the camera with hand gestures and animated facial expressions. She speaks clearly and directly, discussing her responsibility for transparency, her passion for mental health, an upcoming trip for mental well-being and escapism, and her gratitude for audience support, while assuring continued content creation.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "A woman named Chris, with shoulder-length wavy blonde hair featuring purple highlights and wearing a maroon top, enthusiastically greets the camera, introducing her YouTube channel with expressive hand gestures and animated facial expressions. As she speaks, on-screen graphics sequentially prompt viewers to 'LIKE', 'SUBSCRIBE' (which changes to 'SUBSCRIBED' with a bell icon), and enable 'NOTIFICATIONS ENABLED'. Chris, wearing a nose ring and winged eyeliner, explains that today's video will be different, announcing her solo trip to Iceland, expressing excitement for its stunning landscapes, glaciers, and Northern Lights, and noting she hasn't had a vacation in over six and a half years. Midway through her energetic address, the scene abruptly cuts to a dramatic aerial shot of a powerful waterfall cascading over moss-covered rocks, with mist rising and a rainbow forming in the spray. The video then cuts back to Chris, who continues with the same energy, maintaining eye contact, discussing her personal neglect of mental health and self-care despite constantly advocating for it on her channels, all while maintaining consistent soft lighting.",
+        "A woman with shoulder-length wavy blonde hair featuring purple highlights, wearing a maroon top with a visible black strap, a nose ring, and dark nail polish, speaks directly to the camera against a plain white background. She maintains eye contact, displaying expressive facial movements and using hand gestures for emphasis, revealing rings and a black beaded bracelet. She explains that she feels it's her responsibility to be transparent, especially as she takes pride in discussing mental health. She clarifies that an upcoming trip is for her to get away and free her mind, aiming for an organic vlog. She addresses viewers who might be struggling, acknowledging that not everyone can travel, and expresses gratitude for her own blessed position. She hopes the video offers a bit of escapism, promising beautiful landscapes and a shared journey. She concludes by wholeheartedly thanking her audience for their support and assures them she will continue posting, not taking a break, but rather a five-day trip."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 3,
+      "end_minute": 6,
+      "summary": "The Woman with Purple-Blonde Hair, initially in a maroon top, introduces her Iceland trip aimed at relaxation, transitioning through a stylized logo and abstract graphics to a nighttime car journey featuring a dashboard GPS. Arriving at an Airport Terminal in a gray top with a backpack, she notes her efficient TSA passage and desire for Starbucks before an 11 PM flight, expressing skepticism about sleeping on planes. In an Airport Lounge/Store, she holds a 'SLEEP' packet (melatonin gummies) and a caramel macchiato, humorously acknowledging the contradiction and her early consumption as boarding nears. The sequence concludes on an Airplane Cabin, back in her maroon top, with views of the cabin screen and a dark, cloudy sky through the window. Later, on a flight with a Björk quote on the entertainment screen, she announces her arrival in Reykjavik, noting her phone is dying and she has a map but can't check into her hotel until 3 PM. A car journey follows, showing desert and coastal views, leading to an indoor space with a Coca-Cola vending machine, then an outdoor walkway where she recounts being questioned about traveling alone. Declaring a need for coffee and intending to read her map, she enters a gift shop and buys items, holding up a colorful patterned object. Navigating a vibrant urban street, she explains buying a beanie and gloves due to forgetting them and her urgent need for a charger. After getting lost and receiving directions involving 'two polar bears as big as me' near a bikini shop, she spots a Polar Bear Display in a shop window but finds it closed. Her quest for a charger and local currency ('isk') continues, with her cards failing and a helpful store clerk mentioned. She enters a cozy, rustic café interior with wooden floors and exposed beams, orders an egg salad breakfast sandwich with bacon and a caffe latte, and discusses her plans amidst jazzy background music and artwork.",
+      "involved_entities": {
+        "Airport Lounge/Store": {
+          "description": "An indoor space with modern lighting and wooden accents, where the woman is seen holding a supplement packet and a white cup, possibly a coffee or tea.",
+          "attribute": "visual"
+        },
+        "Car Dashboard": {
+          "description": "A view from inside a moving car, showing a desert landscape under a bright sun, then a coastal scene with a white house and a 'REYKJAVIK' sign, suggesting a journey through diverse terrains.",
+          "attribute": "visual"
+        },
+        "SLEEP Supplement Packet": {
+          "description": "A purple packet labeled 'SLEEP' with text indicating 'Melatonin, L-Theanine & Botanicals' for a healthy sleep cycle, held by the woman in the airport lounge. She refers to these as \"melatonin gummies\" that she acquired, noting the irony of taking them with coffee, and later expresses concern about having taken them \"a little too early.\"",
+          "attribute": "audio-visual"
+        },
+        "Airport Terminal": {
+          "description": "A modern, brightly lit airport terminal with glass doors, visible signage, and a Coca-Cola vending machine, where the woman exits and walks along a covered walkway beside a parking lot.",
+          "attribute": "visual"
+        },
+        "Airplane Cabin": {
+          "description": "The interior of an airplane with beige and dark blue seats, showing a personal entertainment screen displaying a quote from Björk: 'I feel emotional landscapes they puzzle me' — indicating a moment of reflection during flight.",
+          "attribute": "visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length wavy blonde hair, wearing a gray jacket over a blue top, a nose ring, green earrings, and a backpack, speaking expressively to the camera in an animated, conversational tone about her low battery, her search for a charger and local currency ('isk'), and her excitement about her café order, later seen in a light blue sweatshirt with a small white logo, her black-painted nails and rings visible as she gestures, and her voice conveying excitement and engagement.",
+          "attribute": "audio-visual"
+        },
+        "Colorful Patterned Object": {
+          "description": "A folded, colorful object with a geometric or map-like design, held by the woman as she walks outdoors, possibly a travel map or brochure for sightseeing, seen briefly in her hand as she gestures.",
+          "attribute": "visual"
+        },
+        "Polar Bear Display": {
+          "description": "Two large, fluffy white polar bear mannequins standing upright in a shop window, one being touched by the woman, with visible signage including 'Viking Jewelleries' and 'POLAR GIFTST' partially visible on the shop’s glass.",
+          "attribute": "visual"
+        },
+        "Café Interior": {
+          "description": "A cozy, rustic café with wooden floors, exposed beams, vintage-style tables and chairs, and framed artwork on the walls, including a piece titled 'GOMAL BLOD' by Jón S. Jóhannsson, described by the woman as a 'cute, little café' where she orders a breakfast sandwich and a caffe latte, providing a warm and artistic setting with light, jazzy background music.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with the Woman with Purple-Blonde Hair, in a maroon top, speaking directly to the camera in a well-lit indoor setting, explaining her five-day trip to Iceland to \"turn her head off\" and hoping the video helps viewers do the same. An electronic, upbeat music track begins as the scene transitions to a vibrant purple screen with a stylized 'kmk' logo and social media handles, followed by a brief abstract teal and black graphic. The narrative then shifts to a nighttime drive, showing a car’s dashboard with GPS navigation, while the music continues. The woman then appears at an Airport Terminal, now wearing a gray top and carrying a backpack, walking through the terminal and speaking to the camera in a slightly more rushed tone, detailing her efficient passage through TSA and her \"basic bitch\" need for Starbucks coffee despite her 11 PM flight, noting she can never sleep on planes anyway. She is seen near United Airlines Premier Access counters and gate signage (C97, C99). The video then cuts to her inside an Airport Lounge/Store, holding a purple packet labeled 'SLEEP' (which she refers to as \"melatonin gummies\") and a white cup, possibly a beverage (her \"caramel macchiato\"), as she opens the packet, humorously acknowledging the contradiction of taking melatonin with coffee. She then reflects that she may have taken the gummies \"a little too early\" as boarding is still 30 minutes away. The final scenes show her seated on an Airplane Cabin, wearing a maroon top again, with a close-up of her face as she looks around, followed by a view of the airplane cabin with a screen displaying a movie, all set to the continuing ambient music. The sequence ends with a shot of the airplane window showing a dark, cloudy sky outside.",
+        "The segment opens inside an airplane cabin, where a personal entertainment screen displays a reflective quote from Björk: 'I feel emotional landscapes they puzzle me,' set to a calm, slightly melancholic synth-electronic background music. The scene then shifts to a first-person perspective of the Woman with Purple-Blonde Hair, now with her hair appearing more blonde, wearing a gray jacket and blue top, a nose ring, and green earrings. She smiles and speaks directly to the camera, her voice clear and expressive, announcing, \"Okay, Sam, I have arrived in Reykjavik.\" She continues, explaining she's \"alone, and I have a map. Haven't read a map in a couple years.\" She details her predicament: her phone is about to die, and she can't check into her hotel until 3 PM, while it's currently 10 AM, humorously adding, \"So I might get lost in Iceland and I might live here for the rest of my life, but you know, that's all right.\" The visual transitions to a car journey, showing scenic views from the passenger seat: a vast desert landscape under a bright sun, followed by a coastal drive with a white house near the sea and a 'REYKJAVIK' sign, accompanied by car sounds and the continued background music. The journey leads to a modern, brightly lit indoor space, possibly an airport lounge or store, where a Coca-Cola vending machine is visible. The woman then exits the building into a breezy outdoor environment, continuing to speak to the camera as she walks along a covered walkway beside a parking lot. She recounts an interaction: \"The lady at the front desk was like, 'Are you alone?' And I was just like, 'Yeah.' And she's like, 'You're traveling alone?' And I was like, 'Yeah.' And she's like, 'Oh.' Everybody seems to be sad that I'm alone. I'm not though. I'm having a good time.\" The background music becomes more upbeat as she declares, \"I'm going to go find a little coffee shop because your girl needs coffee. And I'm going to read this map. I'm going to lose it.\" The segment concludes with her holding up a colorful, patterned object, likely the map she mentioned, as she continues walking, adding, \"So I went into a gift shop and I bought stuff.\"",
+        "The Woman with Purple-Blonde Hair walks through a breezy urban environment, her shoulder-length wavy blonde hair blowing in the wind, as she speaks expressively to the camera. Wearing a gray jacket over a blue top, a nose ring, green earrings, and a backpack, she explains that despite not needing more items, she bought a beanie and gloves because she forgot to bring them. Her immediate mission is to find a charger as her phone is almost dead. The scene transitions to a wide shot of a cobblestone street with parked cars and storefronts, including a 'Barónsstígur' street sign, then shifts to a coastal area with a clear blue sky and snow-capped mountains. She continues to narrate, revealing she got lost and asked a local for directions to an electronics store. The local advised her to look for 'two polar bears as big as me' near a bikini shop where chargers would be available. The camera pans to show the scenic backdrop before returning to her as she walks past a building with a 'Skúlagata' street sign. She expresses urgency, noting her battery is at 10%, and then excitedly exclaims, 'I found the polar bears!' as the video briefly shows a shop window with a large, fluffy white Polar Bear Display inside, labeled 'Viking Jewelleries.' However, her excitement is short-lived as she discovers the store is closed, forcing her to seek a charger elsewhere. The overall atmosphere is bright and crisp, with strong natural light and a sense of movement and exploration, punctuated by the sounds of wind and city ambience.",
+        "The Woman with Purple-Blonde Hair, sporting shoulder-length wavy blonde hair, a gray jacket, and a nose ring, navigates a vibrant urban street, playfully touching one of two large polar bear mannequins in a shop window. She speaks directly to the camera with an animated, conversational tone, explaining her low battery status (indicated by an icon) and her complicated quest for a charger and local currency ('isk') after her cards failed, mentioning a helpful store clerk. She continues past colorful shops like 'BRYNJA', a red building, and into an artistic area with murals, all while discussing her phone's impending death and her excitement about the charger amidst street ambiance. The scene then transitions to a cozy, rustic café interior with wooden floors, exposed beams, and vintage-style furniture, where she announces her intention to get coffee. Seated at a table, now in a light blue sweatshirt, she gestures with her black-painted nails and rings, describing the \"cute, little café\" and her order: an unusual egg salad breakfast sandwich with bacon, and a caffe latte. She expresses excitement to try the food and plans her next steps, all while light, jazzy background music plays, complementing the warm ambiance of the space adorned with artwork like 'GOMAL BLOD' by Jón S. Jóhannsson."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 7,
+      "end_minute": 7,
+      "summary": "Inside a cozy, rustic café with warm lighting and jazzy background music filling the wooden-beamed interior, the Woman with Purple-Blonde Hair, identifiable by her nose ring and green earrings, wears a light blue North Face sweatshirt. She enthusiastically sips from a red ceramic mug, exclaiming, \"I've never gotten a latte like this before and I feel special,\" and \"I'm gonna sip the shit out of it.\" While occasionally glancing at a black-and-white mural of a mythical creature outside the window, she finishes a substantial sandwich, wipes her mouth, and declares, \"I'm done with my food. Really living my main character moment.\" She then presents a white Reykjavik tote bag adorned with a vibrant winged creature graphic, revealing items purchased from a store, including an \"awesome t-shirt\" due to the prevalence of puffins, which she playfully repeats. She concludes by pulling out a black-and-white knitted beanie with a pom-pom, trying it on with a playful expression, and mentioning \"cute matching gloves.\"",
+      "involved_entities": {
+        "Reykjavik Tote Bag": {
+          "description": "A white tote bag with a vibrant graphic print featuring a winged creature, Japanese text 'レイキャビク' (Reykjavik), and a tag indicating 'Handprinted in Iceland'. The woman explicitly states it's a souvenir from Iceland and mentions puffins, suggesting the winged creature might be a puffin or related to Icelandic wildlife.",
+          "attribute": "audio-visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length wavy blonde hair, wearing a light blue sweatshirt with a small white logo (The North Face), a nose ring, green earrings, black-painted nails, and multiple rings, seated in a rustic café. She speaks with a clear, enthusiastic voice, expressing enjoyment of her latte and food, and excitement about her Icelandic souvenirs, particularly puffin-themed items.",
+          "attribute": "audio-visual"
+        },
+        "Knitted Beanie": {
+          "description": "A black-and-white patterned knitted beanie with a pom-pom, pulled out from the tote bag and playfully tried on by the woman. She mentions it comes with 'cute matching gloves,' indicating it's part of a set of Icelandic souvenirs.",
+          "attribute": "audio-visual"
+        },
+        "Café Interior": {
+          "description": "A cozy, rustic café with wooden floors, exposed beams, vintage-style tables and chairs, and a large window featuring a black-and-white mural of a dragon or mythical creature. The ambiance is warm and inviting, complemented by background jazzy/lounge music.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The Woman with Purple-Blonde Hair, with her distinctive nose ring and green earrings, is seen in a cozy, rustic café, wearing a light blue North Face sweatshirt. She sips from a red ceramic mug, remarking enthusiastically, \"I've never gotten a latte like this before and I feel special,\" before declaring, \"I'm gonna sip the shit out of it.\" She occasionally glances out the window at a black-and-white mural of a mythical creature, while warm lighting and jazzy background music fill the wooden-beamed interior. After enjoying a substantial sandwich, she wipes her mouth and announces, \"I'm done with my food. Really living my main character moment.\" She then presents a white Reykjavik tote bag, featuring a vibrant winged creature graphic, explaining, \"I'll show you some of the things that I got from the store. I got this awesome t-shirt because there's a lot of puffins here. They're like known for their puffins.\" She playfully repeats \"puffins\" before pulling out a black-and-white knitted beanie with a pom-pom, trying it on with a playful expression and mentioning \"cute matching gloves,\" as the segment concludes."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 8,
+      "end_minute": 11,
+      "summary": "The Woman with Purple-Blonde Hair, adorned with green and black earrings, a nose ring, and rings, begins by holding up a small black card with a silver anchor charm, expressively discussing her new \"lava earrings\" and a bracelet before deciding to \"go out onto the street again and try to find the hotel.\" Transitioning to an outdoor urban setting with upbeat electronic/dance music, she walks along a vibrant, rainbow-colored pedestrian path, enthusiastically calling it \"the coolest street\" and \"the Pride Street,\" noting its prettiness despite the wind. She passes storefronts like 'epal' and 'What's On Tourist Info,' and a colorful mural on a stone wall, eventually commenting on a large black-and-white mural of a mythological figure, \"I don't know what this building is, but it's really pretty.\" Spotting an \"Irish pub\" and a \"library,\" she playfully declares she won't read. The scene shifts to her descending a modern concrete staircase with wooden walls, where she jumps down the steps with arms outstretched, showcasing her teal sneakers and backpack, exclaiming, \"I found this stairwell that nobody's in. I could do the Joker dance,\" followed by a Joker-like laugh. Later, an upbeat, slightly melancholic instrumental track plays as she joyfully hops across large Coastal Rocks by the sea, with snow-capped mountains under a clear blue sky, exclaiming, \"Stunning, look,\" and noting, \"I found a dog. Oh, and a boat,\" before settling down to enjoy the view. The video concludes indoors in a Hotel Room Interior, where she, now in a maroon sweater, recounts getting lost for two hours. In her Reykjavik hotel room, she humorously recounts finding her 'bougie' hotel among the 'Foss Hotels' and gives a room tour, pointing out the \"two single beds\" that make her feel 'single,' a fridge, and a saloon, before sharing plans to nap and shower after walking \"50,000 steps.\" The scene abruptly transitions to an outdoor urban setting at dusk, where she, in a grey jacket, finds a \"restaurant\" and enters a cozy, rustic Café Interior with wooden decor and a large black-and-white mural. Lively chatter and acoustic guitar music fill the air as she sips a golden cocktail and enjoys a Fish and Fries Plate, described by on-screen text as \"So good.\" Later, on a nighttime city street, she praises the meal as \"the best fish and chips I've ever eaten in my life,\" marvels at the \"beautiful\" cobblestone streets, and expresses feeling \"unbelievably safe,\" before outlining plans for an early start the next day to visit hot springs. The segment concludes with a black screen displaying 'DAY 2' and a brief shot of her in a hotel room, now in a black North Face jacket and grey beanie, holding a white object, greeting the camera with \"Alright fam, it is day...\"",
+      "involved_entities": {
+        "Modern Staircase": {
+          "description": "A concrete staircase with wooden paneling on the walls and metal handrails, located under an overpass or building, where the woman playfully jumps down the steps.",
+          "attribute": "visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length wavy blonde hair, initially in a grey sweatshirt with black nail polish, rings, and earrings, eating fish and fries in a café and expressing delight. Later seen in a dark jacket with sunglasses on her head and white earbuds, walking and talking on a city street at night, sharing her positive dining experience, her travel plans to visit hot springs, and her perception of the city as beautiful and 'unbelievably safe.' Finally, in a hotel room wearing a black North Face jacket and grey beanie, she greets the camera, marking the start of 'DAY 2.'",
+          "attribute": "audio-visual"
+        },
+        "Rainbow Pedestrian Path": {
+          "description": "A vibrant, multi-colored walkway painted in rainbow stripes, running down the center of a cobblestone street, explicitly called 'the coolest street' and 'the Pride Street' by the woman, serving as a striking visual feature of the urban environment.",
+          "attribute": "audio-visual"
+        },
+        "Black-and-White Mural": {
+          "description": "A large, intricate black-and-white mural covering the side of a building, depicting a mythological or fantastical figure with flowing lines and waves, visible in the café’s background.",
+          "attribute": "visual"
+        },
+        "ENNA SINGLE?": {
+          "description": "A green sign with bold yellow text reading 'ENNA SINGLE?' and a red 'Smil' logo, seen on a pole as the woman walks by.",
+          "attribute": "visual"
+        },
+        "Hotel Room Interior": {
+          "description": "An indoor space with wooden doors, beige walls, a bed with a pink blanket, a wooden bedside table with a lamp, a large TV, and a framed picture of a bird in reeds on the wall.",
+          "attribute": "visual"
+        },
+        "Coastal Rocks": {
+          "description": "Large, dark volcanic rocks by the sea, where the woman hops and sits, with snow-capped mountains and blue water in the background under a clear sky.",
+          "attribute": "visual"
+        },
+        "LOST! SHOP": {
+          "description": "A shop with a purple window display featuring a cartoonish character and the text 'LOST! SHOP' in pink, visible as the woman walks past.",
+          "attribute": "visual"
+        },
+        "ROSSOPOMODORO": {
+          "description": "A restaurant with red awnings and bold yellow lettering, featuring a wooden door and visible interior seating, located on a city street.",
+          "attribute": "visual"
+        },
+        "Fish and Fries Plate": {
+          "description": "A metal tray containing a crispy breaded fish fillet, golden fries, a side salad with red onion and lettuce, a lemon wedge, and a small paper napkin with a logo, served in the café, which the woman describes as 'the best fish and chips I've ever eaten in my life.'",
+          "attribute": "audio-visual"
+        },
+        "Golden Cocktail": {
+          "description": "A golden-colored cocktail in a round glass, garnished with a lemon peel and a small white sphere, held by the woman as she sips it in the café.",
+          "attribute": "visual"
+        },
+        "Café Interior": {
+          "description": "A cozy, rustic café with wooden floors, exposed beams, vintage-style tables and chairs, and a large black-and-white mural of a mythical creature on the wall, providing a warm and artistic setting for dining.",
+          "attribute": "visual"
+        },
+        "On-Screen Text": {
+          "description": "White text appearing on a black background, reading 'So good.' and later 'DAY 2', indicating the woman's reaction to the food and marking the transition to the next day of her journey.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens indoors with the Woman with Purple-Blonde Hair, her blonde hair framing her face, wearing a light blue North Face sweatshirt, green earrings, a nose ring, and black-painted nails. She holds up a small black card with a silver anchor charm while expressively speaking about her new \"lava earrings\" from the volcanoes and a bracelet she has, before declaring, \"Let's go out onto the street again and try to find the hotel.\" An upbeat electronic/dance music track begins as she transitions to an outdoor urban setting, walking along a vibrant, rainbow-colored pedestrian path in a city street lined with shops and cafés. She enthusiastically describes it as \"the coolest street\" and \"the Pride Street,\" noting, \"It's so pretty,\" despite the wind. The camera follows her as she moves through the lively street, passing storefronts like 'epal' and 'What's On Tourist Info', and a colorful mural on a stone wall. She continues walking, occasionally turning to the camera with animated expressions, and passes a large black-and-white mural of a mythological figure on a building, commenting, \"I don't know what this building is, but it's really pretty.\" She then spots an \"Irish pub\" and a \"library,\" playfully stating she won't read. The scene shifts to her descending a modern concrete staircase with wooden walls, where she playfully jumps down the steps with arms outstretched, showcasing her teal sneakers and backpack, exclaiming, \"I found this stairwell that nobody's in. I could do the Joker dance,\" followed by a Joker-like laugh sound effect, capturing a bright, energetic mix of personal vlog-style interaction and dynamic city exploration.",
+        "The video opens with an upbeat, slightly melancholic instrumental track playing as a Woman with Purple-Blonde Hair playfully jumps down a Modern Staircase, her teal sneakers and grey jacket visible. She then transitions to walking through a vibrant urban street, passing storefronts like ROSSOPOMODORO with its red awnings, a 'LOST! SHOP' with a purple window display, and signs for 'ENNA SINGLE?' and 'Smil', all set to the continuing music. The scene shifts to a scenic coastal location where she joyfully hops across large Coastal Rocks by the sea, with snow-capped mountains under a clear blue sky. Her voice is heard exclaiming, \"Stunning, look,\" then noting, \"I found a dog. Oh, and a boat,\" before commenting, \"It's alright. Beautiful. I'm gonna sit down and enjoy the view\" as she settles on the rocks, gazing out at the water and then smiling at the camera, the instrumental music becoming more prominent and reflective. The video concludes indoors in what appears to be a Hotel Room Interior, where the woman, now in a maroon sweater, speaks directly to the camera, her voice narrating, \"Hi, I am in the hotel. I got so lost. Like the last time you guys saw me, fast forward two hours. I was walking around, thought I had my band...\" before the audio cuts off.",
+        "The Woman with Purple-Blonde Hair, adorned with green and black earrings, a nose ring, and rings, speaks directly to the camera in her hotel room in Reykjavik, wearing a maroon sweater. She gestures expressively, occasionally pointing to her ear or adjusting her hair, as she humorously recounts finding her 'bougie' hotel among the 'Foss Hotels' and gives a room tour. The camera pans to reveal a neatly made bed with a pink blanket, a wooden bedside table with a lamp, a large TV, and a framed picture of a bird in reeds, which she points to while describing the 'two single beds' that make her feel 'single,' and highlighting a 'fridge' and a 'saloon.' She shares her plans to nap and shower, having walked '50,000 steps,' before taking a bus to another location tomorrow. The scene then transitions abruptly to an outdoor urban setting at dusk, where she is now in a grey jacket, walking through city streets with modern buildings and warm streetlights. She announces she's found a 'restaurant' with a good menu and plans to eat. She enters a cozy, rustic Café Interior with wooden decor and a large black-and-white mural of a mythical creature on the wall. Lively chatter and background acoustic guitar music fill the air as she sips a golden cocktail garnished with a lemon peel and a small white sphere. The camera then focuses on her meal: a crispy breaded fish fillet served with golden fries, a side salad with red onion and lemon, and a small paper napkin with a logo, completing a relaxed dining experience.",
+        "The video opens in a cozy café, filled with background chatter and music, where a Woman with Purple-Blonde Hair, wearing a grey sweatshirt, black nail polish, rings, and earrings, enjoys a Fish and Fries Plate. She takes bites of the crispy fish, gesturing with her hands and expressing delight, underscored by the on-screen text 'So good.' The café boasts a warm ambiance with a brown tufted booth and decorative wall art. The scene then transitions to a nighttime city street, where the woman, now in a dark jacket with sunglasses on her head and white earbuds, walks along a sidewalk. She speaks to the camera, describing her meal as \"the best fish and chips I've ever eaten in my life,\" praising Iceland's culinary skills, and playfully anticipating comments from English viewers about their chips, noting she'd need to return to England to compare. She marvels at the \"beautiful\" cobblestone streets and expresses feeling \"unbelievably safe,\" highlighting the country's reputation. She then outlines her plans to return to her hotel for sleep before an early 7 or 8 AM start to take a bus to the hot springs the next day. As she passes illuminated storefronts, including one with a red 'OPEN' sign and another with 'KINKY.IS', the camera captures her animated expressions and the urban environment. The segment concludes with a black screen displaying 'DAY 2' in white text, followed by a brief shot of her in a hotel room, now in a black North Face jacket and grey beanie, holding a white object, as she greets the camera with \"Alright fam, it is day...\""
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 12,
+      "end_minute": 13,
+      "summary": "The Woman with Purple-Blonde Hair, initially in a Hotel Room Interior wearing a black North Face jacket and grey beanie, joked about her fleece boots being \"made for walking\" and complained about thin hotel walls, feeling \"extra single\" due to the \"two single beds\" and hearing \"everything last night\" from \"two couples.\" She then transitioned to a modern Café Interior, stirring a drink with black nail polish and rings, while gentle acoustic music played. A view from a Car Dashboard revealed a sunlit landscape as the car moved. Finally, in a Rugged Outdoor Terrain, a barren, rocky landscape under a clear blue sky, she, now in a green jacket, stood near an Orange Car and explained they were at \"the bridge between two plates\" where the North American and Eurasian tectonic plates meet, noting \"so much volcanic activity\" and anticipating wind. Later, she smiled against a bright sunlit sky, exclaiming, \"It is beautiful out here. Look at it,\" before announcing a walk. The scene shifted to a wide, rugged outdoor terrain of dark volcanic rock and sparse vegetation, where she walked along a paved path, identifying it as \"the bridge\" and crossing a narrow metal grid bridge over a deep, rocky fissure, remarking \"Whoa\" and \"These are the two plates. That's so cool.\" After nearly dropping the camera, she expressed appreciation for the location. Observing the ground, she decided against walking on it to avoid dirtying her shoes. Smiling with the sun flaring behind her, gentle, reflective instrumental music began. The camera panned across the expansive, barren landscape, emphasizing geological features and vastness, with the woman walking and pausing to look over the chasm. Standing on a rocky outcrop with arms outstretched, gazing at the ocean horizon as the sun cast long shadows, she concluded, \"This is a better view. You can see the bridge there. Wow,\" in an atmosphere of awe and exploration.",
+      "involved_entities": {
+        "Orange Car": {
+          "description": "A bright orange compact car parked on a dirt road in a rocky, open landscape, visible behind the woman as she speaks to the camera.",
+          "attribute": "visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length wavy blonde hair, wearing a grey knitted beanie with sunglasses perched on top, a green jacket, black leggings, and sturdy boots, is seen walking and smiling in a rugged, rocky landscape under a bright blue sky. She speaks enthusiastically and reflectively about the \"beautiful\" surroundings, the \"cool\" bridge and \"two plates\" of the fissure, expressing awe and slight hesitation about getting her shoes dirty, and pointing out a \"better view\" of the bridge, occasionally speaking to the camera with the sun flaring behind her.",
+          "attribute": "audio-visual"
+        },
+        "Café Interior": {
+          "description": "A modern café with wooden accents and a slatted ceiling, where the woman is seen stirring a drink in a white cup, her hand decorated with black nail polish and rings, accompanied by gentle acoustic background music.",
+          "attribute": "audio-visual"
+        },
+        "Car Dashboard": {
+          "description": "A view from inside a moving car, showing a bright, sunlit landscape through the windshield, indicating travel through a scenic or remote area.",
+          "attribute": "visual"
+        },
+        "Hotel Room Interior": {
+          "description": "An indoor space with beige walls, a bed with a pink blanket, a wooden bedside table with a lamp, a large TV, and a framed picture of a bird in reeds on the wall, where the woman is seen moving energetically and speaking to the camera, humorously complaining about its thin walls and the noise from neighboring rooms.",
+          "attribute": "audio-visual"
+        },
+        "Rugged Outdoor Terrain": {
+          "description": "A barren, rocky landscape under a clear blue sky with the sun high, featuring dark volcanic rocks and sparse vegetation, where the woman stands smiling and talking to the camera, with an orange car parked behind her. She describes it as a location where the North American and Eurasian tectonic plates meet, explaining the resulting volcanic activity, and notes the presence of strong wind.",
+          "attribute": "audio-visual"
+        },
+        "Metal Grid Bridge": {
+          "description": "A narrow, elevated bridge made of metal grating with blue metal railings, spanning a deep rocky fissure, is identified by the woman as \"the actual bridge\" and part of \"the trail to the bridge,\" allowing visitors to cross safely over the chasm while offering views of the rugged terrain below.",
+          "attribute": "audio-visual"
+        },
+        "Rugged Fissure Landscape": {
+          "description": "A deep, rocky chasm cutting through a barren volcanic landscape, with dark, jagged rocks and sparse vegetation, under a clear blue sky, is described by the woman as \"beautiful\" and containing \"two plates,\" creating a dramatic and expansive natural scene that she explores with awe.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with an energetic Woman with Purple-Blonde Hair in a Hotel Room Interior, wearing a black North Face jacket and grey beanie, enthusiastically showing off her \"fit\" including \"fleece boots\" and joking that \"these boots are made for walking.\" She then humorously complains about the hotel's \"so thin\" walls, having heard \"everything last night\" from \"two couples\" on either side, making her feel \"extra single\" with the \"two single beds.\" She announces an upcoming adventure, unsure if it's \"to the hot springs\" or \"to see Glacier,\" before inviting viewers to \"go get some breakfast.\" The scene transitions to a modern Café Interior where she stirs a drink in a white cup, her hand adorned with black nail polish and rings, accompanied by gentle acoustic background music. Next, a view from a Car Dashboard shows a bright, sunlit landscape as the car drives. The final segment takes place in a Rugged Outdoor Terrain, a barren, rocky landscape under a clear blue sky, where the woman, now in a green jacket, stands smiling. She explains they are at \"the bridge between two plates,\" where the North American and Eurasian tectonic plates meet, causing \"so much volcanic activity.\" She notes it's \"probably really windy\" and that viewers might not hear her, before the audio cuts off. An Orange Car is parked behind her in this expansive, remote setting.",
+        "The video opens with the Woman with Purple-Blonde Hair, wearing a grey knitted beanie and a green jacket, smiling warmly at the camera against a bright blue sky with the sun flaring behind her, exclaiming, \"It is beautiful out here. Look at it.\" She then announces, \"So we're gonna go on a little walk,\" as the scene transitions to a wide, rugged outdoor terrain of dark volcanic rock and sparse vegetation. She walks along a paved path, identifying, \"This is the bridge. This is the actual bridge. This was the trail to the bridge. Let's go see,\" before crossing a narrow metal grid bridge over a deep, rocky fissure, remarking \"Whoa\" and \"These are the two plates. That's so cool.\" She nearly drops the camera, exclaiming, \"Almost dropped the camera. Oh my god,\" then adds, \"Yeah, it's nice here. Honestly, we haven't got to be here. I don't know, but I'll take it.\" She observes the ground, noting, \"Oh, you can walk in it, okay. I don't know, I feel like my shoes are gonna get dirty there if I do it. I'm not gonna do it.\" She turns to the camera, smiling with the sun flaring behind her again, as gentle, reflective instrumental music begins to play. The camera pans across the expansive, barren landscape, emphasizing the dramatic geological features and the vastness of the terrain, with the woman continuing to walk along the path, occasionally pausing to look out over the chasm. She stands on a rocky outcrop, arms slightly outstretched, gazing into the distance with the ocean visible on the horizon, as the sun casts long shadows. The music continues as the camera shows a broader view of the landscape, including the bridge and other visitors exploring the area, with the woman concluding, \"This is a better view. You can see the bridge there. Wow.\" The overall atmosphere is one of awe and exploration in a stark, beautiful natural environment, underscored by the reflective music."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 14,
+      "end_minute": 14,
+      "summary": "A Woman with Purple-Blonde Hair, clad in a grey knitted beanie and green jacket, stands in a rugged, rocky landscape beneath a bright blue sky, expressing her awe at the incredible scenery despite the freezing temperatures, even joking about potential frostbite. As she traverses the uneven terrain, silhouetted against the sun, gentle, melodic background music commences. The camera then focuses on a deep, rocky fissure spanned by a narrow Metal Grid Bridge, facilitating passage. The woman walks along the fissure's edge before turning back to the camera. The scene shifts to her inside an Orange Car, observed from the back seat, as she drives through a vast, open landscape characterized by golden grasslands and distant hills, accompanied by a shift in background music to a traditional, folk-like tune featuring string instruments. Sweeping views encompass a white lighthouse atop a grassy hill and a setting sun painting the horizon with a warm glow. Amidst foreign male voices, the woman comments, \"I think the bus is leaving without me,\" followed by another foreign male voice. The video concludes with a wide shot of the expansive, partly cloudy landscape, highlighting its natural beauty as the traditional music fades.",
+      "involved_entities": {
+        "Metal Grid Bridge": {
+          "description": "A narrow, elevated bridge made of metal grating with blue metal railings, spanning a deep rocky fissure, allowing visitors to cross safely over the chasm while offering views of the rugged terrain below.",
+          "attribute": "visual"
+        },
+        "Rugged Outdoor Terrain": {
+          "description": "A barren, rocky landscape under a clear blue sky with the sun high, featuring dark volcanic rocks and sparse vegetation, where the woman stands smiling and talking to the camera, with an orange car parked behind her.",
+          "attribute": "visual"
+        },
+        "Rugged Fissure Landscape": {
+          "description": "A deep, rocky chasm cutting through a barren volcanic landscape, with dark, jagged rocks and sparse vegetation, under a clear blue sky, creating a dramatic and expansive natural scene.",
+          "attribute": "visual"
+        },
+        "Orange Car": {
+          "description": "A bright orange compact car parked on a dirt road in a rocky, open landscape, visible behind the woman as she speaks to the camera.",
+          "attribute": "visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length wavy blonde hair, wearing a grey knitted beanie with sunglasses perched on top, a green jacket, black leggings, and sturdy boots, walking and smiling in a rugged, rocky landscape under a bright blue sky. She speaks to the camera, expressing awe at the 'incredible' and 'amazing' landscape despite her fingers feeling like they're going to fall off and the possibility of 'frostbite,' stating 'it's worth it.' Later, while driving, she remarks, 'I think the bus is leaving without me.'",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a Woman with Purple-Blonde Hair, wearing a grey knitted beanie and green jacket, standing in a rugged, rocky landscape under a bright blue sky, smiling and speaking to the camera. She exclaims, \"The landscape here is incredible! It's amazing. I don't even care that my fingers feel like they're going to fall off. It's they truly are. I might have frostbite, but it's worth it!\" As she walks across the uneven terrain, silhouetted against the sun, gentle, melodic background music begins. The camera pans to reveal a deep, rocky fissure with a narrow Metal Grid Bridge spanning it, allowing safe passage over the chasm. She continues walking along the edge of the fissure, then turns to face the camera again. The scene transitions to her inside a car, viewed from the back seat, as she drives through a vast, open landscape with golden grasslands and distant hills. The background music shifts to a more traditional, folk-like tune with string instruments. Sweeping views of the terrain include a white lighthouse atop a grassy hill and the sun setting on the horizon, casting a warm glow. A male voice is heard speaking in a foreign language, followed by the woman remarking, \"I think the bus is leaving without me.\" Another male voice speaks in a foreign language. The video ends with a wide shot of the expansive landscape under a partly cloudy sky, emphasizing its natural beauty, as the traditional music continues."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 15,
+      "end_minute": 15,
+      "summary": "Under a bright blue sky, a Woman with Purple-Blonde Hair, wearing a grey knitted beanie and green jacket, approached a geothermal area on Rugged Outdoor Terrain with wooden walkways. Upon reacting to the sulfurous smell with \"It smells like eggs,\" followed by \"Phew,\" she observed a Yellow Warning Sign reading 'Varúð Hverasvæði - Danger Hotspring,' noting \"Danger.\" She then excitedly pointed out a geyser, and as thick steam rose, obscuring the terrain, she humorously shared intrusive thoughts about touching it, stating, \"I just want to put my hand in it, but I won't.\" Navigating deeper into the dense mist, she declared, \"I am in the geyser smoke right now. I actually can't see,\" and repeatedly expressed discomfort, \"Oh, it smells so bad. I can't breathe, guys.\" With playful fear, she announced, \"I might die in here,\" and coughed, but remained determined, \"I'm going to get through. We can get through.\" She noted the warmth, \"Oh, it's so warm,\" before concluding with an overwhelmed, \"God, okay, this is bad. I need it to stop. Oh god, I'm going to die in here. Oh my god. Ah, it's so...\" as she continued through the overwhelming steam.",
+      "involved_entities": {
+        "Yellow Warning Sign": {
+          "description": "A bright yellow sign with a red border and black text, reading 'Varúð Hverasvæði - Danger Hotspring' in Icelandic and English, and featuring a 'POLAR DEGOS' sticker. The woman acknowledges the sign's warning by stating 'Danger' as she approaches the hazardous, steam-filled geothermal area.",
+          "attribute": "audio-visual"
+        },
+        "Rugged Outdoor Terrain": {
+          "description": "A barren, rocky landscape under a clear blue sky, typical of Iceland’s geothermal regions, featuring dark volcanic soil and sparse vegetation. This terrain is the source of thick, sulfurous steam that the woman describes as smelling 'like eggs' and 'so bad,' making it difficult to breathe and obscuring visibility. The steam also emanates warmth, noted by the woman as 'so warm,' and moves across wooden walkways and railings.",
+          "attribute": "audio-visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length wavy blonde hair, wearing a grey knitted beanie with sunglasses, a green jacket, black leggings, and sturdy boots, navigates a geothermal area under a bright blue sky. She speaks to the camera with a humorous and expressive tone, reacting vocally to the environment by exclaiming 'It smells like eggs,' 'Phew,' and 'Oh, it smells so bad. I can't breathe, guys.' She describes the dense steam, stating 'I am in the geyser smoke right now. I actually can't see,' and playfully declares 'I might die in here' multiple times, even coughing once. She also notes the warmth, saying 'Oh, it's so warm,' and expresses a desire for the steam to stop, concluding with an overwhelmed 'Ah, it's so...'",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "Under a bright blue sky, a Woman with Purple-Blonde Hair, dressed warmly in a grey knitted beanie and green jacket, approaches a geothermal area. She immediately reacts to the environment, exclaiming, \"It smells like eggs,\" followed by a disgusted \"Phew.\" She observes a Yellow Warning Sign, reading 'Varúð Hverasvæði - Danger Hotspring,' and notes, \"Danger,\" before excitedly pointing out, \"Look at that geyser.\" As thick steam rises around her, obscuring the Rugged Outdoor Terrain with its wooden walkways and railings, she humorously shares her \"intrusive thoughts are burning my brain right now. I just want to put my hand in it, but I won't.\" Navigating deeper into the dense mist, she states, \"I am in the geyser smoke right now. I actually can't see,\" and repeatedly expresses discomfort, \"Oh, it smells so bad. I can't breathe, guys.\" With playful fear, she declares, \"I might die in here,\" and coughs, but remains determined, \"I'm going to get through. We can get through.\" She notes the warmth, \"Oh, it's so warm,\" before concluding with an overwhelmed, \"God, okay, this is bad. I need it to stop. Oh god, I'm going to die in here. Oh my god. Ah, it's so...\" as she continues to move through the overwhelming steam."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 16,
+      "end_minute": 16,
+      "summary": "Amidst rising steam in a geothermal area, a Woman with Purple-Blonde Hair, wearing a grey beanie and green jacket, humorously described being \"crop dusted by a giant fart\" and \"stuck in a plume of sulfur smoke,\" finding the experience \"so cool\" while gesturing toward the steaming ground. As she walked along a wooden boardwalk, she observed others getting \"stuck in it,\" likening it to \"walking into an avalanche.\" She then decided to \"run through\" the intense steam, calling it \"walking into the abyss\" and \"actually really cool\" despite the obscured visibility. The steam became so dense it partially shrouded her, her silhouette visible against the bright sky as she moved through the fog, exclaiming, \"Oh no, no, no,\" and \"Oh, that was cool.\" A brief cutaway featured a SEGA ALTERED BEAST arcade machine with distinct arcade sound effects and a \"Five minutes remaining\" voiceover. Emerging from the mist, her face flushed, she explained, \"I want to give you guys my POV right now because I can't see anything. It's like a video game,\" and advised, \"Yeah, be careful, watch your step.\" The video concluded with a panoramic view of the otherworldly geothermal area, showcasing the Rugged Outdoor Terrain, steam vents, and wooden walkways under a clear sky, accompanied by background music.",
+      "involved_entities": {
+        "Yellow Warning Sign": {
+          "description": "A bright yellow sign with red border and black text reading 'Varúð Hverasvæði - Danger Hotspring' in Icelandic and English, with a small 'POLAR DEGOS' sticker affixed to it, placed at the entrance of the geothermal area to warn visitors of the hazardous conditions. It is visible in the background as the woman walks along the boardwalk.",
+          "attribute": "visual"
+        },
+        "SEGA ALTERED BEAST Arcade Machine": {
+          "description": "A vintage arcade machine with a blue and red design, featuring a screen, two joysticks, and buttons, with the title 'SEGA ALTERED BEAST' displayed above the screen, flanked by a blue and red eye graphic. It appears briefly as a surreal, unexpected cutaway in the middle of the geothermal footage, accompanied by distinct arcade sound effects and a \"Five minutes remaining\" voiceover, contrasting sharply with the natural environment.",
+          "attribute": "audio-visual"
+        },
+        "Rugged Outdoor Terrain": {
+          "description": "A barren, rocky landscape under a clear blue sky, now partially obscured by steam, featuring dark volcanic rocks, sparse vegetation, and wooden walkways and railings, indicating a managed geothermal site. The terrain is dotted with steam vents and pools, creating a dramatic and otherworldly atmosphere, with the steam audibly described as \"sulfur smoke.\"",
+          "attribute": "audio-visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length wavy blonde hair, wearing a grey knitted beanie with sunglasses perched on top, a green jacket, black leggings, and sturdy boots, actively navigating a geothermal area. She is heard speaking with an energetic and playful tone, humorously describing the \"plume of sulfur smoke\" as \"getting crop dusted by a giant fart,\" laughing, gesturing, and expressing playful fear with phrases like \"you're gonna die\" and \"walk into the abyss\" while moving through dense mist. She also gives advice, \"be careful, watch your step,\" and describes her experience as \"like a video game\" due to the obscured visibility, her face flushed and illuminated by the sun as she walks along wooden boardwalks surrounded by rising steam.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of the Woman with Purple-Blonde Hair, smiling and speaking to the camera, wearing her grey beanie and green jacket amidst rising steam in a geothermal area. She humorously remarks, \"So bad. Getting crop dusted by a giant fart,\" and describes being stuck in a \"plume of sulfur smoke,\" finding it \"so cool.\" Leaning over a wooden railing, she gestures toward the steaming ground, acknowledging the sounds of the environment, \"Okay, I hear you.\" The camera pans to reveal the expansive geothermal landscape under a bright blue sky, with plumes of steam. As she walks along a wooden boardwalk, she observes others getting \"stuck in it,\" likening it to \"walking into an avalanche.\" Turning to the camera, she laughs and reacts to the intense steam, declaring, \"Let's go back through. I'm gonna run through this time,\" and then, \"Walk into the abyss,\" finding it \"actually really cool\" despite the obscured visibility. The steam becomes so dense that it partially shrouds her, her silhouette visible against the bright sky as she moves through the fog, exclaiming, \"Oh no, no, no,\" and \"Oh, that was cool.\" A brief, surreal cutaway shows a vintage 'SEGA ALTERED BEAST' arcade machine, accompanied by distinct arcade sound effects and a \"Five minutes remaining\" voiceover, a stark contrast to the natural setting. The scene returns to the woman emerging from the mist, laughing and speaking directly to the camera, her face flushed. She states, \"I want to give you guys my POV right now because I can't see anything. It's like a video game,\" before advising, \"Yeah, be careful, watch your step.\" With a playful warning, \"You're gonna die,\" the video concludes with a panoramic view of the otherworldly geothermal area, showcasing the rocky terrain, steam vents, and wooden walkways under a clear sky, as background music begins to play."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 17,
+      "end_minute": 18,
+      "summary": "Sweeping panoramic shots introduce a rugged coastal landscape with dark volcanic rocks and crashing waves under a clear blue sky, accompanied by wind and ocean sounds. The Woman with Purple-Blonde Hair, wearing a grey knitted beanie and green jacket, appears, smiling and gesturing enthusiastically, initially exclaiming about the scenery's beauty and expressing a desire to live on a solitary island, humorously noting a distant lighthouse and a bird statue. She mentions their last stop in the lava fields and spots a white SUV nearby. Spotting the Volcano Man Sign, she excitedly reads aloud its reference to the 'Eurovision Song Contest' movie and declares her intention to stand there. She then mimics the 'Volcano Man' performance at a red keyboard stand, striking a pose and kicking her leg to upbeat synth music. She humorously notes the strong sulfur smell, comparing it to a \"giant wet fart,\" but acknowledges the landscape's beauty. She attempts to explain the \"geo-fuel\" process, then playfully admits she can't and suggests looking it up. She introduces a bird, naming it Tony, and sits silhouetted against the golden light as waves crash around her, before concluding with a remark about being the last one back to the van.",
+      "involved_entities": {
+        "On-Screen Text": {
+          "description": "White text appearing on a black background, reading 'THE HOME OF VOLCANO MAN' and detailing that Will Ferrell and Rachel McAdams performed here for the movie 'Eurovision Song Contest: The Story of Fire Saga,' with instructions to scan a QR code for an Instagram filter, which the woman reads aloud with surprise and excitement, exclaiming 'From Eurovision!'.",
+          "attribute": "audio-visual"
+        },
+        "Coastal Rocks": {
+          "description": "Large, dark volcanic rocks by the sea, forming dramatic sea stacks and jagged formations, with the ocean and waves visible in the background under a clear sky, creating a striking natural backdrop, which the woman notes emit a strong sulfur smell.",
+          "attribute": "audio-visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length wavy blonde hair, wearing a grey knitted beanie with sunglasses perched on top, a green jacket, black leggings, and sturdy boots, actively engaging with the camera with an enthusiastic and humorous tone, gesturing toward the landscape, expressing excitement about the scenery, humorously describing the strong sulfur smell, attempting to explain 'geo-fuel,' affectionately naming a bird 'Tony,' and playfully mimicking a performance at a red keyboard stand in a coastal volcanic setting, before noting she needs to get back in the van.",
+          "attribute": "audio-visual"
+        },
+        "Red Keyboard Stand": {
+          "description": "A red, foldable metal stand with a white keyboard surface, positioned outdoors on the rocky coast, used by the woman to mimic the 'Volcano Man' performance from the movie 'Eurovision Song Contest: The Story of Fire Saga.'",
+          "attribute": "visual"
+        },
+        "Volcano Man Sign": {
+          "description": "A large, light-blue informational sign with red and black text, placed on the rocky coast, marking the filming location of the 'Volcano Man' scene from the movie 'Eurovision Song Contest: The Story of Fire Saga,' which the woman points out while discussing the surrounding environment.",
+          "attribute": "audio-visual"
+        },
+        "Rugged Outdoor Terrain": {
+          "description": "A barren, rocky landscape under a clear blue sky, featuring dark volcanic rocks, sparse vegetation, and wooden walkways, now shown in a coastal context with the ocean and sea stacks, creating a dramatic and otherworldly atmosphere, which the woman notes has a strong sulfur smell and is associated with 'geo-fuel' where steam is extracted from the ground.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with sweeping panoramic shots of a rugged, rocky coastal landscape under a clear blue sky, featuring dark volcanic terrain, scattered puddles, and the ocean in the distance, as a woman's voice exclaims, \"How pretty! Look at that. That's where I want to live right there, on a little island all alone. But it's so pretty.\" The Woman with Purple-Blonde Hair, wearing a grey knitted beanie and green jacket, appears smiling and speaking directly to the camera, gesturing toward the surroundings and pointing out a distant lighthouse, humorously adding, \"which I would also live alone. She's really lonely. Um, but it's beautiful.\" As the camera pans across the dramatic coastline, highlighting jagged rocks and a prominent sea stack, she mentions, \"The statue freaked me out because I thought this was a real bird, but it's just a statue. But let's go over here.\" She continues, noting a white SUV parked nearby, \"This is our last stop in like the lava fields, and then I think we're going to go see some other stuff. I don't know. I don't know what's going on. I'm just on the bus, living my best life. Oh wow, that's pretty.\" The scene shifts to a close-up of a sign, which the woman excitedly reads aloud, \"I'm sorry, what is Oh my god. From Eurovision! That's so funny. Home of the Volcano Man. At this exact spot stood Will Ferrell and Rachel McAdams and performed Volcano Man from the Hollywood movie Eurovision Contest.\" She then declares, \"You know I'm a stand right there. You know I'm gonna do it,\" referring to the sign's details about the movie 'Eurovision Song Contest: The Story of Fire Saga' and its QR code for an Instagram filter. True to her word, the woman then stands at a red, foldable keyboard stand, mimicking the iconic 'Volcano Man' performance, striking a pose and playfully kicking her leg up, all set to an upbeat, dramatic synth music with a strong beat, reminiscent of the movie's song. The video concludes with a wide shot of the sunlit coastline, waves crashing against the rocks, and a wooden viewing platform overlooking the sea, capturing the serene yet dramatic natural beauty of the location, as the synth music fades and the natural sounds of crashing waves take over.",
+        "The video opens with sweeping panoramic views of a rugged coastal landscape, showcasing dark volcanic rocks and crashing waves under a clear blue sky, accompanied by the sounds of wind and ocean waves. The camera pans across jagged sea stacks and rocky outcrops, with sunlight glinting off the ocean surface, creating a dramatic and serene natural setting. The Woman with Purple-Blonde Hair appears, smiling and speaking directly to the camera with an enthusiastic tone, exclaiming, \"Like, it's like it's fake. This is incredible.\" Wearing her grey knitted beanie with sunglasses perched on top, a green jacket, and black gloves, she gestures toward the scenery, clearly excited. She humorously notes the strong smell, stating, \"Not gonna lie though, it smells so much like sulfur. It smells like just a giant, giant wet fart here. But you know what? The landscape, it's beautiful enough to to mask the smell. You know what I mean?\" She then points out the \"Volcano Man Sign,\" a large light-blue informational sign marking the filming location, and attempts to explain the \"geo-fuel\" process where steam is extracted from the ground, before playfully admitting, \"You know what, she explained it really well, I can't explain it. Look it up.\" At one point, she holds up a small black device, possibly a camera or phone, before playfully mimicking a performance at a red keyboard stand, referencing the 'Volcano Man' scene. She then affectionately introduces a bird, saying, \"This bird, his name is Tony and I love him.\" The scene shifts to her sitting on the rocks, silhouetted against the bright golden light of late afternoon or early evening, as waves crash around her. The environment is stark and otherworldly, with barren volcanic terrain stretching into the distance, and a white car visible in the background, indicating a remote but accessible location. She concludes by saying, \"I gotta get back in the van. God, I'm always the last one,\" maintaining the adventurous and joyful mood of exploring Iceland’s dramatic coastlines."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 19,
+      "end_minute": 20,
+      "summary": "A Woman with Purple-Blonde Hair, initially clad in a grey knitted beanie, sunglasses, and a green jacket, sat on dark volcanic rocks by the ocean, waves crashing against the rugged coastline under a clear blue sky, remarking, \"Did I almost fall down this crevasse? Maybe.\" After a transition to a wide shot of a barren, rocky landscape with moss-covered stones and a wooden walkway leading to a sign reading 'BLUE LAGOON ICELAND,' she excitedly declared, \"That's very good. The Blue Lagoon. Just like one of the more famous pools in Iceland,\" and \"So excited. Ready to go in the Blue Lagoon.\" Later, in a black bikini with wet, windswept hair at the edge of the steaming Blue Lagoon, she exclaimed, \"It's so cold,\" before stepping into the milky blue water. Her initial reaction of coldness quickly shifted to delight as she stated, \"Oh, it's warm. Oh my god, it's so nice,\" with on-screen text echoing \"This is so nice,\" and \"It’s like the perfect temperature.\" She expressed, \"I could live in here. I never want to leave. This is so far, this is the best.\" The narrative continued with a close-up of an informational sign at the Blue Lagoon, which she highlighted, saying, \"Your facts if you guys want to read them.\" Subsequently, in the steaming, milky-blue waters, she noted, \"It's funny, there's like certain points in the pool where it's like actually kind of cold and then it's like really hot. It's like my last relationship.\" Floating on her back, she exclaimed, \"I'm in bliss. Is this what it feels like to be not mentally ill? Cause I love it,\" and \"I'm so buoyant,\" inviting viewers to \"Float with me.\" She then swam under a stone archway, identifying it as \"a little cave that nobody's in,\" playfully adding, \"Oh, this is cool. I feel like there would be like a really big fish that would come and eat me,\" before self-correcting, \"Why did I put that in my head? There's no fish in here. I don't think they could survive. But this is cute.\" She continued swimming beneath a wooden bridge, smiling and gesturing playfully amidst the calm, steamy water reflecting the bright blue sky, with other bathers visible in the background.",
+      "involved_entities": {
+        "On-Screen Text": {
+          "description": "White text appearing on screen, reading 'Hopefully this is going to be warm.' and 'This is so nice.' and 'It’s like the perfect temperature.', reflecting the woman’s spoken thoughts as she enters and enjoys the Blue Lagoon.",
+          "attribute": "visual"
+        },
+        "Coastal Rocks": {
+          "description": "Large, dark volcanic rocks by the sea, forming jagged formations and sea stacks, with waves crashing against them under a clear blue sky, creating a dramatic natural backdrop.",
+          "attribute": "visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length wavy blonde hair, now wet and slicked back, wearing a black bikini and sunglasses perched on her head. She speaks directly to the camera with a joyful, playful, and sometimes self-deprecating tone, expressing delight (\"This is the best part,\" \"I'm in bliss,\" \"I love it\"), describing the Blue Lagoon's water temperature variations (\"certain points... cold... really hot. It's like my last relationship\"), and playfully imagining fish in a cave she discovers, while inviting viewers to \"Float with me\" and noting her buoyancy. Her speech is accompanied by gentle, dreamy acoustic guitar music.",
+          "attribute": "audio-visual"
+        },
+        "Blue Lagoon": {
+          "description": "A large, steaming geothermal pool with milky blue water, surrounded by rocky formations and modern structures, with steam rising into the air under a bright sun. Its unique character is further highlighted by the woman's observation of varying water temperatures, from \"cold\" to \"really hot\" in different sections, and its tranquil, rejuvenating atmosphere is underscored by gentle, dreamy acoustic guitar music playing in the background.",
+          "attribute": "audio-visual"
+        },
+        "Rugged Outdoor Terrain": {
+          "description": "A barren, rocky landscape under a clear blue sky, featuring dark volcanic rocks, sparse vegetation, and wooden walkways, now shown in a coastal context with the ocean and sea stacks. The woman's voice is heard remarking, 'Did I almost fall down this crevasse? Maybe,' indicating the challenging nature of the terrain.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a Woman with Purple-Blonde Hair, wearing a grey knitted beanie, sunglasses perched on top, a green jacket, and black leggings, sitting on dark volcanic rocks by the ocean as waves crash against the rugged coastline under a clear blue sky. Ethereal, slightly dramatic background music plays as she remarks, \"Did I almost fall down this crevasse? Maybe,\" hinting at the challenging terrain. She turns to the camera, smiling and gesturing, then the scene transitions to a wide shot of a barren, rocky landscape with moss-covered stones and a wooden walkway, leading to a large white sign reading 'BLUE LAGOON ICELAND' against a bright sunlit sky. The woman's voice excitedly declares, \"That's very good. The Blue Lagoon. Just like one of the more famous pools in Iceland,\" and then, \"So excited. Ready to go in the Blue Lagoon.\" The camera then focuses on her, now in a black bikini with wet, windswept hair, standing at the edge of the steaming Blue Lagoon. She exclaims, \"It's so cold,\" before stepping into the milky blue water with a joyful expression. As she wades in, surrounded by other bathers, steam rising from the warm water, and the sun shining brightly, she immediately changes her tune, saying, \"Oh, it's warm. Oh my god, it's so nice,\" with on-screen text echoing \"This is so nice.\" She continues to express her delight, repeating, \"So nice,\" and \"It's so warm,\" with on-screen text confirming, \"It’s like the perfect temperature.\" She smiles broadly at the camera, her sunglasses now back on, enjoying the serene, misty environment with distant hills and modern structures, adding, \"I could live in here. I never want to leave. This is so far, this is the best,\" clearly delighted by the perfectly warm experience.",
+        "The video opens with a close-up of an informational sign at the Blue Lagoon, displaying facts and an overview of the geothermal spa, including its status as one of the '25 Wonders of the World,' its mineral content, and geographical details, which the Woman with Purple-Blonde Hair highlights, saying, \"Your facts if you guys want to read them.\" The camera then transitions to her, now in a black bikini and sunglasses, standing in the steaming, milky-blue waters. On-screen text reads 'Hopefully this is going to be warm.' as she expresses her delight, later stating, \"This is the best part.\" and \"This is so nice.\" She notes the water's varying temperatures, observing, \"It's funny, there's like certain points in the pool where it's like actually kind of cold and then it's like really hot. It's like my last relationship.\" She then floats serenely on her back, eyes closed, basking in the warmth, exclaiming, \"I'm in bliss. Is this what it feels like to be not mentally ill? Cause I love it,\" and \"I'm so buoyant,\" inviting viewers to \"Float with me.\" Modern structures and rocky hills are visible through the mist as gentle, dreamy acoustic guitar music begins to play. The scene shifts to her swimming under a stone archway, which she excitedly identifies as \"a little cave that nobody's in,\" playfully adding, \"Oh, this is cool. I feel like there would be like a really big fish that would come and eat me,\" before self-correcting, \"Why did I put that in my head? There's no fish in here. I don't think they could survive. But this is cute.\" She continues swimming beneath a wooden bridge, smiling and gesturing playfully. The water is calm and steamy, reflecting the bright blue sky, and other bathers are visible in the background, all contributing to the tranquil, rejuvenating, and otherworldly beauty of the Blue Lagoon."
+      ]
+    },
+    {
+      "event_id": 11,
+      "start_minute": 21,
+      "end_minute": 22,
+      "summary": "The Woman with Purple-Blonde Hair, initially relaxing in the Blue Lagoon in a black bikini and sunglasses, declared her intention to put her phone down and enjoy her meal, which featured vegan avocado toast and a Valrhona chocolate cookie, both labeled 'BLUE LAGOON ICELAND'. Transitioning to a scenic drive through a barren, rocky landscape with volcanic hills, she changed into a green jacket and a grey knitted 'XGBOY' beanie, expressing excitement for a 45-minute hike in active lava fields. She pointed to a 'VELKOMIN Í VOLCANO SKALI' sign, mispronouncing it, and then walked along a rocky path toward the lava field, noting the visible steam and geothermal activity. Later, in the rugged terrain under a clear blue sky, she compared the landscape to Star Wars and noted the steepness of a hill, while a Hiking Group, including someone in a yellow jacket, followed a path. Approaching a yellow 'Varúð! Attention!' warning sign with Icelandic and English text prohibiting walking on or throwing things at the lava, she read the warnings aloud, including 'Do not give into impulsive thoughts'. She commented on the rough, porous texture of the lava rock, comparing it to Jabba the Hutt, and expressed a strong desire to interact with it, eventually touching it after confirming it was permissible. The segment concluded with a hand holding a smartphone, ready to photograph the lava rock.",
+      "involved_entities": {
+        "Avocado Toast": {
+          "description": "A plate of avocado toast topped with cherry tomatoes, microgreens, and a poached egg, labeled 'BLUE LAGOON ICELAND' and marked 'SUITABLE FOR VEGANS' with a yellow circular sticker, priced at 2390 ISK.",
+          "attribute": "visual"
+        },
+        "Volcano Skali Sign": {
+          "description": "A large blue sign reading 'VELKOMIN Í VOLCANO SKALI' with parking fees, which the woman points to and audibly mispronounces as 'Volcano Stelly' while expressing excitement.",
+          "attribute": "audio-visual"
+        },
+        "Yellow Warning Sign": {
+          "description": "A bright yellow sign with red borders and black text reading 'Varúð! Attention!' in Icelandic and English, displaying prohibitions such as 'Do not walk on the lava' and 'Do not throw anything at the lava,' with pictograms and logos, which the woman reads aloud, emphasizing the warnings against impulsive actions.",
+          "attribute": "audio-visual"
+        },
+        "Valrhona Chocolate Cookie": {
+          "description": "A packaged chocolate cookie labeled 'BLUE LAGOON ICELAND VALRHONA CHOCOLATE' in a clear plastic bag, placed on a white tray next to the avocado toast.",
+          "attribute": "visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length blonde hair, wearing a grey knitted beanie with 'XGBOY' branding and sunglasses perched on top, dressed in a dark hooded jacket, smiling and speaking directly to the camera with an enthusiastic and awe-filled tone, narrating her experience, expressing a desire to jump on the lava but confirming it's safe to touch, and reading out warning signs.",
+          "attribute": "audio-visual"
+        },
+        "Knitted Beanie": {
+          "description": "A grey knitted beanie with 'XGBOY' branding in black and white, worn by the woman as she explores the volcanic landscape, with sunglasses perched on top.",
+          "attribute": "visual"
+        },
+        "Volcano Man Sign": {
+          "description": "A large, light-blue informational sign with red and black text, placed on the rocky coast, marking the filming location of the 'Volcano Man' scene from the movie 'Eurovision Song Contest: The Story of Fire Saga,' including a QR code for an Instagram filter.",
+          "attribute": "visual"
+        },
+        "Blue Lagoon": {
+          "description": "A large, steaming geothermal pool with milky blue water, surrounded by rocky formations, where the woman explicitly states she is having a 'very relaxing time' before departing.",
+          "attribute": "audio-visual"
+        },
+        "Rugged Outdoor Terrain": {
+          "description": "A barren, rocky volcanic landscape under a clear blue sky, featuring dark, jagged lava fields, sparse vegetation, and rolling hills, with wooden walkways and warning signs, described by the narrator as 'so cool' and 'pretty,' with visible lava flows that she nearly steps on.",
+          "attribute": "audio-visual"
+        },
+        "Hiking Group": {
+          "description": "A group of hikers, including a person in a bright yellow jacket and others in winter attire, walking along a path through the volcanic terrain, some taking photos and observing the landscape.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a calm, ethereal synth sound as a Woman with Purple-Blonde Hair, her wet hair slicked back, relaxes in the steaming Blue Lagoon, wearing a black bikini and sunglasses. She smiles and speaks to the camera, stating, \"Well, I'm having a very relaxing time. I'm going to actually now enjoy this. I'm going to put my phone down. And I'll see you guys at lunch,\" with on-screen text echoing her enjoyment. The scene transitions to a close-up of a resort meal featuring avocado toast and a Valrhona chocolate cookie, both labeled 'BLUE LAGOON ICELAND' and 'SUITABLE FOR VEGANS'. An upbeat synth track begins as the video shows a scenic drive through a barren, rocky landscape under a clear blue sky, revealing volcanic hills and lava fields. The woman, now dressed warmly in a green jacket and a grey knitted beanie with 'XGBOY' branding, appears, speaking excitedly as she walks through the rugged terrain. She announces, \"We are done with the Blue Lagoon. We got in the car and we are now heading to the active lava fields. I'm excited. Look how gorgeous. We're going to go on like a 45-minute hike or something.\" She gestures toward a parking area with vehicles and points to a large blue 'VELKOMIN Í VOLCANO SKALI' sign, audibly mispronouncing it as \"Volcano Stelly\" and adding, \"I'm excited. I just tripped on a rock. Let's go!\" She then walks along a rocky path with other visitors toward a vast lava field, with the camera following her feet and capturing panoramic views of the dramatic volcanic landscape, including dark, cracked lava rock and distant snow-capped mountains. She observes, \"See all the steam coming up. You could just fall in right there,\" highlighting the geothermal activity.",
+        "The video opens with the Woman with Purple-Blonde Hair, wearing a grey knitted beanie with 'XGBOY' branding and sunglasses perched on top, smiling brightly at the camera against a barren, rocky volcanic landscape under a clear blue sky. She immediately expresses awe, remarking, \"I just think Star Wars. This is so cool though,\" as atmospheric music plays. The scene transitions to wide shots of the rugged terrain, showcasing dark, jagged lava fields and rolling hills, emphasizing the desolate yet striking beauty of the environment. The woman's voice continues, noting, \"It's a steep hill,\" and later, \"The volcano, the crater itself, it's not far away.\" A group of hikers, including a person in a bright yellow jacket, walks along a path, with the woman occasionally reappearing in selfie-style shots, narrating her experience. She exclaims, \"Look how pretty! Wow!\" as the camera pans across the expansive, sunlit valley and textures of cooled lava rock. The group approaches a bright yellow warning sign with red borders and black text in Icelandic and English, reading 'Varúð! Attention!' with prohibitions like 'Do not walk on the lava' and 'Do not throw anything at the lava.' The woman gestures toward the sign and the lava field, reading out the warnings: \"Do not walk, do not throw, do not make carvings. Do not give into impulsive thoughts, basically.\" She then focuses on the cracked, uneven surface of the lava rock, highlighting its rough, porous texture, commenting, \"Looks like Jabba the Hutt. It's lava.\" She nearly steps on it, saying, \"Almost stepped on it,\" and then, \"Wow. That's so cool. Look at that.\" The group continues walking along the path, their shadows stretching long in the bright sunlight, as the woman speaks directly to the camera, expressing both awe and a strong desire to interact with the lava: \"You have no idea how bad I want to, I want to jump on this shit.\" She then clarifies, \"I can touch it though. I asked her. She said it's okay. Look it, we'll touch it together.\" The video concludes with a close-up of a hand holding a smartphone, poised to take a photo of the lava rock, capturing the moment of exploration and documentation."
+      ]
+    },
+    {
+      "event_id": 12,
+      "start_minute": 23,
+      "end_minute": 23,
+      "summary": "The Woman with Purple-Blonde Hair, sporting a grey knitted beanie with 'XGBOY' branding and sunglasses, addresses the camera amidst a rugged volcanic landscape, commenting on the rocky terrain that reminds her of a character from Fantastic Four. Her boots crunch on gravel as she walks near a deep fissure, the sound of wind accompanying her exploration of the dark lava fields and sparse vegetation under a clear blue sky, marked by sharp shadows and lens flares. Uplifting acoustic guitar music signals a shift to a wide shot of a golden sunset over a grassy plain with a stream. The scene then focuses on 'MOTTAKA RECEPTION,' a modest white building suggesting a rural farm stay. The woman reappears, expressing excitement about staying at the hotel, observing sheep, and anticipating an Icelandic dinner, with the sound of horses neighing nearby. The final view is of a cozy common area inside, featuring a blue pool table, wooden floors, and a 'WELCOME LITTLE SNAP SHOP' sign, where other guests with luggage are present, indicating their arrival.",
+      "involved_entities": {
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length blonde hair, wearing a grey knitted beanie with 'XGBOY' branding and sunglasses perched on top, dressed in a dark hooded jacket, smiling and speaking to the camera while exploring a volcanic landscape, describing it as looking like a 'rocky guy from the Fantastic Four' and later expressing excitement about her 'Icelandic dinner' at the hotel, noting 'sheep and stuff' outside.",
+          "attribute": "audio-visual"
+        },
+        "MOTTAKA RECEPTION": {
+          "description": "A modest white building with a gabled roof, illuminated from within, featuring a sign above the entrance that reads 'MOTTAKA RECEPTION' in black lettering, set against a twilight sky with warm interior lighting, near which the sound of horses neighing is heard.",
+          "attribute": "audio-visual"
+        },
+        "Rugged Outdoor Terrain": {
+          "description": "A barren, rocky volcanic landscape under a clear blue sky, featuring dark, jagged lava fields, sparse vegetation, and rolling hills, with wooden walkways and warning signs indicating restricted areas, where the sound of boots crunching on gravel and whooshing wind are heard.",
+          "attribute": "audio-visual"
+        },
+        "Little Snap Shop": {
+          "description": "An indoor common area with wooden flooring, a blue pool table, and a sign on the wall reading 'WELCOME LITTLE SNAP SHOP,' featuring modern lighting and seating, where guests are seen with luggage, indicating a communal space in a rural accommodation.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of the Woman with Purple-Blonde Hair, wearing her signature grey knitted beanie with 'XGBOY' branding and sunglasses, speaking directly to the camera against a rugged volcanic landscape. She exclaims, \"Oh, I don't know if you can see me. Oh yeah, you can. Feels like a rock. Feel like that's not that. Ooh, this is cool though. Look at this. Ooh, ah. I still can't get over this. This just looks like... What's that rocky guy from the... Oh, Fantastic Four? That's what it looks like,\" as the camera pans across the barren, rocky terrain, showcasing dark lava fields and sparse vegetation under a clear blue sky, with the sun casting sharp shadows and lens flares. The sound of her boots crunching on gravel is heard as she walks along the edge of a deep fissure, exploring the dramatic volcanic environment, accompanied by the whooshing sound of wind. Uplifting, gentle acoustic guitar music begins as the scene transitions to a wide shot of a golden sunset over a flat, grassy plain with a small stream reflecting the warm hues. The camera then moves toward a modest white building labeled 'MOTTAKA RECEPTION' with warm interior lighting, indicating a rural farm stay. The woman reappears, smiling and excited, stating, \"We're staying at this hotel. Look at the... Look at the sheep and stuff out there. So pretty. And we're going to have an Icelandic dinner. So I'll see you there,\" while the distinct sound of horses neighing is heard nearby. The final shot reveals the interior of a cozy common area with a blue pool table, wooden floors, and a sign reading 'WELCOME LITTLE SNAP SHOP,' where other guests are seen with luggage, suggesting their arrival at the accommodation."
+      ]
+    },
+    {
+      "event_id": 13,
+      "start_minute": 24,
+      "end_minute": 24,
+      "summary": "The narrative begins with a close-up of a plated meal, featuring a savory dish topped with a golden, flaky pastry, spiral pasta, roasted vegetables, and fresh herbs on an orange plate, as a woman's voice describes the \"delicious\" lamb, pasta, and roasted sprouts as \"fab\" but expresses reluctance to film while dining with others. The scene shifts indoors to a dimly lit setting where the Woman with Purple-Blonde Hair, lying on a bed with a textured yellow-green blanket, reflects on the \"interesting\" but \"good\" meal of \"lamb and some pastry thing and some pasta.\" She mentions setting an alarm for 1 AM to attempt viewing the Northern Lights, uncertain if she will wake up for it, and bids farewell with \"mañana.\" The video then transitions to a bright, scenic outdoor landscape with a road through a grassy plain under a blue sky and distant snow-capped mountains, overlaid with the on-screen text 'DAY 3'. The woman's voice announces that on \"Day three, we headed off to go make and eat some geothermal bread,\" explaining it is \"baked in the ground and uses the heat from the hot springs.\" Subsequently, the Woman with Purple-Blonde Hair, now wearing a grey knitted beanie with 'XGBOY' branding and sunglasses, is seen in a car looking at a wide, calm body of water under a clear sky. The scene changes to a rocky shoreline where she walks barefoot through shallow water, exclaiming \"Ow! F***, it's actually quite hot\" upon discovering a \"warm puddle\" among \"random puddles,\" laughing and remarking, \"We're all five years old.\" She then stands with others on the shore, smiling and laughing under the sun, continuing to express surprise about the warm water. The video concludes with her hand reaching into the water as waves gently crash onto the shore, capturing a moment of connection with nature amidst her continued exclamations and laughter.",
+      "involved_entities": {
+        "Plated Meal": {
+          "description": "A gourmet dish on an orange plate featuring a savory filling topped with a golden, flaky pastry, accompanied by spiral pasta, roasted vegetables, and fresh herbs, with cutlery placed beside it, described by the woman as \"delicious,\" \"so good,\" \"fab,\" consisting of \"lamb and some pastry thing and some pasta.\"",
+          "attribute": "audio-visual"
+        },
+        "Bed with Textured Blanket": {
+          "description": "A bed covered with a textured yellow-green blanket and a white fluffy pillow, where the woman lies and speaks to the camera in a dimly lit room.",
+          "attribute": "visual"
+        },
+        "On-Screen Text": {
+          "description": "White text appearing on screen, reading 'DAY 3', marking the progression of the travel vlog.",
+          "attribute": "visual"
+        },
+        "Scenic Roadside Landscape": {
+          "description": "A wide, open grassy plain under a blue sky with distant snow-capped mountains, bordered by a road with a yellow marker post, indicating a remote, natural setting.",
+          "attribute": "visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length blonde hair, wearing a grey knitted beanie with 'XGBOY' branding and sunglasses perched on top, dressed in a dark hooded jacket, is seen speaking directly to the camera with expressive facial movements, reflecting on a \"delicious\" and \"fab\" lamb, pastry, and pasta dinner, and planning to wake up early to see the Northern Lights. Later, she is seen exploring a volcanic landscape, sitting in a car, and walking barefoot on a rocky shoreline, speaking excitedly about making geothermal bread and dipping her hands into \"random puddles,\" exclaiming with surprise and laughter as she finds a \"warm\" and \"actually really hot\" puddle. Her voice is conversational and expressive, with moments of laughter.",
+          "attribute": "audio-visual"
+        },
+        "Knitted Beanie": {
+          "description": "A grey knitted beanie with 'XGBOY' branding in black and white, worn by the woman as she explores the volcanic landscape, with sunglasses perched on top.",
+          "attribute": "visual"
+        },
+        "Shoreline with Shallow Water": {
+          "description": "A rocky shoreline with shallow, clear water, where the woman walks barefoot and dips her hand into puddles, described by her as containing \"random puddles\" and a \"warm puddle\" that is \"actually really hot,\" with waves gently lapping at the shore under a bright sun.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of a plated meal featuring a savory dish topped with a golden, flaky pastry, accompanied by spiral pasta, roasted vegetables, and a garnish of fresh herbs, all presented on an orange plate with cutlery beside it. A woman's voice describes the \"delicious\" lamb, pasta, and roasted sprouts, calling the dinner \"fab\" but admitting she \"didn't want to film\" while eating with others. The scene transitions to a dimly lit indoor setting where the Woman with Purple-Blonde Hair is lying on a bed with a textured yellow-green blanket, speaking directly to the camera with expressive facial movements, reflecting on the \"interesting\" but \"good\" meal of \"lamb and some pastry thing and some pasta.\" She then mentions setting an alarm for 1 AM to try and see the Northern Lights, saying \"we'll see if I wake up for that\" before bidding \"mañana.\" The video then cuts to a bright, scenic outdoor landscape with a road stretching through a vast, grassy plain under a blue sky with distant snow-capped mountains, marked by the on-screen text 'DAY 3'. The woman's voice announces that on \"Day three, we headed off to go make and eat some geothermal bread,\" explaining it's \"baked in the ground and uses the heat from the hot springs.\" The next sequence shows the Woman with Purple-Blonde Hair, now wearing a grey knitted beanie with 'XGBOY' branding and sunglasses perched on top, sitting in a car and looking out at a wide, calm body of water under a clear sky. The scene shifts to a rocky shoreline where she walks barefoot through shallow water, dipping her hand into a small puddle, exclaiming \"Ow! F***, it's actually quite hot\" as she finds a \"warm puddle\" among \"random puddles,\" laughing and saying \"We're all five years old.\" She then stands with others on the shore, smiling and laughing under the sun, continuing to exclaim about the warm water. The final shot captures her hand reaching into the water as waves gently crash onto the shore, emphasizing a moment of connection with nature, accompanied by her continued exclamations and laughter."
+      ]
+    },
+    {
+      "event_id": 14,
+      "start_minute": 25,
+      "end_minute": 25,
+      "summary": "A woman with purple-blonde hair, identified as the Geothermal Sand Digging Woman, stands at a shoreline with shallow water, holding a Shovel. She greets the audience and explains her intention to demonstrate how Icelandic people bake bread using geothermal heat. Using the Shovel, she digs into the dark, steaming sand near the shore, producing scraping sounds, and scoops the hot sand into a Metal Pot with Bread. Reacting to the heat with exclamations like \"Oh my god\" and \"Oh yeah,\" she places the pot into the sand, playfully calling the process \"Baptizing bread\" and noting the pot is \"covered in two layers of plastic.\" After a short period, she retrieves the pot for \"the big reveal,\" presenting a perfectly baked, golden-brown loaf of bread to the camera with a scenic backdrop of a lake and mountains. On-Screen Text appears, reinforcing the demonstration of Icelandic bread-making. The Geothermal Sand Digging Woman concludes by inviting viewers to taste the bread, suggesting it will be enjoyed with \"other Icelandic goodies\" and \"rocking charm.\"",
+      "involved_entities": {
+        "On-Screen Text": {
+          "description": "White text appearing on screen, reading 'You’re going to see how Icelandic people make bread,' which directly aligns with the speaker's verbal introduction of the activity.",
+          "attribute": "audio-visual"
+        },
+        "Shovel": {
+          "description": "A wooden-handled shovel with a metal blade, used by the woman to dig into the geothermal sand, producing distinct scraping sounds as it moves through the sand.",
+          "attribute": "audio-visual"
+        },
+        "Metal Pot with Bread": {
+          "description": "A silver metal pot with handles, used to bake bread in the hot sand, later revealed to contain a golden-brown loaf, held by the woman as she presents it to the camera.",
+          "attribute": "visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length blonde hair, wearing a grey knitted beanie with 'XGBOY' branding and sunglasses perched on top, dressed in a dark hooded jacket, smiling and speaking to the camera while exploring a volcanic landscape.",
+          "attribute": "visual"
+        },
+        "Shoreline with Shallow Water": {
+          "description": "A rocky shoreline with shallow, clear water, where the woman walks barefoot and dips her hand into puddles, with waves gently lapping at the shore under a bright sun.",
+          "attribute": "visual"
+        },
+        "Geothermal Sand Digging Woman": {
+          "description": "A woman in a blue jacket and black rubber boots, actively digging into steaming sand at the water’s edge with a shovel, demonstrating traditional Icelandic geothermal baking. She speaks directly to the camera with an enthusiastic female voice, greeting viewers, explaining the process of baking bread using geothermal heat, expressing excitement ('Oh my god,' 'Oh yeah'), playfully calling it 'Baptizing bread,' explaining the pot's covering, announcing the 'big reveal,' and inviting viewers to taste the finished bread.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a wide shot of a wooden boardwalk along a rocky shoreline, set against a vast body of water and snow-capped mountains under a bright blue sky, accompanied by gentle background music. A person in a brown quilted jacket walks along the path, casting a long shadow. The camera then focuses on a woman in a blue jacket and black rubber boots at the water’s edge, holding a shovel. She greets the audience, \"Hey, hello everyone,\" and explains, \"What we're going to do today, I'm going to show you how Icelandic people bake bread. You'll just see in a moment.\" She begins digging into the dark, steaming sand near the shore with the shovel, producing scraping sounds, revealing geothermal heat. Steam rises as she scoops the hot sand into a metal pot, exclaiming \"Oh my god\" and \"Oh yeah\" in response to the heat, before placing the pot into the sand to cook. She playfully calls the process \"Baptizing bread\" and explains the pot is \"covered in two layers of plastic\" before announcing, \"Time for the big reveal.\" After a few moments, she retrieves the pot, revealing a perfectly baked loaf of bread inside, eliciting \"Yeah,\" \"Oh my God,\" and \"Yes!\" from her. She lifts the pot, smiles, and presents the golden-brown bread to the camera, with the scenic lake and mountains behind her. On-screen text appears, stating, 'You’re going to see how Icelandic people make bread,' reinforcing her earlier statement. She concludes by inviting viewers to taste it, saying, \"So yeah, what's left to do now, I guess, to eat it. So I invite you back inside and we're going to taste it with some other Icelandic goodies,\" adding \"Ooh\" and \"Maybe some rocking charm.\""
+      ]
+    },
+    {
+      "event_id": 15,
+      "start_minute": 26,
+      "end_minute": 27,
+      "summary": "The narrative begins with a recap of a \"sweet dirt bread\" tasting, enjoyed with butter and fish, before transitioning to a scenic landscape en route to geysers. The Woman with Purple-Blonde Hair, anticipating the geothermal activity, exits a car into a steamy, rugged outdoor terrain. As an Erupting Geyser dramatically expels water and steam, she reacts with startled exclamations, narrowly avoiding the spray, while on-screen text notes the windy conditions affecting audio clarity. She identifies the location as the \"last stop of the day\" within a Geothermal Field, characterized by steam vents and rocky ground. Descending a Metal Grid Staircase towards a viewing area, she points out waterfalls and mountains, expressing a desire to visit them. The scene then shifts to a powerful Waterfall Scene in a moss-covered canyon, accompanied by the sounds of rushing water and wind, with mist and a rainbow visible. The Woman with Purple-Blonde Hair, standing on a cliffside, feels the waterfall's spray and expresses awe at the \"incredible\" and \"gorgeous\" sight, humorously contemplating and then dismissing the idea of tubing down it. She reappears, smiling, and recounts how a \"really nice guy\" took candid photos of her and airdropped them, expressing gratitude for the gesture, as the overcast but bright environment features other visitors on distant platforms.",
+      "involved_entities": {
+        "Erupting Geyser": {
+          "description": "A powerful geyser erupting from the ground, sending a tall plume of steam and water into the air, accompanied by the woman's excited and startled reactions, creating a dramatic and dynamic natural spectacle observed by visitors.",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Text": {
+          "description": "White text appearing on screen, reading 'Our next stop is the geysers.' and 'We’re gonna get water out of the ground.' and 'There’s kind of a geyser.' and 'Oh! It’s coming right at me.' and 'It’s windy so I don’t know if you guys can hear me.' and 'We are at the last stop of the day.' and 'Got some ground water over there.' providing context for the geothermal exploration.",
+          "attribute": "visual"
+        },
+        "Metal Grid Staircase": {
+          "description": "A set of metal stairs with a grid-like surface and handrails, leading down from a viewing platform to the geothermal area, with the woman descending them as she explores the landscape.",
+          "attribute": "visual"
+        },
+        "Scenic Roadside Landscape": {
+          "description": "A wide, open grassy plain under a cloudy sky with distant snow-capped mountains, bordered by a road with a yellow marker post, indicating a remote, natural setting.",
+          "attribute": "visual"
+        },
+        "Shovel": {
+          "description": "A wooden-handled shovel used by the woman to dig into the geothermal sand, with a metal blade, shown in action as she scoops hot sand into the pot.",
+          "attribute": "visual"
+        },
+        "Metal Pot with Bread": {
+          "description": "A silver metal pot with handles, used to bake bread in the hot sand, later revealed to contain a golden-brown loaf, held by the woman as she presents it to the camera.",
+          "attribute": "visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length blonde hair, wearing a grey knitted beanie with 'XGBOY' branding and sunglasses perched on top, dressed in a beige hooded jacket with a black scarf. She speaks to the camera with an excited, awe-filled, and humorous tone, exclaiming \"Wow!\", noting the water hitting her face, calling the scene \"Incredible. It's crazy. Gorgeous.\", humorously imagining \"tubing down that thing?\" before quickly retracting with \"No. No. Not for me.\", laughing, and later stating \"I could just jump in there right now.\" She also recounts how a 'really nice guy' secretly photographed her and shared the pictures, expressing gratitude and amusement.",
+          "attribute": "audio-visual"
+        },
+        "Geothermal Field": {
+          "description": "A wide, open area with steam vents, rocky terrain, and erupting geysers, under a cloudy sky, with visitors observing from a safe distance, showcasing the raw, natural power of Iceland’s geothermal activity.",
+          "attribute": "visual"
+        },
+        "Rugged Outdoor Terrain": {
+          "description": "A barren, rocky volcanic landscape under a cloudy sky, featuring dark, jagged lava fields, sparse vegetation, and rolling hills, with steam vents and geysers erupting, creating a dramatic and dynamic natural environment.",
+          "attribute": "visual"
+        },
+        "Geothermal Sand Digging Woman": {
+          "description": "A woman in a blue jacket and black rubber boots, actively digging into steaming sand at the water’s edge with a shovel, retrieving a pot containing a baked loaf of bread, demonstrating traditional Icelandic geothermal baking.",
+          "attribute": "visual"
+        },
+        "Waterfall Scene": {
+          "description": "A dramatic aerial view of a powerful waterfall surrounded by moss-covered rocks, with mist rising and a rainbow forming in the spray. The scene is characterized by the prominent and continuous sounds of rushing water and wind, enhancing the immersive natural experience.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of a creamy yellow soup and crusty bread, while the audio immediately recaps a previous culinary adventure, stating, \"After she revealed the sweet dirt bread, we ate it with some butter and some fish and it was so good.\" The scene then transitions to a scenic, open landscape with rolling hills and distant snow-capped mountains under a cloudy sky, as the audio announces, \"And then we headed off to see more geysers.\" The Woman with Purple-Blonde Hair, now in a grey knitted beanie and beige jacket, appears in a car, looking out with anticipation, while on-screen text confirms, \"Our next stop is the geysers.\" She then steps out into a geothermal area, where steam rises from the ground, and the audio adds, \"We're gonna go look at some steam coming out of the ground. It's kind of terrifying.\" As a geyser erupts dramatically, sending a powerful plume of water and steam into the air, the woman reacts with excited and startled exclamations of \"Oh, look at that! Oh god, oh, it's gonna come right at me! Oh god, we gotta run! Oh no! Oh, got on my eye! Whoa! Holy shit!\" The camera captures the dynamic, misty environment with other visitors observing from a safe distance, while on-screen text notes, \"It's windy so I don't know if you guys can hear me.\" The woman continues to narrate, explaining, \"We are at the last stop of the day,\" as the camera pans to show a wide view of the geothermal field with rocky terrain and steam vents. She walks toward a viewing platform, pointing out the geysers below, and the camera follows her as she descends a metal grid staircase. The environment is rugged and windswept, with sparse vegetation and a cloudy sky, emphasizing the raw, natural beauty of the Icelandic landscape, as the woman concludes, \"which is waterfalls... and some mountains over there. Let's go see waterfalls!\" The video captures her enthusiasm and the powerful, unpredictable nature of the geysers, creating a vivid and immersive experience of Iceland’s geothermal wonders, all set to a light, adventurous background music.",
+        "The segment opens with a breathtaking wide view of a powerful waterfall, its waters cascading through a rugged, moss-covered canyon, generating mist and a rainbow in the spray, all accompanied by the immersive sounds of rushing water and wind. The camera then cuts to the Woman with Purple-Blonde Hair, standing on a grassy cliffside overlooking this natural spectacle. She wears her grey knitted beanie with 'XGBOY' branding, sunglasses perched on top, and a beige hooded jacket with a black scarf. Speaking excitedly to the camera, she exclaims \"Wow!\" and notes, \"It's funny, you can feel the water hitting your face from the waterfalls. Look at this.\" She continues, expressing awe with \"Oh! Incredible. It's crazy. Gorgeous.\" and humorously imagines \"tubing down that thing?\" before quickly adding, \"No. No. Not for me.\" The camera pans across the waterfall from multiple angles, capturing the immense force of the water and the surrounding rocky terrain dusted with snow, with the constant roar of the falls and wind filling the audio. The woman reappears, smiling and laughing, declaring, \"I could just jump in there right now. I won't. Looks nice though.\" She then reveals she was taking pictures when \"this really nice guy was taking photos of me while I wasn't looking,\" and subsequently airdropped them to her, expressing gratitude and amusement, noting it's hard to take pictures when alone. The environment remains overcast but bright, with a cool, crisp atmosphere, and other visitors are visible on distant viewing platforms, highlighting the popular tourist destination."
+      ]
+    },
+    {
+      "event_id": 16,
+      "start_minute": 28,
+      "end_minute": 28,
+      "summary": "The Woman with Purple-Blonde Hair, wearing a grey knitted beanie and beige hooded jacket, speaks to the camera while hiking a wet, rocky path near a river, expressing gratitude for the kindness of strangers, specifically mentioning Australians, Icelanders, and Irish people, with on-screen text echoing her sentiments about kindness and happiness. As acoustic guitar music begins, the perspective shifts to a first-person view from a car driving on a straight road through a vast landscape at sunset, with shots of hay bales in a field and the car's side mirror reflecting the sky. The music fades as the scene transitions indoors to a woman in a brown sweater on a small stage being recorded by a Man with Phone. Finally, the Woman with Purple-Blonde Hair, now in a brown collared shirt, is seen in a restaurant interior eating food on a stick, asking about chewing or swallowing it, reacting negatively to its texture, and then sipping from a small glass, while someone comments on the taste of alcohol after the food, followed by the sound of a plate being hit, laughter, and her wearing multiple rings and black nail polish.",
+      "involved_entities": {
+        "On-Screen Text": {
+          "description": "White text appearing on screen, reading 'to that random Australian stranger. You were very sweet.', 'Everybody I’ve met here has been so kind.', 'Australians are different people.', and 'I’m so happy.'",
+          "attribute": "visual"
+        },
+        "Food on Stick": {
+          "description": "A small piece of food, possibly a marshmallow or appetizer, held on a wooden stick by the woman in the restaurant, which she eats with a smile, prompting her to ask 'Do you chew it? Or do I just swallow it?' and react to its texture with 'The texture. It's in my mouth.'",
+          "attribute": "audio-visual"
+        },
+        "Restaurant Interior": {
+          "description": "A cozy indoor space with warm lighting, wooden tables, and framed artwork on the walls, where the woman is seen eating and drinking, with other patrons and staff visible in the background.",
+          "attribute": "visual"
+        },
+        "Scenic Roadside Landscape": {
+          "description": "A wide, open grassy plain under a cloudy sky with distant snow-capped mountains, bordered by a road with a yellow marker post, visible through the car’s windshield during the drive.",
+          "attribute": "visual"
+        },
+        "Small Glass": {
+          "description": "A clear, small glass held by the woman in the restaurant, from which she takes a sip, with dialogue suggesting it contains alcohol, as someone comments 'Shot tastes good after that' and 'This alcohol'.",
+          "attribute": "audio-visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with shoulder-length blonde hair, wearing a grey knitted beanie with sunglasses perched on top and a beige hooded jacket, speaking to the camera while hiking near a river, expressing gratitude and wonder about people's kindness, and later seen in a brown collared shirt with black trim, eating and drinking in a restaurant, humorously reacting to food texture by asking 'Do you chew it? Or do I just swallow it?' and exclaiming 'The texture. It's in my mouth.'",
+          "attribute": "audio-visual"
+        },
+        "Car Dashboard": {
+          "description": "A view from inside a moving car, showing a hand in an orange sleeve on the steering wheel, driving through a vast, open landscape at sunset, with the dashboard and rearview mirror visible.",
+          "attribute": "visual"
+        },
+        "Man with Phone": {
+          "description": "A man with short grey hair wearing a grey knitted sweater, holding a smartphone to record the woman on stage, seated in a dimly lit room with black curtains behind him.",
+          "attribute": "visual"
+        },
+        "Woman in Brown Sweater": {
+          "description": "A woman with blonde hair wearing a brown sweater with a yellow zigzag pattern, standing on a small stage holding a plate, being filmed by a man with a phone.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with the Woman with Purple-Blonde Hair, wearing a grey knitted beanie with sunglasses perched on top and a beige hooded jacket, speaking directly to the camera while hiking along a wet, rocky path near a rushing river. She expresses gratitude, stating, \"So thank you to that random Australian stranger. You are very sweet. Amazing. I love people. Everybody I've met here has been so kind. All the Icelandic people, Australian people, Irish people. I've met so many different people. It's just amazing.\" On-screen text reinforces her words, noting the kindness of an Australian stranger and the general kindness of people she's met, including the sentiment \"Australians are different people\" and \"I’m so happy.\" In the background, other hikers walk amidst mossy hills and a flowing river under an overcast sky. As she finishes speaking, gentle acoustic guitar music begins to play, accompanying a transition to a first-person view from inside a car. A hand in an orange sleeve grips the steering wheel as the vehicle drives along a straight road through a vast, open landscape at sunset, with golden light illuminating the horizon. The scene then captures a wide, sweeping view of a field dotted with hay bales under a vibrant orange and pink sky, followed by a quick shot of the car’s side mirror reflecting the sunset, all while the music continues. The music fades as the scene shifts to an indoor setting where a woman in a brown sweater with a zigzag pattern stands on a small stage, holding a plate, while a man in a grey sweater records her with a phone. The final segment takes place in a cozy restaurant or café, where the Woman with Purple-Blonde Hair, now in a brown collared shirt with black trim, is seen eating a small piece of food on a stick, smiling, and then taking a sip from a small glass, her face lit with joy. During this, she is heard asking, \"Do you chew it? Or do I just swallow it?\" and reacting to the texture, exclaiming, \"Oh. Nope. I'm not. Nope. I can't. I can't. I can't. I can't. The texture. It's in my mouth.\" Someone else comments, \"Shot tastes good after that,\" and \"This alcohol,\" followed by a sound of a plate being hit or dropped and laughter, as she wears multiple rings and black nail polish against a background of warm lighting, wooden tables, and framed artwork."
+      ]
+    },
+    {
+      "event_id": 17,
+      "start_minute": 29,
+      "end_minute": 31,
+      "summary": "In a warmly lit restaurant, the Woman with Purple-Blonde Hair, wearing a brown collared shirt, humorously declared she'd eaten poisonous green moon shark, playfully accusing the Man with Phone of trying to poison them. Despite his description of the fish soup as 'kinda thick,' she found it 'good.' The scene shifted to a group, including a Woman in Brown Sweater on a small stage, before returning to a close-up of a plated meal featuring a poached egg, salad, and pastry. Outdoors at night, the Woman with Purple-Blonde Hair, now in a beige hooded jacket, marveled at the vibrant green and purple Northern Lights while ethereal instrumental music played. Excited gasps and exclamations, including 'Oh my God!' and 'This just got a 1,000 times better,' accompanied the dancing auroras, with on-screen text expressing similar awe. The scene transitioned to a café interior with a red tractor tire decoration, then to a scenic roadside landscape viewed from a moving vehicle, as the Woman with Purple-Blonde Hair narrated about their early start, breakfast, and a visit to waterfalls. The narrative then focused on a challenging day with waterproof and windproof gear, enduring strong winds and getting wet, driving on a gravel road toward a distant waterfall. The Woman with Purple-Blonde Hair stood beside the powerful waterfall, its rushing sound prominent, and later sat in a moss-covered rock alcove, laughing and shielding her face from the mist. She was seen hiking up a steep, grassy trail, her backpack visible, with wind and waterfall sounds persisting. Aerial shots revealed a rushing river and a panoramic view of the waterfall with mist and a rainbow. The woman stood close to the waterfall's edge, her face illuminated by the mist, and carefully stepped across wet, mossy rocks near the base with other hikers visible. She exclaimed, 'Look at this,' and 'So cool,' embracing the mist and gesturing dramatically. Walking along the rocky, wet path, she noted, 'Nobody else is down here. For good reason, it's so wet,' and emphasized, 'You always gotta go the path less traveled.' She danced and laughed joyfully in the spray, spinning and exclaiming 'Woo!' amidst the constant roar of the waterfall, the mist, vibrant green moss, grey rocks, and soft sunlight.",
+      "involved_entities": {
+        "Plated Meal": {
+          "description": "A gourmet dish on a yellow plate featuring a poached egg, colorful salad with microgreens, and a golden-brown pastry, garnished with fresh herbs, placed on a dark tablecloth with cutlery beside it.",
+          "attribute": "visual"
+        },
+        "On-Screen Text": {
+          "description": "White text appearing on screen during the Northern Lights sequence, reading 'I wish I had a camera out.', 'This just got a 1,000 times better.', and 'I'm so glad I came out.', reinforcing the spoken awe and excitement.",
+          "attribute": "audio-visual"
+        },
+        "Restaurant Interior": {
+          "description": "A cozy indoor space with warm lighting, wooden tables, and a high ceiling with exposed beams, where the Woman with Purple-Blonde Hair speaks to the camera and a group of people are seen at a table.",
+          "attribute": "visual"
+        },
+        "Scenic Roadside Landscape": {
+          "description": "A wide, open grassy plain with distant hills and a gravel road leading toward the waterfall, visible through the car’s windshield during the drive, with the sound of strong wind accompanying the journey.",
+          "attribute": "audio-visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman wearing a beige hooded jacket, black knitted beanie, and carrying a backpack, seen smiling beside a waterfall, sitting in a rock alcove, hiking uphill, and navigating rocky terrain near the waterfall’s base. In this segment, she is actively engaging with the waterfall, moving through the mist, gesturing, laughing joyfully, and expressing excitement with an enthusiastic voice, exclaiming phrases such as 'Look at this,' 'So cool,' 'Nobody else is down here. For good reason. It’s so wet,' 'Look how cool,' and 'You always gotta go the path less traveled.'",
+          "attribute": "audio-visual"
+        },
+        "Café Interior": {
+          "description": "A modern café with wooden accents and a slatted ceiling, featuring a red tractor tire as a decorative element, a table with a red cup, milk, and a plate of breakfast food, and other patrons seated in the background.",
+          "attribute": "visual"
+        },
+        "Man with Phone": {
+          "description": "A man with short grey hair wearing a grey knitted sweater, holding a smartphone to record the woman on stage, who also speaks, identifying a dish as \"Fish soup\" and noting its \"kinda thick\" consistency, and revealing they ate \"green moon shark\" which is \"poisonous.\"",
+          "attribute": "audio-visual"
+        },
+        "Northern Lights": {
+          "description": "Vibrant green and purple auroras dancing across the night sky, visible over trees and buildings, eliciting excited gasps and exclamations of \"Oh my God!\" and \"This just got a thousand times better!\" from observers, accompanied by a gentle, ethereal instrumental music.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Brown Sweater": {
+          "description": "A woman with blonde hair wearing a brown sweater with a yellow zigzag pattern, standing on a small stage holding a plate, being filmed by a man with a phone.",
+          "attribute": "visual"
+        },
+        "Hiking Group": {
+          "description": "A group of hikers, including the woman, seen navigating rocky paths near the waterfall, with some individuals visible in the background stepping across rocks. In this segment, they are seen at a distance, observing the waterfall and moving along the path, adding to the sense of shared adventure and exploration.",
+          "attribute": "visual"
+        },
+        "Waterfall Scene": {
+          "description": "A powerful waterfall cascading down a moss-covered cliff, generating mist and a visible rainbow in the spray, viewed from multiple angles including aerial, close-up, and from behind the woman. The waterfall is central to the scene, with its constant flow and prominent roaring sound creating a dynamic and immersive environment.",
+          "attribute": "audio-visual"
+        },
+        "Rugged Outdoor Terrain": {
+          "description": "A grassy, rocky landscape with moss-covered rocks and steep trails, under a cloudy sky, serving as the backdrop for hiking and exploration, characterized by the constant sound of strong wind.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a warmly lit restaurant with a high ceiling, where the Woman with Purple-Blonde Hair, with her hair pulled back and wearing a brown collared shirt, speaks directly to the camera, exclaiming, \"I put the fish in my mouth!\" Laughter and chatter fill the background as a Man with Phone reveals, \"We just ate green moon shark... and it's poisonous,\" prompting the Woman with Purple-Blonde Hair to jokingly accuse, \"Our tour guide's trying to poison us!\" She then asks about a dish, which the Man with Phone identifies as \"Fish soup,\" noting its \"kinda thick\" consistency, though she finds it \"good.\" The scene cuts to a group at a table, including a Woman in Brown Sweater on a small stage being filmed, before returning to the Woman with Purple-Blonde Hair. A close-up then showcases a beautifully plated meal on a yellow plate, featuring a poached egg, colorful salad, and a golden-brown pastry. The screen transitions to black, then to the Woman with Purple-Blonde Hair outdoors at night, now in a beige hooded jacket, smiling under a sky illuminated by vibrant green and purple auroras. A gentle, ethereal instrumental music begins as she whispers in voiceover, \"I'm out here. It is midnight, and we're looking at the Northern Lights. Probably cannot see them on the camera. I will insert photos.\" The camera pans across the dynamically moving Northern Lights, accompanied by excited gasps and exclamations from her and another female voice, \"Oh my God!\" and \"I know!\" On-screen text appears, expressing awe: 'I wish I had a camera out.', 'This just got a 1,000 times better.', and 'I'm so glad I came out.' The auroras continue to dance, with the Woman with Purple-Blonde Hair exclaiming, \"This just got a thousand times better. Look at it!\" and asking, \"Shana, were you calling me?\" The screen fades to black with 'DAY 4' appearing. The instrumental music continues as the scene shifts to a café interior with wooden tables and a red tractor tire decoration, then to a wide landscape view from a moving vehicle, showing a grassy plain under a cloudy sky with distant snow-capped mountains. The Woman with Purple-Blonde Hair narrates in voiceover, \"Day 4, we got up nice and early and ate some brekky, and then we went off to see some waterfalls, which I loved. And boy, am I glad I brought...\", as the car sounds and music fade out, indicating a scenic drive.",
+        "The video opens with a sweeping view of a vast, golden grassland under a dramatic, cloudy sky, accompanied by the constant sound of strong wind. A female voice sets the scene, remarking on the challenging conditions, stating they \"got waterproof and windproof gear this day. We got wet and just pounded by the wind.\" This transitions to a first-person perspective from inside a moving vehicle, with the wind continuing to howl, as it drives along a gravel road toward a distant waterfall nestled between rolling hills. The scene shifts to a woman wearing a beige hooded jacket and a black knitted beanie, smiling as she stands beside the powerful waterfall, whose distinct rushing sound now becomes prominent. She is then seen sitting inside a moss-covered rock alcove, laughing and shielding her face from the mist, with a voice exclaiming, \"It's cool.\" She is later seen from behind, hiking up a steep, grassy trail toward a glowing horizon, her backpack visible as she ascends, the wind and waterfall sounds persisting. The camera then captures wide aerial shots of a rushing river cutting through the landscape, followed by a panoramic view of the waterfall from a distance, with mist rising and a rainbow forming in the spray, the roar of the falls ever-present. The woman reappears, standing close to the waterfall’s edge, her face illuminated by the mist, before the video ends with a dynamic shot of her carefully stepping across wet, mossy rocks near the base of the falls, with other hikers visible in the background, the sounds of the powerful waterfall and wind accompanying her movements.",
+        "The segment opens with a sweeping view of a powerful waterfall cascading down a moss-covered cliff, its constant, roaring sound filling the audio, generating a thick mist that rises into the air and creates a visible rainbow in the spray. The camera pans across the scene, capturing the raw energy of the water hitting the pool below and the lush greenery clinging to the rocky terrain. The Woman with Purple-Blonde Hair appears, smiling broadly at the camera, her beige hooded jacket and black knitted beanie protecting her from the spray, exclaiming with an enthusiastic voice, \"Look at this,\" and \"So cool.\" As she moves closer to the waterfall, she gestures dramatically, embracing the mist and the natural power around her, adding \"Ooh, so cool.\" The camera follows her as she walks along the rocky, wet path beside the falls, where other hikers are visible in the background, some stepping carefully across rocks. She comments, \"Nobody else is down here. For good reason, it's so wet,\" and adds, \"Look how cool,\" then emphasizing her adventurous spirit, \"You always gotta go the path less traveled, you know?\" She continues to dance and laugh joyfully in the spray, raising her arms and spinning, fully immersed in the moment, repeatedly exclaiming \"Woo!\" and \"So cool\" amidst her laughter. The environment is dynamic, with the constant roar of the waterfall, the mist enveloping the scene, and the vibrant green moss contrasting with the grey rocks and blue sky. The lighting is natural, with soft sunlight filtering through the clouds, enhancing the ethereal quality of the mist and rainbow, creating an overall atmosphere of awe, joy, and connection with nature."
+      ]
+    },
+    {
+      "event_id": 18,
+      "start_minute": 32,
+      "end_minute": 32,
+      "summary": "The Woman with Purple-Blonde Hair, wearing a beige hooded jacket and black knitted beanie, stands beside a powerful waterfall, exclaiming about the cold and the mist, humorously considering returning for hot chocolate but acknowledging the experience is worth it. As a male voice mentions arriving at the next location, she notes the intensifying cold. The camera pans to reveal the waterfall cascading through a moss-covered gorge, and she carefully navigates the wet, rocky terrain, balancing on slippery rocks with exclamations of surprise and excitement. Upon reaching the waterfall's base, she triumphantly declares, \"We made it!\" and expresses awe, noting her hands are numb but reiterating the experience is worthwhile, before mentioning she will insert photos. The scene shifts to a wide shot of her in front of the waterfall, then transitions to a view from inside a moving car, showcasing a vast, open grassy landscape under a partly cloudy sky. Inside the car, she smiles, commenting on the wind and the scenery, and the segment concludes with a close-up of her face, eyes wide with wonder, reflecting serenely on the adventure.",
+      "involved_entities": {
+        "Scenic Roadside Landscape": {
+          "description": "A wide, open grassy plain with distant hills and a gravel road leading toward the waterfall, visible through the car’s windshield during the drive. The landscape is expansive and serene, with a partly cloudy sky overhead, and the woman comments on the strong wind in this environment.",
+          "attribute": "audio-visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman wearing a beige hooded jacket, black knitted beanie, and carrying a backpack, seen smiling beside a waterfall, navigating rocky terrain, and expressing excitement with on-screen text such as 'I'm so cold,' 'Look at this,' 'So cool,' 'We made it,' and 'Worth it though.' Her face is wet from the waterfall mist, and she gestures triumphantly with raised arms. Her clear, expressive voice conveys both discomfort from the cold and excitement/awe, exclaiming, 'Oh, it's so cold!', 'I'm going back. I'm gonna go get a hot chocolate.', 'It's worth it though.', 'It's getting worse.', 'Oh!', 'I'm gonna like balance on the rocks.', 'Woo!', 'Oh, oh, oh.', 'We made it!', 'So cool, dude. Holy shit, can't feel my hands.', 'Worth it though.', 'I'll insert some photos here.', 'It's like coming through the roof,' and 'It's so windy.'",
+          "attribute": "audio-visual"
+        },
+        "Car Dashboard": {
+          "description": "A view from inside a moving car, showing a hand in an orange sleeve on the steering wheel, driving through a vast, open landscape at sunset, with the dashboard and rearview mirror visible. The car’s interior is briefly shown as the woman looks out the window, commenting on the wind 'coming through the roof' and 'It's so windy,' indicating the car is moving through a windy environment. A male voice is also heard briefly from inside the car.",
+          "attribute": "audio-visual"
+        },
+        "Waterfall Scene": {
+          "description": "A powerful waterfall cascading down a moss-covered cliff, generating heavy mist and a visible rainbow in the spray, viewed from multiple angles including close-up and from behind the woman. The waterfall is central to the scene, with its constant loud rushing sound and mist creating a dynamic and immersive environment.",
+          "attribute": "audio-visual"
+        },
+        "Rugged Outdoor Terrain": {
+          "description": "A grassy, rocky landscape with moss-covered rocks and steep trails, under a cloudy sky, serving as the backdrop for hiking and exploration. The terrain is wet and slippery, requiring careful navigation near the waterfall’s base, as the woman describes balancing on the rocks.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with the loud, rushing sound of a powerful waterfall as the Woman with Purple-Blonde Hair, bundled in a beige hooded jacket and black knitted beanie, stands beside it, exclaiming, \"Oh, it's so cold!\" The heavy mist from the waterfall sprays around her, prompting her to jokingly declare, \"I'm going back. I'm gonna go get a hot chocolate,\" though she quickly adds, \"It's worth it though.\" A male voice is briefly heard saying, \"We're at the next one,\" before she comments, \"It's getting worse,\" likely referring to the intensifying cold. Atmospheric music begins to play as the camera pans to reveal the waterfall cascading through a narrow, moss-covered gorge. The woman carefully navigates the wet, rocky terrain, balancing on the slippery rocks, exclaiming \"Oh!\" and \"Woo!\" as she moves closer to the base. She expresses awe with \"Oh, oh, oh\" while the mist soaks her. Upon successfully reaching a spot near the waterfall’s base, she raises her arms triumphantly, declaring, \"We made it!\" and \"Woo!\" She then adds, \"So cool, dude. Holy shit, can't feel my hands,\" but reaffirms, \"Worth it though,\" before mentioning, \"I'll insert some photos here.\" The scene transitions to a wide shot of her standing with arms outstretched in front of the waterfall, framed by the rocky cliff, with the music continuing and the waterfall sound fading. The video then cuts to a view from inside a moving car, showing a vast, open grassy landscape under a partly cloudy sky. The woman is briefly visible in the passenger seat, smiling and looking out the window, commenting, \"It's like coming through the roof,\" and \"It's so windy,\" as the car travels. The final shot is a close-up of her face inside the car, her eyes wide with wonder as she gazes upward, capturing a moment of serene reflection after the adventure."
+      ]
+    },
+    {
+      "event_id": 19,
+      "start_minute": 33,
+      "end_minute": 34,
+      "summary": "Inside a moving vehicle, the Woman with Purple-Blonde Hair, wearing a black knitted beanie, grey scarf, and beige hooded jacket, animatedly commented on the possibility of the bus going off the road, referencing a white bus seen ahead on the scenic roadside landscape. The vehicle then stopped, and she observed the bus interior, noting passengers with backpacks and explaining they paused for lunch at a restaurant due to strong winds. Following a scenic view of a green valley and a meal of soup, milk, and bread, she ventured outside near a gravel parking lot with a bus and cars, expressing trepidation about the wind but a desire to experience it. Later, under hanging Edison bulbs, she transitioned to an outdoor shot, laughing joyfully with her hood up and backpack visible against a cloudy sky, the sound of strong wind accompanying her exuberant laughter. Amidst the constant roar of strong wind on rugged, grassy terrain, she struggled to maintain balance, exclaiming \"Oh my god!\" and \"Shit,\" while navigating towards a powerful waterfall. Despite the mist described as \"like shards of glass hitting your face,\" and questioning if it was worth it, she stood at the waterfall's base with arms outstretched, visibly thrilled by the raw beauty of the Icelandic wilderness.",
+      "involved_entities": {
+        "Meal on Table": {
+          "description": "A table setting with a bowl of soup, a glass of milk, a plate with bread and butter, and a small container of butter, arranged on a wooden surface.",
+          "attribute": "visual"
+        },
+        "Outdoor Parking Area": {
+          "description": "A gravel parking lot with a white bus, a white van, and several cars, surrounded by sparse trees and hills, where people are seen walking and gathering.",
+          "attribute": "visual"
+        },
+        "Scenic Roadside Landscape": {
+          "description": "A wide, open grassy plain with distant hills and a gravel road leading toward the horizon, visible through the vehicle’s windshield during the drive, under a partly cloudy sky.",
+          "attribute": "visual"
+        },
+        "Scenic View of Water": {
+          "description": "A vast body of water under a dramatic sky with sunbeams breaking through clouds, viewed from the vehicle’s window, with a grassy shoreline in the foreground.",
+          "attribute": "visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman wearing a black knitted beanie, a beige hooded jacket, and a backpack, laughing and speaking animatedly to the camera while battling strong winds in a rugged outdoor setting. Her exclamations like \"Oh my god!\", \"Shit!\", \"Holy shit!\", and direct speech such as \"I'm trying to go that way,\" \"Not even phased,\" \"It's like a thousand degrees!\", \"It's so windy!\", \"it's calmed down right now for a sec. Oh, it's... I got behind this thing. So it's not as windy here,\" \"like shards of glass hitting your face,\" \"Was it worth it? Probably not,\" and \"I just gotta get some of it\" reveal her adventurous, humorous, and slightly overwhelmed personality as she embraces the challenging experience, eventually reaching a powerful waterfall where she stands with arms outstretched in exhilaration.",
+          "attribute": "audio-visual"
+        },
+        "Car Dashboard": {
+          "description": "A view from inside a moving vehicle, showing the road ahead with a white bus and a rugged mountain in the distance, and later a wide expanse of water under a dramatic sky with sunbeams breaking through clouds.",
+          "attribute": "visual"
+        },
+        "Bus Interior": {
+          "description": "The interior of a moving bus with black seats, overhead compartments, and passengers visible in the background, including some with backpacks, as the woman turns to look around, and she mentions the bus 'shaking' while parked.",
+          "attribute": "audio-visual"
+        },
+        "Hanging Edison Bulbs": {
+          "description": "Warm, glowing Edison-style light bulbs hanging from the ceiling, illuminating the woman’s face as she smiles indoors.",
+          "attribute": "visual"
+        },
+        "Rugged Outdoor Terrain": {
+          "description": "An open, grassy landscape with rolling hills, sparse vegetation, and a gravel road in the distance, under a cloudy sky, where the woman walks and struggles against the wind before reaching the waterfall. The constant strong wind sounds and the woman's comments about the wind ('It's so windy!', 'it's calmed down right now for a sec', 'So it's not as windy here') highlight the challenging nature of the environment.",
+          "attribute": "audio-visual"
+        },
+        "Waterfall Scene": {
+          "description": "A massive, misty waterfall cascading down a moss-covered cliff, generating heavy spray and fog, with the Woman with Purple-Blonde Hair standing at its base, arms outstretched, embracing the powerful natural force. The audible roar of the waterfall and the woman's description of the mist as 'shards of glass hitting your face' emphasize its intense and harsh conditions.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with the Woman with Purple-Blonde Hair, wearing a black knitted beanie, grey scarf, and beige hooded jacket, speaking animatedly to the camera inside a moving vehicle, exclaiming, \"It's like blowing the bus off the road!\" as the vehicle travels through a vast, open landscape with grassy plains and distant mountains under a partly cloudy sky. The camera briefly pans to show the road ahead, revealing a white bus and a rugged mountain in the distance, with the woman adding, \"Oh! There's a bus that went off the road. So, hopefully ours doesn't do that.\" The scene shifts to a view from the vehicle’s window, capturing a wide expanse of water under a dramatic sky with sunbeams breaking through clouds, as she continues, \"We're parked and the bus is shaking. I don't know, that was a question. Maybe the restaurant or somewhere.\" She then turns her head to look around the bus interior, where other passengers are visible, some with backpacks, explaining, \"The wind was getting a little too strong, so we stopped for some lunch at this cute little restaurant.\" The video then cuts to a scenic view of a green valley with a prominent mountain, followed by a meal of soup, a glass of milk, and a plate with bread and butter. People are then seen walking outside near a gravel parking lot with a bus and cars, set against a backdrop of hills and sparse trees, with the woman commenting, \"These people. Oh no. So windy. I'm going to try to go out there right now. I'm terrified, but let's try it.\" The woman reappears, smiling warmly under warm, hanging Edison bulbs, then transitions to an outdoor shot where she laughs joyfully, her hood up and backpack visible, against a cloudy sky, accompanied by the sound of strong wind and her exuberant laughter, her face lit with excitement as she stands outdoors, clearly enjoying the moment.",
+        "The video opens with the Woman with Purple-Blonde Hair, laughing joyfully into the camera, wearing a black knitted beanie, beige hooded jacket, and backpack, clearly enjoying the extremely windy outdoor environment. Amidst the constant roar of strong wind, she exclaims \"Oh my god!\" and struggles to maintain balance, leaning into the wind and using her arms for stability, while on-screen text emphasizes 'It’s a tad windy!' and 'It’s so windy.' She speaks directly to the camera, her face animated and expressive, stating \"I'm trying to go that way\" and \"Shit,\" as she navigates the rugged, grassy terrain under an overcast sky. Despite the harsh conditions, she humorously declares \"Not even phased,\" before exclaiming \"Oh! Oh my god!\" again, and then \"It's like a thousand degrees!\" She continues to battle the wind, reiterating \"It's so windy!\" but notes a brief respite, \"it's calmed down right now for a sec. Oh, it's... I got behind this thing. So it's not as windy here.\" As she moves toward a powerful waterfall, the mist rising heavily around her, she describes the spray as \"like shards of glass hitting your face,\" before exclaiming \"Holy shit!\" She then asks, \"Was it worth it? Probably not,\" with a mix of exhilaration and disbelief, but then adds, \"I just gotta get some of it.\" As she reaches the base of the waterfall, its powerful roar audible, she stands with arms outstretched, embracing the mist and spray, visibly thrilled despite the harsh conditions. The surrounding landscape features rolling hills, sparse vegetation, and a distant road with parked cars, indicating a remote, natural setting, all contributing to her adventurous spirit and the raw beauty of the Icelandic wilderness, with the waterfall serving as a dramatic backdrop to her joyful, wind-blown experience."
+      ]
+    },
+    {
+      "event_id": 20,
+      "start_minute": 35,
+      "end_minute": 38,
+      "summary": "A Woman with Purple-Blonde Hair, clad in a beige hooded jacket, black knitted beanie, and gloves, stands at the base of a massive, misty waterfall, arms outstretched in exhilaration amidst the dominant sounds of strong wind and water spray, exclaiming, \"I never felt so bullied by mother nature!\" and \"You're trying to fight her! Fight mother nature!\" The scene transitions from wide shots of the rugged, moss-covered landscape to a close-up of her smiling face inside a moving vehicle, with an upbeat acoustic guitar track playing. Later, she explains that roads are closed due to a tipped-over bus and a recent earthquake near a volcano, leading to a hike. She excitedly discovers a waterfall, noting less wind there, and describes the canyon as gorgeous and beautiful, feeling she is \"ruining it by being in it.\" She walks energetically along a rocky path, reaching a vantage point to embrace the powerful, misty waterfall, her small figure emphasized against the vast, untamed terrain under an overcast sky. She later remarks, \"I think this is the fourth waterfall of today,\" and spots a dog. Standing close to the waterfall, she stretches her arms out, embracing the mist and wind, laughing excitedly and exclaiming, \"We got mist! Yeah! Woo!\" A first-person view shows her hiking boots on wet, mossy rocks, emphasizing the rugged terrain. A small group of hikers is visible in the distance, adding scale to the remote landscape, as she is heard saying, \"I don't think I was supposed to...\" The narrative concludes with her standing outside with a corrugated metal wall behind her, stating, \"So, update, we are...\" as on-screen text indicates, 'We are currently stuck.'",
+      "involved_entities": {
+        "Rugged Outdoor Terrain": {
+          "description": "An open, grassy landscape with rolling hills, sparse vegetation, and a gravel road in the distance, under a cloudy sky, where the Woman with Purple-Blonde Hair walks and struggles against the wind before reaching the waterfall, now seen from a close, immersive perspective at the base of the falls.",
+          "attribute": "visual"
+        },
+        "Car Dashboard": {
+          "description": "A view from inside a moving vehicle, showing the road ahead with a white bus and a rugged mountain in the distance, and later a wide expanse of water under a dramatic sky with sunbeams breaking through clouds.",
+          "attribute": "visual"
+        },
+        "Scenic Roadside Landscape": {
+          "description": "A wide, open grassy plain with distant hills and a gravel road leading toward the horizon, visible through the vehicle’s windshield during the drive, under a partly cloudy sky.",
+          "attribute": "visual"
+        },
+        "Waterfall Scene": {
+          "description": "A massive, misty waterfall cascades down moss-covered cliffs, generating heavy spray and fog, its powerful roar dominating the audio. The Woman with Purple-Blonde Hair stands at its base, arms outstretched, embracing the natural force, with rocky terrain and lush green hills visible in the background.",
+          "attribute": "audio-visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with purple-blonde hair, wearing a black knitted beanie, a dark hooded jacket, and sunglasses perched on her head, stands at the base of a massive waterfall, arms outstretched, embracing the mist and wind. She smiles at the camera, her blonde hair peeking from under the beanie, and is heard commenting, 'Not a bad view,' and later, 'I don't think I was supposed to...'",
+          "attribute": "audio-visual"
+        },
+        "Hiking Group": {
+          "description": "A group of hikers, including the Woman with Purple-Blonde Hair, seen navigating rocky paths near the waterfall, with some individuals visible in the background stepping across rocks and observing the falls, adding to the sense of shared adventure and exploration.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with an upbeat, slightly melancholic acoustic guitar track playing as a Woman with Purple-Blonde Hair, dressed in a beige hooded jacket, black knitted beanie, and gloves, stands at the base of a massive, misty waterfall. She battles powerful spray and wind, arms outstretched in exhilaration, with the prominent sound of strong wind and water spray dominating the audio. The scene shifts to wide shots of the rugged, moss-covered landscape, emphasizing nature's raw power. The woman then speaks directly to the camera, visibly affected by the intense wind, exclaiming amidst laughter and the howling wind, \"I never felt so bullied by mother nature!\" and \"You're trying to fight her! Fight mother nature!\" On-screen text reinforces her sentiment: 'I never felt so bullied by mother nature.' and 'You're trying to fight her.' Her expression is a mix of awe and struggle as she gestures dramatically. The camera then pans to a wide, open road under a cloudy sky, transitioning to a close-up of her smiling face inside a moving vehicle, the acoustic music continuing. The final shot shows her standing outside with a corrugated metal wall behind her, speaking to the camera, \"So, update, we are...\" as on-screen text appears: 'We are currently stuck.', indicating a pause or difficulty in their journey.",
+        "The video opens with the Woman with Purple-Blonde Hair, wearing a black beanie and beige jacket, speaking animatedly to the camera in a windy outdoor setting. She recounts dramatic events, explaining that roads are closed because a bus tipped over, and mentions a recent earthquake near a volcano that hasn't erupted in 50 years, stating, \"So, they're on watch for that.\" She then declares, \"So, we're just gonna go on our little hike to pass the time for now. So yeah, let's go do that.\" As acoustic background music begins, the scene transitions to a wide view of a rugged, moss-covered landscape. The woman reappears, now wearing sunglasses, excitedly exclaiming, \"Found the waterfall! Gorgeous. Beautiful. Look at this canyon.\" She notes, \"Little less wind here, which is nice,\" before adding, \"Ah, so awesome. Looks fake. I'm ruining it by being in it.\" She walks energetically along the rocky path, reaching a vantage point where she stands with arms outstretched, embracing the powerful, misty waterfall, her small figure emphasized against the vast, untamed terrain under an overcast sky, fully immersed in the natural spectacle as the music continues.",
+        "The video opens with a wide shot of a powerful waterfall cascading down a moss-covered cliff, generating heavy mist and spray, set to a gentle acoustic guitar melody. The rugged terrain is dotted with dark rocks and vibrant yellow-green moss. The Woman with Purple-Blonde Hair, wearing a black knitted beanie, a beige hooded jacket, and sunglasses, appears in a selfie-style shot, speaking animatedly to the camera over the sound of rushing water. She exclaims, \"I think this is the fourth waterfall of today,\" indicating a day-long adventure, adding, \"It's really pretty.\" She then points excitedly, shouting \"There's a dog!\" as she spots someone in the distance. The camera pans up the waterfall, capturing its full height and the mist rising into the sky, with sunlight breaking through the clouds. As the woman moves closer to the base of the falls, the sound of the powerful cascade intensifies, mixed with wind. She stands with arms outstretched, embracing the mist and wind, her silhouette highlighted against the powerful cascade, laughing excitedly and exclaiming, \"We got mist! Yeah! Woo!\" The scene emphasizes her raw, immersive experience, fully engaged in nature's force.",
+        "The minute opens with a dramatic, misty view from behind a powerful waterfall, framed by rugged, moss-covered cliffs, its immense roar filling the audio space, accompanied by ambient instrumental music. As the camera slowly reveals the full cascade, a figure, the Woman with Purple-Blonde Hair, walks into the frame, silhouetted against the spray and sunlight. She wears a black knitted beanie and a dark hooded jacket, her blonde hair peeking out, and turns to the camera with a smile. Standing close to the waterfall, she stretches her arms out, embracing the mist and wind, fully immersed in the natural force. She comments, 'Not a bad view,' over the continuous sound of rushing water. The camera pans around, capturing the sheer volume of water crashing down, the rocky terrain below, and lush green hills in the distance under a partly cloudy sky. A first-person view shows her hiking boots stepping on wet, mossy rocks, emphasizing the rugged terrain. The camera then tilts upward to show the waterfall’s full height and surrounding cliffs, before panning to a wide view of the valley and river flowing away. In the background, a small group of hikers adds a sense of scale to this remote, wild landscape, as the woman is heard saying, 'I don't think I was supposed to...' before the segment ends, maintaining the dynamic movement of water, mist, and camera throughout."
+      ]
+    },
+    {
+      "event_id": 21,
+      "start_minute": 39,
+      "end_minute": 39,
+      "summary": "The Woman with Purple-Blonde Hair, wearing a black knitted beanie, dark hooded jacket, and backpack, stood near a powerful waterfall, her face alight with excitement as she told the camera, 'Now I gotta go back over there,' amidst the roar of rushing water. She then walked towards the waterfall, arms outstretched, embracing the mist and spray. The scene shifted to a wide shot of the rugged, moss-covered cliff face with the waterfall cascading down, its powerful sound dominating. The woman reappeared near the base of the falls, smiling and gesturing toward the water. The setting transitioned to a wide, open grassy field with sheep grazing, where she commented, 'My tour guide got mad at me,' laughing and calling them 'Fuzzy sheep.' Upbeat instrumental music began as the camera panned across the expansive landscape of rolling hills and distant mountains. Inside a moving vehicle, the woman held an ice cream cone, took a bite, and expressed delight, saying, 'It's good.' She then narrated, 'So I enjoyed my ice cream and reminisced about all the beautiful waterfalls I saw that day and then we headed back to the hotel and had some lovely dinner. And then, Day 5!' The video returned to the waterfall from a different angle, showing water crashing into a pool below, surrounded by mossy rocks, with the sound of rushing water returning. A title card appeared: 'DAY 5,' as the woman stood triumphantly with arms raised in front of the waterfall. The final shot, accompanied by soft acoustic guitar music, showed a modest white building labeled 'MOTTAKA RECEPTION' at dusk, with warm interior lights glowing, as the camera panned across a wide, open landscape under a golden sky.",
+      "involved_entities": {
+        "Rugged Outdoor Terrain": {
+          "description": "An open, grassy landscape with rolling hills, sparse vegetation, and a gravel road in the distance, under a cloudy sky, where the Woman with Purple-Blonde Hair walks and struggles against the wind before reaching the waterfall, now seen from a close, immersive perspective at the base of the falls.",
+          "attribute": "visual"
+        },
+        "Scenic Roadside Landscape": {
+          "description": "A wide, open grassy plain with distant hills and a gravel road leading toward the horizon, visible through the vehicle’s windshield during the drive, under a partly cloudy sky.",
+          "attribute": "visual"
+        },
+        "MOTTAKA RECEPTION": {
+          "description": "A modest white building with a gabled roof, illuminated from within, featuring a sign above the entrance that reads 'MOTTAKA RECEPTION' in black lettering, set against a twilight sky with warm interior lighting.",
+          "attribute": "visual"
+        },
+        "Waterfall Scene": {
+          "description": "A massive, misty waterfall cascading down moss-covered cliffs, generating a continuous, powerful sound of rushing water and heavy spray and fog, with the Woman with Purple-Blonde Hair standing at its base, arms outstretched, embracing the powerful natural force, and the surrounding rocky terrain and green hills visible in the background.",
+          "attribute": "audio-visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with a clear, excited voice, wearing a black knitted beanie, a dark hooded jacket, and a backpack, is seen speaking directly to the camera, laughing, and later narrating her day's activities including enjoying ice cream and reminiscing about waterfalls, before posing triumphantly in front of a waterfall with arms raised. She also comments on her 'tour guide' and calls sheep 'Fuzzy sheep'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with the Woman with Purple-Blonde Hair, dressed in a black knitted beanie, dark hooded jacket, and backpack, standing close to a powerful waterfall. Her face is lit with excitement as she speaks directly to the camera, stating, 'Now I gotta go back over there,' her words accompanied by the constant roar of rushing water. She then turns and walks toward the waterfall, arms outstretched, embracing the mist and spray. The scene shifts to a wide shot of the rugged, moss-covered cliff face with the waterfall cascading down, its powerful sound dominating the audio. The woman reappears near the base of the falls, smiling and gesturing toward the water. The setting transitions to a wide, open grassy field with sheep grazing, where she comments, 'My tour guide got mad at me,' followed by a laugh, as she affectionately calls them 'Fuzzy sheep.' Upbeat instrumental music begins as the camera pans across the expansive landscape of rolling hills and distant mountains. Inside a moving vehicle, the woman is seen holding an ice cream cone and taking a bite, expressing delight with a simple 'It's good.' She then narrates, 'So I enjoyed my ice cream and reminisced about all the beautiful waterfalls I saw that day and then we headed back to the hotel and had some lovely dinner. And then, Day 5!' The video returns to the waterfall, now from a different angle, showing the water crashing down into a pool below, surrounded by mossy rocks, with the sound of rushing water returning. A title card appears: 'DAY 5,' as the woman stands triumphantly with arms raised in front of the waterfall. The final shot, accompanied by soft acoustic guitar music, shows a modest white building labeled 'MOTTAKA RECEPTION' at dusk, with warm interior lights glowing, and the camera pans across a wide, open landscape under a golden sky, suggesting the end of a day of exploration."
+      ]
+    },
+    {
+      "event_id": 22,
+      "start_minute": 40,
+      "end_minute": 40,
+      "summary": "A woman, initially seen inside a vehicle wearing a grey knitted beanie with 'XGBOY' branding and sunglasses, gazes serenely at a blurred landscape as atmospheric music plays. The scene shifts to a wide, sweeping panoramic view of a glacial lagoon at sunrise or sunset, illuminated by golden light, with icebergs floating in calm water and a massive glacier front against rocky, moss-covered hills. A hiking group, including the woman now equipped with a blue helmet, beige puffer jacket, black pants, hiking boots, and a teal ice axe, walks along the rocky shore towards the glacier. As they step onto the cracked glacier surface, the woman, smiling and speaking with awe, apologizes for not filming more, expressing hope that the captured footage is enjoyable. The group continues across the icy terrain, with the woman sometimes leading, as the camera alternates between wide shots of their journey and close-ups of her awestruck face under an overcast but bright sky, all accompanied by the continuous atmospheric music. The segment concludes as the woman announces, \"Going back down.\"",
+      "involved_entities": {
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman with purple-blonde hair, wearing a blue helmet, grey knitted beanie, beige puffer jacket, black pants, and hiking boots, holding a teal ice axe, walking across a glacier with a group of hikers. She occasionally turns to face the camera with a smile, expressing her awe and excitement, stating, 'This was absolutely amazing to see in person, so amazing that I forgot to film a lot of it. I'm really sorry, but I hope you enjoy the footage I did get!' and later, 'Going back down,' her voice conveying a sense of wonder and slight regret about missed filming opportunities.",
+          "attribute": "audio-visual"
+        },
+        "Knitted Beanie": {
+          "description": "A grey knitted beanie with 'XGBOY' branding in black and white, worn by the woman as she explores the volcanic landscape, with sunglasses perched on top.",
+          "attribute": "visual"
+        },
+        "Glacier Surface": {
+          "description": "A vast, cracked, and textured ice field with dark volcanic debris, where the hiking group walks, showcasing the rugged and dynamic nature of the glacier.",
+          "attribute": "visual"
+        },
+        "Glacial Lagoon": {
+          "description": "A calm, milky-blue lagoon surrounded by rocky, moss-covered hills, with floating icebergs and a massive glacier front, captured in wide panoramic shots under golden sunlight.",
+          "attribute": "visual"
+        },
+        "Hiking Group": {
+          "description": "A group of hikers, including the Woman with Purple-Blonde Hair, seen navigating rocky paths near the glacier, with some individuals visible in the background stepping across rocks and observing the ice, adding to the sense of shared adventure and exploration.",
+          "attribute": "visual"
+        },
+        "Ice Axe": {
+          "description": "A teal-colored ice axe with a black head, carried by the Woman with Purple-Blonde Hair as she hikes across the glacier, used for stability and navigation on the icy terrain.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of a woman, wearing a grey knitted beanie with 'XGBOY' branding and sunglasses, gazing upward with a serene expression, likely from inside a vehicle as a blurred landscape passes by, accompanied by a gentle, atmospheric musical track. The scene then transitions to a breathtaking wide, sweeping panoramic view of a glacial lagoon at sunrise or sunset, bathed in golden light, with icebergs floating in the calm water and a massive glacier front visible against rocky, moss-covered hills. The camera pans across this majestic landscape, maintaining the serene music. The perspective shifts to a group of hikers, including the woman now wearing a blue helmet, beige puffer jacket, black pants, and hiking boots, carrying a teal ice axe, as they walk along the rocky shore toward the glacier. As they step onto the cracked, textured glacier surface, the woman occasionally turns to the camera, smiling and speaking, her voice filled with awe. She exclaims, \"This was absolutely amazing to see in person, so amazing that I forgot to film a lot of it. I'm really sorry, but I hope you enjoy the footage I did get!\" The group continues traversing the icy terrain, with the woman sometimes leading, as the camera captures both wide shots of their journey across the glacier and close-ups of her face as she looks around in awe, all set against an overcast but bright sky and the continuous atmospheric music. She then adds, \"Going back down,\" as the segment concludes."
+      ]
+    },
+    {
+      "event_id": 23,
+      "start_minute": 41,
+      "end_minute": 41,
+      "summary": "A Hiking Group, including the Woman with Purple-Blonde Hair, trekked across a debris-covered Glacier Surface under an overcast sky, their crunching footsteps accompanied by a soft, melodic string instrument; equipped with ice axes and blue helmets, they navigated cracked ice, with the Woman with Purple-Blonde Hair smiling. Approaching a deep crevasse, its icy blue depths and dark, rocky edges were revealed, followed by an aerial view emphasizing the glacier's vastness. The scene transitioned to a rocky, volcanic landscape under a clear blue sky, where the group continued across dark, jagged terrain, now accompanied by a distinct, melancholic folk tune on a string instrument. The segment concluded with a wide, panoramic view of the barren, rocky expanse, featuring distant hills and a few hikers, underscoring the environment's isolation and raw beauty as the melancholic music continued.",
+      "involved_entities": {
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman wearing a blue helmet, grey knitted beanie, beige puffer jacket, black pants, and hiking boots, holding an ice axe, walking across a glacier with a group of hikers, occasionally turning to face the camera with a smile.",
+          "attribute": "visual"
+        },
+        "Glacier Surface": {
+          "description": "A vast, cracked, and textured ice field with dark volcanic debris, where the hiking group walks, their crunching footsteps audible on its rugged and dynamic surface.",
+          "attribute": "audio-visual"
+        },
+        "Glacial Lagoon": {
+          "description": "A calm, milky-blue lagoon surrounded by rocky, moss-covered hills, with floating icebergs and a massive glacier front, captured in wide panoramic shots under golden sunlight.",
+          "attribute": "visual"
+        },
+        "Hiking Group": {
+          "description": "A group of hikers, including the Woman with Purple-Blonde Hair, seen navigating rocky paths near the glacier, with some individuals visible in the background stepping across rocks and observing the ice, their crunching footsteps audible as they move, adding to the sense of shared adventure and exploration.",
+          "attribute": "audio-visual"
+        },
+        "Ice Axe": {
+          "description": "A teal-colored ice axe with a black head, carried by the Woman with Purple-Blonde Hair as she hikes across the glacier, used for stability and navigation on the icy terrain.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a group of hikers, including the Woman with Purple-Blonde Hair, trekking across a rugged, debris-covered glacier under an overcast sky, their crunching footsteps echoing softly alongside a gentle, melodic string instrument playing a slow, contemplative tune. Equipped with blue helmets, ice axes, and warm winter gear, they navigate the cracked ice, with the camera capturing close-ups of the Woman with Purple-Blonde Hair smiling and engaging with the environment. As they approach a deep crevasse, the camera pans to reveal its immense scale, showcasing icy blue depths and dark, rocky edges, before shifting to a wide aerial view that emphasizes the vastness of the glacier and the hikers' small figures. The scene then transitions to a rocky, volcanic landscape under a clear blue sky, where the group continues their journey across dark, jagged terrain, now accompanied by a distinct, melancholic folk tune played on a string instrument. The segment concludes with a wide, panoramic view of the barren, rocky expanse, featuring distant hills and a few hikers, underscoring the environment's isolation and raw beauty, as the melancholic music continues."
+      ]
+    },
+    {
+      "event_id": 24,
+      "start_minute": 42,
+      "end_minute": 42,
+      "summary": "The video opens with a bright sun illuminating a breathtaking coastal scene featuring dark volcanic rocks and crashing waves, transitioning to a wide, grassy geothermal field with steam rising from the ground and a distant lighthouse atop a hill. The camera pans across the rugged outdoor terrain under a clear blue sky, then shifts to a dramatic sunset where the sun descends behind a mountain, casting warm golden light over the steam vents. Throughout these scenes, gentle, melodic acoustic guitar music plays as the Woman with Purple-Blonde Hair provides a reflective voiceover, describing her trip to Iceland as \"amazing,\" \"absolutely incredible,\" and \"exactly what I needed.\" She praises Iceland as \"absolutely stunning,\" highlighting the \"nice\" people and \"stellar cuisine,\" noting she had \"eaten a lot of fish\" and enjoyed \"every bite.\" The scene then transitions to a powerful waterfall scene, where the Woman with Purple-Blonde Hair stands at its base, arms outstretched, embracing the mist and spray, before playfully dancing and kicking her hiking-booted feet, fully immersed in the rugged, untamed Icelandic landscape. She concludes her voiceover by expressing hope to return someday, thanking viewers for watching, and promising to see them in the next video.",
+      "involved_entities": {
+        "Rugged Outdoor Terrain": {
+          "description": "An open, grassy landscape with rolling hills, sparse vegetation, and a gravel road in the distance, under a cloudy sky, where the Woman with Purple-Blonde Hair walks and struggles against the wind before reaching the waterfall, now seen from a close, immersive perspective at the base of the falls.",
+          "attribute": "visual"
+        },
+        "Coastal Rocks": {
+          "description": "Large, dark volcanic rocks by the sea, forming jagged formations and sea stacks, with waves crashing against them under a clear blue sky, creating a dramatic natural backdrop.",
+          "attribute": "visual"
+        },
+        "Waterfall Scene": {
+          "description": "A massive, misty waterfall cascading down moss-covered cliffs, generating heavy spray and fog, with the Woman with Purple-Blonde Hair standing at its base, arms outstretched, embracing the powerful natural force, and the surrounding rocky terrain and green hills visible in the background.",
+          "attribute": "visual"
+        },
+        "Woman with Purple-Blonde Hair": {
+          "description": "A woman wearing a blue helmet, grey knitted beanie, beige puffer jacket, black pants, and hiking boots, holding an ice axe, seen walking across a glacier with a group of hikers and later at the base of a powerful waterfall, arms outstretched, playfully dancing and kicking her feet, with close-ups on her hiking boots, fully immersed in the misty, rugged environment. Her voice is heard in a reflective, positive tone, describing her trip to Iceland as 'amazing,' 'absolutely incredible,' and 'exactly what I needed,' praising the 'stunning' landscape, 'nice' people, and 'stellar cuisine,' and expressing hope to return while thanking viewers.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a breathtaking coastal scene under a bright sun, showcasing dark volcanic rocks and crashing waves, transitioning to a wide, grassy geothermal field with steam rising from the ground and a distant lighthouse atop a hill. The camera pans across the rugged terrain under a clear blue sky, then shifts to a dramatic sunset with the sun setting behind a mountain, casting warm golden light over the steam vents. Throughout, gentle, melodic acoustic guitar music plays as the Woman with Purple-Blonde Hair provides a reflective voiceover, describing her trip to Iceland as \"amazing,\" \"absolutely incredible,\" and \"exactly what I needed.\" She praises Iceland as \"absolutely stunning,\" highlighting the \"nice\" people and \"stellar cuisine,\" having \"eaten a lot of fish\" and enjoyed \"every bite.\" The scene then transitions to a powerful waterfall, where the Woman with Purple-Blonde Hair stands at its base, arms outstretched, embracing the mist and spray, before playfully dancing and kicking her hiking-booted feet, fully immersed in the rugged, untamed Icelandic landscape. She concludes her voiceover by expressing hope to return someday, thanking viewers for watching, and promising to see them in the next video."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Waterfall Scene": "A massive, misty waterfall cascading down moss-covered cliffs, generating heavy spray and fog, with the Woman with Purple-Blonde Hair standing at its base, arms outstretched, embracing the powerful natural force, and the surrounding rocky terrain and green hills visible in the background.",
+    "Woman with Purple-Blonde Hair": "A woman wearing a blue helmet, grey knitted beanie, beige puffer jacket, black pants, and hiking boots, holding an ice axe, seen walking across a glacier with a group of hikers and later at the base of a powerful waterfall, arms outstretched, playfully dancing and kicking her feet, with close-ups on her hiking boots, fully immersed in the misty, rugged environment. Her voice is heard in a reflective, positive tone, describing her trip to Iceland as 'amazing,' 'absolutely incredible,' and 'exactly what I needed,' praising the 'stunning' landscape, 'nice' people, and 'stellar cuisine,' and expressing hope to return while thanking viewers.",
+    "Airport Lounge/Store": "An indoor space with modern lighting and wooden accents, where the woman is seen holding a supplement packet and a white cup, possibly a coffee or tea.",
+    "Car Dashboard": "A view from inside a moving vehicle, showing the road ahead with a white bus and a rugged mountain in the distance, and later a wide expanse of water under a dramatic sky with sunbeams breaking through clouds.",
+    "SLEEP Supplement Packet": "A purple packet labeled 'SLEEP' with text indicating 'Melatonin, L-Theanine & Botanicals' for a healthy sleep cycle, held by the woman in the airport lounge. She refers to these as \"melatonin gummies\" that she acquired, noting the irony of taking them with coffee, and later expresses concern about having taken them \"a little too early.\"",
+    "Airport Terminal": "A modern, brightly lit airport terminal with glass doors, visible signage, and a Coca-Cola vending machine, where the woman exits and walks along a covered walkway beside a parking lot.",
+    "Airplane Cabin": "The interior of an airplane with beige and dark blue seats, showing a personal entertainment screen displaying a quote from Björk: 'I feel emotional landscapes they puzzle me' — indicating a moment of reflection during flight.",
+    "Colorful Patterned Object": "A folded, colorful object with a geometric or map-like design, held by the woman as she walks outdoors, possibly a travel map or brochure for sightseeing, seen briefly in her hand as she gestures.",
+    "Polar Bear Display": "Two large, fluffy white polar bear mannequins standing upright in a shop window, one being touched by the woman, with visible signage including 'Viking Jewelleries' and 'POLAR GIFTST' partially visible on the shop’s glass.",
+    "Café Interior": "A modern café with wooden accents and a slatted ceiling, featuring a red tractor tire as a decorative element, a table with a red cup, milk, and a plate of breakfast food, and other patrons seated in the background.",
+    "Reykjavik Tote Bag": "A white tote bag with a vibrant graphic print featuring a winged creature, Japanese text 'レイキャビク' (Reykjavik), and a tag indicating 'Handprinted in Iceland'. The woman explicitly states it's a souvenir from Iceland and mentions puffins, suggesting the winged creature might be a puffin or related to Icelandic wildlife.",
+    "Knitted Beanie": "A grey knitted beanie with 'XGBOY' branding in black and white, worn by the woman as she explores the volcanic landscape, with sunglasses perched on top.",
+    "Modern Staircase": "A concrete staircase with wooden paneling on the walls and metal handrails, located under an overpass or building, where the woman playfully jumps down the steps.",
+    "Rainbow Pedestrian Path": "A vibrant, multi-colored walkway painted in rainbow stripes, running down the center of a cobblestone street, explicitly called 'the coolest street' and 'the Pride Street' by the woman, serving as a striking visual feature of the urban environment.",
+    "Black-and-White Mural": "A large, intricate black-and-white mural covering the side of a building, depicting a mythological or fantastical figure with flowing lines and waves, visible in the café’s background.",
+    "ENNA SINGLE?": "A green sign with bold yellow text reading 'ENNA SINGLE?' and a red 'Smil' logo, seen on a pole as the woman walks by.",
+    "Hotel Room Interior": "An indoor space with beige walls, a bed with a pink blanket, a wooden bedside table with a lamp, a large TV, and a framed picture of a bird in reeds on the wall, where the woman is seen moving energetically and speaking to the camera, humorously complaining about its thin walls and the noise from neighboring rooms.",
+    "Coastal Rocks": "Large, dark volcanic rocks by the sea, forming jagged formations and sea stacks, with waves crashing against them under a clear blue sky, creating a dramatic natural backdrop.",
+    "LOST! SHOP": "A shop with a purple window display featuring a cartoonish character and the text 'LOST! SHOP' in pink, visible as the woman walks past.",
+    "ROSSOPOMODORO": "A restaurant with red awnings and bold yellow lettering, featuring a wooden door and visible interior seating, located on a city street.",
+    "Fish and Fries Plate": "A metal tray containing a crispy breaded fish fillet, golden fries, a side salad with red onion and lettuce, a lemon wedge, and a small paper napkin with a logo, served in the café, which the woman describes as 'the best fish and chips I've ever eaten in my life.'",
+    "Golden Cocktail": "A golden-colored cocktail in a round glass, garnished with a lemon peel and a small white sphere, held by the woman as she sips it in the café.",
+    "On-Screen Text": "White text appearing on screen during the Northern Lights sequence, reading 'I wish I had a camera out.', 'This just got a 1,000 times better.', and 'I'm so glad I came out.', reinforcing the spoken awe and excitement.",
+    "Orange Car": "A bright orange compact car parked on a dirt road in a rocky, open landscape, visible behind the woman as she speaks to the camera.",
+    "Rugged Outdoor Terrain": "An open, grassy landscape with rolling hills, sparse vegetation, and a gravel road in the distance, under a cloudy sky, where the Woman with Purple-Blonde Hair walks and struggles against the wind before reaching the waterfall, now seen from a close, immersive perspective at the base of the falls.",
+    "Metal Grid Bridge": "A narrow, elevated bridge made of metal grating with blue metal railings, spanning a deep rocky fissure, allowing visitors to cross safely over the chasm while offering views of the rugged terrain below.",
+    "Rugged Fissure Landscape": "A deep, rocky chasm cutting through a barren volcanic landscape, with dark, jagged rocks and sparse vegetation, under a clear blue sky, creating a dramatic and expansive natural scene.",
+    "Yellow Warning Sign": "A bright yellow sign with red borders and black text reading 'Varúð! Attention!' in Icelandic and English, displaying prohibitions such as 'Do not walk on the lava' and 'Do not throw anything at the lava,' with pictograms and logos, which the woman reads aloud, emphasizing the warnings against impulsive actions.",
+    "SEGA ALTERED BEAST Arcade Machine": "A vintage arcade machine with a blue and red design, featuring a screen, two joysticks, and buttons, with the title 'SEGA ALTERED BEAST' displayed above the screen, flanked by a blue and red eye graphic. It appears briefly as a surreal, unexpected cutaway in the middle of the geothermal footage, accompanied by distinct arcade sound effects and a \"Five minutes remaining\" voiceover, contrasting sharply with the natural environment.",
+    "Red Keyboard Stand": "A red, foldable metal stand with a white keyboard surface, positioned outdoors on the rocky coast, used by the woman to mimic the 'Volcano Man' performance from the movie 'Eurovision Song Contest: The Story of Fire Saga.'",
+    "Volcano Man Sign": "A large, light-blue informational sign with red and black text, placed on the rocky coast, marking the filming location of the 'Volcano Man' scene from the movie 'Eurovision Song Contest: The Story of Fire Saga,' including a QR code for an Instagram filter.",
+    "Blue Lagoon": "A large, steaming geothermal pool with milky blue water, surrounded by rocky formations, where the woman explicitly states she is having a 'very relaxing time' before departing.",
+    "Avocado Toast": "A plate of avocado toast topped with cherry tomatoes, microgreens, and a poached egg, labeled 'BLUE LAGOON ICELAND' and marked 'SUITABLE FOR VEGANS' with a yellow circular sticker, priced at 2390 ISK.",
+    "Volcano Skali Sign": "A large blue sign reading 'VELKOMIN Í VOLCANO SKALI' with parking fees, which the woman points to and audibly mispronounces as 'Volcano Stelly' while expressing excitement.",
+    "Valrhona Chocolate Cookie": "A packaged chocolate cookie labeled 'BLUE LAGOON ICELAND VALRHONA CHOCOLATE' in a clear plastic bag, placed on a white tray next to the avocado toast.",
+    "Hiking Group": "A group of hikers, including the Woman with Purple-Blonde Hair, seen navigating rocky paths near the glacier, with some individuals visible in the background stepping across rocks and observing the ice, their crunching footsteps audible as they move, adding to the sense of shared adventure and exploration.",
+    "MOTTAKA RECEPTION": "A modest white building with a gabled roof, illuminated from within, featuring a sign above the entrance that reads 'MOTTAKA RECEPTION' in black lettering, set against a twilight sky with warm interior lighting.",
+    "Little Snap Shop": "An indoor common area with wooden flooring, a blue pool table, and a sign on the wall reading 'WELCOME LITTLE SNAP SHOP,' featuring modern lighting and seating, where guests are seen with luggage, indicating a communal space in a rural accommodation.",
+    "Plated Meal": "A gourmet dish on a yellow plate featuring a poached egg, colorful salad with microgreens, and a golden-brown pastry, garnished with fresh herbs, placed on a dark tablecloth with cutlery beside it.",
+    "Bed with Textured Blanket": "A bed covered with a textured yellow-green blanket and a white fluffy pillow, where the woman lies and speaks to the camera in a dimly lit room.",
+    "Scenic Roadside Landscape": "A wide, open grassy plain with distant hills and a gravel road leading toward the horizon, visible through the vehicle’s windshield during the drive, under a partly cloudy sky.",
+    "Shoreline with Shallow Water": "A rocky shoreline with shallow, clear water, where the woman walks barefoot and dips her hand into puddles, with waves gently lapping at the shore under a bright sun.",
+    "Shovel": "A wooden-handled shovel used by the woman to dig into the geothermal sand, with a metal blade, shown in action as she scoops hot sand into the pot.",
+    "Metal Pot with Bread": "A silver metal pot with handles, used to bake bread in the hot sand, later revealed to contain a golden-brown loaf, held by the woman as she presents it to the camera.",
+    "Geothermal Sand Digging Woman": "A woman in a blue jacket and black rubber boots, actively digging into steaming sand at the water’s edge with a shovel, retrieving a pot containing a baked loaf of bread, demonstrating traditional Icelandic geothermal baking.",
+    "Erupting Geyser": "A powerful geyser erupting from the ground, sending a tall plume of steam and water into the air, accompanied by the woman's excited and startled reactions, creating a dramatic and dynamic natural spectacle observed by visitors.",
+    "Metal Grid Staircase": "A set of metal stairs with a grid-like surface and handrails, leading down from a viewing platform to the geothermal area, with the woman descending them as she explores the landscape.",
+    "Geothermal Field": "A wide, open area with steam vents, rocky terrain, and erupting geysers, under a cloudy sky, with visitors observing from a safe distance, showcasing the raw, natural power of Iceland’s geothermal activity.",
+    "Food on Stick": "A small piece of food, possibly a marshmallow or appetizer, held on a wooden stick by the woman in the restaurant, which she eats with a smile, prompting her to ask 'Do you chew it? Or do I just swallow it?' and react to its texture with 'The texture. It's in my mouth.'",
+    "Restaurant Interior": "A cozy indoor space with warm lighting, wooden tables, and a high ceiling with exposed beams, where the Woman with Purple-Blonde Hair speaks to the camera and a group of people are seen at a table.",
+    "Small Glass": "A clear, small glass held by the woman in the restaurant, from which she takes a sip, with dialogue suggesting it contains alcohol, as someone comments 'Shot tastes good after that' and 'This alcohol'.",
+    "Man with Phone": "A man with short grey hair wearing a grey knitted sweater, holding a smartphone to record the woman on stage, who also speaks, identifying a dish as \"Fish soup\" and noting its \"kinda thick\" consistency, and revealing they ate \"green moon shark\" which is \"poisonous.\"",
+    "Woman in Brown Sweater": "A woman with blonde hair wearing a brown sweater with a yellow zigzag pattern, standing on a small stage holding a plate, being filmed by a man with a phone.",
+    "Northern Lights": "Vibrant green and purple auroras dancing across the night sky, visible over trees and buildings, eliciting excited gasps and exclamations of \"Oh my God!\" and \"This just got a thousand times better!\" from observers, accompanied by a gentle, ethereal instrumental music.",
+    "Meal on Table": "A table setting with a bowl of soup, a glass of milk, a plate with bread and butter, and a small container of butter, arranged on a wooden surface.",
+    "Outdoor Parking Area": "A gravel parking lot with a white bus, a white van, and several cars, surrounded by sparse trees and hills, where people are seen walking and gathering.",
+    "Scenic View of Water": "A vast body of water under a dramatic sky with sunbeams breaking through clouds, viewed from the vehicle’s window, with a grassy shoreline in the foreground.",
+    "Bus Interior": "The interior of a moving bus with black seats, overhead compartments, and passengers visible in the background, including some with backpacks, as the woman turns to look around, and she mentions the bus 'shaking' while parked.",
+    "Hanging Edison Bulbs": "Warm, glowing Edison-style light bulbs hanging from the ceiling, illuminating the woman’s face as she smiles indoors.",
+    "Glacier Surface": "A vast, cracked, and textured ice field with dark volcanic debris, where the hiking group walks, their crunching footsteps audible on its rugged and dynamic surface.",
+    "Glacial Lagoon": "A calm, milky-blue lagoon surrounded by rocky, moss-covered hills, with floating icebergs and a massive glacier front, captured in wide panoramic shots under golden sunlight.",
+    "Ice Axe": "A teal-colored ice axe with a black head, carried by the Woman with Purple-Blonde Hair as she hikes across the glacier, used for stability and navigation on the icy terrain."
+  }
+}

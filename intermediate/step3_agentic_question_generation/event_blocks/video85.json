@@ -1,0 +1,225 @@
+{
+  "video_id": "video85",
+  "audio_id": "video85_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "The video opens with an exterior shot of a Sonic Drive-In, featuring a brick facade and food-themed window displays, situated next to a Shell gas station with vehicles at the pumps. A customer's voice expresses curiosity about a \"pickle thing\" or \"pickle combo,\" eager to discover its nature. The camera transitions along the sidewalk, passing a trash receptacle and palm plants, before entering the brightly illuminated Sonic convenience store. Inside, the environment is characterized by a colorful interior, tiled flooring, abundant snack displays, a mounted vintage red car, and American flags, all underscored by faint, upbeat background music. Proceeding to the counter, a male Sonic employee, clad in a blue uniform, black cap, and headset, is observed operating the POS system. He greets the customer, who then inquires about the \"pickle thing.\" The employee confirms the availability of a \"whole meal for it\" and presents options: \"pickle fries or pickle tots.\" The customer opts for the \"tots.\" The employee further explains that the meal includes \"grilled pickle slices.\" Upon the customer's request to add cheese to the tots, the employee accommodates the modification and states the total cost as \"17.40.\" The customer reacts with surprise, exclaiming, \"Wow, that's crazy,\" before the employee turns to begin order preparation.",
+      "involved_entities": {
+        "Sonic Employee in Blue Uniform": {
+          "description": "Male employee wearing a blue Sonic t-shirt with white logo, black cap, and headset, standing behind the counter at the register, interacting with the POS system, and speaking clearly to the customer about their order, offering choices like 'pickle fries or pickle tots,' confirming 'grilled pickle slices,' and stating the price of '17.40'.",
+          "attribute": "audio-visual"
+        },
+        "Sonic Store Interior": {
+          "description": "Brightly lit convenience store with tiled floors, colorful decor, mounted red vintage car, American flags, snack displays, and digital menu boards showing specialty drinks and food.",
+          "attribute": "visual"
+        },
+        "Shell Gas Station": {
+          "description": "Adjacent gas station with yellow and red canopy, visible pumps, and cars refueling, including a white sedan and a white van.",
+          "attribute": "visual"
+        },
+        "POS System": {
+          "description": "Black Infor-branded point-of-sale terminal with touchscreen, located on the counter, used by the employee for transactions.",
+          "attribute": "visual"
+        },
+        "Sonic Employee in Black Shirt": {
+          "description": "Female employee in a black shirt, visible behind the counter, working near food preparation area.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video begins with an exterior view of a Sonic Drive-In, showcasing its brick facade and large windows displaying food imagery, adjacent to a Shell gas station with cars at the pumps. The customer's voice is heard, expressing anticipation for a \"pickle thing\" or \"pickle combo,\" admitting uncertainty about what it is but eager to \"find out.\" As the camera moves along the sidewalk past a trash can and palm plants, it enters the brightly lit Sonic convenience store, revealing a colorful interior with tiled flooring, snack displays, a mounted red vintage car, and American flags, all accompanied by faint, upbeat background music. The camera proceeds to the counter, where a male Sonic employee in a blue uniform, black cap, and headset stands behind the register, interacting with the POS system. He greets the customer, who then inquires about the \"pickle thing.\" The employee confirms they \"have a whole meal for it\" and offers a choice between \"pickle fries or pickle tots,\" to which the customer selects \"tots.\" The employee clarifies that it \"comes with the grilled pickle slices\" and, after the customer asks if cheese can be added to the tots, processes the request. He then states the total is \"17.40,\" prompting a surprised \"Wow, that's crazy\" from the customer, before the employee turns to prepare the order."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 2,
+      "summary": "Inside a brightly lit Sonic drive-in, a Sonic Employee in Blue Uniform, equipped with a headset, prepares a green beverage at the soda fountain, the sounds of which are audible, before interacting with the black Infor-branded POS system, which beeps. The employee states, \"I'm having a hard time,\" and offers, \"You want to try a different machine for you?\" Upon agreement, he asks, \"Okay, here, I can just give you cash, does that work?\" After the customer responds, \"Yeah, let's just do that,\" the employee confirms, \"There you go,\" and hands a brown paper bag and receipt to the customer. A Sonic Employee in Black Shirt is visible in the background near food preparation. Amidst ambient fast-food noise, a female voice inquires, \"Is it just coming in at two?\" to which the employee in blue replies, \"Yeah, that's why I'm saying,\" and the female voice adds, \"And I'm coming in at three.\" The camera pans left, showing red stools and a Customer in Neon Green Shirt near the dining area entrance.",
+      "involved_entities": {
+        "Sonic Employee in Blue Uniform": {
+          "description": "Male employee wearing a blue Sonic t-shirt with white logo, black cap, and headset, standing behind the counter at the register. He is heard speaking with a male voice, expressing difficulty with a transaction ('I'm having a hard time'), offering payment solutions ('You want to try a different machine for you?', 'I can just give you cash, does that work?'), confirming ('Yeah, that's why I'm saying'), and concluding the interaction ('There you go'). He is seen preparing a drink, interacting with the beeping POS system, and handing a bag and receipt to a customer.",
+          "attribute": "audio-visual"
+        },
+        "Sonic Employee in Black Shirt": {
+          "description": "Female employee in a black shirt, visible behind the counter, working near the food preparation area. She is potentially heard asking about scheduling ('Is it just coming in at two?', 'And I'm coming in at three?').",
+          "attribute": "audio-visual"
+        },
+        "Sonic Store Interior": {
+          "description": "Brightly lit convenience store with tiled floors, digital menu boards showing specialty drinks and food, and a counter with a stack of branded paper cups.",
+          "attribute": "visual"
+        },
+        "POS System": {
+          "description": "Black Infor-branded point-of-sale terminal with touchscreen, located on the counter, used by the employee for transactions, and heard emitting distinct beeping sounds during use.",
+          "attribute": "audio-visual"
+        },
+        "Customer in Neon Green Shirt": {
+          "description": "Customer wearing a bright neon green shirt, standing near the entrance of the dining area, partially visible during the camera pan.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The scene opens behind the counter of a brightly lit Sonic drive-in, showcasing the bustling kitchen and digital menu boards. A Sonic Employee in Blue Uniform, wearing a blue t-shirt, black cap, and headset, is actively preparing a green beverage at the soda fountain, with the distinct sounds of drink preparation audible. He then moves to the black Infor-branded POS system, which emits beeping sounds as he interacts with it. A male voice, likely belonging to this employee, is heard stating, \"I'm having a hard time,\" a sentiment he repeats, followed by an offer, \"You want to try a different machine for you?\" and then, \"Okay, here, I can just give you cash, does that work?\" Another voice responds, \"Yeah, let's just do that,\" before the employee concludes with, \"There you go.\" He proceeds to hand a brown paper bag and a receipt to a customer. In the background, a Sonic Employee in Black Shirt is visible near the food preparation area. Amidst the general fast-food background noise, a female voice is heard asking, \"Is it just coming in at two?\" to which the employee in blue responds, \"Yeah, that's why I'm saying,\" and the female voice adds, \"And I'm coming in at three.\" The camera briefly pans left, revealing red stools and a customer in a neon green shirt near the dining area entrance, highlighting the active and efficient atmosphere."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 3,
+      "end_minute": 13,
+      "summary": "The video opens with a first-person perspective inside a brightly lit Sonic restaurant, where a Sonic Employee in Blue Uniform interacts with the POS system behind the counter, accompanied by muffled speech and beeping sounds. The person filming, likely a customer, expresses thanks to the employee and comments on a \"crazy looking drink\" with \"little balls\" and \"two pickles on top,\" later identified as a Green Sonic Drink Cup with a Blue Straw. The camera pans across the dining area with black tables and red-cushioned chairs, showing a Customer in Neon Green Shirt near the entrance and digital menu boards displaying items like 'BIG DILL MEAL'. Moving into the convenience store section, a Customer in Red Jacket pushes a yellow shopping cart. The focus returns to the table where the drink, a Receipt, and a Brown Paper Bag are present. The person comments on the drink tasting like \"pickles\" and \"white pickles and lime,\" and expresses surprise at a \"Seventeen bucks for a combo.\" The Brown Paper Bag, branded 'LIVE FREE EAT SONIC', is shaken, revealing its contents. The scene transitions to the unwrapping of a Foil-Wrapped Food Item, revealing a Tater Tots Container filled with golden tots, and a Burger in Blue Box. The person inquires about \"pickle seasoning\" on the tots, receives a reassuring reply, and describes the burger's components, including \"fried pickles.\" Throughout the meal, the person remarks on the burger being \"a beast\" and \"pretty good,\" particularly liking the \"fried pickles.\" The burger is described as having a \"double patty, cheese, mayo,\" \"fried pickles, really pickles,\" and \"pickle sauce\" or \"pickle ranch.\" The person uses a white plastic fork to eat \"extra crunchy\" tater tots from the container, while sipping the green beverage. Background music and general restaurant ambiance, including chatter and chewing sounds, are consistently present, with occasional remarks about the food's flavor and ingredients, and polite acknowledgments. The meal concludes with the person using the fork to scoop the last tater tots from the nearly empty container, ensuring every tot is eaten, all within the brightly lit Sonic Store Interior featuring red and black chairs and shelves stocked with snacks.",
+      "involved_entities": {
+        "Shell Gas Station": {
+          "description": "Adjacent gas station with yellow and red canopy, visible pumps, and cars refueling, including a white sedan and a white van.",
+          "attribute": "visual"
+        },
+        "Green Sonic Drink Cup": {
+          "description": "Transparent plastic cup with green liquid, branded with 'SONIC' logo in white and red, placed on a black table, with a Blue Straw inserted and standing upright.",
+          "attribute": "visual"
+        },
+        "POS System": {
+          "description": "Black Infor-branded point-of-sale terminal with touchscreen, located on the counter, used by the employee for transactions.",
+          "attribute": "visual"
+        },
+        "Blue Straw": {
+          "description": "Bright blue plastic straw, inserted into the Green Sonic Drink Cup, standing upright in the cup, not being used for sipping during this segment.",
+          "attribute": "visual"
+        },
+        "Customer in Neon Green Shirt": {
+          "description": "Customer wearing a bright neon green shirt, standing near the entrance of the dining area, partially visible during the camera pan.",
+          "attribute": "visual"
+        },
+        "Sonic Employee in Blue Uniform": {
+          "description": "Male employee wearing a blue Sonic t-shirt with white logo, black cap, and headset, standing behind the counter at the register, interacting with the POS system and preparing a drink. He is the likely recipient of a \"Thank you\" and \"Thanks, man\" from the person filming.",
+          "attribute": "audio-visual"
+        },
+        "Sonic Store Interior": {
+          "description": "Brightly lit convenience store with tiled floors, red and black chairs, digital menu boards, and shelves stocked with snacks, visible in the background.",
+          "attribute": "visual"
+        },
+        "Customer in Red Jacket": {
+          "description": "Customer wearing a red jacket and dark pants, pushing a yellow shopping cart through the convenience store aisle, visible in the background.",
+          "attribute": "visual"
+        },
+        "Receipt": {
+          "description": "White paper receipt with printed text, held up briefly by the person filming, showing transaction details, then placed on the table.",
+          "attribute": "visual"
+        },
+        "Brown Paper Bag": {
+          "description": "Brown paper bag with 'LIVE FREE EAT SONIC' printed in blue text, standing upright on the table behind the drink, partially visible throughout the video.",
+          "attribute": "visual"
+        },
+        "Burger in Blue Box": {
+          "description": "Partially eaten Sonic burger with golden-brown bun, visible beef patty, melted cheese, and shredded lettuce, held in the person's left hand, showing a messy, juicy interior, accompanied by audible chewing sounds from the person eating it.",
+          "attribute": "audio-visual"
+        },
+        "Foil-Wrapped Food Item": {
+          "description": "Silver foil wrapper with blue 'LIVE FREE EAT SONIC' text, used to wrap the tater tots container, partially unwrapped and lying on the black table beneath the container.",
+          "attribute": "visual"
+        },
+        "Tater Tots Container": {
+          "description": "White rectangular container with blue and red 'LIVE FREE EAT SONIC' branding, nearly empty with only a few golden, crispy tater tots remaining, being eaten with a white plastic fork.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a first-person perspective inside a brightly lit Sonic restaurant, showcasing the dining area with black tables and red-cushioned chairs, while large windows offer a view of an adjacent Shell gas station. As the camera pans across the space, a customer in a neon green shirt is visible near the entrance, and a male employee in a blue Sonic t-shirt and black cap is seen behind the counter, interacting with the POS system. Muffled speech and beeping sounds from the POS system contribute to the background ambiance. A male voice, likely the person filming, is heard saying \"Thank you\" and later, \"Oh, nice. Thanks, man,\" possibly in interaction with the employee. The camera then moves toward the counter, highlighting digital menu boards displaying items like 'BIG DILL MEAL' and 'SONIC SMASHERS'. Proceeding further, the camera enters the convenience store section, where a customer in a red jacket pushes a yellow shopping cart. The focus then shifts to a black table where a transparent green Sonic drink cup, branded with the Sonic logo, is placed alongside a folded dollar bill and a white straw wrapper. The person filming picks up the wrapper, unwraps a blue straw, and inserts it into the vibrant green beverage, stirring it. As they do so, the male voice remarks, \"This one crazy looking drink,\" then adds, \"It's funny. Because it's got little balls in it,\" and finally, \"Two pickles on top,\" describing the drink's unique contents and garnish. The camera holds a close-up of the drink, emphasizing the Sonic branding and the swirling liquid, before placing it back on the table. Throughout the segment, the environment maintains its bright illumination with red, yellow, and black decor, accompanied by the continuous background noise of a typical fast-food setting with light activity.",
+        "The video opens with a first-person perspective inside a brightly lit Sonic restaurant, where a Green Sonic Drink Cup with a Blue Straw rests on a black table. Amidst a constant hum of background chatter and indistinct speech from the Sonic Store Interior, the person's hands adjust the cup, then reach for a Receipt and a Brown Paper Bag. A male voice comments, \"Yep, taste like pickles,\" and later, \"White pickles and lime,\" strongly implying these are flavors of the drink. The Receipt is briefly held up, displaying printed text, before being placed back down. The male voice then exclaims, \"Seventeen bucks for a combo, that's crazy,\" and later, \"All that for cheese,\" followed by \"No thanks, I don't like for cheese,\" likely reacting to details on the receipt or the order. The Brown Paper Bag, emblazoned with 'LIVE FREE EAT SONIC', is picked up and gently shaken, producing prominent crinkling and rustling sounds as its contents are revealed. In the background, the Sonic Store Interior features red and black chairs, tiled floors, and shelves stocked with merchandise, with a Customer in Red Jacket seen pushing a yellow shopping cart in the distance. The camera pans slightly, showcasing the colorful decor, a digital menu board, and a display case with food items, as the person continues to interact with the noisy bag and cup, preparing to enjoy their fast-food order.",
+        "The scene transitions to a first-person perspective at a dining table inside the Sonic store, where ambient chatter and background music fill the air. The person filming places a Brown Paper Bag, emblazoned with 'LIVE FREE EAT SONIC' in blue text, onto the table. Alongside it, a Green Sonic Drink Cup, filled with a vibrant green liquid and branded with the 'SONIC' logo, is set down. The person then unwraps a Blue Straw with distinct rustling sounds and inserts it into the drink. Next, a Foil-Wrapped Food Item, also bearing 'LIVE FREE EAT SONIC' text, is unwrapped with more rustling, revealing a Tater Tots Container filled with golden tots. A voice comments, \"That's kind of cool,\" followed by, \"Oh no, I lost one,\" possibly referring to a dropped tot. The person then asks, \"This is like a pickle seasoning on these?\" to which another voice replies, \"Don't worry about it.\" Subsequently, a blue Sonic box is opened to reveal a burger with lettuce and a golden-brown bun. A receipt is visible nearby on the table. In the background, the Sonic Store Interior is visible with its red and black chairs, tables, and merchandise shelves, while a Customer in a Neon Green Shirt is briefly seen near the entrance. Another voice asks, \"What's the say?\" possibly referring to the receipt or text on an item, as the camera remains steady, focusing on the food items arranged for consumption under the bright, consistent store lighting.",
+        "The video opens with a first-person perspective inside a Sonic restaurant, focusing on a table where a meal is being enjoyed amidst the ambient sounds of a busy fast-food environment, including chatter and background music. The person filming holds a large, messy Sonic burger with a golden-brown bun, visible layers of cheese, lettuce, and a beef patty, which they rotate and inspect closely, exclaiming, \"Oh, that's cool, man,\" and commenting, \"That's a good looking burger.\" The burger is partially eaten, with ingredients spilling out as it's handled. They inquire about the ingredients, asking, \"Fried pickles on it?\" and noting, \"Regular pickles on it,\" before concluding, \"Think it's pickled out.\" On the table, a Green Sonic Drink Cup with a Blue Straw is placed next to a Tater Tots Container, which is open and filled with golden, crispy tater tots. A Brown Paper Bag with 'LIVE FREE EAT SONIC' printed in blue text stands upright behind the drink. The person occasionally adjusts the burger, takes bites, and gestures toward the food, mentioning, \"Trying to get a good shot,\" and emphasizing its size by calling it \"a beast of a burger\" with an affirmative \"Oh yeah.\" After a bite, they declare, \"That's pretty good,\" and specifically state, \"I like the fried pickles on there.\" In the background, the Sonic Store Interior is visible with red and black chairs, a brightly lit convenience store section, and a digital menu board. A Customer in Red Jacket walks through the store aisle in the distance, pushing a yellow shopping cart. The camera remains mostly steady, focusing on the meal, with slight movements to follow the person’s hands as they interact with the burger and drink.",
+        "The scene unfolds from a close-up, first-person perspective within a Sonic restaurant, where the ambient sounds of background music and general restaurant clatter create a lively atmosphere. The person holds a partially eaten Burger in Blue Box, its messy interior showcasing visible lettuce, cheese, and a beef patty. A male voice, presumably the person eating, describes the burger's components, stating it contains a \"double patty, cheese, mayo,\" along with \"fried pickles, really pickles,\" and a \"special sauce too, pickle sauce,\" which he further clarifies as being \"like a pickle ranch.\" While occasionally adjusting the burger and emitting sounds of enjoyment and chewing, the person uses their other hand to pick up crispy tater tots from a 'LIVE FREE EAT SONIC' branded Tater Tots Container with a white plastic fork. A Green Sonic Drink Cup, holding a bright green beverage with a Blue Straw, sits nearby on the black table, from which distinct sipping sounds are heard. Behind the drink, a 'LIVE FREE EAT SONIC' Brown Paper Bag stands upright. The background reveals the Sonic Store Interior with its characteristic red and black chairs and tiled floors, as the camera maintains a steady focus on the casual, immersive dining experience.",
+        "The video captures a close-up, first-person perspective of someone enjoying a meal at a Sonic restaurant. In their left hand, they hold a partially eaten Burger in Blue Box, revealing a juicy beef patty, melted cheese, and shredded lettuce inside a golden-brown bun, which the person later remarks, \"That's a good burger.\" With their right hand, they use a white plastic fork to pick up Tater Tots from the Tater Tots Container, an open, foil-wrapped container branded 'LIVE FREE EAT SONIC', which the person notes are \"extra crunchy.\" A Green Sonic Drink Cup, filled with a bright green beverage and a Blue Straw, sits on the black table next to the container. Behind the drink, a Brown Paper Bag with 'LIVE FREE EAT SONIC' printed in blue stands upright. The person occasionally lifts the drink to take a sip, then returns to eating the tater tots. The background reveals the Sonic Store Interior with red and black chairs, a brightly lit convenience store aisle, and shelves stocked with snacks. A Customer in Neon Green Shirt is briefly visible near the entrance, and a digital menu board is seen in the distance. Throughout the scene, upbeat pop/country music with a female vocalist plays softly in the background, accompanied by general restaurant ambiance, creating a casual and relaxed atmosphere focused on the meal and the act of eating.",
+        "The video offers a first-person perspective of someone enjoying a Sonic meal, holding a partially eaten Burger in a Blue Box in their left hand, which reveals a juicy beef patty, melted cheese, and shredded lettuce inside a golden-brown bun. On the black table, an open Tater Tots Container, branded 'LIVE FREE EAT SONIC', is filled with golden, crispy tater tots, which the person repeatedly picks up with a white plastic fork, occasionally lifting them toward the camera. A Green Sonic Drink Cup with a Blue Straw stands upright beside the container, and behind it, a Brown Paper Bag with 'LIVE FREE EAT SONIC' printed in blue text is visible. The background shows a brightly lit Sonic Store Interior with red and black chairs, shelves stocked with snacks, and a digital menu board. Throughout the eating, the person makes appreciative \"Mmm\" sounds and chewing noises, while a male voice comments on the food, noting \"balls in there\" (likely referring to the tater tots), and identifying a distinct \"pickle sauce or pickle juice or something,\" later confirming \"pickle seasoning\" and stating, \"That's a pickle,\" indicating a prominent pickle flavor in the meal. Faint background music is also audible from the store interior.",
+        "The scene unfolds from a first-person perspective inside a brightly lit Sonic Store Interior, characterized by red and black chairs and shelves stocked with snacks, all set to the continuous backdrop of upbeat, pop-like background music and indistinct chatter from multiple voices. The diner is focused on their meal, holding a partially eaten Burger in Blue Box in their left hand, its juicy interior with beef patty, melted cheese, and shredded lettuce clearly visible. With their right hand, they use a white plastic fork to scoop golden, crispy tater tots from an open Tater Tots Container. Prominent chewing sounds are heard as the person alternates between bites of the burger and tater tots, occasionally lifting the burger to reveal its messy, flavorful contents. A Green Sonic Drink Cup with a Blue Straw sits on the table alongside a Brown Paper Bag printed with 'LIVE FREE EAT SONIC', completing the casual and relaxed dining experience.",
+        "From a close-up, first-person perspective, the video captures someone eating at a brightly lit Sonic restaurant, with upbeat pop music playing in the background. The scene is set at a black table, showcasing the Sonic Store Interior with its red and black chairs and tiled floors. The person holds a partially eaten Burger in Blue Box in their left hand, revealing a messy, juicy interior with visible beef patty, melted cheese, and shredded lettuce, accompanied by audible chewing sounds. On the table, a Tater Tots Container is open, and the person uses a white plastic fork to transfer golden, crispy tater tots to the burger box, creating distinct crunching sounds. A Green Sonic Drink Cup with a Blue Straw is also present, from which the person occasionally slurps. Behind the drink, a Brown Paper Bag with 'LIVE FREE EAT SONIC' stands upright. Throughout, a male voice is heard making conversational remarks, such as \"That's why that's why I never started that this morning,\" and \"But I don't know what it's like,\" seemingly referring to the food, along with polite acknowledgments like \"Thank you\" and apologies like \"I'm sorry, I'm sorry,\" and a comment, \"Oh, she's so nice.\" The person's hands are actively engaged in eating and transferring food, with occasional clinking sounds from the utensils and containers.",
+        "The video offers a first-person view of someone finishing a meal at a Sonic restaurant, set against the backdrop of a brightly lit Sonic Store Interior, where indistinct chatter and a lively pop music track with a female vocalist create a casual dining atmosphere. The person actively uses a white plastic fork, producing distinct scraping and crunching sounds, to retrieve the last golden, crispy tater tots from a 'LIVE FREE EAT SONIC' branded Tater Tots Container. This container rests on a partially unwrapped Foil-Wrapped Food Item, also branded, which occasionally emits subtle rustling sounds, possibly alongside the upright Brown Paper Bag. A Green Sonic Drink Cup with a Blue Straw sits nearby, holding a bright green beverage. The hands are engaged, with the left steadying the container as the right forks the remaining tots, even after a small piece falls, prompting the person to pick up and tilt the container to ensure every last tot is eaten, all while the background sounds of the restaurant continue.",
+        "The video presents a close-up, first-person perspective of someone concluding their meal at a Sonic restaurant. As they use a white plastic fork to scoop the last few golden, crispy tater tots from a nearly empty white rectangular Tater Tots Container, branded with blue and red 'LIVE FREE EAT SONIC', a satisfied 'Mmm' sound is heard. The container is occasionally adjusted and rests on a partially unwrapped Foil-Wrapped Food Item, also bearing 'LIVE FREE EAT SONIC' in blue text, lying on a black textured table. To the right, a Green Sonic Drink Cup with a Blue Straw stands upright, filled with a bright green liquid, while a Brown Paper Bag with matching 'LIVE FREE EAT SONIC' branding is visible behind it. The background reveals a brightly lit Sonic Store Interior, complete with red and black chairs, shelves stocked with snacks, and a digital menu board displaying food items. Throughout the scene, faint background music and indistinct chatter, including phrases like 'I just asked for the...', 'We're not on the side', and a frequently repeated 'I was saying that one time...', contribute to the ambient sounds of the store. The scene remains static, focusing on the act of finishing the meal, with only the person's hands visible."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 14,
+      "end_minute": 15,
+      "summary": "Inside a Sonic restaurant, accompanied by upbeat, muffled pop music, a person unwraps a Foil-Wrapped Food Item from a Brown Paper Bag branded 'LIVE FREE EAT SONIC', revealing a nearly empty Tater Tots Container from which they eat the remaining golden, crispy tater tots with a white plastic fork, making a 'clink' sound. A Receipt is briefly held up and then placed on the table. A male voice says, 'Hey, thank you.' The camera pans the Sonic Store Interior, showing red and black chairs, shelves stocked with snacks, and a Customer in Neon Green Shirt near the entrance. The person stands, picks up a Green Sonic Drink Cup with a Blue Straw, and walks through the store, passing a Customer in Red Jacket pushing a yellow shopping cart. Exiting the store, the pop music fades, and the Shell Gas Station with its yellow and red canopy, pumps, and cars is visible. The male voice exclaims, 'Ooh,' then praises the meal: 'man, that was actually really good. Surprised how good that is. That dill was like a little sour. Um, the seasoning they put all over the tots, really good. The fried pickles on the uh, on the burger was really good. All the sauce was really good. Everything all around, like, that was pretty good. Seventeen...' The person holds the Green Sonic Drink Cup up against the gas station backdrop and partly cloudy sky before walking toward the gas pumps, continuing to praise the meal's components. Later, outside the Sonic drive-thru, the person holds up the branded green Sonic drink cup, commenting, '$1 is good. I don't know about that, but it is good job Sonic on your dill pickle program,' with the Sonic building and adjacent Shell gas station visible in the background under a partly cloudy sky.",
+      "involved_entities": {
+        "Receipt": {
+          "description": "Not visible in this segment; the receipt is no longer being held or displayed.",
+          "attribute": "visual"
+        },
+        "Foil-Wrapped Food Item": {
+          "description": "Not visible in this segment; the person has exited the store and the foil wrapper is no longer in frame.",
+          "attribute": "visual"
+        },
+        "Green Sonic Drink Cup": {
+          "description": "Transparent plastic cup with bright green liquid, branded with 'SONIC' logo in white and red, held by the person and prominently displayed during the outdoor segment, while the person holding it audibly praises Sonic's 'dill pickle program'.",
+          "attribute": "audio-visual"
+        },
+        "Shell Gas Station": {
+          "description": "Adjacent gas station with yellow and red canopy, visible pumps, and cars refueling, including a white sedan, seen after exiting the store.",
+          "attribute": "visual"
+        },
+        "Customer in Neon Green Shirt": {
+          "description": "Not visible in this segment; the scene is now outdoors and no other customers are present.",
+          "attribute": "visual"
+        },
+        "Customer in Red Jacket": {
+          "description": "Not visible in this segment; the scene is now outdoors and no other customers are present.",
+          "attribute": "visual"
+        },
+        "Sonic Store Interior": {
+          "description": "Not visible in this segment; the scene has shifted to the exterior.",
+          "attribute": "visual"
+        },
+        "Brown Paper Bag": {
+          "description": "Not visible in this segment; the person has exited the store and the bag is no longer in frame.",
+          "attribute": "visual"
+        },
+        "Tater Tots Container": {
+          "description": "Not visible in this segment; the person has exited the store and the container is no longer in frame.",
+          "attribute": "visual"
+        },
+        "Blue Straw": {
+          "description": "Bright blue plastic straw, inserted into the Green Sonic Drink Cup, standing upright and visible throughout the video.",
+          "attribute": "visual"
+        },
+        "Burger in Blue Box": {
+          "description": "Not visible in this segment; the person has exited the store and the burger is no longer in frame.",
+          "attribute": "visual"
+        },
+        "POS System": {
+          "description": "Not visible in this segment; the scene is now outdoors and no transaction equipment is present.",
+          "attribute": "visual"
+        },
+        "Sonic Employee in Blue Uniform": {
+          "description": "Not visible in this segment; the scene is now outdoors and no employees are present.",
+          "attribute": "visual"
+        },
+        "Sonic Employee in Black Shirt": {
+          "description": "Not visible in this segment; the scene is now outdoors and no employees are present.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens inside a Sonic restaurant, accompanied by upbeat, slightly muffled pop music with a distinct beat and synth melody. The person is seated at a black table with a Green Sonic Drink Cup containing a bright green slushy and a Blue Straw, with a Brown Paper Bag, branded 'LIVE FREE EAT SONIC', standing behind it. Crinkling sounds are heard as the person's hands unwrap a Foil-Wrapped Food Item, revealing a nearly empty Tater Tots Container with a few remaining golden, crispy tater tots, which they eat with a white plastic fork, making a 'clink' sound. A receipt is briefly held up before being placed on the table, followed by a male voice saying, 'Hey, thank you.' The camera then pans around the Sonic Store Interior, showing red and black chairs, tiled floors, shelves stocked with snacks, and a Customer in Neon Green Shirt near the entrance. The person stands up, picks up the drink, and walks through the store, passing a Customer in Red Jacket pushing a yellow shopping cart. As they exit the store, the pop music fades out, and the camera captures the Shell Gas Station with its yellow and red canopy, visible pumps, and cars refueling, including a white sedan and a white van. The male voice exclaims 'Ooh' before enthusiastically stating, 'That was um, man, that was actually really good. Surprised how good that is. That dill was like a little sour. Um, the seasoning they put all over the tots, really good. The fried pickles on the uh, on the burger was really good. All the sauce was really good. Everything all around, like, that was pretty good. Seventeen...' The person holds the Green Sonic Drink Cup up to the camera, showcasing the drink against the backdrop of the gas station and a partly cloudy sky, before walking toward the gas pumps, with the drink remaining prominently in view throughout the outdoor segment, as the male voice continues to praise the meal's various components.",
+        "The video transitions from the Sonic store's interior to an outdoor setting, where the person filming now stands outside the Sonic drive-thru building, prominently displaying a transparent plastic cup filled with bright green liquid, branded with the 'SONIC' logo in white and red. The cup, topped with a clear lid and featuring a bright blue plastic straw inserted upright, is firmly gripped by the person's hand as they audibly comment, \"$1 is good. I don't know about that, but it is good job Sonic on your dill pickle program.\" In the background, the brick facade, large windows, and yellow and red awning of the Sonic building are visible, while to the right, the adjacent Shell gas station with its yellow and red canopy, fuel pumps, and a white sedan parked at one of them, provides further context. The bright daytime setting is indicated by a partly cloudy sky with patches of blue, as the camera remains steady, focusing on the green Sonic drink cup, conveying a sense of satisfaction or presentation of the purchased item."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Sonic Employee in Blue Uniform": "Not visible in this segment; the scene is now outdoors and no employees are present.",
+    "Sonic Store Interior": "Not visible in this segment; the scene has shifted to the exterior.",
+    "Shell Gas Station": "Adjacent gas station with yellow and red canopy, visible pumps, and cars refueling, including a white sedan, seen after exiting the store.",
+    "POS System": "Not visible in this segment; the scene is now outdoors and no transaction equipment is present.",
+    "Sonic Employee in Black Shirt": "Not visible in this segment; the scene is now outdoors and no employees are present.",
+    "Customer in Neon Green Shirt": "Not visible in this segment; the scene is now outdoors and no other customers are present.",
+    "Green Sonic Drink Cup": "Transparent plastic cup with bright green liquid, branded with 'SONIC' logo in white and red, held by the person and prominently displayed during the outdoor segment, while the person holding it audibly praises Sonic's 'dill pickle program'.",
+    "Blue Straw": "Bright blue plastic straw, inserted into the Green Sonic Drink Cup, standing upright and visible throughout the video.",
+    "Customer in Red Jacket": "Not visible in this segment; the scene is now outdoors and no other customers are present.",
+    "Receipt": "Not visible in this segment; the receipt is no longer being held or displayed.",
+    "Brown Paper Bag": "Not visible in this segment; the person has exited the store and the bag is no longer in frame.",
+    "Burger in Blue Box": "Not visible in this segment; the person has exited the store and the burger is no longer in frame.",
+    "Foil-Wrapped Food Item": "Not visible in this segment; the person has exited the store and the foil wrapper is no longer in frame.",
+    "Tater Tots Container": "Not visible in this segment; the person has exited the store and the container is no longer in frame."
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "video_id": "video153",
+  "audio_id": "video153_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 3,
+      "summary": "An upbeat, jazzy background music accompanies travel preparations, including zipping a black suitcase and placing a pink shirt on a hanger, before a smiling 'Man in Pink Shirt' departs with a boarding pass for 'DA NANG → LONDON'. In flight, he uses a blue and white striped neck pillow while observing clouds, and upon landing, he exits the aircraft with a blue travel mug. Transitioning to a London street scene with brick buildings and parked cars, he enthusiastically declares, \"Let's go,\" and invites viewers to \"travel and learn some English\" as he returns to the UK. He confirms his arrival in London, mentioning his coffee and suitcase, and his plan to meet his Uncle Lee to \"go get the tube,\" noting the \"lovely British summertime.\" The perspective shifts to first-person as he walks down a London street, passing a potted plant and a skateboarder, with a '0/30' counter visible. He enters Queensbury station on the London Underground, tapping his card at a barrier and boarding a train. After exiting and riding an escalator, holding the handrail as instructed, he emerges onto a bustling street, passing a police car, 'CÔTE BRASSERIE,' the London Eye, a carousel, and a 'FISH & CHIPS' stall, remarking on \"classic Britishness.\" Continuing along the River Thames, he expresses his love for \"Fish and Chips\" and admires the view of the Houses of Parliament and Big Ben, identifying the latter by name. He then points out the London Eye, describing its \"pods or capsules\" and \"spiral staircase,\" and identifies nearby street furniture including a \"streetlamp,\" \"ice cream truck,\" and \"photobooth.\" He observes a \"queue\" forming under a \"Gazebo\" at \"Entrance A\" for the London Dungeon, before crossing Westminster Bridge, noting \"black cabs\" and a \"rickshaw\" as the '0/30' counter updates to '6/30'.",
+      "involved_entities": {
+        "Purple Notebook": {
+          "description": "A closed notebook with a purple cover, resting beside the watch.",
+          "attribute": "visual"
+        },
+        "Brown Leather Watch": {
+          "description": "A wristwatch with a brown leather strap and a dark face, placed on a patterned surface at the start of the video.",
+          "attribute": "visual"
+        },
+        "0/30 Counter": {
+          "description": "A green digital counter in the top right corner, updating from 0/30 to 6/30 as the man progresses through the scene.",
+          "attribute": "visual"
+        },
+        "Man in Pink Shirt": {
+          "description": "A man with blonde hair, now wearing a grey sweater over his pink shirt, walking along the River Thames and gesturing toward landmarks. He narrates his journey in a clear male voice, identifying 'Fish and Chips,' 'the famous River Thames,' 'London,' 'Big Ben,' 'the London Eye' (describing its 'pods or capsules' and a 'spiral staircase'), a 'streetlamp,' an 'ice cream truck,' a 'queue' (a 'long queue'), a 'gazebo,' a 'photobooth,' 'the London Dungeon,' and 'black cabs,' explaining that 'cab is another word for taxi,' as he crosses Westminster Bridge.",
+          "attribute": "audio-visual"
+        },
+        "Blue Travel Mug": {
+          "description": "A reusable blue mug held by the man after landing, likely containing a beverage.",
+          "attribute": "visual"
+        },
+        "London Street Scene": {
+          "description": "A residential street in London, identified by the speaker as the Queensbury station area, transitioning to a more commercial and tourist-heavy area with restaurants and attractions, where a little girl is heard giggling while chasing a pigeon.",
+          "attribute": "audio-visual"
+        },
+        "Pink Shirt on Hanger": {
+          "description": "A neatly folded pink shirt placed on a wooden hanger, indicating packing.",
+          "attribute": "visual"
+        },
+        "Blue and White Striped Neck Pillow": {
+          "description": "A travel pillow worn by the man during the flight, providing comfort.",
+          "attribute": "visual"
+        },
+        "Boarding Pass": {
+          "description": "A paper boarding pass held by the man, displaying 'DA NANG → LONDON' in bold white text.",
+          "attribute": "visual"
+        },
+        "Black Suitcase": {
+          "description": "A black rolling suitcase with an orange accent, which the man zips, handles, and carries throughout the journey.",
+          "attribute": "visual"
+        },
+        "Escalator": {
+          "description": "A moving staircase with metal steps and handrails, explicitly identified by the speaker as 'an escalator,' marked with signs instructing passengers to 'Please hold the handrail' and 'Please stand on the right.'",
+          "attribute": "audio-visual"
+        },
+        "London Eye": {
+          "description": "A large white Ferris wheel with glass capsules, prominently visible in the background, which the man points toward and identifies as 'the London Eye,' describing its components as 'pods or capsules' and mentioning a 'spiral staircase' nearby.",
+          "attribute": "audio-visual"
+        },
+        "Police Car": {
+          "description": "A yellow and blue checkered police vehicle parked on the street, with the speaker noting its 'flashing sirens.'",
+          "attribute": "audio-visual"
+        },
+        "FISH & CHIPS Stall": {
+          "description": "A blue food kiosk with a sign reading 'FISH & CHIPS,' located near a tree and pedestrian walkway, which the man passes, audibly remarking 'Fish and Chips. Love it.'",
+          "attribute": "audio-visual"
+        },
+        "Barrier": {
+          "description": "A ticket barrier at the London Underground entrance, featuring a card reader and instructions to 'Please touch your card flat on the reader,' where the speaker confirms tapping his card to walk through.",
+          "attribute": "audio-visual"
+        },
+        "Carousel": {
+          "description": "A colorful, ornate merry-go-round with painted horses and lights, enclosed by a metal fence, which the man points at, and the speaker identifies as 'a carousel' where 'you ride the horses and you spin 'round and 'round.'",
+          "attribute": "audio-visual"
+        },
+        "Handrail": {
+          "description": "The metal handrail on the escalator, which the man holds as he ascends, with the speaker reinforcing the instruction to 'Please hold the handrail' and identifying it as 'a handrail.'",
+          "attribute": "audio-visual"
+        },
+        "London Underground": {
+          "description": "The iconic red circle and blue bar 'UNDERGROUND' sign, marking the entrance to Queensbury station, referred to by the speaker as 'the tube,' with a barrier requiring card tapping for entry.",
+          "attribute": "audio-visual"
+        },
+        "CÔTE BRASSERIE": {
+          "description": "A restaurant with a blue awning and outdoor seating, featuring a sign that reads 'CÔTE BRASSERIE' and 'PRE-THEATRE FEAST' on a menu board, generally referred to as a 'restaurant' by the speaker.",
+          "attribute": "audio-visual"
+        },
+        "Queue": {
+          "description": "A line of people waiting at 'Entrance A' of the London Eye, managed by red stanchions and a pink gazebo, which the man points out as a 'queue' and specifically a 'long queue.'",
+          "attribute": "audio-visual"
+        },
+        "Streetlamp": {
+          "description": "A classic black streetlamp with a glass globe, positioned along the riverside walkway near the London Eye, which the man identifies as a 'streetlamp.'",
+          "attribute": "audio-visual"
+        },
+        "Ice cream truck": {
+          "description": "A white and blue ice cream truck parked near the London Eye entrance, with a colorful design and signage, which the man identifies as an 'ice cream truck.'",
+          "attribute": "audio-visual"
+        },
+        "River Thames": {
+          "description": "The wide river flowing beneath Westminster Bridge, with boats and barges visible, which the man identifies as 'the famous River Thames,' noting that 'the sun has come out to grace us.'",
+          "attribute": "audio-visual"
+        },
+        "Westminster Bridge": {
+          "description": "A green-painted bridge spanning the River Thames, with pedestrians, black cabs, and a rickshaw crossing it, which the man states he is 'walking over,' attempting to recall its name.",
+          "attribute": "audio-visual"
+        },
+        "Entrance A Sign": {
+          "description": "A pink sign with white text reading 'Entrance A' on the gazebo at the London Eye, indicating the ticket queue area.",
+          "attribute": "visual"
+        },
+        "Boat": {
+          "description": "A white and blue riverboat with passengers, moving along the River Thames near the Houses of Parliament.",
+          "attribute": "visual"
+        },
+        "Cab": {
+          "description": "Classic black London taxis driving across Westminster Bridge, with the London Eye visible in the background, which the man identifies as 'black cabs,' clarifying that 'cab is another word for taxi.'",
+          "attribute": "audio-visual"
+        },
+        "Photobooth": {
+          "description": "A red photobooth with a sign reading 'I ❤️ LONDON,' located near the London Eye entrance, with people posing inside, which the man identifies as a 'photobooth.'",
+          "attribute": "audio-visual"
+        },
+        "Rickshaw": {
+          "description": "A red and black three-wheeled rickshaw with a canopy, driven by a man, crossing Westminster Bridge.",
+          "attribute": "visual"
+        },
+        "Big Ben": {
+          "description": "The famous clock tower of the Houses of Parliament, with its large clock face and spire, seen across the river, which the man explicitly identifies as 'Big Ben.'",
+          "attribute": "audio-visual"
+        },
+        "Gazebo": {
+          "description": "A pink canopy tent labeled 'Entrance A' at the London Eye, where visitors queue for tickets and entry, which the man identifies by name, repeating 'Gazebo. Gazebo.'",
+          "attribute": "audio-visual"
+        },
+        "Houses of Parliament": {
+          "description": "The iconic Gothic-style building complex across the River Thames, featuring Big Ben and multiple towers, visible in the background.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with an upbeat, jazzy, and slightly whimsical background music as a brown leather-wrapped watch and a purple notebook are shown, hinting at travel preparations. A hand then zips a black suitcase and places a pink shirt on a wooden hanger, continuing the packing theme. The \"Man in Pink Shirt,\" a blonde-haired man, appears smiling in a bright, plant-filled room, holding his suitcase. He is then seen at an airport, boarding a plane with a boarding pass displaying 'DA NANG → LONDON'. Inside the aircraft, he rests with a blue and white striped neck pillow, gazing at clouds. After landing, he exits the plane, holding a blue travel mug, and walks through the airport terminal. Throughout these scenes, a green '0/30' counter is visible in the top right corner. As the man walks down a tree-lined London street, now wearing a grey sweater over his pink shirt, with classic brick buildings and parked cars in the background, the music briefly fades as he enthusiastically declares, \"Let's go.\" The music returns as he continues, \"Today, I'm going back to the UK. And you are coming with me. So let's travel and learn some English.\" Later, with the music still playing, he confirms, \"Alright, we've arrived in London. Got my coffee, got my suitcase. Gonna go to the center now and find my uncle. Let's go. It's lovely British summertime. I'm with my Uncle Lee. We're gonna go get the tube,\" speaking with a clear, engaging, and enthusiastic voice, inviting the viewer to join his journey and detailing his immediate plans in London.",
+        "The video begins with a first-person perspective of a man walking down a London street, passing a potted plant and a man on a skateboard, with a '0/30' counter visible in the top right, which updates to '6/30' throughout the segment. He states his intention to \"explore London\" as he enters the London Underground, specifically Queensbury station, tapping his card at a barrier labeled 'Please touch your card flat on the reader' and confirming he's \"walking through the barriers.\" He walks along the platform toward an arriving train, which he notes has \"arrived,\" and then gets on, standing among other passengers, including a man in a red hoodie and a woman in a grey sweater. After a short ride, he announces he's \"getting off\" and exits the train, then rides an escalator upward, explicitly identifying it as \"an escalator\" and holding the handrail as instructed by a sign reading 'Please hold the handrail' and 'Please stand on the right,' which he also verbally reinforces. Emerging onto a bustling street, he walks past a police car with \"flashing sirens\" and a restaurant, 'CÔTE BRASSERIE,' then points toward the London Eye, which he calls \"the famous London Eye.\" He continues walking past a colorful carousel, pointing at it and describing it as a place where \"you ride the horses and you spin 'round and 'round.\" A little girl is heard giggling as she chases a pigeon, which then flies away. He then moves toward a 'FISH & CHIPS' food stall, with pigeons scattered on the pavement, concluding with a comment about \"classic Britishness.\" The scene captures the vibrant urban atmosphere of London, transitioning from underground transit to lively street life with iconic landmarks and attractions.",
+        "The man, now in a grey sweater, continues his London journey, walking along the River Thames. He passes a blue 'FISH & CHIPS' stall, audibly remarking, \"Fish and Chips. Love it.\" He then narrates, \"Alright, we are walking by the famous River Thames,\" adding, \"This is the River Thames and the sun has come out to grace us. Look how beautiful it is.\" The camera pans to reveal the Houses of Parliament and Big Ben across the water, with boats moving along the river, which the man identifies as \"Big Ben.\" He exclaims, \"London!\" before flipping the camera around. He gestures toward the London Eye, a large white Ferris wheel, identifying it as \"The London Eye\" and describing its components as \"pods or capsules,\" also pointing out a \"spiral staircase.\" As he walks toward the London Eye entrance, he identifies a \"streetlamp,\" an \"ice cream truck,\" and a \"photobooth\" with an 'I ❤️ LONDON' sign. He notes the queue forming under a red 'Entrance A' gazebo, stating, \"These people are waiting in a queue,\" and reiterating, \"A long queue,\" while also identifying the structure as a \"Gazebo. Gazebo.\" He mentions \"The London Dungeon\" in passing. The man then crosses Westminster Bridge, where black cabs and a rickshaw pass by, with the London Eye still in view. He identifies the vehicles as \"These are black cabs,\" clarifying, \"Cab is another word for taxi,\" as he states he's \"walking over\" the bridge, attempting to recall its name. The 0/30 counter updates to 6/30, reflecting his progress amidst the lively, tourist-heavy atmosphere and clear skies."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 4,
+      "end_minute": 4,
+      "summary": "On Westminster Bridge, the Man in Pink Shirt explicitly names the location and points towards the Houses of Parliament across the River Thames, remarking it's where \"all the politicians hang out and chat sh*t.\" The camera pans to reveal the Clocktower against a cloudy sky, and the man clarifies that the tower is named \"Elizabeth Tower,\" distinct from the \"Big Ben\" bell within, while the sounds of massive seagulls are audible. The scene transitions to a busy street near Parliament, where the man observes a Woman in Pink Dress with Red Hearts \"talking to a policeman.\" A red double-decker bus with a 'Bio&Me' advertisement passes amidst \"busy, busy, busy\" urban sounds, including a helicopter. He walks along the sidewalk, passing the Union Jack flag atop what he identifies as \"the Union Jack flag atop the Westminster Palace.\" Approaching a red telephone box, he attempts to open it but finds it \"locked,\" producing a rattling sound. Continuing down a tree-lined street, the man reveals to the camera they are \"walking to Notting Hill via Portobello Road\" to \"try find where Hugh Grant had the famous scene,\" as a Notting Hill Movie Poster featuring Julia Roberts and Hugh Grant is displayed, all under an overcast sky with persistent urban activity and historic architecture.",
+      "involved_entities": {
+        "Double decker bus": {
+          "description": "A red double-decker bus with an advertisement for 'Bio&Me' and the slogan 'IMAGINE A YOGURT THAT TASTES THIS GOOD', driving along a busy London street, explicitly identified by the man.",
+          "attribute": "audio-visual"
+        },
+        "Clocktower": {
+          "description": "The famous clock tower of the Houses of Parliament, with its large clock face and ornate spire, shown prominently against a cloudy sky, which the man clarifies is called Elizabeth Tower, distinguishing it from 'Big Ben' which is the bell inside.",
+          "attribute": "audio-visual"
+        },
+        "Man in Pink Shirt": {
+          "description": "A man with blonde hair, now wearing a grey sweater over his pink shirt, walking along the streets of London, pointing at landmarks, and speaking directly to the camera with a clear accent, explicitly naming locations and providing commentary on the sights.",
+          "attribute": "audio-visual"
+        },
+        "Construction Worker in High-Visibility Vest": {
+          "description": "A man in a yellow high-visibility vest and white hard hat, standing on the sidewalk near the Parliament, possibly directing traffic or overseeing work.",
+          "attribute": "visual"
+        },
+        "Telephone box": {
+          "description": "A classic red British telephone box with glass panels and the word 'TELEPHONE' at the top, which the man approaches, identifies, and attempts to open, finding it 'locked' with a distinct rattling sound.",
+          "attribute": "audio-visual"
+        },
+        "Notting Hill Movie Poster": {
+          "description": "A digital overlay of the movie poster for 'Notting Hill', featuring Julia Roberts and Hugh Grant, appearing on screen as the man speaks to the camera, explicitly stating they are walking to Notting Hill via Portobello Road to find a famous scene involving Hugh Grant.",
+          "attribute": "audio-visual"
+        },
+        "London Street Scene": {
+          "description": "A busy urban street near the Houses of Parliament, with pedestrians, vehicles, and historic architecture, transitioning to a quieter tree-lined residential street.",
+          "attribute": "visual"
+        },
+        "Union Jack flag": {
+          "description": "The British national flag, flying atop the Houses of Parliament, with its red, white, and blue design clearly visible, identified by the man as 'the Union Jack flag atop the Westminster Palace'.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Pink Dress with Red Hearts": {
+          "description": "A woman wearing a pink dress with red heart patterns, walking on the sidewalk near the Houses of Parliament, holding a phone, and noted by the man as 'talking to a policeman'.",
+          "attribute": "audio-visual"
+        },
+        "Houses of Parliament": {
+          "description": "The iconic Gothic-style building complex across the River Thames, featuring multiple towers and spires, visible from Westminster Bridge, identified by the man as where 'all the politicians hang out and chat sh*t'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The man's London journey continues as he stands on Westminster Bridge, explicitly naming it, and points towards the iconic Gothic Houses of Parliament across the River Thames, which he identifies as where \"all the politicians hang out and chat sh*t.\" The camera then pans to reveal the Clocktower in full view, against a cloudy sky, with the man clarifying that while \"Big Ben\" refers to the bell inside, the tower itself is called \"Elizabeth Tower.\" Sounds of massive seagulls are heard in the background. The scene shifts to a bustling street near Parliament, where the man notes a woman in a pink dress with red hearts is \"talking to a policeman.\" A red double-decker bus, adorned with a 'Bio&Me' advertisement, drives by, which the man identifies amidst the \"busy, busy, busy\" urban sounds, including a helicopter flying past. He walks along the sidewalk, passing a Union Jack flag flying atop the Parliament building, which he identifies as \"the Union Jack flag atop the Westminster Palace.\" Approaching a classic red telephone box, he points it out and attempts to open it, but finds it \"locked,\" with a distinct rattling sound as he tries the door. Continuing down a tree-lined street, the man speaks directly to the camera, revealing they are \"walking to Notting Hill via Portobello Road\" to \"try find where Hugh Grant had the famous scene,\" as a movie poster for 'Notting Hill' featuring Julia Roberts and Hugh Grant appears on screen. The atmosphere remains overcast, with constant urban activity and historic architecture blending seamlessly."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 5,
+      "end_minute": 5,
+      "summary": "The Man in Pink Shirt, now in a grey sweater, navigates a wet, overcast London residential street, pointing out a canal adorned with graffiti and several narrowboats. He identifies four ducks, noting a male is called a 'drake.' The scene shifts to a lively street where he excitedly discovers a red telephone box repurposed as a cash machine, labeled 'NAMUH.' He demonstrates its use by withdrawing '20 quid' (20 pounds) using his green credit/debit card from his brown leather wallet, entering his PIN, and confirming it's an ATM. After retrieving the cash, he returns the card to his wallet, animatedly explaining the transaction. A green digital counter advances from 17/30 to 23/30 amidst the blend of traditional and modern urban elements, with a brief appearance of a Man in Red Jacket.",
+      "involved_entities": {
+        "Brown Leather Watch": {
+          "description": "A wristwatch with a brown leather strap and a dark face, visible on the man’s wrist as he interacts with the ATM.",
+          "attribute": "visual"
+        },
+        "Credit/Debit card": {
+          "description": "A green card explicitly identified by the man as his 'credit card or debit card,' which he inserts into the ATM to access funds.",
+          "attribute": "audio-visual"
+        },
+        "Man in Pink Shirt": {
+          "description": "A man with blonde hair, now wearing a grey sweater over his pink shirt, walking along the streets of London, pointing at landmarks, and speaking to the camera in a clear voice. He identifies features like the canal, 'narrowboats,' and counts 'four ducks,' even naming a male duck a 'drake.' He then explains the process of using the ATM, including local terminology like 'quid' for pounds.",
+          "attribute": "audio-visual"
+        },
+        "Canal": {
+          "description": "A narrow waterway lined with colorful graffiti and 'narrowboats,' bordered by modern and brick apartment buildings, with ducks along the edge, which the man points out and describes as being on his 'right-hand side.'",
+          "attribute": "audio-visual"
+        },
+        "London Street Scene": {
+          "description": "A busy urban street with shops, pedestrians, and vehicles, transitioning from a quiet canal area to a commercial street with storefronts like 'THE COUNTER' and 'PORTFOLIO CARDS & GIFTS'.",
+          "attribute": "visual"
+        },
+        "Cash machine": {
+          "description": "An ATM housed within a red telephone box, featuring a screen, keypad, and card slot, used by the man to withdraw cash. He explains its function as a 'cash machine or an ATM' and details the steps of inserting a card, entering a PIN, and withdrawing '20 quid' (pounds).",
+          "attribute": "audio-visual"
+        },
+        "Man in Red Jacket": {
+          "description": "A man wearing a red jacket, seen briefly on the street, waving and smiling at the camera, possibly a passerby or local resident.",
+          "attribute": "visual"
+        },
+        "0/30 Counter": {
+          "description": "A green digital counter in the top right corner, updating from 17/30 to 23/30 as the man progresses through the scene.",
+          "attribute": "visual"
+        },
+        "Ducks": {
+          "description": "Several ducks resting and foraging along the canal’s edge, near the water and grassy bank, which the man counts as 'one, two, three, four ducks' and identifies a male duck as a 'drake'.",
+          "attribute": "audio-visual"
+        },
+        "Telephone box": {
+          "description": "A classic red British telephone box with glass panels and the word 'TELEPHONE' at the top, repurposed as a cash machine with a modern ATM interface, labeled 'NAMUH,' which the man explicitly calls a 'phone box turned cash machine.'",
+          "attribute": "audio-visual"
+        },
+        "Narrowboat": {
+          "description": "Colorful, elongated boats moored along the canal, painted in bright hues like blue, orange, and green, reflecting in the water, explicitly identified by the man as 'narrowboats.'",
+          "attribute": "audio-visual"
+        },
+        "Wallet": {
+          "description": "A brown wallet held by the man, from which he retrieves his credit/debit card and into which he later puts the card back after withdrawing cash.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with the Man in Pink Shirt, now wearing a grey sweater, walking through a quiet, overcast London residential area with wet pavement, suggesting recent rain. He points to his right, identifying a canal lined with colorful graffiti and several colorful 'narrowboats' moored along it. He draws attention to 'one, two, three, four ducks' swimming and perched along the canal's edge, further explaining that a male duck is called a 'drake.' The scene then transitions to a bustling street with shops and pedestrians, where the man excitedly spots a classic red British telephone box, labeled 'NAMUH,' which he identifies as a 'phone box turned cash machine.' He demonstrates how to use this modern ATM, taking out his green 'credit card or debit card' from his brown wallet, inserting it into the slot, and typing his PIN. He announces his intention to withdraw '20 quid,' clarifying that 'quid' is the English term for pounds, and confirms it's a 'cash machine or an ATM.' After retrieving the cash, he puts his card back into his wallet, gesturing excitedly to the camera as he explains the process. The green digital counter in the top right corner progresses from 17/30 to 23/30, marking the video's progression through this blend of traditional London architecture and modern urban life, with a brief appearance of a man in a red jacket."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 6,
+      "end_minute": 8,
+      "summary": "A man, initially wearing a grey sweater over a pink shirt and a brown leather watch, interacts with a cash machine inside a red British telephone box, withdrawing 20 pounds. He then walks along Portobello Road, commenting on street art and searching for The Notting Hill Bookshop, noting market stalls, a Greggs bakery, Blenheim Pharmacy (referred to as a chemist), and the Electric Cinema. The scene transitions to inside The Notting Hill Bookshop, where he expresses excitement about the film connection before exiting and passing Rodeo Doughnuts, admiring their colorful appearance and specific flavors like 'Jammy Dodger' and 'Gordon Jamsay'. He continues through a vibrant street with terraced houses and heads to King's Cross Station, passing a Starbucks and looking for the 'Harry Potter' section. At King's Cross, he approaches Platform 9¾ and enters The Harry Potter Shop, asking permission to film. Inside the shop, he points out various merchandise, including Harry Potter T-shirts, mugs, Gryffindor robes (£74.95), character wands (£52.00), hoodies, keyrings, and scarves, noting a Niffler plush toy and a 'Phoenix Feather' section, concluding with a close-up of Hogwarts crest keychains.",
+      "involved_entities": {
+        "Brown Leather Watch": {
+          "description": "A wristwatch with a brown leather strap and a dark face, visible on the man’s wrist as he interacts with the ATM and walks along the street.",
+          "attribute": "visual"
+        },
+        "Electric Cinema": {
+          "description": "A blue and white cinema building with a red neon sign reading 'Electric CINEMA', pointed out by the man who identifies it as 'the oldest cinema in London'.",
+          "attribute": "audio-visual"
+        },
+        "Credit/Debit card": {
+          "description": "A green card inserted into the ATM by the man, used to access his funds, leading to the withdrawal of '20 pounds'.",
+          "attribute": "audio-visual"
+        },
+        "Man in Pink Shirt": {
+          "description": "A man with blonde hair, now wearing a grey sweater over his pink shirt, walking through King’s Cross Station and entering The Harry Potter Shop at Platform 9¾. He speaks directly to the camera, identifying locations and merchandise, and is heard asking for permission to film inside the shop.",
+          "attribute": "audio-visual"
+        },
+        "London Street Scene": {
+          "description": "A busy urban street with shops, pedestrians, and vehicles, transitioning from the bookshop to colorful buildings on Portobello Road, including Silver Fox Gallery. The man points out 'the colorful houses' and explains, 'We call these terraced houses, which are houses built in a row and joined together.' Upbeat jazz music plays in the background.",
+          "attribute": "audio-visual"
+        },
+        "Cash machine": {
+          "description": "An ATM housed within a red telephone box, featuring a screen, keypad, and card slot, used by the man to withdraw a 20-pound note, with the implied sound of a transaction as he exclaims about the money.",
+          "attribute": "audio-visual"
+        },
+        "Man in Red Jacket": {
+          "description": "A man wearing a red jacket, seen briefly on the street, waving and smiling at the camera, possibly a passerby or local resident.",
+          "attribute": "visual"
+        },
+        "The Notting Hill Bookshop": {
+          "description": "A bookshop with a blue awning and large windows displaying books, located at 13 Portobello Road, pointed out by the man with a text overlay 'Bookshop 📚'. The man explicitly names it, referencing 'The film, Notting Hill,' and suggests 'Let's go in.'",
+          "attribute": "audio-visual"
+        },
+        "0/30 Counter": {
+          "description": "A green digital counter in the top right corner, updating from 23/30 to 26/30 as the man progresses through the station and into the shop.",
+          "attribute": "visual"
+        },
+        "Bakery": {
+          "description": "A Greggs bakery with a blue sign and large windows displaying baked goods, pointed out by the man who identifies it as 'one of the most famous bakeries in England,' with a text overlay 'Bakery 🥐👨‍🍳'.",
+          "attribute": "audio-visual"
+        },
+        "Notting Hill Movie Poster": {
+          "description": "A digital overlay of the movie poster for 'Notting Hill', featuring Julia Roberts and Hugh Grant, appearing on screen as the man speaks about the bookshop, accompanied by a small inset video of Hugh Grant saying 'That's umm... perfect', adding a thematic nod.",
+          "attribute": "audio-visual"
+        },
+        "Blenheim Pharmacy": {
+          "description": "A pharmacy with a white and green sign reading 'BLENHEIM PHARMACY' and an NHS logo, pointed out by the man who explains it's a 'pharmacy' and in the UK, they say 'chemist'.",
+          "attribute": "audio-visual"
+        },
+        "Wallet": {
+          "description": "A brown wallet held by the man, from which he retrieves his credit/debit card and later receives cash.",
+          "attribute": "visual"
+        },
+        "Starbucks": {
+          "description": "A coffee shop with a glass facade and illuminated sign, located within King’s Cross Station, visible as the man walks past.",
+          "attribute": "visual"
+        },
+        "D’Oh Nut": {
+          "description": "A pink vanilla glaze doughnut with rainbow sprinkles, labeled as vegan and containing gluten and soya.",
+          "attribute": "visual"
+        },
+        "Gordon Jamsay Doughnut": {
+          "description": "A doughnut with strawberry glaze, pink wafer crumb, vanilla buttercream, fruit jam, and a Jammy Dodger, labeled as vegan and containing gluten, soya, and sulphites. The man explicitly names it, 'Gordon Jamsay,' and also mentions 'Jammy Dodger,' which is a component of this doughnut.",
+          "attribute": "audio-visual"
+        },
+        "Departure Board": {
+          "description": "A large digital display at King’s Cross Station showing train schedules, times, and destinations, visible above the concourse. A station announcement mentioning 'The 18:32' is heard, aligning with the function of a departure board.",
+          "attribute": "audio-visual"
+        },
+        "Rodeo Doughnuts": {
+          "description": "A bakery with a white facade and large display window showcasing colorful doughnuts. The man exclaims 'Woah, what are these? Doughnuts. Yeah, look unreal,' and specifically names 'Jammy Dodger' and 'Gordon Jamsay' doughnuts, followed by a laugh and 'Oh, sick.'",
+          "attribute": "audio-visual"
+        },
+        "Kings Cross": {
+          "description": "A large, modern train station with a high, geometric ceiling, bustling crowds, and a digital departure board visible in the background as the man walks toward Platform 9¾.",
+          "attribute": "visual"
+        },
+        "Silver Fox Gallery": {
+          "description": "A storefront with a black awning and sign reading 'SILVER FOX GALLERY,' located in a colorful building on Portobello Road.",
+          "attribute": "visual"
+        },
+        "Niffler Plush Toy": {
+          "description": "A grey, fluffy plush toy with orange feet and a bow tie, displayed on a shelf among other merchandise.",
+          "attribute": "visual"
+        },
+        "The Harry Potter Shop at Platform 9¾": {
+          "description": "A themed retail store, referred to by the man as 'the shop', with dark wood interiors, warm lighting, and displays of Harry Potter merchandise, including wands, robes, mugs, and plush toys, located at the end of Platform 9¾. The man asks for permission to film inside.",
+          "attribute": "audio-visual"
+        },
+        "Platform 9¾": {
+          "description": "A brick wall with a black sign reading 'PLATFORM 9¾', explicitly mentioned by the man as he approaches, located at the entrance to The Harry Potter Shop, surrounded by a crowd of visitors.",
+          "attribute": "audio-visual"
+        },
+        "Hogwarts Crest Keychains": {
+          "description": "Metal keychains shaped like the Hogwarts crest, hanging in a display with 'Harry Potter' tags, visible at the end of the video, and referred to by the man as 'keyrings'.",
+          "attribute": "audio-visual"
+        },
+        "Phoenix Feather Section": {
+          "description": "A themed display area labeled 'PHOENIX FEATHER' with dark, feather-like decor and merchandise, visible as the man walks past.",
+          "attribute": "visual"
+        },
+        "Character Wand Display": {
+          "description": "A red wall with mounted replica wands, each labeled with a character name and price, described as individually designed by master prop makers.",
+          "attribute": "visual"
+        },
+        "House Robes": {
+          "description": "Black robes with house crests (e.g., Gryffindor) displayed on hangers, priced at £74.95, visible in a section labeled 'HOUSE ROBES', and specifically identified by the man as 'robes' and a 'Gryffindor robe'.",
+          "attribute": "audio-visual"
+        },
+        "Phoenix Feather": {
+          "description": "A section labeled 'PHOENIX FEATHER' with dark, feather-like decor and merchandise, visible as the man walks past.",
+          "attribute": "visual"
+        },
+        "Character Wands": {
+          "description": "Replica wands mounted on a red wall, each with a label identifying the character (e.g., 'HARRY POTTER', 'LUNA LOVEGOOD'), priced at £52.00, described as individually designed by master prop makers, and pointed out by the man as 'the wands'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with the Man in Pink Shirt, now wearing a grey sweater, interacting with a cash machine housed inside a classic red British telephone box. With an enthusiastic British accent, he inserts a green credit/debit card, exclaiming, \"Here we go, look at that. 20 pounds. British pounds. Lovely. That is 20 quid,\" as he retrieves a 20-pound note and smiles at the camera. The scene transitions to him walking along a bustling Portobello Road, where an upbeat background music track begins. He narrates, \"Here we have some street art. Now we are walking on Portobello Road. Still not found Hugh Grant's bookshop yet. So, more to come.\" Over the music, he then provides commentary, possibly referencing a previous stop or general observations, identifying \"an aisle,\" \"tins,\" and \"jars,\" and stating, \"Uncle Lee is going to pay. This is a till,\" which is followed by a distinct cash register sound. He continues his walk, pointing out a market with some market stalls, then gestures toward a Greggs bakery, calling it \"one of the most famous bakeries in England.\" Next, he points to Blenheim Pharmacy, explaining, \"this is a pharmacy, in the UK, we say chemist.\" He then highlights the Electric Cinema as \"the oldest cinema in London.\" The 0/30 Counter updates from 23/30 to 26/30 as he progresses. Finally, he approaches The Notting Hill Bookshop with visible excitement, declaring, \"Right, we found it. The Notting Hill Bookshop is where they filmed...\" A small inset video of Hugh Grant from the movie 'Notting Hill' appears briefly with the subtitle 'That's umm... perfect,' adding a thematic nod to the location. Throughout, his Brown Leather Watch is visible on his wrist, and he carries a blue backpack, all set against the bustling street life, including pedestrians, parked cars, and storefronts, under overcast skies, showcasing a mix of modern and traditional London architecture.",
+        "The video opens with the man, now wearing a grey sweater over his pink shirt, standing outside The Notting Hill Bookshop, its blue awning and window display featuring books and a blue plaque. He enthusiastically exclaims, \"The film, Notting Hill,\" and suggests, \"Let's go in.\" Inside, wooden shelves packed with books by authors like Donna Tartt and Zadie Smith, and a display of greeting cards with a London skyline illustration are visible. Upbeat jazz music begins to play as he exits and walks past Rodeo Doughnuts, where he spots a display case showcasing colorful doughnuts. He excitedly asks, \"Woah, what are these? Doughnuts,\" commenting, \"Yeah, look unreal,\" and specifically naming a \"Jammy Dodger\" and a \"Gordon Jamsay\" doughnut, followed by a laugh and an exclamation of \"Oh, sick.\" The scene shifts to a vibrant street with colorful buildings—pink, blue, yellow, and brown—featuring storefronts like Silver Fox Gallery. The man continues walking, pointing at the landmarks and explaining, \"We call these terraced houses, which are houses built in a row and joined together.\" He then announces his next destination, stating, \"So right now, we're just cutting it a bit late, but we're going to head to King's Cross Station and go back to my hometown.\" He appears at King’s Cross Station, bustling with travelers under a large departure board, where a station announcement for \"The 18:32\" can be heard. He excitedly declares, \"Just arrived at King's Cross,\" passing a Starbucks, and mentions finding his train and looking for \"Harry Potter,\" as the green counter in the top right updates from 23/30 to 26/30.",
+        "The video opens with the Man in Grey Sweater, speaking to the camera as he walks through the bustling interior of King’s Cross Station, with the 0/30 Counter updating to 26/30. He approaches the iconic Platform 9¾, explicitly stating, \"9 and 3 quarters platform,\" and observing, \"That's where the people are queuing up. There it is.\" He then announces, \"Right, let's go in the shop,\" as he navigates a dense crowd near the brick wall marked with the 'PLATFORM 9¾' sign, leading to The Harry Potter Shop. Upon entering the dimly lit, warm, and magical shop, he asks, \"Can I film in here? Is that all right? Nice one, man,\" before the camera pans across shelves filled with themed merchandise. He points out items, saying, \"Harry Potter T-shirt,\" and \"Harry Potter mugs.\" Whimsical background music begins to play as he continues to explore, identifying \"the robes,\" specifically a \"Gryffindor robe,\" and \"the wands.\" He walks past displays of House Robes priced at £74.95 and Character Wands at £52.00, briefly turning to the camera with his rig. The background music continues as he points out \"Hoodies,\" reiterates \"Mugs,\" and identifies \"Keyrings\" and \"Scarves,\" passing a plush Niffler and a section labeled 'PHOENIX FEATHER'. The segment concludes with a close-up of Hogwarts crest keychains, as the environment shifts from the bright, open station to the cozy, immersive shop."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 9,
+      "end_minute": 9,
+      "summary": "The Man in Pink Shirt, now in a grey sweater, begins in The Harry Potter Shop at Platform 9¾, pointing to a sign and remarking on bypassing queues. After humming along to upbeat acoustic guitar music and declaring the shop visit complete, he moves to the King’s Cross Station concourse, announcing his intention to catch a train. He gestures to the Departure Board, showing destinations like Edinburgh and York, as a station announcement mentions departure boards. He then identifies the Ticket Machines as the place to purchase tickets. Approaching the Ticket Barriers, he scans his QR code e-ticket on his phone, stating, \"Alright, this is where you scan your ticket,\" and passes through, confirming, \"Got my ticket here, and we go through the barriers.\" He proceeds to Platform 0, under arched ceilings and brickwork, exclaiming, \"Hey! Here we are, on the train platforms,\" while continuing to hum. He walks towards his train, saying, \"Walking to our train. We made it,\" and points out the large, 24-hour Clock above Platform 0. He then walks to his carriage, \"We are walking to our carriage,\" and boards the train with red seats, saying, \"Getting on the train.\" A station announcement advises, \"Please mind the gap,\" as he takes a seat and looks out the window. The train departs, with the text 'LONDON → ?' appearing on screen, and the 0/30 Counter updates from 26/30 to 29/30, all accompanied by continuous upbeat acoustic music.",
+      "involved_entities": {
+        "Ticket Barrier": {
+          "description": "A row of automated gates with red and green lights, requiring a ticket or card to pass through, which the man identifies as 'the barriers' and passes through after scanning his ticket.",
+          "attribute": "audio-visual"
+        },
+        "Red Train Seats": {
+          "description": "Bright red upholstered seats inside the train carriage, arranged in rows with grey armrests and headrests, providing seating for passengers.",
+          "attribute": "visual"
+        },
+        "Man in Pink Shirt": {
+          "description": "A man with blonde hair, now wearing a grey sweater over his pink shirt, walking through King’s Cross Station, speaking directly to the camera in a clear voice, exploring merchandise, explaining station features, and boarding a train.",
+          "attribute": "audio-visual"
+        },
+        "Departure Board": {
+          "description": "A large digital display at King’s Cross Station showing train schedules, times, and destinations, visible above the concourse, explicitly mentioned by a female station announcement as 'Departure boards'.",
+          "attribute": "audio-visual"
+        },
+        "Platform 9¾": {
+          "description": "A brick wall with a black sign reading 'PLATFORM 9¾', located at the entrance to The Harry Potter Shop, surrounded by a crowd of visitors.",
+          "attribute": "visual"
+        },
+        "Ticket Machines": {
+          "description": "Blue self-service machines with instructions, located near the ticket barriers, which the man points out and refers to as 'ticket machines' where one gets 'tickets'.",
+          "attribute": "audio-visual"
+        },
+        "Platform 0": {
+          "description": "A train platform marked with a large '0' sign, featuring a historic clock and ornate metalwork, which the man identifies as 'train platforms' as he walks towards it.",
+          "attribute": "audio-visual"
+        },
+        "Train": {
+          "description": "A modern train with red and white livery at Platform 0, which the man boards, referring to it as 'the train' and his 'carriage', with the distinct sounds of a station announcement ('Please mind the gap') and the train's departure.",
+          "attribute": "audio-visual"
+        },
+        "0/30 Counter": {
+          "description": "A green digital counter in the top right corner, updating from 26/30 to 29/30 as the man progresses through the station and onto the train.",
+          "attribute": "visual"
+        },
+        "Clock": {
+          "description": "A large, ornate clock with a 24-hour face, mounted above Platform 0, which the man points out and refers to as 'the clock'.",
+          "attribute": "audio-visual"
+        },
+        "QR Code on Phone": {
+          "description": "A digital e-ticket displayed on a smartphone screen, showing a QR code and train details, which the man uses to 'scan your ticket' at the barrier.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens inside The Harry Potter Shop at Platform 9¾, where the Man in Pink Shirt, now wearing a grey sweater, points to the prominent 'PLATFORM 9¾' sign on a red shelf, remarking, \"Who needs to queue when you can see that there.\" Upbeat acoustic guitar music begins, which he hums along to before declaring, \"Alright, that was cool. Seen the Harry Potter shop.\" He then transitions to the bustling King’s Cross Station concourse, announcing, \"Now, time to get the train.\" He gestures towards the Departure Board, displaying schedules for destinations like Edinburgh and York, as a female station announcement explicitly mentions \"Departure boards.\" He then points out the Ticket Machines, explaining, \"This is where you get your tickets. Ticket machines.\" Approaching the Ticket Barriers, which he identifies as \"the barriers,\" he scans his QR code e-ticket on his phone, stating, \"Alright, this is where you scan your ticket,\" before passing through, adding, \"Got my ticket here, and we go through the barriers.\" Walking towards Platform 0, under the grand arched ceiling and brickwork, he exclaims, \"Hey! Here we are, on the train platforms,\" continuing to hum with the music. He proceeds towards his train, saying, \"Walking to our train. We made it,\" and points out the large, ornate Clock with a 24-hour face above Platform 0, noting, \"And there we have the clock.\" With the train on his right, he walks to his carriage, stating, \"We are walking to our carriage,\" and boards the train with red seats, saying, \"Getting on the train.\" A station announcement advises, \"Please mind the gap,\" as he settles into his seat and looks out the window. The train departs, with the text 'LONDON → ?' appearing on screen, while the 0/30 Counter updates from 26/30 to 29/30, all set to the continuous upbeat acoustic music."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 10,
+      "end_minute": 11,
+      "summary": "The Man in Pink Shirt, now in a grey sweater, travels by train, observing the passing landscape and writing in a Purple Notebook with a Chinese flag sticker. Upon arriving in York, he excitedly announces their arrival and his feeling of being home, disembarking with his Black Suitcase and walking through the station, passing a 'PRIORY STREET' Sign and exiting towards a house. He is greeted by a woman with blonde hair and enters a garden filled with Pink Roses and Purple Flowers, where he picks up a Dachshund, affectionately calling it 'Lenny' and remarking on its wagging tail and learning English. Later, holding a Brown Paper Cup in the garden, he expresses feeling jet-lagged but serene, asking viewers about their dream travel destinations. The video concludes with him in the garden, near a Garden Greenhouse, encouraging comments and promising to respond, before bidding farewell and holding the Dachshund, identified as 'Lenny', while 'SUBSCRIBE' and 'WATCH ANOTHER' prompts appear on screen, accompanied by a melancholic piano melody.",
+      "involved_entities": {
+        "Purple Notebook": {
+          "description": "A closed notebook with a purple cover, resting beside the watch, now being actively written in by the man on the train.",
+          "attribute": "visual"
+        },
+        "Brown Leather Watch": {
+          "description": "A wristwatch with a brown leather strap and a dark face, visible on the man’s wrist as he interacts with the ATM and walks along the street, now seen as he gestures while speaking in the garden.",
+          "attribute": "visual"
+        },
+        "Brown Paper Cup": {
+          "description": "A brown paper cup with a white rim, held by the man in the garden, from which he occasionally sips while speaking to the camera.",
+          "attribute": "audio-visual"
+        },
+        "0/30 Counter": {
+          "description": "A green digital counter in the top right corner, updating from 29/30 to 30/30 as the man progresses from the train to the garden.",
+          "attribute": "visual"
+        },
+        "Man in Pink Shirt": {
+          "description": "A man with blonde hair, now wearing a grey ribbed sweater and beige trousers, seated in a lush garden. He speaks directly to the camera with a clear, engaging voice, asking viewers about their dream destinations, encouraging comments, promising responses, expressing gratitude, and bidding farewell. He makes expressive hand gestures and occasionally sips from his Brown Paper Cup, and is later seen holding a Dachshund.",
+          "attribute": "audio-visual"
+        },
+        "PRIORY STREET Sign": {
+          "description": "A white rectangular sign with black lettering reading 'PRIORY STREET,' mounted on a brick wall, visible as the man walks past.",
+          "attribute": "visual"
+        },
+        "Welcome to York Sign": {
+          "description": "A large sign above a glass door reading 'Welcome to York,' with directional arrows for taxis, buses, and the city centre, marking the station exit.",
+          "attribute": "visual"
+        },
+        "Purple Flowers": {
+          "description": "Dark purple flowers with spiky petals, growing in pots in the garden, contributing to the lush, colorful environment.",
+          "attribute": "visual"
+        },
+        "Garden": {
+          "description": "A lush garden with vibrant Pink Roses, Purple Flowers, green foliage, and a small Garden Greenhouse, providing a serene backdrop for the man’s conversation.",
+          "attribute": "visual"
+        },
+        "Woman with Blonde Hair": {
+          "description": "A woman with long blonde hair, wearing a light grey top, who greets the man at the house entrance and smiles warmly as he approaches the garden.",
+          "attribute": "visual"
+        },
+        "Dachshund": {
+          "description": "A small black and tan dachshund, held affectionately by the man in the garden, with a blue bone-shaped tag on its collar, appearing calm and content.",
+          "attribute": "visual"
+        },
+        "Pink Roses": {
+          "description": "Vibrant pink roses climbing on a trellis in the garden, adding color and texture to the scene.",
+          "attribute": "visual"
+        },
+        "Black Suitcase": {
+          "description": "A black rolling suitcase with an orange accent, which the man zips, handles, and carries throughout the journey, now being pulled along a street and into a garden.",
+          "attribute": "visual"
+        },
+        "Garden Greenhouse": {
+          "description": "A small, light green greenhouse with a glass roof, visible in the background of the garden, surrounded by potted plants and flowers.",
+          "attribute": "visual"
+        },
+        "30/30 Counter": {
+          "description": "A green digital counter in the top right corner, displaying '30/30' to indicate the video’s completion.",
+          "attribute": "visual"
+        },
+        "WATCH ANOTHER": {
+          "description": "White text overlay on the right side of the screen, encouraging viewers to watch another video.",
+          "attribute": "visual"
+        },
+        "SUBSCRIBE": {
+          "description": "White text overlay on the left side of the screen, prompting viewers to subscribe to the channel.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of the Man in Pink Shirt, now in a grey sweater, seated on a train, gazing out the window as the landscape blurs past, while melancholic instrumental music and train sounds play. He writes in a Purple Notebook, a Chinese flag sticker visible on the table. The train arrives at a station, and he announces, \"Let's go. We have arrived in York,\" then excitedly exclaims, \"We are home!\" as he steps onto the platform, pulling his Black Suitcase with an orange accent. Footsteps are heard as he walks through the station, passing under a glass canopy, and exits through a door marked 'Welcome to York,' which indicates directions to taxis, buses, and the city centre. He continues along a brick-lined street, passing a 'PRIORY STREET' sign, and approaches a house with a black wrought-iron fence, where he is greeted by a woman with blonde hair. They enter a vibrant garden filled with flowers and greenery. He laughs, then picks up a small black and tan dachshund, affectionately holding it close, remarking, \"Wagging his tail,\" and greeting it with \"Hello, fella,\" and \"Home, sweet home,\" as the dog barks excitedly. He then addresses the dog, calling it \"Lenny,\" and asks, \"Say hello, Lenny,\" and \"Can you speak some English?\", adding, \"He's still learning.\" Finally, he sits and speaks to the camera, holding a Brown Paper Cup, gesturing with his hands as he explains, \"I am feeling very jet-lagged, very tired from all my travels. But there's one feeling I want to leave you guys with, and this feeling is...\" The word 'Serene' appears on screen with a chime, and he clarifies, \"It means peaceful and calm,\" raising his index finger as the text 'where would you love to travel to?' appears, suggesting a reflective moment in the peaceful garden.",
+        "The video concludes in a lush, sunlit garden, where the Man in Pink Shirt, now wearing a grey ribbed sweater and beige trousers, sits on a bench holding a Brown Paper Cup. He speaks directly to the camera with expressive hand gestures, occasionally sipping from the cup, engaging viewers by asking, \"Where is your dream destination? Where would you love to travel to in the future and why?\" He encourages them to \"Let me know in the comments, I'm curious to know,\" promising to \"respond to every single one of you.\" He then thanks viewers, stating, \"As always, thank you for watching,\" and bids farewell with \"Much love, peace, see you soon.\" The vibrant garden, featuring Pink Roses, Purple Flowers, and various potted plants, with a Garden Greenhouse in the background, is reinforced by a wider shot through a glass door, creating a tranquil atmosphere. On-screen text 'SUBSCRIBE' and 'WATCH ANOTHER' appears, prompting viewer engagement. The final shot is a close-up of the man smiling warmly at the camera, affectionately holding a small black and tan Dachshund with a blue bone-shaped tag on its collar. The scene is beautifully framed by the garden’s foliage under a bright blue sky with scattered clouds, while a gentle, melancholic piano melody plays throughout the latter half of the segment. The 30/30 counter remains in the top right corner, indicating the video’s completion."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Purple Notebook": "A closed notebook with a purple cover, resting beside the watch, now being actively written in by the man on the train.",
+    "Brown Leather Watch": "A wristwatch with a brown leather strap and a dark face, visible on the man’s wrist as he interacts with the ATM and walks along the street, now seen as he gestures while speaking in the garden.",
+    "0/30 Counter": "A green digital counter in the top right corner, updating from 29/30 to 30/30 as the man progresses from the train to the garden.",
+    "Man in Pink Shirt": "A man with blonde hair, now wearing a grey ribbed sweater and beige trousers, seated in a lush garden. He speaks directly to the camera with a clear, engaging voice, asking viewers about their dream destinations, encouraging comments, promising responses, expressing gratitude, and bidding farewell. He makes expressive hand gestures and occasionally sips from his Brown Paper Cup, and is later seen holding a Dachshund.",
+    "Blue Travel Mug": "A reusable blue mug held by the man after landing, likely containing a beverage.",
+    "London Street Scene": "A busy urban street with shops, pedestrians, and vehicles, transitioning from the bookshop to colorful buildings on Portobello Road, including Silver Fox Gallery. The man points out 'the colorful houses' and explains, 'We call these terraced houses, which are houses built in a row and joined together.' Upbeat jazz music plays in the background.",
+    "Pink Shirt on Hanger": "A neatly folded pink shirt placed on a wooden hanger, indicating packing.",
+    "Blue and White Striped Neck Pillow": "A travel pillow worn by the man during the flight, providing comfort.",
+    "Boarding Pass": "A paper boarding pass held by the man, displaying 'DA NANG → LONDON' in bold white text.",
+    "Black Suitcase": "A black rolling suitcase with an orange accent, which the man zips, handles, and carries throughout the journey, now being pulled along a street and into a garden.",
+    "Escalator": "A moving staircase with metal steps and handrails, explicitly identified by the speaker as 'an escalator,' marked with signs instructing passengers to 'Please hold the handrail' and 'Please stand on the right.'",
+    "London Eye": "A large white Ferris wheel with glass capsules, prominently visible in the background, which the man points toward and identifies as 'the London Eye,' describing its components as 'pods or capsules' and mentioning a 'spiral staircase' nearby.",
+    "Police Car": "A yellow and blue checkered police vehicle parked on the street, with the speaker noting its 'flashing sirens.'",
+    "FISH & CHIPS Stall": "A blue food kiosk with a sign reading 'FISH & CHIPS,' located near a tree and pedestrian walkway, which the man passes, audibly remarking 'Fish and Chips. Love it.'",
+    "Barrier": "A ticket barrier at the London Underground entrance, featuring a card reader and instructions to 'Please touch your card flat on the reader,' where the speaker confirms tapping his card to walk through.",
+    "Carousel": "A colorful, ornate merry-go-round with painted horses and lights, enclosed by a metal fence, which the man points at, and the speaker identifies as 'a carousel' where 'you ride the horses and you spin 'round and 'round.'",
+    "Handrail": "The metal handrail on the escalator, which the man holds as he ascends, with the speaker reinforcing the instruction to 'Please hold the handrail' and identifying it as 'a handrail.'",
+    "London Underground": "The iconic red circle and blue bar 'UNDERGROUND' sign, marking the entrance to Queensbury station, referred to by the speaker as 'the tube,' with a barrier requiring card tapping for entry.",
+    "CÔTE BRASSERIE": "A restaurant with a blue awning and outdoor seating, featuring a sign that reads 'CÔTE BRASSERIE' and 'PRE-THEATRE FEAST' on a menu board, generally referred to as a 'restaurant' by the speaker.",
+    "Queue": "A line of people waiting at 'Entrance A' of the London Eye, managed by red stanchions and a pink gazebo, which the man points out as a 'queue' and specifically a 'long queue.'",
+    "Streetlamp": "A classic black streetlamp with a glass globe, positioned along the riverside walkway near the London Eye, which the man identifies as a 'streetlamp.'",
+    "Ice cream truck": "A white and blue ice cream truck parked near the London Eye entrance, with a colorful design and signage, which the man identifies as an 'ice cream truck.'",
+    "River Thames": "The wide river flowing beneath Westminster Bridge, with boats and barges visible, which the man identifies as 'the famous River Thames,' noting that 'the sun has come out to grace us.'",
+    "Westminster Bridge": "A green-painted bridge spanning the River Thames, with pedestrians, black cabs, and a rickshaw crossing it, which the man states he is 'walking over,' attempting to recall its name.",
+    "Entrance A Sign": "A pink sign with white text reading 'Entrance A' on the gazebo at the London Eye, indicating the ticket queue area.",
+    "Boat": "A white and blue riverboat with passengers, moving along the River Thames near the Houses of Parliament.",
+    "Cab": "Classic black London taxis driving across Westminster Bridge, with the London Eye visible in the background, which the man identifies as 'black cabs,' clarifying that 'cab is another word for taxi.'",
+    "Photobooth": "A red photobooth with a sign reading 'I ❤️ LONDON,' located near the London Eye entrance, with people posing inside, which the man identifies as a 'photobooth.'",
+    "Rickshaw": "A red and black three-wheeled rickshaw with a canopy, driven by a man, crossing Westminster Bridge.",
+    "Big Ben": "The famous clock tower of the Houses of Parliament, with its large clock face and spire, seen across the river, which the man explicitly identifies as 'Big Ben.'",
+    "Gazebo": "A pink canopy tent labeled 'Entrance A' at the London Eye, where visitors queue for tickets and entry, which the man identifies by name, repeating 'Gazebo. Gazebo.'",
+    "Houses of Parliament": "The iconic Gothic-style building complex across the River Thames, featuring multiple towers and spires, visible from Westminster Bridge, identified by the man as where 'all the politicians hang out and chat sh*t'.",
+    "Double decker bus": "A red double-decker bus with an advertisement for 'Bio&Me' and the slogan 'IMAGINE A YOGURT THAT TASTES THIS GOOD', driving along a busy London street, explicitly identified by the man.",
+    "Clocktower": "The famous clock tower of the Houses of Parliament, with its large clock face and ornate spire, shown prominently against a cloudy sky, which the man clarifies is called Elizabeth Tower, distinguishing it from 'Big Ben' which is the bell inside.",
+    "Construction Worker in High-Visibility Vest": "A man in a yellow high-visibility vest and white hard hat, standing on the sidewalk near the Parliament, possibly directing traffic or overseeing work.",
+    "Telephone box": "A classic red British telephone box with glass panels and the word 'TELEPHONE' at the top, repurposed as a cash machine with a modern ATM interface, labeled 'NAMUH,' which the man explicitly calls a 'phone box turned cash machine.'",
+    "Notting Hill Movie Poster": "A digital overlay of the movie poster for 'Notting Hill', featuring Julia Roberts and Hugh Grant, appearing on screen as the man speaks about the bookshop, accompanied by a small inset video of Hugh Grant saying 'That's umm... perfect', adding a thematic nod.",
+    "Union Jack flag": "The British national flag, flying atop the Houses of Parliament, with its red, white, and blue design clearly visible, identified by the man as 'the Union Jack flag atop the Westminster Palace'.",
+    "Woman in Pink Dress with Red Hearts": "A woman wearing a pink dress with red heart patterns, walking on the sidewalk near the Houses of Parliament, holding a phone, and noted by the man as 'talking to a policeman'.",
+    "Credit/Debit card": "A green card inserted into the ATM by the man, used to access his funds, leading to the withdrawal of '20 pounds'.",
+    "Canal": "A narrow waterway lined with colorful graffiti and 'narrowboats,' bordered by modern and brick apartment buildings, with ducks along the edge, which the man points out and describes as being on his 'right-hand side.'",
+    "Cash machine": "An ATM housed within a red telephone box, featuring a screen, keypad, and card slot, used by the man to withdraw a 20-pound note, with the implied sound of a transaction as he exclaims about the money.",
+    "Man in Red Jacket": "A man wearing a red jacket, seen briefly on the street, waving and smiling at the camera, possibly a passerby or local resident.",
+    "Ducks": "Several ducks resting and foraging along the canal’s edge, near the water and grassy bank, which the man counts as 'one, two, three, four ducks' and identifies a male duck as a 'drake'.",
+    "Narrowboat": "Colorful, elongated boats moored along the canal, painted in bright hues like blue, orange, and green, reflecting in the water, explicitly identified by the man as 'narrowboats.'",
+    "Wallet": "A brown wallet held by the man, from which he retrieves his credit/debit card and later receives cash.",
+    "Electric Cinema": "A blue and white cinema building with a red neon sign reading 'Electric CINEMA', pointed out by the man who identifies it as 'the oldest cinema in London'.",
+    "The Notting Hill Bookshop": "A bookshop with a blue awning and large windows displaying books, located at 13 Portobello Road, pointed out by the man with a text overlay 'Bookshop 📚'. The man explicitly names it, referencing 'The film, Notting Hill,' and suggests 'Let's go in.'",
+    "Bakery": "A Greggs bakery with a blue sign and large windows displaying baked goods, pointed out by the man who identifies it as 'one of the most famous bakeries in England,' with a text overlay 'Bakery 🥐👨‍🍳'.",
+    "Blenheim Pharmacy": "A pharmacy with a white and green sign reading 'BLENHEIM PHARMACY' and an NHS logo, pointed out by the man who explains it's a 'pharmacy' and in the UK, they say 'chemist'.",
+    "Starbucks": "A coffee shop with a glass facade and illuminated sign, located within King’s Cross Station, visible as the man walks past.",
+    "D’Oh Nut": "A pink vanilla glaze doughnut with rainbow sprinkles, labeled as vegan and containing gluten and soya.",
+    "Gordon Jamsay Doughnut": "A doughnut with strawberry glaze, pink wafer crumb, vanilla buttercream, fruit jam, and a Jammy Dodger, labeled as vegan and containing gluten, soya, and sulphites. The man explicitly names it, 'Gordon Jamsay,' and also mentions 'Jammy Dodger,' which is a component of this doughnut.",
+    "Departure Board": "A large digital display at King’s Cross Station showing train schedules, times, and destinations, visible above the concourse, explicitly mentioned by a female station announcement as 'Departure boards'.",
+    "Rodeo Doughnuts": "A bakery with a white facade and large display window showcasing colorful doughnuts. The man exclaims 'Woah, what are these? Doughnuts. Yeah, look unreal,' and specifically names 'Jammy Dodger' and 'Gordon Jamsay' doughnuts, followed by a laugh and 'Oh, sick.'",
+    "Kings Cross": "A large, modern train station with a high, geometric ceiling, bustling crowds, and a digital departure board visible in the background as the man walks toward Platform 9¾.",
+    "Silver Fox Gallery": "A storefront with a black awning and sign reading 'SILVER FOX GALLERY,' located in a colorful building on Portobello Road.",
+    "Niffler Plush Toy": "A grey, fluffy plush toy with orange feet and a bow tie, displayed on a shelf among other merchandise.",
+    "The Harry Potter Shop at Platform 9¾": "A themed retail store, referred to by the man as 'the shop', with dark wood interiors, warm lighting, and displays of Harry Potter merchandise, including wands, robes, mugs, and plush toys, located at the end of Platform 9¾. The man asks for permission to film inside.",
+    "Platform 9¾": "A brick wall with a black sign reading 'PLATFORM 9¾', located at the entrance to The Harry Potter Shop, surrounded by a crowd of visitors.",
+    "Hogwarts Crest Keychains": "Metal keychains shaped like the Hogwarts crest, hanging in a display with 'Harry Potter' tags, visible at the end of the video, and referred to by the man as 'keyrings'.",
+    "Phoenix Feather Section": "A themed display area labeled 'PHOENIX FEATHER' with dark, feather-like decor and merchandise, visible as the man walks past.",
+    "Character Wand Display": "A red wall with mounted replica wands, each labeled with a character name and price, described as individually designed by master prop makers.",
+    "House Robes": "Black robes with house crests (e.g., Gryffindor) displayed on hangers, priced at £74.95, visible in a section labeled 'HOUSE ROBES', and specifically identified by the man as 'robes' and a 'Gryffindor robe'.",
+    "Phoenix Feather": "A section labeled 'PHOENIX FEATHER' with dark, feather-like decor and merchandise, visible as the man walks past.",
+    "Character Wands": "Replica wands mounted on a red wall, each with a label identifying the character (e.g., 'HARRY POTTER', 'LUNA LOVEGOOD'), priced at £52.00, described as individually designed by master prop makers, and pointed out by the man as 'the wands'.",
+    "Ticket Barrier": "A row of automated gates with red and green lights, requiring a ticket or card to pass through, which the man identifies as 'the barriers' and passes through after scanning his ticket.",
+    "Red Train Seats": "Bright red upholstered seats inside the train carriage, arranged in rows with grey armrests and headrests, providing seating for passengers.",
+    "Ticket Machines": "Blue self-service machines with instructions, located near the ticket barriers, which the man points out and refers to as 'ticket machines' where one gets 'tickets'.",
+    "Platform 0": "A train platform marked with a large '0' sign, featuring a historic clock and ornate metalwork, which the man identifies as 'train platforms' as he walks towards it.",
+    "Train": "A modern train with red and white livery at Platform 0, which the man boards, referring to it as 'the train' and his 'carriage', with the distinct sounds of a station announcement ('Please mind the gap') and the train's departure.",
+    "Clock": "A large, ornate clock with a 24-hour face, mounted above Platform 0, which the man points out and refers to as 'the clock'.",
+    "QR Code on Phone": "A digital e-ticket displayed on a smartphone screen, showing a QR code and train details, which the man uses to 'scan your ticket' at the barrier.",
+    "Brown Paper Cup": "A brown paper cup with a white rim, held by the man in the garden, from which he occasionally sips while speaking to the camera.",
+    "PRIORY STREET Sign": "A white rectangular sign with black lettering reading 'PRIORY STREET,' mounted on a brick wall, visible as the man walks past.",
+    "Welcome to York Sign": "A large sign above a glass door reading 'Welcome to York,' with directional arrows for taxis, buses, and the city centre, marking the station exit.",
+    "Purple Flowers": "Dark purple flowers with spiky petals, growing in pots in the garden, contributing to the lush, colorful environment.",
+    "Garden": "A lush garden with vibrant Pink Roses, Purple Flowers, green foliage, and a small Garden Greenhouse, providing a serene backdrop for the man’s conversation.",
+    "Woman with Blonde Hair": "A woman with long blonde hair, wearing a light grey top, who greets the man at the house entrance and smiles warmly as he approaches the garden.",
+    "Dachshund": "A small black and tan dachshund, held affectionately by the man in the garden, with a blue bone-shaped tag on its collar, appearing calm and content.",
+    "Pink Roses": "Vibrant pink roses climbing on a trellis in the garden, adding color and texture to the scene.",
+    "Garden Greenhouse": "A small, light green greenhouse with a glass roof, visible in the background of the garden, surrounded by potted plants and flowers.",
+    "30/30 Counter": "A green digital counter in the top right corner, displaying '30/30' to indicate the video’s completion.",
+    "WATCH ANOTHER": "White text overlay on the right side of the screen, encouraging viewers to watch another video.",
+    "SUBSCRIBE": "White text overlay on the left side of the screen, prompting viewers to subscribe to the channel."
+  }
+}

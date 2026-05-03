@@ -1,0 +1,359 @@
+{
+  "video_id": "video306",
+  "audio_id": "video306_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 2,
+      "summary": "In a BBC News studio, a news anchor announced that the Princess of Wales revealed she is undergoing treatment for cancer, introducing a personal message. The scene shifted to a serene garden where the Princess of Wales, seated on a wooden bench and wearing a white and navy striped sweater, spoke directly to the camera. She expressed gratitude for support and understanding following abdominal surgery in January, which was initially thought to be non-cancerous but found cancer present. The Princess explained that her medical team advised a course of preventative chemotherapy, and she is now in the early stages, emphasizing that she and Prince William have been managing this privately for their young family. She reassured viewers that she is well and getting stronger every day, focusing on healing her mind, body, and spirit, and highlighted the comfort from William and the public's love and support. The Princess concluded by requesting time and space for her family.",
+      "involved_entities": {
+        "Princess of Wales": {
+          "description": "Seated on a wooden bench in a garden, wearing a white and navy striped sweater, with long wavy brown hair, speaking directly to the camera with a calm, reflective, and sincere expression. She reveals in a clear, composed voice that she is undergoing cancer treatment, recovering from major surgery, and has taken time to explain this to her children George, Charlotte, and Louis, while also expressing gratitude for support from William and the public.",
+          "attribute": "audio-visual"
+        },
+        "BBC News Studio": {
+          "description": "A modern newsroom with circular lighting, red and white design elements, and a large screen displaying the Princess of Wales, serving as the initial setting for the broadcast.",
+          "attribute": "visual"
+        },
+        "BBC News Anchor": {
+          "description": "A woman in a navy blue dress, standing in a modern news studio, holding papers and delivering a report beside a large screen showing the Princess of Wales, speaking with a clear, professional news-reporting tone to announce the Princess's cancer treatment and introduce her personal message.",
+          "attribute": "audio-visual"
+        },
+        "Garden Bench Scene": {
+          "description": "An outdoor setting with a wooden bench, blooming pink and yellow flowers, and greenery, serving as the backdrop for the Princess of Wales’s personal statement. The lighting is natural and soft, enhancing the intimate and reflective mood of the scene.",
+          "attribute": "audio-visual"
+        },
+        "BBC News": {
+          "description": "Displayed via a red banner at the bottom of the screen with the headline 'Princess of Wales undergoing cancer treatment' and a scrolling ticker providing updates. The BBC News logo and 'BREAKING' label are visible, along with a time stamp that changes from 18:01 to 18:02.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens in a modern BBC News studio, featuring circular lighting and red accents, with the BBC News logo visible. A female news anchor, dressed in a navy blue dress and holding papers, stands beside a large screen displaying a smiling portrait of the Princess of Wales in a green blazer. The anchor speaks with a clear, professional news-reporting tone, announcing that the Princess of Wales has just revealed she is undergoing treatment for cancer, and introduces a very personal message from her. On-screen graphics display 'BBC NEWS BREAKING' and the time '18:00'. The scene then transitions to a serene outdoor garden setting with blooming flowers and greenery, where the Princess of Wales is seated on a wooden bench. She wears a white and navy striped sweater and speaks directly to the camera with a composed, reflective demeanor and a calm British accent. The Princess expresses gratitude, stating, \"I wanted to take this opportunity to say thank you personally for all the wonderful messages of support and for your understanding whilst I've been recovering from surgery.\" She continues, revealing, \"It has been an incredibly tough couple of months for our entire family,\" but praises her \"fantastic medical team.\" She explains that in January, she underwent \"major abdominal surgery in London,\" initially thought to be for a non-cancerous condition. However, tests after the successful operation \"found cancer had been present.\" The Princess concludes by stating her medical team advised \"a course of preventative chemotherapy,\" and she is \"now in the early stages.\" Throughout this, on-screen headlines update to 'Princess of Wales undergoing cancer treatment' and 'Catherine is undergoing course of preventative chemotherapy,' reinforcing the gravity of her personal announcement.",
+        "The video opens with the Princess of Wales seated on a wooden bench in a serene garden, wearing a white and navy striped sweater, her long wavy brown hair styled naturally. The softly blurred background features blooming pink and yellow flowers, creating an intimate atmosphere. On-screen BBC News graphics display a red banner with the headline 'Princess of Wales undergoing cancer treatment' and a scrolling ticker confirming 'Catherine is undergoing course of preventative chemotherapy' and 'Princess of Wales announces she is having cancer treatment,' with the timestamp changing from 18:01 to 18:02. Speaking directly to the camera with a calm, reflective, and sincere expression, the Princess reveals that her diagnosis 'came as a huge shock' and that she and William have been managing it privately for their young family. She explains it took time to recover from major surgery and to explain everything to George, Charlotte, and Louis, reassuring them she will be okay. She states, 'I am well and getting stronger every day,' focusing on healing her 'mind, body, and spirit,' and highlights William's comfort and the public's 'love, support and kindness,' which 'means so much to us both.' She concludes by requesting 'some time, space' for her family."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 3,
+      "end_minute": 4,
+      "summary": "The Princess of Wales, seated on a garden bench amidst blooming flowers, delivered a personal message about her cancer treatment, expressing joy in her work and prioritizing recovery, while urging others facing cancer not to lose hope. A BBC News banner displayed 'Princess of Wales undergoing cancer treatment' with a ticker about preventative chemotherapy. The scene shifted to the BBC News Studio, where an anchor introduced the Princess's message, filmed in Windsor, as a 'huge shock.' A second anchor confirmed the news was a 'deeply upsetting time' for the royal family, noting the message aimed to protect her children. The broadcast briefly returned to the garden before showing the Princess at an outdoor event, interacting with children, including a young boy in a Scout uniform who received a marshmallow. The anchor explained the announcement's timing for the Easter holidays to allow family privacy and to tell the children properly, highlighting the Princess's desire to shield them from scrutiny. Another voice quoted the Princess's hopeful tone about a 'full recovery,' and the first anchor described her message as revealing 'vulnerability' while she felt 'very positive and very hopeful.' The final visual depicted a man and two children exiting a stone building, possibly a church, and being greeted by a clergyman in white robes.",
+      "involved_entities": {
+        "BBC News Studio": {
+          "description": "A modern newsroom with circular lighting, red and white design elements, and a large screen displaying the Princess of Wales, serving as the initial setting for the broadcast.",
+          "attribute": "visual"
+        },
+        "BBC News Anchor": {
+          "description": "A woman in a navy blue dress, standing in a modern news studio, holding papers and delivering a report beside a large screen showing the Princess of Wales, speaking with a professional and informative tone about the Princess's personal message and the impact of the news.",
+          "attribute": "audio-visual"
+        },
+        "Princess of Wales at Outdoor Event": {
+          "description": "The Princess of Wales, wearing a light blue jacket and a yellow scarf, is seen bending down to interact warmly with a young boy, smiling and engaging with him during a Scout-like outdoor event. The accompanying news report extensively discusses her cancer treatment announcement, highlighting her focus on her children and family, the timing of the news to coincide with her children's school holidays, and her personal message stating 'I am well' and her hope for 'a full recovery.' She is described as feeling 'very positive' and 'hopeful,' with her video message revealing her 'vulnerability.'",
+          "attribute": "audio-visual"
+        },
+        "Second BBC News Anchor": {
+          "description": "A woman in a black blazer over a blue top, seated at the news desk in the BBC News Studio, speaking with a serious and empathetic tone, confirming the news's impact and discussing the family's situation.",
+          "attribute": "audio-visual"
+        },
+        "Garden Bench Scene": {
+          "description": "An outdoor setting with a wooden bench, blooming pink and yellow flowers, and greenery, serving as the backdrop for the Princess of Wales’s personal statement. The lighting is natural and soft, enhancing the intimate and reflective mood of the scene.",
+          "attribute": "visual"
+        },
+        "BBC News": {
+          "description": "Displayed via a red banner at the bottom of the screen with the headline 'Princess of Wales undergoing cancer treatment' and a scrolling ticker providing updates. The BBC News logo and 'BREAKING' label are visible, with the time stamp changing from 18:02 to 18:03. The audio track consists of news anchors discussing the very subject of this banner, providing context and details about the Princess's announcement and her message.",
+          "attribute": "audio-visual"
+        },
+        "Princess of Wales": {
+          "description": "Seated on a wooden bench in a garden, wearing a white and navy striped sweater, with long wavy brown hair, speaking directly to the camera with a calm, clear, and reflective voice about her cancer treatment, her work, and her focus on recovery, while also offering words of hope to others. The background features blooming trees and yellow flowers, creating a serene atmosphere. Later seen at an outdoor event in a light blue jacket and yellow scarf, interacting with children and adults.",
+          "attribute": "audio-visual"
+        },
+        "Clergyman in White Robes": {
+          "description": "A man in white clerical robes, standing outside a stone building, greeting a man in a brown coat and two children, suggesting a formal or ceremonial context.",
+          "attribute": "visual"
+        },
+        "Adult Woman in Black Jacket and Headscarf": {
+          "description": "An adult woman wearing a black jacket and a headscarf, who hands a marshmallow to the young boy, indicating a supportive and nurturing role in the outdoor event.",
+          "attribute": "visual"
+        },
+        "Young Boy in Scout Uniform": {
+          "description": "A young boy with light brown hair, wearing a striped shirt and a yellow and purple Scout scarf, actively participates in roasting marshmallows and gardening, showing curiosity and engagement with adults and peers. While no direct audio is associated with him, his presence visually underscores the news report's discussion about the Princess of Wales's focus on her children and family during her cancer treatment.",
+          "attribute": "audio-visual"
+        },
+        "Man in Brown Coat": {
+          "description": "A man in a brown coat, accompanied by two children, exiting a stone building and being greeted by the clergyman, possibly indicating a family or official visit.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with the Princess of Wales, seated on a wooden bench in a serene garden adorned with blooming pink and yellow flowers, wearing a white and navy striped sweater. She speaks directly to the camera with a calm, clear, and reflective voice, sharing a deeply personal message about her cancer treatment, expressing that her work has always brought her joy, and emphasizing her current focus on making a full recovery. She extends her thoughts to all those affected by cancer, urging them not to lose faith or hope, stating, \"You are not alone.\" Throughout this segment, a BBC News banner displays the headline 'Princess of Wales undergoing cancer treatment' with a scrolling ticker about preventative chemotherapy. The scene then transitions to the modern BBC News Studio, featuring red and white design elements and circular lighting. A BBC News Anchor, dressed in a navy blue dress, stands beside a large screen showing the Princess, speaking with a professional and informative tone, introducing the Princess's \"very personal message\" filmed in Windsor and describing the news as \"a huge shock.\" The broadcast then cuts to a second BBC News Anchor, seated at a news desk in a black blazer, who speaks with a serious and empathetic tone, confirming the news is \"a huge shock\" and a \"deeply upsetting time\" for the Princess and her family, noting that the message was \"entirely driven by trying to protect...\" The video briefly returns to the garden scene before showing the Princess of Wales at an outdoor, Scout-like event, wearing a light blue jacket and yellow scarf, interacting warmly with children and adults, all while the second anchor's voice continues. The BBC News banner remains consistent, with the time stamp changing from 18:02 to 18:03.",
+        "The minute opens with a vibrant outdoor scene, showing a group of children and adults, many in Scout-style uniforms with yellow and purple scarves, engaged in activities. A young boy in a striped shirt is seen roasting a marshmallow, shielding his eyes from the sun, before warmly interacting with the Princess of Wales, who is wearing a light blue jacket and scarf and bends down to smile at him. He then receives a marshmallow from another adult in a black jacket and headscarf and eats it. This visual narrative unfolds as a female news anchor's voice discusses the Princess of Wales's cancer treatment, explaining that the announcement was timed for the Easter holidays when 'Prince George, Princess Charlotte and Prince Louis break up from school,' allowing the family to spend time privately and tell the children properly. The scene transitions to the same boy gardening with a small shovel in a patch of soil, surrounded by other children and adults with wheelbarrows, set against a lively communal backdrop of tents and trees. The news anchor continues, detailing the Princess's desire to protect her children from scrutiny. Another female voice then highlights the 'tone of her message,' quoting her as saying, 'I am well' and expressing hope for 'a full recovery.' The first anchor returns, confirming the Princess is 'feeling very positive and very hopeful,' and that her video message reveals her 'vulnerability.' The final visual shifts to a different outdoor location where a man in a brown coat and two children exit a stone building, possibly a church, greeted by a clergyman in white robes. Throughout the segment, the BBC News banner prominently displays the headline 'Princess of Wales undergoing cancer treatment' with a scrolling ticker, and the time stamp changes from 18:02 to 18:03."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 5,
+      "end_minute": 7,
+      "summary": "Outside a stone church with Gothic-style arched windows, a clergyman in white robes and a red stole greeted a group including a man in a brown coat, a woman in a beige coat and hat, another woman in a navy blue coat with a black fascinator, and a young boy in a dark suit, before they walked into a garden area. Concurrently, a BBC News Anchor discussed speculation surrounding the Princess of Wales, referencing 'Catherine in her own words' and hoping her video statement would 'quell some of that more outlandish rumor and speculation about her condition,' as a banner read 'Princess of Wales undergoing cancer treatment.' The scene shifted to a BBC News Studio with two anchors; the first anchor reported that the Princess of Wales would not be seen on a 'normal schedule of public duty' for some time, also mentioning the King's ongoing cancer treatment, emphasizing that 'two key significant figures' were absent from public life but were focusing on recovery and privacy. The video returned to the church scene, showing the group's composed walk, concluding with the rapid sound of a camera shutter. A narrator explained the Princess's desire to protect her children after her cancer diagnosis, recalling her polite interaction with crowds on Christmas Day. Three weeks after a December event, she underwent major abdominal surgery where cancer was found. Visuals showed a person entering 'THE CLINIC,' followed by the Princess in casual attire pushing a shopping trolley with a child. A Mother's Day photo, intended to ease speculation, had the opposite effect, coinciding with a still image of the Princess smiling with her children on a garden bench. The Princess had pulled out of an event due to a 'personal matter,' which was around the time of her diagnosis. She was later seen at a festive evening event with Prince William and their children, and at a children's center cutting a ribbon and assisting with crafts. The narrator expressed hope for an end to speculation as the family spent time privately for Easter, stating the Princess would only appear occasionally with medical approval, wanting 'time, space, and privacy.' In the BBC News Studio, anchors discussed the 'very difficult' and 'unstable time' for the monarchy, noting 'very little information' was being given about the Princess's preventative chemotherapy and focus on recovery, similar to King Charles's situation.",
+      "involved_entities": {
+        "Clergyman in White Robes": {
+          "description": "Standing outside a stone church, greeting the group with hand gestures and engaging in conversation, wearing white clerical robes with a red stole.",
+          "attribute": "visual"
+        },
+        "Woman in Navy Blue Coat": {
+          "description": "In a navy blue coat with a black fascinator, she walks beside the man in the brown coat, smiling and interacting with the group.",
+          "attribute": "visual"
+        },
+        "BBC News Anchor": {
+          "description": "A woman in a navy blue dress, seated at the news desk, who introduces a medical editor and discusses the limited information being given about the Princess of Wales's health, similar to King Charles's situation.",
+          "attribute": "audio-visual"
+        },
+        "Second BBC News Anchor": {
+          "description": "A woman in a black blazer over a blue top, seated at the news desk, looking toward the screen with a serious expression, present during the BBC News broadcast.",
+          "attribute": "audio-visual"
+        },
+        "Princess of Wales": {
+          "description": "Seen in a navy blue coat and black fascinator exiting a church, later in a white coat at a festive event with Prince William and their children, and then in a blue blazer cutting a ribbon at a children’s center. A still image of her in a green blazer is shown on BBC News. Audio reveals she pulled out of an event due to a 'personal matter,' was diagnosed with cancer, began preventative chemotherapy, is focused on making a full recovery, and wants 'time, space, and privacy' to deal with her diagnosis and recovery. Her children, Prince George, Princess Charlotte, and Prince Louis, are mentioned as needing an explanation of 'what's wrong.'",
+          "attribute": "audio-visual"
+        },
+        "Man in Brown Coat": {
+          "description": "Walking with two children and a woman in a beige coat, appearing composed and occasionally adjusting his coat as he moves.",
+          "attribute": "visual"
+        },
+        "BBC News Studio": {
+          "description": "A modern newsroom with red and white design elements, featuring two anchors at a desk and a large screen displaying the Princess of Wales, with a visible control room in the background. The audio confirms it is a live BBC News broadcast discussing the Princess's health.",
+          "attribute": "audio-visual"
+        },
+        "Young Boy in Dark Suit": {
+          "description": "Dressed in a dark suit and tie, he walks closely with the adults, looking around with a neutral expression.",
+          "attribute": "visual"
+        },
+        "Woman in Beige Coat": {
+          "description": "Wearing a beige coat and matching hat, she walks beside the man in the brown coat, holding a black clutch and looking forward with a calm expression.",
+          "attribute": "visual"
+        },
+        "Person in White Puffer Coat": {
+          "description": "A person wearing a white puffer coat, seen entering the entrance of 'THE CLINIC' building.",
+          "attribute": "visual"
+        },
+        "Adult Woman in Black Jacket and Headscarf": {
+          "description": "Wearing a black jacket and headscarf, she is seen in the background during the outdoor event, though not directly interacting in this segment.",
+          "attribute": "visual"
+        },
+        "Young Boy in Scout Uniform": {
+          "description": "A young boy with light brown hair, wearing a striped shirt and a yellow and purple Scout scarf, is seen receiving flowers from the Princess.",
+          "attribute": "visual"
+        },
+        "Shopping Trolley with Child": {
+          "description": "A red shopping trolley being pushed by the Princess of Wales, with a child seated in it, indicating a casual outing.",
+          "attribute": "visual"
+        },
+        "Princess of Wales at Outdoor Event": {
+          "description": "Wearing a navy blue coat, she bends down to interact warmly with a young boy, smiling and engaging with him during an outdoor event.",
+          "attribute": "visual"
+        },
+        "Princess of Wales (Casual Attire)": {
+          "description": "Wearing a dark coat and jeans, she is seen pushing a shopping trolley with a child, appearing relaxed and smiling.",
+          "attribute": "visual"
+        },
+        "BBC News": {
+          "description": "Displayed via a red banner at the bottom of the screen with the headline 'Princess of Wales undergoing cancer treatment' and a scrolling ticker providing updates. The BBC News logo and 'BREAKING' label are visible, with the time stamp changing from 18:05 to 18:06. The audio confirms it is a BBC News report, with a narrator identifying herself as Daniela Ralph, BBC News, and a second anchor introducing a medical editor.",
+          "attribute": "audio-visual"
+        },
+        "Princess of Wales (Garden Bench Scene)": {
+          "description": "In a still image, she is seated on a garden bench with three children, all smiling, wearing a dark top and jeans, with the children in casual clothing.",
+          "attribute": "visual"
+        },
+        "THE CLINIC": {
+          "description": "A grand red-brick building with a Union Jack flag, identified by a stone sign above the entrance as 'THE CLINIC' at 20 Second Place, where a person in a white puffer coat is seen entering.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a solemn scene outside a stone church featuring Gothic-style arched windows under overcast daylight, as a clergyman in white robes with a red stole greets a group including a man in a brown coat, a woman in a beige coat and matching hat, another woman in a navy blue coat with a black fascinator, and two children, one a young boy in a dark suit. As they walk slowly from the church steps into a garden area, engaging in brief interactions with the gesturing clergyman, a female BBC News Anchor's voice discusses the 'speculation and rumor' surrounding the Princess of Wales, referring to 'Catherine in her own words' and expressing hope that her video statement will 'quell some of that more outlandish rumor and speculation about her condition.' The BBC News banner at the bottom of the screen reads 'Princess of Wales undergoing cancer treatment' with a scrolling ticker providing updates. The scene then cuts to a modern BBC News Studio, where two anchors are seated at a desk. The first anchor, in a navy blue dress, continues to report, while the second anchor, in a black blazer, looks towards a large screen displaying a smiling image of the Princess of Wales in a green blazer. The second anchor's voice interjects, noting it's 'a very difficult time as well for the monarchy,' to which the first anchor (later identified as Daniela) agrees, calling it 'a very unstable time' and confirming that the Princess of Wales will not be seen for some time on 'any kind of normal schedule of public duty,' also mentioning the King's ongoing cancer treatment. The first anchor emphasizes that 'two key significant figures' are missing from public life, but the Royal Family states both are doing well, focusing on recovery, seeking privacy, and aiming to return to royal duties soon. The second anchor then thanks 'Daniela' and introduces her report on the impact on the Royal Family. The video cuts back to the church scene, showing the group continuing their composed and formal walk, with the man in the brown coat adjusting his attire and the woman in the navy blue coat smiling. The minute concludes with the rapid sound of a camera shutter, followed by a male voice beginning to narrate, 'This was the last official foot...'",
+        "The minute opens with a female narrator describing an image of the Princess of Wales with the Royal Family on Christmas Day at Sandringham, highlighting her desire to protect her three children after going public with her cancer diagnosis. Visually, the Princess, in a navy blue coat and black fascinator, is seen exiting a stone church with a clergyman in white robes, a man in a brown coat, a woman in a beige coat, and a young boy in a dark suit, all while a BBC News banner announces her cancer treatment. The narrator notes that back in December, all seemed well as the Princess spoke to crowds; her polite, clear voice with a British accent is then heard, saying, “Thank you so much. That's very sweet of you to come and say hello to us. Yeah, well, have a very happy Christmas,” as she smiles and waves to onlookers amidst background crowd sounds. The scene transitions to an outdoor event where the Princess warmly interacts with a young boy, handing him flowers, while the narrator explains that three weeks later, she was admitted for major abdominal surgery, and signs of cancer were found in post-operative tests. As the narrator discusses the intense public clamor for information, visuals show a person entering 'THE CLINIC' at 20 Second Place, followed by the Princess in casual attire pushing a shopping trolley with a child. The narrator then references a photo released on Mother's Day, meant to ease speculation but doing the opposite due to edits, coinciding with a still image of the Princess smiling with her three children on a garden bench. The final scenes return to formal settings, showing the Princess walking with other royals outside a stone building, as the narrator concludes by mentioning a Thanksgiving service in Windsor for King Constantine of Greece as a turning point, all while the BBC News banner continues to display updates on her preventative chemotherapy and focus on recovery, with the time stamp progressing from 18:05 to 18:06.",
+        "The video opens with the Princess of Wales, wearing a navy blue coat and black fascinator, exiting a stone church alongside a clergyman in white robes with a red stole, a man in a brown coat, and a woman in a beige coat, as uniformed personnel salute. A female narrator explains that the Princess had pulled out of an event due to a 'personal matter,' which is now known to be around the time she was diagnosed with cancer and began treatment. The scene transitions to a festive evening where the Princess, now in a white coat, is seen with Prince William and their children, warmly engaging with clergy and attendees near a decorated Christmas tree, smiling and interacting with a young boy in a dark suit. The narrator describes this as an 'incredibly turbulent time for the family,' whose priority has been to protect their children, Prince George, Princess Charlotte, and Prince Louis, and explain 'what's wrong.' The video then shifts to a brightly lit indoor children’s center, where the Princess, in a blue blazer, cuts a pink ribbon with two young girls before joining children at a table for a craft activity, leaning in to assist and smile. The narrator continues, expressing hope that speculation and rumors will stop as the family spends time privately for the Easter holiday, adding that the Princess won't be back to a full program of public duty for some time, only appearing occasionally when her medical team has approved, as she wants 'time, space, and privacy' to deal with her diagnosis and recovery. The scene transitions to a BBC News Studio, where two anchors sit at a desk with a large screen displaying a still image of the Princess of Wales in a green blazer, smiling. A BBC News banner at the bottom reads 'Princess of Wales undergoing cancer treatment' with scrolling updates, including 'Catherine is undergoing course of preventative chemotherapy' and 'Princess says she is focused on making full recovery,' with the time stamp changing from 18:05 to 18:06. The narrator, identified as Daniela Ralph, BBC News, concludes her report, and a second BBC News anchor then introduces a medical editor to discuss the situation, noting that 'very little information' is being given, similar to King Charles's situation."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 8,
+      "end_minute": 10,
+      "summary": "At 18:07 in the BBC News Studio, the BBC News Anchor, in a navy blue dress, requested details on the Princess of Wales's treatment, as the Second BBC News Anchor, in a dark suit, explained the Princess's positive recovery outlook, noting that the specific type and stage of cancer were not disclosed; a screen displayed the Princess in a teal blazer, and the BBC News banner scrolled updates about her cancer treatment. Archival footage showed the Princess of Wales, in a white coat with black trim, interacting with gallery attendees and a man in a brown suit within a gallery featuring deep red walls and framed portraits, while the Second BBC News Anchor detailed the discovery of cancer post-'successful abdominal surgery' and the commencement of 'preventative chemotherapy.' By 18:09, the BBC News banner continued to display updates, as a male voiceover explained the aim of the surgery and treatment, showing the Princess in a white coat in the gallery, then transitioning to an outdoor royal event in the rain where the Princess, in ceremonial robes with Prince William, descended steps. The voiceover relayed the Princess's message of well-being, followed by a discussion on the rarity of cancer in a 42-year-old woman, emphasizing that 'cancer touches the lives of every family,' accompanied by visuals of the royal family—Prince William, the Princess in a vibrant blue coat, and their children—walking on a sunny day, a nighttime walk past illuminated Christmas trees with the Princess in a maroon coat, and a formal balcony appearance. The segment concluded with the Princess, in a pink top, seated with her children in an audience, including Keir Starmer. At 18:10, a close-up showed the Princess of Wales, smiling in a bright blue coat, alongside Prince William, as Fergus Walsh, the medical editor, discussed the 'huge shock' of the cancer diagnosis, transitioning to a black-and-white family portrait. Fergus Walsh highlighted the Princess's message of hope, prompting the female anchor in the BBC News Studio to introduce Helena Wilkinson, their correspondent in Windsor, who confirmed the global shock of the Princess's diagnosis. The video concluded with the Princess in a navy blue coat, Prince William, and their children walking through a park-like setting, waving to onlookers, as the BBC News banner displayed updates on the Princess's cancer treatment.",
+      "involved_entities": {
+        "Man in Brown Suit": {
+          "description": "Wearing a brown suit and glasses, walking beside the Princess of Wales in the gallery, gesturing as he speaks and engaging with her and others.",
+          "attribute": "visual"
+        },
+        "BBC News Studio": {
+          "description": "A modern newsroom with red and white design elements, featuring the anchor at a desk and a large screen displaying the Princess, with a visible control room in the background.",
+          "attribute": "visual"
+        },
+        "BBC News Anchor": {
+          "description": "A woman in a navy blue dress, seated at the news desk, delivering the report with a serious expression, with a large screen behind her showing the Princess of Wales. Her clear, professional female voice introduces other reporters and provides context, stating the Princess's focus is 'on her family at home.'",
+          "attribute": "audio-visual"
+        },
+        "Gallery Attendees": {
+          "description": "A group of individuals in the gallery, including a woman in a patterned dress and a man in a beige jacket, who interact with the Princess of Wales and the man in the brown suit, smiling and conversing.",
+          "attribute": "visual"
+        },
+        "Second BBC News Anchor": {
+          "description": "A man in a dark suit with a blue tie and glasses, seated at the news desk, speaking to the camera with an authoritative and informative voice, providing details about the Princess of Wales's cancer diagnosis, treatment, and the positive tone of her statement.",
+          "attribute": "audio-visual"
+        },
+        "BBC News": {
+          "description": "Displayed via a red banner at the bottom of the screen with the headline 'Princess of Wales undergoing cancer treatment' and a scrolling ticker providing updates. The BBC News logo and 'BREAKING' label are visible, with the time stamp changing from 18:09 to 18:10.",
+          "attribute": "visual"
+        },
+        "Princess of Wales": {
+          "description": "Wearing a bright blue coat in the initial outdoor scene, then a white top in a close-up, and later a navy blue coat with a matching hat during the family walk. Her expressions range from smiling to serious and composed, reflecting the gravity of the announcement.",
+          "attribute": "visual"
+        },
+        "Clergyman in White Robes": {
+          "description": "Standing outside a stone church, greeting the group with hand gestures and engaging in conversation, wearing white clerical robes with a red stole.",
+          "attribute": "visual"
+        },
+        "Prince William": {
+          "description": "Appears in a navy blue sweater over a light shirt in the opening scene, then in a dark overcoat during the family walk, holding hands with one of his sons. He maintains a calm and supportive demeanor.",
+          "attribute": "visual"
+        },
+        "Keir Starmer": {
+          "description": "Seated in the audience, wearing a dark suit with a red tie, looking attentively forward.",
+          "attribute": "visual"
+        },
+        "Princess of Wales (Casual Attire)": {
+          "description": "Wearing a dark coat and jeans in the audience scene, seated with her children.",
+          "attribute": "visual"
+        },
+        "Man in Brown Coat": {
+          "description": "Walking with two children and a woman in a beige coat, appearing composed and occasionally adjusting his coat as he moves.",
+          "attribute": "visual"
+        },
+        "Princess of Wales (Audience Scene)": {
+          "description": "Wearing a pink top and seated in the audience with her children, appearing composed and attentive during the public event.",
+          "attribute": "visual"
+        },
+        "Young Boy in Dark Suit": {
+          "description": "Dressed in a dark suit and tie, he walks closely with the adults, looking around with a neutral expression.",
+          "attribute": "visual"
+        },
+        "Woman in Beige Coat": {
+          "description": "Wearing a beige coat and matching hat, she walks beside the man in the brown coat, holding a black clutch and looking forward with a calm expression.",
+          "attribute": "visual"
+        },
+        "Field Reporter": {
+          "description": "A woman in a black coat over a dark turtleneck, identified as Helena Wilkinson, standing outside Windsor Castle, delivering updates with a serious expression. The castle’s round tower is visible behind her. Her clear, professional female voice confirms the news is spreading among tourists and that the Princess's cancer diagnosis 'will come as a shock across the world.'",
+          "attribute": "audio-visual"
+        },
+        "Princess of Wales and Family (Outdoor Walk)": {
+          "description": "The Princess in a navy blue coat and matching hat, Prince William in a dark overcoat, and their three children in smart coats, walking through a park-like setting, waving to onlookers. The Princess holds hands with her daughter, while Prince William holds hands with one of the sons.",
+          "attribute": "visual"
+        },
+        "Family Portrait": {
+          "description": "A black-and-white image of the Princess, Prince William, and their three children, all dressed in white shirts and dark trousers, posing formally against a neutral backdrop.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in the modern BBC News Studio, a space defined by red and white design elements, where a woman, the BBC News Anchor in a navy blue dress, is seen handling papers as she asks, with a clear, professional voice, for more details regarding the Princess of Wales's treatment. Beside her, the Second BBC News Anchor, a man in a dark suit, blue tie, and glasses, speaks directly to the camera. He explains, in an authoritative and informative voice, that while the specific type or stage of cancer is not being disclosed, the Princess of Wales's statement is 'very positive in terms of recovery.' Behind them, a large screen displays a smiling image of the Princess in a teal blazer and white blouse, while a red BBC News banner at the bottom scrolls updates like 'Princess of Wales undergoing cancer treatment' and 'Princess says she is focused on making full recovery.' The time stamp reads 18:07. The scene then cuts to archival footage of the Princess of Wales, now seen in a white coat with black trim, walking through a richly decorated gallery with deep red walls adorned with numerous framed portraits. She smiles and engages warmly, gesturing as she interacts with a man in a brown suit and glasses, and several other gallery attendees. The Second BBC News Anchor's voice continues, detailing that the cancer was discovered after 'successful abdominal surgery' and that the Princess is now undergoing 'preventative chemotherapy,' which began late last month. He clarifies that chemotherapy is an umbrella term for any drug treatment to kill cancer, either to mop up remaining cells or for other purposes. The BBC News banner continues to update, including 'Catherine is undergoing course of preventative chemotherapy,' as the Princess maintains a composed and poised demeanor in the elegant gallery setting.",
+        "The minute begins with a BBC News banner displaying \"Princess of Wales undergoing cancer treatment,\" with scrolling updates confirming \"Catherine is undergoing course of preventative chemotherapy\" and is \"in the early stages of treatment,\" as the timestamp shifts from 18:07 to 18:09. A male voiceover provides medical context, detailing \"successful surgery to remove the cancer\" and the aim \"to ensure that the cancer doesn't return in the future,\" explaining that treatment can be an infusion or \"daily tablets\" often taken \"at home.\" Visually, the Princess of Wales is first seen in a white coat with black trim, warmly interacting with attendees and a man in a brown suit in a gallery with deep red walls. The scene then shifts to an outdoor royal event in the rain, where the Princess, adorned in ceremonial robes with a tiara and sash, descends steps with Prince William and other dignitaries, including umbrella-holding guards. The male voiceover continues, relaying that \"Catherine is stressing she is well and getting stronger every day.\" A female voice then questions the rarity of a \"woman of her age,\" 42, being treated for cancer, to which the male voice responds by highlighting that \"cancer touches the lives of every family,\" with \"one in two of us will get cancer,\" and while more common with age, \"thousands of people every year are diagnosed at a younger age,\" with \"a thousand people a day in the UK\" (audio fades). During this discussion, the video showcases various public appearances: the royal family—Prince William, the Princess in a vibrant blue coat and matching hat, and their three children—walking, smiling, and waving on a sunny day outside a stone building; a festive nighttime walk past illuminated Christmas trees with the Princess in a maroon coat; and a formal balcony appearance where the Princess, in full ceremonial attire, stands smiling broadly with Prince William and their children. The segment concludes with the Princess, in a pink top, seated attentively with her children in an audience at a public event, followed by a wider shot of the crowd, including Keir Starmer.",
+        "The minute opens with a close-up of the Princess of Wales, smiling warmly in a bright blue coat, alongside Prince William in a navy blue sweater. A male voice, later identified as Fergus Walsh, the medical editor, immediately begins discussing a cancer diagnosis, describing it as a 'huge shock' for any family and noting that '3 million people in the UK are living with cancer.' The visual transitions to a close-up of the Princess speaking earnestly, followed by a black-and-white family portrait of the Princess, Prince William, and their three children. Fergus Walsh continues, highlighting the Princess's message urging others affected by cancer 'not to lose faith or hope,' calling it a 'key message of this evening.' The scene then cuts to the BBC News Studio, where a female anchor in a navy blue dress, seated at a desk with a large screen displaying the Princess behind her, responds with 'Absolutely.' She introduces Fergus Walsh, thanking him, before transitioning to Helena Wilkinson, their correspondent in Windsor. A split-screen appears, showing the anchor on the left and Helena Wilkinson, dressed in a black coat, standing outside Windsor Castle with its iconic round tower visible. The anchor's clear, professional voice explains that the Princess's focus is 'on her family at home.' Helena Wilkinson then speaks, her voice clear despite the outdoor setting, confirming that the news is spreading among tourists outside the castle and that the Princess's cancer diagnosis 'will come as a shock across the world.' The video concludes with a full-family outdoor scene: the Princess in a navy blue coat and matching hat, Prince William in a dark overcoat, and their three children in smart coats, walking through a park-like setting, waving to onlookers. The Princess holds hands with her daughter, while Prince William holds hands with one of his sons, against a backdrop of a crowd and bare-branched trees. Throughout the segment, the BBC News banner at the bottom of the screen reads 'Princess of Wales undergoing cancer treatment,' with scrolling updates like 'Catherine is undergoing course of preventative chemotherapy' and 'Princess of Wales: I am now in the early stages of treatment,' and the time stamp changes from 18:09 to 18:10."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 11,
+      "end_minute": 12,
+      "summary": "The Princess of Wales, in a bright blue coat, and Prince William, in a dark overcoat, are seen walking with their three children, George, Charlotte, and Louis, all in smart coats and waving to onlookers in a park-like setting, as a BBC News banner displays 'Princess of Wales undergoing cancer treatment' with scrolling updates about her preventative chemotherapy and focus on recovery. The Princess, in a white top, speaks with a composed and determined expression, her hand raised slightly, referencing her personal statement about her cancer diagnosis and the need to explain the news to her children using careful words. The family is later shown in a dimly lit church, holding candles and hymnals, with the Princess in a cream coat smiling gently as she lights a candle for one of her sons, highlighting their unity. A formal balcony appearance follows with King Charles and Queen Camilla, all waving to the crowd, with the Princess in a vibrant green coat, as the reporter notes the family's intention to stay close and private at their Windsor home. The video then cuts to a formal event in Boston in 2022, showing the Princess in an elegant strapless gown with a green choker beside Prince William in a tuxedo, both smiling, followed by a close-up of the Princess in a red hat and dark coat, looking serious beside Prince William, with the reporter concluding by mentioning Catherine's recovery. The final scene is a formal group portrait in a grand hall with ornate columns and golden decor, featuring King Charles, Queen Camilla, Prince William, and the Princess in evening attire. Earlier, field reporter Helena Wilkinson, dressed in a black coat over a dark turtleneck, delivered a live report from outside Windsor Castle under a clear sky, with the iconic round tower and stone walls as a backdrop, detailing the Princess's ongoing recovery from major abdominal surgery and preventative chemotherapy, noting the family's desire for space after going public. The on-screen ticker reinforced key details of the announcement. The scene then cut to a BBC News Studio where a second anchor, in a navy blue dress, continued the coverage with a composed, serious demeanor, acknowledging the report and stating they would return to the story, with the consistent red banner reinforcing the gravity of the announcement.",
+      "involved_entities": {
+        "Princess of Wales and Family (Outdoor Walk)": {
+          "description": "Visually, the Princess in a navy blue coat and matching hat, Prince William in a dark overcoat, and their three children in smart coats, walking through a park-like setting, waving to onlookers. The audio confirms they live in Windsor at Adelaide Cottage and discusses the parents' need to explain the cancer diagnosis to their 'three young children, George, Charlotte, and Louis,' highlighting the sensitive and potentially 'devastating and probably confusing' nature of the news for them.",
+          "attribute": "audio-visual"
+        },
+        "King Charles": {
+          "description": "Wearing a red military uniform with medals and a sash, waving from the balcony and later in a formal portrait with a white bow tie and medals.",
+          "attribute": "visual"
+        },
+        "Queen Camilla": {
+          "description": "Wearing a red coat and black hat during the balcony scene, and later in a white gown with a tiara and blue sash in the formal portrait.",
+          "attribute": "visual"
+        },
+        "Prince William": {
+          "description": "Appears in a dark overcoat, tuxedo, and evening attire, maintaining a calm and supportive demeanor. The audio mentions him alongside the Princess in having to talk to their children about the diagnosis.",
+          "attribute": "audio-visual"
+        },
+        "Family Portrait": {
+          "description": "A black-and-white image of the Princess, Prince William, and their three children, all dressed in white shirts and dark trousers, posing formally against a neutral backdrop.",
+          "attribute": "visual"
+        },
+        "Princess of Wales (Casual Attire)": {
+          "description": "Wearing a dark coat and jeans in the audience scene, seated with her children.",
+          "attribute": "visual"
+        },
+        "BBC News": {
+          "description": "Displayed via a red banner at the bottom of the screen with the headline 'Princess of Wales undergoing cancer treatment' and a scrolling ticker providing updates. The BBC News logo and 'BREAKING' label are visible, with the time stamp showing 18:11. The audio content from both reporters directly reinforces the urgency and gravity of this breaking news.",
+          "attribute": "audio-visual"
+        },
+        "Princess of Wales (Garden Bench Scene)": {
+          "description": "In a still image, she is seated on a garden bench with three children, all smiling, wearing a dark top and jeans, with the children in casual clothing.",
+          "attribute": "visual"
+        },
+        "Princess of Wales": {
+          "description": "Visually seen in various outfits including a bright blue coat, white top, cream coat, vibrant green coat, elegant strapless gown, red hat, and evening attire, displaying expressions from smiling to serious and composed. The audio identifies her as 'Catherine' and discusses her 'very personal statement' about her cancer diagnosis, her recovery, and her role in explaining it to her children, emphasizing the 'very careful words' used.",
+          "attribute": "audio-visual"
+        },
+        "Princess of Wales (Audience Scene)": {
+          "description": "Wearing a pink top and seated in the audience with her children, appearing composed and attentive during the public event.",
+          "attribute": "visual"
+        },
+        "BBC News Studio": {
+          "description": "A modern newsroom with red and white design elements, featuring the anchor at a desk and a large screen displaying the BBC News control room with multiple monitors in the background. The studio anchor's voice is heard here, acknowledging the field report.",
+          "attribute": "audio-visual"
+        },
+        "BBC News Anchor": {
+          "description": "A woman in a navy blue dress, seated at the news desk, delivering the report with a composed, serious demeanor. She is heard acknowledging Helena Wilkinson's report and stating that the broadcast will return to the story, with a large screen behind her showing the BBC News control room.",
+          "attribute": "audio-visual"
+        },
+        "Field Reporter": {
+          "description": "A woman in a black coat over a dark turtleneck, identified as Helena Wilkinson, standing outside Windsor Castle. She delivers a live report with a serious expression, discussing Princess Catherine's recovery from major abdominal surgery and her ongoing preventative chemotherapy, noting the family's desire for privacy. The castle’s round tower is visible behind her, and she gestures subtly as she speaks.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video segment opens with a wide shot of the Princess of Wales, in a bright blue coat, and Prince William, in a dark overcoat, walking through a park-like setting with their three children, all dressed in smart coats and waving to onlookers. A female news reporter's voice immediately sets the context, discussing how the Princess of Wales and her family, including their three young children, live in Windsor at Adelaide Cottage. Throughout, a BBC News banner at the bottom displays the headline 'Princess of Wales undergoing cancer treatment' with scrolling updates like 'Catherine is undergoing course of preventative chemotherapy' and 'Princess says she is focused on making full recovery.' The scene transitions to a close-up of the Princess, now in a white top, speaking with a composed and determined expression, her hand raised slightly, which the reporter connects to \"that very personal statement from Catherine\" about her cancer diagnosis. The reporter elaborates on how she and Prince William have had to talk to their three young children, George, Charlotte, and Louis, using \"very careful words\" about the potentially \"devastating and probably confusing\" news. The video then shows the family seated in a dimly lit church, holding candles and hymnals, with the Princess in a cream coat, smiling gently as she lights a candle for one of her sons, reinforcing the family's unity. This is followed by a formal balcony appearance with the royal family, including King Charles and Queen Camilla, all waving to the crowd, with the Princess in a vibrant green coat. The reporter notes the family's intention to \"stay very close\" and \"keep very private\" at their home in Windsor. The video then cuts to a formal event in Boston 2022, where the Princess, in an elegant strapless gown with a green choker, stands beside Prince William in a tuxedo, both smiling. A close-up follows, showing the Princess in a red hat and dark coat, looking serious and composed, with Prince William beside her. The reporter concludes by mentioning Catherine's recovery from what she has said this evening. The final scene is a formal group portrait with King Charles, Queen Camilla, Prince William, and the Princess, all in evening attire, standing in a grand hall with ornate columns and golden decor.",
+        "The video opens with field reporter Helena Wilkinson, dressed in a black coat over a dark turtleneck, delivering a live report from outside Windsor Castle. Behind her, the iconic round tower, stone walls, gates, and trees create a formal and somber backdrop under a clear sky. The BBC News banner at the bottom of the screen prominently displays 'Princess of Wales undergoing cancer treatment' with a 'BREAKING' label and a time stamp of 18:11. Helena speaks with a serious expression, occasionally gesturing, detailing Princess Catherine's ongoing recovery from major abdominal surgery and her preventative chemotherapy, noting that the family felt it was the right time to go public but now desires space. The on-screen ticker updates with key details such as 'Princess of Wales announces she is having cancer treatment,' 'Catherine is undergoing course of preventative chemotherapy,' 'Princess of Wales: I am now in the early stages of treatment,' and 'Princess says she is focused on making full recovery.' After Helena Wilkinson concludes her report from Windsor, the scene cuts to a BBC News Studio. Here, a second anchor, a woman in a navy blue dress, is seated at the news desk, continuing the coverage with a composed, serious demeanor. Behind her, a large screen displays the BBC News control room with multiple monitors. She acknowledges Helena's report and states that they will return to the story, while the consistent red banner reinforces the urgency and gravity of the announcement throughout the segment."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Princess of Wales": "Visually seen in various outfits including a bright blue coat, white top, cream coat, vibrant green coat, elegant strapless gown, red hat, and evening attire, displaying expressions from smiling to serious and composed. The audio identifies her as 'Catherine' and discusses her 'very personal statement' about her cancer diagnosis, her recovery, and her role in explaining it to her children, emphasizing the 'very careful words' used.",
+    "BBC News Studio": "A modern newsroom with red and white design elements, featuring the anchor at a desk and a large screen displaying the BBC News control room with multiple monitors in the background. The studio anchor's voice is heard here, acknowledging the field report.",
+    "BBC News Anchor": "A woman in a navy blue dress, seated at the news desk, delivering the report with a composed, serious demeanor. She is heard acknowledging Helena Wilkinson's report and stating that the broadcast will return to the story, with a large screen behind her showing the BBC News control room.",
+    "Garden Bench Scene": "An outdoor setting with a wooden bench, blooming pink and yellow flowers, and greenery, serving as the backdrop for the Princess of Wales’s personal statement. The lighting is natural and soft, enhancing the intimate and reflective mood of the scene.",
+    "BBC News": "Displayed via a red banner at the bottom of the screen with the headline 'Princess of Wales undergoing cancer treatment' and a scrolling ticker providing updates. The BBC News logo and 'BREAKING' label are visible, with the time stamp showing 18:11. The audio content from both reporters directly reinforces the urgency and gravity of this breaking news.",
+    "Princess of Wales at Outdoor Event": "Wearing a navy blue coat, she bends down to interact warmly with a young boy, smiling and engaging with him during an outdoor event.",
+    "Second BBC News Anchor": "A man in a dark suit with a blue tie and glasses, seated at the news desk, speaking to the camera with an authoritative and informative voice, providing details about the Princess of Wales's cancer diagnosis, treatment, and the positive tone of her statement.",
+    "Clergyman in White Robes": "Standing outside a stone church, greeting the group with hand gestures and engaging in conversation, wearing white clerical robes with a red stole.",
+    "Adult Woman in Black Jacket and Headscarf": "Wearing a black jacket and headscarf, she is seen in the background during the outdoor event, though not directly interacting in this segment.",
+    "Young Boy in Scout Uniform": "A young boy with light brown hair, wearing a striped shirt and a yellow and purple Scout scarf, is seen receiving flowers from the Princess.",
+    "Man in Brown Coat": "Walking with two children and a woman in a beige coat, appearing composed and occasionally adjusting his coat as he moves.",
+    "Woman in Navy Blue Coat": "In a navy blue coat with a black fascinator, she walks beside the man in the brown coat, smiling and interacting with the group.",
+    "Young Boy in Dark Suit": "Dressed in a dark suit and tie, he walks closely with the adults, looking around with a neutral expression.",
+    "Woman in Beige Coat": "Wearing a beige coat and matching hat, she walks beside the man in the brown coat, holding a black clutch and looking forward with a calm expression.",
+    "Person in White Puffer Coat": "A person wearing a white puffer coat, seen entering the entrance of 'THE CLINIC' building.",
+    "Shopping Trolley with Child": "A red shopping trolley being pushed by the Princess of Wales, with a child seated in it, indicating a casual outing.",
+    "Princess of Wales (Casual Attire)": "Wearing a dark coat and jeans in the audience scene, seated with her children.",
+    "Princess of Wales (Garden Bench Scene)": "In a still image, she is seated on a garden bench with three children, all smiling, wearing a dark top and jeans, with the children in casual clothing.",
+    "THE CLINIC": "A grand red-brick building with a Union Jack flag, identified by a stone sign above the entrance as 'THE CLINIC' at 20 Second Place, where a person in a white puffer coat is seen entering.",
+    "Man in Brown Suit": "Wearing a brown suit and glasses, walking beside the Princess of Wales in the gallery, gesturing as he speaks and engaging with her and others.",
+    "Gallery Attendees": "A group of individuals in the gallery, including a woman in a patterned dress and a man in a beige jacket, who interact with the Princess of Wales and the man in the brown suit, smiling and conversing.",
+    "Prince William": "Appears in a dark overcoat, tuxedo, and evening attire, maintaining a calm and supportive demeanor. The audio mentions him alongside the Princess in having to talk to their children about the diagnosis.",
+    "Keir Starmer": "Seated in the audience, wearing a dark suit with a red tie, looking attentively forward.",
+    "Princess of Wales (Audience Scene)": "Wearing a pink top and seated in the audience with her children, appearing composed and attentive during the public event.",
+    "Field Reporter": "A woman in a black coat over a dark turtleneck, identified as Helena Wilkinson, standing outside Windsor Castle. She delivers a live report with a serious expression, discussing Princess Catherine's recovery from major abdominal surgery and her ongoing preventative chemotherapy, noting the family's desire for privacy. The castle’s round tower is visible behind her, and she gestures subtly as she speaks.",
+    "Princess of Wales and Family (Outdoor Walk)": "Visually, the Princess in a navy blue coat and matching hat, Prince William in a dark overcoat, and their three children in smart coats, walking through a park-like setting, waving to onlookers. The audio confirms they live in Windsor at Adelaide Cottage and discusses the parents' need to explain the cancer diagnosis to their 'three young children, George, Charlotte, and Louis,' highlighting the sensitive and potentially 'devastating and probably confusing' nature of the news for them.",
+    "Family Portrait": "A black-and-white image of the Princess, Prince William, and their three children, all dressed in white shirts and dark trousers, posing formally against a neutral backdrop.",
+    "King Charles": "Wearing a red military uniform with medals and a sash, waving from the balcony and later in a formal portrait with a white bow tie and medals.",
+    "Queen Camilla": "Wearing a red coat and black hat during the balcony scene, and later in a white gown with a tiara and blue sash in the formal portrait."
+  }
+}

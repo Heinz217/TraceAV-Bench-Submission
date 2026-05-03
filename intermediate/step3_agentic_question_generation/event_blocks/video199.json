@@ -1,0 +1,560 @@
+{
+  "video_id": "video199",
+  "audio_id": "video199_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "As dawn breaks over a serene, forested landscape, a large blue dragon emerges from the right. The scene transitions to a sunlit desert where a metallic, skull-like creature with a pink flower on its head lies half-buried in sand near a stone cairn. A red dragon observes a massive, multi-legged creature with purple eyes looming over a small, brown, horned creature. The multi-legged creature attacks with metallic clangs and clicking sounds, pinning the small creature, which squeals in distress, revealing an injured leg. A Godzilla-like creature then appears, roaring and firing a blue energy beam with a high-pitched sound, striking the small creature, leaving it dazed with a blackened tail and scarred leg. Finally, ghostly figures of a robot, a skull, and a house float above the injured small creature as it looks upward with closed eyes, the energy beam sound fading.",
+      "involved_entities": {
+        "Blue Dragon": {
+          "description": "A large, blue-scaled dragon with two horns and a calm, observant expression, seen emerging from the right side of the frame during sunrise.",
+          "attribute": "visual"
+        },
+        "Red Dragon": {
+          "description": "A red-scaled dragon with a surprised expression, wide eyes, and a small horn on its nose, reacting to the approaching multi-legged creature.",
+          "attribute": "visual"
+        },
+        "Multi-Legged Creature": {
+          "description": "A large, brown and tan striped creature with multiple legs, purple eyes, and a menacing grin, heard emitting a loud, guttural roar and rapid clicking sounds as it attacks the small brown creature.",
+          "attribute": "audio-visual"
+        },
+        "Godzilla-Like Creature": {
+          "description": "A towering, dark gray creature resembling Godzilla, with glowing orange eyes and a spiky back, heard emitting a deep, powerful, sustained roar and the high-pitched, sustained sound of a blue energy beam from its mouth.",
+          "attribute": "audio-visual"
+        },
+        "Small Brown Creature": {
+          "description": "A small, brown, horned creature with a spiked back and a scarred leg, heard emitting a distinct, high-pitched, distressed squeal/whimper when attacked, and later shown dazed and injured after being struck by a blue energy beam.",
+          "attribute": "audio-visual"
+        },
+        "Metallic Skull Creature": {
+          "description": "A half-buried, metallic skull with glowing yellow eyes and a pink flower growing from its head, surrounded by small pink flowers and a stone cairn in a desert setting.",
+          "attribute": "visual"
+        },
+        "Ghostly Figures": {
+          "description": "Tiny, translucent figures of a robot, a skull, and a house floating above the small brown creature's head, suggesting memories or thoughts.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a serene night scene viewed through a rocky archway, revealing a starry sky and a dense, green forest below, all set to gentle, melancholic flute music. As dawn breaks, the moon fades and the sun rises, casting a warm glow over the landscape. A large blue dragon with horns and a calm expression emerges from the right, peering into the scene. The setting shifts to a sunlit desert with rocky formations, where a metallic, skull-like creature with glowing yellow eyes and a pink flower sprouting from its head lies half-buried in the sand, surrounded by small pink flowers and a stone cairn. The scene then cuts to a red dragon with a surprised expression, looking toward a massive, multi-legged creature with purple eyes and a striped, armored body that looms over a small, brown, horned creature. A loud, guttural roar erupts as the multi-legged creature attacks, pinning the small one to the ground amidst metallic clangs and rapid clicking sounds. The small creature, now shown in close-up, appears distressed and injured, emitting a distinct, high-pitched squeal, with a visible scar on its leg. Suddenly, a towering, Godzilla-like creature with glowing orange eyes and a spiky back appears, letting out a deep, powerful roar. It emits a powerful blue energy beam from its mouth with a high-pitched, sustained sound, striking the small creature, who is then shown sitting on the ground, dazed and injured, with a blackened tail and a scarred leg. The final shot shows the small creature looking up, eyes closed, as tiny, ghostly figures of a robot, a skull, and a house float above its head, suggesting a moment of reflection or memory, while the energy beam sound lingers."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 2,
+      "summary": "A Godzilla-Like Creature, characterized by its dark gray body, glowing orange eyes, and spiky back, unleashed a powerful blue energy beam with a deep, rumbling energy blast sound in a desert landscape. Subsequently, a large, menacing Multi-Legged Creature with purple eyes and striped legs was observed defeated on the ground, smoke rising from its body, accompanied by distant impact and metallic clicking sounds. A comic-style panel featuring the Godzilla-Like Creature and text 'GODZILLA KING OF THE MONSTERS' was punctuated by a sharp 'clink'. A Small Brown Creature, horned and dazed, appeared injured after a 'whoosh' and 'thud' impact, with ghostly figures of a robot, skull, and house floating above its head, while light scratching sounds were heard. The Godzilla-Like Creature then emitted a guttural growl and heavy footsteps, standing over the injured Small Brown Creature. Another 'clink' signaled a transition to a Japanese garden where Mothra, a large, white, egg-like creature with orange heads, emerged from water with a high-pitched chirp and splash, amidst sounds of flowing water. Mothra was later depicted in a close-up, softly humming and rhythmically chirping, writing a math problem (1+3=4, 5+5=) on a chalkboard with a distinct chalk squeak. The final frame showed Mothra in a comic-style panel with text 'MOTHRA GUARDIAN OF EARTH' and 'MOTTO: PROTECT THOSE WHO CANNOT PROTECT THEMSELVES,' concluding with a final 'clink' sound.",
+      "involved_entities": {
+        "Mothra": {
+          "description": "A large, white, egg-like creature with orange heads, emerging from a Japanese garden pond with a high-pitched chirp and splash, later accompanied by a soft humming and rhythmic chirping, shown writing on a chalkboard with a distinct squeak of chalk, and then in a comic-style panel with the title 'MOTHRA GUARDIAN OF EARTH' and the motto 'PROTECT THOSE WHO CANNOT PROTECT THEMSELVES.'",
+          "attribute": "audio-visual"
+        },
+        "Multi-Legged Creature": {
+          "description": "A large, brown and tan striped creature with multiple legs, purple eyes, and a menacing grin, shown defeated and smoking on the ground, with sounds of a distant impact and subsequent metallic clicking.",
+          "attribute": "audio-visual"
+        },
+        "Godzilla-Like Creature": {
+          "description": "A towering, dark gray creature resembling Godzilla, with glowing orange eyes, a spiky back, and a powerful blue energy beam emanating from its mouth, accompanied by a deep, rumbling energy blast sound and later a guttural growl and heavy footsteps, shown standing over the Small Brown Creature.",
+          "attribute": "audio-visual"
+        },
+        "Small Brown Creature": {
+          "description": "A small, brown, horned creature with a spiked back and a scarred leg, initially distressed and later shown dazed and injured after being struck by a blue energy beam, accompanied by a 'whoosh' and 'thud' sound, and later by light scratching or scuttling sounds as it appears dazed, with ghostly figures floating above its head.",
+          "attribute": "audio-visual"
+        },
+        "Ghostly Figures": {
+          "description": "Tiny, translucent figures of a robot, a skull, and a house floating above the Small Brown Creature's head, suggesting memories or thoughts.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a towering, dark gray Godzilla-Like Creature, with glowing orange eyes and a spiky back, unleashing a powerful blue energy beam from its mouth, accompanied by a deep, rumbling energy blast sound, set against a desert landscape with rock formations and a setting sun. The scene shifts to a large, menacing Multi-Legged Creature with purple eyes and striped legs, lying defeated on the ground with smoke rising from its body, underscored by a distant impact sound and subsequent metallic clicking. A sharp 'clink' sound punctuates the appearance of the Godzilla-Like Creature in a comic-style panel with the text 'GODZILLA KING OF THE MONSTERS' and 'MOTTO: IT'S COMPLICATED.' The focus then moves to a small, brown, horned creature, the Small Brown Creature, who appears dazed and injured after being struck, indicated by a 'whoosh' and 'thud' sound, with ghostly figures of a robot, skull, and house floating above its head, suggesting memories, while light scratching sounds are heard. The Godzilla-Like Creature is shown again, letting out a guttural growl and heavy footsteps, standing over the dazed Small Brown Creature. Another 'clink' sound marks a transition to a serene Japanese garden with a waterfall, a pagoda, and autumn trees, where a large, white, egg-like creature with orange heads, Mothra, emerges from the water with a high-pitched chirp and splash, accompanied by the sounds of flowing water. Mothra is then shown in a close-up, with a soft humming and rhythmic chirping, writing on a chalkboard with a distinct squeak of chalk, solving a math problem (1+3=4, 5+5=). The final frame presents Mothra in a comic-style panel with the text 'MOTHRA GUARDIAN OF EARTH' and 'MOTTO: PROTECT THOSE WHO CANNOT PROTECT THEMSELVES,' emphasizing her role as a protector, followed by a final 'clink' sound."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 3,
+      "end_minute": 3,
+      "summary": "Initially presented in a comic-style panel as the 'Guardian of Earth' with gentle, bell-like music, Mothra transitions to a classroom setting where a small, green, dinosaur-like creature meditates on a red mat before a chalkboard. Mothra, holding a pointer and emitting a high-pitched chirping sound, appears to be teaching. The scene then shifts outdoors to shallow water where a towering, dark gray Godzilla-like creature stands menacingly near a brown, horned, spiked Triceratops-like creature, accompanied by low rumbling and splashing sounds, while Mothra observes with concern. The Triceratops-like creature submerges, struggles with gurgling and splashing, then resurfaces with a determined grunt as the rumbling continues. Subsequently, in a nighttime village with dome-shaped homes, the Triceratops-like creature walks past houses labeled 'G. BARA' and 'H. DORAH' amidst a mysterious, eerie musical score. As it approaches the 'H. DORAH' house, the music intensifies, and a dark figure with glowing red eyes emerges from the doorway, emitting a deep, guttural growl. The Triceratops-like creature responds with a determined sound, underscored by a dramatic, foreboding musical sting, marking a tense shift from an educational atmosphere to one of impending confrontation.",
+      "involved_entities": {
+        "Mothra": {
+          "description": "A large, white, egg-like creature with orange heads, antennae, and a calm, observant expression, shown first in a comic panel and later in a classroom holding a pointer, appearing to teach, and emitting a distinct, high-pitched, almost bird-like chirping or cooing sound.",
+          "attribute": "audio-visual"
+        },
+        "Triceratops-Like Creature": {
+          "description": "A brown, horned, spiked dinosaur resembling a Triceratops, initially seen in a meditative pose, then struggling in water with intense splashing and gurgling, resurfacing with a determined grunt, and finally walking through a village at night with audible footsteps and a determined sound, confronting a dark figure.",
+          "attribute": "audio-visual"
+        },
+        "Classroom Setting": {
+          "description": "An indoor environment with a chalkboard displaying math problems, a red mat, and scattered papers, suggesting an educational or meditative space.",
+          "attribute": "visual"
+        },
+        "Godzilla-Like Creature": {
+          "description": "A towering, dark gray creature resembling Godzilla, with a spiky back and a menacing stance, standing in a shallow body of water and later shown with glowing red eyes emerging from a house doorway, characterized by a low, rumbling growl.",
+          "attribute": "audio-visual"
+        },
+        "Nighttime Village": {
+          "description": "A village with dome-shaped, stone-like homes, glowing windows, and signs like 'G. BARA' and 'H. DORAH,' set under a starry sky with a crescent moon, creating a mysterious and slightly eerie atmosphere.",
+          "attribute": "visual"
+        },
+        "Dark Figure": {
+          "description": "A shadowy, humanoid figure with glowing red eyes emerging from the doorway of the 'H. DORAH' house, suggesting a threatening or supernatural presence, and emitting a deep, guttural growl or roar.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a comic-style panel introducing Mothra as the 'Guardian of Earth,' accompanied by gentle, whimsical music featuring a high-pitched, bell-like melody. This transitions to a classroom where a small, green, dinosaur-like creature meditates or studies on a red mat, with a chalkboard behind it, as the soft music continues. Mothra then appears in the classroom, holding a pointer, seemingly teaching, and emits a distinct, high-pitched, almost bird-like chirping or cooing sound. The scene shifts to an outdoor environment where a towering, dark gray Godzilla-like creature stands menacingly near the brown, horned, spiked Triceratops-like creature in shallow water, accompanied by a low, rumbling growl and splashing sounds, as Mothra observes from the foreground, looking concerned. The Triceratops-like creature is then shown submerged and struggling with intense splashing and gurgling, before resurfacing with a determined expression and a grunt, while the low rumbling persists. The setting changes to a nighttime village with dome-shaped homes, where the Triceratops-like creature walks past a house labeled 'G. BARA' and another labeled 'H. DORAH,' its footsteps audible against a mysterious, slightly eerie musical backdrop. As the Triceratops-like creature approaches the 'H. DORAH' house, the mysterious music intensifies. A dark, ominous figure with glowing red eyes then emerges from the doorway, letting out a deep, guttural growl or roar, met by a determined sound from the Triceratops-like creature, as a dramatic, foreboding musical sting underscores the impending confrontation. The atmosphere shifts from educational and calm to tense and foreboding as the Triceratops faces the unknown threat."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 4,
+      "end_minute": 4,
+      "summary": "In a dimly lit nighttime village under a starry sky, a Triceratops-Like Creature with a distinct 'thump' approaches a 'BAR' and confronts a dark figure emerging from 'H. DORAH', resulting in a growl and impact. A 'BILL' notice for 'KING CAT' is seen as the Triceratops-Like Creature growls. Inside a cave, a Godzilla-Like Creature watches TV, showing a furry creature and Japanese speech, while the Triceratops-Like Creature enters. Sounds of struggle, grunts, shouts, impacts, and a final 'thud' are heard as the creatures interact, followed by 'BATTLE MACHINE' text, Japanese speech, a growl, and a metallic 'clank' on the TV. The scene shifts to a warmly lit cave where the Triceratops-Like Creature eats a sandwich and stands before framed photos, including one of itself and the Godzilla-Like Creature hugging under a volcano, ending with a photo of a bandaged Triceratops-Like Creature smiling beside the Godzilla-Like Creature, accompanied by gentle piano music.",
+      "involved_entities": {
+        "Triceratops-Like Creature": {
+          "description": "A brown, horned, spiked dinosaur resembling a Triceratops, initially seen walking with a distinct 'thump' through a mysterious nighttime village, then confronting a shadowy figure with a low growl, and later appearing in a warmly lit cave, eating a sandwich and proudly displaying photos of himself with the Godzilla-Like Creature. It is also heard grunting and involved in a struggle, and is later seen in a reflective mood accompanied by melancholic piano music.",
+          "attribute": "audio-visual"
+        },
+        "Godzilla-Like Creature": {
+          "description": "A towering, dark gray creature resembling Godzilla, with a spiky back and a menacing stance, shown lounging on a red couch in a dimly lit cave, watching TV that broadcasts rapid Japanese speech and sounds of struggle, grunts, and shouts, suggesting an intense interaction. He later appears in framed photos with the Triceratops-Like Creature, including one where he is smiling beside a bandaged Triceratops-Like Creature, accompanied by a melancholic piano melody.",
+          "attribute": "audio-visual"
+        },
+        "TV Screen": {
+          "description": "An old-style television displaying a clip of a large, furry creature with a blue screen, labeled 'WORLD'S LARGEST', and later showing 'BATTLE MACHINE' text. It broadcasts rapid Japanese speech, sounding like news or commentary, along with sounds of struggle, grunts, shouts, a deep growl, and a metallic 'clank'.",
+          "attribute": "audio-visual"
+        },
+        "Framed Photos": {
+          "description": "A series of framed images on the walls of the caves, depicting the Triceratops-Like Creature and the Godzilla-Like Creature in various scenarios, including a beach, a volcano, and a moment of healing, indicating a past relationship or friendship, all set to gentle, melancholic piano music.",
+          "attribute": "audio-visual"
+        },
+        "Nighttime Village": {
+          "description": "A village with dome-shaped, stone-like homes, glowing windows, and signs like 'BAR' and 'H. DORAH', set under a starry sky with a crescent moon, creating a mysterious and slightly eerie atmosphere underscored by rhythmic background music and the 'thump' of the Triceratops-Like Creature's footsteps.",
+          "attribute": "audio-visual"
+        },
+        "Dark Figure": {
+          "description": "A shadowy, humanoid figure with glowing red eyes emerging from the doorway of the 'H. DORAH' house, associated with a growl/roar and an impact sound, suggesting a threatening or supernatural presence.",
+          "attribute": "audio-visual"
+        },
+        "Bill Notice": {
+          "description": "A paper notice taped to a door reading 'BILL', 'OVERDUE!!', and 'PAY ME!!', signed 'KING CAT', indicating a debt owed in the village, seen as the Triceratops-Like Creature approaches with a low growl.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens on a quiet, dimly lit nighttime village with dome-shaped stone homes and glowing windows, under a starry sky with a crescent moon, accompanied by mysterious, rhythmic background music. A Triceratops-Like Creature walks with a distinct 'thump' toward a red door marked 'BAR', then turns to confront a dark, shadowy figure emerging from a house labeled 'H. DORAH', met with a growl and a quick impact sound. The scene shifts to a close-up of a 'BILL' notice on a door, demanding payment from 'KING CAT', as the Triceratops-Like Creature approaches with a stern expression, emitting a low growl. Inside a dimly lit cave, a Godzilla-Like Creature lounges on a red couch, watching TV, while the Triceratops-Like Creature enters cautiously. The TV displays a clip of a large, furry creature with a blue screen, accompanied by rapid Japanese speech, sounding like a news report or commentary. The atmosphere intensifies with sounds of struggle, grunts, and shouts, as the creatures appear to interact or fight, followed by a series of fast-paced impacts and a final 'thud'. The TV then shows 'BATTLE MACHINE' text, with more Japanese speech, a deep growl, and a metallic 'clank'. The scene transitions to a warmly lit cave, where the Triceratops-Like Creature is now eating a large sandwich, then stands proudly in front of a wall of framed photos, including one of him and the Godzilla-Like Creature hugging under a volcano. The final shot focuses on a photo of the bandaged Triceratops-Like Creature smiling beside the Godzilla-Like Creature, suggesting a past bond or friendship, all underscored by gentle, melancholic piano music."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 5,
+      "end_minute": 5,
+      "summary": "A melancholic string melody introduces a tired Triceratops-Like Creature in a cave-like room, adorned with a 'HANG IN THERE!' poster, who yawns and sighs before sleeping in a basket bed as the cave deepens to a purple night, accompanied by rustling sounds upon his weary stirring. At dusk, a mailbox labeled 'A. GUIRUS G.SAURUS' receives a red envelope with a thud, followed by the sounds of it opening and closing. The next morning, the Triceratops-Like Creature excitedly retrieves and rips open the envelope, revealing a 'TITANOSAURUS OCEAN RETREAT' brochure, eliciting a happy 'woo-hoo!' and upbeat, whimsical music as he imagines a luxurious vacation while on the phone in a comic-style split-screen. Concurrently, a Godzilla-Like Creature in a dark cave growls and rumbles, pouring liquid from a bucket over a Small Green Creature, followed by a loud roar and splishing sounds. A comic strip then depicts the Triceratops-Like Creature packing his suitcase with the brochure, a crab in blue goggles in a fishbowl, and the Godzilla-Like Creature lounging on a red couch watching TV, while the now relaxed Small Green Creature emits happy chirping sounds. The Triceratops-Like Creature then enters the scene, appearing surprised and slightly alarmed.",
+      "involved_entities": {
+        "Vacation Brochure": {
+          "description": "A red brochure titled 'TITANOSAURUS OCEAN RETREAT' with the tagline 'RECOVER FROM YOUR BATTLES IN LUXURY! (NICE KAIJU ONLY.)', whose envelope is heard ripping open.",
+          "attribute": "audio-visual"
+        },
+        "Small Green Creature": {
+          "description": "A small, green, lizard-like creature with a long tail, initially being doused by the Godzilla-Like Creature, later seen lounging on a red couch, watching TV, appearing relaxed and emitting happy chirping or squeaking sounds.",
+          "attribute": "audio-visual"
+        },
+        "Triceratops-Like Creature": {
+          "description": "A brown, horned, spiked dinosaur resembling a Triceratops, initially tired and contemplative, letting out a yawn and a sigh, later excited by a vacation brochure, making a happy 'woo-hoo!' sound, and finally surprised upon entering the Godzilla-Like Creature’s cave.",
+          "attribute": "audio-visual"
+        },
+        "Mailbox": {
+          "description": "A weathered, dark gray mailbox labeled 'A. GUIRUS G.SAURUS', situated outdoors near palm trees, with a red envelope being dropped into it, accompanied by the sounds of the mailbox opening, closing, and the envelope thudding inside.",
+          "attribute": "audio-visual"
+        },
+        "Godzilla-Like Creature": {
+          "description": "A towering, dark gray creature resembling Godzilla, shown lounging on a red couch in a dimly lit cave, watching TV, and later pouring a substance from a bucket over a small green creature, accompanied by deep growls, rumbles, and a loud roar.",
+          "attribute": "audio-visual"
+        },
+        "TV Screen": {
+          "description": "An old-style television displaying a clip of a large, furry creature with a blue screen, labeled 'WORLD'S LARGEST', placed on a wooden table in the Godzilla-Like Creature's cave.",
+          "attribute": "visual"
+        },
+        "Framed Photos": {
+          "description": "A series of framed images on the walls of the caves, depicting the Triceratops-Like Creature and the Godzilla-Like Creature in various scenarios, including a beach, a volcano, and a moment of healing, indicating a past relationship or friendship.",
+          "attribute": "visual"
+        },
+        "Crab in Fishbowl": {
+          "description": "A small, dark crab wearing blue goggles, sitting inside a round glass fishbowl on a wooden stand, with a can labeled 'CHOW' being poured into the bowl.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a melancholic string melody as a tired Triceratops-Like Creature sits contemplatively in a warmly lit, cave-like room, adorned with a 'HANG IN THERE!' poster. He lets out a soft yawn and a sigh before the scene transitions to him asleep in a basket bed, a large spiky rock nearby, as the cave deepens to a purple night. Rustling sounds accompany his stirring awake, looking weary. Outside, a mailbox labeled 'A. GUIRUS G.SAURUS' is shown at dusk, with a distinct thud as a red envelope is dropped inside, followed by the sounds of the mailbox opening and closing. The next morning, the Triceratops-Like Creature retrieves the envelope, and with a rip, excitedly opens it to reveal a 'TITANOSAURUS OCEAN RETREAT' brochure, prompting a happy 'woo-hoo!' from him as upbeat, whimsical music begins. He imagines a luxurious vacation while on the phone in a comic-style split-screen. Simultaneously, a Godzilla-Like Creature is seen in a dark cave, making deep growls and rumbles as he pours liquid from a bucket over a small, green creature, followed by a loud roar and multiple splishing sounds. The scene then shifts to a comic strip: the Triceratops-Like Creature packs his suitcase with the brochure, a crab in blue goggles sits in a fishbowl, and the Godzilla-Like Creature lounges on a red couch watching TV, while happy chirping sounds emanate from the now relaxed Small Green Creature, who is also lounging. The Triceratops-Like Creature then enters the scene, looking surprised and slightly alarmed."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 6,
+      "end_minute": 7,
+      "summary": "A deep, guttural roar and an excited squeal from a small yellow creature initiate the scene in a desert village, followed by the purposeful entrance of a Triceratops-like creature carrying a briefcase, its footsteps scuffing the dirt amidst tribal music. The journey progresses through desert rock formations and a meadow with a 'KEEP OFF THE GRASS' sign, culminating at a river where a 'thump' and splash signal the Triceratops-like creature boarding a bamboo raft pulled by a small orange creature. As they traverse a tropical ocean with lapping water and 'splish-splash' sounds, the raft heads towards a tropical island marked by a 'WELCOME!' sign and red lanterns. Upon arrival, a red-scaled dragon greets the visitor with a clap and a warm gesture, while the small yellow creature emits another squeal and flies in. The Triceratops-like creature smiles as it steps onto the dock, accompanied by upbeat tropical music with steel drums. Later, on a sunny tropical island with whimsical music, the Triceratops-like creature, arriving to a 'WELCOME!' sign, is greeted by the Red Dragon with a comic-style 'whoosh' and 'squawk.' The Triceratops-like creature relaxes in a beach chair under an umbrella, receiving sunglasses from the Red Dragon with a soft 'thump.' Two small yellow creatures arrive with a coconut drink, complete with a tiny umbrella, and the Triceratops-like creature enjoys it with a 'slurp' sound. The moment is interrupted by the Red Dragon's sudden lunge ('whoosh'), spilling the drink ('splash') and scattering the small yellow creatures ('chittering' intensifying). The confused Triceratops-like creature observes as the Red Dragon returns with a large stone, placing it on its back with a 'thump' for a massage, accompanied by a low 'growl.' The scene shifts to a 'ROCK TOSSING' area with a pile of stones and a sign, where sounds of 'clattering' and a final 'thud' suggest a playful yet chaotic atmosphere, all underscored by continuing tropical music.",
+      "involved_entities": {
+        "Welcome Sign": {
+          "description": "A wooden sign reading 'WELCOME!' strung between two bamboo poles with red lanterns, marking the entrance to the tropical island retreat.",
+          "attribute": "visual"
+        },
+        "Tropical Island": {
+          "description": "A sunny, sandy island with palm trees, red lanterns, a 'WELCOME!' sign, and a thatched umbrella, serving as a relaxing retreat with bamboo furniture and a 'ROCK TOSSING' game area, creating a vibrant and humorous vacation setting; the entire scene is underscored by upbeat, whimsical, tropical-sounding background music featuring flute/whistle melodies and steel drum percussion.",
+          "attribute": "audio-visual"
+        },
+        "Triceratops-Like Creature": {
+          "description": "A brown, horned, spiked dinosaur resembling a Triceratops, initially weary but gradually relaxing on a bamboo beach chair, wearing sunglasses, and later startled by a prank involving a spilled drink and a stone massage; makes a 'slurp' sound while drinking.",
+          "attribute": "audio-visual"
+        },
+        "Red Dragon": {
+          "description": "A red-scaled dragon with a large frill, yellow eyes, and a relaxed demeanor, who warmly welcomes the Triceratops-Like Creature, playfully places sunglasses on it, pranks it by spilling a drink, and then offers a stone massage, displaying a mischievous yet friendly personality; associated with 'whoosh' sounds for its entrance and lunge, makes 'squawk' and 'growl' sounds.",
+          "attribute": "audio-visual"
+        },
+        "Small Yellow Creature": {
+          "description": "A small, yellow, bat-winged creature with a green mohawk, seen running joyfully, bringing a coconut drink with a tiny umbrella, and later scattering in panic when the drink is spilled, indicating a playful and excitable nature; makes 'chittering' and 'squeaking' sounds.",
+          "attribute": "audio-visual"
+        },
+        "Small Orange Creature": {
+          "description": "A small, round, orange creature with a simple face, pulling the bamboo raft across the ocean with a rope, appearing calm and dedicated to its task, with its pulling actions contributing to the 'splish-splash' sounds heard during the raft journey.",
+          "attribute": "audio-visual"
+        },
+        "Bamboo Raft": {
+          "description": "A makeshift raft constructed from rolled bamboo logs, previously used to transport the Triceratops-Like Creature across the ocean, now implied to have been left behind as the creature settles into the island’s amenities.",
+          "attribute": "visual"
+        },
+        "Stone Massage": {
+          "description": "A large, flat stone placed on the Triceratops-Like Creature’s back by the Red Dragon, humorously presented as a massage, adding to the comedic and surreal nature of the island’s services.",
+          "attribute": "visual"
+        },
+        "Coconut Drink": {
+          "description": "A coconut shell filled with a green beverage, topped with a tiny red umbrella, brought by the Small Yellow Creatures as a refreshing treat for the Triceratops-Like Creature.",
+          "attribute": "visual"
+        },
+        "ROCK TOSSING Sign": {
+          "description": "A wooden sign reading 'ROCK TOSSING' placed near a pile of stones, indicating a game or activity area on the island, contributing to the playful and quirky environment.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a deep, guttural roar, immediately followed by a high-pitched, excited squeal as a small, yellow, bat-winged creature joyfully runs across the dusty ground of a desert village featuring dome-shaped, adobe-style homes. Gentle, rhythmic tribal music with a flute-like melody begins as a large, brown, horned, Triceratops-like creature, carrying a briefcase, enters and walks purposefully, its footsteps scuffing the dirt. The scene transitions to a desert landscape with rock formations and a lone tree, then into a lush, flower-filled meadow with a 'KEEP OFF THE GRASS' sign, as the creature continues its journey. A distinct 'thump' and splash sound signals its arrival at a serene river, where it boards a bamboo raft pulled by a small, round, orange creature. The journey continues across a tropical ocean, accompanied by the sounds of water lapping and rhythmic 'splish-splash' from the pulling creature, as the raft heads toward a tropical island marked by a 'WELCOME!' sign and red lanterns. Upon arrival, a loud, distinct clap is heard as a red-scaled dragon with a large frill and relaxed demeanor greets the visitor. The small yellow creature emits another excited squeal as it flies in. The Triceratops-like creature steps onto the dock, smiling, while the red dragon gestures warmly and the small yellow creature lands beside it, all set to the backdrop of new, upbeat tropical music featuring steel drums, marking their arrival at the vibrant retreat.",
+        "The segment opens on a sunny tropical island, underscored by upbeat, whimsical tropical music featuring a flute melody and steel drum percussion. A weary Triceratops-Like Creature arrives to a 'WELCOME!' sign, soon greeted by the Red Dragon, whose comic-style burst is accompanied by a distinct \"whoosh\" sound and its own \"squawk.\" The Triceratops-Like Creature settles into a bamboo beach chair under a thatched umbrella, where the Red Dragon playfully places sunglasses on its face with a soft \"thump.\" Soon, two Small Yellow Creatures, making gentle \"chittering\" and \"squeaking\" sounds, appear with a coconut drink, complete with a tiny umbrella. The Triceratops-Like Creature enjoys the drink, making a \"slurp\" sound, but the moment is abruptly interrupted by the Red Dragon's sudden lunge, marked by another \"whoosh,\" causing the drink to spill with a \"splash\" and the Small Yellow Creatures to scatter in panic, their \"chittering\" intensifying. The startled Triceratops-Like Creature looks around in confusion as the Red Dragon retreats, then returns with a large, flat stone, placing it on its back with a \"thump,\" seemingly offering a massage, accompanied by a low \"growl\" from the dragon. The scene shifts to a 'ROCK TOSSING' area, where a pile of stones lies near a sign, with sounds of \"clattering\" and a final \"thud\" suggesting the playful yet chaotic atmosphere of the island's activities. The tropical music continues throughout, maintaining the lighthearted tone."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 8,
+      "end_minute": 8,
+      "summary": "An upbeat, whimsical musical theme accompanies a weary Triceratops-Like Creature on a sunny beach as a small boat approaches under a bright blue sky. The scene shifts to a lush, green hot spring area at dusk, where the Triceratops-Like Creature relaxes in the water, sipping from a cup, while a Red Dragon playfully splashes nearby with distinct water sounds. The whimsical music continues as the Triceratops-Like Creature walks beside the Red Dragon, now wearing a golden crown, along a rocky path labeled 'LEGENDARY PEAK' at sunset. The Triceratops-Like Creature then peers through a large telescope, making a 'clunk' sound as it adjusts, revealing a menacing, gray, spiky creature in the distance, which lets out a low, guttural growl, causing the Triceratops-Like Creature to react with surprise. The music shifts to a more relaxed, bar-like tune as the scene cuts to a dimly lit bar with red lanterns, where the Red Dragon serves drinks behind the counter, and the Triceratops-Like Creature sits, looking intrigued by a wall of framed photos depicting various monstrous creatures. The Triceratops-Like Creature then angrily throws darts at a target in a dart-throwing game, producing sharp 'thwack' sounds, while a Small Yellow Creature watches with a coconut drink. The Red Dragon pranks the Triceratops-Like Creature by spilling the drink with a liquid sound, causing the Small Yellow Creature to scatter in panic, then places a large stone on its back for a 'massage,' marked by a heavy thud. The music softens to a serene tune as the scene shifts to a nighttime beach with palm trees, where three Small Yellow Creatures gather near a signpost pointing to 'CABINS' and 'BAR,' gazing at the moonlit ocean. The final scene shows the Triceratops-Like Creature asleep in a wooden bed inside a cabin, letting out a distinct yawn and gentle snores, with a nightstand and a 'BREAKFAST LUNCH DINNER' menu on the wall, as the music fades, replaced by crickets chirping and a gentle, rhythmic 'thump-thump' sound.",
+      "involved_entities": {
+        "Coconut Drink": {
+          "description": "A coconut shell filled with a green beverage, topped with a tiny red umbrella, brought by the Small Yellow Creature, and later spilled by the Red Dragon, accompanied by a liquid spilling sound.",
+          "attribute": "audio-visual"
+        },
+        "Triceratops-Like Creature": {
+          "description": "A brown, horned, spiked dinosaur resembling a Triceratops, initially weary on the beach, later relaxing in a hot spring, exploring 'LEGENDARY PEAK,' reacting with surprise to a menacing creature seen through a telescope, angrily throwing darts, being pranked at the bar, and finally sleeping soundly in a cabin, marked by distinct yawning and gentle snoring sounds.",
+          "attribute": "audio-visual"
+        },
+        "Dart-Throwing Game": {
+          "description": "A game area with a wooden target and darts, where the Triceratops-Like Creature angrily throws darts, producing sharp 'thwack' sounds as they hit the target.",
+          "attribute": "audio-visual"
+        },
+        "Red Dragon": {
+          "description": "A red-scaled dragon with a large frill, yellow eyes, and a mischievous yet friendly demeanor, who welcomes the Triceratops-Like Creature, playfully splashes in the hot spring with accompanying water sounds, wears a golden crown on the path, serves drinks at the bar, and pranks the Triceratops-Like Creature with a spilled drink and stone massage.",
+          "attribute": "audio-visual"
+        },
+        "DART THROWING Sign": {
+          "description": "A wooden sign with the words 'DART THROWING' pointing to the game area, adding to the island’s quirky activities.",
+          "attribute": "visual"
+        },
+        "Small Yellow Creature": {
+          "description": "A small, orange, bat-winged creature with a green mohawk, seen bringing a coconut drink to the Triceratops-Like Creature, scattering in panic when the drink is spilled, and later appearing in a group of three on the beach, watching the ocean.",
+          "attribute": "visual"
+        },
+        "Framed Photos": {
+          "description": "A series of framed images on the walls of the bar, depicting various monstrous creatures including a two-headed dragon, a robotic skull, and a dark figure with red eyes, suggesting a history of encounters or legends.",
+          "attribute": "visual"
+        },
+        "Nighttime Village": {
+          "description": "A village with palm trees, stone-like homes, and signs like 'CABINS' and 'BAR,' set under a starry sky with a crescent moon, creating a mysterious and slightly eerie atmosphere.",
+          "attribute": "visual"
+        },
+        "BREAKFAST LUNCH DINNER Menu": {
+          "description": "A paper menu taped to the wall in the cabin, listing meal times, suggesting a structured daily routine for guests.",
+          "attribute": "visual"
+        },
+        "Stone Massage": {
+          "description": "A large, flat stone placed on the Triceratops-Like Creature’s back by the Red Dragon, humorously presented as a massage, making a heavy thud sound.",
+          "attribute": "audio-visual"
+        },
+        "Cabin Interior": {
+          "description": "An indoor setting with a wooden bed, nightstand, alarm clock, and a 'BREAKFAST LUNCH DINNER' menu on the wall, where the Triceratops-Like Creature sleeps peacefully at the end of the day.",
+          "attribute": "visual"
+        },
+        "LEGENDARY PEAK Sign": {
+          "description": "A wooden signpost with the words 'LEGENDARY PEAK' in bold, placed on a rocky path at sunset, indicating a destination or landmark.",
+          "attribute": "visual"
+        },
+        "Telescope": {
+          "description": "A large, wooden telescope on a tripod, used by the Triceratops-Like Creature to view a distant, menacing gray creature, making a 'clunk' sound when adjusted.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with an upbeat, whimsical, and adventurous musical theme as a weary Triceratops-Like Creature stands on a sunny beach, watching a small boat approach under a bright blue sky. The scene transitions to a lush, green hot spring area at dusk, where the creature relaxes in the water, sipping from a cup, while a Red Dragon playfully splashes nearby, accompanied by distinct water sounds. The whimsical music continues as the Triceratops-Like Creature walks beside the Red Dragon, now wearing a golden crown, along a rocky path labeled 'LEGENDARY PEAK' at sunset. The Triceratops-Like Creature then peers through a large telescope, making a 'clunk' sound as it adjusts, revealing a menacing, gray, spiky creature in the distance, which lets out a low, guttural growl, causing the Triceratops-Like Creature to react with surprise. The music shifts to a more relaxed, bar-like tune as the scene cuts to a dimly lit bar with red lanterns, where the Red Dragon serves drinks behind the counter, and the Triceratops-Like Creature sits, looking intrigued by a wall of framed photos depicting various monstrous creatures. The Triceratops-Like Creature then angrily throws darts at a target in a dart-throwing game, producing sharp 'thwack' sounds, while a Small Yellow Creature watches with a coconut drink. The Red Dragon pranks the Triceratops-Like Creature by spilling the drink with a liquid sound, causing the Small Yellow Creature to scatter in panic, then places a large stone on its back for a 'massage,' marked by a heavy thud. The music softens to a serene tune as the scene shifts to a nighttime beach with palm trees, where three Small Yellow Creatures gather near a signpost pointing to 'CABINS' and 'BAR,' gazing at the moonlit ocean. The final scene shows the Triceratops-Like Creature asleep in a wooden bed inside a cabin, letting out a distinct yawn and gentle snores, with a nightstand and a 'BREAKFAST LUNCH DINNER' menu on the wall, as the music fades, replaced by crickets chirping and a gentle, rhythmic 'thump-thump' sound."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 9,
+      "end_minute": 9,
+      "summary": "In a dimly lit cabin, a Triceratops-Like Creature sleeps, its deep breathing and snoring accompanied by a soft, ethereal hum. The scene abruptly cuts to black, replaced by eerie, high-pitched synth sounds and a small, blue, horned creature amidst floating white shards. A loud crash and a low growl signal the creature's frantic escape from a menacing, clawed foot and glowing yellow eyes, as the unsettling synth and a deep, mournful horn-like sound persist. Transitioning to a surreal dreamscape with whimsical tropical music and ocean waves, the Triceratops-Like Creature lounges on a beach chair, attended by small orange creatures, while a Red Dragon arrives with a tray. The Triceratops-Like Creature then awakens in the cabin with a soft yawn and sigh, observing a small orange creature on its bed and a sunny beach with palm trees and lounge chairs visible through the window. The tropical music intensifies as the view expands to a vibrant island, where the Red Dragon joyfully runs along the shore, tossing skewers into the air with a playful whoop under a clear blue sky.",
+      "involved_entities": {
+        "Blue Dragon": {
+          "description": "A large, blue-scaled dragon with two horns and a calm, observant expression, seen emerging from the right side of the frame during sunrise, but not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Tropical Island": {
+          "description": "A sunny, sandy island with palm trees, red lanterns, a 'WELCOME!' sign, and a thatched umbrella, serving as a relaxing retreat with bamboo furniture and a 'ROCK TOSSING' game area, creating a vibrant and humorous vacation setting, its atmosphere enhanced by whimsical, tropical-sounding music and the sounds of ocean waves.",
+          "attribute": "audio-visual"
+        },
+        "Small Green Creature": {
+          "description": "A small, green, lizard-like creature with a long tail, initially being doused by the Godzilla-Like Creature, later seen lounging on a red couch, watching TV, and appearing relaxed, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Coconut Drink": {
+          "description": "A coconut shell filled with a green beverage, topped with a tiny red umbrella, brought by the Small Orange Creature as a refreshing treat, later spilled during the prank.",
+          "attribute": "visual"
+        },
+        "Triceratops-Like Creature": {
+          "description": "A brown, horned, spiked dinosaur resembling a Triceratops, initially sleeping peacefully in a cabin with gentle, deep breathing and snoring sounds, later waking up alert with a soft, sleepy yawn and a gentle sigh, and also seen lounging on a beach chair in a dreamlike sequence.",
+          "attribute": "audio-visual"
+        },
+        "Dart-Throwing Game": {
+          "description": "A game area with a wooden target and darts, where the Triceratops-Like Creature angrily throws darts, indicating frustration or competition, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "DART THROWING Sign": {
+          "description": "A wooden sign with the words 'DART THROWING' pointing to the game area, adding to the island’s quirky activities, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Red Dragon": {
+          "description": "A red-scaled dragon with a large frill, yellow eyes, and a mischievous yet friendly demeanor, who serves drinks at the bar, appears in the dream sequence holding a tray with a drink and a pink flower-like object, and later runs joyfully along the beach carrying skewers of food, emitting a playful whoop or chirp.",
+          "attribute": "audio-visual"
+        },
+        "Mailbox": {
+          "description": "A weathered, dark gray mailbox labeled 'A. GUIRUS G.SAURUS', situated outdoors near palm trees, with a red envelope being dropped into it, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Godzilla-Like Creature": {
+          "description": "A towering, dark gray creature resembling Godzilla, shown lounging on a red couch in a dimly lit cave, watching TV, and later pouring a substance from a bucket over a small green creature, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Small Orange Creature": {
+          "description": "A small, orange, bat-winged creature with a green mohawk, seen bringing a coconut drink to the Triceratops-Like Creature, perched on the bed, and later appearing in a group of three on the beach, watching the ocean, with a distinct squawk or bird-like chirp heard during the dream sequence.",
+          "attribute": "audio-visual"
+        },
+        "Metallic Skull Creature": {
+          "description": "A half-buried, metallic skull with glowing yellow eyes and a pink flower growing from its head, surrounded by small pink flowers and a stone cairn in a desert setting, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Small Brown Creature": {
+          "description": "A small, brown, horned creature with a spiked back and a scarred leg, initially distressed and later shown dazed and injured after being struck by a blue energy beam, with ghostly figures floating above its head, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Framed Photos": {
+          "description": "A series of framed images on the walls of the bar, depicting various monstrous creatures including a two-headed dragon, a robotic skull, and a dark figure with red eyes, suggesting a history of encounters or legends, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Nighttime Village": {
+          "description": "A village with palm trees, stone-like homes, and signs like 'CABINS' and 'BAR,' set under a starry sky with a crescent moon, creating a mysterious and slightly eerie atmosphere, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Dark Figure": {
+          "description": "A shadowy, humanoid figure with glowing red eyes emerging from the doorway of the 'H. DORAH' house, suggesting a threatening or supernatural presence, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Welcome Sign": {
+          "description": "A wooden sign reading 'WELCOME!' strung between two bamboo poles with red lanterns, marking the entrance to the tropical island retreat, visible in this segment.",
+          "attribute": "visual"
+        },
+        "ROCK TOSSING Sign": {
+          "description": "A wooden sign reading 'ROCK TOSSING' placed near a pile of stones, indicating a game or activity area on the island, contributing to the playful and quirky environment, visible in this segment.",
+          "attribute": "visual"
+        },
+        "Ghostly Figures": {
+          "description": "Tiny, translucent figures of a robot, a skull, and a house floating above the Small Brown Creature's head, suggesting memories or thoughts, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Vacation Brochure": {
+          "description": "A red brochure titled 'TITANOSAURUS OCEAN RETREAT' with the tagline 'RECOVER FROM YOUR BATTLES IN LUXURY! (NICE KAIJU ONLY.)', featuring an image of a red dragon relaxing on a beach chair, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Mothra": {
+          "description": "A large, white, egg-like creature with orange heads, antennae, and a calm, observant expression, shown first in a comic panel and later in a classroom holding a pointer, appearing to teach, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "BREAKFAST LUNCH DINNER Menu": {
+          "description": "A paper menu taped to the wall in the cabin, listing meal times, suggesting a structured daily routine for guests.",
+          "attribute": "visual"
+        },
+        "Cabin Interior": {
+          "description": "An indoor setting with a wooden bed, nightstand, alarm clock, and a 'BREAKFAST LUNCH DINNER' menu on the wall, where the Triceratops-Like Creature sleeps peacefully at the beginning and wakes up at the end, initially dimly lit and later brightened by sunlight.",
+          "attribute": "audio-visual"
+        },
+        "Classroom Setting": {
+          "description": "An indoor environment with a chalkboard displaying math problems, a red mat, and scattered papers, suggesting an educational or meditative space, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Multi-Legged Creature": {
+          "description": "A large, brown and tan striped creature with multiple legs, purple eyes, and a menacing grin, shown defeated and smoking on the ground, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "TV Screen": {
+          "description": "An old-style television displaying a clip of a large, furry creature with a blue screen, labeled 'WORLD'S LARGEST', placed on a wooden table in the Godzilla-Like Creature's cave, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Crab in Fishbowl": {
+          "description": "A small, dark crab wearing blue goggles, sitting inside a round glass fishbowl on a wooden stand, with a can labeled 'CHOW' being poured into the bowl, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "LEGENDARY PEAK Sign": {
+          "description": "A wooden signpost with the words 'LEGENDARY PEAK' in bold, placed on a rocky path at sunset, indicating a destination or landmark, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Telescope": {
+          "description": "A large, wooden telescope on a tripod, used by the Triceratops-Like Creature to view a distant, menacing gray creature, causing surprise and concern, not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Bill Notice": {
+          "description": "A paper notice taped to a door reading 'BILL', 'OVERDUE!!', and 'PAY ME!!', signed 'KING CAT', indicating a debt owed in the village, not visible in this segment.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a dimly lit cabin where a Triceratops-Like Creature sleeps peacefully, its gentle, deep breathing and snoring filling the quiet space, accompanied by a soft, ethereal hum. Suddenly, the scene cuts to black, and eerie, high-pitched synth sounds underscore the terror of a small, blue, horned creature, surrounded by floating white shards. A loud crash and a low growl punctuate its frantic flight from a looming, clawed foot and menacing, glowing yellow eyes, as the unsettling synth and a deep, mournful horn-like sound continue. The scene shifts to a surreal dream, with whimsical, tropical-sounding music and ocean waves, showing the Triceratops-Like Creature lounging on a beach chair, served by small orange creatures, as a Red Dragon appears with a tray. The Triceratops-Like Creature then wakes up in the cabin with a soft, sleepy yawn and a gentle sigh, seeing one of the small orange creatures perched on its bed. Looking out, a sunny beach with palm trees and lounge chairs is revealed. The tropical music swells as the scene transitions to a wide shot of the vibrant island, where the Red Dragon runs joyfully along the shore, tossing skewers into the air with a playful whoop, under a clear blue sky."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 10,
+      "end_minute": 10,
+      "summary": "The narrative begins on a tranquil tropical island with the sounds of ocean waves and seagulls, where two small, brown, round creatures relax on the sand, one engrossed in a book. This peace is shattered by a shift to a desolate, rocky canyon under a stormy sky, underscored by tense orchestral music and wind. A small, green, lizard-like creature cautiously observes from behind a rock as a large, brown, horned Triceratops-like creature emerges with a guttural growl, causing the green creature to flinch. Abruptly, a massive, dark gray Godzilla-like creature materializes, emitting a powerful roar before firing a blue energy beam with a 'whoosh' and 'zap' that strikes the Triceratops-like creature, sending it airborne. The green creature witnesses in shock as the Godzilla-like creature confronts a new adversary: a colossal, three-headed golden dragon with bat-like wings, identified as King Ghidorah, which unleashes menacing roars and high-pitched cries. A comic-style panel depicts the Godzilla-like creature landing a punch, labeled 'POW!!!', on one of King Ghidorah's heads, provoking screams and yelps from the other two. The sequence culminates with the Godzilla-like creature standing victoriously over the fallen King Ghidorah, accompanied by heroic orchestral music, while the small green creature watches the aftermath from afar.",
+      "involved_entities": {
+        "Small Green Creature": {
+          "description": "A small, green, lizard-like creature with a long tail, initially hiding nervously behind a rock in a canyon, later watching the battle unfold with wide eyes, and finally observing the aftermath from a distance, its reactions underscored by the dramatic music.",
+          "attribute": "audio-visual"
+        },
+        "Triceratops-Like Creature": {
+          "description": "A brown, horned, spiked dinosaur resembling a Triceratops, initially seen in a peaceful setting but later appearing in a rocky canyon with a deep, guttural growl, where it is startled and then struck by a blue energy beam and knocked back.",
+          "attribute": "audio-visual"
+        },
+        "Godzilla-Like Creature": {
+          "description": "A towering, dark gray creature resembling Godzilla, shown in a rocky canyon unleashing a loud, powerful roar and a blue energy beam, then engaging in combat with King Ghidorah by delivering a powerful punch, and finally standing victorious over the defeated monster amidst heroic music.",
+          "attribute": "audio-visual"
+        },
+        "King Ghidorah": {
+          "description": "A colossal, three-headed golden dragon with bat-like wings, sharp horns, and a menacing expression, identified by on-screen text as 'KING GHIDORAH MONSTER' with the motto 'YOU DESERVE THE WORLD!!!', appearing in a rocky canyon and engaging in battle with the Godzilla-Like Creature, characterized by its distinctive high-pitched, menacing roars and screams/yelps when struck.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens on a serene tropical island, filled with the gentle sounds of ocean waves and seagulls, as two small, brown, round creatures lounge on the sand, one reading a book. This tranquility is abruptly replaced by a desolate, rocky canyon under a stormy sky, accompanied by tense, low orchestral music and the sound of wind. A small, green, lizard-like creature nervously peeks from behind a rock as a large, brown, horned Triceratops-like creature emerges with a deep, guttural growl, startling it. Suddenly, a massive, dark gray Godzilla-like creature appears, letting out a loud, powerful roar before unleashing a blue energy beam with a distinct whoosh and zap, striking the brown creature and sending it flying. The green creature watches in shock as the Godzilla-like creature turns its attention to a new threat: a colossal, three-headed golden dragon with bat-like wings, identified as 'KING GHIDORAH MONSTER', which roars menacingly with distinctive high-pitched cries. The scene cuts to a comic-style panel where the Godzilla-like creature delivers a powerful punch, marked 'POW!!!', to one of the dragon’s heads, eliciting screams and yelps from the other two. The segment concludes with the Godzilla-like creature standing triumphantly over the defeated dragon, accompanied by heroic orchestral music, as the small green creature observes the aftermath from a distance."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 11,
+      "end_minute": 12,
+      "summary": "In a rocky canyon, the colossal, three-headed golden dragon King Ghidorah lies defeated, marked with 'X's, as a powerful blue energy beam strikes the ground near it with an energy sound, and the towering, dark gray Godzilla-Like Creature stands triumphantly, emitting deep, rumbling growls. A small green lizard-like creature cautiously approaches, squeaking and whimpering, observing the aftermath. The Godzilla-Like Creature then turns to a dazed and injured Triceratops-Like Creature, which groans and whimpers in pain as the Godzilla-Like Creature gestures with a low, guttural growl. The scene shifts to a bar with gentle, whimsical music and clinking glasses, where a Red Dragon serves drinks to an unimpressed Godzilla-Like Creature. Transitioning to a dreamlike tropical island retreat with upbeat J-pop music, the Triceratops-Like Creature relaxes, receiving a 'stone massage' from the Red Dragon, while a small orange creature with bat wings delivers a coconut drink. The segment concludes with a blue Patreon support screen displaying patron names and a 'THANK YOU!!!' sign, accompanied by the continuing J-pop music. The final frames show the Triceratops-Like Creature and the Small Orange Creature on a beach, watching the ocean, with 'WELCOME!' and 'ROCK TOSSING' signs visible. The video initially displayed a blue screen with scrolling donation tiers ('$5', '$3') and upbeat J-pop music, then transitioned to an inviting end screen featuring 'SUBSCRIBE :D', social media handles '@quazies' and '@quaziesart', and a call to action for Patreon support to create more animations, all set to cheerful background music.",
+      "involved_entities": {
+        "Small Green Creature": {
+          "description": "A small, green, lizard-like creature with a long tail, initially hiding nervously behind a rock in a canyon, letting out a high-pitched squeak and whimper as it observes the aftermath.",
+          "attribute": "audio-visual"
+        },
+        "Stone Massage": {
+          "description": "A large, flat stone placed on the Triceratops-Like Creature’s back by the Red Dragon, humorously presented as a massage, adding to the comedic and surreal nature of the island’s services.",
+          "attribute": "visual"
+        },
+        "Coconut Drink": {
+          "description": "A coconut shell filled with a green beverage, topped with a tiny red umbrella, brought by the Small Orange Creature as a refreshing treat, later spilled during the prank.",
+          "attribute": "visual"
+        },
+        "Triceratops-Like Creature": {
+          "description": "A brown, horned, spiked dinosaur resembling a Triceratops, initially shown dazed and injured, letting out a pained groan and whimper, later appearing relaxed and content on a tropical island receiving a stone massage.",
+          "attribute": "audio-visual"
+        },
+        "Red Dragon": {
+          "description": "A red-scaled dragon with a large frill, yellow eyes, and a mischievous yet friendly demeanor, serving drinks at the bar and later placing a stone on the Triceratops-Like Creature's back as a humorous 'massage'.",
+          "attribute": "visual"
+        },
+        "Godzilla-Like Creature": {
+          "description": "A towering, dark gray kaiju with a spiky back and fierce expression, standing triumphantly and emitting deep, rumbling growls, later seen at a bar and gesturing to the Triceratops-Like Creature with a low, guttural growl.",
+          "attribute": "audio-visual"
+        },
+        "Patreon Support Screen": {
+          "description": "A blue screen displaying a list of patrons with names like 'HiddenDirector', 'RyujiRockClaws', and others, featuring a small blue character holding a 'THANK YOU!!!' sign and a speech bubble asking viewers to support the creator on Patreon.",
+          "attribute": "visual"
+        },
+        "Small Orange Creature": {
+          "description": "A small, orange, bat-winged creature with a green mohawk, seen bringing a coconut drink to the Triceratops-Like Creature, perched on the bed, and later appearing in a group of three on the beach, watching the ocean.",
+          "attribute": "visual"
+        },
+        "King Ghidorah": {
+          "description": "A colossal, three-headed golden dragon with bat-like wings, sharp horns, and a menacing expression, shown defeated on the ground with 'X's over its eyes, indicating it has been vanquished.",
+          "attribute": "visual"
+        },
+        "ROCK TOSSING Sign": {
+          "description": "A wooden sign reading 'ROCK TOSSING' placed near a pile of stones, indicating a game or activity area on the island, contributing to the playful and quirky environment.",
+          "attribute": "visual"
+        },
+        "Tropical Island Retreat": {
+          "description": "A sunny, sandy island with palm trees, red lanterns, a 'WELCOME!' sign, and a thatched umbrella, serving as a relaxing retreat with bamboo furniture and a 'ROCK TOSSING' game area, creating a vibrant and humorous vacation setting.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a dramatic scene in a rocky canyon, filled with the sounds of roaring and heavy thuds, as King Ghidorah, a colossal three-headed golden dragon, lies defeated, marked with 'X's. A powerful blue energy beam strikes the ground near it with a distinct energy sound, as the towering, dark gray Godzilla-Like Creature stands triumphantly, emitting deep, rumbling growls. A small green lizard-like creature cautiously approaches, letting out a high-pitched squeak and whimper, observing the aftermath. The Godzilla-Like Creature then turns its attention to a dazed and injured Triceratops-Like Creature, which lets out a pained groan and whimper as the Godzilla-Like Creature gestures with a low, guttural growl. The scene shifts to a bar setting, accompanied by gentle, whimsical background music and the clinking of glasses, where a Red Dragon with a mischievous grin serves drinks to an unimpressed Godzilla-Like Creature. The video transitions to a dreamlike tropical island retreat, now set to upbeat, energetic J-pop music with a female vocalist singing in Japanese. Here, the Triceratops-Like Creature relaxes, receiving a 'stone massage' from the Red Dragon, while a small orange creature with bat wings brings a coconut drink. The scene concludes with a blue Patreon support screen, displaying patron names and a 'THANK YOU!!!' sign, as the J-pop music continues. The final frames show the content Triceratops-Like Creature and the Small Orange Creature watching the ocean from a beach, with 'WELCOME!' and 'ROCK TOSSING' signs visible, maintaining the peaceful vacation setting.",
+        "The segment opens with a blue screen displaying a scrolling list of names under donation tiers, first '$5' and then '$3', all set to upbeat, cheerful J-pop music featuring a female vocalist. This transitions to a static, inviting end screen with a bright blue background and stylized light-yellow clouds. On the left, 'SUBSCRIBE :D' is written in white, curving along a cloud. In the center, social media handles '@quazies' (Instagram) and '@quaziesart' (Twitter) are prominently displayed with their respective logos. To the right, text encourages viewers to 'Help me make more animations! Patreon in the description,' reinforcing the cheerful and engaging tone of the visuals, which is perfectly complemented by the continuous, lively background music."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Blue Dragon": "A large, blue-scaled dragon with two horns and a calm, observant expression, seen emerging from the right side of the frame during sunrise, but not visible in this segment.",
+    "Red Dragon": "A red-scaled dragon with a large frill, yellow eyes, and a mischievous yet friendly demeanor, serving drinks at the bar and later placing a stone on the Triceratops-Like Creature's back as a humorous 'massage'.",
+    "Multi-Legged Creature": "A large, brown and tan striped creature with multiple legs, purple eyes, and a menacing grin, shown defeated and smoking on the ground, not visible in this segment.",
+    "Godzilla-Like Creature": "A towering, dark gray kaiju with a spiky back and fierce expression, standing triumphantly and emitting deep, rumbling growls, later seen at a bar and gesturing to the Triceratops-Like Creature with a low, guttural growl.",
+    "Small Brown Creature": "A small, brown, horned creature with a spiked back and a scarred leg, initially distressed and later shown dazed and injured after being struck by a blue energy beam, with ghostly figures floating above its head, not visible in this segment.",
+    "Metallic Skull Creature": "A half-buried, metallic skull with glowing yellow eyes and a pink flower growing from its head, surrounded by small pink flowers and a stone cairn in a desert setting, not visible in this segment.",
+    "Ghostly Figures": "Tiny, translucent figures of a robot, a skull, and a house floating above the Small Brown Creature's head, suggesting memories or thoughts, not visible in this segment.",
+    "Mothra": "A large, white, egg-like creature with orange heads, antennae, and a calm, observant expression, shown first in a comic panel and later in a classroom holding a pointer, appearing to teach, not visible in this segment.",
+    "Triceratops-Like Creature": "A brown, horned, spiked dinosaur resembling a Triceratops, initially shown dazed and injured, letting out a pained groan and whimper, later appearing relaxed and content on a tropical island receiving a stone massage.",
+    "Classroom Setting": "An indoor environment with a chalkboard displaying math problems, a red mat, and scattered papers, suggesting an educational or meditative space, not visible in this segment.",
+    "Nighttime Village": "A village with palm trees, stone-like homes, and signs like 'CABINS' and 'BAR,' set under a starry sky with a crescent moon, creating a mysterious and slightly eerie atmosphere, not visible in this segment.",
+    "Dark Figure": "A shadowy, humanoid figure with glowing red eyes emerging from the doorway of the 'H. DORAH' house, suggesting a threatening or supernatural presence, not visible in this segment.",
+    "TV Screen": "An old-style television displaying a clip of a large, furry creature with a blue screen, labeled 'WORLD'S LARGEST', placed on a wooden table in the Godzilla-Like Creature's cave, not visible in this segment.",
+    "Framed Photos": "A series of framed images on the walls of the bar, depicting various monstrous creatures including a two-headed dragon, a robotic skull, and a dark figure with red eyes, suggesting a history of encounters or legends, not visible in this segment.",
+    "Bill Notice": "A paper notice taped to a door reading 'BILL', 'OVERDUE!!', and 'PAY ME!!', signed 'KING CAT', indicating a debt owed in the village, not visible in this segment.",
+    "Vacation Brochure": "A red brochure titled 'TITANOSAURUS OCEAN RETREAT' with the tagline 'RECOVER FROM YOUR BATTLES IN LUXURY! (NICE KAIJU ONLY.)', featuring an image of a red dragon relaxing on a beach chair, not visible in this segment.",
+    "Small Green Creature": "A small, green, lizard-like creature with a long tail, initially hiding nervously behind a rock in a canyon, letting out a high-pitched squeak and whimper as it observes the aftermath.",
+    "Mailbox": "A weathered, dark gray mailbox labeled 'A. GUIRUS G.SAURUS', situated outdoors near palm trees, with a red envelope being dropped into it, not visible in this segment.",
+    "Crab in Fishbowl": "A small, dark crab wearing blue goggles, sitting inside a round glass fishbowl on a wooden stand, with a can labeled 'CHOW' being poured into the bowl, not visible in this segment.",
+    "Welcome Sign": "A wooden sign reading 'WELCOME!' strung between two bamboo poles with red lanterns, marking the entrance to the tropical island retreat, visible in this segment.",
+    "Tropical Island": "A sunny, sandy island with palm trees, red lanterns, a 'WELCOME!' sign, and a thatched umbrella, serving as a relaxing retreat with bamboo furniture and a 'ROCK TOSSING' game area, creating a vibrant and humorous vacation setting, its atmosphere enhanced by whimsical, tropical-sounding music and the sounds of ocean waves.",
+    "Small Yellow Creature": "A small, orange, bat-winged creature with a green mohawk, seen bringing a coconut drink to the Triceratops-Like Creature, scattering in panic when the drink is spilled, and later appearing in a group of three on the beach, watching the ocean.",
+    "Small Orange Creature": "A small, orange, bat-winged creature with a green mohawk, seen bringing a coconut drink to the Triceratops-Like Creature, perched on the bed, and later appearing in a group of three on the beach, watching the ocean.",
+    "Bamboo Raft": "A makeshift raft constructed from rolled bamboo logs, previously used to transport the Triceratops-Like Creature across the ocean, now implied to have been left behind as the creature settles into the island’s amenities.",
+    "Stone Massage": "A large, flat stone placed on the Triceratops-Like Creature’s back by the Red Dragon, humorously presented as a massage, adding to the comedic and surreal nature of the island’s services.",
+    "Coconut Drink": "A coconut shell filled with a green beverage, topped with a tiny red umbrella, brought by the Small Orange Creature as a refreshing treat, later spilled during the prank.",
+    "ROCK TOSSING Sign": "A wooden sign reading 'ROCK TOSSING' placed near a pile of stones, indicating a game or activity area on the island, contributing to the playful and quirky environment.",
+    "Dart-Throwing Game": "A game area with a wooden target and darts, where the Triceratops-Like Creature angrily throws darts, indicating frustration or competition, not visible in this segment.",
+    "DART THROWING Sign": "A wooden sign with the words 'DART THROWING' pointing to the game area, adding to the island’s quirky activities, not visible in this segment.",
+    "BREAKFAST LUNCH DINNER Menu": "A paper menu taped to the wall in the cabin, listing meal times, suggesting a structured daily routine for guests.",
+    "Cabin Interior": "An indoor setting with a wooden bed, nightstand, alarm clock, and a 'BREAKFAST LUNCH DINNER' menu on the wall, where the Triceratops-Like Creature sleeps peacefully at the beginning and wakes up at the end, initially dimly lit and later brightened by sunlight.",
+    "LEGENDARY PEAK Sign": "A wooden signpost with the words 'LEGENDARY PEAK' in bold, placed on a rocky path at sunset, indicating a destination or landmark, not visible in this segment.",
+    "Telescope": "A large, wooden telescope on a tripod, used by the Triceratops-Like Creature to view a distant, menacing gray creature, causing surprise and concern, not visible in this segment.",
+    "King Ghidorah": "A colossal, three-headed golden dragon with bat-like wings, sharp horns, and a menacing expression, shown defeated on the ground with 'X's over its eyes, indicating it has been vanquished.",
+    "Patreon Support Screen": "A blue screen displaying a list of patrons with names like 'HiddenDirector', 'RyujiRockClaws', and others, featuring a small blue character holding a 'THANK YOU!!!' sign and a speech bubble asking viewers to support the creator on Patreon.",
+    "Tropical Island Retreat": "A sunny, sandy island with palm trees, red lanterns, a 'WELCOME!' sign, and a thatched umbrella, serving as a relaxing retreat with bamboo furniture and a 'ROCK TOSSING' game area, creating a vibrant and humorous vacation setting."
+  }
+}

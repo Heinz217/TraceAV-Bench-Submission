@@ -1,0 +1,871 @@
+{
+  "video_id": "video339",
+  "audio_id": "video339_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 5,
+      "summary": "The Threaducation Patreon Page, featuring a yellow and black design with membership tiers like 'The Rick Clique' and 'The Rafter Party', is introduced by a male narrator who announces the official launch of the Patreon and the day's topic: the history of Prada. He details exclusive content, including episodes on fashion business, brand launches, designer case studies, and early access to audio versions, while the user navigates the 'About' section with a Virgil Abloh quote and the 'Latest posts' section showing 'The History of Prada' and '#1 - How to Develop a Signature Product' as 'JUST NOW'. The narrator explains that joining supports the channel and enables more free video production before transitioning to the main content with excitement for 'The History of Prada Episode', which the user clicks to play, leading to a title card with atmospheric background music. The video then cuts to grainy, dimly lit 'Archival Fashion Show Footage' of models in dark, tailored ensembles walking a runway in a vintage venue with an audience, as the narrator begins the historical discussion, stating, \"To take things back to the very beginning...\" The archival footage continues, showing models in dark, tailored ensembles walking a runway flanked by seated audiences against classical architectural elements, while the narrator recounts Mario Prada's birth in Milan in 1857 and his early career learning the leather trade. A black-and-white still image of the historic 'Fratelli Prada' storefront appears with a 'THREADUCATION' overlay, as the narrator explains that Mario and his brother Martino opened the shop in 1913, making, importing, and selling leather goods. The video returns to archival footage and then a brightly lit modern runway with a model in a light blue blazer, as the narrator emphasizes Mario's focus on brand positioning. A modern runway features a model in a light blue blazer with a graphic back print, observed by an audience, as the narrator explains Mario Prada's understanding of customer perception and the need for high-quality goods to be perceived as such, followed by models in dark tailored coats. The narrator stresses that customers wouldn't spend thousands in a \"dusty old leather shop.\" A still image of the Galleria Vittorio Emanuele II in Milan appears with a 'THREADUCATION' overlay, and the narrator states Mario strategically opened Fratelli Prada there, the oldest shopping mall in Italy, to position his leather goods among the elite. The runway returns, showcasing models in sophisticated, minimalist fashion, as the narrator concludes this strategic approach established Prada as a premier leather shop. Archival fashion show footage shows models in dark, tailored outfits walking a runway in a classical setting, as the narrator explains that in 1919, Fratelli Prada was named the official supplier of the Italian Royal Household. Modern runway footage displays structured looks: a geometric patterned coat, a beige coat with a dark skirt, and a yellow top with a green skirt. The narrator highlights that this title granted Prada the right to use the House of Savoy's Coat of Arms, shown in a graphic comparison with the Prada logo, which is often incorporated into the logo. A model in a dark green coat and purple tights appears on the modern runway as the narrator notes the royal endorsement solidified Prada's ultra-luxury status. Mario Prada passed away in 1958 at 101, leaving a legacy and the question of succession. A close-up of a model in a structured dark green coat over a purple garment walks a minimalist white runway as the narrator explains Mario Prada's patriarchal mindset and reluctance for women in his family to join the business, noting his son's lack of interest in inheriting the brand. Models in a teal coat over a purple dress and a color-block dress appear, as the narrator details how Mario's daughter, Louisa Prada, took on the challenge, helping affirm Prada's status as a top leather goods company. A model in a multi-colored geometric-patterned coat is shown from multiple angles, emphasizing its structured silhouette and vibrant colors, as the narration highlights Maria Bianchi's decision to join the company in 1978. The segment ends with a group of models, including one in a mustard-yellow jumpsuit, walking in formation down the runway, with audience members clapping, as the historical narrative unfolds.",
+      "involved_entities": {
+        "Threaducation Patreon Page": {
+          "description": "A digital interface displaying membership tiers, content descriptions, and navigation options for an educational fashion content channel. The page features a yellow and black color scheme with images of fashion-related content and a prominent 'Message' button. A male narrator announces its official launch and describes the exclusive content available, including episodes on the business side of fashion, brand launching, designer case studies, and early access to audio versions of episodes.",
+          "attribute": "audio-visual"
+        },
+        "Archival Fashion Show Footage": {
+          "description": "Grainy, dimly lit footage of a live fashion show with models walking down a runway, surrounded by an audience seated on either side. The setting features classical architectural elements like a chandelier and columns, and the models wear dark, tailored outfits, evoking a vintage aesthetic.",
+          "attribute": "visual"
+        },
+        "The History of Prada Episode": {
+          "description": "A still image of the historic 'Fratelli Prada' storefront in Milan, presented in black and white, with ornate architectural details and a person walking past. The text 'THREADUCATION' is displayed at the bottom, indicating a thematic connection to the educational content of the episode. The entire segment features a male narrator detailing the strategic history of Prada, from its founding principles to its establishment as a premier luxury brand, directly aligning with the educational theme of 'THREADUCATION'.",
+          "attribute": "audio-visual"
+        },
+        "Modern Runway Footage": {
+          "description": "Brightly lit, high-contrast footage of models walking down a minimalist, modern runway, showcasing structured, sophisticated outfits including a light blue blazer, dark trousers, a long patterned coat, a beige coat, a vibrant yellow top with a green skirt, and a dark green coat with purple tights. This visual evolution of Prada's fashion is contextualized by the male narrator's discussion of the brand's growth into an 'ultra-luxury brand' due to royal endorsement, and the later mention of Mario Prada's passing in 1958, marking a transition point in the brand's legacy.",
+          "attribute": "audio-visual"
+        },
+        "Galleria Vittorio Emanuele II Image": {
+          "description": "A panoramic still image of the opulent Galleria Vittorio Emanuele II in Milan, featuring a grand glass dome, ornate architecture, and luxury boutiques including Prada and Savini, with a Christmas tree at the center. The image is overlaid with text identifying the location and the 'THREADUCATION' brand. A male narrator explicitly identifies this location as where Mario Prada strategically opened Fratelli Prada, describing it as the oldest shopping mall in all of Italy and home to many major luxury brands, emphasizing its role in establishing Prada's prestige and quality perception.",
+          "attribute": "audio-visual"
+        },
+        "House of Savoy Coat of Arms and Prada Logo Comparison": {
+          "description": "A still graphic displaying the House of Savoy Coat of Arms—a red and white shield with a crown and ornate border—next to the Prada logo, a black triangle with 'PRADA MILANO DAL 1913' and a small crest, emphasizing a visual parallel between the two emblems. The text 'THREADUCATION' is displayed at the bottom. The male narrator explicitly states that Prada gained the right to use the House of Savoy's coat of arms on their products, explaining its incorporation into the actual Prada logo even today.",
+          "attribute": "audio-visual"
+        },
+        "Model in Geometric Coat": {
+          "description": "A model wearing a bold, multi-colored geometric-patterned coat with blue, yellow, green, and black blocks, paired with black tights and black heeled boots.",
+          "attribute": "visual"
+        },
+        "Model in Color-Block Dress": {
+          "description": "A model with short, reddish-brown hair wearing a sleeveless beige and purple color-block dress, light tights, and tan platform heels.",
+          "attribute": "visual"
+        },
+        "Model in Mustard Jumpsuit": {
+          "description": "A model leading a group in a mustard-yellow jumpsuit with matching platform heels, walking confidently down the runway.",
+          "attribute": "visual"
+        },
+        "Model in Teal Coat": {
+          "description": "A model with blonde hair wearing a teal coat over a purple dress, walking with a composed posture and visible audience reactions.",
+          "attribute": "visual"
+        },
+        "Model in Green Coat": {
+          "description": "A model with short, dark hair wearing a structured dark green coat over a purple garment, walking with a poised hand on her hip.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a screen recording of the 'Threaducation Patreon Page', featuring its yellow and black design and displaying membership tiers like 'The Rick Clique' and 'The Rafter Party' with their respective benefits. A male narrator, the host of Threaducation, welcomes viewers and announces the official launch of the Patreon, stating that today's topic will be the history of Prada. He continues, detailing the exclusive content available, such as episodes on the business side of fashion, launching successful brands, and designer case studies, as well as early access to audio versions. Visually, the user navigates the 'Threaducation Patreon Page', first to the 'About' section displaying a welcome message with a Virgil Abloh quote, then scrolling to the 'Latest posts' section where two unlocked episodes, 'The History of Prada' and '#1 - How to Develop a Signature Product', are visible and marked as 'JUST NOW'. The narrator further explains that joining is a way to support the channel and enable more full-time free video production. He then transitions to the main content, expressing excitement for the episode, \"This is the History of Prada.\" Concurrently, the user clicks to play 'The History of Prada Episode' on the Patreon page, which then transitions to a title card featuring bold black text on a white background, accompanied by a subtle, atmospheric background music track. The video then cuts to grainy, dimly lit 'Archival Fashion Show Footage', showing a model walking a runway in a venue with an audience, capturing a vintage live fashion event atmosphere, while the atmospheric background music continues and the narrator begins the historical discussion, stating, \"To take things back to the very beginning...\"",
+        "The segment opens with grainy, dimly lit archival footage of a fashion show, where models in dark, tailored ensembles walk a runway flanked by seated audiences, set against classical architectural elements like a chandelier and columns. Over this vintage scene, a narrator begins to recount the history of Prada, starting in 1857 with the birth of Mario Prada in Milan, Italy. The narrator details Mario's early career as a salesman in a local leather goods shop, where he meticulously learned the leather trade, including tanning processes and distinguishing high-quality products. As Mario refined his skills and knowledge, he decided to launch his own leather goods shop. The visual then transitions to a black-and-white still image of the historic 'Fratelli Prada' storefront in Milan, adorned with ornate detailing and overlaid with the text 'THREADUCATION'. The narrator explains that in 1913, Mario, with his brother Martino, officially opened this shop, 'Fratelli Prada,' which translates to 'The Prada Brothers.' They made, imported, and sold a range of leather goods, including trunks and bags. The video then cuts back to more archival footage, followed by a brightly lit, modern runway featuring a model in a light blue blazer, as the narrator emphasizes Mario's ambition to do things differently, focusing on brand positioning from the outset.",
+        "The minute begins with what is presented as archival fashion show footage, though it features a modern aesthetic: a model confidently strides down a white, minimalist runway in a light blue blazer with a graphic back print, observed by an engaged audience. The setting, with its neutral walls and soft lighting, emphasizes the structured, tailored garments. As a male narrator explains Mario Prada's acute understanding of customer perception and the necessity for high-quality goods to be *perceived* as such, another model in a dark tailored coat enters, followed by a third in a similar dark ensemble, all maintaining a poised demeanor. The narrator continues, stressing that customers wouldn't spend thousands in a \"dusty old leather shop,\" regardless of product quality. The visual then transitions to a still image of the opulent Galleria Vittorio Emanuele II in Milan, a grand shopping arcade with a glass dome and luxury stores like Prada and Savini, featuring a 'THREADUCATION' brand overlay. The narrator explicitly connects this visual, stating Mario strategically opened Fratelli Prada at this very Galleria, which he describes as the oldest shopping mall in Italy and home to major luxury brands, to position Prada's leather goods among the elite. The video then returns to the runway, showcasing a model in a dark coat with a structured collar walking towards the camera, followed by another in a long, patterned coat, continuing the display of sophisticated, minimalist fashion, as the narrator concludes that this strategic approach established Prada as a premier leather shop across Italy.",
+        "The video opens with archival fashion show footage, showcasing models in dark, tailored outfits walking a runway in a classical setting, as a male narrator explains that in 1919, just six years after its opening, Fratelli Prada was named the official supplier of the Italian Royal Household, providing all their luggage, bags, and other leather goods. This historical context is followed by brightly lit modern runway footage, where models showcase structured, sophisticated looks: a long, geometric patterned coat, a beige coat with a dark skirt, and a vibrant yellow top with a green skirt. The narrator highlights that being named the official supplier gave Prada the right to use the House of Savoy's Coat of Arms on their products, which is why it's often incorporated into the actual Prada logo. This explanation coincides with a brief cut to a graphic comparing the House of Savoy Coat of Arms with the Prada logo, displaying 'THREADUCATION'. The scene then returns to the modern runway, featuring a model in a dark green coat and purple tights, as the narrator continues, noting that the royal family's endorsement solidified Prada's status as an ultra-luxury brand, allowing it to continue to grow. The segment concludes with the narrator mentioning that in 1958, Mario Prada passed away at 101, leaving behind a strong legacy and posing the question of who would continue it and ensure the Prada name was known around the world.",
+        "The minute opens with a close-up of a model with short, dark hair, confidently walking a minimalist white runway in a structured dark green coat over a purple garment, her hand poised on her hip. Simultaneously, a male voice narrates the early history of Prada, explaining Mario Prada's patriarchal mindset and his initial reluctance for women in his family to join the business. As the camera follows the model, revealing a formally dressed audience observing intently, the narration continues, detailing how Mario's son had no interest in inheriting the brand. The scene transitions to a blonde model in a teal coat over a purple dress, walking with composed posture, followed by a model with reddish-brown hair showcasing a sleeveless beige and purple color-block dress with light tights and tan platform heels. The voice-over explains that Mario's daughter, Louisa Prada, took on the challenge, helping Prada affirm its status as one of the world's top leather goods companies over the next two decades. A model in a bold, multi-colored geometric-patterned coat with blue, yellow, green, and black blocks, paired with black tights and heeled boots, is then captured from multiple angles, emphasizing the structured silhouette and vibrant colors. The narration concludes by highlighting the pivotal moment in 1978 when Louisa's daughter, Maria Bianchi, decided to join the company. The segment ends with a group of models, led by one in a mustard-yellow jumpsuit with matching platform heels, walking in formation down the brightly lit runway, with some audience members clapping, all while the historical narrative of Prada unfolds."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 6,
+      "end_minute": 6,
+      "summary": "Grainy, dimly lit archival fashion show footage depicts models confidently walking a runway in structured, geometric-patterned garments of earthy tones and pastels, accompanied by a male narrator discussing a \"family business\" and introducing \"Maria Bianchi,\" now known as \"Miuccia Prada,\" born in 1949. A title card reading 'MIUCCIA' with 'THREADUCATION' beneath transitions to a close-up of Miuccia Prada, a woman in a dark blazer with shoulder-length light brown hair, speaking to the camera against a neutral background. The narrator elaborates that Miuccia's family initially specialized in leather accessories, not fashion, and that she developed a passion for fashion at a young age. The scene shifts back to the runway, showcasing models in avant-garde outfits, including a sheer black top with a structured skirt and a floral-patterned green shirt. The segment concludes with Miuccia Prada being warmly embraced by smiling women in a celebratory setting, followed by her speaking into a microphone bearing a 'T' logo, all underscored by consistent, upbeat electronic background music.",
+      "involved_entities": {
+        "Model in Geometric Coat": {
+          "description": "A model wearing a bold, multi-colored geometric-patterned coat with blue, yellow, green, and black blocks, paired with black tights and black heeled boots.",
+          "attribute": "visual"
+        },
+        "Model in Mustard Jumpsuit": {
+          "description": "A model leading a group in a mustard-yellow jumpsuit with matching platform heels, walking confidently down the runway.",
+          "attribute": "visual"
+        },
+        "Model in Color-Block Dress": {
+          "description": "A model with short, reddish-brown hair wearing a sleeveless beige and purple color-block dress, light tights, and tan platform heels.",
+          "attribute": "visual"
+        },
+        "Model in Teal Coat": {
+          "description": "A model with blonde hair wearing a teal coat over a purple dress, walking with a composed posture and visible audience reactions.",
+          "attribute": "visual"
+        },
+        "Woman in Dark Blazer": {
+          "description": "A woman with shoulder-length light brown hair, wearing a dark blazer over a light blue top, identified by the narrator as 'Miuccia Prada.' She is seen speaking directly to the camera, later being warmly embraced in a celebratory setting, and finally speaking into a microphone with a 'T' logo during an interview, as the narrator details her birth name, family history, and early passion for fashion.",
+          "attribute": "audio-visual"
+        },
+        "Model in Sheer Black Top": {
+          "description": "A model wearing a sheer black top with a structured skirt, walking down the runway with a minimalist, avant-garde aesthetic.",
+          "attribute": "visual"
+        },
+        "Archival Fashion Show Footage": {
+          "description": "Grainy, dimly lit footage of a live fashion show with models walking down a runway, surrounded by an audience. The setting features classical architectural elements, and the models wear dark, tailored outfits, evoking a vintage aesthetic, providing the visual backdrop as a male narrator introduces Miuccia Prada and discusses her family's early business ventures.",
+          "attribute": "audio-visual"
+        },
+        "Microphone with 'T' Logo": {
+          "description": "A black microphone with a prominent orange 'T' logo, held during an interview with Miuccia Prada, visually linking to the 'THREADUCATION' title card and indicating media coverage or a press event related to her story.",
+          "attribute": "audio-visual"
+        },
+        "Model in Floral Shirt": {
+          "description": "A model with short dark hair wearing a green floral-patterned shirt with minimal undergarments, walking with a serious expression.",
+          "attribute": "visual"
+        },
+        "Model in Green Coat": {
+          "description": "A model with short, dark hair wearing a structured dark green coat over a purple garment, walking with a poised hand on her hip.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with grainy, dimly lit archival footage of a vintage-style fashion show, where models confidently walk a runway showcasing structured, geometric-patterned garments in earthy tones and pastels, as a male narrator discusses a \"family business.\" He introduces \"Maria Bianchi,\" who he reveals is now known as \"Miuccia Prada,\" born in 1949 to Luigi Bianchi and Louisa Prada. A title card displaying 'MIUCCIA' with 'THREADUCATION' beneath appears, followed by a close-up of Miuccia Prada herself, a woman with shoulder-length light brown hair in a dark blazer, speaking directly to the camera against a neutral background. The narrator explains that Miuccia, whose family called her Miuccia, had an interesting path into fashion, noting that the Prada family initially focused on leather accessories like bags and luggage, not fashion. The scene cuts back to the runway, featuring models in avant-garde outfits, including a sheer black top with a structured skirt and a floral-patterned green shirt. The narrator continues, explaining Miuccia fell in love with fashion at a young age. The segment concludes with Miuccia Prada being warmly embraced by smiling women in a celebratory setting, then speaking into a microphone with a 'T' logo, likely for 'THREADUCATION', all set to a consistent, upbeat electronic background music."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 7,
+      "end_minute": 14,
+      "summary": "Initially aspiring to be a mime, Miuccia Prada, who pursued political science and was an outspoken member of the Communist Party, eventually took charge of the family business in 1978 after her mother, Luisa, retired. Facing a plateau in brand growth and relying on traditional leather goods, Miuccia, with her husband Patrizio Bertelli, strategically reinvented Prada by introducing innovative designs, beginning with waterproof nylon bags and a women's footwear line in 1979. She controversially incorporated nylon, typically used for athletic gear, into luxury items, a move that, along with a refined aesthetic of minimalist, structured garments in a reserved palette of black and white, helped establish Prada's unique identity. The brand's signature 'Prada Green' was introduced as an attention-grabbing departure from its previous color scheme, becoming the distinct hue for Prada boutiques globally. Miuccia's first ready-to-wear collection, Fall/Winter 1988, debuted with a structured, minimalist aesthetic that, while generally well-received, faced immense pressure and critical scrutiny, even from Miuccia herself, as she focused on differentiating Prada in the ready-to-wear market and solidifying its brand identity.",
+      "involved_entities": {
+        "Mime Costumed Individuals": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Teal Coat": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Woman in Dark Blazer": {
+          "description": "A woman with shoulder-length light brown hair, wearing a dark blazer over a light blue top, speaking expressively into a microphone, smiling and gesturing with her hands.",
+          "attribute": "visual"
+        },
+        "Archival Fashion Show Footage": {
+          "description": "Grainy, dimly lit footage of a live fashion show with models walking down a narrow runway flanked by dark curtains. The models wear minimalist, structured outfits in neutral tones—light blazers, tailored skirts, and sheer tops—exhibiting a stark, avant-garde aesthetic. The camera follows them from behind and side angles, emphasizing their poised, deliberate strides.",
+          "attribute": "visual"
+        },
+        "Microphone with 'T' Logo": {
+          "description": "A black microphone with a prominent orange 'T' logo, held during the interview with the Woman in Dark Blazer, indicating media coverage or press event.",
+          "attribute": "visual"
+        },
+        "Model in Green Coat": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Geometric Coat": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Backstage Area": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Color-Block Dress": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Mustard Jumpsuit": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Sheer Black Top": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Audience Members": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Floral Shirt": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Light-Colored, Textured Dress": {
+          "description": "A model in a light-colored, textured dress, walking with a poised stride, visible in a side-angle shot.",
+          "attribute": "visual"
+        },
+        "Patrizio Bertelli and Miuccia Prada": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Sheer, Ruffled Top": {
+          "description": "A model in a black sleeveless top with a sheer, ruffled neckline, walking confidently down a runway.",
+          "attribute": "visual"
+        },
+        "Model in Light Blue Top with Knotted Front": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in White Top with Black Belt": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "The History of Prada Episode": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "House of Savoy Coat of Arms and Prada Logo Comparison": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Black Prada Hobo Bag": {
+          "description": "A black Prada hobo bag with a silver triangular logo and a single shoulder strap, displayed against a white background with the text 'THREADUCATION' at the bottom.",
+          "attribute": "visual"
+        },
+        "Threaducation Patreon Page": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Galleria Vittorio Emanuele II Image": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Modern Runway Footage": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "CBC Logo": {
+          "description": "A circular logo with a stylized 'CBC' design, visible in the bottom right corner of the archival footage, indicating the source of the video material.",
+          "attribute": "visual"
+        },
+        "FF Logo": {
+          "description": "A small 'FF' logo in the bottom right corner during the later archival fashion show footage, likely indicating the source or production company of that segment.",
+          "attribute": "visual"
+        },
+        "CNN and talkasia Logos": {
+          "description": "Logos for CNN and talkasia displayed in the bottom right corner during the interview with Miuccia Prada, indicating the media outlet broadcasting the segment.",
+          "attribute": "visual"
+        },
+        "Model in Black Blazer and Skirt": {
+          "description": "A model with dark hair, wearing a black blazer and matching skirt, walking down a runway in a well-lit, elegant setting with audience members seated on either side and a chandelier overhead, showcasing a minimalist, structured look.",
+          "attribute": "visual"
+        },
+        "Miuccia Prada": {
+          "description": "A woman with shoulder-length light brown hair, wearing a red top, seated in an interview setting with mannequins displaying colorful, avant-garde outfits in the background, identified by on-screen text as 'Miuccia Prada Designer'. A male narrator discusses her personal history, specifically her decision to legally change her last name from Bianchi to Prada in the 1980s, highlighting its significance in reinforcing Prada as a family-owned business and her essential role in developing the brand's identity and signature design elements.",
+          "attribute": "audio-visual"
+        },
+        "Model in Yellow Dress": {
+          "description": "A model with dark hair, wearing a bright yellow dress with short sleeves and a brown belt, walking down a runway under warm, reddish lighting, showcasing a bold, minimalist design.",
+          "attribute": "visual"
+        },
+        "Prada Boutique Interior": {
+          "description": "A series of still images showing the interior of a Prada boutique with light green textured walls, white ceilings with linear lighting, modern green seating, clothing racks, display tables, and mannequins, emphasizing a minimalist and elegant design aesthetic. The male voiceover explains that this distinct 'Prada Green' became the signature color of Prada stores globally, with nearly every surface painted in this hue to reinforce brand identity and association.",
+          "attribute": "audio-visual"
+        },
+        "Green Prada Hobo Bag": {
+          "description": "A vibrant green Prada hobo bag with a silver triangular logo and a matching green tag, displayed against a white background with the text 'THREADUCATION' at the bottom. A male voiceover identifies this as 'Prada Green,' a significant signature color introduced by the brand to stand out and create strong brand association.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a static image featuring two individuals dressed as mimes, complete with black-and-white striped shirts, berets, white face paint, and gloves, posing against a white background with the text 'THREADUCATION' at the bottom. Over this visual, a male narrator explains that the subject of the discussion, surprisingly, once wanted to be a mime as a career, spending years studying and performing at the Piccolo Teatro in Milan. The scene then transitions to a close-up of a Woman in Dark Blazer, her light brown hair falling over her shoulders, speaking expressively into a Microphone with a 'T' Logo, smiling and gesturing, set in a dimly lit interview space with a dark green backdrop. The narrator continues, revealing that around the same time, she also pursued political science, eventually earning her PhD from the University of Milan, and was an outspoken member of Italy's Communist Party, a stance he explains was common for those embracing leftist ideologies and feminism. As the narration progresses, the video cuts to grainy, dimly lit archival fashion show footage, first focusing on models’ feet in distinctive colorful boots—first green, then gold—as they walk down a runway. The camera then pans up to show a Model in a Teal Coat over a purple dress walking confidently, followed by a wider shot of the runway with an audience seated under a chandelier, evoking a vintage, elegant atmosphere, all while the narrator concludes his explanation of her political motivations.",
+        "The video opens with grainy, dimly lit archival fashion show footage, showcasing models walking a runway in diverse outfits, from a light-colored coat with a red belt and green handbag to avant-garde structured, metallic, and dark utilitarian pieces, all while a male narrator discusses the historical context of communism, social and economic equality, and how “progressive feminists such as Miuccia wanted” these ideals. The camera pans across the audience before cutting to close-ups of models displaying futuristic and minimalist designs under focused lighting, as the narrator details how Miuccia's mother, Louisa, was cut out of the family business for being a woman but later stepped up, setting a strong example for a nine-year-old Miuccia, who then joined the family business in 1970. The scene transitions to a casual backstage area where models and staff interact, while the voiceover explains that Louisa was still running Prada, with Miuccia focusing on accessories, and how the brand was hitting a plateau, its growth slowing and fading among other luxury companies. The footage then returns to the runway, featuring models in a light coat with a green bag and a dark, sleeveless top with a structured skirt, before concluding with a vintage-quality shot of a woman in a dark blazer being interviewed, holding a microphone with a 'T' logo in a retail-like space, as the narrator states that this stagnant period “was all about to change,” with “Miuccia knew that if...”",
+        "The video opens with grainy, dimly lit archival fashion show footage, capturing models walking down a narrow runway flanked by dark curtains. A male narrator explains that Prada needed to remain relevant and do things differently, beginning with refining a technique to make bags out of waterproof nylon fabric. The models wear minimalist, structured outfits in neutral tones—light blazers, tailored skirts, and sheer tops—exhibiting a stark, avant-garde aesthetic, as the camera follows their poised, deliberate strides. A close-up reveals a model in a white sleeveless top with a black belt, followed by another in a light blue top with a knotted front. The scene transitions to a black-and-white still image of Patrizio Bertelli and Miuccia Prada, labeled with their names and the 'THREADUCATION' watermark. The narrator details that in 1977, Miuccia attended a trade show for leather goods companies where she met Patrizio Bertelli, who owned a similar business. By 1978, the two were married, and that same year, Luisa Prada decided to retire, making Miuccia the one in charge. With Patrizio's help, Miuccia set out to reinvent the brand, wasting no time. The footage returns to the runway, showing models in various ensembles, including one in a sheer, ruffled top and another in a light-colored, textured dress. The narrator adds that in 1979, Prada introduced its first-ever line of women's footwear, a huge step in the right direction that showed they were capable of making products other than trunks and handbags. The low lighting continues to focus attention on the garments and the models’ confident expressions, as the sequence ends with a model in a sheer, patterned top walking away from the camera, her back to the audience, as the runway fades into darkness, with the narrator concluding that in the mid-1980s, Miuccia finally decided to unveil the nylon bags.",
+        "The segment opens with a black screen before transitioning to a static, high-contrast image of a black Prada hobo bag, featuring a silver triangular logo and a single shoulder strap, set against a white background with 'THREADUCATION' text. Throughout this visual, a male narrator explains how Prada, initially an ultra-luxury brand known for high-quality leather goods, controversially introduced nylon fabric into its designs. He highlights that nylon was typically reserved for rain or athletic gear due to its water-resistant, durable, and stretchy properties, making its inclusion in luxury items by Miuccia an unexpected yet brilliant move. The scene then abruptly cuts to grainy, dimly lit archival fashion show footage, where a woman with shoulder-length light brown hair, wearing a dark blazer over a light blue top, is seen speaking expressively into a microphone with a 'T' logo. This is followed by a model walking down a dark, narrow runway in a light-colored, textured dress with a ruffled hem and a bow at the waist, her long, wavy hair flowing. The low-resolution footage, with a visible CBC logo, serves as a backdrop as the narrator continues, revealing that Prada's growth had plateaued due to a lack of innovation, having relied on the same product offerings since 1913, and that Miuccia's introduction of nylon was a strategic response to this stagnation.",
+        "The minute opens with grainy, dimly lit archival fashion show footage, showing a model in a light-colored, textured dress walking down a narrow runway flanked by dark curtains, with the CBC logo visible. A male narrator's voice explains how Prada's bags became the new \"it bag\" and a status symbol, signifying being at the forefront of an emerging style movement that embraced chic functionality. The scene transitions to a modern, well-lit backstage or interview area where a woman with shoulder-length light brown hair, wearing a dark blazer over a light blue top, speaks expressively into a microphone with a 'T' logo, smiling and gesturing, as the narrator continues, noting that Miuccia Prada didn't stop there. The footage then cuts to another model in a black sleeveless top with a sheer, ruffled neckline, walking confidently down a runway. The narrator details how Prada was getting closer to becoming a true fashion brand, and Miuccia knew she had to capitalize on it, leading to Prada's first-ever ready-to-wear collection, the Fall/Winter 1988 debut. The scene shifts again to a different fashion show setting with a model in a black blazer and skirt walking down a runway lined with seated audience members, under a chandelier, with the 'FF' logo in the corner, showcasing the structured, minimalist aesthetic of the collection. The narrator explains that while generally well-received, some, including Miuccia herself, were quite critical of it, highlighting the immense pressure surrounding its debut. The video then cuts to an interview with Miuccia Prada, identified by on-screen text, wearing a red top, seated in front of mannequins displaying colorful, avant-garde outfits, with CNN and talkasia logos visible, before returning to the archival footage of a model in a black blazer and skirt walking down a runway, emphasizing the collection's aesthetic.",
+        "The video opens with grainy, dimly lit archival footage of a fashion show, where models, including one in a black sleeveless top with a sheer, ruffled neckline and another in a black blazer and matching skirt, confidently walk a narrow runway, showcasing minimalist, structured designs. A male narrator's voice explains the importance of making a first impression in the fashion industry, noting that Miuccia Prada was initially advised to create more traditional designs. He describes her early approach as using a \"very reserved color palette that largely consisted of black and white, and a lot of elegant, yet simple cuts,\" which was well-received and helped put Prada on the map. The FF logo is visible in the bottom right during this archival segment. The scene then transitions to a modern interview setting where Miuccia Prada, identified by on-screen text, is seen in a red top, speaking expressively, with colorful, avant-garde mannequins in the background. The narrator continues, detailing how Miuccia Prada was just beginning to discover herself as a designer and became intently focused on establishing Prada's unique brand identity, facing the challenge of differentiating it in the ready-to-wear market. The CNN and talkasia logos are visible in the bottom right during her interview.",
+        "The video opens with an interview segment featuring Miuccia Prada, a woman with shoulder-length light brown hair wearing a red top, seated in a modern, minimalist space. Mannequins displaying avant-garde, colorful garments are visible in the background, alongside CNN and talkasia logos in the bottom right corner. As Miuccia engages in conversation with an interviewer, a male narrator's voice explains her strategic decision in the 1980s to legally change her last name from Bianchi to Prada, a move he describes as smart for reinforcing the brand as a family-owned business. The setting, characterized by white plinths and hanging lampshades, creates an artistic, gallery-like atmosphere, with the camera alternating between close-ups of Miuccia and wider shots of both women. The scene then transitions to grainy, dimly lit archival fashion show footage, marked by an FF logo, as the narrator continues to discuss Miuccia's essential role in developing Prada's brand identity and signature design elements. Models walk down a narrow runway under warm, reddish lighting, flanked by dark curtains and seated audience members. The first model showcases a structured, dark coat with a fur collar and carries a black Prada hobo bag. Another model appears in a black strapless dress with a sheer, ruffled neckline and a feathered collar, paired with silver platform heels. A third model confidently walks in a bright yellow dress with a brown belt, with the camera capturing close-ups of their faces, outfits, and footwear, emphasizing the collection's minimalist, avant-garde design, all while the narrator highlights Miuccia's profound impact on the brand.",
+        "The video opens with archival fashion show footage, showcasing models in structured, minimalist garments like a yellow floral dress and a bright yellow coat, moving with poised strides. A male voiceover discusses how brands stand out, highlighting nylon fabric and how Prada became known as 'the nylon brand.' He then introduces the concept of a signature color, as the visuals transition to a black screen before displaying a vibrant green Prada hobo bag with a silver triangular logo and 'THREADUCATION' text. The speaker identifies this as 'Prada Green,' an attention-grabbing color that Miuccia Prada introduced, marking a shift from black and white palettes. The footage then transitions to a series of still images of a Prada boutique interior, featuring light green textured walls, modern green seating, and neatly arranged displays. The voiceover explains that this 'Prada Green' became the signature color of Prada stores worldwide, with nearly every surface painted in this distinct hue, creating strong brand association and making Prada's pieces more recognizable."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 15,
+      "end_minute": 17,
+      "summary": "The segment begins with a static shot of a vibrant green Prada hobo bag, identified by a male speaker as 'Prada Green' and a testament to Miuccia Prada's marketing acumen. Archival fashion show footage then depicts models in minimalist, structured, avant-garde outfits walking with deliberate strides down a reddish-pink runway, showcasing Miuccia Prada's 1990s 'perfect balance between minimalism and luxury,' a style dubbed 'ugly chic.' The speaker notes Miuccia Prada's role in introducing a middle ground to the fashion industry, contrasting with overly gaudy or conservative collections. The video transitions to a brighter runway for Prada's Spring Summer 1996 collection, 'Banal Eccentricity,' further exploring 'ugly chic' with models in loud prints and bright colors integrated into modern, clean-cut garments. Looks featured clashing patterns with complimentary color palettes or the same pattern in different colors, resulting in an 'effortlessly stylish' aesthetic, echoing Miuccia Prada's quote, \"Ugly is attractive. Ugly is exciting. Maybe because it's newer.\" A subtle, upbeat electronic music track plays. The narrative continues with a model in a sleeveless green dress, followed by one in a white top and brown skirt, embodying the 'ugly chic' style. The speaker highlights Miuccia Prada's continuous challenge to the status quo, acknowledging potential criticism. A title card for 'THE RED LINE' and 'THREADUCATION' appears, with the speaker emphasizing Miuccia Prada's ascent in the fashion industry. The scene shifts to a dimly lit runway featuring a model in a patterned dress, with the speaker observing the global adoration for both Prada and Miuccia herself.",
+      "involved_entities": {
+        "FF Logo": {
+          "description": "A small 'FF' logo in the bottom right corner of the screen, likely indicating the source or production company of the archival fashion show footage.",
+          "attribute": "visual"
+        },
+        "Green Prada Hobo Bag": {
+          "description": "A vibrant green Prada hobo bag with a silver triangular logo and a matching green tag, displayed against a white background with the text 'THREADUCATION' at the bottom. A male speaker identifies this as 'Prada Green,' emphasizing its unique recognizability and marketing value, which he attributes to Miuccia Prada.",
+          "attribute": "audio-visual"
+        },
+        "Archival Fashion Show Footage": {
+          "description": "Grainy, dimly lit footage of a live fashion show with models walking down a narrow, reddish-pink runway flanked by dark curtains. The models wear minimalist, structured outfits in neutral tones—light blazers, tailored skirts, and sheer tops—exhibiting a stark, avant-garde aesthetic. A male speaker describes this style as Miuccia Prada's 'perfect balance between minimalism and luxury,' and 'sophistication and modernity,' which he refers to as the 'ugly chic movement' that she pioneered, filling a gap between 'over the top' and 'extremely conservative' fashion.",
+          "attribute": "audio-visual"
+        },
+        "Model in Long Yellow Coat": {
+          "description": "A model with short blonde hair, wearing a long yellow coat over a purple top and patterned shorts, walking down a white runway with a bold, avant-garde look.",
+          "attribute": "visual"
+        },
+        "Model in Yellow Top and Floral Pants": {
+          "description": "A model with blonde hair in a ponytail, wearing a bright yellow short-sleeved top and floral-patterned pants, walking confidently down a white runway in a well-lit setting.",
+          "attribute": "visual"
+        },
+        "Model in Geometric Coat": {
+          "description": "A model with blonde hair, wearing a long coat with a geometric pattern of squares in yellow, white, and brown, walking down a white runway with a structured, minimalist silhouette.",
+          "attribute": "visual"
+        },
+        "Model in Green Dress": {
+          "description": "A model with blonde hair styled up, wearing a sleeveless green dress with a deep V-neck, walking down a white runway with a poised and elegant demeanor.",
+          "attribute": "visual"
+        },
+        "Audience Members": {
+          "description": "Seated on either side of the runway, some holding cameras, dressed in dark or neutral tones, observing the models with focused attention.",
+          "attribute": "visual"
+        },
+        "Model in Yellow Jacket and Green Skirt": {
+          "description": "A model with blonde hair in a ponytail, wearing a yellow jacket over a light blue top and a green plaid skirt, walking down a white runway with a composed stride.",
+          "attribute": "visual"
+        },
+        "Model in Floral Shirt": {
+          "description": "A model with dark hair styled in a sleek updo, wearing a dark, long-sleeved shirt with a bold purple and white floral pattern, walking down a dimly lit runway with a serious expression.",
+          "attribute": "visual"
+        },
+        "The Red Line Title Card": {
+          "description": "A white title card with bold black text reading 'THE RED LINE' and 'THREADUCATION' beneath it, displayed after a black screen transition.",
+          "attribute": "visual"
+        },
+        "Model in White Top with Brown Skirt": {
+          "description": "A model with blonde hair, wearing a white short-sleeved shirt and brown skirt, walking confidently down the runway with a composed expression.",
+          "attribute": "visual"
+        },
+        "Model in Brown Dress": {
+          "description": "A model with shoulder-length light brown hair, wearing a brown sleeveless dress with a fitted silhouette, walking with poise and turning at the end of the runway.",
+          "attribute": "visual"
+        },
+        "Model in Patterned Dress": {
+          "description": "A model with dark hair styled in a sleek updo, wearing a light-colored, patterned dress with a belted waist, walking down a dimly lit runway with a serious expression.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a static shot of a vibrant green Prada hobo bag, featuring a silver triangular logo and a matching green tag, displayed against a clean white background with the text 'THREADUCATION'. A male speaker immediately highlights the bag's distinctive color, noting its instant recognizability as 'Prada Green' even without a logo, attributing its marketing value to Miuccia Prada. The scene then transitions to grainy, dimly lit archival fashion show footage, where models walk with poised, deliberate strides down a reddish-pink runway flanked by dark curtains. They wear minimalist, structured outfits in dark, neutral tones—such as black blazers, tailored skirts, and sheer tops—exhibiting an avant-garde aesthetic. The speaker explains that by the 1990s, Miuccia Prada had struck a 'perfect balance between minimalism and luxury,' and 'sophistication and modernity,' a style he describes as 'ugly chic,' which she is credited with starting. The camera captures close-ups of the models' faces, hands, and light-colored heels, with the audience visible in shadowed rows. A small 'FF' logo appears in the bottom right corner of the footage. The speaker further contextualizes Prada's impact, stating that Miuccia introduced a middle ground in a fashion industry previously dominated by either 'over the top and extremely gaudy' or 'extremely conservative' collections. The overall atmosphere is dramatic and focused, emphasizing the stark, modern design of the garments and the controlled, confident movements of the models, all while the speaker provides a continuous, analytical voiceover.",
+        "The video segment opens with a model walking down a dimly lit runway in a dark, floral-patterned dress with a high collar and sleek updo, as a male speaker begins to describe a designer's innovative approach: taking \"loud prints and bright colors\" and working them into \"very modern, clean-cut garments,\" a concept he notes \"just hadn't been done.\" The scene then transitions to a brighter, modern runway with white walls and a seated audience, while the speaker identifies the collection as Prada's Spring Summer 1996, titled \"Banal Eccentricity,\" which he calls the \"inception of ugly chic.\" Subsequent models appear, showcasing a vibrant yellow top with floral pants, a geometric-patterned dress with a structured silhouette, and layered ensembles including a yellow jacket over a green plaid skirt, a long yellow coat over patterned shorts, and a sleeveless green dress. The camera captures close-ups of the bold fabric textures and graphic designs, emphasizing the color blocking and minimalist tailoring. The speaker elaborates that many looks featured patterns that \"wouldn't work well together at all\" if not for the \"complimentary color palettes,\" or the same pattern repeated in \"three different colors.\" Despite this, he concludes that the collection \"comes off as effortlessly stylish,\" or \"chic,\" quoting Miuccia Prada who reflected, \"Ugly is attractive. Ugly is exciting. Maybe because it's newer.\" A subtle, upbeat electronic music track plays continuously in the background, enhancing the high fashion atmosphere, and the 'FF' logo is visible in the bottom right corner.",
+        "The video opens with archival fashion show footage, as a male voiceover begins to discuss the impact of a fashion trend, explaining it had \"never really been seen before\" or \"executed this well.\" A model in a sleeveless green dress with a deep V-neck walks confidently down a white runway, flanked by seated audience members. The camera follows her from behind, then cuts to a second model in a white short-sleeved shirt and brown skirt, walking toward the camera with a composed expression. The voiceover continues, identifying this as the origin of \"ugly chic\" and a style a designer continued to embrace. The camera zooms in on the second model's face before pulling back, followed by a third model in a brown sleeveless fitted dress, walking with poise and turning at the end of the runway. The voiceover explains that the designer would \"deviate from it every now and then\" but was \"always looking to challenge the status quo,\" acknowledging that this \"does of course open you up to criticism.\" The scene transitions to a black screen, then to a white title card reading 'THE RED LINE' with 'THREADUCATION' beneath it, while the voiceover explicitly names \"Miuccia\" (referring to Miuccia Prada), who \"climbed her way to the top of the fashion industry\" and was \"just getting started.\" A calm, atmospheric instrumental track begins to play as the video cuts to a new fashion show scene with dim lighting, featuring a model in a light-colored, patterned dress with a belted waist, walking down a runway with a serious expression. The camera focuses on her high-heeled shoes with black tips and gold embellishments before the voiceover returns, stating that \"Fashion fanatics around the world were quickly falling in love with Prada, but they were also falling in love with Miuccia herself,\" as the scene ends."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 18,
+      "end_minute": 24,
+      "summary": "Grainy, dimly lit archival fashion show footage from the early 1990s, featuring models in minimalist, structured outfits on a narrow runway, introduced the launch of Miu Miu in 1993, a playful and experimental sub-label of Prada derived from 'Miuccia,' as indicated by a white screen displaying the 'MIU MIU' logo with 'THREADUCATION' below. Modern runway footage then showcased models in coordinated ensembles, such as a light blue turtleneck with a pleated tan skirt and a black turtleneck with brown leather pants, highlighting strappy heels with pink soles. The narrator emphasized Miu Miu's success in expanding Prada's customer base, concluding with a white screen featuring 'NEIL BARRETT' and 'THREADUCATION,' identifying him as an English fashion designer who would link to Prada's menswear. A close-up of a man in a black t-shirt, likely the narrator, discussed Neil Barrett's career, detailing his move from Gucci to Prada as menswear director, followed by black-and-white photographs from Prada’s Fall/Winter 1995 men’s collection by Peter Lindbergh, showcasing a bald model in minimalist, all-black ensembles, marking Barrett's debut collection for Prada. Archival footage then showed a male model in a structured beige coat, white shirt, and trousers, with a brown satchel, as the narrator explained Neil Barrett's influence on Prada's first menswear collection, his affinity for elegant minimalism, and Miuccia Prada's use of high-performance materials like waterproof nylon, leading to the 'Prada Sport' diffusion label in 1997. Interview footage of Miuccia Prada followed, interspersed with runway scenes of models in beige coats, a green polo shirt with grey trousers, and monochromatic ensembles, some with red accents. The narrator described Prada Sport as stylish, functional sportswear, a continuation of Miuccia's nylon work, concluding with a model in a red hooded cape and another in a white high-collared outfit, with audience members observing, highlighting the importance of branding. Analytical commentary on Prada Sport's pioneering role in luxury sportswear and 'athleisure' was overlaid on minimalist 1990s fashion show footage, featuring a Model in Red Hooded Cape, a Model in White Short-Sleeved Shirt and Light Trousers, a Model in Grey Coat over a bare chest, a Model in Light Green Short-Sleeved Shirt and White Trousers, and a Model in White Long-Sleeved Shirt and Grey Trousers, with the audience intently observing the avant-garde atmosphere. Grainy, dimly lit archival fashion show footage introduced Prada's 'now iconic red line,' a simple yet striking design element for instant recognition, shown on static product images like a black Prada puffer jacket and navy, white, and grey Prada America's Cup sneakers, initially created for Prada's Luna Rossa sailing team for the 1997 America's Cup race and visually reinforced by a team photo in front of their 'LUNA ROSSA' racing yacht. The narrator stated these products contributed to Prada Sport's success but foreshadowed its end as Neil Barrett left Prada in 1999 to launch his own label, with 'THREADUCATION' consistently displayed. Archival fashion show footage resumed with models in white ensembles, including one with a white fanny pack and another in a white suit. Grainy archival fashion show footage, set to subtle electronic music, revealed that despite a successful new venture, Prada faced a difficult position after a key figure in menswear and Prada Sport departed, leaving the future to Miuccia, shown in footage of a male model in a minimalist white suit and others in structured, avant-garde outfits. A minimalist white title card reading 'THE NEW PRADA' by THREADUCATION appeared, as the narrator explained Miuccia Prada faced new challenges heading into the 2000s, transitioning to a more colorful, eclectic fashion show with models in bold, layered outfits, including vibrant bucket hats and color-blocked sweaters. The narrator elaborated that Neil Barrett's exit left Miuccia solely in charge of Prada's men's wear collections, while both Prada and Miu Miu grew rapidly, with models showcasing striking ensembles like a blue and grey geometric dress with a red belt and hat, and a sleeveless blue top with abstract shapes, concluding with Prada's cemented position as a top luxury fashion house and an 'undeniable staple in popular culture,' ending with a title card for 'THE DEVIL WEARS PRADA (2006).' A dynamic fashion show on a narrow, dimly lit runway featured models in avant-garde designs, with a narrator discussing fashion business history, referencing 'The Devil Wears Prada,' as annual sales for a major fashion house soared past $1 billion in the 2000s. Close-ups highlighted intricate details on outfits like a green jacket over a striped top with an orange-striped green skirt, and a model in a brown leather dress, while the narrator discussed Miuccia's oversight of Miu Miu's expansion into eyewear and fragrances. Further models appeared in a peacock-feather patterned outfit, a feathered hat, a vibrant deep red jumpsuit, and a black coat with tall boots, as the narrator reflected on Prada Sport losing momentum after a key designer left, leading to a rebranding as Prada Linea Rossa, which eventually faded before being brought back in 2018.",
+      "involved_entities": {
+        "Neil Barrett": {
+          "description": "Not visually present in this segment. A male narrator identifies him as sharing Miuccia's affinity for elegant minimalism and high-performance materials, noting his adoption of nylon and other industrial-grade materials for entire collections, and his official launch of the 'Prada Sport' diffusion label in 1997, intended as a line of high-end, functional, and stylish sportswear.",
+          "attribute": "audio-visual"
+        },
+        "MIU MIU Logo": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Archival Fashion Show Footage": {
+          "description": "Grainy, dimly lit footage of a live fashion show with models walking down a narrow runway, set against a narrative discussing Prada's difficult position and the transition of leadership to Miuccia Prada after a key figure's departure from men's wear collections and Prada Sport.",
+          "attribute": "audio-visual"
+        },
+        "Audience Members": {
+          "description": "Seated on either side of the runway, some holding cameras, dressed in dark or neutral tones, observing the models with focused attention.",
+          "attribute": "visual"
+        },
+        "Modern Runway Footage": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Man in Black T-Shirt": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "PRADA FW 1995 MAN - PHOTOGRAPHED BY PETER LINDBERGH": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Prada Boutique Interior": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Light-Colored, Textured Dress": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Mustard Jumpsuit": {
+          "description": "A female model wearing a mustard-colored jumpsuit with a brown jacket and a bucket hat with a multicolored, textured brim, walking down the runway with a composed expression.",
+          "attribute": "visual"
+        },
+        "Model in White High-Collared Outfit": {
+          "description": "A male model wearing a white high-collared, minimalist outfit with a structured silhouette, walking down the runway with a composed expression, flanked by audience members holding cameras.",
+          "attribute": "visual"
+        },
+        "Model in Brown Dress": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Yellow Jacket and Green Skirt": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Floral Shirt": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Color-Block Dress": {
+          "description": "A female model wearing a color-blocked sweater with horizontal stripes in teal, orange, and cream, paired with a brown skirt and a bucket hat with a colorful, textured brim, walking confidently down the runway.",
+          "attribute": "visual"
+        },
+        "Model in Yellow Dress": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Patterned Dress": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Green Prada Hobo Bag": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Galleria Vittorio Emanuele II Image": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Miuccia Prada": {
+          "description": "A woman with shoulder-length light brown hair, wearing a dark blazer over a light blue top, speaking expressively into a microphone, smiling and gesturing with her hands. Identified by on-screen text as 'Miuccia Prada designer,' she is visually present while a male narrator discusses her affinity for elegant minimalism and high-performance materials, specifically mentioning her pioneering use of waterproof nylon fabric and how Prada Sport was a continuation of her earlier work.",
+          "attribute": "audio-visual"
+        },
+        "Model in Yellow Top and Floral Pants": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Geometric Coat": {
+          "description": "A female model wearing a sleeveless blue top with abstract geometric shapes in red, yellow, and green, paired with a grey skirt and a red bucket hat, walking down the runway with a neutral expression.",
+          "attribute": "visual"
+        },
+        "Patrizio Bertelli and Miuccia Prada": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Green Dress": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in White Top with Brown Skirt": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "The History of Prada Episode": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "CBC Logo": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Sheer, Ruffled Top": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Light Blue Top with Knotted Front": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Black Blazer and Skirt": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "House of Savoy Coat of Arms and Prada Logo Comparison": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "CNN and talkasia Logos": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Red Hooded Cape": {
+          "description": "A male model wearing a striking red hooded cape, walking down the runway with a serious expression, alongside another model in a white high-collared outfit, under soft, diffused lighting.",
+          "attribute": "visual"
+        },
+        "Black Prada Hobo Bag": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Long Yellow Coat": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Backstage Area": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "FF Logo": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Mime Costumed Individuals": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Teal Coat": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Woman in Dark Blazer": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "The Red Line Title Card": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Threaducation Patreon Page": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Sheer Black Top": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in White Top with Black Belt": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Microphone with 'T' Logo": {
+          "description": "Not visible in this segment.",
+          "attribute": "visual"
+        },
+        "Model in Green Coat": {
+          "description": "A male model wearing a green polo shirt and grey trousers, walking down the runway with tan leather loafers, captured in a full-body shot with a neutral expression.",
+          "attribute": "visual"
+        },
+        "Model in White Long-Sleeved Shirt": {
+          "description": "A male model wearing a white long-sleeved shirt and grey trousers, walking down the runway with a composed, forward-facing posture, captured from a frontal perspective.",
+          "attribute": "visual"
+        },
+        "Model in Grey Coat": {
+          "description": "A male model wearing a long grey coat over a bare chest and grey trousers, walking down the runway with a stoic expression, captured in full-body and close-up shots.",
+          "attribute": "visual"
+        },
+        "Model in Light Green Shirt": {
+          "description": "A male model wearing a light green short-sleeved shirt and white trousers, walking confidently down the runway with a neutral expression, followed by a close-up of his black lace-up shoes.",
+          "attribute": "visual"
+        },
+        "Black Prada Puffer Jacket": {
+          "description": "A black, hooded puffer jacket with a glossy finish, featuring a red 'PRADA' logo on the chest pocket, which the narrator highlights as the 'iconic red line' that makes products instantly recognizable as Prada, despite its tiny size.",
+          "attribute": "audio-visual"
+        },
+        "Model in White Suit": {
+          "description": "A male model wearing a white suit with a structured, minimalist design, walking down the runway with a composed, forward-facing posture, captured from a frontal perspective.",
+          "attribute": "visual"
+        },
+        "Prada America's Cup Sneakers": {
+          "description": "A pair of sneakers with a navy patent leather toe cap, grey mesh sides, white laces, and a white sole, with red 'PRADA' branding on the tongue. The narrator identifies these as the 'America's World Cup sneaker' that featured the famous red line, initially created for Prada's Luna Rossa sailing team for the 1997 America's Cup race, becoming an 'instant hit' with the public.",
+          "attribute": "audio-visual"
+        },
+        "Model in White Short-Sleeved Shirt": {
+          "description": "A male model wearing a white short-sleeved shirt and light-colored trousers, walking down the runway with a white fanny pack, captured from a frontal and side perspective.",
+          "attribute": "visual"
+        },
+        "Prada Racing Yacht and Team Photo": {
+          "description": "A group of individuals in white shirts standing in front of a black Prada-branded racing yacht with a red 'PRADA' logo and 'LUNA ROSSA' name, under a bright blue sky with flags. The narrator explains that the Prada America's Cup sneakers were initially created for this 'Prada's Luna Rossa sailing team'.",
+          "attribute": "audio-visual"
+        },
+        "Title Card: THE DEVIL WEARS PRADA (2006)": {
+          "description": "A stylized white title card featuring a red high-heeled shoe with a trident-shaped heel, accompanied by the text 'THE DEVIL WEARS PRADA (2006)' and 'THREADUCATION' below, which the narrator explicitly references as an example of Prada's undeniable staple in popular culture.",
+          "attribute": "audio-visual"
+        },
+        "Title Card: THE NEW PRADA": {
+          "description": "A minimalist white title card with bold black text reading 'THE NEW PRADA' and 'THREADUCATION' below, serving as a transition between fashion show segments, which the narrator uses to introduce Miuccia Prada's new set of challenges heading into the 2000s.",
+          "attribute": "audio-visual"
+        },
+        "Model in Black Feathered Hat": {
+          "description": "A female model wearing a black dress with a feathered hat and a black belt, walking with a strong, deliberate gait.",
+          "attribute": "visual"
+        },
+        "Model in Red Jumpsuit": {
+          "description": "A female model wearing a deep red jumpsuit with a black belt and a red-and-blue crossbody bag, walking with a confident, assertive posture.",
+          "attribute": "visual"
+        },
+        "Model in Black Coat and Boots": {
+          "description": "A female model wearing a black coat, black shorts, and tall black boots, walking with a powerful, commanding stride.",
+          "attribute": "visual"
+        },
+        "Model in Brown Leather Dress": {
+          "description": "A female model wearing a brown leather dress over a white top, accessorized with a red and black crossbody bag, walking with a poised and confident stride.",
+          "attribute": "visual"
+        },
+        "Model in Peacock-Feather Outfit": {
+          "description": "A female model wearing a green and black peacock-feather patterned crop top and skirt, walking with dramatic flair and a bold presence.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with grainy, dimly lit archival fashion show footage, where models in minimalist, structured outfits like light blazers, tailored skirts, and sheer tops walk a narrow runway flanked by dark curtains. A male narrator explains that this period saw the launch of Miu Miu in 1993, a brand created by an influential fashion figure. The scene transitions to a white screen displaying the 'MIU MIU' logo with 'THREADUCATION' below, as the narrator clarifies that Miu Miu is an abbreviation of 'Miuccia' and a sub-label of Prada, designed for a more playful and experimental women's wear collection. The video then shifts to a modern runway with a soft pink backdrop, showcasing models confidently walking in coordinated ensembles, including a light blue turtleneck with a pleated tan skirt, and a black turtleneck with brown leather pants. Close-ups highlight their strappy heels with pink soles and composed expressions. The narrator continues, emphasizing Miu Miu's success as a standalone brand and its role in expanding Prada's customer base. The segment concludes with a white screen featuring a smiling man in a white sweater with black lightning bolt patterns, identified as 'NEIL BARRETT' with 'THREADUCATION', as the narrator introduces him as an English fashion designer who attended Central Saint Martins, linking his story to Prada's foray into menswear.",
+        "The video opens with a grainy, black-and-white close-up of a man in a black t-shirt, speaking animatedly with expressive hand gestures, likely the narrator whose clear male voice discusses Neil Barrett's career trajectory. He explains how Barrett joined Gucci as a menswear designer, viewing it as a fantastic opportunity, but after five years, sought a new challenge. The narrator continues, detailing how Barrett approached Patrizio Bertelli to launch a menswear line for Prada, becoming their new menswear director. The visual then transitions to a series of black-and-white fashion photographs from Prada’s Fall/Winter 1995 men’s collection, credited to Peter Lindbergh, featuring a bald model in minimalist, all-black ensembles—long coats, tailored trousers, and dark shoes—posed with a stoic, introspective demeanor. The narrator explains this was Barrett's debut collection, characterized by simple silhouettes and monochromatic colorways, perfectly aligning with Prada's elegant minimalism, as text identifying the collection and 'THREADUCATION' appears on screen.",
+        "The video opens with archival fashion show footage, featuring a male model walking a dimly lit runway in a structured beige coat, white shirt, and trousers, with a brown satchel, followed by a close-up of his brown leather boots. A male narrator explains that the launch of Prada's first menswear collection marked a new chapter for the brand, one influenced by Neil Barrett, who shared Miuccia Prada's affinity for elegant minimalism and high-performance materials like waterproof nylon. The scene transitions to an interview with Miuccia Prada, identified on-screen, smiling and speaking into a microphone in a well-lit showroom, as the narrator details how Neil Barrett used nylon and other industrial-grade materials to craft entire collections, eventually launching the 'Prada Sport' diffusion label in 1997. The runway footage resumes, showcasing models in beige coats, a green polo shirt with grey trousers, and a series of models in minimalist, monochromatic ensembles—white hooded jackets, sleeveless tops, and loose trousers—some with red accents, walking in unison. The narrator describes Prada Sport as a line of high-end, functional, and stylish sportswear, suitable for both workouts and everyday wear, noting it was a continuation of Miuccia's earlier work with nylon. The segment concludes with a model in a striking red hooded cape alongside another in a white high-collared outfit, with audience members observing under soft, diffused lighting, as the narrator emphasizes the importance of branding in a market where other luxury brands were introducing similar products.",
+        "As a male voiceover provides an analytical commentary on the fashion industry, discussing Prada Sport's pioneering role in establishing luxury sportswear and paving the way for 'athleisure' – a mix of athletic and leisure wear – the video captures a minimalist 1990s fashion show. The segment begins with a Model in Red Hooded Cape walking away from the camera, his vibrant red contrasting sharply with the stark, neutral setting, before he turns and exits. The voiceover continues, explaining that while Prada Sport's innovation led to other brands following suit, Neil Barrett understood that luxury athleisure is more about recognition and a 'casual flex' than pure functionality. Concurrently, a Model in White Short-Sleeved Shirt and Light Trousers walks toward the camera with a composed expression, followed by a Model in Grey Coat over a bare chest, striding with a stoic demeanor. The camera then focuses on a Model in Light Green Short-Sleeved Shirt and White Trousers, with a close-up on his black lace-up shoes, before a Model in White Long-Sleeved Shirt and Grey Trousers confidently walks the runway. Throughout, the seated audience, some holding cameras, observes intently in the quiet, focused, and avant-garde atmosphere that emphasizes structure, fabric, and silhouette.",
+        "The video begins with grainy, dimly lit archival fashion show footage, where models in minimalist, structured neutral outfits walk a narrow runway. A narrator introduces Prada's \"now iconic red line,\" describing it as an \"incredibly simple yet striking\" design element that, despite its tiny size, makes any product instantly recognizable as Prada. This commentary accompanies a transition to static product images, including a black Prada puffer jacket featuring the distinctive red 'PRADA' logo on its chest pocket, and a pair of Prada America's Cup sneakers in navy, white, and grey. The narrator explicitly identifies these as the \"America's World Cup sneaker\" that featured the famous red line on the tongue, explaining they were initially created for \"Prada's Luna Rossa sailing team\" for the 1997 America's Cup race and became an \"instant hit\" with the public. This is visually reinforced by a group photo of the team in white shirts standing in front of their Prada-branded 'LUNA ROSSA' racing yacht. The narrator concludes by stating that \"products like these helped Prada Sport achieve immense success,\" but foreshadows that \"it wouldn't last forever,\" as \"Neil Barrett left Prada\" in 1999 to launch his own label, having \"accomplished what he wanted at the fashion house.\" The text 'THREADUCATION' is consistently displayed beneath each product image. The segment then returns to the archival fashion show footage, showing more models in white ensembles, including one with a white fanny pack and another in a white suit, moving with composed strides as the audience observes.",
+        "The video opens with grainy archival fashion show footage, set to subtle, atmospheric electronic music, as a male narrator explains that while a \"new venture\" was successful, Prada was in a \"difficult position\" after someone who played an \"instrumental role\" in men's wear collections and Prada Sport left, leaving the future in \"Miuccia's hands.\" We see a male model in a minimalist white suit walking confidently down a narrow runway, followed by others in structured, avant-garde outfits, observed by engaged audience members. A minimalist white title card reading 'THE NEW PRADA' by THREADUCATION then appears, as the narrator continues, stating that \"Heading into the 2000s, Miuccia Prada faced a new set of challenges.\" The scene transitions to a different fashion show with a more colorful, eclectic vibe, where models with long blonde hair showcase bold, layered outfits including vibrant bucket hats, color-blocked sweaters, and tailored jackets. The narrator elaborates that \"Neil Barrett's exit\" left Miuccia \"solely in charge of Prada's men's wear collections,\" requiring more of her time and attention, while both Prada and Miu Miu were \"growing at rapid rates.\" Models continue to display striking ensembles, such as a blue and grey geometric dress with a red belt and hat, and a sleeveless blue top with abstract shapes. The narrator concludes by highlighting Prada's cemented position as a top luxury fashion house and an \"undeniable staple in popular culture,\" just as the segment ends with a title card for 'THE DEVIL WEARS PRADA (2006)', featuring a stylized red high-heeled shoe with a trident heel.",
+        "The video captures a dynamic fashion show unfolding on a narrow, dimly lit runway, where models showcase a diverse range of avant-garde designs. A male narrator's voice overlays the scene, discussing the business history of fashion, starting with a reference to 'the now classic 2006 film The Devil Wears Prada.' As models confidently stride past intently watching audience members, displaying outfits like a red-haired model in a patterned sleeveless top and orange pleated skirt, or a blonde model in a dark brown polo and shorts with a colorful crossbody bag, the narrator details how annual sales for a major fashion house soared past the $1 billion mark in the 2000s. The camera captures close-ups of intricate details, such as a green jacket over a striped top with a bold orange-striped green skirt, and a model in a brown leather dress, while the narrator explains the challenges of running such a large company and Miuccia's oversight of Miu Miu's expansion into eyewear and fragrances. Further models appear, including one in a dramatic peacock-feather patterned outfit, another with a feathered hat, a vibrant deep red jumpsuit, and a final assertive look featuring a black coat and tall boots. Throughout these visual transitions, the narrator continues, reflecting on how some aspects of the brand, like Prada Sport, lost momentum after a key designer left, leading to a rebranding as Prada Linea Rossa (Italian for 'the red line'), which eventually faded from the spotlight before being brought back in 2018."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 25,
+      "end_minute": 25,
+      "summary": "Models confidently traversed a narrow, dimly lit runway with a textured metallic surface, their procession observed by audience members holding phones and cameras. A model in a black outfit with a red leg stripe and black boots was followed by another in a white oversized coat, white shorts, and a white bucket hat, accessorized with a red 'PRADA' tag, as a narrator detailed the 'Linea Rossa' line's integration into Prada's Fall/Winter 2018 collections, emphasizing its enduring presence and popular product origins. A subsequent model in a grey coat, a similar red 'PRADA' tag, and a grey bucket hat reinforced the visual theme. The scene shifted to a still image of Miuccia Prada in a green satin blouse and Raf Simons in a white shirt with an 'RS' monogram, under the text 'MIUCCIA PRADA AND RAF SIMONS' and 'THREADUCATION', introducing a February 2020 announcement that Raf Simons would join Miuccia Prada as co-creative director, a move described as unexpected and signifying their collaborative direction across all collections. Raf Simons, wearing a black turtleneck with a red collar, was then shown speaking expressively with hand gestures during a professional interview in a modern interior setting.",
+      "involved_entities": {
+        "Model in Grey Coat": {
+          "description": "A male model wearing a long grey coat over a bare chest and grey trousers, walking down the runway with a stoic expression, captured in full-body and close-up shots.",
+          "attribute": "visual"
+        },
+        "Model in White High-Collared Outfit": {
+          "description": "A male model wearing a white high-collared, minimalist outfit with a structured silhouette, walking down the runway with a composed expression, flanked by audience members holding cameras.",
+          "attribute": "visual"
+        },
+        "Still Image of Miuccia Prada and Raf Simons": {
+          "description": "A photograph showing Miuccia Prada in a green satin blouse and Raf Simons in a white shirt with 'RS' monogrammed on the pocket, standing together under the text 'MIUCCIA PRADA AND RAF SIMONS' and 'THREADUCATION'. This image visually accompanies the narrator's announcement that 'the legendary designer Raf Simmons would be joining Miuccia as the co-creative director of Prada' in February 2020, signifying their joint creative leadership.",
+          "attribute": "audio-visual"
+        },
+        "Raf Simons": {
+          "description": "A man with short dark hair, seen in a still image wearing a white shirt with an 'RS' monogram alongside Miuccia Prada, and later in an interview setting wearing a black turtleneck with a red collar, speaking expressively with hand gestures in a modern interior. The narrator identifies him as 'the legendary designer Raf Simmons', who joined Miuccia as 'co-creative director of Prada', working together on all collections.",
+          "attribute": "audio-visual"
+        },
+        "Miuccia Prada": {
+          "description": "A woman with shoulder-length light brown hair, seen in a still image wearing a green satin blouse alongside Raf Simons, under the text 'MIUCCIA PRADA AND RAF SIMONS'. The narrator identifies her as 'Miuccia', who Raf Simons would be joining as 'co-creative director of Prada', working together on all collections.",
+          "attribute": "audio-visual"
+        },
+        "Audience Members": {
+          "description": "Seated on either side of the runway, some holding cameras, dressed in dark or neutral tones, observing the models with focused attention.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a dynamic fashion show, featuring models confidently walking a narrow, dimly lit runway with a textured metallic surface, flanked by seated audience members holding phones and cameras. As a model in a black outfit with a red leg stripe and black boots passes, followed by another in a white oversized coat, white shorts, and a white bucket hat, accessorized with a red 'PRADA' tag, a male narrator discusses the 'Linea Rossa' line, noting its incorporation into Prada's Fall/Winter 2018 collections. The narrator explains that Prada confirmed its return as a 'new facet in the Prada universe,' which is still 'going strong today,' with many popular products stemming from it. A subsequent model in a grey coat with a similar red 'PRADA' tag and grey bucket hat reinforces the visual theme. The scene then transitions to a still image of Miuccia Prada in a green satin blouse and Raf Simons in a white shirt with an 'RS' monogram, under the text 'MIUCCIA PRADA AND RAF SIMONS' and 'THREADUCATION'. The narrator introduces this as a 'new facet' from February 2020, announcing that 'the legendary designer Raf Simmons would be joining Miuccia as the co-creative director of Prada.' The announcement, which 'seemed to have come out of nowhere,' signified that 'the two of them were going to be doing all of it together,' not just separate men's and women's wear. This is visually underscored by Raf Simons, wearing a black turtleneck with a red collar, speaking expressively with hand gestures in a professional interview setting with a modern interior."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 26,
+      "end_minute": 26,
+      "summary": "In a modern, minimalist interior, Raf Simons, dressed in a black turtleneck with a red collar, speaks expressively with subtle hand gestures, as a narrator details his career trajectory, including his tenure as creative director of Calvin Klein from 2016 to 2018 and his subsequent status as a 'free agent' in 2019, alongside Patrizio Bertelli's proposal to join Prada. The scene shifts to a dimly lit awards ceremony where Raf Simons, now in a dark suit, accepts a black, reflective award statuette from a woman in a black blazer with sequined sleeves, sharing a brief embrace and cheek kiss before approaching a transparent podium to deliver his speech, holding the award amidst a stage illuminated with red and white geometric patterns.",
+      "involved_entities": {
+        "Raf Simons": {
+          "description": "A man with short dark hair, initially seated in a modern interior wearing a black turtleneck with a red collar and dark trousers, speaking expressively. Later, he appears on stage in a dark suit, receiving an award and delivering a speech at a transparent podium. Throughout these visuals, a male narrator discusses his career, including his role as creative director of Calvin Klein, his subsequent status as a 'free agent', and an approach from Patrizio Bertelli regarding Prada.",
+          "attribute": "audio-visual"
+        },
+        "Woman in Black Blazer with Sequined Sleeves": {
+          "description": "A woman with shoulder-length blonde hair, wearing a black blazer with sparkling sequined sleeves, who presents the award to Raf Simons and shares a warm embrace with him.",
+          "attribute": "visual"
+        },
+        "Award Statuette": {
+          "description": "A black, reflective statuette with a glossy base, held by Raf Simons during the awards ceremony.",
+          "attribute": "visual"
+        },
+        "Transparent Podium": {
+          "description": "A clear, illuminated podium with a microphone, positioned on stage for the speech.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video begins with Raf Simons, a man with short dark hair, seated in a modern, minimalist interior, wearing a black turtleneck with a red collar and dark trousers. He speaks expressively with subtle hand gestures, captured in alternating medium and close-up shots against a background featuring a spiral staircase and abstract art. Throughout this, a male narrator provides a detailed account of Raf Simons' career, discussing how certain arrangements in the fashion industry were unheard of for designers as successful as Raf and Miuccia, and how Raf had been the creative director of Calvin Klein from 2016 until his abrupt departure in 2018, making him a 'free agent' in 2019. The narrator also mentions Patrizio Bertelli approaching Raf with the idea of joining Prada. The scene then transitions to a dimly lit awards ceremony where Raf Simons, now in a dark suit, walks onto a stage. He receives a black, reflective statuette with a glossy base from a woman with shoulder-length blonde hair, wearing a black blazer with sparkling sequined sleeves. They share a warm embrace and a kiss on the cheek before Raf approaches a clear, illuminated podium with a microphone to deliver a speech, holding his award. The stage is illuminated with red and white geometric patterns, and the audience is visible in the background, creating a formal and celebratory atmosphere."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 27,
+      "end_minute": 28,
+      "summary": "On a dimly lit stage, Raf Simons, in a dark double-breasted suit and black turtleneck, speaks at a transparent podium, gesturing expressively as a male narrator details his 2005-2012 tenure with Jil Sander, owned by the Prada Group, and past collaborations with Patrizio, noting the intrigue of his style merging with Miuccia's. Behind Simons, two large screens display 'Raf Simons Calvin Klein' and a stylized portrait, while a woman in a dark blazer observes. The narrator contrasts Miuccia's \"chic and minimalist\" approach with Raf's \"punk and street-inspired\" aesthetic, before transitioning to a fashion shoot behind a yellow curtain backdrop. A model in a cream polka-dot jumpsuit and light blue heels walks past camera rigs, including one labeled '5', toward a purple 'PRADA' tank top, as the narrator announces the Spring 2021 ready-to-wear collection, a \"perfect blend of each designer's signature style.\" The narrator elaborates that the \"silhouettes and materials screamed Miuccia\" while \"intricate details and motifs screamed Raf,\" highlighting a cohesive balance and praising the designers' ability to collaborate without ego, resulting in a \"fantastic\" outcome. Models are seen in a white top with a PRADA logo, a black off-the-shoulder top, a light grey oversized coat, and a bright yellow hooded coat over a white turtleneck, all under soft lighting with camera rigs, including one labeled '10', visible. The narrator concludes that this collection, venturing into new territory, shows the \"newly formed duo made a very strong first impression.\"",
+      "involved_entities": {
+        "Woman in Black Blazer": {
+          "description": "A woman with shoulder-length dark hair, wearing a black blazer, standing beside Raf Simons on stage, observing him as he speaks.",
+          "attribute": "visual"
+        },
+        "Model in Polka-Dot Jumpsuit": {
+          "description": "A female model with long blonde hair, wearing a cream-colored jumpsuit with large black polka dots, light blue pointed-toe heels, and carrying a white tote bag, walking in a behind-the-scenes fashion shoot setting.",
+          "attribute": "visual"
+        },
+        "Yellow Curtain Backdrop": {
+          "description": "A bright yellow curtain serving as the background for the behind-the-scenes fashion shoot, providing a vivid contrast to the model's outfit and the camera equipment.",
+          "attribute": "visual"
+        },
+        "Raf Simons": {
+          "description": "A man with short dark hair, wearing a dark double-breasted suit over a black turtleneck, standing at a transparent podium on a dimly lit stage, delivering a speech with expressive gestures and intense focus, while a male narrator discusses his design history, collaborations with Patrizio and Miuccia, and his 'punk and street-inspired' aesthetic.",
+          "attribute": "audio-visual"
+        },
+        "Model in Purple Prada Top": {
+          "description": "A female model with long blonde hair, wearing a purple sleeveless tank top with 'PRADA' printed in white, walking toward the camera under a yellow curtain backdrop during a fashion shoot.",
+          "attribute": "visual"
+        },
+        "Camera Rig with Number 5": {
+          "description": "A black camera rig with multiple mounted cameras and a monitor, labeled with the number '5', positioned in front of a yellow curtain backdrop during a fashion shoot.",
+          "attribute": "visual"
+        },
+        "Award Statuette": {
+          "description": "A black, reflective statuette with a glossy base, placed on the transparent podium beside Raf Simons during his speech.",
+          "attribute": "visual"
+        },
+        "Transparent Podium": {
+          "description": "A clear, illuminated podium with a microphone, positioned on stage for the speech, with a black statuette placed on it.",
+          "attribute": "visual"
+        },
+        "Model in Black Off-the-Shoulder Top": {
+          "description": "A model with short blonde hair, wearing a black off-the-shoulder top, walking through the studio space with a neutral expression.",
+          "attribute": "visual"
+        },
+        "Model in Light Grey Oversized Coat": {
+          "description": "A model with dark hair and bangs, wearing a light grey, oversized coat, adjusting the fabric as she walks with a composed demeanor.",
+          "attribute": "visual"
+        },
+        "Camera Rig with Number 10": {
+          "description": "A black camera rig with multiple mounted cameras and a monitor, labeled with the number '10', positioned in front of a yellow curtain backdrop during a fashion shoot.",
+          "attribute": "visual"
+        },
+        "Model in Yellow Hooded Coat": {
+          "description": "A model with short blonde hair, wearing a bright yellow hooded coat over a white turtleneck, walking through the studio with a neutral expression.",
+          "attribute": "visual"
+        },
+        "Model in White Top with PRADA Logo": {
+          "description": "A Black woman with short, curly hair, wearing a white sleeveless top with a 'PRADA' logo, walking with poise and direct gaze in a behind-the-scenes fashion shoot.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of Raf Simons, dressed in a dark double-breasted suit over a black turtleneck, intensely delivering a speech at a transparent podium on a dimly lit stage, using expressive hand gestures. A clear male narrator's voice immediately begins, detailing Raf's past work with Jil Sander from 2005 to 2012, noting Jil Sander's ownership by the Prada Group, and highlighting Raf's prior collaborations with Patrizio. The camera pulls back to reveal the grand venue, with a large audience seated in darkness, illuminated by stage lights and phone glows, as the narrator continues to discuss the reunion opportunity for Raf and Miuccia, and his initial intrigue about their styles working together. Behind Raf, two large screens display bold red-and-white graphic art, one reading 'Raf Simons Calvin Klein' and the other a stylized portrait, while a woman in a dark blazer observes him. The narrator contrasts Miuccia's \"chic and minimalist\" approach with Raf's \"punk and street-inspired\" aesthetic, before the scene cuts to a behind-the-scenes fashion shoot. Here, a model with long blonde hair, initially in a cream polka-dot jumpsuit and light blue pointed-toe heels, carrying a white tote bag, walks past a camera rig. The camera focuses on her feet on a yellow floor, then pans up to reveal her face and a purple tank top with 'PRADA' printed on it, as she walks toward a camera rig labeled '5' under a yellow curtain backdrop. The narrator concludes by announcing the Spring 2021 ready-to-wear collection, presented in September 2020, praising it as a \"perfect blend of each designer's signature style.\"",
+        "The video segment opens on a behind-the-scenes fashion shoot, set against a vibrant yellow curtain backdrop, as a male narrator immediately begins discussing the collection. He notes how the \"silhouettes and materials screamed Miuccia\" while \"intricate details and motifs screamed Raf,\" suggesting a perfect balance between the two. The first model, wearing a sleeveless purple top with 'PRADA' printed in white, walks confidently toward the camera, her long blonde hair flowing. The narrator continues, explaining that the collection could be perceived as either a Raf or Miuccia collection without surprise, highlighting the cohesive blend. The camera then cuts to a model in a cream-colored jumpsuit with large black polka dots, light blue pointed-toe heels, and a white tote bag, striding forward. Multiple camera rigs, including the Camera Rig with Number 5, are visible, capturing the expansive, minimalist space. The narrator praises the designers' ability to work together in a cohesive manner, stating that the outcome was \"fantastic\" and that they didn't let their ego get in the way. A Black woman with short, curly hair, wearing a white sleeveless top with a 'PRADA' logo, walks with poise, followed by a model in a black off-the-shoulder top, then another in a light grey, oversized coat, adjusting the fabric. The final model, with short blonde hair, wears a bright yellow hooded coat over a white turtleneck. The narrator emphasizes that this collection, while having elements of both Raf and Prada, shows them venturing into new territory, benefiting from their partnership to create something only the two of them could make, concluding that the \"newly formed duo made a very strong first impression.\" Throughout, the yellow curtain backdrop remains consistent, and camera rigs, including one labeled '10', are prominently featured, all under soft, even lighting."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 29,
+      "end_minute": 30,
+      "summary": "The video opens with a fashion shoot featuring a model in a yellow hooded coat against a yellow curtain backdrop, with Camera Rig 5 and Camera Rig 10 visible as she moves. The scene shifts to a darkened stage where Miuccia Prada, in a navy sweater and white skirt, and Raf Simons, in a grey sweater, sit on white benches before a large screen displaying the 'PRADA' logo. A narrator discusses their partnership, noting Raf Simons' discontinuation of his namesake label to focus on Prada, and highlighting them as \"two of the most influential designers in the history of fashion.\" The narrative then traces Prada's history from Mario Prada's 1913 leather goods shop, which became the Italian royal household's supplier, to Miuccia taking over the business from her mother, Louisa, and transforming it into a \"global business\" with her husband Patrizio. The narrator mentions the \"reintroduction of Linea Rossa and the appointment of Raf Simons as co-creative director,\" emphasizing Prada's investment in its future. Questions from the audience, such as 'HOW LONG HAVE YOU WANTED TO WORK TOGETHER?' from Vlad Vlasyuk and one from Derek, New York, about designing with another designer, appear on the screen. Miuccia responds with gestures and thoughtful engagement, while Raf listens attentively, his hands clasped. The interaction between Miuccia and Raf is calm and intellectual, set within a minimalist, high-fashion environment, with the narrator concluding that they are aware of fashion's ongoing changes.",
+      "involved_entities": {
+        "Yellow Curtain Backdrop": {
+          "description": "A bright yellow curtain serving as the background for the behind-the-scenes fashion shoot, providing a vivid contrast to the model's outfit and the camera equipment.",
+          "attribute": "visual"
+        },
+        "Raf Simons": {
+          "description": "A man with short dark hair, wearing a textured grey sweater over a black shirt and dark trousers, seated on a white bench, listening attentively with his hands clasped during a formal discussion. A male narrator identifies him as the co-creative director of Prada, noting that he is 'well aware of the fact that fashion is changing'.",
+          "attribute": "audio-visual"
+        },
+        "Camera Rig with Number 10": {
+          "description": "A black camera rig with multiple mounted cameras and a monitor, labeled with the number '10', positioned in front of a yellow curtain backdrop during a fashion shoot.",
+          "attribute": "visual"
+        },
+        "Camera Rig with Number 5": {
+          "description": "A black camera rig with multiple mounted cameras and a monitor, labeled with the number '5', positioned in front of a yellow curtain backdrop during a fashion shoot.",
+          "attribute": "visual"
+        },
+        "Model in Yellow Hooded Coat": {
+          "description": "A model with short blonde hair, wearing a bright yellow hooded coat over a white turtleneck and black top, walking confidently across a yellow curtain backdrop, adjusting the coat, and moving toward the camera with a neutral expression.",
+          "attribute": "visual"
+        },
+        "Miuccia Prada": {
+          "description": "A woman with shoulder-length light brown hair, wearing a dark navy sweater over a white top and a flowing white skirt, seated on a white bench, speaking and gesturing subtly, and smiling warmly during a formal discussion. A male narrator identifies her by name as the daughter who guided Prada to become a full-fledged fashion house and states that she is 'well aware of the fact that fashion is changing'.",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Text": {
+          "description": "White text on a large screen displaying questions from audience members, including 'HOW LONG HAVE YOU WANTED TO WORK TOGETHER?' and 'SO, WAS IT MUCH EASIER TO DESIGN A COLLECTION WITH ANOTHER DESIGNER? OR WAS IT MUCH HARDER? (I’M SURE IT WAS MUCH OF ONE OF THEM.)', attributed to Vlad Vlasyuk, Kyiv and Derek, New York respectively. These questions are presented visually while a male narrator provides background information about the designers and the brand.",
+          "attribute": "audio-visual"
+        },
+        "Prada Logo": {
+          "description": "The Prada logo displayed in a clean, minimalist font at the top of a large white screen behind the speakers, serving as a branding element for the event. A male narrator frequently refers to 'Prada' as the fashion house, discussing its history, growth into a global business, and future investments.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a behind-the-scenes fashion shoot, featuring a model with short blonde hair wearing a bright yellow hooded coat over a white turtleneck and black top, walking confidently across a vivid yellow curtain backdrop. Camera rigs, including one labeled '5' and another '10', are visible as she adjusts her coat and moves toward the camera. The scene then transitions to a darkened stage where Miuccia Prada, with shoulder-length light brown hair in a dark navy sweater and white skirt, and Raf Simons, with short dark hair in a textured grey sweater, are seated on minimalist white benches in front of a large screen displaying the 'PRADA' logo. They appear engaged in a formal discussion, with Miuccia speaking and gesturing subtly while Raf listens attentively. A male narrator's voiceover discusses the partnership, expressing relief that it wasn't temporary and noting that Raf Simons officially discontinued his namesake label in November 2022 to focus entirely on Prada. The narrator emphasizes the significance of Miuccia Prada and Raf Simons as \"two of the most influential designers in the history of fashion,\" whose combined forces create endless possibilities. The narrator then delves into the history of Prada, explaining that it all started in 1913 when a leather salesman named Mario Prada opened his own shop, which eventually became the Italian royal household's sole supplier of leather goods. The narrator concludes by mentioning Mario's passing and his son's disinterest in taking over the business. The overall atmosphere of the discussion scene is calm and professional, highlighting the speakers and the Prada branding, while the narrator provides historical and contemporary context for the brand.",
+        "The video opens with a close-up of Raf Simons, seated on a minimalist white bench in a textured grey sweater, listening intently with his hands clasped. A male narrator's voice begins, providing a historical overview of Prada, explaining how \"Louisa passed the business onto her own daughter, Miuccia,\" and how \"the trajectory of Prada changed forever\" under her guidance. The camera then cuts to a wide shot, revealing Miuccia Prada, dressed in a dark navy sweater and flowing white skirt, seated opposite Raf on a similar bench. A large screen behind them displays the Prada logo and a question from Vlad Vlasyuk, Kyiv: 'HOW LONG HAVE YOU WANTED TO WORK TOGETHER?'. The narrator continues, detailing how \"Prada became a full-fledged fashion house\" with Miuccia and her husband Patrizio's help, transforming it into a \"global business.\" Miuccia is seen responding with expressive hand gestures, her demeanor thoughtful and engaged, while Raf maintains a focused expression. The narrator highlights the \"reintroduction of Linea Rossa and the appointment of Raf Simons as co-creative director,\" emphasizing Prada's active investment in its future. The screen changes to a new question from Derek, New York, asking about the ease or difficulty of designing a collection with another designer. Miuccia smiles warmly, and Raf listens reflectively, his hands still clasped, as the narrator concludes by stating that \"Miuccia, Patrizio, and Raf are all well aware of the fact that fashion is changing,\" all while the two designers are visually engaged in a calm, intellectual interaction within the minimalist, high-fashion setting."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 31,
+      "end_minute": 31,
+      "summary": "Miuccia Prada, dressed in a dark navy sweater, white top, and flowing white skirt, is initially seen seated on a white bench in a softly lit, minimalist setting, speaking expressively with hand gestures, accompanied by a glass of water and a white tissue, while a male voiceover declares, \"by being proactive, they've decided that they're not going to be trend chasers, they're going to be taste makers,\" and \"They're going to continue paving the path forward, just like they always have.\" The scene shifts to a dimly lit fashion show where an audience, positioned on either side of a narrow, textured metallic runway bordered by wooden panels featuring abstract art and geometric designs, applauds enthusiastically. The voiceover transitions to an outro, \"Anyways, that's all for now. If you liked this video and want to see more like it, please remember to like, comment, subscribe, and also another reminder, join the Thredducation Patreon if you want early access to episodes like these, as well as access to exclusive content.\" Amidst the continued visual applause, Miuccia Prada reappears at the runway's rear, now sporting a vibrant yellow trench coat with reflective silver stripes over her previous attire, walking confidently towards the camera with a smile as the audience records the event on their phones. The voiceover concludes, \"Other than that, thank you all for watching Thredducation and I will see you next time,\" before the video ends on a black screen with the word 'THREADUCATION' in white serif font.",
+      "involved_entities": {
+        "THREADUCATION": {
+          "description": "White serif text displayed on a black screen at the end of the segment, serving as a branding or production identifier, also referenced verbally by the male narrator as 'Thredducation Patreon' and 'watching Thredducation'.",
+          "attribute": "audio-visual"
+        },
+        "Runway": {
+          "description": "A narrow, textured metallic runway flanked by wooden panels with abstract art and geometric designs, illuminated by focused lighting to highlight the model and create a gallery-like ambiance.",
+          "attribute": "audio-visual"
+        },
+        "Miuccia Prada": {
+          "description": "A woman with shoulder-length light brown hair, initially seated on a white bench in a dark navy sweater over a white top and flowing white skirt, speaking and gesturing expressively. Later, she walks down the runway wearing a bright yellow trench coat with reflective silver stripes over a dark top and white skirt, smiling confidently.",
+          "attribute": "audio-visual"
+        },
+        "Audience Members": {
+          "description": "Seated on either side of the runway, dressed in dark or neutral tones, visually clapping and recording the event on their phones, creating an engaged and intimate atmosphere.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with Miuccia Prada seated on a white bench in a minimalist, softly lit space, wearing a dark navy sweater over a white top and a flowing white skirt, speaking expressively and using hand gestures, with a glass of water and a white tissue beside her. Throughout this, a clear male voiceover states, \"by being proactive, they've decided that they're not going to be trend chasers, they're going to be taste makers,\" and continues, \"They're going to continue paving the path forward, just like they always have.\" The scene then transitions to a dimly lit fashion show environment where an audience, seated on either side of a narrow, textured metallic runway flanked by wooden panels adorned with abstract art and geometric designs, visually applauds enthusiastically. The male voiceover continues, providing an outro: \"Anyways, that's all for now. If you liked this video and want to see more like it, please remember to like, comment, subscribe, and also another reminder, join the Thredducation Patreon if you want early access to episodes like these, as well as access to exclusive content.\" As the visual applause continues, Miuccia Prada emerges from the back of the runway, now wearing a bright yellow trench coat with reflective silver stripes over a dark top and white skirt, walking confidently toward the camera with a warm smile, while the audience continues to visually clap and record the moment on their phones. The male voiceover concludes, \"Other than that, thank you all for watching Thredducation and I will see you next time.\" The video ends with a black screen displaying the word 'THREADUCATION' in white serif font."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Threaducation Patreon Page": "Not visible in this segment.",
+    "Archival Fashion Show Footage": "Grainy, dimly lit footage of a live fashion show with models walking down a narrow runway, set against a narrative discussing Prada's difficult position and the transition of leadership to Miuccia Prada after a key figure's departure from men's wear collections and Prada Sport.",
+    "The History of Prada Episode": "Not visible in this segment.",
+    "Modern Runway Footage": "Not visible in this segment.",
+    "Galleria Vittorio Emanuele II Image": "Not visible in this segment.",
+    "House of Savoy Coat of Arms and Prada Logo Comparison": "Not visible in this segment.",
+    "Model in Geometric Coat": "A female model wearing a sleeveless blue top with abstract geometric shapes in red, yellow, and green, paired with a grey skirt and a red bucket hat, walking down the runway with a neutral expression.",
+    "Model in Color-Block Dress": "A female model wearing a color-blocked sweater with horizontal stripes in teal, orange, and cream, paired with a brown skirt and a bucket hat with a colorful, textured brim, walking confidently down the runway.",
+    "Model in Mustard Jumpsuit": "A female model wearing a mustard-colored jumpsuit with a brown jacket and a bucket hat with a multicolored, textured brim, walking down the runway with a composed expression.",
+    "Model in Teal Coat": "Not visible in this segment.",
+    "Model in Green Coat": "A male model wearing a green polo shirt and grey trousers, walking down the runway with tan leather loafers, captured in a full-body shot with a neutral expression.",
+    "Woman in Dark Blazer": "Not visible in this segment.",
+    "Model in Sheer Black Top": "Not visible in this segment.",
+    "Microphone with 'T' Logo": "Not visible in this segment.",
+    "Model in Floral Shirt": "Not visible in this segment.",
+    "Mime Costumed Individuals": "Not visible in this segment.",
+    "Backstage Area": "Not visible in this segment.",
+    "Audience Members": "Seated on either side of the runway, dressed in dark or neutral tones, visually clapping and recording the event on their phones, creating an engaged and intimate atmosphere.",
+    "Model in Light-Colored, Textured Dress": "Not visible in this segment.",
+    "Patrizio Bertelli and Miuccia Prada": "Not visible in this segment.",
+    "Model in Sheer, Ruffled Top": "Not visible in this segment.",
+    "Model in Light Blue Top with Knotted Front": "Not visible in this segment.",
+    "Model in White Top with Black Belt": "Not visible in this segment.",
+    "Black Prada Hobo Bag": "Not visible in this segment.",
+    "CBC Logo": "Not visible in this segment.",
+    "FF Logo": "Not visible in this segment.",
+    "CNN and talkasia Logos": "Not visible in this segment.",
+    "Model in Black Blazer and Skirt": "Not visible in this segment.",
+    "Miuccia Prada": "A woman with shoulder-length light brown hair, initially seated on a white bench in a dark navy sweater over a white top and flowing white skirt, speaking and gesturing expressively. Later, she walks down the runway wearing a bright yellow trench coat with reflective silver stripes over a dark top and white skirt, smiling confidently.",
+    "Model in Yellow Dress": "Not visible in this segment.",
+    "Prada Boutique Interior": "Not visible in this segment.",
+    "Green Prada Hobo Bag": "Not visible in this segment.",
+    "Model in Long Yellow Coat": "Not visible in this segment.",
+    "Model in Yellow Top and Floral Pants": "Not visible in this segment.",
+    "Model in Green Dress": "Not visible in this segment.",
+    "Model in Yellow Jacket and Green Skirt": "Not visible in this segment.",
+    "The Red Line Title Card": "Not visible in this segment.",
+    "Model in White Top with Brown Skirt": "Not visible in this segment.",
+    "Model in Brown Dress": "Not visible in this segment.",
+    "Model in Patterned Dress": "Not visible in this segment.",
+    "Neil Barrett": "Not visually present in this segment. A male narrator identifies him as sharing Miuccia's affinity for elegant minimalism and high-performance materials, noting his adoption of nylon and other industrial-grade materials for entire collections, and his official launch of the 'Prada Sport' diffusion label in 1997, intended as a line of high-end, functional, and stylish sportswear.",
+    "MIU MIU Logo": "Not visible in this segment.",
+    "Man in Black T-Shirt": "Not visible in this segment.",
+    "PRADA FW 1995 MAN - PHOTOGRAPHED BY PETER LINDBERGH": "Not visible in this segment.",
+    "Model in White High-Collared Outfit": "A male model wearing a white high-collared, minimalist outfit with a structured silhouette, walking down the runway with a composed expression, flanked by audience members holding cameras.",
+    "Model in Red Hooded Cape": "A male model wearing a striking red hooded cape, walking down the runway with a serious expression, alongside another model in a white high-collared outfit, under soft, diffused lighting.",
+    "Model in White Long-Sleeved Shirt": "A male model wearing a white long-sleeved shirt and grey trousers, walking down the runway with a composed, forward-facing posture, captured from a frontal perspective.",
+    "Model in Grey Coat": "A male model wearing a long grey coat over a bare chest and grey trousers, walking down the runway with a stoic expression, captured in full-body and close-up shots.",
+    "Model in Light Green Shirt": "A male model wearing a light green short-sleeved shirt and white trousers, walking confidently down the runway with a neutral expression, followed by a close-up of his black lace-up shoes.",
+    "Black Prada Puffer Jacket": "A black, hooded puffer jacket with a glossy finish, featuring a red 'PRADA' logo on the chest pocket, which the narrator highlights as the 'iconic red line' that makes products instantly recognizable as Prada, despite its tiny size.",
+    "Model in White Suit": "A male model wearing a white suit with a structured, minimalist design, walking down the runway with a composed, forward-facing posture, captured from a frontal perspective.",
+    "Prada America's Cup Sneakers": "A pair of sneakers with a navy patent leather toe cap, grey mesh sides, white laces, and a white sole, with red 'PRADA' branding on the tongue. The narrator identifies these as the 'America's World Cup sneaker' that featured the famous red line, initially created for Prada's Luna Rossa sailing team for the 1997 America's Cup race, becoming an 'instant hit' with the public.",
+    "Model in White Short-Sleeved Shirt": "A male model wearing a white short-sleeved shirt and light-colored trousers, walking down the runway with a white fanny pack, captured from a frontal and side perspective.",
+    "Prada Racing Yacht and Team Photo": "A group of individuals in white shirts standing in front of a black Prada-branded racing yacht with a red 'PRADA' logo and 'LUNA ROSSA' name, under a bright blue sky with flags. The narrator explains that the Prada America's Cup sneakers were initially created for this 'Prada's Luna Rossa sailing team'.",
+    "Title Card: THE DEVIL WEARS PRADA (2006)": "A stylized white title card featuring a red high-heeled shoe with a trident-shaped heel, accompanied by the text 'THE DEVIL WEARS PRADA (2006)' and 'THREADUCATION' below, which the narrator explicitly references as an example of Prada's undeniable staple in popular culture.",
+    "Title Card: THE NEW PRADA": "A minimalist white title card with bold black text reading 'THE NEW PRADA' and 'THREADUCATION' below, serving as a transition between fashion show segments, which the narrator uses to introduce Miuccia Prada's new set of challenges heading into the 2000s.",
+    "Model in Black Feathered Hat": "A female model wearing a black dress with a feathered hat and a black belt, walking with a strong, deliberate gait.",
+    "Model in Red Jumpsuit": "A female model wearing a deep red jumpsuit with a black belt and a red-and-blue crossbody bag, walking with a confident, assertive posture.",
+    "Model in Black Coat and Boots": "A female model wearing a black coat, black shorts, and tall black boots, walking with a powerful, commanding stride.",
+    "Model in Brown Leather Dress": "A female model wearing a brown leather dress over a white top, accessorized with a red and black crossbody bag, walking with a poised and confident stride.",
+    "Model in Peacock-Feather Outfit": "A female model wearing a green and black peacock-feather patterned crop top and skirt, walking with dramatic flair and a bold presence.",
+    "Still Image of Miuccia Prada and Raf Simons": "A photograph showing Miuccia Prada in a green satin blouse and Raf Simons in a white shirt with 'RS' monogrammed on the pocket, standing together under the text 'MIUCCIA PRADA AND RAF SIMONS' and 'THREADUCATION'. This image visually accompanies the narrator's announcement that 'the legendary designer Raf Simmons would be joining Miuccia as the co-creative director of Prada' in February 2020, signifying their joint creative leadership.",
+    "Raf Simons": "A man with short dark hair, wearing a textured grey sweater over a black shirt and dark trousers, seated on a white bench, listening attentively with his hands clasped during a formal discussion. A male narrator identifies him as the co-creative director of Prada, noting that he is 'well aware of the fact that fashion is changing'.",
+    "Woman in Black Blazer with Sequined Sleeves": "A woman with shoulder-length blonde hair, wearing a black blazer with sparkling sequined sleeves, who presents the award to Raf Simons and shares a warm embrace with him.",
+    "Award Statuette": "A black, reflective statuette with a glossy base, placed on the transparent podium beside Raf Simons during his speech.",
+    "Transparent Podium": "A clear, illuminated podium with a microphone, positioned on stage for the speech, with a black statuette placed on it.",
+    "Woman in Black Blazer": "A woman with shoulder-length dark hair, wearing a black blazer, standing beside Raf Simons on stage, observing him as he speaks.",
+    "Model in Polka-Dot Jumpsuit": "A female model with long blonde hair, wearing a cream-colored jumpsuit with large black polka dots, light blue pointed-toe heels, and carrying a white tote bag, walking in a behind-the-scenes fashion shoot setting.",
+    "Yellow Curtain Backdrop": "A bright yellow curtain serving as the background for the behind-the-scenes fashion shoot, providing a vivid contrast to the model's outfit and the camera equipment.",
+    "Model in Purple Prada Top": "A female model with long blonde hair, wearing a purple sleeveless tank top with 'PRADA' printed in white, walking toward the camera under a yellow curtain backdrop during a fashion shoot.",
+    "Camera Rig with Number 5": "A black camera rig with multiple mounted cameras and a monitor, labeled with the number '5', positioned in front of a yellow curtain backdrop during a fashion shoot.",
+    "Model in Black Off-the-Shoulder Top": "A model with short blonde hair, wearing a black off-the-shoulder top, walking through the studio space with a neutral expression.",
+    "Model in Light Grey Oversized Coat": "A model with dark hair and bangs, wearing a light grey, oversized coat, adjusting the fabric as she walks with a composed demeanor.",
+    "Camera Rig with Number 10": "A black camera rig with multiple mounted cameras and a monitor, labeled with the number '10', positioned in front of a yellow curtain backdrop during a fashion shoot.",
+    "Model in Yellow Hooded Coat": "A model with short blonde hair, wearing a bright yellow hooded coat over a white turtleneck and black top, walking confidently across a yellow curtain backdrop, adjusting the coat, and moving toward the camera with a neutral expression.",
+    "Model in White Top with PRADA Logo": "A Black woman with short, curly hair, wearing a white sleeveless top with a 'PRADA' logo, walking with poise and direct gaze in a behind-the-scenes fashion shoot.",
+    "On-Screen Text": "White text on a large screen displaying questions from audience members, including 'HOW LONG HAVE YOU WANTED TO WORK TOGETHER?' and 'SO, WAS IT MUCH EASIER TO DESIGN A COLLECTION WITH ANOTHER DESIGNER? OR WAS IT MUCH HARDER? (I’M SURE IT WAS MUCH OF ONE OF THEM.)', attributed to Vlad Vlasyuk, Kyiv and Derek, New York respectively. These questions are presented visually while a male narrator provides background information about the designers and the brand.",
+    "Prada Logo": "The Prada logo displayed in a clean, minimalist font at the top of a large white screen behind the speakers, serving as a branding element for the event. A male narrator frequently refers to 'Prada' as the fashion house, discussing its history, growth into a global business, and future investments.",
+    "THREADUCATION": "White serif text displayed on a black screen at the end of the segment, serving as a branding or production identifier, also referenced verbally by the male narrator as 'Thredducation Patreon' and 'watching Thredducation'.",
+    "Runway": "A narrow, textured metallic runway flanked by wooden panels with abstract art and geometric designs, illuminated by focused lighting to highlight the model and create a gallery-like ambiance."
+  }
+}

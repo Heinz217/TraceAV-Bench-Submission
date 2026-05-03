@@ -1,0 +1,208 @@
+{
+    "video_id": "video90",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video captures a dynamic and celebratory entrance sequence for the Men's 200 Yard Medley Relay at an NCAA swimming event, broadcasted by ESPN. Teams from Florida State, Indiana, Texas, Tennessee, Florida, and Arizona State make their grand entrances one by one through branded tunnels, each accompanied by dramatic smoke effects and team-specific visuals. The Florida State team, wearing black swimwear and hoodies, emerges first, followed by Indiana’s team in black hoodies and red-and-white striped pants, who pump their fists and gesture confidently. Texas follows in white tracksuits, with one swimmer raising a blue water bottle in the air. Tennessee’s team, in black jackets and swim trunks, walks out with a relaxed demeanor, one holding a towel. Florida’s team, in black hoodies with Gator logos, makes a bold entrance with hand gestures and head movements. Finally, Arizona State’s team, dressed in white tracksuits, raises their arms in unison as they step out. The environment is lively, with event staff, cameras, and seated officials visible along the poolside, emphasizing the competitive and theatrical atmosphere of the NCAA championship.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "Florida State Team": "Wearing black swimwear and hoodies, with swim caps and goggles; they walk out confidently, some with hands raised or gesturing.",
+                "Indiana Team": "Dressed in black hoodies and red-and-white striped pants; they pump fists and display energetic, confident body language.",
+                "Texas Team": "Clad in white tracksuits with black accents; one swimmer raises a blue water bottle in celebration as they walk out.",
+                "Tennessee Team": "Wearing black jackets and swim trunks; one holds a white towel, and they walk with a composed, focused demeanor.",
+                "Florida Team": "In black hoodies with Gator logos and swim caps; they make hand gestures and head movements as they emerge.",
+                "Arizona State Team": "Dressed in white tracksuits with hoodies; they raise their arms in unison, showing unity and excitement.",
+                "ESPN Camera Crew": "Visible in black shirts with 'ESPN' logos, operating cameras and capturing the team entrances.",
+                "Event Officials": "Seated along the poolside in light-colored shirts, observing the teams as they enter.",
+                "Branded Tunnels": "Large, illuminated entryways with team names, logos, and swimmer names displayed prominently, emitting smoke for dramatic effect."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The video opens with the Arizona State Team emerging from a branded tunnel, dressed in white tracksuits with hoodies, raising their arms in unison as they walk out with energy and unity. The tunnel displays their names—Vergnes, Dobrzanski, Kulw, and others—alongside the team’s maroon and gold logo, with smoke effects adding drama. The scene transitions to the California Team, who appear in black hoodies and swim trunks, with one swimmer shirtless and holding a towel, walking confidently past a large 'CALIFORNIA' banner featuring names like Seeliger, Okadome, Rose, and Alexy. Next, the NC State Team enters through their tunnel, wearing white tracksuits with red accents and swim caps; one swimmer wears a red beanie, and they display focused, composed body language. The camera then follows the teams as they move toward the pool deck, where swimmers begin preparing for the race. The swimmers, now in swim caps and goggles, stand on starting blocks, adjusting their gear and stretching. The environment is a large indoor aquatic center with banners for '2025 NCAA SWIMMING & DIVING' and 'NCAA' logos visible. Event Officials in light-colored shirts are seated along the poolside, observing, while the ESPN Camera Crew captures the action. The atmosphere is charged with anticipation as swimmers focus on their routines before the race begins.",
+            "active_entities": {
+                "Arizona State Team": "Dressed in white tracksuits with hoodies; they raise their arms in unison, showing unity and excitement as they emerge from a smoke-filled tunnel with their names and logo displayed.",
+                "ESPN Camera Crew": "Visible in black shirts with 'ESPN' logos, operating cameras and capturing the team entrances and poolside preparations.",
+                "Event Officials": "Seated along the poolside in light-colored shirts, observing the teams as they enter and prepare for the race.",
+                "Branded Tunnels": "Large, illuminated entryways with team names, logos, and swimmer names displayed prominently, emitting smoke for dramatic effect."
+            },
+            "discovered_new_entities": {
+                "California Team": "Wearing black hoodies and swim trunks; one swimmer is shirtless with a towel, and they walk confidently past a large 'CALIFORNIA' banner with names like Seeliger, Okadome, Rose, and Alexy.",
+                "NC State Team": "Clad in white tracksuits with red accents and swim caps; one swimmer wears a red beanie, and they display focused, composed body language as they exit their branded tunnel.",
+                "Swimmers on Starting Blocks": "Shirtless male swimmers in swim caps and goggles, standing on numbered starting blocks, adjusting gear and stretching in preparation for the race."
+            }
+        },
+        {
+            "minute": 3,
+            "caption": "The video opens with a close-up of swimmers on starting blocks, shirtless and wearing swim caps and goggles, adjusting their gear and stretching in preparation for the 200Y Medley Relay. The camera then pulls back to a wide-angle view of the pool, revealing eight lanes marked with team names and logos: Florida St (lane 1), Indiana (lane 2), Texas (lane 3), Tennessee (lane 4), Florida (lane 5), Arizona St (lane 6), California (lane 7), and NC State (lane 8). The swimmers dive into the pool in unison, initiating the race. The camera follows the swimmers as they execute the butterfly stroke, with NC State taking an early lead. The on-screen timer tracks the race progress, showing times like 9.89, 13.5, and 20.24 seconds, while the leaderboard updates to show NC State in the lead. Officials in light-colored shirts observe from the poolside, and the ESPN logo is visible in the corner, indicating live coverage. The atmosphere is intense, with the crowd visible in the background and the pool illuminated under bright arena lighting.",
+            "active_entities": {
+                "Swimmers on Starting Blocks": "Shirtless male swimmers in swim caps and goggles, standing on numbered starting blocks, adjusting gear and stretching in preparation for the race.",
+                "Florida State Team": "Wearing black swimwear and hoodies, with swim caps and goggles; they walk out confidently, some with hands raised or gesturing.",
+                "Indiana Team": "Dressed in black hoodies and red-and-white striped pants; they pump fists and display energetic, confident body language.",
+                "Texas Team": "Clad in white tracksuits with black accents; one swimmer raises a blue water bottle in celebration as they walk out.",
+                "Tennessee Team": "Wearing black jackets and swim trunks; one holds a white towel, and they walk with a composed, focused demeanor.",
+                "Florida Team": "In black hoodies with Gator logos and swim caps; they make hand gestures and head movements as they emerge.",
+                "Arizona State Team": "Dressed in white tracksuits with hoodies; they raise their arms in unison, showing unity and excitement as they emerge from a smoke-filled tunnel with their names and logo displayed.",
+                "California Team": "Wearing black hoodies and swim trunks; one swimmer is shirtless with a towel, and they walk confidently past a large 'CALIFORNIA' banner with names like Seeliger, Okadome, Rose, and Alexy.",
+                "NC State Team": "Clad in white tracksuits with red accents and swim caps; one swimmer wears a red beanie, and they display focused, composed body language as they exit their branded tunnel.",
+                "Event Officials": "Seated along the poolside in light-colored shirts, observing the teams as they enter and prepare for the race.",
+                "ESPN Camera Crew": "Visible in black shirts with 'ESPN' logos, operating cameras and capturing the team entrances and poolside preparations."
+            },
+            "discovered_new_entities": {
+                "Poolside Announcer": "Standing near the starting blocks, wearing a white shirt and dark pants, holding a microphone and speaking to the crowd or team members.",
+                "On-Screen Timer and Leaderboard": "Digital overlay displaying race time, event name ('200Y Medley Relay'), and current leader ('LEADER: 8, NC State'), updating in real-time during the race."
+            }
+        },
+        {
+            "minute": 4,
+            "caption": "The video captures the intense final stretch of the 200Y Medley Relay at the 2023 NCAA Division I Swimming & Diving Championships. Swimmers from multiple teams are seen executing the freestyle leg of the relay, with the camera panning across the pool to follow their progress. The on-screen timer and leaderboard update in real-time, showing Florida taking the lead with a time of 1:20.05, followed closely by Tennessee at 1:20.50 and Texas at 1:20.28. The swimmers display powerful strokes and strong finishes, with some reaching the wall and turning to hand off to their teammates. The poolside is bustling with activity: coaches, officials, and team members watch intently, while the crowd in the stands cheers. The atmosphere is electric, with the final moments of the race unfolding under bright arena lighting. The Florida team emerges victorious, celebrating as the results are displayed on screen.",
+            "active_entities": {
+                "Florida Team": "In black hoodies with Gator logos and swim caps; they are seen swimming with strong freestyle strokes and finishing first, with one swimmer raising an arm in celebration upon reaching the wall.",
+                "Tennessee Team": "Wearing black jackets and swim trunks; their swimmer is visible in the pool executing a powerful freestyle stroke, finishing second in the relay.",
+                "Texas Team": "Clad in white tracksuits with black accents; their swimmer is seen in the pool, completing the freestyle leg and finishing third in the relay.",
+                "Event Officials": "Seated along the poolside in light-colored shirts, observing the race closely and monitoring the swimmers' progress.",
+                "On-Screen Timer and Leaderboard": "Digital overlay displaying race time, event name ('200Y Medley Relay'), and current leader ('LEADER: 5, Florida'), updating dynamically throughout the race and showing final results.",
+                "Swimmers on Starting Blocks": "Shirtless male swimmers in swim caps and goggles, now seen in the pool completing the freestyle leg after the relay handoffs, with some turning at the wall to complete their leg."
+            },
+            "discovered_new_entities": {
+                "Race Announcer": "Standing near the poolside, wearing a white shirt and dark pants, speaking into a microphone and providing live commentary during the final moments of the race."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video segment opens with a brief, unrelated clip from the game 'World of Warships,' showing a naval battle with a warship firing at enemy targets in a snowy coastal environment, before transitioning to the 2025 NCAA Men's Swimming & Diving Championships. The focus shifts to the Men's 200Y Medley Relay, where swimmers are seen completing the freestyle leg of the relay in a high-energy, competitive atmosphere. The Florida team, wearing black hoodies with Gator logos and swim caps, dominates the race, finishing first with a time of 1:20.05, setting a new NCAA Record. The on-screen leaderboard confirms Florida in first, Tennessee in second, and Texas in third. After the race, the Florida team celebrates enthusiastically, with swimmers raising arms, hugging, and smiling broadly. One swimmer is seen lying on the pool deck, exhausted but triumphant, while teammates gather around him. The team then dons white and blue 'Gators' hockey-style jerseys with orange trim, waving to the crowd and displaying joy. The poolside is lined with NCAA banners, and the event is broadcast by ESPN, as indicated by the logo in the corner. The environment is bright and lively, with spectators in the stands and event officials observing. The swimmers on starting blocks are now seen in the pool, completing their freestyle strokes with powerful turns at the wall. The Race Announcer, in a white shirt and dark pants, is visible near the poolside, providing commentary. The on-screen timer and leaderboard dynamically update throughout the race, showing the final results and the NCAA Record achievement.",
+            "active_entities": {
+                "Florida Team": "Wearing black hoodies with Gator logos and swim caps during the race; after winning, they celebrate in white and blue 'Gators' hockey-style jerseys with orange trim, waving to the crowd and hugging teammates.",
+                "Tennessee Team": "Wearing black jackets and swim trunks; their swimmer is visible in the pool executing a powerful freestyle stroke, finishing second in the relay.",
+                "Texas Team": "Clad in white tracksuits with black accents; their swimmer is seen in the pool, completing the freestyle leg and finishing third in the relay.",
+                "Swimmers on Starting Blocks": "Shirtless male swimmers in swim caps and goggles, now seen in the pool completing the freestyle leg after the relay handoffs, with some turning at the wall to complete their leg.",
+                "On-Screen Timer and Leaderboard": "Digital overlay displaying race time, event name ('200Y Medley Relay'), and current leader ('LEADER: 5, Florida'), updating dynamically throughout the race and showing final results, including the NCAA Record for Florida.",
+                "Race Announcer": "Standing near the poolside, wearing a white shirt and dark pants, speaking into a microphone and providing live commentary during the final moments of the race.",
+                "Event Officials": "Seated along the poolside in light-colored shirts, observing the race closely and monitoring the swimmers' progress.",
+                "ESPN Camera Crew": "Visible in black shirts with 'ESPN' logos, operating cameras and capturing the team entrances and poolside preparations."
+            },
+            "discovered_new_entities": {
+                "Florida Team Celebration": "Swimmers in white and blue 'Gators' hockey-style jerseys with orange trim, waving to the crowd, hugging, and displaying joy after winning the NCAA Record in the 200Y Medley Relay."
+            }
+        },
+        {
+            "minute": 6,
+            "caption": "The video opens with a high-angle view of a competitive swimming event, capturing multiple swimmers in mid-race during the freestyle leg of a relay, executing powerful strokes and turns in their respective lanes. The pool is marked with blue and white lane dividers, and the water churns with splashes as swimmers advance. Along the poolside, shirtless male swimmers in swim caps and goggles are seen preparing or recovering, while event officials in light-colored shirts observe closely. The camera then pans to a wider view of the arena, revealing the full scale of the NCAA Swimming & Diving Championships, with banners displaying 'NCAA' and 'SWIMMING & DIVING CHAMPIONSHIPS' lining the walls. The stands are filled with spectators, and a large digital scoreboard shows the event as 'MEN 200Y MEDLEY RELAY' with Florida leading. Swimmers from various teams, including those in black swimwear and hoodies (Florida State), white tracksuits (Texas), and black jackets (Tennessee), are visible near the starting blocks or in the pool. The atmosphere is intense and focused, with coaches and team members gathered along the deck, some clapping or gesturing. The camera captures the dynamic movement of swimmers turning at the wall and continuing their freestyle strokes, while the on-screen timer updates in real-time. The final moments show swimmers finishing their legs, with the Florida team emerging victorious, as indicated by the scoreboard and the crowd's reaction. The scene concludes with a wide shot of the arena, emphasizing the scale of the event and the competitive energy of the NCAA Championships.",
+            "active_entities": {
+                "Swimmers on Starting Blocks": "Shirtless male swimmers in swim caps and goggles, now seen in the pool completing the freestyle leg after the relay handoffs, with some turning at the wall to complete their leg.",
+                "Event Officials": "Seated along the poolside in light-colored shirts, observing the race closely and monitoring the swimmers' progress.",
+                "Florida State Team": "Wearing black swimwear and hoodies, with swim caps and goggles; they walk out confidently, some with hands raised or gesturing.",
+                "Texas Team": "Clad in white tracksuits with black accents; their swimmer is seen in the pool, completing the freestyle leg and finishing third in the relay.",
+                "Tennessee Team": "Wearing black jackets and swim trunks; their swimmer is visible in the pool executing a powerful freestyle stroke, finishing second in the relay.",
+                "Florida Team": "Wearing black hoodies with Gator logos and swim caps during the race; after winning, they celebrate in white and blue 'Gators' hockey-style jerseys with orange trim, waving to the crowd and hugging teammates.",
+                "On-Screen Timer and Leaderboard": "Digital overlay displaying race time, event name ('200Y Medley Relay'), and current leader ('LEADER: 5, Florida'), updating dynamically throughout the race and showing final results, including the NCAA Record for Florida.",
+                "Race Announcer": "Standing near the poolside, wearing a white shirt and dark pants, speaking into a microphone and providing live commentary during the final moments of the race.",
+                "Poolside Announcer": "Standing near the starting blocks, wearing a white shirt and dark pants, holding a microphone and speaking to the crowd or team members."
+            },
+            "discovered_new_entities": {
+                "Arena Staff": "Individuals in dark uniforms moving along the pool deck, managing equipment and assisting with race logistics.",
+                "Spectators": "Crowd members in the stands, some wearing team colors, cheering and reacting to the race progress, visible in the wide-angle shots."
+            }
+        },
+        {
+            "minute": 7,
+            "caption": "The video opens with a wide-angle view of the NCAA Swimming & Diving Championships, showcasing a large indoor pool with multiple lanes marked by blue and white lane dividers. The stands are filled with spectators, and banners for the event are visible along the poolside. Swimmers are positioned on starting blocks, shirtless and wearing swim caps and goggles, preparing for the 200Y Medley Relay. The race begins with a synchronized dive into the pool, and the swimmers immediately transition into the butterfly stroke, creating splashes as they propel forward. The camera follows the swimmers as they race down the pool, with some gaining a slight lead. The on-screen timer and leaderboard display the event name and current leader, updating dynamically. As the swimmers approach the first turn, they execute sharp turns at the wall, transitioning into the next stroke. The race continues with intense competition, and the swimmers maintain strong, rhythmic strokes. The camera captures the swimmers' powerful movements and the reactions of the spectators, who are visibly engaged in the race. The swimmers complete their legs, with some turning at the wall to continue the relay. The race progresses with the swimmers maintaining their positions, and the on-screen display updates with the current standings. The swimmers continue to race with determination, and the camera captures the final moments of the race as they approach the finish line. The race concludes with the swimmers completing their legs, and the on-screen display shows the final results, including the NCAA Record for Florida. The swimmers in the pool are seen finishing their legs, with some turning at the wall to complete their leg, and the race ends with the swimmers reaching the finish line. The crowd reacts with excitement, and the swimmers celebrate their performance. The video captures the intensity and excitement of the 200Y Medley Relay, with the swimmers demonstrating their skill and determination throughout the race.",
+            "active_entities": {
+                "Swimmers on Starting Blocks": "Shirtless male swimmers in swim caps and goggles, now seen in the pool completing the freestyle leg after the relay handoffs, with some turning at the wall to complete their leg.",
+                "Event Officials": "Seated along the poolside in light-colored shirts, observing the race closely and monitoring the swimmers' progress.",
+                "On-Screen Timer and Leaderboard": "Digital overlay displaying race time, event name ('200Y Medley Relay'), and current leader ('LEADER: 5, Florida'), updating dynamically throughout the race and showing final results, including the NCAA Record for Florida.",
+                "Spectators": "Crowd members in the stands, some wearing team colors, cheering and reacting to the race progress, visible in the wide-angle shots.",
+                "Arena Staff": "Individuals in dark uniforms moving along the pool deck, managing equipment and assisting with race logistics."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 8,
+            "caption": "The video opens with a close-up of a swimmer executing a powerful freestyle stroke in the pool, creating a splash as they approach the wall, indicating the final leg of a relay race. The camera then pulls back to a wide-angle view of the entire swimming arena, revealing the 2023 NCAA Division I Swimming & Diving Championships at the University of Texas at Austin. The pool is marked with blue and white lane dividers, and the deck is bustling with activity. Teams and officials are seen preparing for the next event, with swimmers and coaches gathered near the starting blocks. The 'CHAMPIONS WIN HERE' banner is prominently displayed above the spectator stands, which are sparsely populated. The ESPN and NCAA logos are visible in the top left corner, and the event branding is evident along the poolside. Arena staff and event officials move along the deck, managing equipment and coordinating logistics. The atmosphere is calm yet focused, with teams preparing for upcoming races. The camera pans slowly across the pool, capturing the organized chaos of a major collegiate swimming championship, with digital signage displaying event details and team names. The scene transitions to a slightly closer view of the starting blocks, where swimmers are being positioned, and the poolside announcer is seen speaking into a microphone, likely providing updates or commentary. The overall environment is professional and competitive, with a clear emphasis on the high-stakes nature of the NCAA Championships.",
+            "active_entities": {
+                "ESPN Camera Crew": "Visible in black shirts with 'ESPN' logos, operating cameras and capturing the poolside preparations and team movements.",
+                "Event Officials": "Seated along the poolside in light-colored shirts, observing the swimmers and managing the event flow.",
+                "Arena Staff": "Individuals in dark uniforms moving along the pool deck, handling equipment and assisting with race logistics.",
+                "Spectators": "Crowd members in the stands, some wearing team colors, reacting to the event and visible in the wide-angle shots.",
+                "Poolside Announcer": "Standing near the starting blocks, wearing a white shirt and dark pants, holding a microphone and speaking to the crowd or team members.",
+                "On-Screen Timer and Leaderboard": "Digital overlay displaying event name ('2023 NCAA Division I Swimming & Diving Championships') and location ('University of Texas at Austin'), visible in the upper portion of the screen.",
+                "Swimmers on Starting Blocks": "Shirtless male swimmers in swim caps and goggles, now seen preparing for the next event, with some adjusting their positions on the blocks."
+            },
+            "discovered_new_entities": {
+                "Poolside Equipment Crew": "Individuals in casual attire, handling starting block equipment and timing devices, moving along the deck near the starting blocks."
+            }
+        },
+        {
+            "minute": 9,
+            "caption": "The video opens with a wide-angle view of an indoor swimming arena during the NCAA Swimming & Diving Championships, showcasing a large pool with multiple lanes marked by blue and white lane dividers. The poolside is lined with starting blocks, timing equipment, and officials. Spectators are visible in the stands, and banners for the event, including 'CHAMPIONS' and 'NCAA SWIMMOVE', are displayed. The camera then cuts to a close-up of the event officials seated at a long table, focused on their tasks—some are using laptops, others are writing notes, and one is speaking into a microphone, likely coordinating or announcing. The officials wear lanyards and casual attire, with one in a red shirt and another in a gray polo. The scene transitions back to the pool, where swimmers are mid-race, executing freestyle strokes with powerful kicks and arm movements. The camera captures the intensity of the race from an elevated angle, showing swimmers in various lanes, some leading, others trailing. A yellow circle highlights a swimmer in the top lane, possibly indicating a key competitor or a moment of interest. The pool deck is active with coaches and support staff observing, and the atmosphere is charged with competition. The ESPN and NCAA logos are visible in the corner, confirming the event’s broadcast and official status.",
+            "active_entities": {
+                "Event Officials": "Seated at a long table along the poolside, wearing lanyards and casual attire (including a red shirt and gray polo), some using laptops, others writing notes, and one speaking into a microphone, managing race logistics and announcements.",
+                "Swimmers on Starting Blocks": "Shirtless male swimmers in swim caps and goggles, now actively racing in the pool, executing freestyle strokes with visible splashes and powerful movements across multiple lanes.",
+                "Poolside Announcer": "Standing near the starting blocks, wearing a white shirt and dark pants, holding a microphone and speaking, likely providing live commentary or race updates.",
+                "Spectators": "Crowd members in the stands, some wearing team colors, reacting to the race, visible in the background during wide shots.",
+                "Poolside Equipment Crew": "Individuals in casual attire moving along the deck near the starting blocks, handling timing devices and equipment, assisting with race operations.",
+                "ESPN Camera Crew": "Visible in black shirts with 'ESPN' logos, operating cameras and capturing the poolside action and race progress.",
+                "Race Announcer": "Standing near the poolside, wearing a white shirt and dark pants, speaking into a microphone and providing live commentary during the final moments of the race, distinct from the poolside announcer by position and timing of appearance."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 10,
+            "caption": "The video opens with a wide-angle view of the 200Y Medley Relay race in progress at the NCAA Swimming & Diving Championships, showing multiple swimmers in mid-stroke executing freestyle in their respective lanes, creating splashes as they power through the water. The poolside is bustling with activity: the Poolside Announcer, dressed in a white shirt and dark pants, stands near the starting blocks, speaking into a microphone, while the ESPN Camera Crew operates equipment to capture the race. Swimmers on Starting Blocks are seen diving in and swimming with intense focus. The scene then cuts to the Florida Team, now in white and blue 'Gators' hockey-style jerseys with orange trim, celebrating their victory with joyous gestures—waving to the crowd, hugging teammates, and displaying visible excitement. The camera then transitions to an underwater view of the pool, where the On-Screen Timer and Leaderboard is displayed, showing the final results: Texas wins with a time of 1:20.28 (marked as XR for NCAA Record), followed by Tennessee (1:20.50), California (1:20.76), and others. The scoreboard is overlaid on a blurred underwater shot of the pool lanes, emphasizing the conclusion of the event. Spectators in the stands are visible in the background during the celebration, reacting to the outcome.",
+            "active_entities": {
+                "Swimmers on Starting Blocks": "Shirtless male swimmers in swim caps and goggles, actively racing in the pool, executing freestyle strokes with visible splashes and powerful movements across multiple lanes.",
+                "Poolside Announcer": "Standing near the starting blocks, wearing a white shirt and dark pants, holding a microphone and speaking, likely providing live commentary or race updates.",
+                "ESPN Camera Crew": "Visible in black shirts with 'ESPN' logos, operating cameras and capturing the poolside action and race progress.",
+                "Florida Team": "Wearing black hoodies with Gator logos and swim caps during the race; after winning, they celebrate in white and blue 'Gators' hockey-style jerseys with orange trim, waving to the crowd and hugging teammates.",
+                "On-Screen Timer and Leaderboard": "Digital overlay displaying event name ('2023 NCAA Division I Swimming & Diving Championships') and location ('University of Texas at Austin'), visible in the upper portion of the screen, now showing the 200Y Medley Relay Summary Results with Texas in first place at 1:20.28 (XR).",
+                "Spectators": "Crowd members in the stands, some wearing team colors, reacting to the race, visible in the background during wide shots."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 11,
+            "caption": "The video segment begins with an underwater view of the pool, overlaid with the '200Y Medley Relay Summary Results' graphic, showing Texas in first place with a time of 1:20.28 (marked as XR for NCAA Record), followed by Tennessee, California, Arizona State, Indiana, NC State, Florida State, and Georgia. The scene then transitions to a wide-angle, elevated shot of the entire indoor swimming arena during the NCAA Swimming & Diving Championships. The pool is divided into multiple lanes with blue lane dividers, and the starting blocks are visible along the edge. Spectators fill the stands on both sides, with many wearing team colors, particularly orange and red. Event officials and staff are seen along the pool deck, some seated at a long table with laptops and microphones, while others walk or stand near the starting blocks. The large digital scoreboard above the pool displays the same relay results. The atmosphere is calm and post-race, with no active swimming occurring. The camera remains static, capturing the full scope of the venue, including banners for the championships and the ESPN and NCAA logos. The video then cuts back to the underwater view with the results graphic, reinforcing the final standings. No swimmers are actively racing or celebrating in this segment, suggesting it is a summary or replay moment after the event has concluded.",
+            "active_entities": {
+                "On-Screen Timer and Leaderboard": "Digital overlay displaying '200Y Medley Relay Summary Results' with Texas first at 1:20.28 (XR), followed by Tennessee, California, Arizona State, Indiana, NC State, Florida State, and Georgia, visible in both underwater and wide shots.",
+                "Event Officials": "Seated at a long table along the poolside, wearing lanyards and casual attire (including a red shirt and gray polo), some using laptops, others writing notes, and one speaking into a microphone, managing race logistics and announcements.",
+                "Spectators": "Crowd members in the stands, some wearing team colors (notably orange and red), reacting to the race, visible in the background during wide shots.",
+                "Arena Staff": "Individuals in dark uniforms moving along the pool deck, handling equipment and assisting with race logistics.",
+                "Poolside Equipment Crew": "Individuals in casual attire moving along the deck near the starting blocks, handling timing devices and equipment, assisting with race operations.",
+                "ESPN Camera Crew": "Visible in black shirts with 'ESPN' logos, operating cameras and capturing the poolside action and race progress, though not prominently featured in the wide shot.",
+                "Poolside Announcer": "Standing near the starting blocks, wearing a white shirt and dark pants, holding a microphone and speaking, likely providing live commentary or race updates, though not clearly visible in the wide shot.",
+                "Branded Tunnels": "Large, illuminated entryways with team names, logos, and swimmer names displayed prominently, emitting smoke for dramatic effect, though not visible in the current wide shot.",
+                "Swimmers on Starting Blocks": "Shirtless male swimmers in swim caps and goggles, actively racing in the pool, executing freestyle strokes with visible splashes and powerful movements across multiple lanes, though not visible in this post-race segment.",
+                "Florida Team Celebration": "Swimmers in white and blue 'Gators' hockey-style jerseys with orange trim, waving to the crowd, hugging, and displaying joy after winning the NCAA Record in the 200Y Medley Relay, though not visible in this segment.",
+                "Texas Team": "Clad in white tracksuits with black accents; their swimmer is seen in the pool, completing the freestyle leg and finishing third in the relay, though not visible in this post-race summary.",
+                "Tennessee Team": "Wearing black jackets and swim trunks; their swimmer is visible in the pool executing a powerful freestyle stroke, finishing second in the relay, though not visible in this post-race summary.",
+                "California Team": "Wearing black hoodies and swim trunks; one swimmer is shirtless with a towel, and they walk confidently past a large 'CALIFORNIA' banner with names like Seeliger, Okadome, Rose, and Alexy, though not visible in this segment.",
+                "Arizona State Team": "Dressed in white tracksuits with hoodies; they raise their arms in unison, showing unity and excitement as they emerge from a smoke-filled tunnel with their names and logo displayed, though not visible in this segment.",
+                "Indiana Team": "Dressed in black hoodies and red-and-white striped pants; they pump fists and display energetic, confident body language, though not visible in this segment.",
+                "NC State Team": "Clad in white tracksuits with red accents and swim caps; one swimmer wears a red beanie, and they display focused, composed body language as they exit their branded tunnel, though not visible in this segment.",
+                "Florida State Team": "Wearing black swimwear and hoodies, with swim caps and goggles; they walk out confidently, some with hands raised or gesturing, though not visible in this segment."
+            },
+            "discovered_new_entities": {}
+        }
+    ],
+    "entity_library": {
+        "Florida State Team": "Wearing black swimwear and hoodies, with swim caps and goggles; they walk out confidently, some with hands raised or gesturing, though not visible in this segment.",
+        "Indiana Team": "Dressed in black hoodies and red-and-white striped pants; they pump fists and display energetic, confident body language, though not visible in this segment.",
+        "Texas Team": "Clad in white tracksuits with black accents; their swimmer is seen in the pool, completing the freestyle leg and finishing third in the relay, though not visible in this post-race summary.",
+        "Tennessee Team": "Wearing black jackets and swim trunks; their swimmer is visible in the pool executing a powerful freestyle stroke, finishing second in the relay, though not visible in this post-race summary.",
+        "Florida Team": "Wearing black hoodies with Gator logos and swim caps during the race; after winning, they celebrate in white and blue 'Gators' hockey-style jerseys with orange trim, waving to the crowd and hugging teammates.",
+        "Arizona State Team": "Dressed in white tracksuits with hoodies; they raise their arms in unison, showing unity and excitement as they emerge from a smoke-filled tunnel with their names and logo displayed, though not visible in this segment.",
+        "ESPN Camera Crew": "Visible in black shirts with 'ESPN' logos, operating cameras and capturing the poolside action and race progress, though not prominently featured in the wide shot.",
+        "Event Officials": "Seated at a long table along the poolside, wearing lanyards and casual attire (including a red shirt and gray polo), some using laptops, others writing notes, and one speaking into a microphone, managing race logistics and announcements.",
+        "Branded Tunnels": "Large, illuminated entryways with team names, logos, and swimmer names displayed prominently, emitting smoke for dramatic effect, though not visible in the current wide shot.",
+        "California Team": "Wearing black hoodies and swim trunks; one swimmer is shirtless with a towel, and they walk confidently past a large 'CALIFORNIA' banner with names like Seeliger, Okadome, Rose, and Alexy, though not visible in this segment.",
+        "NC State Team": "Clad in white tracksuits with red accents and swim caps; one swimmer wears a red beanie, and they display focused, composed body language as they exit their branded tunnel, though not visible in this segment.",
+        "Swimmers on Starting Blocks": "Shirtless male swimmers in swim caps and goggles, actively racing in the pool, executing freestyle strokes with visible splashes and powerful movements across multiple lanes, though not visible in this post-race segment.",
+        "Poolside Announcer": "Standing near the starting blocks, wearing a white shirt and dark pants, holding a microphone and speaking, likely providing live commentary or race updates, though not clearly visible in the wide shot.",
+        "On-Screen Timer and Leaderboard": "Digital overlay displaying '200Y Medley Relay Summary Results' with Texas first at 1:20.28 (XR), followed by Tennessee, California, Arizona State, Indiana, NC State, Florida State, and Georgia, visible in both underwater and wide shots.",
+        "Race Announcer": "Standing near the poolside, wearing a white shirt and dark pants, speaking into a microphone and providing live commentary during the final moments of the race, distinct from the poolside announcer by position and timing of appearance.",
+        "Florida Team Celebration": "Swimmers in white and blue 'Gators' hockey-style jerseys with orange trim, waving to the crowd, hugging, and displaying joy after winning the NCAA Record in the 200Y Medley Relay, though not visible in this segment.",
+        "Arena Staff": "Individuals in dark uniforms moving along the pool deck, handling equipment and assisting with race logistics.",
+        "Spectators": "Crowd members in the stands, some wearing team colors (notably orange and red), reacting to the race, visible in the background during wide shots.",
+        "Poolside Equipment Crew": "Individuals in casual attire moving along the deck near the starting blocks, handling timing devices and equipment, assisting with race operations."
+    }
+}

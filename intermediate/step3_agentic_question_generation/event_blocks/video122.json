@@ -1,0 +1,665 @@
+{
+  "video_id": "video122",
+  "audio_id": "video122_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 7,
+      "summary": "The Spider-Man-costumed person, initially grunting and breathing heavily in a cluttered bedroom, is urged to get up for school by an urgent male voice. Exiting the room, they run through a hallway and burst onto a balcony, leaping onto a grassy lawn. The scene transitions to a playground where the Spider-Man performs acrobatic moves, sliding down a blue slide and swinging on monkey bars, accompanied by sounds of running, jumping, sliding, and a distinct \"thwip.\" An on-screen 'Quest list' displays tasks like 'grab backpacks,' 'make graduation photos cooler,' 'take photos with bride,' 'Make it to school on time,' and 'Do it again?!?', with the male voice explaining the plan to gather backpacks from a building, take graduation photos for Mary, and then head to school. The Spider-Man continues to run and jump across the playground, performs a flip off a ramp into a paved area near a body of water, and sprints toward a brick building under a bright, sunny sky, underscored by intense running, jumping, and acrobatic sounds, including another \"thwip,\" and energetic background music. Later, the Spider-Man navigates an urban rooftop environment, jumping between rooftops and sliding down a sloped surface, before descending to a grassy area and sprinting through a park-like setting. Approaching a colorful playground, they perform a flip over a railing, with a male voice noting they left backpacks on another building downtown. The Spider-Man runs toward a distant brick building, with the 'Quest list' overlay reinforcing the spoken dialogue. The scene shifts to a narrow alleyway where the person balances on a yellow curb before leaping over a chain-link fence and descending into a dimly lit underpass, where the 'Quest list' reappears. The Spider-Man confirms finding the bags in the underpass, commenting on the destroyed state of the place as they descend a concrete ramp. Emerging onto an industrial rooftop, the person exclaims about an elevator and traverses the environment, leaping across gaps and scaling concrete barriers, with driving music building. They pause to look down at a parking lot before continuing to run across narrow ledges, culminating in a high-angle shot before leaping toward a distant structure. The environment shifts from the gritty underpass to exposed, sunlit rooftops. The Spider-Man exits a modern glass building into an urban environment, then moves across a rooftop, through a wet underpass, and into a parking lot. Sprinting through a green park area, they encounter a group of people, including a man with a camera who instructs the Spider-Man to jump next to a graduate for a photo with the Gateway Arch in the background. After performing the jump, captured by camera clicks, the Spider-Man continues sprinting through the park as the 'Quest list' appears again, listing tasks like 'grab backpacks' and 'take photos with bride.' The Spider-Man runs past a brick building and a balcony railing, sprinting toward a distant brick building, with the man with the camera asking for his bag. The scene opens with a man in a white shirt on stone steps discussing doing something \"one more time.\" The Spider-Man begins running and leaping, running along a paved path beside a water feature, then jumping over a stone wall into a grassy area. A brief view shows a woman in a light dress and a man with a camera engaged in a \"wedding photos\" photoshoot. The Spider-Man sprints across a checkered stone plaza with the Gateway Arch visible, passing modern buildings and a playground before leaping over a railing. The 'Quest list' overlay appears with tasks like 'grab backpacks,' 'make graduation photos cooler,' and 'take photos with bride,' along with '5 mins till class starts' and 'Make it to school on time,' as the person sprints toward a large brick building.",
+      "involved_entities": {
+        "Spider-Man-costumed person": {
+          "description": "A person wearing a red and black Spider-Man suit with web patterns and gloves, performing agile movements across rooftops, underpasses, and into a building, maintaining a consistent appearance throughout the segment.",
+          "attribute": "visual"
+        },
+        "Balcony railing": {
+          "description": "A white wooden railing on a balcony overlooking a green lawn, from which the person jumps into the yard.",
+          "attribute": "visual"
+        },
+        "Quest list overlay": {
+          "description": "A white on-screen text box briefly appearing with the message '5 mins till class starts,' adding urgency to the person's movements.",
+          "attribute": "visual"
+        },
+        "Playground equipment": {
+          "description": "Colorful playground structures including a blue slide, monkey bars, a seesaw, and a ramp, located in an outdoor park area with trees and a fence.",
+          "attribute": "visual"
+        },
+        "Brick building": {
+          "description": "A large, brown brick building with a white door, visible in the distance as the person sprints toward it at the end of the segment.",
+          "attribute": "visual"
+        },
+        "Parking lot": {
+          "description": "An open asphalt area with scattered vehicles and a distant parking tower, visible during the descent from the rooftop, featuring orange traffic cones and a ramp.",
+          "attribute": "visual"
+        },
+        "Park pavilion": {
+          "description": "A covered outdoor structure with picnic tables and wooden beams, located in a grassy park area with trees and pathways.",
+          "attribute": "visual"
+        },
+        "Rooftop environment": {
+          "description": "An industrial rooftop with metal vents, concrete barriers, and gravel surfaces, covered in graffiti and debris, serving as the initial setting for the acrobatic traversal.",
+          "attribute": "visual"
+        },
+        "Underpass": {
+          "description": "A dimly lit concrete tunnel with graffiti, debris, and structural beams, serving as a transition zone between urban areas, visible during the descent from the rooftop.",
+          "attribute": "visual"
+        },
+        "Glass entrance building": {
+          "description": "A modern building with large glass doors and reflective surfaces, featuring a clean, minimalist lobby with minimal furnishings, entered by the Spider-Man-costumed person at the beginning of the segment.",
+          "attribute": "visual"
+        },
+        "Woman in light dress": {
+          "description": "A woman wearing a light-colored, sleeveless dress, carrying a purple bag, seen walking in the park and interacting with the Spider-Man-costumed person, and explicitly identified by audio as being part of a 'wedding photos' photoshoot.",
+          "attribute": "audio-visual"
+        },
+        "Group of people in park": {
+          "description": "A small group including the man with the camera and the woman in the light dress, standing on a paved path in a green park area, explicitly identified by audio as being part of a 'wedding photos' photoshoot, with dialogue about needing 'a picture' and making 'big smiles.'",
+          "attribute": "audio-visual"
+        },
+        "Man with camera": {
+          "description": "A man wearing a denim jacket and glasses, holding a professional camera and a bag, standing in the park and engaging with the Spider-Man-costumed person, and explicitly identified by audio as being part of a 'wedding photos' photoshoot.",
+          "attribute": "audio-visual"
+        },
+        "Checkered stone plaza": {
+          "description": "A wide, open plaza with a geometric pattern of light and dark stone tiles, serving as a transition area between park and urban zones.",
+          "attribute": "visual"
+        },
+        "Gateway Arch": {
+          "description": "A large, iconic stainless steel arch visible in the background during the sprint across the plaza, indicating the location is St. Louis.",
+          "attribute": "visual"
+        },
+        "Water feature": {
+          "description": "A long, narrow reflecting pool bordered by stone, running through the park area, which the Spider-Man-costumed person runs alongside.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a first-person perspective inside a cluttered bedroom, where a person in a red and black Spider-Man costume is seen lying on a bed, grunting and breathing heavily. A male voice sighs \"Ugh\" and then exclaims, \"How do I keep letting this happen?\" as the Spider-Man figure quickly gets up and moves through the messy room. He exits, runs through a hallway, and bursts onto a sunlit balcony, leaping off the railing onto a grassy lawn. During this rapid movement, an urgent male voice repeatedly calls out, \"Yo, Peter, get up! Peter! Yo, Pete! Come on, Peter, Peter, whatever. Yeah, get up, it's time, time for school. Again. Yeah, that's right, yeah, let's go.\" The scene transitions to an outdoor playground with colorful equipment, where the Spider-Man-costumed person performs acrobatic moves, sliding down a blue slide and swinging on monkey bars, accompanied by sounds of running, jumping, sliding, and a distinct \"thwip\" sound. On-screen text appears, displaying a 'Quest list' with tasks like 'grab backpacks,' 'make graduation photos cooler,' 'take photos with bride,' 'Make it to school on time,' and 'Do it again?!?'. The urgent male voice from earlier explains these objectives: \"Okay, we still have a couple of things to do before we go to school. Here's the plan. First, let's grab our backpacks that we left on that building. Then we have to go take those graduation photos for Mary. Her mom's getting married on the same day, so we have to take pictures with her as well. Then we can finally make it to school. Hopefully, we have enough time to make all this happen.\" The Spider-Man figure continues to run and jump across the playground, performs a flip off a ramp into a paved area near a body of water, and sprints toward a brick building in the distance under a bright, sunny sky. This fast-paced, energetic sequence, styled like a video game with mission objectives, is underscored by intense running, jumping, and acrobatic sounds, including another \"thwip,\" and an energetic background music track, emphasizing urgency and physical agility.",
+        "The segment opens with a dynamic first-person perspective, immersing the viewer in the acrobatic movements of a Spider-Man-costumed person. Energetic electronic music with a driving beat accompanies their rapid traversal across a gritty urban rooftop, punctuated by the sounds of their grunts, heavy breathing, and distinct thudding landings as they leap over obstacles and navigate industrial structures. The camera tilts and rotates rapidly, capturing their agile jumps between rooftops and a slide down a sloped surface. As they land on a lower platform, the environment shifts towards an open area with trees and a parking lot, guided by on-screen text stating 'objective: make your way to the run down parking tower.' The character descends to a grassy area, sprinting through a park-like setting with picnic tables and a covered pavilion. The music continues as they approach a colorful playground, performing a flip over a railing and landing near equipment like a blue slide and monkey bars. Amidst their continued movement sounds, a male voice states, \"I think this is the wrong building. We left the backpacks on the other building downtown,\" adding a narrative layer to the action. The scene concludes with the Spider-Man-costumed person running toward a distant Brick building, with a Quest list overlay briefly visible, listing objectives such as 'grab backpacks' and 'Make it to school on time,' reinforcing the spoken dialogue. The bright, sunny lighting maintains an adventurous outdoor tone throughout.",
+        "The video opens with a dynamic first-person perspective of a person in a red and black Spider-Man suit, accompanied by driving electronic music and the sounds of their running footsteps and grunts of exertion. They sprint through a sunlit park with green trees and a covered pavilion, quickly transitioning to an urban rooftop environment where they perform acrobatic maneuvers, jumping across gaps and scaling walls. The scene shifts to a narrow alleyway with graffiti-covered walls, where the person balances on a yellow curb before leaping over a chain-link fence. As they descend into a dimly lit underpass, the music continues, and a 'Quest list overlay' appears on screen, listing objectives like 'grab backpacks' and 'Make it to school on time.' Amidst the action, a male voice is heard saying 'What's up?' and another male voice says 'Sorry about that.' The Spider-Man-costumed person continues sprinting through the concrete tunnel, passing a staircase and a red railing, their footsteps echoing. Later, the Spider-Man-costumed person speaks, confirming, 'Yeah, this is the place. Yep, those are the bags right there. Alright, let's grab these, make it to the top and find out where to go next,' with another male voice responding 'Mhm.' They then comment, 'Man, this place is destroyed. This place is absolutely destroyed. Look at these stairs,' as they rapidly descend a concrete ramp, the music and sounds of movement persisting until the segment ends.",
+        "The video opens with a Spider-Man-costumed person crouched on a concrete ledge within a dimly lit, graffiti-marked underpass. As they launch into a dynamic sequence of acrobatic movements, sounds of rustling fabric and metallic clanking accompany their precise actions. The first-person camera perspective captures their navigation through the underpass, climbing a metal staircase with distinct metallic scraping and thudding sounds. Upon emerging onto an industrial rooftop environment, the person exclaims, \"Elevator, look,\" followed by an impressed \"Oh my god\" and \"Whoa,\" as they traverse the environment, leaping across gaps and scaling concrete barriers. A driving, slightly electronic/orchestral music track begins to build, enhancing the dynamic visuals of the Spider-Man-costumed person's fluid movements across the rooftops, with sweeping views of a dense urban skyline. The person enthusiastically declares, \"Dude, this is sick,\" as the camera frequently tilts and rotates, emphasizing the height and danger. They pause to look down at the street, where cars are visible in a parking lot below, before continuing to climb and run across narrow ledges, punctuated by excited exclamations of \"Hey!\" and \"Yo!\". The sequence culminates in a high-angle shot of the person on a rooftop edge, overlooking the city, before they leap toward a distant structure, the camera following their descent with a final whoosh sound, as the music continues to play. The environment shifts from the gritty underpass to exposed, sunlit rooftops, with the consistent red and black Spider-Man suit, gloves, and backpack highlighting their parkour expertise.",
+        "The video opens with a first-person perspective of a person in a red and black Spider-Man suit standing on a spiral rooftop overlooking a cityscape, as upbeat electronic music begins. A male voice asks, \"I think we can make this jump?\" and then, \"Like be for real, what you how you feeling about this?\" The voice continues, \"I'm pretty sure, I'm pretty sure they said to meet them somewhere over this wall,\" followed by a \"Huh!\" as the camera pans the urban environment. With a text overlay briefly appearing, reading '5 mins till class starts,' adding urgency, the Spider-Man-costumed person starts running across the graffiti-covered rooftop, their agile movements accompanied by the sounds of footsteps, jumps, and whooshes. They leap over barriers and navigate industrial structures, including a chain-link fence and a dimly lit concrete underpass filled with trash and graffiti, with the driving music underscoring the fast-paced traversal. Descending a ramp into a sunlit parking lot, they continue sprinting past parked cars and orange traffic cones, their rapid movements punctuated by sliding and impacts. Finally, they enter a modern building through glass doors, moving quickly through a clean, minimalist lobby, the electronic music maintaining its intensity throughout their mission-driven journey.",
+        "The video opens with an energetic, electronic track as a Spider-Man-costumed person, clad in a red and black suit, exits a modern glass building through its reflective glass doors into an urban environment. The camera quickly shifts to a rooftop with industrial features, where the person performs agile movements, including a jump from a high ledge, accompanied by whooshing and thudding sounds. The journey continues through a wet, reflective underpass with graffiti, then descends into a parking lot marked by orange traffic cones and a ramp. The Spider-Man then sprints through a green park area with a paved path, passing a park pavilion and a small water feature. As the music continues with whooshing sounds, the Spider-Man exclaims, \"All right, we made it,\" upon encountering a group of people. Among them is a man with a camera, wearing a denim jacket and glasses, who begins giving instructions: \"So look, we're about to do a shot with uh with my graduate. Uh and you guys gonna be jumping right next to right next to her. Okay, on both sides of her. So give me a spot good Spider-Man jump, is that cool?\" The Spider-Man responds with an \"Mhm,\" as the man adds, \"And we're gonna have hopefully have the arch right behind her.\" After a countdown of \"One, two, three, go!\", the Spider-Man performs a jump, captured by camera clicks, before continuing to sprint through the park. A 'Quest list' overlay appears, listing tasks like 'grab backpacks,' 'make graduation photos cooler,' and 'take photos with bride,' adding a playful urgency to the mission. The Spider-Man runs past a large brick building and a white balcony railing, finally sprinting toward a distant brick building, seemingly racing against time. The man with the camera is heard again, asking, \"Can you get my bag real quick? Let me out,\" as the Spider-Man continues their dynamic movement through the transitioning urban and green spaces, enhanced by dynamic lighting and reflections.",
+        "The segment opens with a man in a white shirt and black pants, holding a phone and gesturing animatedly on stone steps in a park-like urban setting. He and another voice are heard discussing doing something \"one more time,\" with the man stating, \"Security guy said we can do it one more time so we're gonna make this one count.\" Upbeat, energetic electronic music with a driving beat then kicks in as the camera shifts to a first-person perspective of a person in a red and black Spider-Man suit, who begins running and leaping with agility. The Spider-Man-costumed person runs along a paved path beside a long water feature, then jumps over a low stone wall into a grassy area. The camera briefly shows a hand reaching out, followed by a quick view of a woman in a light dress and a man with a camera standing in a park, engaged in what is revealed by dialogue to be a \"wedding photos\" photoshoot, with voices discussing needing \"a picture\" and making \"big smiles.\" The Spider-Man-costumed person then sprints across a checkered stone plaza with the iconic Gateway Arch visible in the distance, indicating St. Louis, continuing past modern buildings and a playground with wooden structures, before leaping over a railing into a yard. The scene transitions to a wide shot of the Spider-Man-costumed person running toward a large brick building, as a 'Quest list' overlay appears on screen, displaying tasks like 'grab backpacks,' 'make graduation photos cooler,' and 'take photos with bride,' alongside the urgent message '5 mins till class starts' and the final goal 'Make it to school on time,' all while the energetic music continues. A voice exclaims, \"Hey, that was so cool,\" followed by a \"Woo!\" as the video ends with the person sprinting toward the brick building, emphasizing the urgency of their mission."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 8,
+      "end_minute": 8,
+      "summary": "An energetic electronic music track accompanies a first-person view of a Spider-Man-costumed person navigating a wooden playground structure, their red and black attire visible, before landing on an orange safety mat. The scene widens to show the costumed person interacting with a group of children and adults in a park, with a brief male greeting, \"Hi guys.\" The music continues as the perspective shifts to a wide shot of a checkered stone plaza featuring a water feature, panning to the Gateway Arch in St. Louis. The camera then moves through a grassy park area, observing a group of people, including a woman in a light dress and a man with a camera, near the arch. The music fades as a young man with braided hair, wearing a white hoodie and beige pants, appears in a wooded area and addresses the camera directly with expressive hand gestures, posing the question, \"Wait, this reminds me, what if I were to just randomly get hurt while doing all this?\" He elaborates, \"Yo, what's up? You know I'm all about pushing the limits when it comes to flips and parkour. But let's talk real for a sec. When you're seriously hurt, your injury could be worth millions. Yeah, millions.\" A car sound briefly interrupts before he introduces, \"And that's where Morgan & Morgan comes in. They don't settle for lowball offers. Check this, they've crushed it lately for victims in life-threatening car crashes. Like 12 million in Florida, which is 34 times the highest insurance offer. Here's the best part, the fee is...\" He continues speaking as the video concludes, with a residential building and parked cars visible in the background, and a text overlay reading, 'Prior results do not guarantee a similar outcome.'",
+      "involved_entities": {
+        "Checkered stone plaza": {
+          "description": "A wide, open plaza with a geometric pattern of light and dark stone tiles, featuring a long, narrow water feature bordered by stone, serving as a transition area between park and urban zones.",
+          "attribute": "visual"
+        },
+        "Gateway Arch": {
+          "description": "A large, iconic stainless steel arch visible in the background during the sprint across the plaza, indicating the location is St. Louis.",
+          "attribute": "visual"
+        },
+        "Playground equipment": {
+          "description": "Colorful playground structures including wooden beams, nets, and a soft orange safety mat, located in a park setting with trees and a fence.",
+          "attribute": "visual"
+        },
+        "Woman in light dress": {
+          "description": "A woman wearing a light-colored, sleeveless dress, carrying a purple bag, seen walking in the park and interacting with the Spider-Man-costumed person.",
+          "attribute": "visual"
+        },
+        "Group of people in park": {
+          "description": "A small group including a woman in a light dress carrying a purple bag and a man with a camera wearing a denim jacket and glasses, standing on a paved path in a green park area, appearing to be part of a photoshoot or social gathering, with excited children's chatter heard from the group.",
+          "attribute": "audio-visual"
+        },
+        "Spider-Man-costumed person": {
+          "description": "A person wearing a red and black Spider-Man suit with web patterns and gloves, seen navigating playground equipment and landing on a safety mat, with focus on their legs and sneakers. A male voice, possibly theirs, is heard saying 'Hi guys' during interaction with a group.",
+          "attribute": "audio-visual"
+        },
+        "Young man in white hoodie": {
+          "description": "A young man with braided hair adorned with small yellow beads, wearing a white hoodie and beige pants, speaking directly to the camera in a wooded area, gesturing expressively. He delivers a monologue about the risks of parkour and the services of Morgan & Morgan, mentioning potential injury compensation and successful car crash settlements.",
+          "attribute": "audio-visual"
+        },
+        "Water feature": {
+          "description": "A long, narrow reflecting pool bordered by stone, running through the park area, which the Spider-Man-costumed person runs alongside.",
+          "attribute": "visual"
+        },
+        "Man with camera": {
+          "description": "A man wearing a denim jacket and glasses, holding a professional camera and a bag, standing in the park and engaging with the Spider-Man-costumed person.",
+          "attribute": "visual"
+        },
+        "Text overlay": {
+          "description": "A white on-screen text box appearing at the end of the video with the message 'Prior results do not guarantee a similar outcome,' serving as a disclaimer.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with an upbeat, energetic electronic music track as a first-person perspective shows a Spider-Man-costumed person carefully navigating a wooden playground structure, their red and black legs and sneakers visible. The camera then widens to show the person landing on a soft orange safety mat, interacting with a group of children whose excited chatter is heard over the music, and adults in a park. A male voice briefly greets, \"Hi guys.\" The scene transitions to a wide shot of a checkered stone plaza with a water feature, panning to reveal the iconic Gateway Arch in St. Louis. The camera moves through a grassy park area, capturing a group of people, including a woman in a light dress and a man with a camera, standing near the arch. The music fades as a young man with braided hair, wearing a white hoodie and beige pants, appears in a wooded area, speaking directly to the camera with expressive hand gestures. He asks, \"Wait, this reminds me, what if I were to just randomly get hurt while doing all this?\" He continues, explaining, \"Yo, what's up? You know I'm all about pushing the limits when it comes to flips and parkour. But let's talk real for a sec. When you're seriously hurt, your injury could be worth millions. Yeah, millions.\" A car sound briefly interrupts before he introduces, \"And that's where Morgan & Morgan comes in. They don't settle for lowball offers. Check this, they've crushed it lately for victims in life-threatening car crashes. Like 12 million in Florida, which is 34 times the highest insurance offer. Here's the best part, the fee is...\" He continues speaking as the video ends, with a residential building and parked cars in the distance, and a text overlay stating, 'Prior results do not guarantee a similar outcome.'"
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 9,
+      "end_minute": 9,
+      "summary": "A young man in a white hoodie and beige pants, standing in a grassy area with bare trees and residential buildings, promotes a \"free unless you win\" service, stating that a seriously injured case \"could be worth millions\" and viewers are \"only one click away from potentially changing your life.\" He directs viewers to \"start your claim now with Morgan and Morgan\" at \"www.forthepeople.com/hero,\" with a QR code and website URL appearing on screen, advising them to scan the code or check the description. He concludes with a call to \"stay safe out there and keep flipping the script on life,\" followed by a distinct 'thud' sound. The scene transitions to a split-screen showing the young man running past a red car while legal disclaimers for 'Morgan & Morgan' appear on the right. Upbeat electronic music begins as the perspective shifts to a first-person view of a skateboarder navigating a city street, with sounds of rolling and grinding. The skateboarder performs a trick near a Hooters restaurant, falls, and exclaims \"Oh!\" followed by a laugh. The camera follows the skateboarder through an outdoor patio area, a grassy park with a 'Modern Brewer' sign, and then rapidly descends a wet sidewalk. The music fades as the skateboarder enters a modern, multi-level indoor science museum or tech center, where ambient sounds of chatter and a distant hum replace the music. The camera pans across the brightly lit interior with glass walls, escalators, interactive exhibits, and a basketball hoop, before ending with a wide shot of the building’s entrance and the outside plaza.",
+      "involved_entities": {
+        "Wet sidewalk": {
+          "description": "A concrete sidewalk with visible puddles and reflections, indicating recent rain, bordered by grass and a stone wall, leading to the indoor science center, seen during the skateboarder's journey with electronic music.",
+          "attribute": "audio-visual"
+        },
+        "Skateboarder": {
+          "description": "A person in a black t-shirt and shorts, riding a skateboard through a city street, performing a trick near a Hooters restaurant, then falling and rolling on the pavement, accompanied by energetic electronic music, skateboard sounds, and a male exclamation during the fall.",
+          "attribute": "audio-visual"
+        },
+        "Indoor science center/museum": {
+          "description": "A modern, multi-level indoor space with glass walls, escalators, interactive exhibits, and a basketball hoop, featuring a bright, open design with visible structural elements and people walking around, accompanied by ambient sounds of people talking, light chatter, and a distant hum.",
+          "attribute": "audio-visual"
+        },
+        "City street intersection": {
+          "description": "A busy urban street with traffic lights, crosswalks, and vehicles, including a black SUV and a red car, with buildings like Hooters and a modern office structure in the background, seen during the skateboarder's journey with electronic music.",
+          "attribute": "audio-visual"
+        },
+        "Hooters restaurant": {
+          "description": "A building with an orange awning and the 'Hooters' logo in red letters, located at a city street intersection, seen during the skateboarder's journey with electronic music.",
+          "attribute": "audio-visual"
+        },
+        "Text overlay": {
+          "description": "A white on-screen text box appearing at the end of the video with the message 'Prior results do not guarantee a similar outcome,' serving as a disclaimer that appears while the young man is speaking.",
+          "attribute": "audio-visual"
+        },
+        "Website URL": {
+          "description": "A white text overlay displaying 'www.forthepople.com/hero' at the bottom of the screen, explicitly mentioned by the young man as a promotional or informational website.",
+          "attribute": "audio-visual"
+        },
+        "QR code": {
+          "description": "A black-and-white QR code displayed in the upper left corner of the screen, explicitly mentioned by the young man as a way to access more information.",
+          "attribute": "audio-visual"
+        },
+        "Modern Brewer": {
+          "description": "A building with a large sign reading 'MODERN BREWER' in white letters on a dark background, visible from a grassy park area, seen during the skateboarder's journey with electronic music.",
+          "attribute": "audio-visual"
+        },
+        "Young man in white hoodie": {
+          "description": "A young man with braided hair adorned with small yellow beads, wearing a white hoodie and beige pants, speaking directly to the camera in a clear, promotional male voice, gesturing expressively, and introducing the 'Morgan & Morgan' advertisement.",
+          "attribute": "audio-visual"
+        },
+        "Morgan & Morgan advertisement": {
+          "description": "A blue screen with white text advertising 'Morgan & Morgan,' America’s largest injury law firm, including legal disclaimers and contact information, introduced by the young man's speech.",
+          "attribute": "audio-visual"
+        },
+        "Outdoor patio area": {
+          "description": "A covered outdoor seating area with wooden tables and chairs, where people are seated and socializing, located adjacent to a stone wall and a 'Modern Brewer' building, seen during the skateboarder's journey with electronic music.",
+          "attribute": "audio-visual"
+        },
+        "Science center interior": {
+          "description": "A spacious, multi-level indoor environment with glass walls, escalators, interactive displays, and a basketball hoop, featuring modern design elements and people exploring the exhibits, accompanied by ambient sounds of people talking, light chatter, and a distant hum.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a young man in a white hoodie and beige pants, standing in a grassy area with bare trees and residential buildings, speaking directly to the camera in a clear, promotional male voice. He explains that their service is \"absolutely free unless you win,\" emphasizing \"no risk, just reward.\" As he continues, stating that a seriously injured case \"could be worth millions\" and that viewers are \"only one click away from potentially changing your life,\" the scene transitions to a suburban street with parked cars and apartment-style homes. He then directs viewers to \"start your claim now with Morgan and Morgan\" at \"www.forthepeople.com/hero,\" while a QR code and the website URL appear on screen, advising them to scan the code or check the description. He concludes with a call to \"stay safe out there and keep flipping the script on life,\" just as a distinct 'thud' sound is heard. The video then abruptly shifts to a split-screen, showing the young man running past a red car on the left, while a blue screen on the right displays legal disclaimers for 'Morgan & Morgan,' America’s largest injury law firm. Upbeat, energetic electronic music begins as the perspective changes to a first-person view of a skateboarder, accompanied by the sounds of rolling and grinding, navigating a city street. The skateboarder performs a trick near a Hooters restaurant, then falls and rolls on the pavement, eliciting a male exclamation of \"Oh!\" followed by a laugh. The camera continues to follow the skateboarder through an outdoor patio area with people seated at tables, then a grassy park with a stone wall and a 'Modern Brewer' sign, before rapidly descending a wet sidewalk. The electronic music fades out as the skateboarder enters a modern, multi-level indoor space resembling a science museum or tech center, where ambient sounds of people talking, light chatter, and a distant hum replace the music. The camera pans across the brightly lit interior, showcasing glass walls, escalators, interactive exhibits, a basketball hoop, and people walking, before ending with a wide shot of the building’s entrance and the outside plaza with parked cars and trees."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 10,
+      "end_minute": 10,
+      "summary": "A person in a Spider-Man suit, identified as Miles, exits a modern building with large glass doors onto a sidewalk, accompanied by the sounds of movement and a door closing. Miles, characterized by dreadlocks and a focused expression, walks briskly along a paved path adjacent to a black metal fence decorated with framed graduate photos, while a 'Quest list' overlay displays tasks such as 'grab backpacks' and 'make it to school on time.' Another individual, wearing a light blue hoodie and black pants and holding a phone, joins Miles. Miles, speaking with a male voice, humorously states, \"I actually hate Spider-Man, I promise,\" followed by a cough and a remark about not having consumed any liquids that day. The person in the hoodie laughs and exclaims, \"Spider-Man!\" Miles then lists \"Spider-Man, Miles, Uncle Aaron,\" eliciting laughter from both. Miles expresses concern, \"Wait, so what you're saying is that we can't get into the school?\" and inquires about the date, to which the person in the hoodie replies, \"Today is, I want to say, a tenth.\" Upon confirmation that it is a Saturday, Miles realizes, \"Oh, I guess there's no school today,\" as the person in the hoodie remarks, \"Done it again. Done it again.\" Amidst whoosh sounds suggesting rapid movement, a 'Channel violations' overlay appears, indicating a removed video titled 'Miles Late For School Compilation.' A deeper, echoing male voice, identifying as \"Miles from the future,\" addresses \"Miles from the past,\" announcing, \"YouTube took down your video and banned you for two weeks. That's right. It's time for you to wake up and do it again. Wake up!\" The setting is an overcast environment featuring trees, streetlights, a distant American flag, and a brick building, creating a campus-like atmosphere.",
+      "involved_entities": {
+        "Framed photos on fence": {
+          "description": "A series of white-framed photographs mounted on a black metal fence, each featuring a graduate with their name and a photo, suggesting a school or graduation event.",
+          "attribute": "visual"
+        },
+        "Quest list overlay": {
+          "description": "A white on-screen text box listing tasks such as 'grab backpacks,' 'make graduation photos cooler,' 'take photos with bride,' and 'Make it to school on time,' with checkmarks indicating progress.",
+          "attribute": "visual"
+        },
+        "Overcast sky": {
+          "description": "A cloudy, gray sky with diffused lighting, creating a muted atmosphere throughout the outdoor scenes.",
+          "attribute": "visual"
+        },
+        "American flag": {
+          "description": "A U.S. flag on a tall pole, visible in the background near the brick building, waving slightly in the breeze.",
+          "attribute": "visual"
+        },
+        "Channel violations overlay": {
+          "description": "A dark gray notification box displaying 'Active Community Guidelines strikes 1' and a removed video titled 'Miles Late For School Compilation,' with a timestamp of 25:40. This is directly referenced by a deeper, echoing male voice-over, identifying as 'Miles from the future,' who states that YouTube took down the video and banned 'Miles from the past' for two weeks.",
+          "attribute": "audio-visual"
+        },
+        "Spider-Man-costumed person": {
+          "description": "A person wearing a black and red Spider-Man suit with a prominent red spider emblem on the chest and dreadlocks, speaking directly to the camera with a male voice. They are identified as 'Miles' by a future voice-over and express playful dislike for Spider-Man, ask about school access and the current date, and sigh in exasperation.",
+          "attribute": "audio-visual"
+        },
+        "Streetlights": {
+          "description": "Modern, curved streetlights with multiple lamps, positioned along the sidewalk and parking area, adding to the urban campus environment.",
+          "attribute": "visual"
+        },
+        "Brick building": {
+          "description": "A large, brown brick building with a white door and multiple windows, visible in the background as the group walks along the sidewalk.",
+          "attribute": "visual"
+        },
+        "Person in light blue hoodie": {
+          "description": "An individual wearing a light blue hoodie, black pants, and a black cap, walking alongside the Spider-Man-costumed person while holding a phone. They speak with a male voice, laughing, confirming the date and day, and commenting 'Done it again.'",
+          "attribute": "audio-visual"
+        },
+        "Sidewalk": {
+          "description": "A wide, paved concrete sidewalk bordered by grass and trees, serving as the primary path for the characters' movement.",
+          "attribute": "visual"
+        },
+        "Black metal fence": {
+          "description": "A tall, black wrought-iron fence lining the sidewalk, adorned with framed graduate photos and separating the path from a grassy field.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens inside a modern building with large glass doors, as a person in a black and red Spider-Man suit, later identified as Miles, exits onto a sidewalk amidst sounds of movement and a door closing. Miles, with dreadlocks and a focused expression, walks briskly along a paved path beside a black metal fence adorned with framed graduate photos. A 'Quest list' overlay appears, detailing tasks like 'grab backpacks' and 'make it to school on time,' hinting at a time-sensitive mission. Miles is joined by another individual in a light blue hoodie and black pants, holding a phone. As they walk, Miles, speaking with a male voice, playfully declares, \"I actually hate Spider-Man, I promise,\" followed by a cough and a comment about not having drunk anything today. The person in the hoodie laughs and exclaims, \"Spider-Man!\" Miles then lists \"Spider-Man, Miles, Uncle Aaron,\" prompting laughter from both. Miles questions, \"Wait, so what you're saying is that we can't get into the school?\" with a sigh. He then asks about the current date, to which the person in the hoodie replies, \"Today is, I want to say, a tenth.\" Miles further inquires if it's a Saturday, which is confirmed. The scene maintains urgency with whoosh sounds, possibly indicating web-slinging or fast movement. Miles realizes, \"Oh, I guess there's no school today,\" while the person in the hoodie comments, \"Done it again. Done it again.\" As Miles turns to face the camera, a 'Channel violations' notification pops up, showing a removed video titled 'Miles Late For School Compilation.' A deeper, echoing male voice-over, identifying itself as \"Miles from the future,\" addresses \"Miles from the past,\" stating, \"YouTube took down your video and banned you for two weeks. That's right. It's time for you to wake up and do it again. Wake up!\" The overcast environment includes trees, streetlights, a distant American flag, and a brick building, all contributing to a campus-like setting."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 11,
+      "end_minute": 11,
+      "summary": "A person, Miles, clad in a white dress shirt and black pants, frantically navigates a cluttered apartment as an urgent voice commands, \"Wake up, Miles, do it again! Do it again!\" A 'Quest list overlay' appears, detailing tasks like 'grab backpacks' and 'Make it to school on time,' with 'Do it again?!?' highlighted. Miles checks their phone, displaying '4:25' and a 'school' notification, exclaiming, \"No, I'm gonna be late for school!\" A hip-hop beat with rap lyrics commences as Miles rushes through the living room, dislodging a pillow, and enters a bedroom featuring a red 'HOF' rug and scattered clothing, where they retrieve red and white sneakers. Miles muses, \"I wonder if I can get there without webs this time,\" while the rap continues with lyrics about \"3 AM\" and \"who to trust now.\" Amidst this, a voice inquires, \"What about my toothpaste?\" Miles then proceeds to a bathroom, adjusts a patterned tie in a mirror, yawns distinctly, and stretches. Returning to the main room, Miles observes, \"Man, I definitely should clean up my room.\" Moving through a kitchen area containing a laundry basket and trash can, Miles approaches a door. At the door, Miles presents their phone, showing a video call with a man with curly hair, requesting, \"can you come help me with this bad guy real quick.\" The man on the call cautions, \"You might get erased from the planet...\" and addresses Miles by name, \"You know, Miles.\" The dimly lit setting and hurried actions, amplified by the hip-hop track, underscore Miles's lateness for school and a potential larger mission.",
+      "involved_entities": {
+        "Quest list overlay": {
+          "description": "A white on-screen text box listing tasks such as 'grab backpacks,' 'make graduation photos cooler,' 'take photos with bride,' and 'Make it to school on time,' with checkmarks indicating progress, and the final item 'Do it again?!?' highlighted in blue, appearing as an urgent voice prompts 'Miles' to 'do it again!'",
+          "attribute": "audio-visual"
+        },
+        "HOF rug": {
+          "description": "A red rectangular rug with a large black and white graphic of a basketball player and the letters 'HOF' in bold white text, placed on the bedroom floor.",
+          "attribute": "visual"
+        },
+        "Door": {
+          "description": "A dark-colored door with a silver handle and a keyhole, where the person stops to make a video call, holding their phone up to the camera.",
+          "attribute": "visual"
+        },
+        "Person in white dress shirt": {
+          "description": "A person, identified as 'Miles,' wearing a white dress shirt and black pants, with dreadlocks, seen from a first-person perspective rushing frantically through a cluttered apartment. Miles exclaims, 'No, I'm gonna be late for school!' and later wonders aloud, 'I wonder if I can get there without webs this time,' hinting at a superhero identity. Miles also yawns and stretches, reflects, 'Man, I definitely should clean up my room,' and makes a video call asking, 'can you come help me with this bad guy real quick.'",
+          "attribute": "audio-visual"
+        },
+        "Red and white sneakers": {
+          "description": "A pair of athletic shoes with red uppers and white soles, placed on a red 'HOF' rug in the bedroom, picked up by the person.",
+          "attribute": "visual"
+        },
+        "Phone screen": {
+          "description": "A smartphone displaying the time '4:25' and a notification for 'school,' prompting the person to exclaim, 'No, I'm gonna be late for school!' It later shows a video call with a man with curly hair wearing a dark jacket, where the person asks, 'can you come help me with this bad guy real quick,' and the man responds, 'You might get erased from the planet...' and addresses the person as 'Miles.'",
+          "attribute": "audio-visual"
+        },
+        "Cluttered apartment": {
+          "description": "A messy living space with a gray couch, scattered pillows, a red 'HOF' rug, a black office chair, a bed with disheveled blankets, and various items strewn across the floor, including shoes and clothes, through which the person rushes, causing sounds of movement and knocking over a pillow, all while hip-hop music plays and a voice asks, 'What about my toothpaste?'",
+          "attribute": "audio-visual"
+        },
+        "Kitchen area": {
+          "description": "A kitchen with a countertop, a stainless steel trash can, a white laundry basket, and a microwave, visible as the person walks through the apartment.",
+          "attribute": "visual"
+        },
+        "Patterned tie": {
+          "description": "A dark-colored tie with a repeating geometric or floral pattern, worn loosely around the neck, adjusted in front of a bathroom mirror.",
+          "attribute": "visual"
+        },
+        "Bathroom mirror": {
+          "description": "A large mirror in a bathroom with white tiled walls, reflecting the person adjusting a patterned tie while wearing a white dress shirt and black pants, accompanied by a distinct yawn and stretch.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a first-person perspective of a person, later identified as Miles, in a white dress shirt and black pants, rushing frantically through a cluttered apartment. An urgent voice prompts, \"Wake up, Miles, do it again! Do it again!\" as a 'Quest list overlay' appears on screen, listing tasks like 'grab backpacks' and 'Make it to school on time,' with the final item 'Do it again?!?' highlighted. Miles checks their phone, which displays '4:25' and a notification for 'school,' exclaiming, \"No, I'm gonna be late for school!\" A hip-hop beat with rap lyrics begins to play as Miles scrambles through a messy living room, knocking over a pillow, then rushes into a bedroom with a red 'HOF' rug and scattered clothes, grabbing a pair of red and white sneakers. Miles then wonders aloud, \"I wonder if I can get there without webs this time,\" hinting at a superhero identity. As the rap music continues with lyrics about being \"3 AM\" and \"who to trust now,\" a voice is heard asking, \"What about my toothpaste?\" Miles then moves to a bathroom, adjusting a patterned tie in front of a mirror, letting out a distinct yawn and stretching. Returning to the room, Miles reflects on the mess, saying, \"Man, I definitely should clean up my room.\" Miles then walks through a kitchen area with a laundry basket and trash can, heading toward a door. At the door, Miles holds up their phone, showing a video call with a man with curly hair, asking, \"can you come help me with this bad guy real quick.\" The man on the call warns, \"You might get erased from the planet...\" and addresses Miles by name, \"You know, Miles.\" The dimly lit environment and frantic pace, underscored by the hip-hop track, emphasize the urgency of Miles being late for school and potentially a larger mission."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 12,
+      "end_minute": 13,
+      "summary": "From a first-person perspective, a person in a white dress shirt and black pants, with dreadlocks, receives a video call on their phone from a man in a dark jacket asking for help with a \"bad guy.\" The person agrees, muttering, \"I should have time for that,\" as an upbeat, distorted hip-hop beat starts. They rush through a cluttered apartment, adjusting a patterned tie in a bathroom mirror while telling someone, \"Oh, hey boy, you stay right there, I'll be right back.\" The person quickly dons a black and red Spider-Man suit and leaps out a window. Now the Spider-Man-costumed person, they perform acrobatic swings and jumps across an industrial rooftop under an overcast sky, with concrete barriers and graffiti visible. A voice remarks, \"Oh, another one of these guys, huh? This shouldn't take long.\" The person descends into a parking lot with orange cones, navigates a graffiti-filled underpass, and emerges into a construction site with orange safety barriers and scattered bricks, running and leaping over obstacles. The voice continues, \"It's 3 AM, I just touched down, wanna call me the bus down,\" and \"I be painting the city.\" The person then lands near a group of people in a park, including a woman in a light dress and a man with a camera, appearing ready to assist. On-screen text appears, reading 'now to just take this shortcut but uh', followed by the person stating, \"Now to just take this shortcut, but uh... I gotta go to my favorite spot real quick.\" They run along a concrete ledge, with their red and white sneakers and black gloves with red accents visible. Another text overlay reads 'I would be Spider-Man if I didn’t do Spider-Man things come on,' which the person speaks aloud: \"Alright, I mean, I wouldn't be Spider-Man if I didn't do Spider-Man things, come on.\" They jump down to a grassy area near a tree. The video concludes with a text overlay stating, \"Prior results do not guarantee a similar outcome,\" alongside a QR code and the website 'www.forthepople.com/hero.'",
+      "involved_entities": {
+        "Red and white sneakers": {
+          "description": "A pair of athletic shoes with red uppers and white soles, visible on the person’s feet throughout the sequence, providing a consistent visual anchor.",
+          "attribute": "visual"
+        },
+        "Spider-Man-costumed person": {
+          "description": "A person wearing a black and red Spider-Man suit with red and white sneakers and black gloves with red accents, performing acrobatic movements across rooftops, ledges, and urban structures, viewed from a first-person perspective. A male voice, presumably the person, narrates his actions with a playful and confident tone, stating, 'Now to just take this shortcut, but uh... I gotta go to my favorite spot real quick,' and later, 'I wouldn't be Spider-Man if I didn't do Spider-Man things, come on,' while sounds of his movement and impacts accompany the action.",
+          "attribute": "audio-visual"
+        },
+        "Underpass": {
+          "description": "A dimly lit concrete tunnel with graffiti and structural beams, briefly visible during the descent from the rooftop.",
+          "attribute": "visual"
+        },
+        "Construction site": {
+          "description": "An outdoor area with orange safety barriers, scattered bricks, concrete blocks, and debris, where the Spider-Man-costumed person runs and leaps over obstacles.",
+          "attribute": "visual"
+        },
+        "Patterned tie": {
+          "description": "A dark-colored tie with a repeating geometric or floral pattern, worn loosely around the neck, adjusted in front of a bathroom mirror.",
+          "attribute": "visual"
+        },
+        "Bathroom mirror": {
+          "description": "A large mirror in a bathroom with white tiled walls, reflecting the person adjusting a patterned tie while wearing a white dress shirt and black pants.",
+          "attribute": "visual"
+        },
+        "Text overlay": {
+          "description": "A white on-screen text box appearing at the end of the video with the message 'Prior results do not guarantee a similar outcome,' serving as a disclaimer.",
+          "attribute": "visual"
+        },
+        "HOF rug": {
+          "description": "A red rectangular rug with a large black and white graphic of a basketball player and the letters 'HOF' in bold white text, placed on the bedroom floor.",
+          "attribute": "visual"
+        },
+        "Door": {
+          "description": "A dark-colored door with a silver handle and a keyhole, where the person stops to make a video call, holding their phone up to the camera.",
+          "attribute": "visual"
+        },
+        "Website URL": {
+          "description": "A white text overlay displaying 'www.forthepople.com/hero' at the bottom of the screen, indicating a promotional or informational website.",
+          "attribute": "visual"
+        },
+        "QR code": {
+          "description": "A black-and-white QR code displayed in the upper left corner of the screen, likely linking to additional information or a website.",
+          "attribute": "visual"
+        },
+        "Parking lot": {
+          "description": "An open asphalt area with scattered vehicles and orange traffic cones, visible during the descent from the rooftop.",
+          "attribute": "visual"
+        },
+        "Person in white dress shirt": {
+          "description": "A person with dreadlocks wearing a white dress shirt and black pants, seen from a first-person perspective rushing through a cluttered apartment, adjusting a patterned tie, and making a video call, who mutters 'I should have time for that,' and later 'Now where did I put my suit' and 'oh boy you stay right there I'll be right back' while searching.",
+          "attribute": "audio-visual"
+        },
+        "Group of people in park": {
+          "description": "A small group including a woman in a light dress carrying a purple bag and a man with a camera wearing a denim jacket and glasses, standing on a paved path in a green park area, appearing to be part of a photoshoot or social gathering.",
+          "attribute": "visual"
+        },
+        "Phone screen": {
+          "description": "A smartphone displaying a video call with a man with curly hair wearing a dark jacket, who says 'can you come help me with this bad guy real quick,' with the text 'can you come help me with this bad guy real quick' overlaid.",
+          "attribute": "audio-visual"
+        },
+        "Cluttered apartment": {
+          "description": "A messy living space with a gray couch, scattered pillows, a red 'HOF' rug, a black office chair, a bed with disheveled blankets, and various items strewn across the floor, including shoes and clothes.",
+          "attribute": "visual"
+        },
+        "Kitchen area": {
+          "description": "A kitchen with a countertop, a stainless steel trash can, a white laundry basket, and a microwave, visible as the person walks through the apartment.",
+          "attribute": "visual"
+        },
+        "Rooftop environment": {
+          "description": "An industrial rooftop with concrete barriers, metal vents, and gravel surfaces, transitioning into urban walkways and ledges with white railings and brick walls.",
+          "attribute": "visual"
+        },
+        "Overcast sky": {
+          "description": "A cloudy, gray sky with diffused lighting, creating a muted atmosphere throughout the outdoor scenes.",
+          "attribute": "visual"
+        },
+        "On-screen text": {
+          "description": "White text overlays appearing during the video, including phrases like 'now to just take this shortcut but uh' and 'I would be Spider-Man if I didn’t do Spider-Man things come on,' which are directly spoken by the Spider-Man-costumed person, adding narrative context and reinforcing his playful persona.",
+          "attribute": "audio-visual"
+        },
+        "Balcony railing": {
+          "description": "A white wooden railing on a balcony overlooking a green lawn, from which the person jumps into the yard.",
+          "attribute": "visual"
+        },
+        "Brick building": {
+          "description": "A large, brown brick building with a white door and multiple windows, visible in the background as the person navigates the urban environment.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "From a first-person perspective, a person with dreadlocks in a white dress shirt and black pants holds a phone displaying a video call where a man with curly hair in a dark jacket asks, \"can you come help me with this bad guy real quick.\" The person mutters, \"I should have time for that,\" as an upbeat, distorted hip-hop beat begins. Rushing through a cluttered apartment with a gray couch, HOF rug, and disheveled bed, the person mutters, \"Now where did I put my suit... Oh, hey boy, you stay right there, I'll be right back,\" while adjusting a patterned tie in a bathroom mirror. They quickly find and don a black and red Spider-Man suit with a red spider emblem, then leap out a window. Now fully in costume, the Spider-Man-costumed person performs acrobatic swings and jumps across an industrial rooftop with concrete barriers and graffiti. The energetic music continues as a voice remarks, \"Oh, another one of these guys, huh? This shouldn't take long.\" They descend into a parking lot with orange cones, navigate a graffiti-filled underpass, and emerge into a construction site with orange safety barriers and scattered bricks, running and leaping over obstacles. The voice adds, \"It's 3 AM, I just touched down, wanna call me the bus down,\" and \"I be painting the city.\" Finally, they land near a group of people in a park, including a woman in a light dress and a man with a camera, gesturing as if ready to assist. The video concludes with a text overlay stating, \"Prior results do not guarantee a similar outcome,\" alongside a QR code and the website 'www.forthepople.com/hero.'",
+        "The video opens with a first-person perspective of a person in a black and red Spider-Man suit, beginning on an industrial rooftop with a view of a cityscape under an overcast sky. An intense, rhythmic electronic music track with synth elements immediately sets a dynamic tone, accompanying the person's acrobatic descent. Sounds of movement and impacts are synchronized with the beat as they quickly pan and descend a concrete structure, navigating a narrow ledge with a chain-link fence and yellow-striped barriers. They leap across gaps between buildings, using walls and railings for momentum, showcasing acrobatic movements. The environment shifts from industrial rooftops to a more urban setting with brick buildings, white railings, and paved walkways. On-screen text appears, reading 'now to just take this shortcut but uh', which is immediately followed by a male voice, presumably the Spider-Man-costumed person, stating, \"Now to just take this shortcut, but uh... I gotta go to my favorite spot real quick.\" He continues running along a concrete ledge overlooking a street with parked cars and trees, his red and white sneakers and black gloves with red accents clearly visible. Another on-screen text appears, 'I would be Spider-Man if I didn’t do Spider-Man things come on,' which the male voice then speaks aloud: \"Alright, I mean, I wouldn't be Spider-Man if I didn't do Spider-Man things, come on.\" He jumps down to a lower grassy area near a tree. The music shifts to a more melodic, almost orchestral synth sound, maintaining its rhythmic intensity as the sequence concludes, emphasizing agility and urban exploration under the natural, late afternoon or early evening light."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 14,
+      "end_minute": 15,
+      "summary": "Set to an energetic, electronic music track, a Spider-Man-costumed person, initially viewed from a first-person perspective on a concrete staircase near a brick building with an American flag, descends the stairs with audible footsteps and grunts. The person then navigates a series of urban environments, including leaping across gaps on a rooftop with concrete barriers and metal railings, landing on a paved area near a white car, and running through streets lined with brick buildings. In a playful encounter, the Spider-Man-costumed person pushes a man in a gray hoodie attempting to slide down a concrete staircase, causing him to fall, and then jokingly suggests a game of 'catch and slide.' The scene transitions to a parking lot with a Sysco truck, followed by a wide, checkered stone plaza featuring a long water feature, where the Spider-Man-costumed person runs past a group of people, including a woman in a light dress and a man with a camera. Continuing through a park area with trees and picnic tables, passing a 'Modern Brewer' building and an outdoor patio, the person remarks on their identity potentially being revealed. The chase continues across a plaza with the Gateway Arch in the background, alongside a person in a light blue hoodie. The video concludes with the Spider-Man-costumed person running toward a science center with glass walls, referencing having science and math classes, as on-screen text appears with similar statements. The entire sequence is characterized by bright, sunny lighting, clear shadows, vibrant colors, and fast, dynamic camera movements.",
+      "involved_entities": {
+        "Man in gray hoodie": {
+          "description": "A man wearing a gray hoodie and dark pants, attempting to slide down a concrete staircase, who is playfully pushed by the Spider-Man-costumed person and falls, lying on the ground laughing, indicating a lighthearted interaction.",
+          "attribute": "audio-visual"
+        },
+        "Checkered stone plaza": {
+          "description": "A wide, open plaza with a geometric pattern of light and dark stone tiles, featuring a long, narrow water feature bordered by stone, serving as a transition area between park and urban zones.",
+          "attribute": "visual"
+        },
+        "Concrete staircase": {
+          "description": "A wide, outdoor concrete staircase with metal railings, where the man in the gray hoodie attempts to slide and is pushed by the Spider-Man-costumed person.",
+          "attribute": "visual"
+        },
+        "On-screen text": {
+          "description": "White text overlays appearing during the video, including phrases like 'I just made it to the class' and 'oh that reminds me I have science class... math class...', adding narrative context.",
+          "attribute": "visual"
+        },
+        "Parking lot": {
+          "description": "An open asphalt area with scattered vehicles and orange traffic cones, visible during the descent from the rooftop.",
+          "attribute": "visual"
+        },
+        "Spider-Man-costumed person": {
+          "description": "A person wearing a black and red Spider-Man suit with red and white sneakers and black gloves with red accents, performing acrobatic movements across rooftops, ledges, and urban structures, viewed from a first-person perspective. This person speaks, saying 'thank you so much' at the beginning, later commenting 'Man, if these people don't know my identity, they'll definitely know by now,' and finally exclaiming 'never reminds me, I have science class, math class,' all while their movements are accompanied by grunts and distinct footsteps.",
+          "attribute": "audio-visual"
+        },
+        "Water feature": {
+          "description": "A long, narrow reflecting pool bordered by stone, running through the park area, which the Spider-Man-costumed person runs alongside.",
+          "attribute": "visual"
+        },
+        "Sysco truck": {
+          "description": "A large white delivery truck with 'Sysco' branding and a red heart logo, parked in the background of the parking lot area.",
+          "attribute": "visual"
+        },
+        "Brick building": {
+          "description": "A large, brown brick building with a white door and multiple windows, visible in the background as the person navigates the urban environment.",
+          "attribute": "visual"
+        },
+        "Rooftop environment": {
+          "description": "An industrial rooftop with concrete barriers, metal vents, and gravel surfaces, transitioning into urban walkways and ledges with white railings and brick walls.",
+          "attribute": "visual"
+        },
+        "Glass entrance building": {
+          "description": "A modern building with large glass doors and reflective surfaces, featuring a clean, minimalist lobby with minimal furnishings, entered by the Spider-Man-costumed person at the beginning of the segment.",
+          "attribute": "visual"
+        },
+        "Gateway Arch": {
+          "description": "A large, iconic stainless steel arch visible in the background during the sprint across the plaza, indicating the location is St. Louis.",
+          "attribute": "visual"
+        },
+        "Park pavilion": {
+          "description": "A covered outdoor structure with picnic tables and wooden beams, located in a grassy park area with trees and pathways.",
+          "attribute": "visual"
+        },
+        "Man with camera": {
+          "description": "A man wearing a denim jacket and glasses, holding a professional camera and a bag, standing in the park and engaging with the Spider-Man-costumed person.",
+          "attribute": "visual"
+        },
+        "American flag": {
+          "description": "A U.S. flag on a tall pole, visible in the background near the brick building, waving slightly in the breeze.",
+          "attribute": "visual"
+        },
+        "Modern Brewer": {
+          "description": "A building with a large sign reading 'MODERN BREWER' in white letters on a dark background, visible from a grassy park area.",
+          "attribute": "visual"
+        },
+        "Woman in light dress": {
+          "description": "A woman wearing a light-colored, sleeveless dress, carrying a purple bag, seen walking in the park and interacting with the Spider-Man-costumed person.",
+          "attribute": "visual"
+        },
+        "Group of people in park": {
+          "description": "A small group including a woman in a light dress carrying a purple bag and a man with a camera wearing a denim jacket and glasses, standing on a paved path in a green park area, appearing to be part of a photoshoot or social gathering.",
+          "attribute": "visual"
+        },
+        "Outdoor patio area": {
+          "description": "A covered outdoor seating area with wooden tables and chairs, where people are seated and socializing, located adjacent to a stone wall and a 'Modern Brewer' building.",
+          "attribute": "visual"
+        },
+        "Science center interior": {
+          "description": "A spacious, multi-level indoor environment with glass walls, escalators, interactive displays, and a basketball hoop, featuring modern design elements and people exploring the exhibits.",
+          "attribute": "visual"
+        },
+        "Person in light blue hoodie": {
+          "description": "An individual wearing a light blue hoodie, black pants, and a black cap, walking alongside the Spider-Man-costumed person while holding a phone and occasionally looking at it.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with an energetic, electronic, and slightly playful music track as a Spider-Man-costumed person, viewed from a first-person perspective, performs an acrobatic dunk on a basketball hoop under a bright blue sky with suburban houses in the background. A male voice, likely the Spider-Man, playfully remarks, \"Hey, maybe if this whole Spider-Man thing doesn't work out, maybe I can try the NBA,\" a sentiment echoed by on-screen text. The camera then tilts upward as the person climbs a chain-link fence, revealing a locked gate, prompting the Spider-Man to exclaim, \"Ah, of course it's locked. Why wouldn't it be?\" He then descends a metal staircase. The scene shifts to a rooftop environment with concrete barriers and metal railings, where the person leaps across gaps and navigates narrow ledges, maintaining the energetic pace set by the music. Jumping from a rooftop onto a paved area near a white car, he continues running through an urban setting with brick buildings and metal railings. The Spider-Man-costumed person encounters a man in a gray hoodie attempting to slide down a concrete staircase; the Spider-Man playfully pushes him, causing him to fall. The man lies on the ground, laughing, as the Spider-Man, with on-screen text suggesting \"let's play a game of extreme slide,\" says, \"Alright, let's play a game of catch and slide. You run, and I'll rest my legs.\" The environment transitions to a parking lot with scattered vehicles and a Sysco truck visible in the background. The person then runs across a wide, checkered stone plaza with a long water feature, heading toward a modern building with glass doors, all under bright, sunny lighting with clear shadows and vibrant colors, accompanied by the continuous upbeat music.",
+        "The video opens with upbeat electronic music featuring a strong beat and synth melodies, as a person in a black and red Spider-Man suit, viewed from a first-person perspective, stands on a concrete staircase near a brick building with a white door and an American flag. The Spider-Man-costumed person says 'thank you so much' before swiftly descending the stairs with accompanying footsteps and grunts, running across a paved area toward a rooftop. They leap from a ledge, landing on a gravel rooftop with metal vents and concrete barriers, then jump down to a lower level near a green dumpster and a white railing. The camera tilts wildly as they navigate a narrow ledge, dropping to a sidewalk near a modern building with large glass doors. The Spider-Man-costumed person sprints through a wide, open checkered stone plaza with a long water feature, passing a group of people including a woman in a light dress carrying a purple bag and a man with a camera wearing a denim jacket. As they continue running through a park area with trees and picnic tables, passing a 'Modern Brewer' building and a covered outdoor patio, the Spider-Man-costumed person remarks, 'Man, if these people don't know my identity, they'll definitely know by now.' They then sprint across a plaza with the iconic Gateway Arch visible in the background, running alongside a person in a light blue hoodie holding a phone. The video concludes with the Spider-Man-costumed person running toward a science center with glass walls and escalators, stating 'never reminds me, I have science class, math class,' as on-screen text appears saying 'I just made it to the class' and 'oh that reminds me I have science class... math class...'. The entire sequence unfolds under bright, sunny, clear blue skies with fast, dynamic camera movement, all set to the continuous electronic music."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 16,
+      "end_minute": 16,
+      "summary": "On a bright, sunny day, a Spider-Man-costumed person, identified by their black and red suit, red and white sneakers, and black gloves with red accents, sprints along a paved sidewalk, their internal monologue expressing urgency about a test on Wednesday, a sentiment echoed by on-screen text. Upbeat rap music plays as the character navigates a campus-like environment featuring brick buildings and bare trees, passing pedestrians such as a man on a bicycle and a group including a woman in a light dress and a man with a camera. The rap continues with lyrics about \"coldness,\" \"flames,\" \"lava,\" and the \"power\" of the mic while the person sprints across a wide checkered stone plaza with a long water feature, the Gateway Arch visible in the background. The character leaps over a low concrete barrier and descends stairs into a covered walkway, the rap shifting to themes of life improving and avoiding stress. The scene transitions indoors to a modern building with a glass entrance and clean lobby, where the Spider-Man-costumed person approaches vending machines. The rap briefly pauses before resuming with lyrics about \"role play\" and \"family drama\" as they insert coins into a Coca-Cola vending machine, select a drink, and retrieve a bottle. The camera then focuses on a restroom, where the person enters a stall, and the video concludes with a close-up of the restroom stall door closing, the rap music still audible. The lighting transitions from bright natural outdoor light to artificial indoor lighting.",
+      "involved_entities": {
+        "Checkered stone plaza": {
+          "description": "A wide, open plaza with a geometric pattern of light and dark stone tiles, featuring a long, narrow water feature bordered by stone, serving as a transition area between park and urban zones.",
+          "attribute": "visual"
+        },
+        "Gateway Arch": {
+          "description": "A large, iconic stainless steel arch visible in the background during the sprint across the plaza, indicating the location is St. Louis.",
+          "attribute": "visual"
+        },
+        "Coca-Cola vending machine": {
+          "description": "A red and white vending machine with a glass front displaying various beverages, including Coca-Cola, water, and other soft drinks, located in the building lobby.",
+          "attribute": "visual"
+        },
+        "On-screen text": {
+          "description": "White text overlays appearing during the video, including phrases like 'is today Wednesday' and 'oh I gotta hurry up,' adding narrative context.",
+          "attribute": "visual"
+        },
+        "Woman in light dress": {
+          "description": "A woman wearing a light-colored, sleeveless dress, carrying a purple bag, seen walking in the park and interacting with the Spider-Man-costumed person.",
+          "attribute": "visual"
+        },
+        "Restroom stall door": {
+          "description": "A white, rectangular door with a metal handle, located inside the restroom, which the Spider-Man-costumed person closes after entering a stall.",
+          "attribute": "visual"
+        },
+        "Group of people in park": {
+          "description": "A small group including a woman in a light dress carrying a purple bag and a man with a camera wearing a denim jacket and glasses, standing on a paved path in a green park area, appearing to be part of a photoshoot or social gathering.",
+          "attribute": "visual"
+        },
+        "Spider-Man-costumed person": {
+          "description": "A person wearing a black and red Spider-Man suit with red and white sneakers and black gloves with red accents, performing acrobatic movements across rooftops, ledges, and urban structures, viewed from a first-person perspective. This character is heard speaking an internal monologue, questioning 'Wait, is it Wednesday? That means the test is today. Oh, I gotta hurry up,' and is also the source of the energetic rap music playing throughout the segment, with lyrics about 'power,' 'coldness,' 'flames,' 'lava,' and life getting 'better and better.'",
+          "attribute": "audio-visual"
+        },
+        "Vending machines": {
+          "description": "A row of vending machines, including a red Coca-Cola machine, located in the building lobby, where the person inserts coins and retrieves a drink.",
+          "attribute": "visual"
+        },
+        "Water feature": {
+          "description": "A long, narrow reflecting pool bordered by stone, running through the park area, which the Spider-Man-costumed person runs alongside.",
+          "attribute": "visual"
+        },
+        "Brick building": {
+          "description": "A large, brown brick building with a white door and multiple windows, visible in the background as the person navigates the urban environment.",
+          "attribute": "visual"
+        },
+        "Man with camera": {
+          "description": "A man wearing a denim jacket and glasses, holding a professional camera and a bag, standing in the park and engaging with the Spider-Man-costumed person.",
+          "attribute": "visual"
+        },
+        "Glass entrance building": {
+          "description": "A modern building with large glass doors and reflective surfaces, featuring a clean, minimalist lobby with minimal furnishings, entered by the Spider-Man-costumed person at the beginning of the segment.",
+          "attribute": "visual"
+        },
+        "Restroom": {
+          "description": "A clean, tiled restroom with urinals, sinks, and mirrors, entered by the Spider-Man-costumed person after retrieving the drink.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a first-person perspective of a person in a black and red Spider-Man suit, wearing red and white sneakers and black gloves with red accents, sprinting along a paved sidewalk on a bright, sunny day. The character's internal monologue is heard, questioning \"Wait, is it Wednesday? That means the test is today. Oh, I gotta hurry up,\" which is reinforced by on-screen text. Upbeat rap music with a strong beat plays as the Spider-Man-costumed person navigates a campus-like setting with brick buildings and bare trees, passing scattered pedestrians including a man on a bicycle and a group with a woman in a light dress and a man with a camera. The rap continues with lyrics about \"coldness,\" \"flames,\" \"lava,\" and the \"power\" of the mic, as the person sprints across a wide checkered stone plaza with a long water feature, the iconic Gateway Arch visible in the background, confirming the St. Louis location. The character leaps over a low concrete barrier and descends stairs into a covered walkway, the rap continuing with themes of life getting \"better and better\" and not being \"stressed.\" The scene transitions to the interior of a modern building with glass doors and a clean lobby, where the Spider-Man-costumed person approaches a row of vending machines. The rap briefly pauses before resuming with lyrics about \"role play\" and \"family drama\" as they insert coins into a Coca-Cola machine, select a drink, and retrieve a bottle. The camera then moves to a restroom, where the person enters a stall, and the video ends with a close-up of the restroom door closing, the rap still playing. The lighting shifts from bright natural outdoors to artificial indoor lighting."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 17,
+      "end_minute": 17,
+      "summary": "A person, initially in a Spider-Man suit, enters a restroom, sheds the costume to reveal a black hoodie, red and blue lettering, and red and white sneakers, all accompanied by energetic rap music with lyrics about \"heat, flames, lava.\" After a brief mirror check, they exit the restroom and proceed down a long, gray and white tiled hallway towards a classroom. Inside, the person sits at a desk, checks their phone displaying 3:52, and expresses surprise, \"Wait, what? I missed it?\" realizing they've missed class. Resigned, they declare, \"Well, I guess that means I gotta go back home now.\" Standing up, they look out a large window at a clear blue sky over a cityscape. As they leave the classroom, passing a whiteboard, they playfully announce, \"Might as well do a little ins-out. As always,\" followed by, \"See you guys later, peace, I should have time for that.\" The camera follows them down the hallway, showcasing the empty classroom and the building's bright, modern interior as the rap music fades.",
+      "involved_entities": {
+        "Hallway": {
+          "description": "A long, empty hallway with gray and white tiled floors, white walls, and fluorescent lighting, leading to the classroom.",
+          "attribute": "visual"
+        },
+        "Spider-Man-costumed person": {
+          "description": "A person wearing a black and red Spider-Man suit with red and white sneakers and black gloves with red accents, performing acrobatic movements across rooftops, ledges, and urban structures, viewed from a first-person perspective.",
+          "attribute": "visual"
+        },
+        "Classroom": {
+          "description": "An empty classroom with long wooden tables, blue chairs, a whiteboard with class information, and large windows showing a cityscape.",
+          "attribute": "visual"
+        },
+        "Phone screen": {
+          "description": "A smartphone displaying the time 3:52, held by the person as they sit in the classroom, indicating they missed class.",
+          "attribute": "visual"
+        },
+        "Whiteboard": {
+          "description": "A whiteboard in the classroom with written class information, including 'TN 1403 - Business and Entrepreneurship and Innovation' and 'S. D. Draper, Tuesday, 4:30-7 pm, MAB 300 Room 101'.",
+          "attribute": "visual"
+        },
+        "Restroom": {
+          "description": "A clean, tiled restroom with urinals, sinks, and mirrors, entered by the Spider-Man-costumed person after retrieving the drink.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video begins with a person in a black and red Spider-Man suit entering a restroom, quickly removing the suit to reveal a black hoodie with red and blue lettering and red and white sneakers, all set to the backdrop of energetic rap music featuring a male voice rapping about \"heat, flames, lava.\" After adjusting their hair and looking in the mirror, they exit the restroom. The scene transitions to a long, empty hallway with gray and white tiled floors, leading to a classroom. Inside the classroom, the person sits at a desk, checking their phone, which displays the time 3:52. The rap music continues as the person expresses surprise, exclaiming, \"Wait, what? I missed it?\" upon realizing they missed class. With a resigned tone, they state, \"Well, I guess that means I gotta go back home now.\" Deciding to leave, they stand up, glancing out a large window at a cityscape under a clear blue sky. As they walk out of the classroom, passing a whiteboard with class information, the person playfully remarks, \"Might as well do a little ins-out. As always,\" before saying, \"See you guys later, peace, I should have time for that.\" The camera follows them down the hallway, capturing the empty classroom and the bright, modern interior of the building, with the rap music fading out."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Spider-Man-costumed person": "A person wearing a black and red Spider-Man suit with red and white sneakers and black gloves with red accents, performing acrobatic movements across rooftops, ledges, and urban structures, viewed from a first-person perspective.",
+    "Balcony railing": "A white wooden railing on a balcony overlooking a green lawn, from which the person jumps into the yard.",
+    "Quest list overlay": "A white on-screen text box listing tasks such as 'grab backpacks,' 'make graduation photos cooler,' 'take photos with bride,' and 'Make it to school on time,' with checkmarks indicating progress, and the final item 'Do it again?!?' highlighted in blue, appearing as an urgent voice prompts 'Miles' to 'do it again!'",
+    "Playground equipment": "Colorful playground structures including wooden beams, nets, and a soft orange safety mat, located in a park setting with trees and a fence.",
+    "Brick building": "A large, brown brick building with a white door and multiple windows, visible in the background as the person navigates the urban environment.",
+    "Parking lot": "An open asphalt area with scattered vehicles and orange traffic cones, visible during the descent from the rooftop.",
+    "Park pavilion": "A covered outdoor structure with picnic tables and wooden beams, located in a grassy park area with trees and pathways.",
+    "Rooftop environment": "An industrial rooftop with concrete barriers, metal vents, and gravel surfaces, transitioning into urban walkways and ledges with white railings and brick walls.",
+    "Underpass": "A dimly lit concrete tunnel with graffiti and structural beams, briefly visible during the descent from the rooftop.",
+    "Glass entrance building": "A modern building with large glass doors and reflective surfaces, featuring a clean, minimalist lobby with minimal furnishings, entered by the Spider-Man-costumed person at the beginning of the segment.",
+    "Woman in light dress": "A woman wearing a light-colored, sleeveless dress, carrying a purple bag, seen walking in the park and interacting with the Spider-Man-costumed person.",
+    "Group of people in park": "A small group including a woman in a light dress carrying a purple bag and a man with a camera wearing a denim jacket and glasses, standing on a paved path in a green park area, appearing to be part of a photoshoot or social gathering.",
+    "Man with camera": "A man wearing a denim jacket and glasses, holding a professional camera and a bag, standing in the park and engaging with the Spider-Man-costumed person.",
+    "Checkered stone plaza": "A wide, open plaza with a geometric pattern of light and dark stone tiles, featuring a long, narrow water feature bordered by stone, serving as a transition area between park and urban zones.",
+    "Gateway Arch": "A large, iconic stainless steel arch visible in the background during the sprint across the plaza, indicating the location is St. Louis.",
+    "Water feature": "A long, narrow reflecting pool bordered by stone, running through the park area, which the Spider-Man-costumed person runs alongside.",
+    "Young man in white hoodie": "A young man with braided hair adorned with small yellow beads, wearing a white hoodie and beige pants, speaking directly to the camera in a clear, promotional male voice, gesturing expressively, and introducing the 'Morgan & Morgan' advertisement.",
+    "Text overlay": "A white on-screen text box appearing at the end of the video with the message 'Prior results do not guarantee a similar outcome,' serving as a disclaimer.",
+    "Wet sidewalk": "A concrete sidewalk with visible puddles and reflections, indicating recent rain, bordered by grass and a stone wall, leading to the indoor science center, seen during the skateboarder's journey with electronic music.",
+    "Skateboarder": "A person in a black t-shirt and shorts, riding a skateboard through a city street, performing a trick near a Hooters restaurant, then falling and rolling on the pavement, accompanied by energetic electronic music, skateboard sounds, and a male exclamation during the fall.",
+    "Indoor science center/museum": "A modern, multi-level indoor space with glass walls, escalators, interactive exhibits, and a basketball hoop, featuring a bright, open design with visible structural elements and people walking around, accompanied by ambient sounds of people talking, light chatter, and a distant hum.",
+    "City street intersection": "A busy urban street with traffic lights, crosswalks, and vehicles, including a black SUV and a red car, with buildings like Hooters and a modern office structure in the background, seen during the skateboarder's journey with electronic music.",
+    "Hooters restaurant": "A building with an orange awning and the 'Hooters' logo in red letters, located at a city street intersection, seen during the skateboarder's journey with electronic music.",
+    "Website URL": "A white text overlay displaying 'www.forthepople.com/hero' at the bottom of the screen, indicating a promotional or informational website.",
+    "QR code": "A black-and-white QR code displayed in the upper left corner of the screen, likely linking to additional information or a website.",
+    "Modern Brewer": "A building with a large sign reading 'MODERN BREWER' in white letters on a dark background, visible from a grassy park area.",
+    "Morgan & Morgan advertisement": "A blue screen with white text advertising 'Morgan & Morgan,' America’s largest injury law firm, including legal disclaimers and contact information, introduced by the young man's speech.",
+    "Outdoor patio area": "A covered outdoor seating area with wooden tables and chairs, where people are seated and socializing, located adjacent to a stone wall and a 'Modern Brewer' building.",
+    "Science center interior": "A spacious, multi-level indoor environment with glass walls, escalators, interactive displays, and a basketball hoop, featuring modern design elements and people exploring the exhibits.",
+    "Framed photos on fence": "A series of white-framed photographs mounted on a black metal fence, each featuring a graduate with their name and a photo, suggesting a school or graduation event.",
+    "Overcast sky": "A cloudy, gray sky with diffused lighting, creating a muted atmosphere throughout the outdoor scenes.",
+    "American flag": "A U.S. flag on a tall pole, visible in the background near the brick building, waving slightly in the breeze.",
+    "Channel violations overlay": "A dark gray notification box displaying 'Active Community Guidelines strikes 1' and a removed video titled 'Miles Late For School Compilation,' with a timestamp of 25:40. This is directly referenced by a deeper, echoing male voice-over, identifying as 'Miles from the future,' who states that YouTube took down the video and banned 'Miles from the past' for two weeks.",
+    "Streetlights": "Modern, curved streetlights with multiple lamps, positioned along the sidewalk and parking area, adding to the urban campus environment.",
+    "Person in light blue hoodie": "An individual wearing a light blue hoodie, black pants, and a black cap, walking alongside the Spider-Man-costumed person while holding a phone and occasionally looking at it.",
+    "Sidewalk": "A wide, paved concrete sidewalk bordered by grass and trees, serving as the primary path for the characters' movement.",
+    "Black metal fence": "A tall, black wrought-iron fence lining the sidewalk, adorned with framed graduate photos and separating the path from a grassy field.",
+    "HOF rug": "A red rectangular rug with a large black and white graphic of a basketball player and the letters 'HOF' in bold white text, placed on the bedroom floor.",
+    "Door": "A dark-colored door with a silver handle and a keyhole, where the person stops to make a video call, holding their phone up to the camera.",
+    "Person in white dress shirt": "A person with dreadlocks wearing a white dress shirt and black pants, seen from a first-person perspective rushing through a cluttered apartment, adjusting a patterned tie, and making a video call, who mutters 'I should have time for that,' and later 'Now where did I put my suit' and 'oh boy you stay right there I'll be right back' while searching.",
+    "Red and white sneakers": "A pair of athletic shoes with red uppers and white soles, visible on the person’s feet throughout the sequence, providing a consistent visual anchor.",
+    "Phone screen": "A smartphone displaying the time 3:52, held by the person as they sit in the classroom, indicating they missed class.",
+    "Cluttered apartment": "A messy living space with a gray couch, scattered pillows, a red 'HOF' rug, a black office chair, a bed with disheveled blankets, and various items strewn across the floor, including shoes and clothes.",
+    "Kitchen area": "A kitchen with a countertop, a stainless steel trash can, a white laundry basket, and a microwave, visible as the person walks through the apartment.",
+    "Patterned tie": "A dark-colored tie with a repeating geometric or floral pattern, worn loosely around the neck, adjusted in front of a bathroom mirror.",
+    "Bathroom mirror": "A large mirror in a bathroom with white tiled walls, reflecting the person adjusting a patterned tie while wearing a white dress shirt and black pants.",
+    "Construction site": "An outdoor area with orange safety barriers, scattered bricks, concrete blocks, and debris, where the Spider-Man-costumed person runs and leaps over obstacles.",
+    "On-screen text": "White text overlays appearing during the video, including phrases like 'is today Wednesday' and 'oh I gotta hurry up,' adding narrative context.",
+    "Man in gray hoodie": "A man wearing a gray hoodie and dark pants, attempting to slide down a concrete staircase, who is playfully pushed by the Spider-Man-costumed person and falls, lying on the ground laughing, indicating a lighthearted interaction.",
+    "Concrete staircase": "A wide, outdoor concrete staircase with metal railings, where the man in the gray hoodie attempts to slide and is pushed by the Spider-Man-costumed person.",
+    "Sysco truck": "A large white delivery truck with 'Sysco' branding and a red heart logo, parked in the background of the parking lot area.",
+    "Coca-Cola vending machine": "A red and white vending machine with a glass front displaying various beverages, including Coca-Cola, water, and other soft drinks, located in the building lobby.",
+    "Restroom stall door": "A white, rectangular door with a metal handle, located inside the restroom, which the Spider-Man-costumed person closes after entering a stall.",
+    "Vending machines": "A row of vending machines, including a red Coca-Cola machine, located in the building lobby, where the person inserts coins and retrieves a drink.",
+    "Restroom": "A clean, tiled restroom with urinals, sinks, and mirrors, entered by the Spider-Man-costumed person after retrieving the drink.",
+    "Hallway": "A long, empty hallway with gray and white tiled floors, white walls, and fluorescent lighting, leading to the classroom.",
+    "Classroom": "An empty classroom with long wooden tables, blue chairs, a whiteboard with class information, and large windows showing a cityscape.",
+    "Whiteboard": "A whiteboard in the classroom with written class information, including 'TN 1403 - Business and Entrepreneurship and Innovation' and 'S. D. Draper, Tuesday, 4:30-7 pm, MAB 300 Room 101'."
+  }
+}

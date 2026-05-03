@@ -1,0 +1,215 @@
+{
+    "video_id": "video231",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video opens with a dark, quiet bedroom at 6:00 AM, where a person with blue-dyed hair and visible tattoos is seen waking up and stretching. The scene transitions to them getting dressed in a black hoodie with orange accents and a backpack, then brushing their teeth in a bathroom with a headlamp on. They exit the room into a dimly lit hallway. The scene cuts to a dorm room at 7:00 AM, where a student with blonde hair is still asleep under a blanket. The video then splits into a side-by-side comparison: on the left, the athlete is at a breakfast buffet in a modern dining hall with large windows and a 'WALL OF HONOR' display, eating a plate of food; on the right, the student is in a bright, clean dining area, selecting yogurt and pancakes. Both are shown eating their meals. The student then brushes her teeth in a bathroom, wearing a yellow t-shirt with a cat graphic, and later, at 8:00 AM, is seen getting dressed in her dorm room, pulling on a white hoodie over a black sports bra and gray sweatpants, with a closet full of clothes visible behind her.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "Athlete": "A person with blue-dyed hair, visible tattoos, wearing a black hoodie with orange accents and a backpack, seen waking up, getting dressed, brushing teeth, and eating breakfast in a dining hall.",
+                "Student": "A person with blonde hair, initially seen sleeping in a dorm room, later wearing a yellow t-shirt with a cat graphic, brushing teeth, and then changing into a white hoodie over a black sports bra and gray sweatpants.",
+                "Dining Hall": "A modern, well-lit dining area with large windows and a 'WALL OF HONOR' display, where the athlete eats breakfast.",
+                "Student Dorm Dining Area": "A bright, clean dining space with wooden tables and ceiling lights, where the student selects and eats breakfast.",
+                "Student Dorm Room": "A dimly lit dorm room with a bunk bed, a closet, and a desk, where the student wakes up and gets dressed."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The video opens with the Student, a person with blonde hair, waking up in a dimly lit dorm room at 8:00 AM, quickly getting dressed in a white hoodie over a black sports bra and gray sweatpants. The scene cuts to the Athlete, a person with blue-dyed hair and visible tattoos, also at 8:00 AM, entering a modern locker room, removing a black hoodie, and putting on black athletic shorts and orange-accented sneakers. The Student is then shown at 9:00 AM applying makeup at a desk with a small mirror, surrounded by a notebook, perfume, and a phone. At 10:00 AM, the Student is seen driving a car, adjusting the seatbelt and looking at her phone. The Athlete appears again at 11:00 AM, post-workout, drying off with a towel in the locker room before putting on a gray long-sleeve shirt. The Student is later seen at a drive-thru at 12:00 PM, ordering from Dutch Bros, with a menu visible outside the car window. The final scene shows the Student at 12:00 PM preparing a smoothie in a kitchen, adding strawberries and banana to a Vitamix blender, with a blue Pepsi cup and a bowl of blueberries nearby. The video alternates between the two individuals’ morning routines, highlighting their contrasting environments and activities.",
+            "active_entities": {
+                "Student": "A person with blonde hair, initially seen in a dorm room, later wearing a white fluffy hoodie over a black sports bra and gray sweatpants, applying makeup, driving a car, and preparing a smoothie in a kitchen.",
+                "Athlete": "A person with blue-dyed hair and visible tattoos, wearing a black hoodie with orange accents, seen in a modern locker room removing the hoodie, putting on athletic shorts and sneakers, drying off with a towel, and then putting on a gray long-sleeve shirt post-workout.",
+                "Student Dorm Room": "A dimly lit dorm room with a bunk bed, closet, and desk, where the Student wakes up and gets dressed."
+            },
+            "discovered_new_entities": {
+                "Locker Room": "A modern, well-lit locker room with orange flooring, gray lockers, and overhead lighting, where the Athlete changes and prepares for a workout.",
+                "Car Interior": "The interior of a car with a black steering wheel and dashboard, where the Student is seen driving and ordering at a drive-thru.",
+                "Dutch Bros Drive-Thru": "A drive-thru window with a menu board displaying coffee and drink options, where the Student places an order.",
+                "Kitchen": "A bright kitchen with a Vitamix blender, a blue Pepsi cup, and a bowl of blueberries, where the Student prepares a smoothie.",
+                "Vitamix Blender": "A black and silver high-performance blender used to make a smoothie, with a clear pitcher and visible brand name.",
+                "Dutch Bros Menu Board": "A blue and white menu board outside the drive-thru window listing coffee, tea, and drink options.",
+                "Blue Pepsi Cup": "A blue disposable cup with the Pepsi logo, placed on the kitchen counter next to the blender."
+            }
+        },
+        {
+            "minute": 3,
+            "caption": "The video opens with a split-screen showing the Athlete pouring a drink into a blue Pepsi cup at a 'Performance Table' while the Student, in a white fluffy hoodie, orders at a Dutch Bros drive-thru from inside a car. The scene transitions to the Athlete driving through a campus area, with the camera capturing his perspective from inside the vehicle as he navigates past buildings labeled 'BEAVER' and 'Oregon State Campus.' He checks his phone for navigation, which displays 'SW Campus Way 790 ft,' before arriving at a modern building. The split-screen returns, showing the Athlete and Student walking through a bright, modern hallway labeled 'ATHLETE' and 'STUDENT' respectively. They enter a computer lab with dual monitors, where they sit side-by-side at a desk at 12:30 PM, both engaging with their devices—Athlete with a notebook and Student with a phone and laptop. The segment ends with them exiting the lab, walking down a hallway with a large abstract mural on the wall, still side-by-side, as the Athlete checks his phone and the Student gestures while walking.",
+            "active_entities": {
+                "Athlete": "A person with blue-dyed hair and visible tattoos, wearing a black hoodie with orange accents and a backpack with 'OREGON STATE' in orange lettering, seen driving, navigating with a phone, and later in a computer lab with a notebook.",
+                "Student": "A person with blonde hair tied back, wearing a white fluffy hoodie over a black sports bra and gray sweatpants, seen ordering at a drive-thru, walking through a campus hallway, and working in a computer lab with a phone and laptop.",
+                "Car Interior": "The interior of a car with a black steering wheel and dashboard, where the Student is seen driving and ordering at a drive-thru.",
+                "Dutch Bros Drive-Thru": "A drive-thru window with a menu board displaying coffee and drink options, where the Student places an order."
+            },
+            "discovered_new_entities": {
+                "Oregon State Campus": "A campus environment with brick buildings, green lawns, and pathways, featuring signage for 'BEAVER' and 'Oregon State Campus,' where the Athlete drives and walks.",
+                "Computer Lab": "A modern room with dual monitors, white tiled ceilings, and fluorescent lighting, where the Athlete and Student sit side-by-side at a desk, working on devices.",
+                "Navigation Phone Screen": "A smartphone displaying a navigation app with 'SW Campus Way 790 ft' and directional arrow, held by the Athlete while driving.",
+                "Abstract Mural Wall": "A large wall with a textured, abstract design in shades of gray and white, visible in the hallway as the Athlete and Student exit the computer lab."
+            }
+        },
+        {
+            "minute": 4,
+            "caption": "The video opens with the Student, wearing a white fluffy Nike hoodie, adjusting a black mesh backpack on her head while walking through a wet parking lot under an overcast sky. The scene transitions to the Athlete, now in a black hoodie with orange accents, walking outside near a fenced area with a blue parking sign, then entering the Truax Indoor Facility at 2:00 PM. Inside, the facility is spacious with a high arched ceiling, artificial turf, and 'OREGON STATE' branding on the walls. The Athlete, now in an orange Oregon State t-shirt, stands confidently with arms crossed, while other athletes are seen practicing in the background. The camera pans around the facility, capturing the scale and activity. The scene then cuts to the Student inside Ulta Beauty, still in her white Nike hoodie, walking through aisles of beauty products with bright overhead lighting and shelves labeled 'Tweezerman' and 'Ulta Beauty Collection'. She appears to be browsing or speaking to the camera, with a focused expression.",
+            "active_entities": {
+                "Student": "A person with blonde hair tied back, wearing a white fluffy Nike hoodie, seen adjusting a black mesh backpack in a wet parking lot and later browsing in Ulta Beauty.",
+                "Athlete": "A person with a beard, wearing a black hoodie with orange accents and later an orange Oregon State t-shirt, seen walking outside and inside the Truax Indoor Facility, interacting with the environment and other athletes."
+            },
+            "discovered_new_entities": {
+                "Truax Indoor Facility": "A large indoor sports facility with artificial turf, high arched ceiling, and 'OREGON STATE' branding on the walls, where the Athlete is present and other athletes are practicing.",
+                "Ulta Beauty": "A brightly lit beauty store with organized shelves of cosmetics and skincare products, including visible signage for 'Tweezerman' and 'Ulta Beauty Collection', where the Student is browsing."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video begins with the Student, wearing a white fluffy Nike hoodie and blue leggings, browsing skincare products in Ulta Beauty, reaching for items on a shelf before turning to face the camera and speaking. The scene transitions to the Truax Indoor Facility, where the Athlete, now in a black Oregon State hoodie with orange accents, walks across the artificial turf field, interacting with other athletes and smiling at the camera. The setting shifts back to Ulta Beauty, where the Student is at the checkout counter, handing over a card to a cashier who is wearing a leopard-print top. The next scene shows the Athlete, now shirtless with visible tattoos, stepping out of a pool and drying off with a towel, followed by a split-screen view of him and the Student both in bathrooms, each holding a phone and wrapped in towels. The final scene shows the Student, now wearing a white hoodie and carrying a black and orange Oregon State backpack, walking through a hallway with a large abstract mural wall, with the text 'Study klah' appearing on screen.",
+            "active_entities": {
+                "Student": "A person with blonde hair tied back, wearing a white fluffy Nike hoodie and blue leggings, seen browsing in Ulta Beauty, checking out, and later walking through a hallway with an Oregon State backpack.",
+                "Athlete": "A person with a beard, wearing a black Oregon State hoodie with orange accents, later shirtless with visible tattoos, seen walking in the Truax Indoor Facility, drying off after a swim, and appearing in a split-screen bathroom scene.",
+                "Truax Indoor Facility": "A large indoor sports facility with artificial turf, high arched ceiling, and 'OREGON STATE' branding on the walls, where the Athlete is seen walking and interacting with others.",
+                "Ulta Beauty": "A brightly lit beauty store with organized shelves of cosmetics and skincare products, including visible signage for 'Tweezerman' and 'Ulta Beauty Collection', where the Student browses and checks out.",
+                "Abstract Mural Wall": "A large wall with a textured, abstract design in shades of gray and white, visible in the hallway as the Student walks through with a backpack."
+            },
+            "discovered_new_entities": {
+                "Cashier": "A woman with long blonde hair, wearing a leopard-print top and blue jeans, standing behind the checkout counter at Ulta Beauty, handling payment and interacting with the Student.",
+                "Pool Area": "An indoor pool with blue water, tiled walls, and a modern design, where the Athlete is seen stepping out and drying off with a towel.",
+                "Bathroom Mirror": "A large mirror in a bathroom with a white sink and tiled walls, reflecting the Athlete and Student as they dry off and use their phones.",
+                "Oregon State Backpack": "A black and orange backpack with 'OREGON STATE' written vertically in orange, worn by the Student as they walk through the hallway."
+            }
+        },
+        {
+            "minute": 6,
+            "caption": "The video segment begins with a close-up of a hand holding a smartphone displaying a 'Check In' screen, transitioning to a split-screen view at 6:00 PM showing the Student in a Study Hall typing on a laptop and the Athlete at home lying on a bed, also using a laptop while eating a snack. The scene shifts to 7:00 PM in a kitchen where the Student, now wearing a black Oregon State hoodie, stands by the stove with a pot and a bag of ramen noodles, checking her phone. The Athlete is shown again in the Study Hall, focused on his laptop. The Student is then seen eating ramen from a plastic bowl while scrolling on her phone in a dimly lit room with colorful LED lights. The video cuts to a 'Check Out' scene at a computer lab, where the Athlete places his laptop on a desk and walks away, followed by a shot of his phone screen displaying motivational text. At 8:00 PM, the Student is in a bathroom washing her hands, then applying makeup in front of a mirror in her dorm room. The final scenes show the Athlete in a dark room with red lighting, sitting on a bed and playing a video game on a monitor, while the Student is seen in a dimly lit room with a TV screen displaying a game, holding a controller and reacting to the gameplay.",
+            "active_entities": {
+                "Athlete": "A person with a beard, wearing a beige hoodie, seen typing on a laptop in a Study Hall, later walking out of a computer lab, and finally playing a video game in a dark room with red lighting.",
+                "Student": "A person with blonde hair tied back, wearing a black Oregon State hoodie, seen using a laptop at home, cooking ramen in a kitchen, eating while scrolling on her phone, washing hands in a bathroom, applying makeup in her dorm room, and playing a video game in a dimly lit room.",
+                "Kitchen": "A small kitchen with a white refrigerator, stove, and overhead light, where the Student prepares ramen noodles.",
+                "Student Dorm Room": "A dimly lit dorm room with a desk, mirror, and closet, where the Student applies makeup and later plays a video game.",
+                "Computer Lab": "A modern room with white desks, dual monitors, and fluorescent lighting, where the Athlete checks out by placing his laptop on a desk.",
+                "Navigation Phone Screen": "A smartphone displaying motivational text, held by the Athlete as he walks out of the computer lab."
+            },
+            "discovered_new_entities": {
+                "Study Hall": "A modern, well-lit room with white tables, fluorescent lighting, and a 'SIGN UP FOR DUO' poster on the wall, where the Athlete is seen working on a laptop.",
+                "Home": "A dimly lit bedroom with a bed, a laptop, and a snack, where the Student is seen lying down and using her laptop.",
+                "Bathroom": "A bathroom with a sink, mirror, and overhead lighting, where the Student washes her hands and applies makeup.",
+                "Ramen Noodles": "A blue bag of ramen noodles with 'Same Oriental Flavor' text, placed on the kitchen counter next to a pot on the stove.",
+                "LED Strip Lights": "Colorful LED lights mounted along the ceiling of the Student's room, emitting blue, green, and red hues.",
+                "Video Game Monitor": "A large monitor displaying a first-person shooter game, positioned on a desk in a dark room with red ambient lighting.",
+                "Game Controller": "A black video game controller held by the Student as she plays a game in a dimly lit room."
+            }
+        },
+        {
+            "minute": 7,
+            "caption": "The video begins in a dimly lit room bathed in red ambient lighting, where the Student is seated, intensely focused on playing a first-person shooter game on a large monitor, holding a game controller. The room features LED strip lights along the ceiling and a wall decorated with a 'Samoa' logo and a bicycle graphic. The scene transitions to a close-up of the game screen, showing a combat scenario with a weapon selection interface and a mini-map. The camera then shifts to a different angle, revealing the Student in a hoodie, now standing and moving through a hallway with vibrant, shifting LED lights—purple, green, and blue—illuminating the space. The Student walks through a doorway into a brightly lit bathroom with a mirror and overhead lights, where they begin applying makeup, using a small mirror and various products. The scene changes again to a first-person perspective of someone descending a staircase with a greenish glow, labeled 'Local Boyz' in the corner, suggesting a vlog-style recording. The person continues walking through a hallway with an underwater-themed mural, leading to a restroom, and then enters a casual dining area with a counter, menu boards, and a few patrons. The environment is lively, with visible signage for 'ALOHA! Welcome to Local Boyz' and 'MANHATTAN,' indicating a themed eatery or café.",
+            "active_entities": {
+                "Student": "A person with blonde hair tied back, wearing a black Oregon State hoodie, initially seen playing a video game in a dimly lit room with red LED lighting, then applying makeup in a bathroom using a small mirror and various products.",
+                "Video Game Monitor": "A large monitor displaying a first-person shooter game with a weapon selection interface, mini-map, and in-game HUD elements, positioned on a desk in a dark room with red ambient lighting.",
+                "LED Strip Lights": "Colorful LED lights mounted along the ceiling of the Student's room, emitting red, blue, green, and purple hues, creating a dynamic and immersive atmosphere.",
+                "Game Controller": "A black video game controller held by the Student as they play a game in a dimly lit room, with visible buttons and joysticks.",
+                "Bathroom Mirror": "A small, round, adjustable mirror on a stand, used by the Student to apply makeup in a bathroom with overhead lighting and a white sink."
+            },
+            "discovered_new_entities": {
+                "Local Boyz": "A text overlay appearing in the corner of the screen during a first-person descent down a staircase, indicating a possible vlog or content creator brand.",
+                "Dining Area": "A casual eatery with a counter, menu boards, and ceiling fans, featuring signage for 'ALOHA! Welcome to Local Boyz' and 'MANHATTAN,' with patrons and staff visible.",
+                "Underwater-Themed Hallway": "A narrow hallway with blue walls decorated with murals of sea creatures, bubbles, and palm trees, creating an aquatic ambiance.",
+                "Restroom Sign": "A blue sign with a female silhouette and the word 'WOMEN,' mounted on a door in the underwater-themed hallway.",
+                "Menu Boards": "Framed chalkboard-style menu boards above the counter in the dining area, displaying food and drink options with handwritten text."
+            }
+        },
+        {
+            "minute": 8,
+            "caption": "The video opens in a casual dining area, identified as 'Dining Area,' with a counter, menu boards, and ceiling fans, where patrons are seated. The camera then shifts to a close-up of a table where two individuals are unpacking takeout containers. One person, wearing a black hoodie, opens a white foam container revealing a 'Steak & Ribs Plate' with sauced ribs and rice, while the other, in a beige hoodie, adds macaroni and cheese from a small cup into their own container. Both begin eating with plastic utensils, occasionally glancing at their phones. The scene transitions to a dark room at 9:00 PM, where a person wearing headphones and a black t-shirt with 'YOUTH' printed on it is seen playing a video game, illuminated by the glow of a large monitor displaying a first-person shooter game. The environment shifts from a well-lit, social dining space to a dim, immersive gaming setup with ambient lighting.",
+            "active_entities": {
+                "Dining Area": "A casual eatery with a counter, menu boards, and ceiling fans, featuring signage for 'ALOHA! Welcome to Local Boyz' and 'MANHATTAN,' with patrons and staff visible.",
+                "Athlete": "A person with a beard, wearing a beige hoodie, seen eating from a takeout container and using a phone at the dining table.",
+                "Student": "A person with blonde hair tied back, wearing a black Oregon State hoodie, initially seen eating from a takeout container and using a phone at the dining table.",
+                "Video Game Monitor": "A large monitor displaying a first-person shooter game with a weapon selection interface, mini-map, and in-game HUD elements, positioned on a desk in a dark room with red ambient lighting.",
+                "Game Controller": "A black video game controller held by the Student as they play a game in a dimly lit room, with visible buttons and joysticks."
+            },
+            "discovered_new_entities": {
+                "Steak & Ribs Plate": "A takeout meal in a white foam container, consisting of sauced ribs, steak, and rice, with a side of macaroni and cheese added from a small cup.",
+                "Takeout Containers": "White foam containers with plastic lids, used to serve the meal, placed on a wooden table alongside condiment bottles and napkins."
+            }
+        },
+        {
+            "minute": 9,
+            "caption": "The video begins at 9:00 PM in a dimly lit dorm room where a person with blonde hair, wearing a black Oregon State hoodie, is seen adjusting their hair and sitting at a desk with a lamp and mirror. The scene transitions to a darker bedroom where the same person lies in bed, illuminated only by a faint glow from a phone screen. Later, the setting shifts to a brighter dorm room where the person, now in a black crop top and ripped jeans, prepares to go out, adjusting their outfit and putting on white sneakers. The text 'Going Out' appears on screen as they move around the room, checking their appearance in a mirror and interacting with another person with dark hair who is seated nearby. The blonde person then stands in front of a ring light, posing and adjusting their hair, while the other person holds a camera on a tripod, suggesting they are filming a vlog or photoshoot. The video ends at 10:00 PM with the blonde person back in bed, still using their phone in the dark room. The environment transitions from dim and intimate to bright and active, then back to dark, reflecting a shift from rest to preparation and back to rest.",
+            "active_entities": {
+                "Student": "A person with blonde hair, initially wearing a black Oregon State hoodie, later changing into a black crop top and ripped jeans, seen applying makeup, preparing to go out, and posing in front of a ring light.",
+                "Student Dorm Room": "A dorm room with a desk, mirror, closet, and ring light, transitioning from dim lighting to bright overhead lights during the preparation sequence, then back to darkness.",
+                "Video Game Monitor": "A large monitor displaying a first-person shooter game with a weapon selection interface, mini-map, and in-game HUD elements, positioned on a desk in a dark room with red ambient lighting.",
+                "Game Controller": "A black video game controller held by the Student as they play a game in a dimly lit room, with visible buttons and joysticks."
+            },
+            "discovered_new_entities": {
+                "Ring Light": "A circular LED light on a stand, used for filming or photography, providing bright, even illumination in the dorm room.",
+                "Camera on Tripod": "A handheld camera mounted on a tripod, operated by the second person to film the blonde person during their preparation and posing.",
+                "Second Person (Dark Hair)": "A person with dark hair, wearing a dark top, seated in the dorm room, observing and filming the blonde person with a camera on a tripod."
+            }
+        },
+        {
+            "minute": 10,
+            "caption": "The video begins at 10:00 PM in a dimly lit bedroom where a tattooed man with a beard, wearing a black t-shirt, is lying on a bed using his phone. He then sits up, revealing extensive tattoos on his arms and chest, and proceeds to brush his teeth in a bathroom with a mirror and sink, still shirtless. Meanwhile, in a well-lit dorm room, a blonde woman in a black crop top and ripped jeans is seen posing and taking selfies in front of a ring light, with a camera on a tripod capturing her. She adjusts her outfit and continues filming, occasionally checking her phone. The scene shifts back to the man, who is now walking out of the bathroom. The video then cuts to 11:00 PM, showing the woman in a leopard-print dress, preparing to leave, while the man is back in bed, lying down and using his phone. The final frames display a black screen with a 'THANKS FOR WATCHING!' message, a 'Check Out The Lates Videos' prompt, and a red 'SUBSCRIBE' button.",
+            "active_entities": {
+                "Student": "A blonde woman initially in a black crop top and ripped jeans, later seen in a leopard-print dress, posing in front of a ring light and preparing to leave, with a camera on a tripod filming her.",
+                "Second Person (Dark Hair)": "A person with dark hair, wearing a dark top, seated in the dorm room, observing and filming the blonde woman with a camera on a tripod.",
+                "Ring Light": "A circular LED light on a stand, providing bright, even illumination in the dorm room, used for filming or photography.",
+                "Camera on Tripod": "A handheld camera mounted on a tripod, operated by the second person to film the blonde person during her preparation and posing.",
+                "Bathroom": "A bathroom with a sink, mirror, and overhead lighting, where the man brushes his teeth and is seen shirtless with visible tattoos.",
+                "Student Dorm Room": "A dorm room with a desk, mirror, closet, and ring light, transitioning from dim lighting to bright overhead lights during the preparation sequence, then back to darkness."
+            },
+            "discovered_new_entities": {
+                "Bed": "A bed in the bedroom where the man is seen lying down and using his phone at the start and end of the segment."
+            }
+        },
+        {
+            "minute": 11,
+            "caption": "The video segment displays a static end screen with a dark background. At the top, white text reads 'THANKS FOR WATCHING!' followed by 'Check Out The Lates Videos' in red and white. Centered on the screen is a white circular outline with a thin red inner ring that rotates slowly clockwise, suggesting a loading or transition animation. Below the circle, a red rectangular button with white text says 'SUBSCRIBE', featuring a white horizontal line to the left of the word. The overall design is minimalistic and modern, serving as a call-to-action to engage viewers after the main content has concluded. There are no visible characters, movements, or environmental changes—only the subtle rotation of the circular element.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "End Screen": "A static, dark-themed outro screen with white and red text, a rotating circular loading animation, and a red 'SUBSCRIBE' button, designed to encourage viewer engagement after the video ends."
+            }
+        }
+    ],
+    "entity_library": {
+        "Athlete": "A person with a beard, wearing a beige hoodie, seen eating from a takeout container and using a phone at the dining table.",
+        "Student": "A blonde woman initially in a black crop top and ripped jeans, later seen in a leopard-print dress, posing in front of a ring light and preparing to leave, with a camera on a tripod filming her.",
+        "Dining Hall": "A modern, well-lit dining area with large windows and a 'WALL OF HONOR' display, where the athlete eats breakfast.",
+        "Student Dorm Dining Area": "A bright, clean dining space with wooden tables and ceiling lights, where the student selects and eats breakfast.",
+        "Student Dorm Room": "A dorm room with a desk, mirror, closet, and ring light, transitioning from dim lighting to bright overhead lights during the preparation sequence, then back to darkness.",
+        "Locker Room": "A modern, well-lit locker room with orange flooring, gray lockers, and overhead lighting, where the Athlete changes and prepares for a workout.",
+        "Car Interior": "The interior of a car with a black steering wheel and dashboard, where the Student is seen driving and ordering at a drive-thru.",
+        "Dutch Bros Drive-Thru": "A drive-thru window with a menu board displaying coffee and drink options, where the Student places an order.",
+        "Kitchen": "A small kitchen with a white refrigerator, stove, and overhead light, where the Student prepares ramen noodles.",
+        "Vitamix Blender": "A black and silver high-performance blender used to make a smoothie, with a clear pitcher and visible brand name.",
+        "Dutch Bros Menu Board": "A blue and white menu board outside the drive-thru window listing coffee, tea, and drink options.",
+        "Blue Pepsi Cup": "A blue disposable cup with the Pepsi logo, placed on the kitchen counter next to the blender.",
+        "Oregon State Campus": "A campus environment with brick buildings, green lawns, and pathways, featuring signage for 'BEAVER' and 'Oregon State Campus,' where the Athlete drives and walks.",
+        "Computer Lab": "A modern room with white desks, dual monitors, and fluorescent lighting, where the Athlete checks out by placing his laptop on a desk.",
+        "Navigation Phone Screen": "A smartphone displaying motivational text, held by the Athlete as he walks out of the computer lab.",
+        "Abstract Mural Wall": "A large wall with a textured, abstract design in shades of gray and white, visible in the hallway as the Student walks through with a backpack.",
+        "Truax Indoor Facility": "A large indoor sports facility with artificial turf, high arched ceiling, and 'OREGON STATE' branding on the walls, where the Athlete is seen walking and interacting with others.",
+        "Ulta Beauty": "A brightly lit beauty store with organized shelves of cosmetics and skincare products, including visible signage for 'Tweezerman' and 'Ulta Beauty Collection', where the Student browses and checks out.",
+        "Cashier": "A woman with long blonde hair, wearing a leopard-print top and blue jeans, standing behind the checkout counter at Ulta Beauty, handling payment and interacting with the Student.",
+        "Pool Area": "An indoor pool with blue water, tiled walls, and a modern design, where the Athlete is seen stepping out and drying off with a towel.",
+        "Bathroom Mirror": "A small, round, adjustable mirror on a stand, used by the Student to apply makeup in a bathroom with overhead lighting and a white sink.",
+        "Oregon State Backpack": "A black and orange backpack with 'OREGON STATE' written vertically in orange, worn by the Student as they walk through the hallway.",
+        "Study Hall": "A modern, well-lit room with white tables, fluorescent lighting, and a 'SIGN UP FOR DUO' poster on the wall, where the Athlete is seen working on a laptop.",
+        "Home": "A dimly lit bedroom with a bed, a laptop, and a snack, where the Student is seen lying down and using her laptop.",
+        "Bathroom": "A bathroom with a sink, mirror, and overhead lighting, where the man brushes his teeth and is seen shirtless with visible tattoos.",
+        "Ramen Noodles": "A blue bag of ramen noodles with 'Same Oriental Flavor' text, placed on the kitchen counter next to a pot on the stove.",
+        "LED Strip Lights": "Colorful LED lights mounted along the ceiling of the Student's room, emitting red, blue, green, and purple hues, creating a dynamic and immersive atmosphere.",
+        "Video Game Monitor": "A large monitor displaying a first-person shooter game with a weapon selection interface, mini-map, and in-game HUD elements, positioned on a desk in a dark room with red ambient lighting.",
+        "Game Controller": "A black video game controller held by the Student as they play a game in a dimly lit room, with visible buttons and joysticks.",
+        "Local Boyz": "A text overlay appearing in the corner of the screen during a first-person descent down a staircase, indicating a possible vlog or content creator brand.",
+        "Dining Area": "A casual eatery with a counter, menu boards, and ceiling fans, featuring signage for 'ALOHA! Welcome to Local Boyz' and 'MANHATTAN,' with patrons and staff visible.",
+        "Underwater-Themed Hallway": "A narrow hallway with blue walls decorated with murals of sea creatures, bubbles, and palm trees, creating an aquatic ambiance.",
+        "Restroom Sign": "A blue sign with a female silhouette and the word 'WOMEN,' mounted on a door in the underwater-themed hallway.",
+        "Menu Boards": "Framed chalkboard-style menu boards above the counter in the dining area, displaying food and drink options with handwritten text.",
+        "Steak & Ribs Plate": "A takeout meal in a white foam container, consisting of sauced ribs, steak, and rice, with a side of macaroni and cheese added from a small cup.",
+        "Takeout Containers": "White foam containers with plastic lids, used to serve the meal, placed on a wooden table alongside condiment bottles and napkins.",
+        "Ring Light": "A circular LED light on a stand, providing bright, even illumination in the dorm room, used for filming or photography.",
+        "Camera on Tripod": "A handheld camera mounted on a tripod, operated by the second person to film the blonde person during her preparation and posing.",
+        "Second Person (Dark Hair)": "A person with dark hair, wearing a dark top, seated in the dorm room, observing and filming the blonde woman with a camera on a tripod.",
+        "Bed": "A bed in the bedroom where the man is seen lying down and using his phone at the start and end of the segment.",
+        "End Screen": "A static, dark-themed outro screen with white and red text, a rotating circular loading animation, and a red 'SUBSCRIBE' button, designed to encourage viewer engagement after the video ends."
+    }
+}

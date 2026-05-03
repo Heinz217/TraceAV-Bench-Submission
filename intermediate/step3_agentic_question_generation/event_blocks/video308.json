@@ -1,0 +1,516 @@
+{
+  "video_id": "video308",
+  "audio_id": "video308_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "A young man, initially depicted in a pink t-shirt at a cluttered desk with multiple monitors and a blue PC case, is shown during what appears to be a late-night study session, underscored by continuous calm, melancholic instrumental music. This transitions to a title card, 'Day in the Life of an MIT senior, Fall 2023,' superimposed over a gym interior, followed by a close-up of a bicycle handlebar. The young man then wakes at 7:27 A.M. in a dimly lit room, silencing his phone alarm and stretching before dressing in a black hoodie and athletic wear suitable for the 40-degree weather. He proceeds through the personalized, LED-lit hallway of his fraternity house, adorned with posters, and exits to a brick-paved outdoor area. Arriving at the gym at 7:50 A.M., he commences his workout on a black and silver stationary bike, clad in an 'MIT Athletics' t-shirt and white shorts, with earbuds in. The spacious, lightly populated gym facilitates his quiet morning routine, with on-screen text indicating his preference for running due to proximity and fewer patrons, all while the peaceful instrumental music persists.",
+      "involved_entities": {
+        "Gym Interior": {
+          "description": "A well-lit, spacious gym with various equipment, including treadmills and weight racks, and a few other individuals working out in the background.",
+          "attribute": "visual"
+        },
+        "Young Man": {
+          "description": "A young Asian male, initially seen in a pink t-shirt studying, later in a black hoodie and athletic wear, and finally in a black 'MIT Athletics' t-shirt and white shorts during his workout. He wears earbuds and a smartwatch throughout the morning routine.",
+          "attribute": "visual"
+        },
+        "Stationary Bike": {
+          "description": "A black and silver exercise bike with a digital display, used for warm-up in the gym.",
+          "attribute": "visual"
+        },
+        "Bicycle Handlebar": {
+          "description": "A close-up of a black bicycle handlebar with a red frame, suggesting a mode of transportation, though not used in this segment.",
+          "attribute": "visual"
+        },
+        "Fraternity House Hallway": {
+          "description": "A vibrant, personalized hallway with colorful walls, posters, LED lights, and a 'Supreme' sign, indicating a lively and customized living space.",
+          "attribute": "visual"
+        },
+        "Phone Alarm": {
+          "description": "A smartphone screen displaying 7:27 A.M. with an orange 'Snooze' button, used to wake the man up.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a young Asian man, initially seen in a pink t-shirt, diligently writing at a cluttered desk surrounded by monitors and a glowing blue PC case, suggesting a late-night study session. A calm, melancholic instrumental background music plays continuously throughout the segment, setting a reflective tone. This music underscores a transition to a title card reading 'Day in the Life of an MIT senior, Fall 2023' over a gym setting, followed by a close-up of a bicycle handlebar. The scene then shifts to the man waking up at 7:27 A.M. in a dimly lit room, turning off his phone alarm, and stretching in bed. He gets dressed in a black hoodie and athletic wear, preparing for the cold 40-degree weather. He walks through the vibrant, personalized hallway of his fraternity house, adorned with posters and LED lights, before exiting onto a brick-paved outdoor area. He runs towards the gym, arriving at 7:50 A.M., where he begins his workout on a black and silver stationary bike, wearing a black 'MIT Athletics' t-shirt and white shorts with earbuds in. The spacious, lightly populated gym provides a quiet morning routine, with on-screen text noting his preference for running due to proximity and fewer people, all accompanied by the consistent, peaceful instrumental music."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 2,
+      "summary": "The Young Man, clad in a black 'MIT Athletics' t-shirt and white shorts, initiated his workout with a dynamic kettlebell warm-up and barbell back squats within a well-equipped Gym Interior, the atmosphere punctuated by upbeat electronic music and the metallic clanking of weights, while on-screen text underscored his positive gym experience. Following his set, he exchanged a brief greeting with a friend, who, wearing an orange shirt, remarked, \"Leg day bro,\" to which the Young Man concurred, \"Same.\" The setting then abruptly transitioned to a Fraternity House Hallway, characterized by vibrant wall art and LED lighting, as the audio shifted to a relaxed lo-fi hip-hop beat, accompanied by on-screen text indicating \"9:30 A.M. - Return home.\" Now shirtless and in gray underwear, the Young Man addressed the camera from his room, announcing, \"Alright, just got back from the gym, took a shower, and it's time for breakfast.\" He proceeded to assemble a protein fruit smoothie, meticulously adding ice, frozen fruit, chia seeds, espresso powder, protein powder, and milk into a clear Blender Cup, the process accompanied by the sounds of pouring and items being set down, while the music evolved into an ambient, synth-heavy track. The sequence concluded with the Young Man placing the filled cup into a red Nutribullet Blender, poised for preparation.",
+      "involved_entities": {
+        "Gym Interior": {
+          "description": "A well-lit, spacious gym with various equipment including weight racks, barbells, and benches, accompanied by upbeat, rhythmic electronic music and the distinct sounds of weights clanking. Other individuals are visible working out in the background, and the space features high ceilings and large structural beams.",
+          "attribute": "audio-visual"
+        },
+        "Protein Smoothie Ingredients": {
+          "description": "A collection of items including a clear blender cup, frozen fruit, chia seeds, espresso powder, unflavored whey protein powder, and milk, used to prepare a post-workout smoothie, accompanied by sounds of liquid pouring and items being placed into the cup. Brands like 'Cafe Bustelo' and 'Hood' are visible.",
+          "attribute": "audio-visual"
+        },
+        "Nutribullet Blender": {
+          "description": "A red personal blender with a clear cup, used to mix the smoothie ingredients, appearing at the end of the segment with ambient, synth-heavy music playing. The brand name 'nutribullet' is visible on the base.",
+          "attribute": "audio-visual"
+        },
+        "Fraternity House Hallway": {
+          "description": "A vibrant, personalized hallway with colorful wall art, LED strip lighting, and a 'Supreme' sign, indicating a lively and customized living space, appearing during a transition where the background music shifts to a relaxed, lo-fi hip-hop beat.",
+          "attribute": "audio-visual"
+        },
+        "Young Man": {
+          "description": "A young Asian male, initially seen in a black 'MIT Athletics' t-shirt and white shorts during his gym workout, later shirtless in gray underwear in his room, preparing a smoothie. He wears earbuds and a smartwatch throughout, and speaks directly to the camera, responding \"Same\" to a friend's greeting and later stating, \"Alright, just got back from the gym, took a shower, and it's time for breakfast.\"",
+          "attribute": "audio-visual"
+        },
+        "Blender Cup": {
+          "description": "A clear, reusable plastic cup with measurement markings, used to hold the smoothie ingredients before blending, with sounds of items being added. It is placed on a black countertop during preparation.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with the Young Man, wearing a black 'MIT Athletics' t-shirt and white shorts, performing a dynamic kettlebell warm-up and barbell back squats in a spacious, well-equipped Gym Interior, accompanied by upbeat electronic music and the clanking of weights. On-screen text highlights his appreciation for the gym. After his set, he smiles at the camera, and a friend in an orange shirt greets him with \"Leg day bro,\" to which the Young Man responds, \"Same.\" The scene abruptly shifts to a colorful, personalized Fraternity House Hallway, marked by vibrant wall art and LED lights, as the background music transitions to a relaxed lo-fi hip-hop beat. On-screen text indicates \"9:30 A.M. - Return home.\" The Young Man, now shirtless and in gray underwear, stands in his room, speaking directly to the camera, stating, \"Alright, just got back from the gym, took a shower, and it's time for breakfast.\" He then proceeds to prepare a protein fruit smoothie, adding ice, frozen fruit, chia seeds, espresso powder, protein powder, and milk into a clear Blender Cup, with sounds of pouring and items being placed, while the music shifts to an ambient, synth-heavy track. The final shot shows him placing the filled cup into a red Nutribullet Blender, ready for mixing."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 3,
+      "end_minute": 4,
+      "summary": "The video opens with an upbeat electronic track and a close-up of a hand holding a speckled smoothie, with a subtitle stating 'Tastes quite good actually.' At 10:00 A.M. in a sunlit office, a Young Man in a pink 'Kappa Sigma' t-shirt works at a cluttered desk near a window, typing on an ASUS laptop and managing spreadsheets, documents, and a messaging app across two external monitors, the sound of his typing audible. By 2:00 P.M., the scene shifts to a stainless steel kitchen counter where gloved chef's hands assemble a grilled chicken and vegetable wrap. The Young Man and a friend, wearing sunglasses, eat these wraps in a communal dining area with a 'KΣ' logo, amidst chatter and student activity, with subtitles noting 'Our chef makes good food :)' and daily lunch hours. Later, in the fraternity dining area, the Young Man, wearing the pink t-shirt, explains to the camera that he is skipping lunch, despite a 1:00 P.M. class, to focus on a final project for his 'Mathematics with Applications in Finance' course, due at 2:30 P.M., leaving him one and a half hours. He then transitions to a laundry room, loads a washing machine, adds detergent, and starts it, hearing the machine's hum and seeing the subtitle 'We get free laundry :)'. Finally, in his room, illuminated by LED strip lighting and featuring a clothing rack, the Young Man continues to discuss his project on dynamic portfolio optimization.",
+      "involved_entities": {
+        "Subtitles": {
+          "description": "On-screen text providing additional context to the Young Man's narration, including lunch times, current time, project details, and a note about free laundry.",
+          "attribute": "audio-visual"
+        },
+        "Dining Area": {
+          "description": "A communal dining space with wooden tables and chairs, featuring a large 'KΣ' (Kappa Sigma) logo on the wall and an 'EXIT' sign above a door, where students are eating and socializing. The Young Man speaks from or about this area, explaining his decision to skip lunch.",
+          "attribute": "audio-visual"
+        },
+        "External Monitors": {
+          "description": "Two large external monitors displaying spreadsheets, documents, and a messaging app, positioned on either side of the laptop, part of the Young Man's workspace where typing sounds are heard.",
+          "attribute": "audio-visual"
+        },
+        "Window": {
+          "description": "A large window with a view of bare trees and a bright sky, providing natural light to the workspace.",
+          "attribute": "visual"
+        },
+        "Laptop": {
+          "description": "A black ASUS laptop with a cityscape wallpaper, placed on a desk and used for work alongside two external monitors, from which distinct typing sounds emanate.",
+          "attribute": "audio-visual"
+        },
+        "Kitchen Counter": {
+          "description": "A stainless steel kitchen counter with trays of fresh vegetables, sauces, and cooking tools, where the wrap is being prepared.",
+          "attribute": "visual"
+        },
+        "Young Man": {
+          "description": "A young Asian male, now wearing a pink t-shirt with a 'Kappa Sigma' graphic on the back, seen speaking directly to the camera in a calm, explanatory voice about his academic projects and personal tasks. He is later seen loading laundry and then working on a laptop and two monitors in his room.",
+          "attribute": "audio-visual"
+        },
+        "Wrap": {
+          "description": "A freshly made wrap filled with grilled chicken, vegetables, and sauce, being assembled and eaten by the Young Man and others.",
+          "attribute": "visual"
+        },
+        "Chef's Hands": {
+          "description": "A pair of hands wearing a white glove, assembling a wrap with fresh ingredients on a green cutting board in a kitchen setting.",
+          "attribute": "visual"
+        },
+        "Friend": {
+          "description": "A young man wearing a black t-shirt and sunglasses, sitting next to the Young Man during lunch in the communal dining area, where ambient chatter is heard, eating a wrap and smiling at the camera.",
+          "attribute": "audio-visual"
+        },
+        "Desk": {
+          "description": "A cluttered black desk with papers, a red stress ball, a pen holder, and a notebook, situated near a window, serving as the Young Man's workspace where the sounds of typing are prominent.",
+          "attribute": "audio-visual"
+        },
+        "Laundry Room": {
+          "description": "A utility space with white washing machines and dryers, where the Young Man loads laundry and starts a wash cycle, with a notice label visible on the machine. The sound of a washing machine starting is heard.",
+          "attribute": "audio-visual"
+        },
+        "Clothing Rack": {
+          "description": "A black metal rack with hangers holding clothes, visible in the Young Man's room, indicating personal belongings and a lived-in space.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with an upbeat electronic music track as the video transitions from a close-up of a hand holding a beige, speckled smoothie in a clear blender cup, accompanied by the subtitle 'Tastes quite good actually.' The scene then shifts to 10:00 A.M. in a bright, sunlit office space, where a Young Man, an Asian male wearing a pink t-shirt with a 'Kappa Sigma' graphic, is actively working at a cluttered black desk. He is seen typing on a black ASUS laptop with a cityscape wallpaper, navigating between spreadsheets, documents, and a messaging app displayed across two large external monitors, all while the distinct sound of his typing is heard over the background music. Papers, a red stress ball, a pen holder, and a notebook are also on the desk, which is situated near a window offering a view of bare trees and a bright sky. As the music continues, the video then shifts to 2:00 P.M. for lunchtime, indicated by a subtitle, showing a chef's hands, gloved in white, assembling a fresh wrap with grilled chicken and vegetables on a green cutting board on a stainless steel kitchen counter. The scene moves to a lively communal dining area with wooden tables and chairs, where the Young Man and a friend, a young man in a black t-shirt and sunglasses, are eating the freshly made wraps. The dining space, featuring a large 'KΣ' (Kappa Sigma) logo on the wall and an 'EXIT' sign, is filled with the sounds of general chatter and other students eating or using their phones, reinforcing the lively atmosphere. Subtitles also note 'Our chef makes good food :)' and that lunch is served daily between 11:30 A.M. and 1 P.M., as the Young Man is seen chewing and enjoying his meal amidst the ambient sounds.",
+        "The minute opens in a communal fraternity dining area, identifiable by 'Kappa Sigma' branding and a large 'KΣ' sign, where several young men are seen eating lunch at wooden tables, with condiments visible. Upbeat, slightly melancholic instrumental music plays as on-screen text indicates lunch hours and the current time, 1:00 P.M. The Young Man, wearing a pink t-shirt, speaks directly to the camera, explaining in a calm, explanatory voice that he has decided to skip lunch despite having a class at 1 PM, to focus on a final project due at 2:30 PM for his 'Mathematics with Applications in Finance' course, part of his math minor. He notes he has one and a half hours to complete it. He then mentions needing to do laundry as he's running out of clothes. The scene transitions to a laundry room where he loads a washing machine, adds detergent, and starts the cycle, accompanied by the sound of the machine starting and on-screen text confirming 'We get free laundry :)'. The video then cuts to the Young Man in his room, featuring LED strip lighting and a clothing rack, where he continues to explain his project on dynamic portfolio optimization, further detailing his academic focus."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 5,
+      "end_minute": 8,
+      "summary": "A young man, clad in a pink t-shirt, begins by detailing his finance course project, a dynamic portfolio optimization trading strategy he is coding in Julia and must report on within an hour and a half, all while in his LED-lit dorm room. His setup includes a clothing rack and a computer displaying a Jupyter Notebook with Python code and a Word document listing 31 S&P 500 companies. Transitioning to a woodshop, he dons safety glasses and earbuds, using a Ryobi miter saw to cut wood, generating dust, humorously noted by a subtitle about forgetting the dust vacuum. He then returns to his cluttered desk, featuring papers, a stress ball, and a pen holder, to continue his report on his laptop and external monitors, accompanied by melancholic instrumental music. At 2:25 P.M., he prepares for class, grabbing his bicycle from a hallway with a red wall and exiting. Later, riding his bicycle through an urban environment with long shadows, he enters a building and ascends a staircase to a classroom. There, he presents to students at a lectern, with a projection screen and a blackboard filled with complex mathematical equations, including 'Integration on manifolds' and 'Generalized Stokes Theorem,' in a challenging MIT class. He expresses confidence in his presentation, despite the audio not recording, as upbeat electronic music plays. Afterward, he walks down a hallway, stating his presentation went well and he's heading to an event with a friend. At 4:00 P.M., he rides his bicycle to an MIT-hosted event in a large, modern hall with blue lighting and paper cranes, meeting a friend with long dark hair. They interact amidst a bustling space with food tables and an MIT logo. At 5:15 P.M., he cycles home under streetlights, commenting on the early sunset, before returning to his cluttered dorm room. After a mirror selfie, he joins his friend to study for a real estate finance final at his desk, surrounded by papers, a laptop, and external monitors displaying Python code. The room is lit by warm artificial light, with a window showing the darkening sky, and the electronic music fades with a 'ding.' The next segment opens with upbeat, melancholic electronic music as he intensely studies in his dorm room, referencing a tablet and writing in a notebook. He then skateboards at night to the student center at 5:30 P.M. to meet a friend for studying, noting the short distance. Arriving at the brightly lit MIT Event Hall, he sits at a table with his tablet and notebook, studying alongside others. At 8:00 P.M., he skateboards back home under streetlights, with the electronic music continuing.",
+      "involved_entities": {
+        "Subtitles": {
+          "description": "On-screen text providing context for the events, including '5:30 P.M. - Meeting up with a friend to study', '(I'm going to the student center which is not that far so I'm skateboarding)', and '8:00 P.M. - Returning home (again)'.",
+          "attribute": "visual"
+        },
+        "Bicycle": {
+          "description": "A black and silver bicycle with a red frame, stored in a hallway with a red wall, which the Young Man grabs to head to class.",
+          "attribute": "visual"
+        },
+        "Clothing Rack": {
+          "description": "A black metal rack with hangers holding clothes, visible in the Young Man's room, indicating personal belongings and a lived-in space.",
+          "attribute": "visual"
+        },
+        "External Monitors": {
+          "description": "Two large external monitors displaying a Jupyter Notebook with Python code and a Word document with project details, positioned on either side of the laptop.",
+          "attribute": "visual"
+        },
+        "Window": {
+          "description": "A large window with a view of bare trees and a darkening sky, providing natural light to the workspace, now showing evening darkness.",
+          "attribute": "visual"
+        },
+        "Wood Dust": {
+          "description": "Fine particles of wood generated during cutting with the miter saw, visible in the air as the Young Man works in the woodshop.",
+          "attribute": "visual"
+        },
+        "Fraternity House Hallway": {
+          "description": "A vibrant, personalized hallway with a red wall, where the bicycle is stored and the Young Man prepares to leave for class.",
+          "attribute": "visual"
+        },
+        "Laptop": {
+          "description": "A black ASUS laptop with a cityscape wallpaper, placed on the desk and used for work alongside the external monitors.",
+          "attribute": "visual"
+        },
+        "Young Man": {
+          "description": "A young Asian male wearing a pink t-shirt and jeans, initially seen studying at his Dorm Room desk with a notebook and tablet, later transitioning to skateboarding at night and studying in the MIT Event Hall.",
+          "attribute": "visual"
+        },
+        "Safety Glasses": {
+          "description": "Clear protective eyewear worn by the Young Man while operating the miter saw in the woodshop.",
+          "attribute": "visual"
+        },
+        "Woodshop": {
+          "description": "A cluttered workshop with tools, a Ryobi miter saw, and various woodworking supplies, where the Young Man cuts wood.",
+          "attribute": "visual"
+        },
+        "Ryobi Miter Saw": {
+          "description": "A white and blue Ryobi miter saw used to cut wood, generating visible dust during operation.",
+          "attribute": "visual"
+        },
+        "Earbuds": {
+          "description": "White wireless earbuds worn by the Young Man in the woodshop, indicating he is listening to audio while working.",
+          "attribute": "visual"
+        },
+        "Desk": {
+          "description": "A black desk with papers, a laptop, two external monitors, a red stress ball, and a pen holder, situated near a window with a view of trees, used for studying.",
+          "attribute": "visual"
+        },
+        "Hallway": {
+          "description": "An indoor hallway with white walls and a wooden handrail, where the Young Man walks after the presentation, still wearing his backpack and pink t-shirt.",
+          "attribute": "visual"
+        },
+        "Blackboard": {
+          "description": "A large blackboard filled with handwritten mathematical formulas and proofs, including references to 'Integration on manifolds' and 'Generalized Stokes Theorem', indicating the advanced nature of the class.",
+          "attribute": "visual"
+        },
+        "Staircase": {
+          "description": "A set of dark, worn concrete stairs with a wooden handrail, which the Young Man ascends after entering the building.",
+          "attribute": "visual"
+        },
+        "Classroom": {
+          "description": "A lecture hall with tiered seating, a large projection screen displaying a document, and a blackboard covered in advanced mathematical equations. The Young Man stands at a lectern presenting to a small group of students.",
+          "attribute": "visual"
+        },
+        "Lectern": {
+          "description": "A wooden podium where the Young Man stands during his presentation, with a laptop placed on it.",
+          "attribute": "visual"
+        },
+        "Students": {
+          "description": "A small group of students seated in the classroom, some using laptops, observing the presentation. Subtitles clarify the class is larger than four people, though only a few are visible.",
+          "attribute": "visual"
+        },
+        "Automatic Door": {
+          "description": "A glass door with a yellow 'CAUTION' sign and a blue 'ACTIVATE SWITCH TO OPERATE' label, which the Young Man passes through upon entering the building.",
+          "attribute": "visual"
+        },
+        "Bicycle Handlebar": {
+          "description": "A black bicycle handlebar with a red frame, visible during the first-person riding sequence, indicating the mode of transportation used to reach the event and return home.",
+          "attribute": "visual"
+        },
+        "Projection Screen": {
+          "description": "A large screen displaying a document with text and later a graph titled 'Portfolio Returns Comparison', used during the presentation.",
+          "attribute": "visual"
+        },
+        "MIT Event Hall": {
+          "description": "A large, modern indoor space with bright lighting, wooden accents, and modern furniture, where the Young Man studies at a table with other students.",
+          "attribute": "visual"
+        },
+        "Dorm Room": {
+          "description": "A cluttered, personalized room with a black desk, two external monitors, a laptop, a red stress ball, a pen holder, and a window showing evening darkness, where the Young Man studies intensely.",
+          "attribute": "visual"
+        },
+        "Friend": {
+          "description": "A young man with long dark hair, wearing a green shirt under a black jacket, seen smiling and interacting with the Young Man at the MIT event and later in the dorm room.",
+          "attribute": "visual"
+        },
+        "Table": {
+          "description": "A light wooden table in the MIT Event Hall where the Young Man sits with his tablet and notebook, surrounded by other students studying.",
+          "attribute": "visual"
+        },
+        "Tablet": {
+          "description": "A tablet in a black case, propped on a stack of papers, used by the Young Man for reference while writing in his notebook.",
+          "attribute": "visual"
+        },
+        "Skateboard": {
+          "description": "A white skateboard with yellow wheels, used by the Young Man to travel to and from the student center at night, visible from a first-person perspective.",
+          "attribute": "visual"
+        },
+        "Notebook": {
+          "description": "A white notebook being written in by the Young Man with a black pen, placed on the desk alongside the tablet and papers.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video begins with the Young Man, wearing a pink t-shirt, seated in his LED-lit room, speaking directly to the camera about his academic workload. He clearly articulates his finance course project as a \"dynamic portfolio optimization trading strategy,\" which he's \"currently coding up in Julia\" and also has \"to write the report\" to present \"in less than an hour and a half.\" The room features LED strip lighting and a clothing rack. He then transitions to a close-up of his computer setup, displaying a Jupyter Notebook with Python code for portfolio calculations and a Word document outlining his project, which includes a table of 31 S&P 500 companies. A dramatic, slightly melancholic instrumental background music begins to play as the scene shifts to a cluttered woodshop. Here, the Young Man, now wearing safety glasses and earbuds, uses a Ryobi miter saw to cut a piece of wood, generating visible wood dust, while an on-screen subtitle humorously notes he \"forgot to add the dust vacuum oops.\" Afterward, he returns to his cluttered desk, adorned with papers, a red stress ball, and a pen holder, and resumes working on his report with his laptop and two external monitors, all accompanied by the continuing background music. The final scene shows him preparing to leave for class at 2:25 P.M., as indicated by a subtitle \"2:25 P.M. - Head to class.\" He grabs his black and silver bicycle from a hallway with a vibrant red wall, and the camera follows him as he walks out, signaling a transition to his next activity, with the instrumental music still playing.",
+        "The minute opens with a first-person perspective of someone riding a bicycle along a sunny sidewalk, passing a white pickup truck and a 'PAY HERE' sign, with sunlight casting long shadows, all set to an upbeat, driving electronic music track featuring a synth melody and a strong beat. The rider, a young Asian male wearing a pink t-shirt with a 'Kappa Sigma' graphic and a backpack, is seen from the front as he pedals through an urban environment with bare trees and parked cars. He then enters a building through an automatic glass door marked 'CAUTION' and ascends a staircase with a wooden handrail. The scene transitions to a classroom where the same Young Man stands at a wooden lectern, presenting to a small group of students. A large projection screen displays a document, and a blackboard is filled with complex mathematical equations, including references to 'Integration on manifolds' and 'Generalized Stokes Theorem'. Subtitles on screen clarify that this is a challenging, math-heavy MIT class and that the speaker felt confident about his presentation, despite the audio not recording. The electronic music continues throughout the presentation. After the presentation, the Young Man walks down a hallway, still wearing his pink t-shirt and backpack. The electronic music fades as he speaks in a male voice, stating, \"Just finished my final presentation. It went pretty well, actually,\" and that he's \"heading to a...\" (with subtitles indicating he's going to an event with a friend).",
+        "The video opens with a first-person perspective of a Young Man, an Asian male in a pink t-shirt, riding his bicycle down a city street at 4:00 P.M., as on-screen text indicates, with the setting sun casting long shadows. He is heard speaking at the beginning, stating his intention to go to an \"event to meet up with a friend.\" As upbeat electronic music begins to play, he arrives at an MIT-hosted event, meeting his friend—a young man with long dark hair in a green shirt and black jacket—in a large, modern hall illuminated with blue lighting and decorated with hanging paper cranes. They are seen smiling and interacting, with the Young Man holding a box of merchandise amidst a bustling indoor event space with people mingling, food tables, and a visible MIT logo. The Young Man then rides his bicycle home at 5:15 P.M., as on-screen text indicates, navigating dimly lit streets under streetlights, commenting on the early sunset, all accompanied by the continuous electronic music. He returns to his cluttered and personalized dorm room, adorned with posters, a TV, and a desk setup. After taking a mirror selfie, he joins his friend in the room, where they relax and begin to study. The Young Man sits at his black desk, surrounded by papers, a laptop, and two external monitors displaying Python code and project details, as he starts studying for a real estate finance final, noted in the subtitles. The room is lit by warm artificial light, with a window showing the darkening sky outside, and the electronic music fades out with a distinct \"ding\" sound at the end of the segment.",
+        "The minute opens with an upbeat, slightly melancholic electronic music track setting a focused tone as a Young Man, wearing a pink t-shirt and jeans with a black smartwatch, is seen intensely studying at his cluttered Dorm Room desk. He writes in a white Notebook, referencing a Tablet propped on papers, surrounded by two external monitors, a black ASUS Laptop, a red stress ball, and a pen holder, with a Window revealing the evening darkness outside. After closing his Notebook and gathering his belongings, the scene transitions to a first-person view of him skateboarding at night on a white skateboard with yellow wheels, accompanied by on-screen text indicating he's heading to the student center at \"5:30 P.M. - Meeting up with a friend to study\" and clarifying his mode of transport: \"(I'm going to the student center which is not that far so I'm skateboarding)\". The electronic music continues as he arrives at the brightly lit, modern MIT Event Hall, a spacious and renovated area with modern furniture and ambient lighting, where he sits at a light wooden Table with his Tablet and Notebook, working alongside other students. He remains focused on his studies, occasionally glancing at his Tablet, before the scene shifts back to him skateboarding through campus streets under streetlights at \"8:00 P.M. - Returning home (again)\", with the persistent electronic music underscoring his journey."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 9,
+      "end_minute": 9,
+      "summary": "The narrative begins in a communal dining area, likely a fraternity house, at 8:15 P.M. with several young men seated around wooden tables, eating and socializing to calm, ambient electronic music. The Young Man, dressed in a pink t-shirt and jeans, joins his friends at a table filled with grilled chicken, rice, and wraps, as a chef prepares dinner. He eats with focus using a fork from a black bowl, while others converse or use their phones amidst blue LED strip lighting. By 8:45 P.M., the scene shifts to the Young Man’s dorm room, now accompanied by a relaxed, instrumental lo-fi hip-hop track. He sorts a large pile of laundry on his bed, folding clothes while a tablet plays in the background. His room, cluttered with clothes, a red laundry basket, and a wooden dresser, is illuminated by soft, artificial lighting as he continues his late-night routine.",
+      "involved_entities": {
+        "Dining Area": {
+          "description": "A communal dining space with wooden tables and chairs, featuring a large 'KΣ' (Kappa Sigma) logo on the wall and an 'EXIT' sign above a door, where students are eating and socializing to the sound of calm, ambient electronic music.",
+          "attribute": "audio-visual"
+        },
+        "Wooden Dresser": {
+          "description": "A light wooden dresser with drawers, positioned near the door in the dorm room, serving as storage and part of the room’s furniture.",
+          "attribute": "visual"
+        },
+        "Tablet": {
+          "description": "A tablet in a black case, propped on a stack of papers, used by the Young Man for reference while writing in his notebook, and likely playing the lo-fi hip-hop music heard in the dorm room segment.",
+          "attribute": "audio-visual"
+        },
+        "Dorm Room": {
+          "description": "A cluttered, personalized room with a black desk, two external monitors, a laptop, a red stress ball, a pen holder, and a window showing evening darkness, where the Young Man sorts laundry, accompanied by a relaxed, instrumental lo-fi hip-hop track.",
+          "attribute": "audio-visual"
+        },
+        "Wrap": {
+          "description": "A freshly made wrap filled with grilled chicken, vegetables, and sauce, being assembled and eaten by the Young Man and others.",
+          "attribute": "visual"
+        },
+        "Young Man": {
+          "description": "A young Asian male wearing a pink t-shirt and jeans, seen eating dinner with friends and later sorting laundry in his dorm room, engaging in routine evening activities.",
+          "attribute": "visual"
+        },
+        "Laundry Pile": {
+          "description": "A large, disorganized heap of clothes on the Young Man’s bed, including various colors and types of garments, indicating a laundry task in progress.",
+          "attribute": "visual"
+        },
+        "Clothing Rack": {
+          "description": "A black metal rack with hangers holding clothes, visible in the Young Man's room, indicating personal belongings and a lived-in space.",
+          "attribute": "visual"
+        },
+        "Red Laundry Basket": {
+          "description": "A red plastic basket on the floor next to the bed, partially filled with clothes, used for sorting laundry.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens in a communal dining area, likely a fraternity house, where several young men are seated around wooden tables, eating and socializing to the backdrop of calm, ambient electronic music. The Young Man, wearing a pink t-shirt and jeans, joins his friends at a table laden with grilled chicken, rice, and wraps. On-screen text indicates it's 8:15 P.M. and notes that a chef prepares dinner. The Young Man eats with focus, using a fork from a black bowl, while others around him engage in conversation or use their phones, all within the casual, warm atmosphere enhanced by blue LED strip lighting. At 0:30, the scene transitions to the Young Man’s dorm room at 8:45 P.M., and the audio shifts to a relaxed, instrumental lo-fi hip-hop track. He begins sorting a large pile of laundry on his bed, folding clothes while a tablet, which he usually uses for videos or podcasts, plays in the background, likely providing the current music. His room is cluttered with clothes, a red laundry basket, and a wooden dresser, reflecting a lived-in, personal space under soft, artificial lighting as he continues his late-night routine."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 10,
+      "end_minute": 10,
+      "summary": "In his Dorm Room, a Young Man, clad in a pink 'Kappa Sigma' t-shirt, meticulously sorts a Laundry Pile into a Red Laundry Basket positioned on his bed, accompanied by a slow, atmospheric synth melody. He then dons a blue puffer jacket and departs, securing the door behind him. The setting transitions to a nocturnal campus scene, where the Young Man proceeds towards the Student Center, navigating a path bordered by barren trees and illuminated by streetlights, as the musical accompaniment evolves into an upbeat, rhythmic electronic track. Upon entering the Student Center via an Automatic Door, he passes an Exit sign. Within the MIT Event Hall, he settles at a Table, deeply engrossed in his studies, utilizing a Tablet placed atop papers and actively writing in a Notebook with a pen, all while the energetic electronic music persists as a subtle narrative element against the backdrop of the tranquil, academic atmosphere. Departing at 10:30 P.M., he ambles past cheerful Holiday Decorations, featuring a log cabin and an illuminated Christmas tree, beneath a dimly lit sky. The music reverts to a more atmospheric synth sound, harmonizing with his return journey past warmly lit windows and trees adorned with string lights.",
+      "involved_entities": {
+        "Table": {
+          "description": "A light wooden table in the MIT Event Hall where the Young Man sits with his Tablet and Notebook, surrounded by other students studying.",
+          "attribute": "visual"
+        },
+        "Student Center": {
+          "description": "A modern, well-lit indoor space with white walls, glass doors, and a visible Exit sign, where the Young Man studies.",
+          "attribute": "visual"
+        },
+        "Wooden Dresser": {
+          "description": "A light wooden dresser with drawers, positioned near the door in the dorm room, serving as storage.",
+          "attribute": "visual"
+        },
+        "Exit Sign": {
+          "description": "A red illuminated 'EXIT' sign above the glass doors of the Student Center, visible as the Young Man enters and exits the building.",
+          "attribute": "visual"
+        },
+        "Tablet": {
+          "description": "A tablet in a black case, propped on a stack of papers, used by the Young Man for reference while writing in his Notebook.",
+          "attribute": "visual"
+        },
+        "Dorm Room": {
+          "description": "A cluttered room with a bed covered in a Laundry Pile, a Red Laundry Basket, and a Wooden Dresser, where the Young Man sorts clothes before leaving.",
+          "attribute": "visual"
+        },
+        "Young Man": {
+          "description": "A young Asian male, initially in a pink t-shirt with a 'Kappa Sigma' graphic and later a blue puffer jacket, whose routine of sorting laundry, traveling, studying, and returning home is underscored by a dynamic musical progression, from an atmospheric synth melody to an upbeat electronic track, and back again.",
+          "attribute": "audio-visual"
+        },
+        "Notebook": {
+          "description": "A white notebook being written in by the Young Man with a black pen, placed on the desk alongside the Tablet and papers.",
+          "attribute": "visual"
+        },
+        "Laundry Pile": {
+          "description": "A large, disorganized heap of clothes on the bed, including various colors and types of garments, being sorted by the Young Man.",
+          "attribute": "visual"
+        },
+        "Automatic Door": {
+          "description": "A glass door with a yellow 'CAUTION' sign and a blue 'ACTIVATE SWITCH TO OPERATE' label, which the Young Man passes through upon entering the Student Center.",
+          "attribute": "visual"
+        },
+        "MIT Event Hall": {
+          "description": "A large, modern indoor space with bright lighting, wooden accents, and modern furniture, where the Young Man studies at a Table with a Tablet and Notebook.",
+          "attribute": "visual"
+        },
+        "Skateboard": {
+          "description": "A white skateboard with yellow wheels, visible from a first-person perspective as the Young Man rides it to the Student Center at night, with his journey accompanied by an upbeat, rhythmic electronic music track, enhancing the sense of movement.",
+          "attribute": "audio-visual"
+        },
+        "Holiday Decorations": {
+          "description": "Festive outdoor decorations including a wooden log cabin, reindeer, a Christmas tree with lights, and string lights on trees, seen as the Young Man leaves the Student Center at night.",
+          "attribute": "visual"
+        },
+        "Red Laundry Basket": {
+          "description": "A red plastic basket on the floor next to the bed, partially filled with clothes, used for sorting laundry.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a Dorm Room where a Young Man, wearing a pink 'Kappa Sigma' t-shirt, sorts a Laundry Pile into a Red Laundry Basket on his bed, all set to a slow, atmospheric synth melody. He then changes into a blue puffer jacket and leaves, closing the door. The scene shifts to a nighttime campus, with the Young Man walking towards the Student Center, the path lined with bare trees and streetlights, as the music transitions to an upbeat, rhythmic electronic track. He enters the Student Center through an Automatic Door, passing an Exit sign. Inside the MIT Event Hall, he sits at a Table, studying intently with a Tablet propped on papers and writing in a Notebook with a pen, while the energetic electronic music continues as a narrative backdrop to the quiet, studious environment. Exiting at 10:30 P.M., he walks past festive Holiday Decorations, including a log cabin and a lit Christmas tree, under a dimly lit sky, as the music shifts back to a more atmospheric synth sound, accompanying his journey home past glowing windows and string-lit trees."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 11,
+      "end_minute": 12,
+      "summary": "The video opens with a first-person view of a dimly lit city sidewalk at night, transitioning to a run on an illuminated orange track with the on-screen text \"(taking a shortcut)\", all set to an ethereal, atmospheric music with a slow synth melody and deep bass. The scene shifts to a clean, well-lit bathroom at 11:00 P.M., where the Young Man, wearing a pink 'Kappa Sigma' t-shirt, brushes his teeth, with subtitles noting \"Our bathroom is actually very nice because MIT cleans it.\" The music becomes more driving as the setting changes to a dorm room at 11:15 P.M., where the Young Man and two friends are present with a laptop, smartphone, water bottle, soda bottle, and a 'TAX THIS' Benjamin Franklin banner. The music fades as the Young Man, now in a gray MIT t-shirt, addresses the camera from his desk, which features a laptop and two external monitors displaying code, stating, \"It's about 11:30 p.m. right now. Got back, washed up, and currently checking emails and getting ready for tomorrow. Hopefully soon I'll be done with work and I could knock out.\" The minute concludes in an indoor hallway at 11:45 P.M. with the Young Man in a white Nike 'SPARTANS' t-shirt and a friend in a pink t-shirt, near a 'ROAD WORK' sign and a colorful mural, as text indicates \"(explaining a concept to my friend)\" and \"Sleepy time.\" The atmospheric music returns as the scene fades. The video concludes with a calm atmosphere and chill background music, showing a close-up of the Young Man's smartwatch displaying 11:53 PM with an alarm for 6:50 AM, reinforced by on-screen text \"It’s 11:53pm. My alarm is set for 6:50am\". The camera pulls back to reveal the Young Man in a well-lit bathroom, recording himself in the mirror with a red-cased smartphone, reflecting a clean sink, mouthwash, and wall art. The video ends with black screens displaying \"Thanks for watching,\" \"lmk any questions in the comments,\" and a prolonged black screen.",
+      "involved_entities": {
+        "Hallway": {
+          "description": "An indoor hallway with a 'ROAD WORK' sign, colorful mural, and a door, where the Young Man stands explaining a concept to a friend.",
+          "attribute": "visual"
+        },
+        "Subtitles": {
+          "description": "On-screen text providing context: 'It’s 11:53pm. My alarm is set for 6:50am', followed by 'Thanks for watching' and 'lmk any questions in the comments'.",
+          "attribute": "visual"
+        },
+        "Water Bottle": {
+          "description": "A metallic water bottle with a blue lid, placed on the floor in the dorm room, next to a bottle of soda.",
+          "attribute": "visual"
+        },
+        "Soda Bottle": {
+          "description": "A clear glass bottle with a red label, placed on the floor in the dorm room, next to the water bottle.",
+          "attribute": "visual"
+        },
+        "External Monitors": {
+          "description": "Two large external monitors displaying a Jupyter Notebook with Python code and a Word document with project details, positioned on either side of the laptop.",
+          "attribute": "visual"
+        },
+        "Bathroom": {
+          "description": "A clean, well-lit bathroom with a white sink, mirror, and countertop holding a blue bottle of mouthwash, with a decorative egg-shaped wall art and a purple door visible in the reflection.",
+          "attribute": "visual"
+        },
+        "Laptop": {
+          "description": "A black ASUS laptop with a cityscape wallpaper, placed on the desk and used for work alongside the external monitors.",
+          "attribute": "visual"
+        },
+        "Dorm Room": {
+          "description": "A casual living space with a couch, laptop, phone, and a large banner of Benjamin Franklin with the text 'TAX THIS' on the wall, indicating a relaxed, social environment.",
+          "attribute": "visual"
+        },
+        "Young Man": {
+          "description": "A young Asian male wearing a gray MIT t-shirt and black pants, standing in a bathroom, holding a red-cased smartphone to record himself in the mirror.",
+          "attribute": "visual"
+        },
+        "Benjamin Franklin Banner": {
+          "description": "A large black banner featuring a portrait of Benjamin Franklin with the text 'TAX THIS' displayed prominently on the wall in the dorm room.",
+          "attribute": "visual"
+        },
+        "Friend": {
+          "description": "A young man with long dark hair, wearing a green shirt under a black jacket, seen smiling and interacting with the Young Man at the MIT event and later in the dorm room.",
+          "attribute": "visual"
+        },
+        "Desk": {
+          "description": "A black desk with a laptop, external monitor, and various office supplies, including a pen holder and a paper towel roll, with a glowing blue PC case in the background.",
+          "attribute": "visual"
+        },
+        "Colorful Mural": {
+          "description": "A vibrant, abstract mural with red and orange tones visible in the hallway, adding artistic flair to the environment.",
+          "attribute": "visual"
+        },
+        "Smartphone": {
+          "description": "A red-cased smartphone held by the Young Man to record himself in the mirror.",
+          "attribute": "visual"
+        },
+        "Smartwatch": {
+          "description": "A black smartwatch on the Young Man’s wrist, displaying the time as 11:53 PM on Tuesday, with an alarm set for 6:50 AM.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a first-person perspective, visually guiding the viewer down a dimly lit city sidewalk at night, then transitioning to a run on an illuminated orange track, accompanied by on-screen text '(taking a shortcut)'. Throughout this initial sequence, an ethereal, atmospheric music with a slow, building synth melody and deep, resonant bass creates a cinematic mood. The scene then shifts to a clean, well-lit bathroom at '11:00 P.M.', where the Young Man, wearing a pink 'Kappa Sigma' t-shirt, brushes his teeth in front of a mirror, with on-screen text noting 'Our bathroom is actually very nice because MIT cleans it.' The atmospheric music continues with a more pronounced, driving synth beat as the setting changes to a casual dorm room at '11:15 P.M.', where the Young Man and two friends are chilling amidst a laptop, phone, a metallic water bottle, a soda bottle, and a large 'TAX THIS' Benjamin Franklin banner. The music fades as the Young Man, now in a gray MIT t-shirt, addresses the camera from his black desk, equipped with a laptop, two external monitors displaying code and project details, and a glowing blue PC case. He speaks clearly and articulately, stating, \"It's about 11:30 p.m. right now. Got back, washed up, and currently checking emails and getting ready for tomorrow. Hopefully soon I'll be done with work and I could knock out.\" The minute concludes with the Young Man, now in a white Nike 'SPARTANS' t-shirt, standing in an indoor hallway with a friend in a pink t-shirt, a 'ROAD WORK' sign, and a vibrant, colorful mural behind them, as on-screen text indicates '(explaining a concept to my friend)' and '11:45 P.M. - Sleepy time.' The atmospheric music returns, mirroring the opening's slow, building synth melody and deep bass, as the scene fades.",
+        "The video concludes with a calm and reflective atmosphere, underscored by continuous, chill background music playing throughout the segment. A close-up shot reveals a Young Man's wrist, showcasing a black smartwatch displaying the time as 11:53 PM on Tuesday, with an alarm set for 6:50 AM. On-screen text visually reinforces this, stating 'It’s 11:53pm. My alarm is set for 6:50am'. The camera then pulls back to reveal the Young Man, an Asian male wearing a gray MIT t-shirt and black pants, standing in a well-lit bathroom. He holds a red-cased smartphone, recording himself in the mirror, which reflects a clean white sink, a blue bottle of mouthwash on the counter, and decorative wall art. The scene transitions to a black screen with white text that reads 'Thanks for watching,' followed by another black screen displaying 'lmk any questions in the comments.' The video then ends with a prolonged black screen, indicating the conclusion of the content, with the warm indoor lighting contributing to the serene, end-of-day mood."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Gym Interior": "A well-lit, spacious gym with various equipment including weight racks, barbells, and benches, accompanied by upbeat, rhythmic electronic music and the distinct sounds of weights clanking. Other individuals are visible working out in the background, and the space features high ceilings and large structural beams.",
+    "Young Man": "A young Asian male wearing a gray MIT t-shirt and black pants, standing in a bathroom, holding a red-cased smartphone to record himself in the mirror.",
+    "Stationary Bike": "A black and silver exercise bike with a digital display, used for warm-up in the gym.",
+    "Bicycle Handlebar": "A black bicycle handlebar with a red frame, visible during the first-person riding sequence, indicating the mode of transportation used to reach the event and return home.",
+    "Fraternity House Hallway": "A vibrant, personalized hallway with a red wall, where the bicycle is stored and the Young Man prepares to leave for class.",
+    "Phone Alarm": "A smartphone screen displaying 7:27 A.M. with an orange 'Snooze' button, used to wake the man up.",
+    "Protein Smoothie Ingredients": "A collection of items including a clear blender cup, frozen fruit, chia seeds, espresso powder, unflavored whey protein powder, and milk, used to prepare a post-workout smoothie, accompanied by sounds of liquid pouring and items being placed into the cup. Brands like 'Cafe Bustelo' and 'Hood' are visible.",
+    "Nutribullet Blender": "A red personal blender with a clear cup, used to mix the smoothie ingredients, appearing at the end of the segment with ambient, synth-heavy music playing. The brand name 'nutribullet' is visible on the base.",
+    "Blender Cup": "A clear, reusable plastic cup with measurement markings, used to hold the smoothie ingredients before blending, with sounds of items being added. It is placed on a black countertop during preparation.",
+    "Subtitles": "On-screen text providing context: 'It’s 11:53pm. My alarm is set for 6:50am', followed by 'Thanks for watching' and 'lmk any questions in the comments'.",
+    "Dining Area": "A communal dining space with wooden tables and chairs, featuring a large 'KΣ' (Kappa Sigma) logo on the wall and an 'EXIT' sign above a door, where students are eating and socializing to the sound of calm, ambient electronic music.",
+    "External Monitors": "Two large external monitors displaying a Jupyter Notebook with Python code and a Word document with project details, positioned on either side of the laptop.",
+    "Window": "A large window with a view of bare trees and a darkening sky, providing natural light to the workspace, now showing evening darkness.",
+    "Laptop": "A black ASUS laptop with a cityscape wallpaper, placed on the desk and used for work alongside the external monitors.",
+    "Kitchen Counter": "A stainless steel kitchen counter with trays of fresh vegetables, sauces, and cooking tools, where the wrap is being prepared.",
+    "Wrap": "A freshly made wrap filled with grilled chicken, vegetables, and sauce, being assembled and eaten by the Young Man and others.",
+    "Chef's Hands": "A pair of hands wearing a white glove, assembling a wrap with fresh ingredients on a green cutting board in a kitchen setting.",
+    "Friend": "A young man with long dark hair, wearing a green shirt under a black jacket, seen smiling and interacting with the Young Man at the MIT event and later in the dorm room.",
+    "Desk": "A black desk with a laptop, external monitor, and various office supplies, including a pen holder and a paper towel roll, with a glowing blue PC case in the background.",
+    "Laundry Room": "A utility space with white washing machines and dryers, where the Young Man loads laundry and starts a wash cycle, with a notice label visible on the machine. The sound of a washing machine starting is heard.",
+    "Clothing Rack": "A black metal rack with hangers holding clothes, visible in the Young Man's room, indicating personal belongings and a lived-in space.",
+    "Bicycle": "A black and silver bicycle with a red frame, stored in a hallway with a red wall, which the Young Man grabs to head to class.",
+    "Wood Dust": "Fine particles of wood generated during cutting with the miter saw, visible in the air as the Young Man works in the woodshop.",
+    "Safety Glasses": "Clear protective eyewear worn by the Young Man while operating the miter saw in the woodshop.",
+    "Woodshop": "A cluttered workshop with tools, a Ryobi miter saw, and various woodworking supplies, where the Young Man cuts wood.",
+    "Ryobi Miter Saw": "A white and blue Ryobi miter saw used to cut wood, generating visible dust during operation.",
+    "Earbuds": "White wireless earbuds worn by the Young Man in the woodshop, indicating he is listening to audio while working.",
+    "Hallway": "An indoor hallway with a 'ROAD WORK' sign, colorful mural, and a door, where the Young Man stands explaining a concept to a friend.",
+    "Blackboard": "A large blackboard filled with handwritten mathematical formulas and proofs, including references to 'Integration on manifolds' and 'Generalized Stokes Theorem', indicating the advanced nature of the class.",
+    "Staircase": "A set of dark, worn concrete stairs with a wooden handrail, which the Young Man ascends after entering the building.",
+    "Classroom": "A lecture hall with tiered seating, a large projection screen displaying a document, and a blackboard covered in advanced mathematical equations. The Young Man stands at a lectern presenting to a small group of students.",
+    "Lectern": "A wooden podium where the Young Man stands during his presentation, with a laptop placed on it.",
+    "Students": "A small group of students seated in the classroom, some using laptops, observing the presentation. Subtitles clarify the class is larger than four people, though only a few are visible.",
+    "Automatic Door": "A glass door with a yellow 'CAUTION' sign and a blue 'ACTIVATE SWITCH TO OPERATE' label, which the Young Man passes through upon entering the Student Center.",
+    "Projection Screen": "A large screen displaying a document with text and later a graph titled 'Portfolio Returns Comparison', used during the presentation.",
+    "MIT Event Hall": "A large, modern indoor space with bright lighting, wooden accents, and modern furniture, where the Young Man studies at a Table with a Tablet and Notebook.",
+    "Dorm Room": "A casual living space with a couch, laptop, phone, and a large banner of Benjamin Franklin with the text 'TAX THIS' on the wall, indicating a relaxed, social environment.",
+    "Table": "A light wooden table in the MIT Event Hall where the Young Man sits with his Tablet and Notebook, surrounded by other students studying.",
+    "Tablet": "A tablet in a black case, propped on a stack of papers, used by the Young Man for reference while writing in his Notebook.",
+    "Skateboard": "A white skateboard with yellow wheels, visible from a first-person perspective as the Young Man rides it to the Student Center at night, with his journey accompanied by an upbeat, rhythmic electronic music track, enhancing the sense of movement.",
+    "Notebook": "A white notebook being written in by the Young Man with a black pen, placed on the desk alongside the Tablet and papers.",
+    "Wooden Dresser": "A light wooden dresser with drawers, positioned near the door in the dorm room, serving as storage.",
+    "Laundry Pile": "A large, disorganized heap of clothes on the bed, including various colors and types of garments, being sorted by the Young Man.",
+    "Red Laundry Basket": "A red plastic basket on the floor next to the bed, partially filled with clothes, used for sorting laundry.",
+    "Student Center": "A modern, well-lit indoor space with white walls, glass doors, and a visible Exit sign, where the Young Man studies.",
+    "Exit Sign": "A red illuminated 'EXIT' sign above the glass doors of the Student Center, visible as the Young Man enters and exits the building.",
+    "Holiday Decorations": "Festive outdoor decorations including a wooden log cabin, reindeer, a Christmas tree with lights, and string lights on trees, seen as the Young Man leaves the Student Center at night.",
+    "Water Bottle": "A metallic water bottle with a blue lid, placed on the floor in the dorm room, next to a bottle of soda.",
+    "Soda Bottle": "A clear glass bottle with a red label, placed on the floor in the dorm room, next to the water bottle.",
+    "Bathroom": "A clean, well-lit bathroom with a white sink, mirror, and countertop holding a blue bottle of mouthwash, with a decorative egg-shaped wall art and a purple door visible in the reflection.",
+    "Benjamin Franklin Banner": "A large black banner featuring a portrait of Benjamin Franklin with the text 'TAX THIS' displayed prominently on the wall in the dorm room.",
+    "Colorful Mural": "A vibrant, abstract mural with red and orange tones visible in the hallway, adding artistic flair to the environment.",
+    "Smartphone": "A red-cased smartphone held by the Young Man to record himself in the mirror.",
+    "Smartwatch": "A black smartwatch on the Young Man’s wrist, displaying the time as 11:53 PM on Tuesday, with an alarm set for 6:50 AM."
+  }
+}

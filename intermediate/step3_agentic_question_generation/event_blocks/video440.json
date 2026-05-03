@@ -1,0 +1,1508 @@
+{
+  "video_id": "video440",
+  "audio_id": "video440_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 4,
+      "summary": "A human hand, with light-colored nail polish, begins by placing a cardboard house cutout onto a green background amidst upbeat, playful music with 'boing' and 'pop' sound effects, leading into an animated 'CARDBOARD WORLD' title sequence. The scene shifts to a miniature kitchen setup on a pink star-patterned background, featuring a blue faucet with golden fixtures and a wooden crate of orange carrots, where a male voice exclaims \"Oh no!\" followed by a 'boing'. The hand then places a yellow plush toy into a pink dollhouse bed, accompanied by more playful sounds, before a blue screen displays 'CARDBOARD WORLD IS RATED 13 YEARS AND OLDER' with a 'pop'. Crafting commences with the assembly of a pink cardboard structure with white polka dots, as a child's voice begins instructions. A white scalloped awning and a pink grid-patterned floor are added, introducing upbeat, jazzy instrumental music that continues throughout. The structure is expanded with orange floor sections and a pink grid-patterned platform. The hand constructs a small cardboard box with a hinged lid, later decorated with a glittery pink panel resembling a miniature oven or appliance with a functional interface. The video then shows the hand assembling a small orange cardboard cabinet with yellow handles on the grid-patterned floor. In a blue workspace, a yellow plastic knob is attached to a small orange stick, and glue is applied to the cabinet handles. A dark marble-patterned cardboard countertop with a circular cutout is placed on the cabinet. The hand decorates a white plastic cap with a green marker to create a sink basin, attaches a blue flexible plastic tube as a faucet, and adds small golden faucet knobs, placing the sink on the countertop with a 'clack' or 'thud' sound. A blue clay ball is used to create a decorative element beside the sink, accompanied by a 'swish' sound. The setting alternates between pink star-patterned and blue backgrounds, with 'Cardboard World' text visible. The hand shapes a blue clay ball into a rectangular form, presses it into a mold, adds silver eyes to create a face, and bends golden wire into a spiral for attachment. The miniature kitchen setup includes the sink on a marble-print countertop, a blue flexible faucet, and golden knobs. A green plastic cap with white polka dots, holding a miniature plant with orange berries, is placed on the countertop, along with a small wooden rack and a blue clay ball with a golden spiral. A miniature spatula is formed from a wooden stick and strip. The hand cuts a wooden stick with scissors, attaches it to a wooden strip to form the spatula, and places it on a pink surface. The hand uses scissors to cut the wooden stick, then attaches it to a flat wooden strip to form a miniature spatula, placing it on a pink surface. The sound of scissors cutting is heard, followed by liquid pouring or splashing. The hand constructs a cardboard cabinet by folding and assembling cardboard, painting it orange with yellow handles, and placing it on a grid-patterned floor, with 'boing' and 'thud' sounds. A white scalloped awning is added to the cabinet. Finally, a white cardboard box with red trim is cut and assembled into a two-compartment structure and placed on the pink star-patterned background.",
+      "involved_entities": {
+        "Blue Background": {
+          "description": "A solid blue surface used as a workspace for assembling the blue clay object and the miniature plant.",
+          "attribute": "visual"
+        },
+        "Scalloped Awning": {
+          "description": "A white, scalloped-edge cardboard piece attached to the top of the pink structure, resembling a storefront awning.",
+          "attribute": "visual"
+        },
+        "Dollhouse Bed": {
+          "description": "A pink bed with a white grid-patterned mattress, part of the dollhouse interior where the yellow plush toy is placed.",
+          "attribute": "visual"
+        },
+        "Hand": {
+          "description": "A human hand with light-colored nail polish, actively assembling and decorating miniature objects, including shaping clay, bending wire, and attaching components to a dollhouse kitchen setup. Its actions are accompanied by the distinct sounds of scissors cutting and liquid pouring.",
+          "attribute": "audio-visual"
+        },
+        "Grid-Patterned Floor": {
+          "description": "A pink floor with a white grid pattern, added to the interior of the cardboard structure.",
+          "attribute": "visual"
+        },
+        "Pink Star-Patterned Background": {
+          "description": "A vibrant pink backdrop with white star patterns, used for displaying the miniature kitchen setup and dollhouse scenes.",
+          "attribute": "visual"
+        },
+        "White Plastic Sink Basin": {
+          "description": "A white plastic cap decorated with a green marker and used as a miniature sink basin, placed on the countertop, seemingly involved in the sound of liquid pouring or splashing.",
+          "attribute": "audio-visual"
+        },
+        "Marble-Print Countertop": {
+          "description": "A dark blue cardboard piece with a white marble-like pattern and a circular cutout, used as a kitchen countertop where the sink and plant are placed.",
+          "attribute": "visual"
+        },
+        "Blue Flexible Faucet": {
+          "description": "A blue, coiled plastic tube attached to the sink basin to simulate a faucet.",
+          "attribute": "visual"
+        },
+        "Blue Clay Ball": {
+          "description": "A round blue clay object shaped into a rectangular form with eyes and a golden spiral decoration, placed beside the sink as a decorative item.",
+          "attribute": "visual"
+        },
+        "Orange Cardboard Cabinet": {
+          "description": "A small cardboard box painted orange with yellow handles, assembled and placed on the grid-patterned floor as a kitchen cabinet, its construction or placement possibly accompanied by a 'boing' and 'thud' sound.",
+          "attribute": "audio-visual"
+        },
+        "Golden Faucet Knobs": {
+          "description": "Small golden plastic pieces attached to the countertop beside the sink to represent faucet handles.",
+          "attribute": "visual"
+        },
+        "Wooden Stick and Strip Assembly": {
+          "description": "A small wooden stick glued to a flat wooden strip, forming a miniature spatula or tool, placed on the countertop.",
+          "attribute": "visual"
+        },
+        "Green Plastic Cap with Polka Dots": {
+          "description": "A small green plastic cap decorated with white polka dots, used as a miniature pot for a tiny plant with orange berries.",
+          "attribute": "visual"
+        },
+        "Pliers": {
+          "description": "Metal pliers used to bend a golden wire into a spiral shape for decoration.",
+          "attribute": "visual"
+        },
+        "Craft Knife": {
+          "description": "A small knife used to cut the miniature plant stems to fit into the green plastic cap.",
+          "attribute": "visual"
+        },
+        "Miniature Plant with Orange Berries": {
+          "description": "A small artificial plant with green leaves and orange berry-like tips, inserted into the green plastic cap to create a potted plant.",
+          "attribute": "visual"
+        },
+        "White Cardboard Box with Red Trim": {
+          "description": "A white cardboard box with red trim, assembled into a two-compartment structure and placed on the pink star-patterned background.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a human hand, featuring light-colored nail polish, placing a cardboard house cutout onto a green background, accompanied by upbeat, playful music punctuated with 'boing' and 'pop' sound effects. This transitions into a vibrant, animated title sequence displaying 'CARDBOARD WORLD' amidst colorful crafting tools and materials. The scene then shifts to a miniature kitchen setup with a blue faucet, golden fixtures, and a wooden crate holding orange carrots, all set against a pink star-patterned background, where a voice exclaims \"Oh no!\" followed by another 'boing' sound. The hand then places a yellow plush toy into a pink dollhouse bed, with more playful sound effects, before a blue screen displays the rating 'CARDBOARD WORLD IS RATED 13 YEARS AND OLDER' with a distinct 'pop'. The crafting process begins with the hands assembling a pink cardboard structure with white polka dots, as a child's voice starts to instruct, \"Now I'm going to show you how to make a...\". A white scalloped awning and a pink grid-patterned floor are added, while upbeat, slightly jazzy instrumental music begins and continues throughout the rest of the segment. The structure is expanded with additional cardboard pieces, including a small orange floor section and a pink grid-patterned platform. The hands then construct a small cardboard box with a hinged lid, which is later decorated with a glittery pink panel featuring a digital timer and a colorful display, resembling a miniature oven or appliance. The minute concludes with the detailed, decorated cardboard kitchen appliance, featuring a functional-looking interface, set to the ongoing jazzy music.",
+        "The video opens with a close-up of a pink cardboard structure, featuring a white grid-patterned floor and a star-patterned pink background, establishing a dollhouse-like setting, all set to a continuous, upbeat, and playful instrumental background music. A human Hand appears, actively assembling a small orange cardboard cabinet with yellow handles, which is then placed on the grid-patterned floor. The scene shifts to a blue workspace where the Hand attaches a yellow plastic knob to a small orange stick, likely for a faucet, and then applies glue to the cabinet’s handles. The Hand then places a dark marble-patterned cardboard countertop with a circular cutout onto the cabinet, completing a kitchen unit. Next, the Hand decorates a white plastic cap with a green marker, transforming it into a sink basin, and attaches a blue flexible plastic tube as a faucet. Small golden faucet knobs are added, and the sink is placed on the countertop, accompanied by a distinct 'clack' or 'thud' sound. The Hand then uses a blue clay ball to create a decorative element, possibly a soap dispenser or a toy, which is placed beside the sink, followed by a 'swish' sound. Throughout, the setting alternates between the pink star-patterned background and the blue workspace, with the Hand consistently manipulating materials to build and decorate the miniature kitchen, while the text 'Cardboard World' remains visible in the bottom left corner.",
+        "The minute is set to a continuous, cheerful, upbeat, and whimsical instrumental background music, reminiscent of a playful cartoon score. A human hand, adorned with light-colored nail polish, meticulously crafts miniature objects. The process begins with a close-up of the hand shaping a blue clay ball into a rectangular form on a vibrant yellow and pink background, then pressing it into a clear plastic mold to achieve a smooth, rounded top. Subsequently, two small, round, silver eyes are added to the blue clay object, transforming it into a cute, face-like figure. The hand then uses pliers to bend a thin golden wire into a spiral, which is attached to the blue clay object as a decorative element. The scene transitions to a miniature kitchen setup on a pink star-patterned background, where the hand places a white plastic cap, resembling a sink basin, onto a dark blue marble-print countertop. A blue flexible faucet is attached to the cap, and golden faucet knobs are positioned beside it. Following this, the hand decorates a small green plastic cap with white polka dots and inserts a tiny green plant with orange berries, creating a miniature potted plant that is then placed on the countertop. Finally, a small piece of wooden stick is cut and glued to a flat wooden strip, forming a miniature spatula or tool, which is also placed on the countertop. Throughout these detailed crafting steps, the hand works with precision, utilizing tools like pliers, glue, and a craft knife, with the workspace backgrounds alternating between solid blue and pink star-patterned surfaces. The text 'Cardboard World' is consistently displayed at the bottom of the screen in white font with a pink outline, all accompanied by the continuous playful background music.",
+        "The minute opens with a close-up of a human hand, adorned with light-colored nail polish, meticulously using scissors to cut a small wooden stick, then attaching it to a flat wooden strip to form a miniature spatula, which is placed on a pink surface. Throughout this, and the subsequent scenes, an upbeat, playful, and slightly whimsical background music, reminiscent of a cartoon or circus theme, plays continuously. The scene transitions to the hand assembling a miniature kitchen setup on a vibrant pink star-patterned background. A white plastic sink basin, made from a cap decorated with green marker, is placed on a dark blue marble-print countertop, followed by a blue flexible faucet and golden faucet knobs. A male voice exclaims \"Oh no!\" at one point, adding a brief, surprised vocal element. The distinct sound of scissors cutting is heard as the hand continues its work, followed by the sound of liquid pouring or splashing, possibly related to the sink. A green plastic cap with white polka dots, holding a miniature plant with orange berries, is added next to the sink, along with a small wooden rack and a blue clay ball with a golden spiral. The hand then constructs a cardboard cabinet by folding and assembling a piece of cardboard, painting it orange with yellow handles, and placing it on a grid-patterned floor, with a \"boing\" and \"thud\" sound possibly accompanying its construction or placement. A white scalloped awning is added to the cabinet's top. Finally, the hand cuts and assembles a white cardboard box with red trim, creating a two-compartment structure, which is placed on the pink star-patterned background, all while the text 'Cardboard World' remains visible at the bottom of the screen."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 5,
+      "end_minute": 6,
+      "summary": "An upbeat, circus-like instrumental tune accompanies a Hand assembling a white cardboard piece with red outlines into a two-compartment structure on a pink star-patterned background. The Hand then meticulously sets up a miniature kitchen on a pink grid-patterned floor, featuring an orange cardboard cabinet, a marble-print countertop with a white plastic sink basin, a blue flexible faucet, golden faucet knobs, a blue clay ball, and a green plastic cap with polka dots holding a miniature plant with orange berries. Around 23 seconds, the music shifts to a playful, cartoonish instrumental as the Hand cuts and folds a pink paper heart, glues small white and pink clay pieces to form a tiny bear face, and places it on a yellow cloud-shaped mat. The Hand then glues a cardboard piece labeled 'Bear' and covers it with pink paper, placing it on the pink star-patterned background. At 00:38, the music becomes a relaxed, jazzy instrumental, and the Hand places a pink paper-covered cardboard piece onto a larger pink structure with a scalloped awning, completing the dollhouse kitchen. Subsequently, a march-like instrumental tune plays as the Hand wraps a beige cardboard piece with pink-and-white checkered paper using a craft knife on the grid-patterned floor. The scene transitions to a blue background where the Hand cuts and glues white felt into a 3D cloud, attaching a pink paper heart and a green clay dot to create a face. Colorful pencils, yellow doll figurines, and pink pig figurines are visible in the background, with 'Cardboard World' text displayed at the bottom. The music transitions to a whimsical, melancholic instrumental piece, maintaining a carousel-like feel until the segment ends.",
+      "involved_entities": {
+        "Pink Paper Heart": {
+          "description": "A small pink paper cut into a heart shape, attached to the 3D white felt cloud to form part of its face, its placement occurring as the background music transitions to a whimsical, slightly melancholic instrumental piece.",
+          "attribute": "audio-visual"
+        },
+        "Golden Faucet Knobs": {
+          "description": "Small golden plastic pieces attached to the countertop beside the sink to represent faucet handles.",
+          "attribute": "visual"
+        },
+        "Yellow Cloud Mat": {
+          "description": "A bright yellow, cloud-shaped mat placed on the grid-patterned floor to serve as a decorative base for the crafted bear.",
+          "attribute": "visual"
+        },
+        "Marble-Print Countertop": {
+          "description": "A dark blue cardboard piece with a white marble-like pattern and a circular cutout, used as a kitchen countertop where the sink and plant are placed.",
+          "attribute": "visual"
+        },
+        "Hand": {
+          "description": "A human hand with light-colored nail polish, actively assembling and decorating miniature objects, its precise movements synchronized with the segment's evolving instrumental music, from upbeat circus-like tunes to march-like calliope melodies and whimsical, melancholic pieces.",
+          "attribute": "audio-visual"
+        },
+        "Cardboard Sign with 'Bear'": {
+          "description": "A cardboard piece with the word 'Bear' written in cursive, covered with pink paper and placed on the pink star-patterned background as a decorative sign.",
+          "attribute": "visual"
+        },
+        "Blue Clay Ball": {
+          "description": "A round blue clay object shaped into a rectangular form with eyes and a golden spiral decoration, placed beside the sink as a decorative item.",
+          "attribute": "visual"
+        },
+        "Green Plastic Cap with Polka Dots": {
+          "description": "A small green plastic cap decorated with white polka dots, used as a miniature pot for a tiny plant with orange berries.",
+          "attribute": "visual"
+        },
+        "Orange Cardboard Cabinet": {
+          "description": "A small cardboard box painted orange with yellow handles, assembled and placed on the grid-patterned floor as a kitchen cabinet.",
+          "attribute": "visual"
+        },
+        "Scalloped Awning": {
+          "description": "A white, scalloped-edge cardboard piece attached to the top of the pink structure, resembling a storefront awning.",
+          "attribute": "visual"
+        },
+        "White Cardboard Box with Red Trim": {
+          "description": "A white cardboard box with red trim, assembled into a two-compartment structure and placed on the pink star-patterned background.",
+          "attribute": "visual"
+        },
+        "Pink Star-Patterned Background": {
+          "description": "A vibrant pink backdrop with white star patterns, used for displaying the miniature kitchen setup and dollhouse scenes, visible during the initial crafting steps accompanied by upbeat, playful, circus-like instrumental music.",
+          "attribute": "audio-visual"
+        },
+        "Miniature Plant with Orange Berries": {
+          "description": "A small artificial plant with green leaves and orange berry-like tips, inserted into the green plastic cap to create a potted plant.",
+          "attribute": "visual"
+        },
+        "White Plastic Sink Basin": {
+          "description": "A white plastic cap decorated with a green marker and used as a miniature sink basin, placed on the countertop.",
+          "attribute": "visual"
+        },
+        "Blue Flexible Faucet": {
+          "description": "A blue, coiled plastic tube attached to the sink basin to simulate a faucet.",
+          "attribute": "visual"
+        },
+        "Grid-Patterned Floor": {
+          "description": "A pink floor with a white grid pattern, part of the dollhouse kitchen setup where the initial cardboard piece is placed, seen while upbeat, circus-like instrumental music plays.",
+          "attribute": "audio-visual"
+        },
+        "White Felt Cloud": {
+          "description": "A white felt piece cut, folded, and glued into a 3D cloud, then decorated with a pink paper heart and a tiny green clay dot to create a face, its creation unfolding against a backdrop of march-like and whimsical instrumental music.",
+          "attribute": "audio-visual"
+        },
+        "Yellow Doll Figurines": {
+          "description": "Two small yellow-clad doll figurines placed in the background, contributing to the playful aesthetic, visible as different instrumental tunes play.",
+          "attribute": "audio-visual"
+        },
+        "Colorful Pencils": {
+          "description": "A set of colorful pencils arranged in the background, adding visual interest to the crafting workspace, consistently visible throughout the segment's varied instrumental music.",
+          "attribute": "audio-visual"
+        },
+        "Craft Knife": {
+          "description": "A small knife used for precise cutting of checkered paper and white felt, its use spanning different musical transitions within the segment.",
+          "attribute": "audio-visual"
+        },
+        "Pink Pig Figurines": {
+          "description": "Three small pink pig figurines with colored clothing, visible in the background during the cloud-making process, against a backdrop of instrumental music.",
+          "attribute": "audio-visual"
+        },
+        "Blue Background": {
+          "description": "A solid blue surface serving as a workspace for crafting the white felt cloud, appearing as the background music shifts to a distinct, march-like instrumental tune.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with an upbeat, whimsical circus-like instrumental music playing as a Hand, with light-colored nail polish, assembles a white cardboard piece with red outlines into a two-compartment structure, placing it on a pink star-patterned background. The scene then transitions to the Hand meticulously setting up a miniature kitchen, featuring a pink grid-patterned floor, an orange cardboard cabinet, a marble-print countertop with a white plastic sink basin, a blue flexible faucet, golden faucet knobs, a blue clay ball, and a green plastic cap with polka dots holding a miniature plant with orange berries. Around the 23-second mark, the background music shifts to a more playful, cartoonish instrumental tune as the Hand cuts a pink paper into a heart shape, folds it, and applies glue to attach small white and pink clay pieces to form a tiny bear face. This crafted bear is then carefully placed on a yellow, cloud-shaped mat on the grid-patterned floor. Next, the Hand applies glue to a cardboard piece with the word 'Bear' written in cursive, covers it with pink paper, and places it on the pink star-patterned background. As the music transitions again to a relaxed, jazzy instrumental around 00:38, the final scene shows the Hand placing a pink paper-covered cardboard piece onto a larger pink structure with a scalloped awning, completing the charming dollhouse kitchen setup.",
+        "The segment opens with upbeat, playful, circus-like instrumental music as a hand places a beige cardboard piece onto a pink grid-patterned floor within a dollhouse kitchen setup, which features a pink star-patterned background and a scalloped awning. The hand then applies glue to the cardboard and meticulously wraps it with pink-and-white checkered paper, folding and securing the edges with a craft knife. The music then shifts to a distinct, march-like instrumental tune, reminiscent of a calliope or carousel, as the scene transitions to a blue background. Here, the hand cuts a piece of white felt into a cloud shape, folds it, and glues it together to form a 3D cloud. The hand proceeds to apply glue to the top of the cloud and attaches a small pink paper heart, followed by a tiny green clay dot, creating a decorative cloud with a charming face. Throughout these crafting activities, colorful pencils, two yellow-clad doll figurines, and three pink pig figurines are visible in the background, contributing to the playful, crafty atmosphere. The on-screen text 'Cardboard World' remains consistently displayed at the bottom of the frame, while the background music transitions once more to a whimsical, slightly melancholic instrumental piece, maintaining the carousel-like feel until the segment concludes."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 7,
+      "end_minute": 18,
+      "summary": "A human hand, adorned with light-colored nail polish and animal-themed nail art, meticulously crafts miniature items against a backdrop that shifts from blue to pink star-patterned surfaces, all accompanied by upbeat, whimsical instrumental music. The hand shapes clay into various forms, including a yellow clay bear face with a red clay bow, a white clay bunny with black marker features and pink blush, and a red clay brick pattern. Cardboard is cut and assembled into structures like a pink bear-shaped headboard, a rainbow TV with pom-pom knobs, a miniature bookshelf with a Disney princess book, a pink glitter drawer unit, and a storefront with a white scalloped awning. A toy dump truck labeled 'CARDBOARD WORLD' deposits orange clay bricks, which are then arranged into a U-shaped structure. The hand also constructs a miniature garden with red clay bricks, wooden sticks, green clay vines, and red berries, using a blue watering can. Decorative elements such as pink paper hearts, white beaded trim, white lace trim, yellow bows, and colorful pencils are incorporated throughout the process. The on-screen text 'Cardboard World' is consistently visible, reinforcing the brand identity as the detailed miniature creations, including a dollhouse bed, ball pit, and kitchen, are assembled into a cohesive, playful scene.",
+      "involved_entities": {
+        "White Felt Cloud": {
+          "description": "A white felt piece cut into a cloud shape, decorated with pink clay dots and a green clay dot to form a face, shown being assembled and placed on the bed.",
+          "attribute": "visual"
+        },
+        "Blue Pen": {
+          "description": "A blue pen used to draw the eyes on the yellow clay bear face, providing initial facial detail.",
+          "attribute": "visual"
+        },
+        "Pink Paper Heart": {
+          "description": "A small pink paper cut into a heart shape, folded and glued to the top of the pink bear-shaped cardboard to form a face.",
+          "attribute": "visual"
+        },
+        "Pink Pig Figurines": {
+          "description": "Three small pink pig figurines with colored clothing, visible in the background during the cloud-making and bear crafting process.",
+          "attribute": "visual"
+        },
+        "Pink Star-Patterned Background": {
+          "description": "A vibrant pink backdrop with white star patterns, visible behind the miniature garden setup, adding to the whimsical aesthetic.",
+          "attribute": "visual"
+        },
+        "Blue Background": {
+          "description": "A solid blue surface visible on the right side of the frame, serving as a backdrop for the crafting area and contrasting with the pink and purple elements.",
+          "attribute": "visual"
+        },
+        "Colorful Pencils": {
+          "description": "A set of colorful pencils arranged in the background, adding visual interest and context to the crafting environment.",
+          "attribute": "visual"
+        },
+        "Red Clay Bow": {
+          "description": "A small red clay piece shaped into a bow, glued to the top of the yellow clay bear head as a decorative accessory.",
+          "attribute": "visual"
+        },
+        "Dollhouse Bed": {
+          "description": "A pink bed with a white grid-patterned mattress, shown assembled with the green scalloped headboard and placed on a grid-patterned floor, later receiving the blue floral box and bunny decoration.",
+          "attribute": "visual"
+        },
+        "Craft Knife": {
+          "description": "A small knife used to cut the white cardboard strip into a book or card shape, shown in close-up during the cutting process.",
+          "attribute": "visual"
+        },
+        "Hand": {
+          "description": "A human hand with light-colored nail polish and cute animal-themed nail art, actively handling cardboard pieces, applying glue, inserting wooden sticks, and decorating the structure.",
+          "attribute": "visual"
+        },
+        "Black Marker": {
+          "description": "A black marker used to draw the eyes and mouth on the white clay bunny face, providing facial detail.",
+          "attribute": "visual"
+        },
+        "Grid-Patterned Floor": {
+          "description": "A pink floor with a white grid pattern, serving as the base for the dollhouse bed and other miniature furniture.",
+          "attribute": "visual"
+        },
+        "Wooden Stick and Strip Assembly": {
+          "description": "Small wooden sticks inserted vertically into the red clay base, serving as supports for the climbing vines in the miniature garden.",
+          "attribute": "visual"
+        },
+        "Yellow Doll Figurines": {
+          "description": "Two small yellow-clad doll figurines placed in the background, contributing to the playful aesthetic.",
+          "attribute": "visual"
+        },
+        "Pliers": {
+          "description": "Metal pliers used to bend a golden wire into a spiral shape for decoration.",
+          "attribute": "visual"
+        },
+        "Yellow Cloud Mat": {
+          "description": "A bright yellow, cloud-shaped mat placed on the grid-patterned floor to serve as a decorative base for the crafted bear.",
+          "attribute": "visual"
+        },
+        "Marble-Print Countertop": {
+          "description": "A dark blue cardboard piece with a white marble-like pattern and a circular cutout, used as a kitchen countertop where the sink and plant are placed.",
+          "attribute": "visual"
+        },
+        "Cardboard Sign with 'Bear'": {
+          "description": "A cardboard piece with the word 'Bear' written in cursive, covered with pink paper and placed on the pink star-patterned background as a decorative sign.",
+          "attribute": "visual"
+        },
+        "Blue Clay Ball": {
+          "description": "A round blue clay object shaped into a rectangular form with eyes and a golden spiral decoration, placed beside the sink as a decorative item.",
+          "attribute": "visual"
+        },
+        "Green Plastic Cap with Polka Dots": {
+          "description": "A small green plastic cap decorated with white polka dots, used as a miniature pot for a tiny plant with orange berries.",
+          "attribute": "visual"
+        },
+        "Scalloped Awning": {
+          "description": "A white, scalloped-edge cardboard piece attached to the top of the pink structure, resembling a storefront awning and framing the top of the scene.",
+          "attribute": "visual"
+        },
+        "Orange Cardboard Cabinet": {
+          "description": "A small cardboard box painted orange with yellow handles, assembled and placed on the grid-patterned floor as a kitchen cabinet.",
+          "attribute": "visual"
+        },
+        "White Cardboard Box with Red Trim": {
+          "description": "A white cardboard box with red trim, assembled into a two-compartment structure and placed on the pink star-patterned background.",
+          "attribute": "visual"
+        },
+        "Blue Clay Ball Pit": {
+          "description": "An orange bear-shaped cardboard container filled with blue clay balls, placed on the grid-patterned floor as a miniature ball pit.",
+          "attribute": "visual"
+        },
+        "Yellow Clay Bear Face": {
+          "description": "A yellow clay sphere with drawn eyes, nose, and mouth, topped with a red clay bow, held and displayed by the hand.",
+          "attribute": "visual"
+        },
+        "Miniature Plant with Orange Berries": {
+          "description": "A small artificial plant with green leaves and orange berry-like tips, inserted into the green plastic cap to create a potted plant.",
+          "attribute": "visual"
+        },
+        "White Plastic Sink Basin": {
+          "description": "A white plastic cap decorated with a green marker and used as a miniature sink basin, placed on the countertop.",
+          "attribute": "visual"
+        },
+        "Blue Flexible Faucet": {
+          "description": "A blue, coiled plastic tube attached to the sink basin to simulate a faucet.",
+          "attribute": "visual"
+        },
+        "Golden Faucet Knobs": {
+          "description": "Small golden plastic pieces attached to the countertop beside the sink to represent faucet handles.",
+          "attribute": "visual"
+        },
+        "On-Screen Text 'Cardboard World'": {
+          "description": "White text with a pink outline at the bottom of the frame, consistently displayed throughout the video, indicating the channel or brand name.",
+          "attribute": "visual"
+        },
+        "White Beaded Trim": {
+          "description": "A string of small white beads applied around the base of the pink bear structure as a decorative border.",
+          "attribute": "visual"
+        },
+        "Yellow Glue Bottle": {
+          "description": "A yellow bottle labeled 'BULAIEN' with a white nozzle, used to apply adhesive to the pink drawer unit, TV, and storefront structure during assembly and decoration.",
+          "attribute": "visual"
+        },
+        "Golden Glitter Cardboard": {
+          "description": "A square piece of golden glittery cardboard used as a base for the bear face, later cut to shape with a craft knife.",
+          "attribute": "visual"
+        },
+        "Rainbow TV": {
+          "description": "A small cardboard TV with rainbow-colored horizontal stripes, white pom-pom knobs, and a red power button, placed on the pink drawer unit.",
+          "attribute": "visual"
+        },
+        "Pink Glitter Drawer Unit": {
+          "description": "A rectangular pink glittery cardboard piece with yellow drawer fronts and golden knobs, assembled as a miniature furniture piece.",
+          "attribute": "visual"
+        },
+        "Glittery Cardboard Staircase": {
+          "description": "A miniature staircase made of purple, green, and blue glittery cardboard blocks, assembled on a wooden base within the dollhouse setting.",
+          "attribute": "visual"
+        },
+        "Yellow Bow": {
+          "description": "A small yellow ribbon bow, glued onto the blue floral-patterned box as a decorative accent.",
+          "attribute": "visual"
+        },
+        "White Lace Trim": {
+          "description": "A delicate white lace strip with scalloped edges, used to decorate the blue floral-patterned box, adding a decorative border.",
+          "attribute": "visual"
+        },
+        "Green Scalloped Cardboard Piece": {
+          "description": "A green cardboard cutout with a scalloped top edge, resembling a storefront awning or decorative panel, assembled into a bed frame and placed on the pink star-patterned background.",
+          "attribute": "visual"
+        },
+        "Green Clay Ball": {
+          "description": "A small green clay sphere attached to the top of the green polka-dotted cardboard box as a decorative element.",
+          "attribute": "visual"
+        },
+        "White Clay Ball": {
+          "description": "A round white clay object shaped into a bunny head with ears, decorated with facial features and blush, used as a miniature figurine.",
+          "attribute": "visual"
+        },
+        "Miniature Books": {
+          "description": "A set of colorful, thin cardboard books in purple, pink, blue, green, orange, and red, arranged inside the yellow box to simulate a bookshelf.",
+          "attribute": "visual"
+        },
+        "White Swan Figurine": {
+          "description": "A small white swan figurine with a pink beak, placed on the lower shelf of the yellow box.",
+          "attribute": "visual"
+        },
+        "Red Object": {
+          "description": "A small red object, possibly a decorative item or toy, placed beside the white swan in the yellow box.",
+          "attribute": "visual"
+        },
+        "Blue and Yellow Surface": {
+          "description": "A two-toned surface with blue and yellow sections, used as a workspace for shaping and decorating the clay bear and bunny.",
+          "attribute": "visual"
+        },
+        "Disney Princess Book": {
+          "description": "A small white cardboard book with a colorful Disney princess illustration, cut from a strip and placed into the yellow box as a decorative item.",
+          "attribute": "visual"
+        },
+        "Red Clay Ball": {
+          "description": "A round red clay object shaped into a flat rectangle, textured with a wire tool to resemble bricks, and used as the base for the miniature garden.",
+          "attribute": "visual"
+        },
+        "Orange Clay Bricks": {
+          "description": "Small orange clay blocks, dumped from the truck and arranged into a U-shaped structure on the red clay base, forming a border for the garden.",
+          "attribute": "visual"
+        },
+        "Wire Tool": {
+          "description": "A thin metal wire bent into a U-shape, used to press into the red clay to create a brick pattern, visible during the shaping process.",
+          "attribute": "visual"
+        },
+        "Green Plastic Tool": {
+          "description": "A green plastic tool, possibly a crafting knife or shaper, held by the hand at the beginning and used to press into the red clay, resembling a hammer or mallet.",
+          "attribute": "visual"
+        },
+        "Toy Dump Truck": {
+          "description": "A yellow toy dump truck labeled 'CARDBOARD WORLD' with black wheels, used to dump orange clay bricks and colorful miniature items onto the red clay base.",
+          "attribute": "visual"
+        },
+        "Miniature Garden Setup": {
+          "description": "A constructed scene featuring red clay base, orange clay bricks, wooden sticks, green vines with red berries, and clay balls, forming a playful miniature garden.",
+          "attribute": "visual"
+        },
+        "Cotton Swab": {
+          "description": "A white cotton swab used to spread glue evenly on the pink cardboard frame, ensuring proper adhesion.",
+          "attribute": "visual"
+        },
+        "White Glue-like Substance": {
+          "description": "A white, viscous substance applied to the U-shaped cardboard piece, likely a glue or paint base, which is then marbled with blue for decoration.",
+          "attribute": "visual"
+        },
+        "U-Shaped Cardboard Piece": {
+          "description": "A brown cardboard piece cut into a U-shape, used as a countertop or shelf, which is later decorated with a blue and white marbled pattern.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with an upbeat, whimsical jazz instrumental playing as a human hand, adorned with light-colored nail polish, meticulously decorates a white felt cloud with pink clay dots using a toothpick against a vibrant blue background. The lively music continues as the hand sketches a bear-shaped outline on white cardboard with an orange pencil, then precisely cuts it out using a craft knife. The cut-out is then painted bright pink with a brush, and a small pink paper heart is glued to the top to form a face detail. This pink bear-shaped piece is then assembled into a dollhouse bed with a white grid-patterned mattress, placed on a pink grid-patterned floor. The background music shifts to a more playful, cartoonish jazz tune as the hand shapes a small yellow clay ball into a bear head, adding two small ears and a red clay bow on top. With a blue pen, eyes are drawn, followed by a black marker for the nose and mouth, completing the bear’s face. Throughout the crafting, the background alternates between blue and pink star-patterned surfaces, with colorful pencils and small pink pig figurines visible in the periphery, adding to the playful atmosphere, all while the cheerful instrumental music provides a continuous soundtrack to the detailed miniature creation process, culminating in a close-up of the fully detailed bear face ready for its dollhouse setting.",
+        "The minute opens with upbeat, playful, jazzy instrumental music featuring a prominent saxophone melody and a walking bassline, as a human hand with light-colored nail polish uses a blue pen to draw eyes on a yellow clay bear face. The hand then details the bear's nose and mouth with a black marker before attaching a small red clay bow to its head, completing the face. The finished yellow clay bear face is then placed on a vibrant pink star-patterned background, and subsequently positioned on a pink dollhouse bed with a white grid-patterned mattress. The hand assembles a pink bear-shaped cardboard headboard, attaching a small pink paper heart to form a face, and places it on the bed. The scene transitions to the hand cutting a white cardboard bear shape with a craft knife on a solid blue workspace, accompanied by a distinct \"boing\" sound effect. The cardboard bear is then painted orange and placed on a pink grid-patterned floor, where it is filled with blue clay balls to resemble a miniature ball pit, all while the playful music continues. The hand proceeds to assemble a white cardboard box with red trim into a two-compartment structure, placing it on the pink star-patterned background. A bright yellow, cloud-shaped mat is laid on the grid-patterned floor, and a cardboard sign with 'Bear' written in cursive, covered with pink paper, is displayed, punctuated by another \"boing\" sound. The hand also assembles a white felt cloud, decorating it with pink and green clay dots for a face, and places it on the bed. Throughout these crafting steps, colorful pencils, yellow doll figurines, and pink pig figurines are visible in the background, adding to the playful atmosphere. The video concludes with the completed bear-themed dollhouse setup, including the bed with its scalloped awning, the ball pit, and various decorative elements, all arranged on the grid-patterned floor, as the upbeat music continues and a final \"boing\" sound is heard.",
+        "The minute opens with a close-up of a vibrant pink dollhouse kitchen, featuring a grid-patterned floor, an orange cardboard cabinet, a marble-print countertop with a white plastic sink basin, a blue flexible faucet, golden faucet knobs, a blue clay ball, a green plastic cap with polka dots holding a miniature plant with orange berries, and a wooden stick and strip assembly, all set to the continuous backdrop of upbeat, whimsical instrumental music. The Hand then enters the frame, holding a white rectangular cardboard piece, which is folded and glued to a pink paper heart to form a bear-shaped structure. Applying glue from a yellow bottle labeled 'BULAIEN', the Hand attaches a green scalloped awning to the top of the pink bear structure, followed by adding yellow circular clay dots and a white beaded trim around its base. The bear is further decorated with a red clay bow, and facial features are drawn on a yellow clay bear face using a blue pen and black marker. The completed bear face is placed on a golden glittery cardboard base, which is then refined with a craft knife. The Hand assembles a white cardboard box with red trim into a two-compartment structure on a pink star-patterned background. The video concludes with the Hand placing the finished bear-shaped structure into the dollhouse, next to a blue clay ball pit, and adding a cardboard sign with 'Bear' written in cursive, covered with pink paper, to the scene. Throughout the crafting process, the environment shifts from a yellow to a blue background, finally settling on the pink star-patterned background for the final display, with the on-screen text 'Cardboard World' consistently visible at the bottom of the frame, all accompanied by the playful, continuous instrumental music.",
+        "The minute opens with a close-up of a human hand, adorned with light-colored nail polish, meticulously assembling a miniature staircase crafted from glittery purple, green, and blue cardboard blocks. This construction takes place on a wooden base within a vibrant pink dollhouse setting, all against a solid blue workspace, while an upbeat, playful instrumental tune with a bright, percussive melody plays. The hand then transitions to crafting a pink glittery drawer unit, applying yellow rectangular panels and small golden knobs as handles, and securing them with silver screws, all to the rhythm of the cheerful music. A yellow glue bottle labeled 'BULAIEN' is briefly visible as the hand applies adhesive. The scene shifts to a vibrant pink star-patterned backdrop as the hand decorates a small cardboard TV with rainbow-colored horizontal stripes, adding white pom-poms as knobs and a red dot as a power button, before placing it on the pink drawer unit. Next, the hand assembles a cardboard sign with the word 'Bear' written in cursive, covers it with pink paper, and positions it beside the TV. Colorful pencils and two yellow doll figurines are visible in the periphery, contributing to the playful aesthetic. Around the 0:45 mark, the background music changes to a different, yet equally upbeat and playful, instrumental tune with a more cartoonish or circus-like feel, featuring prominent brass or woodwind sounds. To this new melody, the hand attaches a white scalloped awning to the top of the pink structure (the combined drawer unit and TV/sign display) and adds a white beaded trim along its base, completing the miniature storefront. Throughout the entire segment, the on-screen text 'Cardboard World' is consistently displayed at the bottom of the frame in white with a pink outline. Other elements like a pink dollhouse bed with a white grid-patterned mattress, a grid-patterned floor, an orange cardboard cabinet, and a white cardboard box with red trim are also visible within the broader dollhouse environment.",
+        "The minute opens with a human hand, adorned with light-colored nail polish, actively assembling a pink cardboard drawer unit on a solid blue workspace, applying glue to its base and attaching small red wheels to its underside, all set to the backdrop of continuous upbeat, playful electronic music. The hand then wraps the unit with pink foam, meticulously trimming excess with scissors to create a soft, textured finish, before adding a white beaded trim along the bottom edge for decoration. The scene transitions to a vibrant, fully assembled dollhouse interior, showcasing a colorful kitchen with a dark blue marble-print countertop, a white plastic sink with a blue flexible faucet, golden knobs, and a miniature potted plant with orange berries in a green polka-dotted cap. A blue clay ball with a golden spiral sits beside the sink, and a wooden stick and strip assembly rests nearby. The hand continues crafting, constructing a storefront structure with a white scalloped awning, placing it on a pink grid-patterned floor. The video progresses with the hand crafting a rainbow TV, complete with white pom-pom knobs and a red power button, which is then placed on a pink glitter drawer unit. A cardboard sign with 'Bear' written in cursive, covered with pink paper, is displayed, alongside a yellow clay bear face with drawn eyes, nose, and mouth, topped with a red clay bow. The hand then assembles a pink bear-shaped headboard for a dollhouse bed, placing it on a bright yellow cloud-shaped mat. The final scene reveals the completed dollhouse, featuring the pink bed with a white grid-patterned mattress, an orange cardboard cabinet with yellow handles, an orange bear-shaped container filled with blue clay balls as a ball pit, and a glittery staircase made of purple, green, and blue blocks. The background shifts from the initial blue workspace to a vibrant pink star-patterned backdrop, while the on-screen text 'Cardboard World' remains visible throughout, emphasizing the brand. Colorful pencils, yellow doll figurines, and pink pig figurines add to the bright and playful, whimsical atmosphere, all underscored by the cheerful electronic music.",
+        "The video begins with a close-up of a pink cardboard dollhouse structure, featuring a white grid-patterned wall and a vibrant pink floor, all set to a cheerful, upbeat, and somewhat jazzy instrumental background music. A Hand, adorned with light-colored nail polish and cute animal-themed nail art, carefully places a purple cardboard panel decorated with white bunny and star patterns into the structure. The scene transitions to the Hand applying glue from a yellow glue bottle labeled 'BULAIEN' to a small brown cardboard piece, then covering it with a pink glittery paper, forming a drawer unit, as the playful music continues. The Hand then assembles a blue floral-patterned cardboard piece into a box, which is later decorated with white lace trim and a yellow bow. The background shifts from a solid blue surface to a pink star-patterned backdrop, where the Hand places a green scalloped cardboard piece, possibly a storefront awning, onto a pink structure. The background music then transitions to a different, equally light and playful, cartoonish instrumental tune. The Hand continues to assemble and decorate various miniature items, including a rainbow TV with white pom-pom knobs and a red power button, and a cardboard sign with the word 'Bear' written in cursive, covered with pink paper. The on-screen text 'Cardboard World' remains consistently displayed at the bottom of the frame throughout the video. The final scenes show the Hand placing the completed pink glitter drawer unit, the rainbow TV, and the storefront structure into the dollhouse, completing the miniature room setup, all accompanied by the whimsical background music.",
+        "The minute unfolds with a close-up of a hand, featuring cute animal-themed nail art, as it assembles a green scalloped cardboard piece into a small bed frame against a pink star-patterned background. An upbeat, whimsical jazzy instrumental tune provides a cheerful backdrop to the crafting. The hand then places a blue and white floral-patterned box, adorned with white lace trim and a yellow bow, onto the bed. Transitioning to a blue background, the hand skillfully manipulates a white clay ball, shaping it into a bunny head with ears, before using a black marker to draw eyes and a smile, and applying pink blush from a colorful eyeshadow palette to its cheeks. The completed bunny face is then carefully positioned on the bed. Subsequently, the hand picks up a green cardboard box with white polka dots, applies glue from a blue glue gun, and attaches a small green clay ball to the top, completing a miniature decorative item. Throughout these detailed crafting activities, the on-screen text 'Cardboard World' is consistently visible at the bottom, with colorful pencils and small figurines in the background enhancing the playful crafting ambiance, all harmonized by the continuous, lively background music.",
+        "The video opens with a close-up of a hand, adorned with animal-themed nail art, holding a green cardboard bed frame, all set to a backdrop of whimsical, cartoon-like instrumental music. The hand carefully places the bed frame into a vibrant pink dollhouse, featuring a grid-patterned floor. The crafting continues as the hand shapes white clay into a miniature lampshade, drawing charming facial features with a black marker before attaching it to a wire stem threaded with pink beads. This tiny lamp is then painted with blue glitter glue and positioned beside the bed. The upbeat music accompanies the assembly of a glittery purple cardboard staircase, which is layered with green and blue glittery blocks and placed within the dollhouse. Next, the hand decorates a pink drawer unit with bright yellow drawer fronts and golden knobs, placing it alongside the bed. A rainbow-colored TV, complete with white pom-pom knobs and a red power button, is then set atop the drawer unit. Finally, a blue floral-patterned box, adorned with white lace trim and a yellow bow, is decorated and placed on the bed. Throughout these intricate crafting steps, the background shifts between a pink star-patterned backdrop and a solid blue surface, with colorful pencils and small figurines visible, while the on-screen text 'Cardboard World' remains consistently displayed at the bottom of the frame, all underscored by the playful instrumental tune.",
+        "Set against a continuous backdrop of cheerful, whimsical orchestral music that transitions from a classic cartoon style to a more brass-heavy, jazzy tune around the 38-second mark, the video begins with a close-up of a hand, adorned with animal-themed nail art, meticulously folding a yellow cardboard piece into a small box. This miniature box is then placed on a colorful dollhouse setting, highlighted by a pink star-patterned background. The hand proceeds to use a craft knife to cut a white cardboard strip, fashioning it into a small book featuring a Disney princess illustration, which is then carefully positioned inside the yellow box to simulate a bookshelf. A pink tool aids the hand in arranging a collection of colorful miniature books within the box, before adding a white swan figurine and a small red object to the lower shelf. The scene then shifts to the hand shaping a pink clay ball into a bear head, complete with white clay eyes and a red clay bow, placing it on a blue and yellow surface. The crafting continues as a white clay bunny is decorated with black marker eyes and pink blush, then placed beside the bear. Colorful pencils, a blue penguin figurine, and a mermaid doll are visible in the background, contributing to the playful, craft-focused atmosphere, while the on-screen text 'Cardboard World' remains visible throughout, reinforcing the brand identity.",
+        "The video opens with an upbeat, playful instrumental tune, setting a cheerful mood as a vibrant, colorful dollhouse scene unfolds. A hand, adorned with light-colored nail polish and cute animal-themed nail art, is seen meticulously folding and assembling a yellow cardboard box against a pink star-patterned background and a grid-patterned floor. The hand then carefully places a pink drawer unit with yellow fronts and golden knobs onto the floor, followed by a charming rainbow TV with pom-pom knobs and a red power button. The scene transitions to a blue background, where the same hand skillfully shapes a red clay ball into a flat rectangle, cuts it into strips, and uses a wire tool to create a detailed brick pattern, all while the cheerful music continues. A yellow toy dump truck, clearly labeled 'CARDBOARD WORLD', then appears, dumping orange clay bricks onto the red clay base. These bricks are then arranged into a U-shaped structure. The hand places this orange brick structure onto the initial pink star-patterned background, positioning it next to a glittery staircase and a yellow box containing miniature books, a white swan figurine, and a small red object. The segment concludes with the hand holding a green plastic tool, possibly for crafting, as the 'Cardboard World' text is displayed at the bottom of the frame, accompanied by the ongoing lively music.",
+        "The video opens to a vibrant, colorful miniature world crafted from cardboard and clay, set against a bright pink and purple backdrop with a scalloped awning, all underscored by continuous, upbeat instrumental music with a whimsical, circus-like feel. A human hand, adorned with light-colored nail polish and cute animal-themed nail art, enters the frame holding a green plastic tool. To the lively soundtrack, the hand presses the tool into a block of red clay, shaping it into a rectangular base. A small blue watering can and a U-shaped structure of orange clay bricks are visible nearby. The hand then places a toy dump truck, labeled 'CARDBOARD WORLD' and filled with colorful miniature items like a blue book and a yellow box, onto the pink surface. The truck is tipped, silently dumping its contents onto the red clay base, while the cheerful music continues. Next, the hand inserts wooden sticks into the clay for vertical supports. The blue watering can is used to 'water' the sticks, and green clay vines with red berries are added, transforming the setup into a miniature garden with climbing plants. Small white and purple clay balls, resembling flowers or fruits, are then placed at the base. Finally, the hand holds a piece of corrugated cardboard, hinting at a new structure or roof, as the on-screen text 'Cardboard World' remains visible, reinforcing the playful, hands-on crafting theme, all perfectly complemented by the continuous, energetic background music.",
+        "The video segment begins with a close-up of a hand, adorned with cute animal-themed nail art, holding a stack of corrugated cardboard, showcasing its layered structure against a vibrant pink and blue background. Throughout the entire minute, a cheerful, whimsical background music, reminiscent of a children's cartoon or playful soundtrack, provides a constant upbeat accompaniment. The hand then places a white cardboard strip onto a blue surface, followed by a pink paper square being inserted into a rectangular cardboard frame. Using a yellow bottle labeled 'BULAIEN', the hand applies glue to the pink frame, then meticulously spreads the adhesive evenly with a white cotton swab. Next, two wooden sticks—one yellow, one green—are inserted vertically into the pink frame, creating a support structure. A white glue-like substance is then applied to a U-shaped cardboard piece, which is subsequently decorated with a blue and white marbled pattern using a brush. This marbled piece is then attached to the pink frame, forming a countertop or shelf. The on-screen text 'Cardboard World' remains visible at the bottom, reinforcing the brand identity. The segment concludes with the completed structure placed within a miniature dollhouse setting, featuring pink walls with white patterns, a purple glittery cabinet, and small decorative items like mushrooms and colorful pencils in the background, all set to the continuous, lively background music."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 19,
+      "end_minute": 20,
+      "summary": "The video begins with a miniature garden setup on a pink base with white stripes, featuring orange clay bricks in a U-shape, green vines with red berries, and white and purple clay balls, accompanied by cheerful instrumental music. A Hand with animal-themed nail art places a pink mushroom figurine into a woven basket containing a blue watering can and a white ball. The scene shifts to a pink star-patterned background with a white cardboard box with red trim, where the Hand cuts a black cardboard piece with scissors and places it on a blue surface, then positions a blue pot with a golden knob on a countertop. Transitioning to a pink background with a rainbow, the Hand cuts a blue and white checkered fabric into a circle and trims it with scissors, then cuts a blue square of cardboard. The on-screen text 'Cardboard World' is visible throughout. The minute then focuses on a blue cardboard square on a pink surface, surrounded by toys, with upbeat music. The Hand uses a pink compass to draw an arc on the cardboard, cuts it into a semi-circle with green-handled scissors, folds it into a 3D arch, and glues a blue and white checkered circular piece to its base, creating a miniature chair, which is then decorated with golden glitter glue along the edges. This chair is placed in a dollhouse kitchen scene with a pink and purple theme, a stove, a blue pot, yellow fries, and a glittery staircase. The Hand then applies yellow glue from a bottle to a pink cardboard piece. The on-screen text 'Cardboard World' remains visible, and the cheerful music continues.",
+      "involved_entities": {
+        "On-Screen Text 'Cardboard World'": {
+          "description": "White text with a pink outline at the bottom of the frame, consistently displayed throughout the video, indicating the channel or brand name, visible as cheerful background music plays.",
+          "attribute": "audio-visual"
+        },
+        "Pink Base with White Stripes": {
+          "description": "A pink rectangular base with white vertical stripes, serving as the foundation for the miniature garden setup.",
+          "attribute": "visual"
+        },
+        "White Cardboard Box with Red Trim": {
+          "description": "A white cardboard box with red trim, assembled into a two-compartment structure and placed on the pink star-patterned background.",
+          "attribute": "visual"
+        },
+        "Orange Clay Bricks": {
+          "description": "Small orange clay blocks arranged in a U-shape on a red clay base, forming a border for the miniature garden.",
+          "attribute": "visual"
+        },
+        "Blue Background": {
+          "description": "A solid blue surface visible on the right side of the frame, serving as a backdrop for the crafting area and contrasting with the pink and purple elements.",
+          "attribute": "visual"
+        },
+        "Pink Star-Patterned Background": {
+          "description": "A vibrant pink backdrop with white star patterns, visible behind the miniature garden setup, adding to the whimsical aesthetic.",
+          "attribute": "visual"
+        },
+        "Woven Basket": {
+          "description": "A small brown woven basket containing a blue watering can and a white ball, placed beside the mushroom figurine in the miniature garden.",
+          "attribute": "visual"
+        },
+        "White and Purple Clay Balls": {
+          "description": "Round clay balls in white and purple, placed on the red clay base to resemble flowers or fruits in the garden.",
+          "attribute": "visual"
+        },
+        "Mushroom Figurine": {
+          "description": "A pink, round figurine with a red cap and white spots, resembling a mushroom, placed into the woven basket.",
+          "attribute": "visual"
+        },
+        "Hand": {
+          "description": "A human hand with light-colored nail polish and cute animal-themed nail art, actively handling cardboard pieces, applying glue, and decorating the structure, all while upbeat, whimsical instrumental music plays in the background.",
+          "attribute": "audio-visual"
+        },
+        "White Ball": {
+          "description": "A small white spherical object, placed inside the woven basket alongside the blue watering can.",
+          "attribute": "visual"
+        },
+        "Blue Watering Can": {
+          "description": "A small blue plastic watering can with a handle, placed inside the woven basket as part of the garden setup.",
+          "attribute": "visual"
+        },
+        "Green Vines with Red Berries": {
+          "description": "Artificial green vines with red berry-like tips, inserted into the red clay base as part of the garden decoration.",
+          "attribute": "visual"
+        },
+        "Wooden Stick and Strip Assembly": {
+          "description": "Small wooden sticks inserted vertically into the red clay base, serving as supports for the climbing vines in the miniature garden.",
+          "attribute": "visual"
+        },
+        "Cotton Swab": {
+          "description": "A white cotton swab used to spread glue evenly on the pink cardboard frame, ensuring proper adhesion.",
+          "attribute": "visual"
+        },
+        "Pink Glitter Drawer Unit": {
+          "description": "A rectangular pink glittery cardboard piece with yellow drawer fronts and golden knobs, assembled as a miniature furniture piece.",
+          "attribute": "visual"
+        },
+        "Pink Compass": {
+          "description": "A pink compass with a white handle, used by the Hand to draw a semi-circular arc on the blue cardboard, against a backdrop of whimsical instrumental music.",
+          "attribute": "audio-visual"
+        },
+        "Yellow Cloud Mat": {
+          "description": "A bright yellow, cloud-shaped mat placed on the grid-patterned floor to serve as a decorative base for the crafted bear.",
+          "attribute": "visual"
+        },
+        "Colorful Pencils": {
+          "description": "A set of colorful pencils arranged in the background, adding visual interest and context to the crafting environment.",
+          "attribute": "visual"
+        },
+        "Toy Dump Truck": {
+          "description": "A yellow toy dump truck labeled 'CARDBOARD WORLD' with black wheels, used to dump orange clay bricks and colorful miniature items onto the red clay base.",
+          "attribute": "visual"
+        },
+        "Black Marker": {
+          "description": "A black marker used to draw the eyes and mouth on the white clay bunny face, providing facial detail.",
+          "attribute": "visual"
+        },
+        "Yellow Clay Bear Face": {
+          "description": "A yellow clay sphere with drawn eyes, nose, and mouth, topped with a red clay bow, held and displayed by the hand.",
+          "attribute": "visual"
+        },
+        "Blue Clay Ball": {
+          "description": "A round blue clay object shaped into a rectangular form with eyes and a golden spiral decoration, placed beside the sink as a decorative item.",
+          "attribute": "visual"
+        },
+        "Green Plastic Cap with Polka Dots": {
+          "description": "A small green plastic cap decorated with white polka dots, used as a miniature pot for a tiny plant with orange berries.",
+          "attribute": "visual"
+        },
+        "Scalloped Awning": {
+          "description": "A white, scalloped-edge cardboard piece attached to the top of the pink structure, resembling a storefront awning and framing the top of the scene.",
+          "attribute": "visual"
+        },
+        "Pink Pig Figurines": {
+          "description": "Three small pink pig figurines with colored clothing, visible in the background during the cloud-making and bear crafting process.",
+          "attribute": "visual"
+        },
+        "Miniature Books": {
+          "description": "A set of colorful, thin cardboard books in purple, pink, blue, green, orange, and red, arranged inside the yellow box to simulate a bookshelf.",
+          "attribute": "visual"
+        },
+        "Green Scalloped Cardboard Piece": {
+          "description": "A green cardboard cutout with a scalloped top edge, resembling a storefront awning or decorative panel, assembled into a bed frame and placed on the pink star-patterned background.",
+          "attribute": "visual"
+        },
+        "White Felt Cloud": {
+          "description": "A white felt piece cut into a cloud shape, decorated with pink clay dots and a green clay dot to form a face, shown being assembled and placed on the bed.",
+          "attribute": "visual"
+        },
+        "Pink Paper Heart": {
+          "description": "A small pink paper cut into a heart shape, folded and glued to the top of the pink bear-shaped cardboard to form a face.",
+          "attribute": "visual"
+        },
+        "Yellow Bow": {
+          "description": "A small yellow ribbon bow, glued onto the blue floral-patterned box as a decorative accent.",
+          "attribute": "visual"
+        },
+        "Green Clay Ball": {
+          "description": "A small green clay sphere attached to the top of the green polka-dotted cardboard box as a decorative element.",
+          "attribute": "visual"
+        },
+        "Green Plastic Tool": {
+          "description": "A green plastic tool, possibly a crafting knife or shaper, held by the hand at the beginning and used to press into the red clay, resembling a hammer or mallet.",
+          "attribute": "visual"
+        },
+        "White Beaded Trim": {
+          "description": "A string of small white beads applied around the base of the pink bear structure as a decorative border.",
+          "attribute": "visual"
+        },
+        "Dollhouse Kitchen Scene": {
+          "description": "A colorful miniature kitchen setup with pink and purple walls, a stove with a blue pot, a plate of yellow fries, and a glittery staircase, serving as the environment for the miniature chair, with whimsical instrumental music playing.",
+          "attribute": "audio-visual"
+        },
+        "Golden Glitter Cardboard": {
+          "description": "A square piece of golden glittery cardboard used as a base for the bear face, later cut to shape with a craft knife.",
+          "attribute": "visual"
+        },
+        "Blue Clay Ball Pit": {
+          "description": "An orange bear-shaped cardboard container filled with blue clay balls, placed on the grid-patterned floor as a miniature ball pit.",
+          "attribute": "visual"
+        },
+        "White Lace Trim": {
+          "description": "A delicate white lace strip with scalloped edges, used to decorate the blue floral-patterned box, adding a decorative border.",
+          "attribute": "visual"
+        },
+        "White Glue-like Substance": {
+          "description": "A white, viscous substance applied to the U-shaped cardboard piece, likely a glue or paint base, which is then marbled with blue for decoration.",
+          "attribute": "visual"
+        },
+        "Red Clay Bow": {
+          "description": "A small red clay piece shaped into a bow, glued to the top of the yellow clay bear head as a decorative accessory.",
+          "attribute": "visual"
+        },
+        "White Swan Figurine": {
+          "description": "A small white swan figurine with a pink beak, placed on the lower shelf of the yellow box.",
+          "attribute": "visual"
+        },
+        "Miniature Chair": {
+          "description": "A completed 3D miniature chair made from blue cardboard, featuring a checkered seat and golden glittered edges, which is placed into a dollhouse kitchen scene, all set to upbeat background music.",
+          "attribute": "audio-visual"
+        },
+        "U-Shaped Cardboard Piece": {
+          "description": "A brown cardboard piece cut into a U-shape, used as a countertop or shelf, which is later decorated with a blue and white marbled pattern.",
+          "attribute": "visual"
+        },
+        "Miniature Plant with Orange Berries": {
+          "description": "A small artificial plant with green leaves and orange berry-like tips, inserted into the green plastic cap to create a potted plant.",
+          "attribute": "visual"
+        },
+        "White Plastic Sink Basin": {
+          "description": "A white plastic cap decorated with a green marker and used as a miniature sink basin, placed on the countertop.",
+          "attribute": "visual"
+        },
+        "Orange Cardboard Cabinet": {
+          "description": "A small cardboard box painted orange with yellow handles, assembled and placed on the grid-patterned floor as a kitchen cabinet.",
+          "attribute": "visual"
+        },
+        "Blue Flexible Faucet": {
+          "description": "A blue, coiled plastic tube attached to the sink basin to simulate a faucet.",
+          "attribute": "visual"
+        },
+        "Rainbow TV": {
+          "description": "A small cardboard TV with rainbow-colored horizontal stripes, white pom-pom knobs, and a red power button, placed on the pink drawer unit.",
+          "attribute": "visual"
+        },
+        "Blue and Yellow Surface": {
+          "description": "A two-toned surface with blue and yellow sections, used as a workspace for shaping and decorating the clay bear and bunny.",
+          "attribute": "visual"
+        },
+        "Disney Princess Book": {
+          "description": "A small white cardboard book with a colorful Disney princess illustration, cut from a strip and placed into the yellow box as a decorative item.",
+          "attribute": "visual"
+        },
+        "Craft Knife": {
+          "description": "A small knife used to cut the white cardboard strip into a book or card shape, shown in close-up during the cutting process.",
+          "attribute": "visual"
+        },
+        "Cardboard Sign with 'Bear'": {
+          "description": "A cardboard piece with the word 'Bear' written in cursive, covered with pink paper and placed on the pink star-patterned background as a decorative sign.",
+          "attribute": "visual"
+        },
+        "Green-Handled Scissors": {
+          "description": "Scissors with green handles, used by the Hand to precisely cut the blue cardboard along the drawn arc, while upbeat background music plays.",
+          "attribute": "audio-visual"
+        },
+        "Red Clay Ball": {
+          "description": "A round red clay object shaped into a flat rectangle, textured with a wire tool to resemble bricks, and used as the base for the miniature garden.",
+          "attribute": "visual"
+        },
+        "Red Object": {
+          "description": "A small red object, possibly a decorative item or toy, placed beside the white swan in the yellow box.",
+          "attribute": "visual"
+        },
+        "Glittery Cardboard Staircase": {
+          "description": "A miniature staircase made of purple, green, and blue glittery cardboard blocks, assembled on a wooden base within the dollhouse setting.",
+          "attribute": "visual"
+        },
+        "Golden Faucet Knobs": {
+          "description": "Small golden plastic pieces attached to the countertop beside the sink to represent faucet handles.",
+          "attribute": "visual"
+        },
+        "Yellow Doll Figurines": {
+          "description": "Two small yellow-clad doll figurines placed in the background, contributing to the playful aesthetic.",
+          "attribute": "visual"
+        },
+        "Checkered Circular Piece": {
+          "description": "A blue and white checkered circular piece of cardboard, glued to the base of the blue arch to form the seat of the miniature chair, with whimsical music in the background.",
+          "attribute": "audio-visual"
+        },
+        "Pliers": {
+          "description": "Metal pliers used to bend a golden wire into a spiral shape for decoration.",
+          "attribute": "visual"
+        },
+        "Miniature Garden Setup": {
+          "description": "A constructed scene featuring red clay base, orange clay bricks, wooden sticks, green vines with red berries, and clay balls, forming a playful miniature garden.",
+          "attribute": "visual"
+        },
+        "Marble-Print Countertop": {
+          "description": "A dark blue cardboard piece with a white marble-like pattern and a circular cutout, used as a kitchen countertop where the sink and plant are placed.",
+          "attribute": "visual"
+        },
+        "Blue Cardboard Square": {
+          "description": "A solid blue square piece of cardboard placed on a pink surface, which is meticulously cut and folded into a miniature chair, accompanied by cheerful background music.",
+          "attribute": "audio-visual"
+        },
+        "Pink Cardboard Piece": {
+          "description": "A pink cardboard piece, picked up by the Hand and prepared for the next crafting step by applying yellow glue, accompanied by cheerful background music.",
+          "attribute": "audio-visual"
+        },
+        "Blue Pen": {
+          "description": "A blue pen used to draw the eyes on the yellow clay bear face, providing initial facial detail.",
+          "attribute": "visual"
+        },
+        "Yellow Glue Bottle": {
+          "description": "A yellow bottle labeled 'ZHANLUI' with a white nozzle, used by the Hand to apply adhesive to the pink cardboard piece, while upbeat instrumental music plays.",
+          "attribute": "audio-visual"
+        },
+        "Golden Glitter Glue": {
+          "description": "A bottle of golden glitter glue, applied along the edges of the blue arch to add decorative sparkle to the miniature chair, accompanied by cheerful instrumental music.",
+          "attribute": "audio-visual"
+        },
+        "Wire Tool": {
+          "description": "A thin metal wire bent into a U-shape, used to press into the red clay to create a brick pattern, visible during the shaping process.",
+          "attribute": "visual"
+        },
+        "White Clay Ball": {
+          "description": "A round white clay object shaped into a bunny head with ears, decorated with facial features and blush, used as a miniature figurine.",
+          "attribute": "visual"
+        },
+        "Grid-Patterned Floor": {
+          "description": "A pink floor with a white grid pattern, serving as the base for the dollhouse bed and other miniature furniture.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a vibrant miniature garden setup, featuring a pink base with white stripes, orange clay bricks arranged in a U-shape, green vines with red berries, and white and purple clay balls resembling flowers, all set to cheerful, upbeat instrumental music. A small pink mushroom-shaped figurine with a red cap and white spots is initially placed beside a woven basket containing a blue watering can and a small white ball. A human Hand, adorned with cute animal-themed nail art, enters the frame to carefully place the mushroom figurine into the woven basket. The scene then shifts to a pink star-patterned background where a white cardboard box with red trim is shown. The Hand proceeds to cut a black cardboard piece with scissors, then places it on a blue surface, followed by placing a blue pot with a golden knob on a countertop. The cheerful music continues as the scene transitions to a pink background with a rainbow, where the Hand cuts a blue and white checkered fabric into a circular shape, meticulously trimming it with scissors. Subsequently, the Hand cuts a blue square piece of cardboard, preparing it for the next step in the crafting process. Throughout these whimsical crafting activities, the on-screen text 'Cardboard World' remains visible at the bottom, emphasizing the theme. Towards the end of the segment, the background music shifts to a more dramatic, yet still playful, instrumental tune.",
+        "The minute begins with a close-up on a blue cardboard square resting on a vibrant pink surface, surrounded by an array of colorful toys including a rainbow, a checkered ball, a fox in a box, and a yellow chick, all set to the tune of upbeat, whimsical instrumental music. A Hand, adorned with charming animal-themed nail art, skillfully uses a pink compass to draw a semi-circular arc on the blue cardboard. The Hand then precisely cuts along this arc with green-handled scissors, transforming the square into a semi-circle. This cut piece is then folded into a 3D arch shape, and a blue and white checkered circular piece is meticulously glued to its base, forming a miniature chair. To enhance its decorative appeal, golden glitter glue is applied along the edges of the arch. The completed miniature chair is then carefully placed into a colorful dollhouse kitchen scene, which features a playful pink and purple color scheme, a stove with a blue pot, a plate of yellow fries, and a glittery staircase. The crafting continues as the Hand picks up a pink cardboard piece and applies yellow glue from a bottle labeled 'ZHANLUI' to its surface, preparing it for the next creative step. Throughout these detailed crafting actions, the on-screen text 'Cardboard World' remains visible at the bottom, reinforcing the brand identity, all accompanied by the continuous cheerful background music."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 21,
+      "end_minute": 30,
+      "summary": "A hand with animal-themed nail art crafts miniature items within a vibrant dollhouse environment, set to upbeat, whimsical instrumental music. The hand attaches a pink cardboard bow to a dollhouse, uses a pink glue stick to affix a polka-dotted ball with green leaves to a pink shelf unit, and places a clear jar with a rainbow label into a purple shelf. It then writes Korean text on a black cardboard box with a white marker before adding it to the dollhouse. A blue cardboard piece with a brick pattern is dipped into a blue glittery substance, revealed to be stretchy slime, which the hand kneads and shapes within a container. The scene transitions to a miniature blue cardboard pool and a yellow object within a fully assembled dollhouse featuring various rooms. The hand constructs a new cardboard structure on a brown base, decorating it with patterned paper and brick designs. A yellow cardboard box is assembled, filled with green plastic foliage, and painted with pink and yellow dots to resemble flowers, then placed on a white base to form a miniature garden. The background alternates between blue and a pink star-patterned backdrop, with 'Cardboard World' text displayed. The hand places a yellow cardboard planter filled with green foliage and beads onto a brick-patterned wall, adds a second planter and a blue bird figurine. A green felt grass mat is laid down, followed by a white plastic tray of colorful beads. A miniature wooden picket fence is assembled and positioned along the grass mat. Yellow chick figurines and a white chicken figurine are placed on the grass, interacting with the beads. The hand cuts a pink felt piece into a curved shape with scissors. The scene shifts to the hand assembling a pink cardboard structure, resembling a miniature bed or drawer unit, using a craft knife and yellow glue, embellished with white scalloped lace trim. This pink unit is placed on a wooden-patterned floor next to the grass mat. A brown cardboard base is decorated with brick patterns and striped paper. A yellow cardboard box with foliage and painted flowers is placed on a white base to form a miniature garden. Red-handled scissors cut a pink felt piece. The music shifts to a more rhythmic, jazzy tune. The hand assembles a miniature pink lounge chair with golden trim and places it within a dollhouse. A small round table is crafted with a purple star-patterned paper top, a golden base, and adorned with a tiny cake and orange drink. A clear plastic pool with a white frame is filled with blue glittery slime, a green ladder is added, and a white Hello Kitty figurine is placed in the water and then on the pink chair. The setup is against a pink brick wall and blue background. The hand assembles a pink cardboard bed with a white grid-patterned mattress on a matching floor. A miniature drawer unit is crafted with pink tape and a blue heart sticker. A white box is decorated with a rainbow strip and white lace trim. A pink drawer unit with yellow fronts and golden knobs is assembled. A rainbow TV is crafted and placed on the drawer unit. A blue floral-patterned box is decorated with white lace trim and a yellow bow. White and yellow clay figurines, a bunny with marker features, and a bear with a red clay bow and blue pen eyes are crafted. A blue cardboard chair with a checkered seat and golden glittered edges is crafted and placed in a dollhouse kitchen scene. The hand applies yellow glue to a pink cardboard piece, kneads and shapes blue glittery slime in a clear container, uses a white glue stick on a pink cardboard bow, and places a clear jar with a rainbow label into a purple shelf. Korean text and decorative elements are drawn on a black cardboard box with a white marker. The blue cardboard pool has a textured surface. A brown cardboard base is covered with patterned paper and brick cardboard. A yellow cardboard box with foliage and painted flowers is placed on a white base. Red-handled scissors cut a pink felt piece. Two yellow chick figurines and a white chicken figurine are placed on a green felt grass mat, interacting with beads. The Hello Kitty figurine is placed into the pool and then on the pink chair. The scene shifts to the hand assembling a miniature computer setup: a black cardboard box as a PC tower, a white cardboard monitor with a Windows-style desktop interface on a stand, and a black keyboard. A white plastic flower-shaped object with a blue center is placed beside the desk. The camera pans to reveal a rainbow-colored bed and a glittery staircase. The hand assembles a miniature kitchen unit from cardboard, decorating it with purple glitter, a black front panel, and a white marble-patterned countertop, adding a black stovetop, a pink blender, and a green pot with orange berries. The completed kitchen unit is integrated into the dollhouse. The video shows a miniature pink and purple glittery oven where a yellow clay egg rests inside. The hand removes the egg and places it on an orange square platform atop a rainbow pleated base. The hand mixes a white powdery substance with a clear liquid to form a dough, shapes it into a ball, and tops it with a yellow clay piece to resemble an egg, placing it into the oven and then on a white plate. The hand places a red clay patty into a silver frying pan. A miniature hamburger is assembled with clay layers on a brown cardboard base. Pink glittery squares, blue and black strips, and a cat sticker are added to a pink cardboard piece. A purple paper strip is folded over a yellow surface. Throughout these activities, the on-screen text 'Cardboard World' is consistently displayed at the bottom, reinforcing the brand identity amidst the bright, playful, and glittery atmosphere.",
+      "involved_entities": {
+        "White Marker": {
+          "description": "A white marker used to write Korean text and draw decorative elements on the black cardboard box.",
+          "attribute": "visual"
+        },
+        "White Glue Stick": {
+          "description": "A pink glue stick with a white tip, used to apply adhesive to the pink cardboard bow and other miniature items during assembly.",
+          "attribute": "visual"
+        },
+        "On-Screen Text 'Cardboard World'": {
+          "description": "White text with a pink outline at the bottom of the frame, consistently displayed throughout the video, indicating the channel or brand name.",
+          "attribute": "visual"
+        },
+        "Pink Glitter Drawer Unit": {
+          "description": "A rectangular pink glittery cardboard piece with yellow drawer fronts and golden knobs, serving as a miniature furniture piece in the kitchen.",
+          "attribute": "visual"
+        },
+        "Pink Star-Patterned Background": {
+          "description": "A vibrant pink backdrop with white star patterns, visible behind the miniature kitchen setup, adding to the whimsical aesthetic.",
+          "attribute": "visual"
+        },
+        "Blue Background": {
+          "description": "A solid blue surface visible on the right side of the frame, serving as a backdrop for the crafting area and contrasting with the pink and purple elements.",
+          "attribute": "visual"
+        },
+        "Dollhouse Bed": {
+          "description": "A pink bed with a white grid-patterned mattress, shown assembled with the green scalloped headboard and placed on a grid-patterned floor, later receiving the blue floral box and bunny decoration.",
+          "attribute": "visual"
+        },
+        "Clear Jar with Rainbow Label": {
+          "description": "A small transparent jar with a colorful rainbow label, placed into a purple shelf as a decorative miniature item.",
+          "attribute": "visual"
+        },
+        "Pink Cardboard Piece": {
+          "description": "A pink cardboard piece, prepared for the next crafting step by applying yellow glue from a bottle labeled 'ZHANLUI'.",
+          "attribute": "visual"
+        },
+        "Hand": {
+          "description": "A human hand with light-colored nail polish and cute animal-themed nail art, actively handling miniature objects, placing decorations, and simulating cooking actions with a spoon and tweezers.",
+          "attribute": "visual"
+        },
+        "Blue Glittery Slime": {
+          "description": "A stretchy, blue, glittery substance that is kneaded and shaped by hand within a clear plastic container, appearing to be a craft material made from a viscous base mixed with glitter.",
+          "attribute": "visual"
+        },
+        "Dollhouse Scene": {
+          "description": "A colorful, fully assembled miniature dollhouse with multiple rooms, including a kitchen, bedroom, and garden, all crafted from cardboard and decorated with vibrant patterns and miniature furniture.",
+          "attribute": "visual"
+        },
+        "Brick-Patterned Cardboard": {
+          "description": "A cardboard piece painted with a red brick pattern, used to simulate a brick wall and added to the structure for visual texture.",
+          "attribute": "visual"
+        },
+        "Pink and White Striped Cardboard": {
+          "description": "A cardboard piece with vertical pink and white stripes, used as a decorative border or wall panel in the miniature structure.",
+          "attribute": "visual"
+        },
+        "Cardboard Pool": {
+          "description": "A blue cardboard structure resembling a swimming pool, with a textured surface to mimic water, placed on a yellow base and used as part of the dollhouse scene.",
+          "attribute": "visual"
+        },
+        "Brown Cardboard Base": {
+          "description": "A plain brown cardboard piece serving as the foundation for a new structure, which is later decorated with patterned paper and painted details.",
+          "attribute": "visual"
+        },
+        "Yellow Cardboard Box": {
+          "description": "A small rectangular cardboard box painted yellow, used as a planter for the miniature garden and later decorated with green foliage and painted flowers.",
+          "attribute": "visual"
+        },
+        "Green Plastic Foliage": {
+          "description": "Artificial green leaves and stems, inserted into the yellow box to simulate plants, and later painted with pink and yellow dots to resemble flowers.",
+          "attribute": "visual"
+        },
+        "White Base": {
+          "description": "A plain white cardboard base onto which the decorated yellow box is placed, completing the miniature garden scene.",
+          "attribute": "visual"
+        },
+        "Pink and White Patterned Paper": {
+          "description": "A sheet of pink paper with white polka dots and heart patterns, used to cover the cardboard base and add decorative elements to the structure.",
+          "attribute": "visual"
+        },
+        "Wooden Stick and Strip Assembly": {
+          "description": "Small wooden sticks inserted vertically into the red clay base, serving as supports for the climbing vines in the miniature garden.",
+          "attribute": "visual"
+        },
+        "White Chicken Figurine": {
+          "description": "A small white chicken figurine with a red comb, placed near the tray of beads and interacting with the chicks.",
+          "attribute": "visual"
+        },
+        "White Plastic Tray": {
+          "description": "A white plastic tray filled with colorful beads, placed on the green grass mat for the chicks to peck at.",
+          "attribute": "visual"
+        },
+        "Green Felt Grass Mat": {
+          "description": "A green felt mat placed on the wooden-patterned floor, serving as the ground for the miniature garden and chick figurines.",
+          "attribute": "visual"
+        },
+        "Scissors": {
+          "description": "Red-handled scissors used to cut the pink felt piece into a curved shape, indicating a crafting step in the miniature garden setup.",
+          "attribute": "visual"
+        },
+        "Pink Felt Piece": {
+          "description": "A pink felt piece being cut into a curved shape with scissors, likely for use as a decorative element in the miniature garden.",
+          "attribute": "visual"
+        },
+        "Yellow Chick Figurines": {
+          "description": "Two small yellow chick figurines with red combs, placed on the green grass mat and interacting with the colorful beads.",
+          "attribute": "visual"
+        },
+        "Yellow Glue Bottle": {
+          "description": "A yellow bottle labeled 'ZHANLUI' with a white nozzle, used to apply adhesive to the pink drawer unit, TV, and storefront structure during assembly and decoration.",
+          "attribute": "visual"
+        },
+        "White Lace Trim": {
+          "description": "A delicate white lace strip with scalloped edges, used to decorate the blue floral-patterned box, adding a decorative border.",
+          "attribute": "visual"
+        },
+        "Miniature Chair": {
+          "description": "A completed 3D miniature chair made from blue cardboard, featuring a checkered seat and golden glittered edges, placed in a dollhouse kitchen.",
+          "attribute": "visual"
+        },
+        "Glittery Cardboard Staircase": {
+          "description": "A miniature staircase made of purple, green, and blue glittery cardboard blocks, assembled on a wooden base within the dollhouse setting.",
+          "attribute": "visual"
+        },
+        "Hello Kitty Figurine": {
+          "description": "A small white Hello Kitty figurine with a red bow, placed into the pool and later moved to lounge on the pink chair, serving as the main character in the scene.",
+          "attribute": "visual"
+        },
+        "Cotton Swab": {
+          "description": "A white cotton swab used to spread glue evenly on the pink cardboard frame, ensuring proper adhesion.",
+          "attribute": "visual"
+        },
+        "Pink Compass": {
+          "description": "A pink compass with a white handle, used to draw a semi-circular arc on the blue cardboard.",
+          "attribute": "visual"
+        },
+        "Colorful Pencils": {
+          "description": "A set of colorful pencils arranged in the background, adding visual interest and context to the crafting environment.",
+          "attribute": "visual"
+        },
+        "Yellow Cloud Mat": {
+          "description": "A bright yellow, cloud-shaped mat placed on the grid-patterned floor to serve as a decorative base for the crafted bear.",
+          "attribute": "visual"
+        },
+        "Toy Dump Truck": {
+          "description": "A yellow toy dump truck labeled 'CARDBOARD WORLD' with black wheels, used to dump orange clay bricks and colorful miniature items onto the red clay base.",
+          "attribute": "visual"
+        },
+        "Black Marker": {
+          "description": "A black marker used to draw the eyes and mouth on the white clay bunny face, providing facial detail.",
+          "attribute": "visual"
+        },
+        "Yellow Clay Bear Face": {
+          "description": "A yellow clay sphere with drawn eyes, nose, and mouth, topped with a red clay bow, held and displayed by the hand.",
+          "attribute": "visual"
+        },
+        "Blue Clay Ball": {
+          "description": "A round blue clay object shaped into a rectangular form with eyes and a golden spiral decoration, placed beside the sink as a decorative item.",
+          "attribute": "visual"
+        },
+        "Green Plastic Cap with Polka Dots": {
+          "description": "A small green plastic cap decorated with white polka dots, used as a miniature pot for a tiny plant with orange berries.",
+          "attribute": "visual"
+        },
+        "Scalloped Awning": {
+          "description": "A white, scalloped-edge cardboard piece attached to the top of the pink structure, resembling a storefront awning and framing the top of the scene.",
+          "attribute": "visual"
+        },
+        "Pink Pig Figurines": {
+          "description": "Three small pink pig figurines with colored clothing, visible in the background during the cloud-making and bear crafting process.",
+          "attribute": "visual"
+        },
+        "White Cardboard Box with Red Trim": {
+          "description": "A white cardboard box with red trim, assembled into a two-compartment structure and placed on the pink star-patterned background.",
+          "attribute": "visual"
+        },
+        "Miniature Books": {
+          "description": "A set of colorful, thin cardboard books in purple, pink, blue, green, orange, and red, arranged inside the yellow box to simulate a bookshelf.",
+          "attribute": "visual"
+        },
+        "White and Purple Clay Balls": {
+          "description": "Round clay balls in white and purple, placed on the red clay base to resemble flowers or fruits in the garden.",
+          "attribute": "visual"
+        },
+        "Mushroom Figurine": {
+          "description": "A pink, round figurine with a red cap and white spots, resembling a mushroom, placed into the woven basket.",
+          "attribute": "visual"
+        },
+        "Green Scalloped Cardboard Piece": {
+          "description": "A green cardboard cutout with a scalloped top edge, resembling a storefront awning or decorative panel, assembled into a bed frame and placed on the pink star-patterned background.",
+          "attribute": "visual"
+        },
+        "White Felt Cloud": {
+          "description": "A white felt piece cut into a cloud shape, decorated with pink clay dots and a green clay dot to form a face, shown being assembled and placed on the bed.",
+          "attribute": "visual"
+        },
+        "Pink Paper Heart": {
+          "description": "A small pink paper cut into a heart shape, folded and glued to the top of the pink bear-shaped cardboard to form a face.",
+          "attribute": "visual"
+        },
+        "Yellow Bow": {
+          "description": "A small yellow ribbon bow, glued onto the blue floral-patterned box as a decorative accent.",
+          "attribute": "visual"
+        },
+        "Green Clay Ball": {
+          "description": "A small green clay sphere attached to the top of the green polka-dotted cardboard box as a decorative element.",
+          "attribute": "visual"
+        },
+        "Green Plastic Tool": {
+          "description": "A green plastic tool, possibly a crafting knife or shaper, held by the hand at the beginning and used to press into the red clay, resembling a hammer or mallet.",
+          "attribute": "visual"
+        },
+        "White Beaded Trim": {
+          "description": "A string of small white beads applied around the base of the pink bear structure as a decorative border.",
+          "attribute": "visual"
+        },
+        "Dollhouse Kitchen Scene": {
+          "description": "A colorful miniature kitchen setup with pink and purple walls, a stove with a blue pot, a plate of yellow fries, and a glittery staircase, serving as the environment for the miniature cooking activity.",
+          "attribute": "visual"
+        },
+        "Golden Glitter Cardboard": {
+          "description": "A square piece of golden glittery cardboard used as a base for the bear face, later cut to shape with a craft knife.",
+          "attribute": "visual"
+        },
+        "Blue Clay Ball Pit": {
+          "description": "An orange bear-shaped cardboard container filled with blue clay balls, placed on the grid-patterned floor as a miniature ball pit.",
+          "attribute": "visual"
+        },
+        "White Glue-like Substance": {
+          "description": "A white, viscous substance applied to the U-shaped cardboard piece, likely a glue or paint base, which is then marbled with blue for decoration.",
+          "attribute": "visual"
+        },
+        "Red Clay Bow": {
+          "description": "A small red clay piece shaped into a bow, glued to the top of the yellow clay bear head as a decorative accessory.",
+          "attribute": "visual"
+        },
+        "White Swan Figurine": {
+          "description": "A small white swan figurine with a pink beak, placed on the lower shelf of the yellow box.",
+          "attribute": "visual"
+        },
+        "Miniature Plant with Orange Berries": {
+          "description": "A small artificial plant with green leaves and orange berry-like tips, inserted into the green plastic cap to create a potted plant.",
+          "attribute": "visual"
+        },
+        "U-Shaped Cardboard Piece": {
+          "description": "A brown cardboard piece cut into a U-shape, used as a countertop or shelf, which is later decorated with a blue and white marbled pattern.",
+          "attribute": "visual"
+        },
+        "White Ball": {
+          "description": "A small white spherical object, placed inside the woven basket alongside the blue watering can.",
+          "attribute": "visual"
+        },
+        "White Plastic Sink Basin": {
+          "description": "A white plastic cap decorated with a green marker and used as a miniature sink basin, placed on the countertop.",
+          "attribute": "visual"
+        },
+        "Blue Flexible Faucet": {
+          "description": "A blue, coiled plastic tube attached to the sink basin to simulate a faucet.",
+          "attribute": "visual"
+        },
+        "Orange Cardboard Cabinet": {
+          "description": "A small cardboard box painted orange with yellow handles, assembled and placed on the grid-patterned floor as a kitchen cabinet.",
+          "attribute": "visual"
+        },
+        "Rainbow TV": {
+          "description": "A small cardboard TV with rainbow-colored horizontal stripes, white pom-pom knobs, and a red power button, placed on a pink drawer unit in the background.",
+          "attribute": "visual"
+        },
+        "Orange Clay Bricks": {
+          "description": "Small orange clay blocks arranged in a U-shape on a red clay base, forming a border for the miniature garden.",
+          "attribute": "visual"
+        },
+        "Blue and Yellow Surface": {
+          "description": "A two-toned surface with blue and yellow sections, used as a workspace for shaping and decorating the clay bear and bunny.",
+          "attribute": "visual"
+        },
+        "Disney Princess Book": {
+          "description": "A small white cardboard book with a colorful Disney princess illustration, cut from a strip and placed into the yellow box as a decorative item.",
+          "attribute": "visual"
+        },
+        "Craft Knife": {
+          "description": "A small knife used to cut the white cardboard strip into a book or card shape, shown in close-up during the cutting process.",
+          "attribute": "visual"
+        },
+        "Cardboard Sign with 'Bear'": {
+          "description": "A cardboard piece with the word 'Bear' written in cursive, covered with pink paper and placed on the pink star-patterned background as a decorative sign.",
+          "attribute": "visual"
+        },
+        "Pink Base with White Stripes": {
+          "description": "A pink rectangular base with white vertical stripes, serving as the foundation for the miniature garden setup.",
+          "attribute": "visual"
+        },
+        "Green-Handled Scissors": {
+          "description": "Scissors with green handles, used to cut the blue cardboard along the drawn arc.",
+          "attribute": "visual"
+        },
+        "Red Clay Ball": {
+          "description": "A round red clay object shaped into a flat rectangle, textured with a wire tool to resemble bricks, and used as the base for the miniature garden.",
+          "attribute": "visual"
+        },
+        "Red Object": {
+          "description": "A small red object, possibly a decorative item or toy, placed beside the white swan in the yellow box.",
+          "attribute": "visual"
+        },
+        "Blue Watering Can": {
+          "description": "A small blue plastic watering can with a handle, placed inside the woven basket as part of the garden setup.",
+          "attribute": "visual"
+        },
+        "Green Vines with Red Berries": {
+          "description": "Artificial green vines with red berry-like tips, inserted into the red clay base as part of the garden decoration.",
+          "attribute": "visual"
+        },
+        "Golden Faucet Knobs": {
+          "description": "Small golden plastic pieces attached to the countertop beside the sink to represent faucet handles.",
+          "attribute": "visual"
+        },
+        "Yellow Doll Figurines": {
+          "description": "Two small yellow-clad doll figurines placed in the background, contributing to the playful aesthetic.",
+          "attribute": "visual"
+        },
+        "Checkered Circular Piece": {
+          "description": "A blue and white checkered circular piece of cardboard, glued to the base of the blue arch to form a seat.",
+          "attribute": "visual"
+        },
+        "Pliers": {
+          "description": "Metal pliers used to bend a golden wire into a spiral shape for decoration.",
+          "attribute": "visual"
+        },
+        "Miniature Garden Setup": {
+          "description": "A constructed scene featuring red clay base, orange clay bricks, wooden sticks, green vines with red berries, and clay balls, forming a playful miniature garden.",
+          "attribute": "visual"
+        },
+        "Marble-Print Countertop": {
+          "description": "A dark blue cardboard piece with a white marble-like pattern and a circular cutout, used as a kitchen countertop where the sink and plant are placed.",
+          "attribute": "visual"
+        },
+        "Blue Cardboard Square": {
+          "description": "A solid blue square piece of cardboard placed on a pink surface, used as the base for crafting a miniature chair.",
+          "attribute": "visual"
+        },
+        "Blue Pen": {
+          "description": "A blue pen used to draw the eyes on the yellow clay bear face, providing initial facial detail.",
+          "attribute": "visual"
+        },
+        "Golden Glitter Glue": {
+          "description": "A bottle of golden glitter glue, applied along the edges of the blue arch to add decorative sparkle.",
+          "attribute": "visual"
+        },
+        "Woven Basket": {
+          "description": "A small brown woven basket containing a blue watering can and a white ball, placed beside the mushroom figurine in the miniature garden.",
+          "attribute": "visual"
+        },
+        "Wire Tool": {
+          "description": "A thin metal wire bent into a U-shape, used to press into the red clay to create a brick pattern, visible during the shaping process.",
+          "attribute": "visual"
+        },
+        "White Clay Ball": {
+          "description": "A round white clay object shaped into a bunny head with ears, decorated with facial features and blush, used as a miniature figurine.",
+          "attribute": "visual"
+        },
+        "Grid-Patterned Floor": {
+          "description": "A pink floor with a white grid pattern, serving as the base for the dollhouse bed and other miniature furniture.",
+          "attribute": "visual"
+        },
+        "White Flower-Shaped Lamp": {
+          "description": "A white plastic object shaped like a flower with a blue center, likely a decorative lamp or fan, placed beside the desk.",
+          "attribute": "visual"
+        },
+        "White Cardboard Monitor": {
+          "description": "A white cardboard piece painted black and decorated with a printed Windows-style desktop interface to simulate a computer monitor.",
+          "attribute": "visual"
+        },
+        "White Cylindrical Legs": {
+          "description": "Small white cylindrical sticks used as legs for the miniature table, providing support and height.",
+          "attribute": "visual"
+        },
+        "White Monitor Stand": {
+          "description": "A white plastic stand used to mount the cardboard monitor, giving it a realistic appearance.",
+          "attribute": "visual"
+        },
+        "Black Keyboard": {
+          "description": "A small black cardboard piece with printed keys, placed in front of the monitor to complete the computer setup.",
+          "attribute": "visual"
+        },
+        "Yellow Cardboard Table Top": {
+          "description": "A rectangular yellow cardboard piece with a wavy edge, placed on white cylindrical legs to form a miniature table.",
+          "attribute": "visual"
+        },
+        "Black Cardboard PC Tower": {
+          "description": "A small black cardboard box decorated with holographic stickers to resemble a computer tower, placed under the table.",
+          "attribute": "visual"
+        },
+        "White Powder Substance": {
+          "description": "A white, powdery material resembling flour or sugar, scooped with a tiny spoon and mixed with liquid to form a dough-like consistency.",
+          "attribute": "visual"
+        },
+        "Orange Square Platform": {
+          "description": "A small orange square cardboard piece placed atop the rainbow pleated base, serving as a cooking surface for the miniature dough mixture.",
+          "attribute": "visual"
+        },
+        "Miniature Oven": {
+          "description": "A small, pink and purple glittery oven with a transparent door, used to simulate baking the yellow clay egg.",
+          "attribute": "visual"
+        },
+        "Clear Liquid": {
+          "description": "A transparent liquid added to the white powder to form a dough, likely representing water or milk in the miniature cooking process.",
+          "attribute": "visual"
+        },
+        "Tiny Spoon": {
+          "description": "A miniature silver spoon used to scoop and mix the white powder and liquid on the orange platform.",
+          "attribute": "visual"
+        },
+        "Yellow Clay Egg": {
+          "description": "A round yellow clay object shaped to resemble a boiled egg, placed on a white plate and later moved to the frying pan.",
+          "attribute": "visual"
+        },
+        "White Plate": {
+          "description": "A small white plate used to hold the yellow clay egg before and after baking.",
+          "attribute": "visual"
+        },
+        "Red Clay Patty": {
+          "description": "A round red clay object shaped into a flat patty, placed into the frying pan to simulate cooking meat.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with an upbeat, whimsical instrumental tune playing as a hand, adorned with cute animal-themed nail art, places a bright pink cardboard bow into a colorful dollhouse featuring vibrant pink and purple walls, a blue bed, and various miniature furniture. The hand then uses a pink glue stick to attach a small orange polka-dotted ball with green leaves into a pink shelf unit. The scene transitions to a blue background where the hand places a tiny clear jar with a rainbow-colored label into a purple shelf. Continuing the crafting, the hand writes Korean text and decorative elements on a black cardboard box with a white marker before placing it into the dollhouse. The hand then handles a blue cardboard piece with a brick pattern, which is subsequently dipped into a clear plastic container filled with a blue, glittery substance. The cheerful background music continues as the hand kneads and stretches the blue material, revealing it to be a stretchy, glittery slime, which is then shaped and manipulated within the container. Throughout these creative steps, the on-screen text 'Cardboard World' remains visible at the bottom, and the crafting environment, including a pink cutting mat with grid lines and playful illustrations, maintains a bright, whimsical atmosphere, all set to the continuous, light instrumental soundtrack.",
+        "The minute opens with a close-up of a human hand, adorned with light-colored nail polish and cute animal-themed nail art, manipulating stretchy, blue glittery slime inside a clear container, its texture and elasticity highlighted by a playful, upbeat instrumental track featuring ukulele and light percussion, punctuated by distinct 'boing' sound effects. The scene transitions to a miniature blue cardboard pool with a small yellow object, part of a vibrant, fully assembled dollhouse crafted from cardboard, showcasing colorful rooms like a kitchen, bedroom, and garden, all decorated with bright patterns and miniature furniture. Throughout this, the cheerful music continues, accompanied by rhythmic 'pop' and 'click' sound effects. The hand then meticulously begins constructing a new cardboard structure on a plain brown base, gradually decorating it with pink and white patterned paper, brick designs, and striped accents. A small yellow cardboard box is assembled and filled with green plastic foliage, which is then painted with pink and yellow dots to resemble flowers. The hand carefully places the decorated box onto a white base, completing a miniature garden scene. The background alternates between a solid blue surface and a pink star-patterned backdrop, enhancing the creative atmosphere, while the on-screen text 'Cardboard World' remains consistently displayed at the bottom of the frame, all set to the continuous whimsical music and recurring sound effects.",
+        "The video unfolds to a continuous backdrop of upbeat, whimsical instrumental music, featuring a xylophone or glockenspiel melody with light percussion. A human hand, adorned with light-colored nail polish and cute animal-themed nail art, is seen in a close-up, holding a yellow cardboard planter filled with green foliage and colorful beads against a vibrant blue and pink background with a rainbow and cloud decoration. The hand carefully places this planter onto a brick-patterned cardboard wall, part of a larger miniature garden setup. The scene transitions as the hand adds a second identical planter, then a small blue bird figurine to the top of the wall. Subsequently, a green felt grass mat is laid on a wooden-patterned floor, followed by a white plastic tray filled with colorful beads. The hand then meticulously assembles a small wooden picket fence using popsicle sticks and glue, positioning it along the edge of the grass mat. Two yellow chick figurines and a small white chicken figurine with a red comb are introduced to the grass, with the chicks visually interacting by pecking at the beads, though no distinct pecking sounds are audible over the persistent background music. The segment concludes with the hand cutting a pink felt piece into a curved shape with scissors, preparing it for the next crafting step. Throughout, the background alternates between solid blue, pink with white stars, and pink with white stripes, maintaining a playful and colorful aesthetic, while the on-screen text 'Cardboard World' is consistently displayed at the bottom.",
+        "The segment opens with a close-up of a hand, adorned with light pink nail polish and subtle animal-themed nail art, meticulously cutting and assembling a pink cardboard structure. An upbeat, cheerful, and whimsical background music track, characteristic of a children's show, plays throughout this initial crafting process. The hand uses a green-handled craft knife to cut the pink cardboard, then applies yellow glue from a 'ZHANLUI' bottle to form a rectangular base, which is further embellished with a white scalloped lace trim. This structure is assembled into a small pink box, resembling a miniature bed or drawer unit. The scene then transitions to the hand placing this pink unit onto a wooden-patterned floor, next to a green felt grass mat where yellow chick figurines and a white chicken figurine interact with a white plastic tray filled with colorful beads, all accompanied by the continuing playful music. The crafting continues with the hand decorating a brown cardboard base with a red brick pattern and pink and white striped paper. As a yellow cardboard box is painted with green foliage and pink/yellow dots to simulate flowers, and then placed on a white base to form a miniature garden, the background music shifts around the 39-second mark to a more rhythmic, jazzy, and equally upbeat tune. The hand is last seen cutting a pink felt piece into a curved shape with red-handled scissors, likely for further decoration within the miniature garden. Throughout, a vibrant pink star-patterned backdrop and a blue background are visible, with the on-screen text 'Cardboard World' consistently displayed, emphasizing the detailed and colorful miniature scene-building.",
+        "The minute opens with a close-up of a human hand, adorned with light-colored nail polish and cute animal-themed nail art, precisely assembling a miniature pink lounge chair featuring a white grid-patterned surface and golden trim. This intricate crafting unfolds against an upbeat, jazzy instrumental background music that plays continuously throughout the segment. The hand carefully places the newly built chair on a wooden base next to a vibrant rainbow glitter staircase, all set within a colorful dollhouse environment. Next, the hand meticulously crafts a small round table by applying glue to a cardboard disc, covering it with purple star-patterned paper, and attaching a golden base, before adorning it with a tiny cake and an orange drink. The scene then shifts to the assembly of a clear plastic pool with a white frame, which is filled with blue glittery slime poured from a jar, mimicking water. A green ladder is added to the pool, and a small white Hello Kitty figurine with a red bow is first placed into the water, then moved to lounge comfortably on the pink chair. The entire whimsical setup is presented against a bright pink backdrop featuring a brick-patterned wall, with a solid blue background visible on one side, while the on-screen text 'Cardboard World' remains consistently displayed at the bottom, reinforcing the brand identity. The precise and deliberate movements of the hand, coupled with the cheerful music, emphasize the playful aesthetic of this miniature world being created.",
+        "The video opens with an upbeat, jazzy instrumental track featuring brass and percussion, as a vibrant dollhouse scene is revealed, showcasing a blue cardboard pool with a yellow ladder, a pink chair, and a Hello Kitty figurine lounging beside it, all set against a pink brick wall and green grass mat. A hand with light-colored nail polish and cute animal-themed nail art then begins a crafting process, assembling a pink cardboard bed with a white grid-patterned mattress on a matching grid-patterned floor. The music shifts to a whimsical, playful instrumental tune with a toy piano sound and a bouncy rhythm as the hand crafts a miniature drawer unit, applying pink tape and a blue heart-shaped sticker. Next, the hand decorates a white box with a rainbow-colored strip and white lace trim on a blue surface, then assembles a pink drawer unit with yellow fronts and golden knobs on a pink star-patterned background. A rainbow TV with white pom-pom knobs and a red power button is crafted and placed on the drawer unit. The hand continues by decorating a blue floral-patterned box with white lace trim and a yellow bow, placing it on the pink star-patterned background, followed by a green scalloped cardboard piece. White and yellow clay figurines, a bunny with black marker features and a bear with a red clay bow and blue pen eyes, are crafted and placed on the same background. The music transitions to an upbeat, slightly funky instrumental track with a prominent bassline as a blue cardboard chair with a checkered seat and golden glittered edges is crafted and placed in a dollhouse kitchen scene. The hand applies yellow glue to a pink cardboard piece on a blue surface, then kneads and shapes blue glittery slime in a clear container. A white glue stick is used on a pink cardboard bow, and a clear jar with a rainbow label is placed into a purple shelf. Korean text and decorative elements are drawn on a black cardboard box with a white marker. The blue cardboard pool, now with a textured surface mimicking water, is placed on a yellow base. A brown cardboard base is covered with pink and white patterned paper and a brick-patterned cardboard piece. A yellow cardboard box with green plastic foliage and painted flowers is placed on a white base. Red-handled scissors cut a pink felt piece into a curved shape. The music returns to the whimsical, playful toy piano tune as two yellow chick figurines and a white chicken figurine are placed on a green felt grass mat, interacting with a white plastic tray filled with colorful beads. Finally, the Hello Kitty figurine is placed into the pool and then moved to lounge on the pink chair, all while the on-screen text 'Cardboard World' remains visible at the bottom.",
+        "The segment opens with upbeat, playful instrumental music featuring a prominent xylophone melody and light percussion, as a human Hand with cute animal-themed nail art assembles a pink cardboard structure, revealing a miniature bedroom with a bed and drawers. The Hand carefully places a yellow cardboard piece with a wavy edge onto white cylindrical legs to form a small table, then positions it beside the bed, which is adorned with a rainbow-colored blanket and a yellow doll figurine. The Hand then constructs a miniature computer setup, decorating a black cardboard box with holographic stickers to create a PC tower, which is placed under the table. A white cardboard piece is painted black and decorated with a Windows-style desktop interface to simulate a monitor, mounted on a white stand and placed on the table, followed by a small black keyboard. Around the 0:27 mark, the background music shifts to a faster, more electronic-sounding playful tune, punctuated by distinct \"boing\" or \"pop\" sound effects as the Hand assembles a white plastic flower-shaped object with a blue center, placing it beside the desk. Throughout these crafting steps, the background maintains vibrant pink and purple walls, and the on-screen text 'Cardboard World' is consistently displayed at the bottom, all under bright, even lighting that highlights the colorful, playful dollhouse environment.",
+        "The video opens with a close-up of a human hand, adorned with light-colored nail polish and cute animal-themed nail art, carefully placing a blue flower-shaped object onto a white stand against a vibrant pink background with heart patterns. This scene unfolds to an upbeat, cheerful, and slightly retro instrumental tune, reminiscent of a children's show. The camera then transitions to a colorful dollhouse bedroom, where a Hello Kitty figurine is positioned on a pink chair beside a desk featuring a miniature computer setup, complete with a monitor, keyboard, and PC tower. The hand continues by placing a small blue and white bunny figurine on a pedestal, as the camera pans to reveal a rainbow-colored bed and a glittery staircase leading to a lower level adorned with yellow chick figurines and a white plastic tray filled with colorful beads. Shifting to a crafting area with a blue and yellow surface, the hand meticulously assembles a miniature kitchen unit from cardboard, applying glue from a yellow bottle, decorating it with purple glitter, a black front panel, and a white marble-patterned countertop. A black stovetop with a white circular design and a pink blender are added, followed by a green pot with orange berries placed on the counter. Around the 0:38 mark, the background music subtly shifts to a different, equally cheerful and slightly jazzy instrumental piece. The final shot shows the completed kitchen unit being seamlessly integrated into the dollhouse, joining the existing bedroom scene, with the on-screen text 'Cardboard World' consistently displayed at the bottom of the frame throughout the segment.",
+        "The video opens to the continuous, upbeat, and slightly retro instrumental music, setting a whimsical and playful tone for a vibrant, miniature kitchen scene. This dollhouse-style setup, adorned with pink and purple hues, heart-patterned walls, and a colorful countertop, is where a human hand, featuring light-colored nail polish and cute animal-themed nail art, begins its intricate crafting. The hand carefully places a pink, glittery, rectangular object, resembling a miniature cake or dessert, onto a rainbow-colored, pleated paper base. Following this, the hand decorates a small white cylindrical object with yellow and orange flower stickers, positioning it beside the pink item. The scene then shifts to a close-up of the rainbow base, now serving as a miniature cooking station. With the cheerful music continuing, the hand uses a tiny spoon to scoop a white, powdery substance, likely flour or sugar, onto an orange square platform. This powder is then mixed with a clear liquid to form a dough-like consistency, which is skillfully shaped into a ball and topped with a yellow clay piece to resemble a boiled egg. Using tweezers, the hand places the miniature egg into a pink and purple glittery oven, then removes it and sets it on a small white plate. The crafting continues as the scene transitions to a black frying pan on a stove, where the hand, still using tweezers, adds a red, circular object, simulating a meat patty, into the pan. Throughout these intricate miniature cooking activities, the on-screen text 'Cardboard World' remains visible at the bottom, reinforcing the brand, all while the bright, playful, and glittery atmosphere is enhanced by the continuous, cheerful background music.",
+        "The video opens with a close-up of a miniature pink and purple glittery oven, where a yellow clay egg rests on a white plate inside, accompanied by upbeat, whimsical instrumental music featuring accordion and banjo. A Hand, adorned with cute animal-themed nail art, opens the oven door, removes the egg, and places it on an orange square platform atop a rainbow pleated base. The Hand then uses a tiny spoon to mix a white powdery substance with a clear liquid on the platform, forming a dough-like mixture. The scene transitions to the Hand placing a red clay patty into a small silver frying pan, simulating cooking. Next, the Hand assembles a miniature hamburger by stacking layers of yellow, green, and red clay pieces on a brown cardboard base, then places it on a white plate. The Hand applies yellow glue from a bottle labeled 'ZHANLUI' onto a brown cardboard piece, which is then covered with pink paper. The music shifts around the 33-second mark to a more folksy, acoustic guitar-driven tune as the Hand adds pink glittery squares to the pink cardboard, followed by blue and black strips, and a small sticker of a cat holding a hamburger. Finally, the Hand folds a purple paper strip over a yellow surface, preparing it for the next step. Throughout the segment, the background shifts between a vibrant pink star-patterned backdrop and a solid blue surface, with the on-screen text 'Cardboard World' consistently displayed at the bottom, all under bright, colorful lighting emphasizing the playful, craft-focused atmosphere."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 31,
+      "end_minute": 31,
+      "summary": "Upbeat, whimsical instrumental music accompanies a hand with light-colored nail polish and animal-themed nail art as it precisely cuts a purple cardboard strip with a craft knife, initiating the construction of a miniature world. The scene then reveals a fully assembled dollhouse bedroom featuring a rainbow bed, a pink and purple wardrobe, and a desk with a computer setup. The Hand places a Hello Kitty figurine onto a rainbow pleated base and then simulates cooking by mixing white powder substance and clear liquid on an orange square platform with a tiny spoon. The whimsical music continues as the focus shifts to a kitchen area with a glittery pink oven, where a yellow clay egg is placed on a white plate and then moved to a frying pan. The camera pans out to a broader dollhouse scene, including a blue cardboard pool, a pink chair, and a garden area with a white chicken figurine and two yellow chick figurines pecking at colorful beads on a green felt grass mat. A real hamster briefly explores the dollhouse bed before the Hand gently places the Hello Kitty figurine into the blue cardboard pool. The video concludes with a wide shot of the intricately detailed dollhouse, showcasing a brick-patterned cardboard wall, a miniature garden with a yellow box planter, and a blue bird on a window ledge, all under the on-screen text 'Cardboard World' and continuous cheerful background music.",
+      "involved_entities": {
+        "White Powder Substance": {
+          "description": "A white, powdery material resembling flour or sugar, scooped with a tiny spoon and mixed with liquid to form a dough-like consistency.",
+          "attribute": "visual"
+        },
+        "Real Hamster": {
+          "description": "A small, real hamster with gray and white fur, briefly appearing in the dollhouse bedroom, exploring the rainbow bed before moving out of frame.",
+          "attribute": "visual"
+        },
+        "Frying Pan": {
+          "description": "A small black frying pan with a handle, placed on the stove, used to simulate cooking the red clay patty and yellow clay egg.",
+          "attribute": "visual"
+        },
+        "On-Screen Text 'Cardboard World'": {
+          "description": "White text with a pink outline at the bottom of the frame, consistently displayed throughout the video, indicating the channel or brand name.",
+          "attribute": "visual"
+        },
+        "White Plastic Tray": {
+          "description": "A white plastic tray filled with colorful beads, placed on the green grass mat for the chicks to peck at.",
+          "attribute": "visual"
+        },
+        "Green Felt Grass Mat": {
+          "description": "A green felt mat placed on the wooden-patterned floor, serving as the ground for the miniature garden and chick figurines.",
+          "attribute": "visual"
+        },
+        "Stove": {
+          "description": "A miniature stove with a black surface and colorful knobs, placed in the kitchen area, used for cooking.",
+          "attribute": "visual"
+        },
+        "Green Plastic Foliage": {
+          "description": "Artificial green leaves and stems, inserted into the yellow box to simulate plants, and later painted with pink and yellow dots to resemble flowers.",
+          "attribute": "visual"
+        },
+        "Dollhouse Bed": {
+          "description": "A pink bed with a white grid-patterned mattress, shown assembled with the green scalloped headboard and placed on a grid-patterned floor, later receiving the blue floral box and bunny decoration.",
+          "attribute": "visual"
+        },
+        "Orange Square Platform": {
+          "description": "A small orange square cardboard piece placed atop the rainbow pleated base, serving as a cooking surface for the miniature dough mixture.",
+          "attribute": "visual"
+        },
+        "Hand": {
+          "description": "A human hand with light-colored nail polish and cute animal-themed nail art, actively handling miniature objects, placing decorations, and simulating cooking actions with a spoon and tweezers.",
+          "attribute": "visual"
+        },
+        "Pink Chair": {
+          "description": "A pink chair with a white cushion, placed beside the pool, where the Hello Kitty figurine is later positioned to lounge.",
+          "attribute": "visual"
+        },
+        "Red Clay Patty": {
+          "description": "A round red clay object shaped into a flat patty, placed into the frying pan to simulate cooking meat.",
+          "attribute": "visual"
+        },
+        "Yellow Chick Figurines": {
+          "description": "Two small yellow chick figurines with red combs, placed on the green grass mat and interacting with the colorful beads.",
+          "attribute": "visual"
+        },
+        "Clear Liquid": {
+          "description": "A transparent liquid added to the white powder to form a dough, likely representing water or milk in the miniature cooking process.",
+          "attribute": "visual"
+        },
+        "Dollhouse Scene": {
+          "description": "A colorful, fully assembled miniature dollhouse with multiple rooms, including a kitchen, bedroom, and garden, all crafted from cardboard and decorated with vibrant patterns and miniature furniture.",
+          "attribute": "visual"
+        },
+        "Brick-Patterned Cardboard": {
+          "description": "A cardboard piece painted with a red brick pattern, used to simulate a brick wall and added to the structure for visual texture.",
+          "attribute": "visual"
+        },
+        "Tiny Spoon": {
+          "description": "A miniature silver spoon used to scoop and mix the white powder and liquid on the orange platform.",
+          "attribute": "visual"
+        },
+        "Cardboard Pool": {
+          "description": "A blue cardboard structure resembling a swimming pool, with a textured surface to mimic water, placed on a yellow base and used as part of the dollhouse scene.",
+          "attribute": "visual"
+        },
+        "Rainbow Pleated Base": {
+          "description": "A colorful, pleated cardboard base with rainbow stripes, serving as a decorative platform for the cooking setup and later used as a table base.",
+          "attribute": "visual"
+        },
+        "Yellow Clay Egg": {
+          "description": "A round yellow clay object shaped to resemble a boiled egg, placed on a white plate and later moved to the frying pan.",
+          "attribute": "visual"
+        },
+        "White Plate": {
+          "description": "A small white plate used to hold the yellow clay egg before and after baking.",
+          "attribute": "visual"
+        },
+        "White Chicken Figurine": {
+          "description": "A small white chicken figurine with a red comb, placed near the tray of beads and interacting with the chicks.",
+          "attribute": "visual"
+        },
+        "White Flower-Shaped Lamp": {
+          "description": "A white plastic object shaped like a flower with a blue center, likely a decorative lamp or fan, placed beside the desk.",
+          "attribute": "visual"
+        },
+        "Hello Kitty Figurine": {
+          "description": "A small white Hello Kitty figurine with a red bow, placed into the pool and later moved to lounge on the pink chair, serving as the main character in the scene.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with an upbeat, whimsical instrumental background music setting a playful tone as a hand, adorned with light-colored nail polish and animal-themed nail art, precisely cuts a purple cardboard strip with a craft knife, hinting at the miniature world to come. The scene transitions to a fully assembled dollhouse, revealing a charming bedroom complete with a rainbow bed, a pink and purple wardrobe, and a desk featuring a computer setup. The Hand then places a Hello Kitty figurine onto a rainbow pleated base before engaging in simulated cooking, using a tiny spoon to mix white powder and clear liquid on an orange platform. The whimsical music continues as the focus shifts to a kitchen area, where a glittery pink oven is visible, and a yellow clay egg is first placed on a white plate, then moved to a frying pan, mimicking the cooking process. The camera pans out to showcase a broader dollhouse scene, featuring a blue swimming pool, a pink chair, and a delightful garden area where a white chicken and two yellow chicks peck at colorful beads scattered on a green felt grass mat. A real hamster briefly appears, exploring the dollhouse bed, adding a touch of unexpected reality before the Hand gently places the Hello Kitty figurine into the blue cardboard pool. The video concludes with a wide shot of the entire intricately detailed dollhouse, highlighting a brick-patterned wall, a miniature garden with a yellow box planter, and a blue bird perched on a window ledge, all while the on-screen text 'Cardboard World' consistently reinforces the brand identity, enveloped by the continuous cheerful background music."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 32,
+      "end_minute": 32,
+      "summary": "An upbeat, cheerful instrumental track introduces a detailed miniature dollhouse scene set against a blue background, with 'Cardboard World' displayed on-screen. The scene features a pink and purple kitchen with a glittery staircase, a bedroom with a rainbow bed, and an outdoor garden area with a green felt grass mat. Yellow chick figurines and a white chicken figurine interact with a white plastic tray of colorful beads, while a Hello Kitty figurine is placed in a blue cardboard pool and then on a pink chair. A miniature computer setup, including a black cardboard PC tower, white monitor, and black keyboard, rests on a yellow cardboard table with white cylindrical legs. Within the kitchen, a stove holds a frying pan containing a red clay patty and a yellow clay egg. A real hamster briefly explores the rainbow bed before exiting the frame. Around 36 seconds, the background music shifts to a jazzy instrumental piece, followed by a transition to a blurred, colorful abstract view before fading to black.",
+      "involved_entities": {
+        "Real Hamster": {
+          "description": "A small, real hamster with gray and white fur, briefly appearing in the dollhouse bedroom, exploring the rainbow bed before moving out of frame.",
+          "attribute": "visual"
+        },
+        "Frying Pan": {
+          "description": "A small black frying pan with a handle, placed on the stove, used to simulate cooking the red clay patty and yellow clay egg.",
+          "attribute": "visual"
+        },
+        "On-Screen Text 'Cardboard World'": {
+          "description": "White text with a pink outline at the bottom of the frame, consistently displayed throughout the video, indicating the channel or brand name.",
+          "attribute": "visual"
+        },
+        "White Cardboard Monitor": {
+          "description": "A white cardboard piece painted black and decorated with a printed Windows-style desktop interface to simulate a computer monitor.",
+          "attribute": "visual"
+        },
+        "Black Cardboard PC Tower": {
+          "description": "A small black cardboard box decorated with holographic stickers to resemble a computer tower, placed under the table.",
+          "attribute": "visual"
+        },
+        "White Plastic Tray": {
+          "description": "A white plastic tray filled with colorful beads, placed on the green grass mat for the chicks to peck at.",
+          "attribute": "visual"
+        },
+        "Green Felt Grass Mat": {
+          "description": "A green felt mat placed on the wooden-patterned floor, serving as the ground for the miniature garden and chick figurines.",
+          "attribute": "visual"
+        },
+        "Stove": {
+          "description": "A miniature stove with a black surface and colorful knobs, placed in the kitchen area, used for cooking.",
+          "attribute": "visual"
+        },
+        "Yellow Cardboard Table Top": {
+          "description": "A rectangular yellow cardboard piece with a wavy edge, placed on white cylindrical legs to form a miniature table.",
+          "attribute": "visual"
+        },
+        "White Cylindrical Legs": {
+          "description": "Small white cylindrical sticks used as legs for the miniature table, providing support and height.",
+          "attribute": "visual"
+        },
+        "Pink Chair": {
+          "description": "A pink chair with a white cushion, placed beside the pool, where the Hello Kitty figurine is later positioned to lounge.",
+          "attribute": "visual"
+        },
+        "Dollhouse Kitchen Scene": {
+          "description": "A colorful miniature kitchen setup with pink and purple walls, a stove with a blue pot, a plate of yellow fries, and a glittery staircase, serving as the environment for the miniature cooking activity.",
+          "attribute": "visual"
+        },
+        "Yellow Chick Figurines": {
+          "description": "Two small yellow chick figurines with red combs, placed on the green grass mat and interacting with the colorful beads.",
+          "attribute": "visual"
+        },
+        "Dollhouse Scene": {
+          "description": "A colorful, fully assembled miniature dollhouse with multiple rooms including a kitchen, bedroom, and garden, all crafted from cardboard and decorated with vibrant patterns and miniature furniture.",
+          "attribute": "visual"
+        },
+        "Cardboard Pool": {
+          "description": "A blue cardboard structure resembling a swimming pool, with a textured surface to mimic water, placed on a yellow base and used as part of the dollhouse scene.",
+          "attribute": "visual"
+        },
+        "White Flower-Shaped Lamp": {
+          "description": "A white plastic object shaped like a flower with a blue center, likely a decorative lamp or fan, placed beside the desk.",
+          "attribute": "visual"
+        },
+        "Blue Background": {
+          "description": "A solid blue surface visible on the right side of the frame, serving as a backdrop for the crafting area and contrasting with the pink and purple elements.",
+          "attribute": "visual"
+        },
+        "White Monitor Stand": {
+          "description": "A white plastic stand used to mount the cardboard monitor, giving it a realistic appearance.",
+          "attribute": "visual"
+        },
+        "Black Keyboard": {
+          "description": "A small black cardboard piece with printed keys, placed in front of the monitor to complete the computer setup.",
+          "attribute": "visual"
+        },
+        "Rainbow Pleated Base": {
+          "description": "A colorful, pleated cardboard base with rainbow stripes, serving as a decorative platform for the cooking setup and later used as a table base.",
+          "attribute": "visual"
+        },
+        "Yellow Clay Egg": {
+          "description": "A round yellow clay object shaped to resemble a boiled egg, placed on a white plate and later moved to the frying pan.",
+          "attribute": "visual"
+        },
+        "White Plate": {
+          "description": "A small white plate used to hold the yellow clay egg before and after baking.",
+          "attribute": "visual"
+        },
+        "White Chicken Figurine": {
+          "description": "A small white chicken figurine with a red comb, placed near the tray of beads and interacting with the chicks.",
+          "attribute": "visual"
+        },
+        "Red Clay Patty": {
+          "description": "A round red clay object shaped into a flat patty, placed into the frying pan to simulate cooking meat.",
+          "attribute": "visual"
+        },
+        "Hello Kitty Figurine": {
+          "description": "A small white Hello Kitty figurine with a red bow, placed into the pool and later moved to lounge on the pink chair, serving as the main character in the scene.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens to an upbeat, cheerful instrumental track, setting a playful tone as a vibrant, fully assembled miniature dollhouse scene unfolds. The camera pans across a detailed setup, revealing a pink and purple kitchen with a glittery staircase, a bedroom featuring a rainbow bed, and an outdoor garden area with a green felt grass mat. Yellow chick figurines and a white chicken figurine interact with a white plastic tray filled with colorful beads, simulating a farmyard scene. A Hello Kitty figurine is placed into a blue cardboard pool, then moved to lounge on a pink chair beside it. The scene also includes a miniature computer setup with a black cardboard PC tower, white monitor, and keyboard on a yellow cardboard table with white cylindrical legs. In the kitchen, a stove holds a frying pan with a red clay patty and a yellow clay egg, suggesting cooking. A real hamster briefly explores the rainbow bed before moving out of frame. The entire scene is set against a bright blue background, with the on-screen text 'Cardboard World' consistently displayed at the bottom. Around the 36-second mark, the background music transitions to a different, equally upbeat and jazzy instrumental piece. The video then transitions to a blurred, colorful abstract view before fading to black, concluding the segment."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Blue Background": "A solid blue surface visible on the right side of the frame, serving as a backdrop for the crafting area and contrasting with the pink and purple elements.",
+    "Scalloped Awning": "A white, scalloped-edge cardboard piece attached to the top of the pink structure, resembling a storefront awning and framing the top of the scene.",
+    "Dollhouse Bed": "A pink bed with a white grid-patterned mattress, shown assembled with the green scalloped headboard and placed on a grid-patterned floor, later receiving the blue floral box and bunny decoration.",
+    "Hand": "A human hand with light-colored nail polish and cute animal-themed nail art, actively handling miniature objects, placing decorations, and simulating cooking actions with a spoon and tweezers.",
+    "Grid-Patterned Floor": "A pink floor with a white grid pattern, serving as the base for the dollhouse bed and other miniature furniture.",
+    "Pink Star-Patterned Background": "A vibrant pink backdrop with white star patterns, visible behind the miniature kitchen setup, adding to the whimsical aesthetic.",
+    "White Plastic Sink Basin": "A white plastic cap decorated with a green marker and used as a miniature sink basin, placed on the countertop.",
+    "Marble-Print Countertop": "A dark blue cardboard piece with a white marble-like pattern and a circular cutout, used as a kitchen countertop where the sink and plant are placed.",
+    "Blue Flexible Faucet": "A blue, coiled plastic tube attached to the sink basin to simulate a faucet.",
+    "Blue Clay Ball": "A round blue clay object shaped into a rectangular form with eyes and a golden spiral decoration, placed beside the sink as a decorative item.",
+    "Orange Cardboard Cabinet": "A small cardboard box painted orange with yellow handles, assembled and placed on the grid-patterned floor as a kitchen cabinet.",
+    "Golden Faucet Knobs": "Small golden plastic pieces attached to the countertop beside the sink to represent faucet handles.",
+    "Wooden Stick and Strip Assembly": "Small wooden sticks inserted vertically into the red clay base, serving as supports for the climbing vines in the miniature garden.",
+    "Green Plastic Cap with Polka Dots": "A small green plastic cap decorated with white polka dots, used as a miniature pot for a tiny plant with orange berries.",
+    "Pliers": "Metal pliers used to bend a golden wire into a spiral shape for decoration.",
+    "Craft Knife": "A small knife used to cut the white cardboard strip into a book or card shape, shown in close-up during the cutting process.",
+    "Miniature Plant with Orange Berries": "A small artificial plant with green leaves and orange berry-like tips, inserted into the green plastic cap to create a potted plant.",
+    "White Cardboard Box with Red Trim": "A white cardboard box with red trim, assembled into a two-compartment structure and placed on the pink star-patterned background.",
+    "Pink Paper Heart": "A small pink paper cut into a heart shape, folded and glued to the top of the pink bear-shaped cardboard to form a face.",
+    "Yellow Cloud Mat": "A bright yellow, cloud-shaped mat placed on the grid-patterned floor to serve as a decorative base for the crafted bear.",
+    "Cardboard Sign with 'Bear'": "A cardboard piece with the word 'Bear' written in cursive, covered with pink paper and placed on the pink star-patterned background as a decorative sign.",
+    "White Felt Cloud": "A white felt piece cut into a cloud shape, decorated with pink clay dots and a green clay dot to form a face, shown being assembled and placed on the bed.",
+    "Yellow Doll Figurines": "Two small yellow-clad doll figurines placed in the background, contributing to the playful aesthetic.",
+    "Colorful Pencils": "A set of colorful pencils arranged in the background, adding visual interest and context to the crafting environment.",
+    "Pink Pig Figurines": "Three small pink pig figurines with colored clothing, visible in the background during the cloud-making and bear crafting process.",
+    "Blue Pen": "A blue pen used to draw the eyes on the yellow clay bear face, providing initial facial detail.",
+    "Red Clay Bow": "A small red clay piece shaped into a bow, glued to the top of the yellow clay bear head as a decorative accessory.",
+    "Black Marker": "A black marker used to draw the eyes and mouth on the white clay bunny face, providing facial detail.",
+    "Blue Clay Ball Pit": "An orange bear-shaped cardboard container filled with blue clay balls, placed on the grid-patterned floor as a miniature ball pit.",
+    "Yellow Clay Bear Face": "A yellow clay sphere with drawn eyes, nose, and mouth, topped with a red clay bow, held and displayed by the hand.",
+    "On-Screen Text 'Cardboard World'": "White text with a pink outline at the bottom of the frame, consistently displayed throughout the video, indicating the channel or brand name.",
+    "White Beaded Trim": "A string of small white beads applied around the base of the pink bear structure as a decorative border.",
+    "Yellow Glue Bottle": "A yellow bottle labeled 'ZHANLUI' with a white nozzle, used to apply adhesive to the pink drawer unit, TV, and storefront structure during assembly and decoration.",
+    "Golden Glitter Cardboard": "A square piece of golden glittery cardboard used as a base for the bear face, later cut to shape with a craft knife.",
+    "Rainbow TV": "A small cardboard TV with rainbow-colored horizontal stripes, white pom-pom knobs, and a red power button, placed on a pink drawer unit in the background.",
+    "Pink Glitter Drawer Unit": "A rectangular pink glittery cardboard piece with yellow drawer fronts and golden knobs, serving as a miniature furniture piece in the kitchen.",
+    "Glittery Cardboard Staircase": "A miniature staircase made of purple, green, and blue glittery cardboard blocks, assembled on a wooden base within the dollhouse setting.",
+    "Yellow Bow": "A small yellow ribbon bow, glued onto the blue floral-patterned box as a decorative accent.",
+    "White Lace Trim": "A delicate white lace strip with scalloped edges, used to decorate the blue floral-patterned box, adding a decorative border.",
+    "Green Scalloped Cardboard Piece": "A green cardboard cutout with a scalloped top edge, resembling a storefront awning or decorative panel, assembled into a bed frame and placed on the pink star-patterned background.",
+    "Green Clay Ball": "A small green clay sphere attached to the top of the green polka-dotted cardboard box as a decorative element.",
+    "White Clay Ball": "A round white clay object shaped into a bunny head with ears, decorated with facial features and blush, used as a miniature figurine.",
+    "Miniature Books": "A set of colorful, thin cardboard books in purple, pink, blue, green, orange, and red, arranged inside the yellow box to simulate a bookshelf.",
+    "White Swan Figurine": "A small white swan figurine with a pink beak, placed on the lower shelf of the yellow box.",
+    "Red Object": "A small red object, possibly a decorative item or toy, placed beside the white swan in the yellow box.",
+    "Blue and Yellow Surface": "A two-toned surface with blue and yellow sections, used as a workspace for shaping and decorating the clay bear and bunny.",
+    "Disney Princess Book": "A small white cardboard book with a colorful Disney princess illustration, cut from a strip and placed into the yellow box as a decorative item.",
+    "Red Clay Ball": "A round red clay object shaped into a flat rectangle, textured with a wire tool to resemble bricks, and used as the base for the miniature garden.",
+    "Orange Clay Bricks": "Small orange clay blocks arranged in a U-shape on a red clay base, forming a border for the miniature garden.",
+    "Wire Tool": "A thin metal wire bent into a U-shape, used to press into the red clay to create a brick pattern, visible during the shaping process.",
+    "Green Plastic Tool": "A green plastic tool, possibly a crafting knife or shaper, held by the hand at the beginning and used to press into the red clay, resembling a hammer or mallet.",
+    "Toy Dump Truck": "A yellow toy dump truck labeled 'CARDBOARD WORLD' with black wheels, used to dump orange clay bricks and colorful miniature items onto the red clay base.",
+    "Miniature Garden Setup": "A constructed scene featuring red clay base, orange clay bricks, wooden sticks, green vines with red berries, and clay balls, forming a playful miniature garden.",
+    "Cotton Swab": "A white cotton swab used to spread glue evenly on the pink cardboard frame, ensuring proper adhesion.",
+    "White Glue-like Substance": "A white, viscous substance applied to the U-shaped cardboard piece, likely a glue or paint base, which is then marbled with blue for decoration.",
+    "U-Shaped Cardboard Piece": "A brown cardboard piece cut into a U-shape, used as a countertop or shelf, which is later decorated with a blue and white marbled pattern.",
+    "Pink Base with White Stripes": "A pink rectangular base with white vertical stripes, serving as the foundation for the miniature garden setup.",
+    "Woven Basket": "A small brown woven basket containing a blue watering can and a white ball, placed beside the mushroom figurine in the miniature garden.",
+    "White and Purple Clay Balls": "Round clay balls in white and purple, placed on the red clay base to resemble flowers or fruits in the garden.",
+    "Mushroom Figurine": "A pink, round figurine with a red cap and white spots, resembling a mushroom, placed into the woven basket.",
+    "White Ball": "A small white spherical object, placed inside the woven basket alongside the blue watering can.",
+    "Blue Watering Can": "A small blue plastic watering can with a handle, placed inside the woven basket as part of the garden setup.",
+    "Green Vines with Red Berries": "Artificial green vines with red berry-like tips, inserted into the red clay base as part of the garden decoration.",
+    "Pink Compass": "A pink compass with a white handle, used to draw a semi-circular arc on the blue cardboard.",
+    "Dollhouse Kitchen Scene": "A colorful miniature kitchen setup with pink and purple walls, a stove with a blue pot, a plate of yellow fries, and a glittery staircase, serving as the environment for the miniature cooking activity.",
+    "Miniature Chair": "A completed 3D miniature chair made from blue cardboard, featuring a checkered seat and golden glittered edges, placed in a dollhouse kitchen.",
+    "Green-Handled Scissors": "Scissors with green handles, used to cut the blue cardboard along the drawn arc.",
+    "Checkered Circular Piece": "A blue and white checkered circular piece of cardboard, glued to the base of the blue arch to form a seat.",
+    "Blue Cardboard Square": "A solid blue square piece of cardboard placed on a pink surface, used as the base for crafting a miniature chair.",
+    "Pink Cardboard Piece": "A pink cardboard piece, prepared for the next crafting step by applying yellow glue from a bottle labeled 'ZHANLUI'.",
+    "Golden Glitter Glue": "A bottle of golden glitter glue, applied along the edges of the blue arch to add decorative sparkle.",
+    "White Marker": "A white marker used to write Korean text and draw decorative elements on the black cardboard box.",
+    "White Glue Stick": "A pink glue stick with a white tip, used to apply adhesive to the pink cardboard bow and other miniature items during assembly.",
+    "Clear Jar with Rainbow Label": "A small transparent jar with a colorful rainbow label, placed into a purple shelf as a decorative miniature item.",
+    "Blue Glittery Slime": "A stretchy, blue, glittery substance that is kneaded and shaped by hand within a clear plastic container, appearing to be a craft material made from a viscous base mixed with glitter.",
+    "Dollhouse Scene": "A colorful, fully assembled miniature dollhouse with multiple rooms including a kitchen, bedroom, and garden, all crafted from cardboard and decorated with vibrant patterns and miniature furniture.",
+    "Brick-Patterned Cardboard": "A cardboard piece painted with a red brick pattern, used to simulate a brick wall and added to the structure for visual texture.",
+    "Pink and White Striped Cardboard": "A cardboard piece with vertical pink and white stripes, used as a decorative border or wall panel in the miniature structure.",
+    "Cardboard Pool": "A blue cardboard structure resembling a swimming pool, with a textured surface to mimic water, placed on a yellow base and used as part of the dollhouse scene.",
+    "Brown Cardboard Base": "A plain brown cardboard piece serving as the foundation for a new structure, which is later decorated with patterned paper and painted details.",
+    "Yellow Cardboard Box": "A small rectangular cardboard box painted yellow, used as a planter for the miniature garden and later decorated with green foliage and painted flowers.",
+    "Green Plastic Foliage": "Artificial green leaves and stems, inserted into the yellow box to simulate plants, and later painted with pink and yellow dots to resemble flowers.",
+    "White Base": "A plain white cardboard base onto which the decorated yellow box is placed, completing the miniature garden scene.",
+    "Pink and White Patterned Paper": "A sheet of pink paper with white polka dots and heart patterns, used to cover the cardboard base and add decorative elements to the structure.",
+    "White Chicken Figurine": "A small white chicken figurine with a red comb, placed near the tray of beads and interacting with the chicks.",
+    "White Plastic Tray": "A white plastic tray filled with colorful beads, placed on the green grass mat for the chicks to peck at.",
+    "Green Felt Grass Mat": "A green felt mat placed on the wooden-patterned floor, serving as the ground for the miniature garden and chick figurines.",
+    "Pink Felt Piece": "A pink felt piece being cut into a curved shape with scissors, likely for use as a decorative element in the miniature garden.",
+    "Yellow Chick Figurines": "Two small yellow chick figurines with red combs, placed on the green grass mat and interacting with the colorful beads.",
+    "Hello Kitty Figurine": "A small white Hello Kitty figurine with a red bow, placed into the pool and later moved to lounge on the pink chair, serving as the main character in the scene.",
+    "White Flower-Shaped Lamp": "A white plastic object shaped like a flower with a blue center, likely a decorative lamp or fan, placed beside the desk.",
+    "White Cardboard Monitor": "A white cardboard piece painted black and decorated with a printed Windows-style desktop interface to simulate a computer monitor.",
+    "White Cylindrical Legs": "Small white cylindrical sticks used as legs for the miniature table, providing support and height.",
+    "White Monitor Stand": "A white plastic stand used to mount the cardboard monitor, giving it a realistic appearance.",
+    "Black Keyboard": "A small black cardboard piece with printed keys, placed in front of the monitor to complete the computer setup.",
+    "Yellow Cardboard Table Top": "A rectangular yellow cardboard piece with a wavy edge, placed on white cylindrical legs to form a miniature table.",
+    "Black Cardboard PC Tower": "A small black cardboard box decorated with holographic stickers to resemble a computer tower, placed under the table.",
+    "White Powder Substance": "A white, powdery material resembling flour or sugar, scooped with a tiny spoon and mixed with liquid to form a dough-like consistency.",
+    "Orange Square Platform": "A small orange square cardboard piece placed atop the rainbow pleated base, serving as a cooking surface for the miniature dough mixture.",
+    "Miniature Oven": "A small, pink and purple glittery oven with a transparent door, used to simulate baking the yellow clay egg.",
+    "Clear Liquid": "A transparent liquid added to the white powder to form a dough, likely representing water or milk in the miniature cooking process.",
+    "Tiny Spoon": "A miniature silver spoon used to scoop and mix the white powder and liquid on the orange platform.",
+    "Yellow Clay Egg": "A round yellow clay object shaped to resemble a boiled egg, placed on a white plate and later moved to the frying pan.",
+    "White Plate": "A small white plate used to hold the yellow clay egg before and after baking.",
+    "Red Clay Patty": "A round red clay object shaped into a flat patty, placed into the frying pan to simulate cooking meat.",
+    "Real Hamster": "A small, real hamster with gray and white fur, briefly appearing in the dollhouse bedroom, exploring the rainbow bed before moving out of frame.",
+    "Frying Pan": "A small black frying pan with a handle, placed on the stove, used to simulate cooking the red clay patty and yellow clay egg.",
+    "Stove": "A miniature stove with a black surface and colorful knobs, placed in the kitchen area, used for cooking.",
+    "Pink Chair": "A pink chair with a white cushion, placed beside the pool, where the Hello Kitty figurine is later positioned to lounge.",
+    "Rainbow Pleated Base": "A colorful, pleated cardboard base with rainbow stripes, serving as a decorative platform for the cooking setup and later used as a table base."
+  }
+}

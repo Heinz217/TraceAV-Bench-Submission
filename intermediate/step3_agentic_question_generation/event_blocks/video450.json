@@ -1,0 +1,1077 @@
+{
+  "video_id": "video450",
+  "audio_id": "video450_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 1,
+      "summary": "The day begins with a smartwatch displaying 'Good Morning Pawan' as rustling sounds are heard in a bedroom featuring a white bed and a wooden door with hanging clothes. A distinct 'thud' accompanies a person stepping onto a digital scale next to a bedside table, registering 63.00 kg. A man is then observed working at a desk with a laptop and monitor. The scene shifts through a living area and a hallway to a kitchen where running water is audible. A woman, holding a phone near a window with a cityscape view, asks in Hindi, 'Kal khana kaun leke gaya tha?' The man replies, 'Hmm? Sab theek hai na? Sab leke gaye the.' The woman points out, 'Ye dekho. Char ki char roti aur sabzi poori ki poori.' The segment ends with a view from a balcony overlooking a cityscape of tall buildings and streets under a clear blue sky, with distant city sounds.",
+      "involved_entities": {
+        "living area": {
+          "description": "Includes a gray sofa, coffee table, and large window with curtains.",
+          "attribute": "visual"
+        },
+        "hallway": {
+          "description": "Connects the living area to the kitchen, with a visible door frame and tiled floor.",
+          "attribute": "visual"
+        },
+        "cityscape": {
+          "description": "A dense urban environment with high-rise buildings, streets, parked cars, and a clear blue sky, visible from the balcony and kitchen window, accompanied by distant city sounds at the end of the segment.",
+          "attribute": "audio-visual"
+        },
+        "digital scale": {
+          "description": "White, rectangular, with a digital display showing 63.00 kg when stepped on, accompanied by a distinct \"thud\" sound.",
+          "attribute": "audio-visual"
+        },
+        "man at desk": {
+          "description": "Sitting at a wooden desk with a laptop and monitor, wearing glasses and a dark shirt, actively working. He is later heard speaking in Hindi, responding to the woman about food, saying \"Sab theek hai na? Sab leke gaye the.\" (Everything's fine, right? Everyone took it.)",
+          "attribute": "audio-visual"
+        },
+        "balcony": {
+          "description": "Has a wooden chair and a glass railing, offering a panoramic view of the cityscape.",
+          "attribute": "visual"
+        },
+        "bedside table": {
+          "description": "Features a lamp, an alarm clock, and a digital scale.",
+          "attribute": "visual"
+        },
+        "bedroom": {
+          "description": "Contains a white bed, wooden door with clothes hanging, and an ironing board.",
+          "attribute": "visual"
+        },
+        "woman": {
+          "description": "Wearing a dark t-shirt and pants, holding a phone, standing near a kitchen window. She is heard speaking in Hindi, asking \"Kal khana kaun leke gaya tha?\" (Who took the food yesterday?) and later commenting \"Ye dekho. Char ki char roti aur sabzi poori ki poori.\" (Look at this. All four rotis and all the vegetables.)",
+          "attribute": "audio-visual"
+        },
+        "kitchen": {
+          "description": "Equipped with modern appliances, a window with a city view, and a woman standing near it, where the sound of running water is heard and a conversation takes place.",
+          "attribute": "audio-visual"
+        },
+        "smartwatch": {
+          "description": "Displays 'Good Morning Pawan' in red text on a blue background, worn on a wrist.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with subtle rustling and shifting sounds as a close-up of a smartwatch displays 'Good Morning Pawan' in red text on a blue background, signaling the start of the day. The camera then pans across a bedroom with a white bed, a wooden door adorned with hanging clothes, and a small ironing board. A distinct \"thud\" is heard as a person steps onto a digital scale on the floor next to a bedside table with a lamp and alarm clock, revealing a weight of 63.00 kg. The scene transitions to a man, later identified by his voice, sitting at a desk with a laptop and monitor, diligently working. As the camera moves through a living area with a sofa and coffee table, and then a hallway into a kitchen, the sound of running water becomes prominent. Here, a woman, identified by her voice, is seen holding a phone near a window overlooking high-rise buildings. She asks in Hindi, \"Kal khana kaun leke gaya tha?\" (Who took the food yesterday?), to which the man responds, \"Hmm? Sab theek hai na? Sab leke gaye the.\" (Hmm? Everything's fine, right? Everyone took it.). The woman then points out, \"Ye dekho. Char ki char roti aur sabzi poori ki poori.\" (Look at this. All four rotis and all the vegetables.). The segment concludes with a view from a balcony, featuring a chair and a panoramic cityscape of tall buildings, streets, and parked cars under a clear blue sky, accompanied by distant city sounds."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 2,
+      "end_minute": 2,
+      "summary": "The scene opens with an aerial view of a cityscape, transitioning inside to a living area where a hand dispenses water from a table-top water dispenser into a glass, the sound of flowing water audible. The hand then places a smartwatch onto a charging dock. The living area, furnished with a coffee table holding a MacBook, an Xbox controller, a smart speaker, and a phone stand, also features a TV displaying motivational text, which is echoed by the male vocalist in the background music. The camera moves to a bedroom with a white bed, a bedside table with a lamp and a digital scale, and then back to the living area, where a red backpack rests on the sofa and a robotic vacuum cleaner is positioned near the TV stand. The hand concludes by opening the MacBook and adjusting the phone stand on the coffee table, all set against a backdrop of continuing melancholic instrumental music with male vocalizations.",
+      "involved_entities": {
+        "table-top water dispenser": {
+          "description": "White, circular device with a spout, dispensing water into a glass placed on its base, accompanied by a distinct gurgling and flowing sound.",
+          "attribute": "audio-visual"
+        },
+        "MacBook": {
+          "description": "Closed silver laptop with Apple logo, later opened to reveal keyboard and trackpad.",
+          "attribute": "visual"
+        },
+        "TV": {
+          "description": "Mounted on the wall, displaying motivational text such as 'if I could change the way that you see yourself' and 'as long as I'm here, no one can hurt you', with the latter phrase being directly sung by a male vocalist in the background music.",
+          "attribute": "audio-visual"
+        },
+        "bedroom": {
+          "description": "Contains a white bed, wooden door with clothes hanging, and a bedside table with a lamp and digital scale.",
+          "attribute": "visual"
+        },
+        "water bottle": {
+          "description": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+          "attribute": "visual"
+        },
+        "smartwatch": {
+          "description": "Worn on a wrist, later placed into a charging dock on the coffee table.",
+          "attribute": "visual"
+        },
+        "smart speaker": {
+          "description": "White cylindrical device on the coffee table, likely a smart home assistant.",
+          "attribute": "visual"
+        },
+        "living area": {
+          "description": "Includes a gray sofa, coffee table, large window with curtains, and a TV displaying motivational text.",
+          "attribute": "visual"
+        },
+        "phone stand": {
+          "description": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+          "attribute": "visual"
+        },
+        "cityscape": {
+          "description": "Dense urban environment visible through large windows and balcony, featuring high-rise buildings and clear skies, initially accompanied by a melancholic, ethereal instrumental music that evolves into a male vocal track.",
+          "attribute": "audio-visual"
+        },
+        "digital scale": {
+          "description": "White, rectangular device on the bedside table, displaying weight readings.",
+          "attribute": "visual"
+        },
+        "robotic vacuum cleaner": {
+          "description": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+          "attribute": "visual"
+        },
+        "Xbox controller": {
+          "description": "Blue and white gaming controller resting on the coffee table.",
+          "attribute": "visual"
+        },
+        "coffee table": {
+          "description": "Wooden surface with a closed MacBook, blue Xbox controller, smart speaker, phone stand, and table-top water dispenser.",
+          "attribute": "visual"
+        },
+        "red backpack": {
+          "description": "Placed on the gray sofa, with visible yellow trim and brand text.",
+          "attribute": "visual"
+        },
+        "on-screen text overlay": {
+          "description": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video.",
+          "attribute": "visual"
+        },
+        "charging dock": {
+          "description": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table.",
+          "attribute": "visual"
+        },
+        "glass": {
+          "description": "Clear drinking glass used to collect water from the table-top dispenser.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with an aerial view of a modern high-rise building in a dense urban cityscape, accompanied by a melancholic, ethereal instrumental music that sets a contemplative tone. The scene transitions inside to a well-lit living area where a hand interacts with a table-top water dispenser, placing a glass under its spout and pressing a button, eliciting a distinct gurgling and flowing sound as water is dispensed. The living area features a wooden coffee table holding a closed MacBook, a blue Xbox controller, a smart speaker, and a black phone stand. The hand then picks up a smartwatch from the table and places it into a charging dock. As the camera pans around the room, revealing a gray sofa and a large window overlooking the city, a TV mounted on the wall displays motivational text like 'if I could change the way that you see yourself' and 'as long as I'm here, no one can hurt you.' A male vocalist in the background music directly sings the phrase 'As long as I'm here, no one can hurt you,' creating a strong audio-visual connection with the TV's message. The scene shifts to a bedroom with a white bed, a bedside table featuring a lamp and a white digital scale, and a wooden door with clothes hanging. Moving through a hallway, the camera returns to the living area, showing a red backpack on the sofa and a robotic vacuum cleaner near the TV stand. The hand finally returns to the coffee table, opening the MacBook and adjusting the phone stand, completing the sequence of interactions within the clean, modern apartment, all while the comforting, melancholic music continues with further, less distinct male vocalizations."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 3,
+      "end_minute": 3,
+      "summary": "In a bright, modern living area with a panoramic cityscape visible through large windows, a wooden coffee table supports a closed MacBook, a blue Xbox controller, a white smart speaker, a black phone stand, and a table-top water dispenser, while the wall-mounted TV displays motivational text accompanied by a low, rhythmic electronic beat. A hand opens the MacBook, revealing a mountain wallpaper and a dark-themed interface, possibly a code editor, as a YouTube-style overlay with 'Subscribe', 'Like', and 'Bell' icons appears and the distinct, glitchy synth sound of the electronic music persists. The TV screen then shifts to a dark scene with the subtitle 'I said no.', transitioning the music to a more ambient, atmospheric electronic track that escalates into a dramatic, cinematic score, punctuated by the loud clanking and mechanical whirring of an active robotic vacuum cleaner near the TV stand. The TV screen further displays lyrics 'One in one and one on a shore / Like I don't believe in love no more' as the music changes to a melancholic vocal track. The camera briefly captures the user’s legs and feet on the gray sofa before returning focus to the laptop screen, now showing a code editor with syntax-highlighted text, while the robotic vacuum cleaner's whirring continues, concluding the scene with a wider view of the living area and city beyond the balcony, underscored by the persistent melancholic vocal track.",
+      "involved_entities": {
+        "living area": {
+          "description": "Includes a gray sofa, coffee table, large window with curtains, and a TV displaying motivational text and later lyrics.",
+          "attribute": "visual"
+        },
+        "phone stand": {
+          "description": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+          "attribute": "visual"
+        },
+        "table-top water dispenser": {
+          "description": "White, circular device with a spout, dispensing water into a glass placed on its base.",
+          "attribute": "visual"
+        },
+        "robotic vacuum cleaner": {
+          "description": "A black circular device near the TV stand, which emits a distinct, loud clanking and mechanical whirring sound, suggesting it is active or moving.",
+          "attribute": "audio-visual"
+        },
+        "Xbox controller": {
+          "description": "Blue and white gaming controller resting on the coffee table.",
+          "attribute": "visual"
+        },
+        "MacBook": {
+          "description": "Initially closed, then opened to reveal a mountain wallpaper and later a dark-themed code editor interface.",
+          "attribute": "visual"
+        },
+        "coffee table": {
+          "description": "Wooden surface with a MacBook, blue Xbox controller, smart speaker, phone stand, and table-top water dispenser.",
+          "attribute": "visual"
+        },
+        "TV": {
+          "description": "Mounted on the wall, displaying motivational text, then a dark scene with subtitles 'I said no.', and later lyrics 'One in one and one on a shore / Like I don't believe in love no more', accompanied by a dramatic, cinematic score that transitions into a melancholic vocal track.",
+          "attribute": "audio-visual"
+        },
+        "on-screen text overlay": {
+          "description": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video.",
+          "attribute": "visual"
+        },
+        "water bottle": {
+          "description": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+          "attribute": "visual"
+        },
+        "glass": {
+          "description": "Clear drinking glass used to collect water from the table-top dispenser.",
+          "attribute": "visual"
+        },
+        "smart speaker": {
+          "description": "White cylindrical device on the coffee table, likely a smart home assistant.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a bright, modern living area, showcasing a panoramic cityscape through large windows. A wooden coffee table holds a closed MacBook, a blue Xbox controller, a white smart speaker, a black phone stand, and a table-top water dispenser. The TV, mounted on the wall, initially displays motivational text, all set against a backdrop of a low, rhythmic electronic beat. A hand enters the frame to open the MacBook, revealing a mountain wallpaper, as the electronic music continues with a distinct, almost glitchy synth sound. The user interacts with the laptop's dark-themed interface, possibly a code editor, while a YouTube-style overlay with 'Subscribe', 'Like', and 'Bell' icons appears. The TV screen then changes to a dark scene with subtitles 'I said no.', accompanied by a more ambient, atmospheric electronic track that soon intensifies into a dramatic, cinematic score. A loud clanking and mechanical whirring sound emerges, indicating the robotic vacuum cleaner near the TV stand is active. The TV screen further transitions to black, displaying lyrics 'One in one and one on a shore / Like I don't believe in love no more', as the music shifts to a melancholic vocal track. The camera angle briefly shows the user’s legs and feet on the gray sofa before focusing on the laptop screen, which now displays a code editor with syntax-highlighted text. The robotic vacuum cleaner's whirring continues as the scene ends with a wider view of the open living area and the city beyond the balcony, with the melancholic vocal track still playing."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 4,
+      "end_minute": 4,
+      "summary": "In a modern living area, a person sat at a wooden coffee table, initially working on a MacBook displaying a split-screen interface, surrounded by a blue Xbox controller, a black phone stand with a charging cable, a white smart speaker, and a charging dock. The person then poured water from a table-top dispenser into a clear glass, with audible pouring and gulping sounds. Following a soft 'bonk,' footsteps led them through the hallway to the kitchen, where they opened a white front-loading washing machine displaying 'End' and retrieved folded clothes, including a gray Hanes t-shirt and a maroon garment, accompanied by fabric rustling. Returning to the living area, the person placed the clothes on the gray sofa near a red backpack with a soft thud and rustle. They then resumed work on the MacBook, now showing a dark-themed code editor, as the TV displayed lyrics and a cityscape remained visible through a large window.",
+      "involved_entities": {
+        "hallway": {
+          "description": "A connecting passage between the living area and kitchen, through which footsteps are heard as the person moves.",
+          "attribute": "audio-visual"
+        },
+        "clothes": {
+          "description": "Folded garments, including a gray Hanes t-shirt and a maroon piece, retrieved from the washing machine with audible rustling, and later placed on the sofa with a soft thud and rustle.",
+          "attribute": "audio-visual"
+        },
+        "MacBook": {
+          "description": "Initially open to a split-screen interface, later showing a dark-themed code editor interface.",
+          "attribute": "visual"
+        },
+        "TV": {
+          "description": "Mounted on the wall, displaying lyrics 'One in one and one on a shore / Like I don't believe in love no more'.",
+          "attribute": "visual"
+        },
+        "water bottle": {
+          "description": "A large blue plastic water bottle connected to the table-top dispenser, serving as the source for the audibly poured water.",
+          "attribute": "audio-visual"
+        },
+        "smart speaker": {
+          "description": "White cylindrical device on the coffee table, likely a smart home assistant.",
+          "attribute": "visual"
+        },
+        "living area": {
+          "description": "A modern space featuring a gray sofa, coffee table, large window, and a TV displaying lyrics, serving as the primary setting for ambient sounds and activities.",
+          "attribute": "audio-visual"
+        },
+        "phone stand": {
+          "description": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+          "attribute": "visual"
+        },
+        "cityscape": {
+          "description": "Dense urban environment visible through large windows and balcony, featuring high-rise buildings and clear skies.",
+          "attribute": "visual"
+        },
+        "robotic vacuum cleaner": {
+          "description": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+          "attribute": "visual"
+        },
+        "Xbox controller": {
+          "description": "Blue and white gaming controller resting on the coffee table.",
+          "attribute": "visual"
+        },
+        "coffee table": {
+          "description": "A wooden surface holding a MacBook, blue Xbox controller, smart speaker, phone stand, charging dock, and a table-top water dispenser, from which water is poured into a glass with audible sounds, and where a 'bonk' sound is heard.",
+          "attribute": "audio-visual"
+        },
+        "red backpack": {
+          "description": "Placed on the gray sofa, with visible yellow trim and brand text.",
+          "attribute": "visual"
+        },
+        "charging dock": {
+          "description": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table.",
+          "attribute": "visual"
+        },
+        "washing machine": {
+          "description": "A white front-loading machine displaying 'End', whose door is audibly opened to retrieve clothes.",
+          "attribute": "audio-visual"
+        },
+        "kitchen": {
+          "description": "A modern area with appliances and a window, where the washing machine door is audibly opened.",
+          "attribute": "audio-visual"
+        },
+        "glass": {
+          "description": "A clear drinking glass, filled with water from the table-top dispenser, accompanied by distinct pouring and gulping sounds.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The scene opens in a modern living area, where a person is seated at a wooden coffee table, initially interacting with a MacBook displaying a split-screen interface, accompanied by soft ambient sounds and breathing. The coffee table is adorned with various tech items, including a blue Xbox controller, a black phone stand with a charging cable, a white smart speaker, and a charging dock. The person then reaches for a clear glass and fills it from a table-top water dispenser, with distinct water pouring and gulping sounds audible. After a soft 'bonk' sound, the person rises, and footsteps are heard as they walk through the hallway towards the kitchen. In the kitchen, they open a white front-loading washing machine, which displays 'End,' and retrieve folded clothes, including a gray Hanes t-shirt and a maroon garment, with the rustling of fabric clearly audible. Carrying the clothes, the person's footsteps are heard again as they return to the living area, placing the garments on the gray sofa near a red backpack with a soft thud and rustle. Finally, the person settles back at the coffee table, resuming work on the MacBook, which now shows a dark-themed code editor interface, while the TV in the background displays lyrics and the cityscape remains visible through the large window, maintaining a bright and airy atmosphere."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 5,
+      "end_minute": 19,
+      "summary": "In a bright, modern living area, a person interacts with a MacBook on a wooden coffee table, engaging in a video call with a woman in a pink top, while a male voice analyzes UI elements and technical processes. The MacBook screen displays YouTube-style overlays like 'Subscribe' and 'Like', alongside on-screen text such as 'Meeting with teammate' and 'Using Airpods'. The user's hand actively navigates the trackpad, producing clicks, as the speaker discusses notification models, error handling, and features like 'bring on stage' and 'raised hand', referencing 'RoomKit' and 'peer metadata'. Items on the coffee table include a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, a white smart speaker, and a table-top water dispenser. In the background, a TV displays Earth from space, a gray sofa with a red backpack is visible, and a cityscape can be seen through a large window, all under natural light, creating a calm and focused atmosphere for remote interaction and technical discussion.",
+      "involved_entities": {
+        "table-top water dispenser": {
+          "description": "White, circular device with a spout, dispensing water into a glass placed on its base.",
+          "attribute": "visual"
+        },
+        "container": {
+          "description": "Transparent plastic container with orange-colored paratha chatney, from which the distinct sound of a plastic lid being opened and then closed with a clear snap is heard.",
+          "attribute": "audio-visual"
+        },
+        "MacBook": {
+          "description": "Open on a video call interface, showing a one-on-one call with a woman in a pink top, featuring on-screen text overlays and interactive controls. A hand actively uses the trackpad for navigation while a male voice explains technical details about notification flows, custom messages, and request handling, suggesting the MacBook is being used for a presentation or demonstration related to these concepts.",
+          "attribute": "audio-visual"
+        },
+        "pot": {
+          "description": "Silver cooking pot on the stove with a lid, audibly simmering food.",
+          "attribute": "audio-visual"
+        },
+        "TV": {
+          "description": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background.",
+          "attribute": "visual"
+        },
+        "water bottle": {
+          "description": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+          "attribute": "visual"
+        },
+        "smart speaker": {
+          "description": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+          "attribute": "visual"
+        },
+        "living area": {
+          "description": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space.",
+          "attribute": "visual"
+        },
+        "phone stand": {
+          "description": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+          "attribute": "visual"
+        },
+        "on-screen text": {
+          "description": "White text overlay appearing in the video, reading 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods', which the male speaker is likely referencing or interacting with during his technical discussion.",
+          "attribute": "audio-visual"
+        },
+        "doorway": {
+          "description": "Dark wooden door frame connecting the living area to the kitchen, visible as the person walks through.",
+          "attribute": "visual"
+        },
+        "robotic vacuum cleaner": {
+          "description": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+          "attribute": "visual"
+        },
+        "Xbox controller": {
+          "description": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+          "attribute": "visual"
+        },
+        "coffee table": {
+          "description": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+          "attribute": "visual"
+        },
+        "on-screen text overlay": {
+          "description": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface, which is being discussed in the audio in the context of notifications, custom messages, and declining requests, indicating these overlays might be part of the system being explained.",
+          "attribute": "audio-visual"
+        },
+        "kitchen": {
+          "description": "Equipped with modern appliances, a window with a city view, and a washing machine.",
+          "attribute": "visual"
+        },
+        "glass": {
+          "description": "Clear drinking glass used to collect water from the table-top dispenser.",
+          "attribute": "visual"
+        },
+        "charging dock": {
+          "description": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+          "attribute": "visual"
+        },
+        "smartwatch": {
+          "description": "Worn on the left wrist, black in color, visible when the left hand enters the frame to point at the screen, accompanying the hand's interaction with the MacBook.",
+          "attribute": "audio-visual"
+        },
+        "cityscape": {
+          "description": "Dense urban environment visible through the large window, featuring high-rise buildings and clear skies.",
+          "attribute": "visual"
+        },
+        "hand": {
+          "description": "Visible interacting with the MacBook's trackpad, navigating the video call interface and engaging with on-screen controls, performing actions that align with the male voice's detailed explanation of notification and request management.",
+          "attribute": "audio-visual"
+        },
+        "red backpack": {
+          "description": "Placed on the gray sofa, with visible yellow trim and brand text.",
+          "attribute": "visual"
+        },
+        "gray sofa": {
+          "description": "Visible to the right of the coffee table, with a red backpack resting on it.",
+          "attribute": "visual"
+        },
+        "potted plant": {
+          "description": "Green leafy plant near the window, adding a natural element to the room.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a first-person perspective in a modern living area, where a person is seated at a wooden coffee table, interacting with a MacBook open to a split-screen interface. Audible deep breathing, subtle keyboard clicks, and mouse clicks accompany their navigation. The table holds a blue Xbox controller, a white smart speaker, a black phone stand, a glass on a table-top water dispenser, and a large blue water bottle. A chair creaks as the person briefly stands, and soft footsteps are heard as they walk toward the kitchen. Here, a pot is audibly simmering on the stove, and the distinct sound of a plastic container lid being opened and then closed with a clear snap is heard near a container of orange-colored paratha chatney. On-screen text appears, reading 'Paratha chatney today' and 'Will eat in a while.' Footsteps and another chair creak signal their return to the living area, where they resume working on the MacBook, which now displays a dark-themed code editor, with continued keyboard and mouse clicks. The wall-mounted TV switches from a city skyline to a YouTube interface, then a music app with a red interface, playing music with a distinct beat and male vocals. The person continues to interact with the laptop, scrolling and typing, while the robotic vacuum cleaner remains stationary. The scene maintains a calm, domestic atmosphere with natural light streaming in from the window, and the cityscape remains visible outside, all set to the backdrop of the playing music.",
+        "The video opens with a first-person perspective of a modern living area, showcasing a gray sofa, a large window with a cityscape view, and a wall-mounted TV displaying a red-themed interface. On a wooden coffee table, a MacBook is open, initially showing a dark-themed code editor, then transitioning to a video call interface with multiple participants, all while a faint, rhythmic whirring or clicking sound is present. The user, wearing denim shorts and a smartwatch, actively navigates the MacBook using its trackpad and keyboard. Mid-segment, the user removes their smartwatch and places it into a charging dock on the table. Simultaneously, the table-top water dispenser audibly dispenses water into a clear glass, followed by a distinct *clunk* as the glass is set down, after which the rhythmic whirring/clicking sound returns. On-screen text overlays appear, indicating 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods'. A male voice is heard, addressing \"Hi, Dimitri,\" then discussing checking a design, suggesting \"maybe let's check together,\" and mentioning \"share screen.\" He later asks, \"do you know if there is a particular section for toast or they are just scattered around the screens?\" The MacBook screen also displays a YouTube interface where the user clicks 'Subscribe' and the notification bell, showing a playlist of tech-related videos. Other items on the table include a blue Xbox controller, a smart speaker, a phone stand, and a large blue water bottle connected to the dispenser, all under bright, natural daytime lighting.",
+        "The scene unfolds in a well-lit, modern living area, centered around a wooden coffee table. A person's right hand is actively using a MacBook's trackpad, navigating a video call interface that transitions from a single participant to a grid view of multiple individuals, signifying an ongoing virtual meeting. On-screen, YouTube-style text overlays with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons are visible. A male voice is heard, beginning with \"Yeah,\" then delving into a discussion about the UI elements on the screen. He describes \"two buttons basically, this action button and then this cancel button,\" along with \"some icon and text,\" speculating, \"maybe that's the model.\" He elaborates on \"some action that could be performed\" and details the \"sheet UI\" comprising \"icon, text and cancel button,\" emphasizing that \"this action is the only thing that is like kind of important and can be tied to any kind of action,\" which he suggests \"will be coming from different places.\" Towards the end of the minute, the speaker's tone shifts to a searching or questioning one, as he asks, \"where is the okay, this is in layout, right? Where's the flow for uh for ju...\" Meanwhile, the coffee table also holds a black smartwatch charging dock, a black cylindrical container with glasses, and a blue Xbox controller. In the background, a large window frames a cityscape, while a gray sofa and a mounted TV displaying a red-themed YouTube interface with a golden trophy contribute to the calm and productive ambiance.",
+        "The video captures a person interacting with a MacBook on a wooden coffee table in a well-lit living area, bathed in natural light from a large window revealing a cityscape. The MacBook screen displays a video conferencing interface, initially showing a grid of multiple participants, then transitioning to a one-on-one call with a woman in a pink top. The user's right hand actively uses the trackpad to navigate the interface. A calm male voice, presumably the user, is heard analyzing the UI, mentioning \"join\" and \"role change join\" in the context of the call. On-screen text overlays appear, including a message from 'Karan A' asking about data privacy, and a notification that 'Madhav declined the request to join the stage.' The speaker continues, identifying elements like \"icon, some text, and cancel button,\" and discussing \"invite on stage, bring on stage\" functionality, emphasizing that \"the action button is the only thing that is important.\" He further elaborates on future UI design, stating, \"so basically I'll make kind of a notification model and there'll be a configurable action there. And dismiss will already be there in the UI.\" The coffee table also holds a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker. In the background, a gray sofa, a TV mounted on the wall displaying a YouTube interface with a red background and golden trophy, and a potted plant are visible, contributing to a calm and focused atmosphere.",
+        "The scene unfolds in a bright, modern living area, where natural light streams onto a wooden coffee table. On the table, a MacBook is open, displaying a video call interface with a smiling woman in a pink top. A hand enters the frame from the right, actively using the MacBook’s trackpad to scroll and navigate. A male voice, presumably the user, is heard engaging in the call, first asking \"Sorry?\" and then clarifying, \"Yes, there could be, yeah. I I just heard that there could be multiple uh notifications, but not after that.\" The MacBook screen features YouTube-style overlays with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons, which align with the speaker's discussion of notifications. The user continues to interact with the screen, and the voice further inquires, \"Is there a corresponding design?\" and elaborates on a visual concept: \"Uh, stacked on top of each other, you mean the on the Z axis, like coming out? Not like or vertical.\" This dialogue suggests a detailed discussion about interface design or content presentation. Intermittently, on-screen text like 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods' provides further context to the ongoing virtual conversation. In the background, a mounted TV displays a red YouTube interface with a golden trophy, while a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker rest statically on the coffee table, all remaining silent as the user remains deeply engaged in the focused digital interaction.",
+        "The scene is set in a bright, modern living area, illuminated by natural light streaming through a large window that offers a panoramic cityscape view. On a wooden coffee table, a MacBook is open, displaying a video call interface featuring a woman in a pink top, overlaid with YouTube-style elements like 'Subscribe' and 'Like' icons, along with interactive controls and participant lists. A hand actively interacts with the MacBook's trackpad, producing distinct clicking sounds as it navigates the interface, scrolling through thumbnails and selecting options such as 'Bring on Stage'. Concurrently, a clear male voice is heard discussing technical aspects of an interface, stating, \"what would create problem if there are multiple notification everything is gonna be pushed up.\" He elaborates, suggesting, \"Maybe something like iOS notification, right? Some stack kind of thing,\" and explains that users \"either cancel the notification or take action,\" so \"it will go away one by one.\" More clicks accompany his speech. To the left of the MacBook, a black charging dock (currently unoccupied), a black cylindrical container holding glasses, a blue Xbox controller, and a white smart speaker are visible. A white table-top water dispenser is also present, emitting the sound of water being dispensed into a glass. The speaker later adds, \"Yeah, definitely need an array,\" and questions, \"Why will there be a blue dot?\" before concluding, \"Maybe some mistake,\" as further clicks are heard, indicating continued interaction with the digital interface. In the background, a TV mounted on the wall displays a cityscape image, and a gray sofa with a red backpack is partially visible, contributing to a calm atmosphere focused on digital interaction.",
+        "The scene unfolds in a modern, naturally lit living area, offering a panoramic cityscape view through a large window. A wooden coffee table serves as a central workspace, holding a MacBook open to a video call interface. A male voice is heard contemplating the on-screen activity, initially stating \"Notification,\" then musing, \"Oh, if there is... but it's not inside it,\" and suggesting, \"Maybe it's some previous design.\" The MacBook screen displays a one-on-one call with a woman in a pink top, alongside interactive controls like a red 'end call' button and a 'ring on stage' option. YouTube-style icons for 'Subscribe', 'Subscribed', 'Like', and 'Bell' are also visible, interspersed with text overlays such as 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods'. A hand actively navigates the trackpad, its deliberate movements visually accompanying the speaker's analytical process. He later clarifies, \"No, no, it has to be I think the room room kit,\" and elaborates on a feature, explaining, \"Bring on stage and any action would be part of a room model, I think, that can be performed.\" The hand continues to interact with the screen as he concludes, \"Array of... Yeah, I think notifications...\" To the left of the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker are neatly arranged. A white table-top water dispenser with a glass and a connected blue water bottle is also visible. In the background, a TV mounted on the wall displays a cityscape image, and a robotic vacuum cleaner rests near the TV stand. A gray sofa with a red backpack is partially visible on the right, completing the bright and organized living space.",
+        "The minute opens in a modern, naturally lit living area, where a wooden coffee table serves as a central hub. On it, a MacBook displays a video call with a woman in a pink top, featuring dynamic YouTube-style 'Subscribe', 'Like', and 'Bell' overlays that appear and change as a hand interacts with the trackpad. Surrounding the MacBook are a black charging dock, a cylindrical container with glasses, a blue Xbox controller, and a white smart speaker. In the background, a wall-mounted TV shows a dynamic image of Earth from space, while a gray sofa with a red backpack is visible to the right. Throughout this, a male voice is heard engaged in a technical discussion, explaining, \"errors and warnings, those things will be in the model. So whatever text is coming here.\" He then seeks clarification, asking, \"do we have two types of errors? One is where like we would end the call and second is like we'll just show the warnings, something like that?\" He further elaborates on their \"example app,\" noting, \"we don't check for anything, right? We just end the call if there's any error, is it? Okay, and if it's not a fatal one, we don't do anything in the example app.\" He concludes, \"I think then errors we will...\" The scene conveys a calm, focused remote communication session, with the on-screen interaction potentially illustrating or supporting the ongoing technical dialogue.",
+        "In a bright, modern living area bathed in natural light, a MacBook rests on a wooden coffee table, displaying a video call interface with a cheerful woman in a pink top. A hand actively interacts with the MacBook's trackpad, navigating the interface where YouTube-style 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appear as on-screen text overlays, reflecting user engagement. Simultaneously, a male voice is heard discussing technical concepts, questioning whether to show a notification for a 'fatal error' that would 'essentially end' a call, suggesting such errors should appear as a 'toast' on top of everything, preventing further user interaction. He clarifies that 'errors' are distinct from 'notifications' and then transitions to discussing 'raised hands' and the 'peer model' within a 'room kit' context, before mentioning the 'notification model'. The coffee table also holds a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker. In the background, a TV mounted on the wall displays a dynamic image of Earth from space, and a robotic vacuum cleaner is visible near the TV stand, all contributing to a calm and focused atmosphere during this remote interaction.",
+        "The scene is set in a bright, modern living area, illuminated by natural light streaming through a large window that reveals a cityscape. A wooden coffee table centrally holds a MacBook, open to a video call interface. On its screen, a woman in a pink top is seen smiling and engaged, with YouTube-style elements like 'Subscribe' and 'Like' visible, alongside text overlays stating 'Meeting with teammate', 'Skip if not interested', 'It's around 15 minutes', and 'Using Airpods'. A male voice, emanating from the video call, is heard explaining technical concepts, detailing how notifications \"can reside on the room model\" but \"this push will happen from room kit.\" He further clarifies that \"the errors and warnings notification will be from the model, but these notifications is part of HMS room kit,\" concluding that \"room kit will get to know about it and it will push that into the toast.\" A hand actively uses the MacBook's trackpad, navigating the interface. To the left of the MacBook, a black charging dock (currently unoccupied) sits beside a white smart speaker and a glass being filled with water from a table-top dispenser. A blue Xbox controller rests near a black cylindrical container holding glasses, which is topped with a fluffy white cover. In the background, a TV mounted on the wall displays a dynamic image of Earth from space, while a robotic vacuum cleaner is visible near the TV stand. The overall atmosphere is calm and organized, emphasizing digital connectivity and modern home technology.",
+        "The minute opens on a static shot of a modern living area, brightly lit by natural light from a large window revealing a cityscape. A wooden coffee table is central, holding a MacBook open to a video call interface displaying a smiling woman in a pink top, complete with YouTube-style 'Subscribe' and 'Like' overlays. A male voice is heard explaining, \"And a room kit even will monitor the warnings and errors and can push that into the storage as well.\" A hand enters the frame from the right, actively using the MacBook’s trackpad to navigate the video call interface before switching to a document or text editor. The male speaker then asks, \"Does that make sense?\" The coffee table also neatly arranges a black charging dock, a black cylindrical container holding glasses, a blue Xbox controller, and a white smart speaker. In the background, a mounted TV displays Earth from space, a gray sofa holds a red backpack, and a robotic vacuum cleaner rests near the TV stand. The male voice continues, \"Room kit will... Room kit will get to know about that Matthew has raised his hand, right? Through peer mirror, right?\" After a brief silence, he adds, \"Um... So this is currently our uh...\" trailing off, as the hand continues its interaction with the MacBook, suggesting a focused remote work or technical meeting scenario unfolding in the calm atmosphere.",
+        "In a well-lit living area, natural light illuminates a wooden coffee table where a MacBook is open, displaying a one-on-one video call with a woman in a pink top. The screen features YouTube-style on-screen text overlays including 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons. A hand actively interacts with the MacBook’s trackpad, navigating the interface. Surrounding the laptop are a black charging dock, a black cylindrical container holding glasses, a blue Xbox controller, and a white smart speaker. In the background, a TV mounted on the wall shows a dynamic image of Earth from space, while a gray sofa with a red backpack and a potted plant near the window contribute to the cozy, modern aesthetic. Throughout this, a male voice, likely belonging to the user, is heard explaining technical concepts, mentioning 'peer metadata,' 'pin message,' 'raised hand,' and how 'we get a notification' when there's an 'update' or 'dictionary changes.' He continues to elaborate on monitoring the 'status' and how a 'raised hand' will get 'updated for every peer,' suggesting he is actively discussing or demonstrating features related to the on-screen video call or a similar digital interaction.",
+        "The scene opens with a close-up on a MacBook resting on a wooden coffee table in a well-lit living area, where a hand actively navigates a video call interface. The screen displays a one-on-one call with a woman in a pink top, alongside YouTube-style overlays such as 'Subscribe' and 'Like', and on-screen text indicating 'Meeting with teammate' and 'Using Airpods'. A male voice is heard explaining a technical process, stating, \"if the status changes, Room Kit will understand if bring on stage is on, Room Kit will understand that I'll have to send this notification to the local user,\" and that \"someone has raised their hand.\" The user's left hand, wearing a black smartwatch, briefly enters the frame to point at the screen. After a short silence, the male voice resumes with a thoughtful \"So...\", followed by a distinct whirring sound, likely from the MacBook's fan. The voice then elaborates, \"basically we'll have to monitor on every peer basically, every peer status,\" before concluding with a reflective \"Yeah, that we need to think about.\" Throughout, the hand continues multitasking between the video call and other windows, while the background reveals a cityscape through a large window, a TV displaying Earth from space, and various items on the table including a blue Xbox controller and a white smart speaker.",
+        "The minute opens with a static shot of a MacBook resting on a light wooden coffee table in a well-lit living area, its screen displaying a video call interface featuring a smiling woman in a pink top and YouTube-style overlays like 'Subscribe' and 'Like'. A hand, wearing a black smartwatch, enters the frame from the right, actively interacting with the MacBook's trackpad and keyboard. Simultaneously, a male speaker's voice is heard discussing the UI, questioning if it can be driven by notifications, and elaborating on a 'notification model' as typing sounds accompany the hand's engagement. The speaker then describes a hypothetical scenario where an unseen participant named Matthew raises his hand, and a 'broadcaster' declines his stage request, sending a message that his request is declined, leading Matthew to automatically lower his hand and the notification to disappear. The background remains consistent, revealing a gray sofa, a TV displaying Earth from space, a potted plant, and various items on the table including an Xbox controller, a smart speaker, and a charging dock, maintaining a calm and focused atmosphere throughout the technical discussion and interaction.",
+        "In a well-lit living area, a MacBook rests open on a wooden coffee table, displaying a one-on-one video call with a woman in a pink top, alongside YouTube-style on-screen text overlays like 'Subscribe' and 'Like' icons. A hand enters from the right, actively using the MacBook's trackpad to navigate the interface. Simultaneously, a clear male voice explains a technical process, detailing how 'this will come again through a custom message' and that upon receipt, 'we will show a notification again.' He elaborates on notification sources and behavior, noting that a 'previous notification will go away' and that if a request is declined, 'that message will also act as a source for a notification,' leading to a 'declined request to join' message until dismissed. The speaker concludes that 'there'll be multiple sources for this notification' and observes that 'this whole notification flow is like RoomKit is kind of implementing it.' The surrounding coffee table holds a black charging dock, a blue Xbox controller, a white smart speaker, and a phone stand. In the background, a gray sofa with a red backpack, a potted plant, and a wall-mounted TV displaying Earth from space are visible, all illuminated by natural light streaming from a large window overlooking a cityscape. The hand's deliberate interaction with the MacBook aligns with the ongoing technical explanation."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 20,
+      "end_minute": 20,
+      "summary": "A hand interacts with a MacBook displaying a text-based interface with a green border on a wooden coffee table as a male voice calmly discusses technical concepts, mentioning 'extension' and 'models.' A 'ding-dong' chime sounds, coinciding with an 'Anshul ringing for lunch' text overlay on the MacBook, while the speaker continues, stating 'notifications are basically reactive to underlying model properties.' The male voice then confirms, 'Yes, yes. Yeah, that sounds good,' thanks 'Anshul,' and says 'Bye bye,' concluding a call, followed by sounds of movement and footsteps. The camera pans right to a hallway leading to a modern kitchen where a silver pot simmers food on an electric stove next to a transparent container of orange paratha chatney, with a clear sizzling sound emanating from the pot in the naturally lit space.",
+      "involved_entities": {
+        "container": {
+          "description": "Transparent plastic container with orange-colored paratha chatney, placed next to the pot.",
+          "attribute": "visual"
+        },
+        "hallway": {
+          "description": "Connects the living area to the kitchen, with footsteps heard moving through it after the conversation concludes.",
+          "attribute": "audio-visual"
+        },
+        "potted plant": {
+          "description": "Green leafy plant near the window, adding a natural element to the room.",
+          "attribute": "visual"
+        },
+        "MacBook": {
+          "description": "Open on a text-based interface with a green border, displaying the on-screen text overlay 'Anshul ringing for lunch', accompanied by a distinct 'ding-dong' notification chime.",
+          "attribute": "audio-visual"
+        },
+        "hand": {
+          "description": "Visible interacting with the MacBook's trackpad, navigating the text-based interface and engaging with on-screen controls.",
+          "attribute": "visual"
+        },
+        "pot": {
+          "description": "A silver cooking pot on the stove with a lid, actively simmering food and producing a distinct sizzling sound.",
+          "attribute": "audio-visual"
+        },
+        "TV": {
+          "description": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background.",
+          "attribute": "visual"
+        },
+        "smart speaker": {
+          "description": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+          "attribute": "visual"
+        },
+        "gray sofa": {
+          "description": "Visible to the right of the coffee table, with a red backpack resting on it.",
+          "attribute": "visual"
+        },
+        "doorway": {
+          "description": "A dark wooden door frame connecting the living area to the kitchen, through which footsteps are heard as someone moves between rooms.",
+          "attribute": "audio-visual"
+        },
+        "Xbox controller": {
+          "description": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+          "attribute": "visual"
+        },
+        "coffee table": {
+          "description": "Wooden surface holding the MacBook, a black charging dock, a black cylindrical container with glasses, a blue Xbox controller, and a white smart speaker.",
+          "attribute": "visual"
+        },
+        "charging dock": {
+          "description": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+          "attribute": "visual"
+        },
+        "kitchen": {
+          "description": "Equipped with modern appliances, featuring a silver pot simmering food on the stove, from which a clear sizzling sound is heard.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a close-up of a hand interacting with a MacBook on a wooden coffee table in a well-lit living area. The MacBook screen displays a text-based interface with a green border, while a male voice calmly discusses technical concepts, mentioning 'extension' and 'models'. A distinct 'ding-dong' chime then sounds, coinciding with an on-screen text overlay 'Anshul ringing for lunch' appearing on the MacBook. The speaker continues his technical explanation, noting that 'notifications are basically reactive to underlying model properties.' After a brief pause, the male voice confirms, 'Yes, yes. Yeah, that sounds good,' before thanking 'Anshul' and saying 'Bye bye,' indicating the conclusion of a call. As the conversation ends, sounds of movement and footsteps are heard, suggesting someone getting up and walking away. The camera then pans to the right, revealing a hallway leading to a modern kitchen. Here, a silver pot is seen simmering food on an electric stove, next to a transparent container of orange paratha chatney. A clear sizzling sound emanates from the cooking pot, reinforcing the calm, domestic atmosphere of the clean, naturally lit space."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 21,
+      "end_minute": 24,
+      "summary": "The scene transitions from a kitchen where parathas are being plated with yogurt and chutney, accompanied by a brief dialogue about the yogurt supply, to a living area. In the living area, a coffee table is set with a MacBook displaying an 'Anshul ringing for lunch' notification, a charging dock, an Xbox controller, a smart speaker, and a glass being filled from a water dispenser. The meal is deemed sufficient for two. The MacBook displays a design interface with UI elements, error containers, and color tokens, while a technical discussion about UI components, tokens, naming conventions, and hardcoded values unfolds between two male voices. The TV in the background cycles through a space image, a cityscape, and a show titled 'For All Mankind Season 3', with accompanying orchestral music and on-screen text prompts like 'More meetings' and 'Skip 3 minutes'. A robotic vacuum cleaner is present, and a red backpack is on a gray sofa. The environment is well-lit by natural light, featuring a potted plant and a city view from a window or balcony. The discussion touches on logic changes, level tokens, default tokens, and configurations, concluding with a question to 'Akanksha' about the proposed design, all within a relaxed, tech-integrated setting.",
+      "involved_entities": {
+        "table-top water dispenser": {
+          "description": "White, circular device with a spout, dispensing water into a glass placed on its base.",
+          "attribute": "visual"
+        },
+        "container": {
+          "description": "Transparent plastic container with orange-colored paratha chatney, placed next to the pot and later on the coffee table.",
+          "attribute": "visual"
+        },
+        "plate": {
+          "description": "White ceramic plate holding folded parathas, later topped with chatney and yogurt.",
+          "attribute": "visual"
+        },
+        "potted plant": {
+          "description": "Green leafy plant near the window, adding a natural element to the room.",
+          "attribute": "visual"
+        },
+        "MacBook": {
+          "description": "Open to a dark-themed design or development interface with red and blue UI elements and panels for layers and properties, serving as the focal point for a technical discussion about design logic, tokens, configurations, and colors, suggesting a collaborative work session.",
+          "attribute": "audio-visual"
+        },
+        "pot": {
+          "description": "Silver cooking pot on the induction stove, from which parathas are removed with accompanying clanking sounds.",
+          "attribute": "audio-visual"
+        },
+        "hand": {
+          "description": "Visible interacting with the pot, plate, yogurt tub, and parathas, moving from kitchen to living area, placing food, and scooping yogurt, causing various clanking, rustling, and scraping sounds.",
+          "attribute": "audio-visual"
+        },
+        "TV": {
+          "description": "Mounted on the wall, displaying a dynamic image of Earth from space, visible in the background, later showing 'For All Mankind Season 3' and a cityscape.",
+          "attribute": "visual"
+        },
+        "water bottle": {
+          "description": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+          "attribute": "visual"
+        },
+        "smart speaker": {
+          "description": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+          "attribute": "visual"
+        },
+        "induction stove": {
+          "description": "Black glass-top stove with circular heating zones, one of which is active under the pot.",
+          "attribute": "visual"
+        },
+        "gray sofa": {
+          "description": "Visible to the right of the coffee table, with a red backpack resting on it.",
+          "attribute": "visual"
+        },
+        "living area": {
+          "description": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space, now fully visible with all items arranged.",
+          "attribute": "visual"
+        },
+        "doorway": {
+          "description": "Dark wooden door frame connecting the living area to the kitchen, visible as the person walks through.",
+          "attribute": "visual"
+        },
+        "robotic vacuum cleaner": {
+          "description": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+          "attribute": "visual"
+        },
+        "Xbox controller": {
+          "description": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+          "attribute": "visual"
+        },
+        "coffee table": {
+          "description": "Wooden surface holding the MacBook, black charging dock, blue Xbox controller, white smart speaker, glass on dispenser, and the plate of food.",
+          "attribute": "visual"
+        },
+        "red backpack": {
+          "description": "Placed on the gray sofa, with visible yellow trim and brand text.",
+          "attribute": "visual"
+        },
+        "on-screen text overlay": {
+          "description": "YouTube-style interface with 'Subscribe', 'Subscribed', 'Like', and 'Bell' icons appearing during the video call interface.",
+          "attribute": "visual"
+        },
+        "charging dock": {
+          "description": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+          "attribute": "visual"
+        },
+        "yogurt tub": {
+          "description": "Green-and-white tub labeled 'Fresh Yoghurt' with Arabic text, placed on the counter and later on the coffee table.",
+          "attribute": "visual"
+        },
+        "glass": {
+          "description": "Clear drinking glass used to collect water from the table-top dispenser.",
+          "attribute": "visual"
+        },
+        "on-screen text": {
+          "description": "White text overlay appearing in the video, reading 'More meetings', 'Skip 3 minutes if not interested', and 'Skip 3 minutes if not interested'.",
+          "attribute": "visual"
+        },
+        "cityscape": {
+          "description": "Dense urban environment visible through the large window, featuring high-rise buildings and clear skies.",
+          "attribute": "visual"
+        },
+        "yellow bottle": {
+          "description": "Yellow plastic bottle labeled '27', placed on the coffee table to the left of the MacBook.",
+          "attribute": "visual"
+        },
+        "blue water bottle": {
+          "description": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a modern kitchen with the distinct clanking of a silver pot as a hand removes freshly cooked parathas from an induction stove and places them on a white plate. A transparent container of orange paratha chatney and a green-and-white tub of fresh yogurt are set beside the plate. A male voice is heard asking, \"Yogurt khatam ho gaya kya?\" (Is the yogurt finished?), followed by rustling sounds as the yogurt tub is handled. Another male voice responds, \"Thoda sa hai,\" (There's a little bit), which the first voice confirms, \"Bacha hai.\" The hand then carries the plate and yogurt tub through a doorway into a bright living area, where the plate is set on a coffee table already laden with tech gadgets like a MacBook displaying an on-screen text overlay 'Anshul ringing for lunch', a black charging dock, a blue Xbox controller, a white smart speaker, and a glass being filled by a table-top water dispenser, accompanied by the sound of water being dispensed. The first male voice comments, \"Hum hi dono ka chalega kaam,\" (It'll be enough for just the two of us), suggesting a meal for two. As the hand scoops yogurt onto the plate, scraping and clinking sounds are heard. A close-up of the plate shows the parathas, chatney, and yogurt, while the camera pans to reveal the full living room setup, including a TV displaying a space image, a robotic vacuum cleaner, and a red backpack on the gray sofa. An on-screen text overlay with YouTube-style 'Subscribe', 'Like', and 'Bell' icons appears, reinforcing a content-sharing context. The first male voice exclaims, \"Wow,\" as the hand picks up a paratha, concluding the scene with a view of the casual, tech-integrated living area amidst a subtle background hum.",
+        "The minute opens with a close-up of a white plate on a coffee table, holding folded parathas, a dollop of white yogurt, and a small orange chutney, with the person’s denim-clad legs visible in the foreground, accompanied by the distinct whirring sound of a robotic vacuum cleaner. The camera then pulls back to reveal the full living area, showcasing the coffee table laden with a blue Xbox controller, a black charging dock, a white smart speaker, a glass on a table-top water dispenser, and a large blue water bottle. The TV mounted on the wall displays a show titled 'For All Mankind Season 3', with dramatic dialogue from male and female voices audible. The person raises a wine glass containing a yellow drink. The scene shifts to a MacBook being opened and placed on the table, displaying a design interface. The TV screen transitions to a cityscape, now accompanied by dramatic orchestral music, while on-screen text appears: 'More meetings', followed by 'Skip 3 minutes if not interested'. The person interacts with the laptop, occasionally sipping from the glass or reaching for the water bottle. The robotic vacuum cleaner remains stationary near the TV stand. The room is well-lit by natural light from a large window, featuring a potted plant and a gray sofa with a red backpack, creating a relaxed blend of work and leisure. On the laptop, a male voice is heard explaining design concepts, discussing 'UI elements to confirm if we have the right versions', 'error containers', 'text placed in it', and 'color tokens', while the screen shows a text-based interface with a green border and an overlay 'Anshul ringing for lunch', later displaying YouTube-style interface elements.",
+        "The minute opens on a static, well-lit living area, bathed in natural light filtering through sheer curtains. The central wooden coffee table is meticulously arranged, featuring a MacBook open to a text-based interface with a green border, prominently displaying the on-screen text overlay 'Anshul ringing for lunch'. To its left are a yellow bottle labeled '27', a clear glass, a white table-top water dispenser, and a blue Xbox controller, while a large blue water bottle and a pair of glasses sit to its right. Throughout the segment, two male voices are heard in a focused technical discussion, likely related to the content on the MacBook. The first voice details the \"clear usage of components\" and \"tokens,\" emphasizing the \"structure\" and how \"disparity between design and element\" is managed. The second voice queries about \"using these colors in the design\" for \"mobile\" and later discusses how \"naming conventions\" have changed, ensuring \"all the screens and UI would be following this,\" to which the first voice confirms \"there won't be any hardcoded values.\" Behind the table, a TV mounted on the wall displays a vibrant cityscape under a blue sky, with a white shelf below holding a round clock, a smart speaker, and a robotic vacuum cleaner resting on the floor. A potted plant adds greenery near the window, and a red backpack rests on a partially visible gray sofa. Despite the intellectual activity suggested by the audio, the visual scene remains perfectly still, maintaining a calm, organized, and modern minimalist aesthetic.",
+        "The video opens with a wide shot of a modern, well-lit living area, centered on a wooden coffee table. On the table are a MacBook, a yellow bottle labeled '27', a glass, a blue water bottle, a white smart speaker, and a black charging dock. In the background, a large TV displays a vibrant cityscape, while a potted plant and a robotic vacuum cleaner are visible near a window with sheer curtains. The camera slowly zooms in toward the MacBook, which is open to a dark-themed design or development interface showing a UI layout with red and blue elements, with panels for layers and properties visible. As the camera moves closer, the perspective shifts to a first-person view, suggesting the user is seated on a gray sofa, working on the laptop. The room is bathed in natural light from a large glass door leading to a balcony with a city view. Throughout this calm, focused setting, a technical discussion unfolds. A male voice is heard discussing 'logic' and asking about 'what's the change in the logic now.' Another voice elaborates on 'level tokens in each case,' explaining how 'they changed the primary base which would be actually the default token and everything else is derived from it.' The conversation continues, with a voice suggesting, 'let's not add too many configurations on the dashboard, at least on the colors, unless until we see people asking for this,' directly relating to the design elements visible on the MacBook screen. The discussion concludes with a voice asking, 'What do you think Akanksha, this... this sounds fine?', indicating a collaborative review of the work."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 25,
+      "end_minute": 31,
+      "summary": "The video opens with a first-person view of a laptop screen showing a video call interface with 'You are sharing your screen' displayed, set in a bright living area with a cityscape visible through a window and a TV showing a city skyline. On the coffee table are a yellow bottle labeled '27', a wine glass, a blue water bottle, and a white smart speaker. A male voice discusses technical terms like 'customer' and 'light theme' in English, which is interrupted by a Hindi phrase, \"Achha, ab shuru kar\" (Okay, start now), followed by a confirmation. The scene shifts to two men, with an on-screen text overlay 'Mantra has bought Garmin watch'. One man, in a black t-shirt and patterned shorts, excitedly holds a black Garmin watch box, announcing, \"Finally I've got my Garmin Venu 2 Plus. It has traveled thousands of kilometers from US to India to now Abu Dhabi. But now I finally have it. Super excited and now I will open it.\" He gestures with the box while the other man, in a maroon t-shirt and brown shorts, sits on a gray sofa listening. A third person is partially visible in the background. The man in black unboxes the Garmin watch, revealing a smartwatch with a red and black display showing '10' and 'SAT 01'. The man in maroon watches, yawns, and laughs. The man in black lifts the watch, showing it to the camera, while the man in maroon reaches for his phone. On-screen text includes 'Ma'm Ghar ki Bahu Hun??' and a YouTube 'Subscribe' prompt. The man in black, wearing blue Captain America-patterned shorts, speaks in Hindi, asking \"Why is this not working?\" and humorously stating, \"We will sit and study a lot today,\" as he removes the black mesh-strapped smartwatch, identified as the \"Garmin Venu 2 Plus,\" from its box. He places it on his left wrist, announcing, \"We are going to say goodbye to our current watch,\" referring to his old \"Amazfit\" watch. The man in maroon, on the gray sofa, laughs and yawns, handling his own black box and asking, \"Are we going to sit and study this?\" A distinct sound of a box being opened is heard. The coffee table holds the open Garmin watch box, a charging cable, and an instruction booklet. The man in black comments on being nervous while vlogging. He later remarks in Hindi, \"तो घड़ी पहनना भूल जाता है\" (so I forget to wear the watch), and after strapping the watch on, states, \"फाइनली ये घड़ी पहन ली गई है\" (Finally, this watch has been worn), showing the colorful interface and asking, \"So it looks like this. काफी कूल है ना?\" (It's quite cool, isn't it?). As he removes a protective film, he exclaims, \"Oh my god. Oh my god.\" The watch face turns black, and after pressing a side button, a blue triangular animation appears, followed by greetings in multiple languages. The man in maroon interjects, \"Turn it on. अभी तो सेटअप करना पड़ेगा यार\" (Turn it on. We'll have to set it up now, man) and \"अरे ऑन कर दो पहले\" (Hey, turn it on first). They discuss the battery and buttons, with the man in maroon suggesting, \"सभी यार बुक पढ़ो\" (Everyone, read the book). The watch chimes, and the man in black exclaims, \"Oh, चालू हो गई क्या? So it has started. I think नीचे वाला था बटन\" (Oh, has it started? I think the bottom one was the button). He discovers a speaker inside, asking if Apple Watch has one apart from Ultra, to which the man in maroon confirms it's for calls. They discuss listening to music, with the man in maroon clarifying, \"एयरपॉड्स लगाने पड़ेंगे\" (You'll have to use AirPods). The coffee table holds the open Garmin watch box, charging cable, instruction booklet, and a black charging dock. The man in black, wearing blue Captain America-patterned shorts and gray sandals, demonstrates the setup of the black Garmin smartwatch, which displays a red circular animation with 'Hi' and then a purple 'Hello'. He compares the setup to Apple devices and selects 'Pair with phone?', expressing concern about personal data appearing in his vlog. He holds a green-cased smartphone to pair via Bluetooth, and an unseen second person asks about the process. The man notes the watch has NFC, and the phone screen shows a Bluetooth pairing interface with a six-digit code (558864) for confirmation, which the man reads aloud. The coffee table holds the open Garmin watch box, charging cable, instruction booklet, and a closed gray laptop. The man gestures with his hands, and the background includes a gray sofa, white tiled floor, and gray rug. The man in black continues the setup, stating, \"The pairing has started.\" The smartwatch displays a blue animated pairing interface, and the phone shows a numeric keypad. He guides the process, saying, \"Complete setup of a Venue 2 Plus, yeh dekho, setup ho raha hai,\" and later \"Oh my god,\" \"Focus,\" \"Allow,\" and \"Next.\" After successful pairing, the watch face shows time, date, and activity icons, prompting him to declare, \"Okay, baaki saari cheezein toh thoda time lagega, but this is the Venue 2 Plus jo chalu ho chuki hai.\" The man in maroon, wearing an 'ANIMAL EXCHANGE' t-shirt and brown shorts, reacts with an amused \"Wow\" and yawns while holding a black box. The man in black mentions, \"Ab isme always on display bhi hum on kar lenge,\" to which the man in maroon responds, \"Theek hai.\" The coffee table is cluttered with a laptop displaying 'Anshul ringing for lunch', a white smart speaker, an Xbox controller, and a table-top water dispenser. The man in maroon makes a playful comment, \"Ekdum chilla chilla kar... Come out! Come out!\" followed by a third person explaining, \"Dosto, yeh vlog hum log isliye bana rahe hain kyunki humare yahan 15 minute ki electricity chali gayi hai, jo ki kaafi rare occurrence hai.\" The man in maroon adds, \"Karne ko nahi hai.\" In a bright living area, three men are gathered around a coffee table. The man in a red 'ANIMAL EXCHANGE' t-shirt and checkered shorts discusses the internet and AC being off, remarking, \"kyunki internet bhi nahi chal raha hai\" and that \"AC bhi band hai. Thodi der mein garmi ho jayegi,\" leading to a sentiment of \"Gaon wali feeling aa rahi hai, nahi?\" (getting a village-like feeling). The man on the gray sofa in a striped t-shirt refutes this, stating, \"Nahi, gaon mein itna suvidha toh nahi deta.\" He later picks up a red and blue bottle, with a voice encouraging, \"Pilo, pilo\" (Drink, drink). The man in maroon describes a friend's lockdown habit, eliciting laughter and slapping sounds. The conversation shifts to the black box held by the man in maroon, identified as \"Lavazza coffee,\" described as \"classic coffee\" from \"1980-1995,\" prompting the man on the sofa to playfully interject, \"Padh ke nahi batana\" (Don't read and tell). The coffee table holds a MacBook displaying 'Anshul ringing for lunch', a white smart speaker, an Xbox controller, and various bottles, while a TV displays a city skyline. On-screen text overlays like 'Ma'm Ghar ki Bahu Hun??' and a YouTube 'Subscribe' prompt appear.",
+      "involved_entities": {
+        "gray sofa": {
+          "description": "Visible to the right, with the man in striped t-shirt seated on it and a red backpack resting on it, providing a backdrop for the interaction.",
+          "attribute": "visual"
+        },
+        "third person": {
+          "description": "Lying on the gray rug behind the man in maroon, wearing a white t-shirt with 'USPA' text, propped on a pillow, smiling and engaging in conversation, contributing to the loud, boisterous laughter and general jovial atmosphere.",
+          "attribute": "audio-visual"
+        },
+        "laptop": {
+          "description": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen, displaying on-screen text overlay 'Anshul ringing for lunch'.",
+          "attribute": "visual"
+        },
+        "yellow bottle": {
+          "description": "Yellow plastic bottle labeled '27', placed on the coffee table to the left of the laptop.",
+          "attribute": "visual"
+        },
+        "potted plant": {
+          "description": "Green leafy plant near the window, adding a natural element to the room.",
+          "attribute": "visual"
+        },
+        "man in maroon t-shirt": {
+          "description": "Sitting cross-legged on the gray rug, wearing a red 'ANIMAL EXCHANGE' t-shirt and checkered shorts, holding a black box which he identifies through dialogue as 'Lavazza coffee'. He is a primary speaker, initiating topics about internet/AC issues, the 'village feeling', and describing a friend's peculiar lockdown habit, often speaking in Hindi and frequently laughing. He also describes the coffee as 'classic' and from '1980-1995'.",
+          "attribute": "audio-visual"
+        },
+        "Garmin watch box": {
+          "description": "Black rectangular box with 'GARMIN' branding, opened to reveal the smartwatch inside, placed on the coffee table alongside the charging cable and instruction booklet.",
+          "attribute": "visual"
+        },
+        "coffee table": {
+          "description": "Wooden surface holding a MacBook with a text interface, a white smart speaker, a blue-and-white Xbox controller, a yellow bottle, a glass of water, a black phone stand, a remote control, and a black charging dock.",
+          "attribute": "visual"
+        },
+        "man in black t-shirt": {
+          "description": "Wearing a black t-shirt and blue shorts with Captain America shield patterns, actively unboxing and demonstrating the Garmin smartwatch, holding a green-cased smartphone, and gesturing while speaking in Hindi and English, guiding the setup process with phrases like \"The pairing has started,\" \"setup ho raha hai,\" \"Oh my god,\" \"Focus,\" \"Allow,\" \"Next,\" and declaring \"this is the Venue 2 Plus jo chalu ho chuki hai.\" He also mentions turning on \"always on display.\"",
+          "attribute": "audio-visual"
+        },
+        "TV": {
+          "description": "Mounted on the wall, displaying a vibrant city skyline image.",
+          "attribute": "visual"
+        },
+        "on-screen text overlay": {
+          "description": "White text reading 'Mantra has bought Garmin watch', appearing at the bottom of the screen during the product showcase, confirming the context of the man in the black t-shirt's excited announcement.",
+          "attribute": "audio-visual"
+        },
+        "blue water bottle": {
+          "description": "Large blue plastic water bottle connected to the table-top dispenser via a tube, placed on the coffee table.",
+          "attribute": "visual"
+        },
+        "smart speaker": {
+          "description": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+          "attribute": "visual"
+        },
+        "on-screen text": {
+          "description": "White text overlay appearing in the video, reading 'Ma'm Ghar ki Bahu Hun??' and a YouTube 'Subscribe' prompt with a bell icon.",
+          "attribute": "visual"
+        },
+        "smartwatch": {
+          "description": "Black smartwatch with a circular face and black band, initially displaying a blue animated pairing interface, then transitioning to a colorful home screen with time, date, and activity icons, worn on the man in black’s left wrist.",
+          "attribute": "visual"
+        },
+        "charging dock": {
+          "description": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+          "attribute": "visual"
+        },
+        "smartphone": {
+          "description": "Green-cased smartphone held in the man’s right hand, displaying a Bluetooth pairing interface with a numeric keypad and pairing instructions.",
+          "attribute": "visual"
+        },
+        "charging cable": {
+          "description": "Black cable in a clear plastic bag, placed on the coffee table next to the Garmin watch box.",
+          "attribute": "visual"
+        },
+        "gray rug": {
+          "description": "Textured gray rug beneath the coffee table, partially visible under the man’s feet and legs.",
+          "attribute": "visual"
+        },
+        "white tiled floor": {
+          "description": "Clean, light-colored tiled floor visible beneath the coffee table and extending into the living area.",
+          "attribute": "visual"
+        },
+        "instruction booklet": {
+          "description": "Small white booklet, likely containing setup instructions, placed on the coffee table next to the watch box.",
+          "attribute": "visual"
+        },
+        "table-top water dispenser": {
+          "description": "White, circular device with a spout, dispensing water into a glass placed on its base, connected to a large blue water bottle via a tube.",
+          "attribute": "visual"
+        },
+        "living area": {
+          "description": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space, now fully visible with all items arranged.",
+          "attribute": "visual"
+        },
+        "Xbox controller": {
+          "description": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+          "attribute": "visual"
+        },
+        "MacBook": {
+          "description": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen, displaying on-screen text overlay 'Anshul ringing for lunch'.",
+          "attribute": "visual"
+        },
+        "phone stand": {
+          "description": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+          "attribute": "visual"
+        },
+        "doorway": {
+          "description": "Dark wooden door frame connecting the living area to the kitchen, visible as the person walks through.",
+          "attribute": "visual"
+        },
+        "man in striped t-shirt": {
+          "description": "Seated on the gray sofa, wearing a gray-and-white striped t-shirt and blue plaid pajama pants, initially using his phone, then holding up a red and blue bottle to show the others. He contributes to the conversation in Hindi, commenting on the AC, refuting the 'village feeling' by noting lack of amenities, and playfully interjecting 'Padh ke nahi batana' (Don't read and tell) when the man in maroon describes the coffee. He also participates in the laughter, and is encouraged to 'Pilo, pilo' (Drink, drink) when holding the bottle.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a first-person perspective of a laptop screen displaying a video call interface, showing 'You are sharing your screen'. The setting is a bright, modern living area with natural light from a large window revealing a cityscape, and a TV on the wall displaying a vibrant city skyline. On the coffee table, a yellow bottle labeled '27', a wine glass, a blue water bottle, and a white smart speaker are arranged. A male voice is heard discussing technical concepts related to 'customer' and 'light theme' in English, seemingly part of an ongoing presentation or call. This technical discussion is then interrupted by a different male voice in Hindi, saying \"Achha, ab shuru kar\" (Okay, start now), followed by a confirming voice, signaling a shift in focus. The scene transitions to a close-up of two men in the living area, as the on-screen text overlay 'Mantra has bought Garmin watch' appears. One man, wearing a black t-shirt and patterned shorts, holds a black Garmin watch box and excitedly announces in English, \"Finally I've got my Garmin Venu 2 Plus. It has traveled thousands of kilometers from US to India to now Abu Dhabi. But now I finally have it. Super excited and now I will open it.\" He gestures with the box, while the other man, in a maroon t-shirt and brown shorts, sits on a gray sofa, listening attentively. A third person is partially visible in the background, observing the interaction.",
+        "In a well-lit living area, a man in a black t-shirt and patterned shorts is seated at a wooden coffee table, actively unboxing a Garmin watch. As he carefully opens the black rectangular Garmin watch box, revealing the smartwatch inside with its vibrant red and black display showing '10' and 'SAT 01', his enthusiastic commentary about the device is heard. Seated on the gray sofa, the man in a maroon t-shirt watches intently, his reactions audible as he lets out a wide yawn, followed by bursts of laughter, reflecting his amusement and surprise at the unboxing or the speaker's remarks. The third person, partially visible in a white 'USPA' t-shirt, observes the interaction. The man in black lifts the watch from its packaging, showing it to the camera and gesturing excitedly, while the man in maroon reaches for his own phone, possibly to record or comment, his laughter continuing. On-screen text appears, including 'Ma'm Ghar ki Bahu Hun??' and a YouTube 'Subscribe' prompt with a bell icon, possibly echoing a playful comment made by the unboxer. The casual and playful atmosphere is underscored by the sounds of packaging being opened and the continuous laughter, all set against the backdrop of the coffee table holding a closed laptop and a yellow bottle labeled '27', and a red backpack resting on the gray sofa near a large window with a potted plant.",
+        "In a well-lit living area, the man in black t-shirt and blue Captain America-patterned shorts is actively unboxing a new Garmin smartwatch. He speaks in Hindi, initially asking \"Why is this not working?\" and then humorously stating, \"We will sit and study a lot today,\" as he carefully removes the device from its black box. He places the black mesh-strapped smartwatch, which he identifies as the \"Garmin Venu 2 Plus\" with its red and black interface displaying time and activity metrics, onto his left wrist. He announces, \"We are going to say goodbye to our current watch,\" referring to his old \"Amazfit\" watch, which he playfully credits for \"saalon saal saath diya\" (supporting him for years), prompting a lighthearted correction and laughter from the man in maroon. The man in maroon t-shirt, seated on the gray sofa, watches with interest, occasionally laughing and yawning, and also handles his own black box, possibly containing a similar device, while interjecting with questions like \"Are we going to sit and study this?\" and participating in the playful banter. A distinct sound of a box being opened is heard as the man in black continues his demonstration, gesturing excitedly and explaining the watch’s features. The coffee table holds the open Garmin watch box, a charging cable in a plastic bag, and a small instruction booklet. A third person, partially visible in the background wearing a white t-shirt with 'USPA' text, observes the casual and friendly interaction, which concludes with the man in black commenting on how \"vlog karte time aise na insaan bahut nervous...\" (while vlogging, a person gets very nervous...).",
+        "The video segment opens with the man in a black t-shirt and blue Captain America-patterned shorts seated at a wooden coffee table, actively unboxing and demonstrating a Garmin smartwatch. He remarks in Hindi, \"तो घड़ी पहनना भूल जाता है\" (so I forget to wear the watch), followed by a brief laugh from the man in the maroon t-shirt on the gray sofa. The man in black carefully straps the black smartwatch onto his left wrist, adjusting the band for a snug fit, stating, \"फाइनली ये घड़ी पहन ली गई है\" (Finally, this watch has been worn). He then shows the watch face, which initially displays a colorful interface with time and health metrics, commenting, \"So it looks like this. काफी कूल है ना?\" (It's quite cool, isn't it?). As he prepares to remove a protective film, he announces, \"और हम ये हटाने वाले हैं अब\" (And we are going to remove this now). The watch face transitions to a black screen as he removes the film, prompting an excited \"Oh my god. Oh my god.\" from him. He then presses a side button, triggering a blue triangular animation, followed by a series of greeting messages in multiple languages—'Bonjour', 'Ciao', 'Hej'—each appearing with a colorful circular animation. The man in maroon, who has been watching with amusement, occasionally laughing and yawning while holding a black box and glancing at his phone, interjects, \"Turn it on. अभी तो सेटअप करना पड़ेगा यार\" (Turn it on. We'll have to set it up now, man), and later, \"अरे ऑन कर दो पहले\" (Hey, turn it on first). The man in black notes, \"Battery...\" to which the man in maroon responds, \"Battery तो देनी चाहिए अनबॉक्सिंग के लिए\" (They should provide battery for unboxing). The man in black identifies a \"Power button top वाला होगा\" (The power button will be the top one) and points out, \"तीन-तीन बटन हैं यार देखो\" (There are three buttons, look). The man in maroon suggests, \"सभी यार बुक पढ़ो\" (Everyone, read the book). Suddenly, the watch emits a distinct chime, and the man in black exclaims, \"Oh, चालू हो गई क्या? So it has started. I think नीचे वाला था बटन\" (Oh, has it started? I think the bottom one was the button). He then discovers, \"देखो, स्पीकर और है इसके अंदर\" (Look, there's a speaker inside it), and asks, \"Apple Watch में स्पीकर आता है क्या Ultra के अलावा? Ultra के अलावा?\" (Does Apple Watch have a speaker apart from Ultra? Apart from Ultra?). The man in maroon confirms, \"सब में होता है\" (It's in all of them), adding, \"कॉल होती है ना कॉल के लिए\" (It's for calls, right?). A discussion ensues about listening to music, with the man in black asking, \"गाने नहीं सुन सकते ना आप उसमें?\" (You can't listen to songs on it, right?), and the man in maroon replying, \"गाने नहीं सुन सकते\" (You can't listen to songs), before clarifying, \"एयरपॉड्स लगाने पड़ेंगे\" (You'll have to use AirPods). The coffee table holds the open Garmin watch box, a charging cable in a plastic bag, a small instruction booklet, and a black charging dock. The living area is well-lit with natural light, featuring the gray sofa, a large window with curtains, and a TV displaying a city skyline, with a third person partially visible in the background observing the casual and relaxed unboxing.",
+        "The video opens with a man in a black t-shirt, seated at a wooden coffee table, actively demonstrating the setup of a black Garmin smartwatch on his left wrist. He wears blue shorts with Captain America shield patterns and gray sandals. The smartwatch initially displays a red circular animation with 'Hi' and then transitions to a purple 'Hello' greeting. The man, speaking in Hindi, comments, \"Look, it's saying 'Hello' to me in so many languages,\" and compares the setup experience to Apple devices, with a laugh. He interacts with the watch by tapping the screen, navigating through setup options, and confirming \"English is the language.\" He then selects 'Pair with phone?', stating in Hindi, \"Let's start pairing,\" while expressing concern about personal data appearing in his vlog, even suggesting, \"Blur it, okay.\" He holds a green-cased smartphone in his right hand, bringing it close to the watch to initiate pairing. An unseen second person asks in Hindi, \"Do I need to bring it close? What do I need to do for pairing?\" to which the man clarifies it's \"Bluetooth wala.\" The man then notes the watch has NFC capabilities before exclaiming, \"Oh, it has actually detected it,\" as the phone screen shows a Bluetooth pairing interface. The watch displays a six-digit code (558864) for confirmation, which the man begins to read aloud, while the second person confirms, \"Yes, correct.\" The coffee table holds the open Garmin watch box, a charging cable in a plastic bag, a small instruction booklet, and a closed gray laptop. The man’s arm has a visible tattoo, and he gestures with his hands while explaining the process. The background includes a gray sofa, a white tiled floor, and a gray rug beneath the table. The lighting is bright and natural, suggesting daytime. The man appears engaged and focused, occasionally glancing at the phone and watch to ensure successful pairing.",
+        "The video opens with a close-up of the man in black t-shirt, wearing blue shorts with Captain America shield patterns, actively unboxing and setting up a black Garmin smartwatch with a circular face and black band. He holds a green-cased smartphone to pair it via Bluetooth, stating, \"The pairing has started.\" As the smartwatch displays a blue animated pairing interface and the phone shows a numeric keypad for verification, he guides the process, saying, \"Complete setup of a Venue 2 Plus, yeh dekho, setup ho raha hai,\" and later \"Oh my god,\" \"Focus,\" \"Allow,\" and \"Next.\" After successful pairing, the watch face transitions to a colorful home screen with time, date, and activity icons, prompting him to declare, \"Okay, baaki saari cheezein toh thoda time lagega, but this is the Venue 2 Plus jo chalu ho chuki hai.\" The camera then pulls back to reveal a wider living area, where the man in maroon t-shirt, wearing an 'ANIMAL EXCHANGE' t-shirt and brown shorts, sits on the gray sofa, reacting with an amused \"Wow\" and yawning while holding a black box. The man in black continues, mentioning, \"Ab isme always on display bhi hum on kar lenge,\" to which the man in maroon responds, \"Theek hai.\" A third person, partially visible in the background wearing a white 'USPA' t-shirt, observes the interaction. The coffee table is cluttered with tech items, including a laptop displaying text 'Anshul ringing for lunch', a white smart speaker, a blue-and-white Xbox controller, and a table-top water dispenser connected to a blue water bottle. The room is bright with natural light from a large window, and a potted plant adds greenery. The man in maroon then makes a playful, exaggerated comment, \"Ekdum chilla chilla kar... Come out! Come out!\" followed by a different male voice (the third person) explaining, \"Dosto, yeh vlog hum log isliye bana rahe hain kyunki humare yahan 15 minute ki electricity chali gayi hai, jo ki kaafi rare occurrence hai.\" The man in maroon adds, \"Karne ko nahi hai,\" before the third person's voice is cut off saying, \"Kuch karne ko humare paas hai...\" The atmosphere is casual and relaxed, with the group engaged in tech unboxing and conversation, occasionally gesturing and laughing, all set against a clean, modern aesthetic with a gray rug and white tiled floor.",
+        "In a bright, modern living area illuminated by natural light, three men are casually gathered around a wooden coffee table, their relaxed conversation punctuated by frequent laughter and playful banter. The man in a red 'ANIMAL EXCHANGE' t-shirt and checkered shorts, seated cross-legged on a gray rug, holds a black box and initiates a discussion about the internet not working and the AC being off, remarking, \"kyunki internet bhi nahi chal raha hai\" and that \"AC bhi band hai. Thodi der mein garmi ho jayegi.\" This leads to a shared sentiment about a \"Gaon wali feeling aa rahi hai, nahi?\" (getting a village-like feeling), which another man, seated on a gray sofa in a striped t-shirt and blue plaid pajama pants, refutes, stating, \"Nahi, gaon mein itna suvidha toh nahi deta.\" This man on the sofa, initially engrossed in his phone, later picks up a red and blue bottle, showing it to the others as a voice encourages, \"Pilo, pilo\" (Drink, drink). The jovial mood escalates as the man in maroon describes a friend's peculiar lockdown habit, eliciting loud, boisterous laughter and slapping sounds from all three, including the third man in a white 'USPA' t-shirt who lies propped on a pillow behind him, smiling throughout. The conversation then shifts to the black box held by the man in maroon, which he identifies as \"Lavazza coffee,\" describing it as a \"classic coffee\" from \"1980-1995,\" prompting the man on the sofa to playfully interject, \"Padh ke nahi batana\" (Don't read and tell). The coffee table between them holds a MacBook displaying a text interface with 'Anshul ringing for lunch', a white smart speaker, an Xbox controller, and various bottles and devices, while a TV mounted on the wall displays a vibrant city skyline. On-screen text overlays like 'Ma'm Ghar ki Bahu Hun??' and a YouTube 'Subscribe' prompt briefly appear, indicating the social media nature of the content."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 32,
+      "end_minute": 32,
+      "summary": "In a bright living area, a man in a striped t-shirt, seated on a gray sofa, holds a red and blue bottle he identifies as coffee, explaining its origin is unknown but it's from Tunis, Tunisia, and not Italian, clarifying it's not theirs but belongs to 'Pawan ji' who ordered it out of hobby. He humorously mentions 'discount light growth ke sabse bade hamare Manjukh sir,' prompting laughter. The scene shifts to an outdoor waterfront promenade at sunset, with the sounds of footsteps and distant traffic. Palm trees line the walkway, and modern buildings are visible in the distance as a small boat glides across the water. A male voice narrates about recording something multiple times, eliciting a question about what happens, as the sky darkens and on-screen text reads 'Evening walk'.",
+      "involved_entities": {
+        "third person": {
+          "description": "Lying on the gray rug behind the man in maroon, wearing a white t-shirt with 'USPA' text, propped on a pillow, smiling and participating in the interaction by interjecting a comment about adding foam separately.",
+          "attribute": "audio-visual"
+        },
+        "gray rug": {
+          "description": "Textured gray rug beneath the coffee table, partially visible under the man’s feet and legs.",
+          "attribute": "visual"
+        },
+        "white tiled floor": {
+          "description": "Clean, light-colored tiled floor visible beneath the coffee table and extending into the living area.",
+          "attribute": "visual"
+        },
+        "yellow bottle": {
+          "description": "Yellow plastic bottle labeled '27', placed on the coffee table to the left of the laptop.",
+          "attribute": "visual"
+        },
+        "potted plant": {
+          "description": "Green leafy plant near the window, adding a natural element to the room.",
+          "attribute": "visual"
+        },
+        "MacBook": {
+          "description": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen.",
+          "attribute": "visual"
+        },
+        "TV": {
+          "description": "Mounted on the wall, displaying a vibrant city skyline image.",
+          "attribute": "visual"
+        },
+        "man in maroon t-shirt": {
+          "description": "Sitting cross-legged on the gray rug, wearing a red 'ANIMAL EXCHANGE' t-shirt and checkered shorts, holding a black box, actively engaged in the conversation, suggesting the coffee is 'Italian,' denying it produces foam, commenting on someone's financial status, and adding that the coffee was ordered as a 'hobby,' also heard laughing.",
+          "attribute": "audio-visual"
+        },
+        "smart speaker": {
+          "description": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+          "attribute": "visual"
+        },
+        "gray sofa": {
+          "description": "Visible to the right, with the man in striped t-shirt seated on it and a red backpack resting on it, providing a backdrop for the interaction.",
+          "attribute": "visual"
+        },
+        "living area": {
+          "description": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space, now fully visible with all items arranged.",
+          "attribute": "visual"
+        },
+        "on-screen text": {
+          "description": "White text overlay appearing in the video, reading 'Evening walk'.",
+          "attribute": "visual"
+        },
+        "phone stand": {
+          "description": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+          "attribute": "visual"
+        },
+        "cityscape": {
+          "description": "Dense urban environment visible across the water, featuring high-rise buildings and construction cranes, illuminated by the setting sun.",
+          "attribute": "visual"
+        },
+        "sunset": {
+          "description": "Vibrant orange and pink sky as the sun dips below the horizon, reflecting on the water and illuminating the cityscape.",
+          "attribute": "visual"
+        },
+        "waterfront promenade": {
+          "description": "Paved walkway along a calm body of water, lined with palm trees and modern buildings, featuring a metal railing and benches, captured during sunset.",
+          "attribute": "visual"
+        },
+        "robotic vacuum cleaner": {
+          "description": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+          "attribute": "visual"
+        },
+        "boat": {
+          "description": "Small vessel gliding across the water, visible in the distance during the evening walk scene.",
+          "attribute": "visual"
+        },
+        "Xbox controller": {
+          "description": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+          "attribute": "visual"
+        },
+        "man in striped t-shirt": {
+          "description": "Seated on the gray sofa, wearing a gray-and-white striped t-shirt and blue plaid pajama pants, holding a red and blue bottle and gesturing while speaking, acting as the primary speaker in the indoor scene, explaining about the coffee's origin (Tunis/Tunisia), attributing its ownership to 'Pawan ji' and humorously mentioning 'Manjukh sir,' and later narrating briefly during the outdoor walk.",
+          "attribute": "audio-visual"
+        },
+        "coffee table": {
+          "description": "Wooden surface holding a MacBook with a text interface, a white smart speaker, a blue-and-white Xbox controller, a yellow bottle, a glass of water, a black phone stand, a remote control, and a black charging dock.",
+          "attribute": "visual"
+        },
+        "glass": {
+          "description": "Clear drinking glass used to collect water from the table-top dispenser.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens in a bright, modern living area where three men are gathered around a wooden coffee table. The man in the striped t-shirt, seated on the gray sofa, holds a red and blue bottle, which he identifies as 'coffee,' and gestures while speaking, explaining that 'ye banati hai' (this makes it) but admitting they don't know its origin. The man in the maroon t-shirt, sitting cross-legged on the gray rug and holding a black box, suggests it 'lag raha hai, Italian' (looks like Italy, Italian), but the man in the striped t-shirt corrects him, stating 'Nahi Italian to nahi hai ye coffee' (No, this coffee isn't Italian). He then asks if it produces 'wild jhaag' (wild foam). The man in maroon t-shirt replies 'Nahi nahi, ye nahi degi' (No, no, it won't give), while the third person, lying on the rug and smiling, interjects, 'Nahi jhaag alag se daal' (No, add foam separately). The man in the striped t-shirt clarifies that foam can be added if desired, revealing the coffee is 'Tunis se hai ye coffee. Tunis. Tunisia.' The man in the maroon t-shirt then comments on someone (a 'bhai sahab') claiming to have no money, to which the man in the striped t-shirt clarifies, 'Ye humari coffee nahi hai. Ye ye humare bade sahab Pawan ji ki coffee hai' (This is not our coffee. This is our elder brother Pawan ji's coffee). The man in maroon t-shirt adds that 'Pawan ji' ordered it 'shauk mein' (out of hobby). The man in the striped t-shirt then humorously mentions 'discount light growth ke sabse bade hamare Manjukh sir,' which elicits laughter from the group. The scene then transitions to an outdoor setting with a serene evening walk along a waterfront promenade, accompanied by the sounds of footsteps and distant traffic. The camera pans across a calm body of water reflecting the vibrant orange and pink hues of the setting sun, with palm trees lining the walkway and modern buildings in the distance. A male voice, likely the man in the striped t-shirt from earlier, narrates, saying 'Are bhai,' and 'Ye banwayega bhai' (He will make this, brother), adding that he has 'Itni baar record kar chuka, phir bhi achha lag jata hai' (recorded so many times, still feels good). Another voice asks 'Kya hota hai' (What happens). The sky gradually darkens as the sun dips below the horizon, casting a warm glow over the water and cityscape. A small boat glides across the water, adding to the tranquil atmosphere, as the on-screen text 'Evening walk' appears, emphasizing the peaceful transition from indoor interaction to outdoor relaxation."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 33,
+      "end_minute": 33,
+      "summary": "A tranquil sunset over a waterfront promenade with a distant cityscape transitions to the lively indoor atmosphere of Galleria Mall, where a crowd cheers to loud, energetic music as costumed Teenage Mutant Ninja Turtles characters engage in playful combat on a stage with props like a stop sign and a green dumpster, with on-screen text confirming, \"Came to Galleria mall for movie.\" The scene shifts to a futuristic 'ZERO LATENCY' VR gaming arcade, illuminated by blue neon lights and featuring live gameplay on large screens, where an upbeat electronic music track plays and people move around amidst conversational male voices speaking in a foreign language and laughter, with on-screen text stating, \"We all tried zero latency VR gaming.\" Finally, the video moves to an upscale restaurant offering a panoramic night cityscape view, where a softer, lounge-style instrumental music track plays as casually dressed men, including one in a black 'ARMANI EXCHANGE' t-shirt and another in a patterned blue shirt, are seated at a marble table. Waitstaff in white shirts and black vests attend to the guests; a waitstaff asks, \"How are you, sir?\", and a man replies, \"I'm good, thank you.\" The conversation continues with a man inquiring, \"Do you have more, you don't have something just like gin and tonic?\", and the waitstaff confirming, \"Yes, for sure. I will get you the drinks.\" The men dine amidst potted plants, glass partitions, and a bar area with golden spherical lights, with one man adjusting his earbuds and another gesturing while speaking.",
+      "involved_entities": {
+        "menu": {
+          "description": "White paper menu being held and read by the men at the table, indicating the dinner selection process.",
+          "attribute": "visual"
+        },
+        "glass partitions": {
+          "description": "Transparent glass walls separating dining sections, allowing visibility into the bar area and enhancing the open layout.",
+          "attribute": "visual"
+        },
+        "blue vase": {
+          "description": "Small blue ceramic vase holding green leaves, placed as a centerpiece on the marble table.",
+          "attribute": "visual"
+        },
+        "potted plant": {
+          "description": "Tall green plant in a white cylindrical pot, placed near the dining area, adding natural decor to the restaurant.",
+          "attribute": "visual"
+        },
+        "audience": {
+          "description": "Crowd of people seated and standing, watching the TMNT performance, many holding up phones to record the event, and audibly contributing to the crowd cheering.",
+          "attribute": "audio-visual"
+        },
+        "waitstaff": {
+          "description": "Dressed in white shirts and black vests, moving around the restaurant, attending to tables and setting up the dining area. One is heard asking, \"How are you, sir?\" and confirming, \"Yes, for sure. I will get you the drinks.\"",
+          "attribute": "audio-visual"
+        },
+        "stage props": {
+          "description": "Green dumpster, stop sign, and other urban-themed props used in the TMNT performance to create a dynamic scene.",
+          "attribute": "visual"
+        },
+        "bar area": {
+          "description": "Well-lit bar with golden spherical lights and shelves stocked with bottles, visible through glass partitions.",
+          "attribute": "visual"
+        },
+        "ZERO LATENCY VR arcade": {
+          "description": "Futuristic gaming space with blue neon lighting, large screens displaying live gameplay, and a modern design featuring geometric patterns and glass walls, accompanied by upbeat electronic music and conversational male voices speaking in a foreign language, with occasional laughter.",
+          "attribute": "audio-visual"
+        },
+        "Teenage Mutant Ninja Turtles characters": {
+          "description": "Costumed performers resembling the TMNT, wearing green shells and colored bandanas, engaging in playful combat on a stage with props like a stop sign and dumpster, accompanied by loud, energetic music and crowd cheering.",
+          "attribute": "audio-visual"
+        },
+        "cityscape": {
+          "description": "Illuminated urban skyline visible through large glass windows of the restaurant, providing a scenic backdrop during dinner.",
+          "attribute": "visual"
+        },
+        "man in patterned blue shirt": {
+          "description": "Wearing a blue shirt with red and white star patterns, seated at the same table, reading a menu and looking up while speaking. He is heard asking about drinks like \"gin and tonic\" and conversing.",
+          "attribute": "audio-visual"
+        },
+        "man in black t-shirt": {
+          "description": "Wearing a black 'ARMANI EXCHANGE' t-shirt, seated at a marble table in a restaurant, interacting with a menu and gesturing during conversation. He is heard replying, \"I'm good, thank you,\" and potentially asking about drinks.",
+          "attribute": "audio-visual"
+        },
+        "on-screen text overlay": {
+          "description": "White text reading 'Came to Galleria mall for movie' and 'We all tried zero latency VR gaming', appearing at the bottom of the screen during the mall and arcade scenes, providing context for the activities.",
+          "attribute": "audio-visual"
+        },
+        "marble table": {
+          "description": "White marble surface with a blue vase holding green leaves, a candle, and a menu, serving as the central dining surface for the group.",
+          "attribute": "visual"
+        },
+        "candle": {
+          "description": "Tall, thin candle on the table, providing ambient lighting and contributing to the restaurant's elegant atmosphere.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with a tranquil sunset over a waterfront promenade, painting the sky in warm orange and pink hues, reflecting on calm water with a distant cityscape. This serene view quickly transitions to the lively indoor atmosphere of Galleria Mall, where a crowd, audibly cheering and accompanied by loud, energetic music, gathers to watch costumed Teenage Mutant Ninja Turtles characters engage in playful combat on a stage adorned with props like a stop sign and a green dumpster. On-screen text confirms, \"Came to Galleria mall for movie.\" The scene then shifts to a futuristic 'ZERO LATENCY' VR gaming arcade, bathed in blue neon lights and displaying live gameplay on large screens. Here, an upbeat electronic music track plays as people move around, while conversational male voices speaking in a foreign language, punctuated by laughter, are heard. On-screen text states, \"We all tried zero latency VR gaming.\" Finally, the video moves to a modern, upscale restaurant with a panoramic night cityscape view. A softer, lounge-style instrumental music track sets the ambiance as a group of casually dressed men, including one in a black 'ARMANI EXCHANGE' t-shirt and another in a patterned blue shirt, are seated at a marble table. Waitstaff, dressed in white shirts and black vests, move around the elegant space. Dialogue begins with a waitstaff asking, \"How are you, sir?\" to which one of the men replies, \"I'm good, thank you.\" The conversation continues with a man inquiring about specific drinks, \"Do you have more, you don't have something just like gin and tonic?\", and the waitstaff confirming, \"Yes, for sure. I will get you the drinks.\" The men continue their dinner experience amidst the elegant decor of potted plants, glass partitions, and a bar area with golden spherical lights, with one man adjusting his earbuds and another gesturing while speaking."
+      ]
+    },
+    {
+      "event_id": 11,
+      "start_minute": 34,
+      "end_minute": 35,
+      "summary": "The narrative begins in an upscale restaurant at dusk, where men, including one in a black t-shirt and another in a patterned blue shirt, review menus and converse in a foreign language, discussing food items like 'spicy shrimp' and 'lemon.' Waitstaff navigate the space with glass partitions revealing a bar area. The scene abruptly shifts to a darkened IMAX theater for a 'JAWAN' movie trailer, featuring intense action, explosions, and the ominous question, 'Are we going extinct?' followed by the release date '7th September 2023'. The setting then changes to a cozy living room at night, where the man in the black t-shirt and the man in the maroon t-shirt play FIFA on a TV, while another man in a striped t-shirt relaxes on a gray sofa. The sounds of the FIFA game, including crowd noise and commentary, mix with their foreign language conversation about the game's slow reaction. The TV displays the game, with one man shouting \"Pass it, pass it, pass it, pass it,\" and \"Pass, shot le lo!\" Another advises, \"Bhai aage D daba diya karo aisa hota hai toh,\" receiving an \"Achha.\" A player injury prompts \"Ek minute ruko yaar, injure ho gaya bhai,\" and discussion about the tackle, with one asking, \"Kuch nahi injure kiya, na apne?\" and another confirming, \"Sliding maari.\" The TV then shows a post-match statistics screen. The living room, softly lit by a floor lamp, features a coffee table with drinks and tissues, a potted plant, and a gray rug, all under the on-screen text 'Playing FIFA around night time'.",
+      "involved_entities": {
+        "menu": {
+          "description": "White paper menu being held and read by the men at the table, indicating the dinner selection process.",
+          "attribute": "visual"
+        },
+        "glass partitions": {
+          "description": "Transparent glass walls separating dining sections, allowing visibility into the bar area and enhancing the open layout.",
+          "attribute": "visual"
+        },
+        "blue vase": {
+          "description": "Small blue ceramic vase holding green leaves, placed as a centerpiece on the marble table.",
+          "attribute": "visual"
+        },
+        "gray rug": {
+          "description": "Textured gray rug beneath the coffee table, partially visible under the man’s feet and legs, where the gaming session takes place.",
+          "attribute": "visual"
+        },
+        "audience in theater": {
+          "description": "Silhouetted figures seated in the dark theater, watching the trailer, some holding phones or snacks, engaged in the cinematic experience.",
+          "attribute": "visual"
+        },
+        "living room": {
+          "description": "Cozy space with a gray rug, gray sofa, wall-mounted TV, and soft lighting from a floor lamp, where men are playing FIFA, filled with their laughter, excited exclamations, and lively discussions about the game.",
+          "attribute": "audio-visual"
+        },
+        "movie screen": {
+          "description": "Large, curved screen in the IMAX theater, displaying high-definition visuals of the 'JAWAN' trailer with dynamic lighting and action sequences.",
+          "attribute": "visual"
+        },
+        "TV": {
+          "description": "Mounted on the wall, displaying a vibrant FIFA soccer game, with a black soundbar beneath it, serving as the focal point for the men's intense reactions, game instructions, and discussions.",
+          "attribute": "audio-visual"
+        },
+        "IMAX theater": {
+          "description": "Darkened cinema with a large curved screen displaying a movie trailer, featuring reclining seats and blue neon 'IMAX' logos on the side walls.",
+          "attribute": "visual"
+        },
+        "man in maroon t-shirt": {
+          "description": "Wearing a red 'ANIMAL EXCHANGE' t-shirt (visually appearing gray in this segment), seated beside the man in black t-shirt on the gray rug, focused on the screen, and actively participating in the verbal reactions and discussions about the FIFA game, including laughter and comments on in-game events.",
+          "attribute": "audio-visual"
+        },
+        "gray sofa": {
+          "description": "Visible to the right, with the man in striped t-shirt seated on it and a red backpack resting on it, providing a backdrop for the interaction.",
+          "attribute": "visual"
+        },
+        "on-screen text": {
+          "description": "White text overlay appearing in the video, reading 'Playing FIFA around night time', indicating the context of the scene.",
+          "attribute": "visual"
+        },
+        "waitstaff": {
+          "description": "Dressed in white shirts and black vests, moving around the restaurant, attending to tables and setting up the dining area.",
+          "attribute": "visual"
+        },
+        "bar area": {
+          "description": "Well-lit bar with golden spherical lights and shelves stocked with bottles, visible through glass partitions.",
+          "attribute": "visual"
+        },
+        "FIFA game": {
+          "description": "Vibrant soccer simulation displayed on the TV, showing a green field, players in motion, and a scoreboard, indicating an active gaming session that elicits urgent calls like \"Pass it!\" and \"Shot le lo!\", strategic advice such as \"Bhai aage D daba diya karo\" (Brother, press D forward), and reactions to in-game events like injuries and slide tackles from the men.",
+          "attribute": "audio-visual"
+        },
+        "floor lamp": {
+          "description": "Tall, warm-lit lamp in the corner of the living room, providing ambient lighting for the gaming session.",
+          "attribute": "visual"
+        },
+        "reclining theater seats": {
+          "description": "Comfortable, dark-colored seats in the IMAX theater, designed for immersive viewing, with some audience members leaning back or reclining.",
+          "attribute": "visual"
+        },
+        "man in black t-shirt": {
+          "description": "Wearing a black 'ARMANI EXCHANGE' t-shirt, seated cross-legged on the gray rug, actively controlling the game with a controller, and likely contributing to the urgent game instructions and reactions heard.",
+          "attribute": "audio-visual"
+        },
+        "coffee table": {
+          "description": "Wooden surface holding a green bottle, a glass of wine, and a box of tissues, positioned in front of the sofa.",
+          "attribute": "visual"
+        },
+        "man in patterned blue shirt": {
+          "description": "Wearing a blue shirt with red and white star patterns, seated at the restaurant table, reading a menu and speaking during the food discussion, possibly the one confirming 'Spicy shrimp, yes' and mentioning 'coriander' and 'lemon'.",
+          "attribute": "audio-visual"
+        },
+        "movie trailer": {
+          "description": "Action-packed trailer for 'JAWAN', showing combat scenes and explosions on a large curved screen, accompanied by loud, dramatic music, powerful sound effects, and an ominous voice asking, 'Are we going extinct?'.",
+          "attribute": "audio-visual"
+        },
+        "marble table": {
+          "description": "White marble surface with a blue vase holding green leaves, a candle, and a menu, serving as the central dining surface for the group.",
+          "attribute": "visual"
+        },
+        "candle": {
+          "description": "Tall, thin candle on the table, providing ambient lighting and contributing to the restaurant's elegant atmosphere.",
+          "attribute": "visual"
+        },
+        "potted plant": {
+          "description": "Tall green plant in a white cylindrical pot, placed near the dining area, adding natural decor to the restaurant.",
+          "attribute": "visual"
+        },
+        "man in striped t-shirt": {
+          "description": "Seated on the gray sofa, wearing a gray-and-white striped t-shirt and blue plaid pajama pants, casually observing the game and occasionally glancing at his phone, and likely contributing to the general laughter and discussion among the group.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The minute begins in a modern, upscale restaurant at dusk, with large glass windows offering a panoramic cityscape view. The elegant setting features marble tables, white chairs, and ambient lighting from candles and overhead fixtures. A group of men, including the man in black t-shirt (wearing an 'ARMANI EXCHANGE' shirt) and the man in patterned blue shirt, are seated at a table, reviewing menus and engaging in conversation. The man in black t-shirt gestures as he speaks, while the man in maroon t-shirt (wearing a red 'ANIMAL EXCHANGE' shirt) listens attentively. Their discussion, primarily in a foreign language, includes specific mentions of food items like 'spicy shrimp,' 'coriander,' and 'lemon,' with one voice confirming 'Spicy shrimp, yes.' The background is filled with the gentle hum of restaurant chatter and occasional clinking sounds. Waitstaff in white shirts and black vests move through the space, which features glass partitions revealing a well-lit bar area adorned with golden spherical lights. The scene then dramatically transitions to a darkened IMAX theater, where a movie trailer for 'JAWAN' is playing on a large curved screen. The trailer is action-packed with intense combat scenes and explosions, accompanied by loud, dramatic music and powerful sound effects. A voice from the trailer ominously asks, 'Are we going extinct?' The screen displays the release date: '7th September 2023'. Following this, the video shifts to a cozy living room at night. Here, the man in black t-shirt and the man in maroon t-shirt are seated cross-legged on a gray rug, engrossed in playing FIFA on a large wall-mounted TV. Another man in a striped t-shirt lounges on a gray sofa, holding a red and blue bottle. The room is softly lit by a floor lamp, and a coffee table holds drinks and tissues. The sounds of the FIFA game, including crowd noise and commentary, blend with the men's casual conversation in a foreign language, where one voice remarks that the game 'seems slow' and is 'reacting slowly.' On-screen text confirms the casual atmosphere: 'Playing FIFA around night time'.",
+        "In a cozy living room, softly illuminated by a warm floor lamp, three men are engrossed in a FIFA soccer game displayed on a wall-mounted TV. The man in the black t-shirt, seated cross-legged on the gray rug, actively controls the game with a controller, while the man in the gray t-shirt (identified as the man in maroon t-shirt in the entity list) sits beside him, equally focused on the screen. A third man, in a striped t-shirt, reclines on the gray sofa, casually observing the game and occasionally glancing at his phone. The atmosphere is lively and social, filled with excited laughter and exclamations from the men. As the vibrant green soccer field with players in motion is shown on the TV, one man urgently calls out, \"Pass it, pass it, pass it, pass it,\" and later, \"Pass, shot le lo!\" Another voice offers strategic advice, \"Bhai aage D daba diya karo aisa hota hai toh\" (Brother, press D forward when this happens), to which an \"Achha\" (Okay) is heard. The game's intensity leads to a reaction, \"Ek minute ruko yaar, injure ho gaya bhai\" (Wait a minute, he got injured, brother), followed by more laughter and discussion about the in-game injury, with one asking, \"Kuch nahi injure kiya, na apne?\" (Didn't injure anyone, right?) and another confirming, \"Sliding maari\" (Did a slide tackle). The TV screen then transitions to a post-match statistics screen displaying team formations and player ratings. A coffee table with a green bottle, a glass of wine, and a box of tissues, along with a tall potted plant, completes the relaxed setting, all under the on-screen text overlay 'Playing FIFA around night time'."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "living area": "Includes a gray sofa, coffee table, large window with curtains, and a TV, with natural light illuminating the space, now fully visible with all items arranged.",
+    "hallway": "Connects the living area to the kitchen, with footsteps heard moving through it after the conversation concludes.",
+    "cityscape": "Illuminated urban skyline visible through large glass windows of the restaurant, providing a scenic backdrop during dinner.",
+    "digital scale": "White, rectangular device on the bedside table, displaying weight readings.",
+    "man at desk": "Sitting at a wooden desk with a laptop and monitor, wearing glasses and a dark shirt, actively working. He is later heard speaking in Hindi, responding to the woman about food, saying \"Sab theek hai na? Sab leke gaye the.\" (Everything's fine, right? Everyone took it.)",
+    "balcony": "Has a wooden chair and a glass railing, offering a panoramic view of the cityscape.",
+    "bedside table": "Features a lamp, an alarm clock, and a digital scale.",
+    "bedroom": "Contains a white bed, wooden door with clothes hanging, and a bedside table with a lamp and digital scale.",
+    "woman": "Wearing a dark t-shirt and pants, holding a phone, standing near a kitchen window. She is heard speaking in Hindi, asking \"Kal khana kaun leke gaya tha?\" (Who took the food yesterday?) and later commenting \"Ye dekho. Char ki char roti aur sabzi poori ki poori.\" (Look at this. All four rotis and all the vegetables.)",
+    "kitchen": "Equipped with modern appliances, featuring a silver pot simmering food on the stove, from which a clear sizzling sound is heard.",
+    "smartwatch": "Black smartwatch with a circular face and black band, initially displaying a blue animated pairing interface, then transitioning to a colorful home screen with time, date, and activity icons, worn on the man in black’s left wrist.",
+    "table-top water dispenser": "White, circular device with a spout, dispensing water into a glass placed on its base, connected to a large blue water bottle via a tube.",
+    "MacBook": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen.",
+    "TV": "Mounted on the wall, displaying a vibrant FIFA soccer game, with a black soundbar beneath it, serving as the focal point for the men's intense reactions, game instructions, and discussions.",
+    "water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube.",
+    "smart speaker": "White cylindrical device on the coffee table, likely a smart home assistant, positioned to the left of the charging dock.",
+    "phone stand": "Black, adjustable stand holding a smartphone, connected to a charging cable.",
+    "robotic vacuum cleaner": "Black circular device near the TV stand, likely in standby or cleaning mode.",
+    "Xbox controller": "Blue and white gaming controller resting on the coffee table, positioned near the black cylindrical container.",
+    "coffee table": "Wooden surface holding a green bottle, a glass of wine, and a box of tissues, positioned in front of the sofa.",
+    "red backpack": "Placed on the gray sofa, with visible yellow trim and brand text.",
+    "on-screen text overlay": "White text reading 'Came to Galleria mall for movie' and 'We all tried zero latency VR gaming', appearing at the bottom of the screen during the mall and arcade scenes, providing context for the activities.",
+    "charging dock": "Black, curved device designed to hold and charge a smartwatch, placed on the coffee table, currently unoccupied.",
+    "glass": "Clear drinking glass used to collect water from the table-top dispenser.",
+    "clothes": "Folded garments, including a gray Hanes t-shirt and a maroon piece, retrieved from the washing machine with audible rustling, and later placed on the sofa with a soft thud and rustle.",
+    "washing machine": "A white front-loading machine displaying 'End', whose door is audibly opened to retrieve clothes.",
+    "container": "Transparent plastic container with orange-colored paratha chatney, placed next to the pot and later on the coffee table.",
+    "pot": "Silver cooking pot on the induction stove, from which parathas are removed with accompanying clanking sounds.",
+    "on-screen text": "White text overlay appearing in the video, reading 'Playing FIFA around night time', indicating the context of the scene.",
+    "doorway": "Dark wooden door frame connecting the living area to the kitchen, visible as the person walks through.",
+    "hand": "Visible interacting with the pot, plate, yogurt tub, and parathas, moving from kitchen to living area, placing food, and scooping yogurt, causing various clanking, rustling, and scraping sounds.",
+    "gray sofa": "Visible to the right, with the man in striped t-shirt seated on it and a red backpack resting on it, providing a backdrop for the interaction.",
+    "potted plant": "Tall green plant in a white cylindrical pot, placed near the dining area, adding natural decor to the restaurant.",
+    "plate": "White ceramic plate holding folded parathas, later topped with chatney and yogurt.",
+    "induction stove": "Black glass-top stove with circular heating zones, one of which is active under the pot.",
+    "yogurt tub": "Green-and-white tub labeled 'Fresh Yoghurt' with Arabic text, placed on the counter and later on the coffee table.",
+    "yellow bottle": "Yellow plastic bottle labeled '27', placed on the coffee table to the left of the laptop.",
+    "blue water bottle": "Large blue plastic water bottle connected to the table-top dispenser via a tube, placed on the coffee table.",
+    "third person": "Lying on the gray rug behind the man in maroon, wearing a white t-shirt with 'USPA' text, propped on a pillow, smiling and participating in the interaction by interjecting a comment about adding foam separately.",
+    "laptop": "Open on a text-based interface, possibly a messaging or coding application, with a green border around the screen, displaying on-screen text overlay 'Anshul ringing for lunch'.",
+    "man in maroon t-shirt": "Wearing a red 'ANIMAL EXCHANGE' t-shirt (visually appearing gray in this segment), seated beside the man in black t-shirt on the gray rug, focused on the screen, and actively participating in the verbal reactions and discussions about the FIFA game, including laughter and comments on in-game events.",
+    "Garmin watch box": "Black rectangular box with 'GARMIN' branding, opened to reveal the smartwatch inside, placed on the coffee table alongside the charging cable and instruction booklet.",
+    "man in black t-shirt": "Wearing a black 'ARMANI EXCHANGE' t-shirt, seated cross-legged on the gray rug, actively controlling the game with a controller, and likely contributing to the urgent game instructions and reactions heard.",
+    "smartphone": "Green-cased smartphone held in the man’s right hand, displaying a Bluetooth pairing interface with a numeric keypad and pairing instructions.",
+    "charging cable": "Black cable in a clear plastic bag, placed on the coffee table next to the Garmin watch box.",
+    "gray rug": "Textured gray rug beneath the coffee table, partially visible under the man’s feet and legs, where the gaming session takes place.",
+    "white tiled floor": "Clean, light-colored tiled floor visible beneath the coffee table and extending into the living area.",
+    "instruction booklet": "Small white booklet, likely containing setup instructions, placed on the coffee table next to the watch box.",
+    "man in striped t-shirt": "Seated on the gray sofa, wearing a gray-and-white striped t-shirt and blue plaid pajama pants, casually observing the game and occasionally glancing at his phone, and likely contributing to the general laughter and discussion among the group.",
+    "sunset": "Vibrant orange and pink sky as the sun dips below the horizon, reflecting on the water and illuminating the cityscape.",
+    "waterfront promenade": "Paved walkway along a calm body of water, lined with palm trees and modern buildings, featuring a metal railing and benches, captured during sunset.",
+    "boat": "Small vessel gliding across the water, visible in the distance during the evening walk scene.",
+    "menu": "White paper menu being held and read by the men at the table, indicating the dinner selection process.",
+    "glass partitions": "Transparent glass walls separating dining sections, allowing visibility into the bar area and enhancing the open layout.",
+    "blue vase": "Small blue ceramic vase holding green leaves, placed as a centerpiece on the marble table.",
+    "audience": "Crowd of people seated and standing, watching the TMNT performance, many holding up phones to record the event, and audibly contributing to the crowd cheering.",
+    "waitstaff": "Dressed in white shirts and black vests, moving around the restaurant, attending to tables and setting up the dining area.",
+    "stage props": "Green dumpster, stop sign, and other urban-themed props used in the TMNT performance to create a dynamic scene.",
+    "bar area": "Well-lit bar with golden spherical lights and shelves stocked with bottles, visible through glass partitions.",
+    "ZERO LATENCY VR arcade": "Futuristic gaming space with blue neon lighting, large screens displaying live gameplay, and a modern design featuring geometric patterns and glass walls, accompanied by upbeat electronic music and conversational male voices speaking in a foreign language, with occasional laughter.",
+    "Teenage Mutant Ninja Turtles characters": "Costumed performers resembling the TMNT, wearing green shells and colored bandanas, engaging in playful combat on a stage with props like a stop sign and dumpster, accompanied by loud, energetic music and crowd cheering.",
+    "man in patterned blue shirt": "Wearing a blue shirt with red and white star patterns, seated at the restaurant table, reading a menu and speaking during the food discussion, possibly the one confirming 'Spicy shrimp, yes' and mentioning 'coriander' and 'lemon'.",
+    "marble table": "White marble surface with a blue vase holding green leaves, a candle, and a menu, serving as the central dining surface for the group.",
+    "candle": "Tall, thin candle on the table, providing ambient lighting and contributing to the restaurant's elegant atmosphere.",
+    "audience in theater": "Silhouetted figures seated in the dark theater, watching the trailer, some holding phones or snacks, engaged in the cinematic experience.",
+    "living room": "Cozy space with a gray rug, gray sofa, wall-mounted TV, and soft lighting from a floor lamp, where men are playing FIFA, filled with their laughter, excited exclamations, and lively discussions about the game.",
+    "movie screen": "Large, curved screen in the IMAX theater, displaying high-definition visuals of the 'JAWAN' trailer with dynamic lighting and action sequences.",
+    "IMAX theater": "Darkened cinema with a large curved screen displaying a movie trailer, featuring reclining seats and blue neon 'IMAX' logos on the side walls.",
+    "FIFA game": "Vibrant soccer simulation displayed on the TV, showing a green field, players in motion, and a scoreboard, indicating an active gaming session that elicits urgent calls like \"Pass it!\" and \"Shot le lo!\", strategic advice such as \"Bhai aage D daba diya karo\" (Brother, press D forward), and reactions to in-game events like injuries and slide tackles from the men.",
+    "floor lamp": "Tall, warm-lit lamp in the corner of the living room, providing ambient lighting for the gaming session.",
+    "reclining theater seats": "Comfortable, dark-colored seats in the IMAX theater, designed for immersive viewing, with some audience members leaning back or reclining.",
+    "movie trailer": "Action-packed trailer for 'JAWAN', showing combat scenes and explosions on a large curved screen, accompanied by loud, dramatic music, powerful sound effects, and an ominous voice asking, 'Are we going extinct?'."
+  }
+}

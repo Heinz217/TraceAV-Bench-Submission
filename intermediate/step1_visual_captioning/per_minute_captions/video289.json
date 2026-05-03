@@ -1,0 +1,664 @@
+{
+    "video_id": "video289",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video opens with a close-up of a person wearing a gray horizontally striped t-shirt, standing against a plain white background. The individual, identified by the on-screen text 'Huu Trung' in the top right corner, holds a black Sharpie marker in their right hand, which is adorned with a dark wristwatch. Throughout the segment, the person gestures expressively with their left hand, moving it in various open-palmed and pointing motions, as if explaining or demonstrating something. The right hand remains relatively steady, holding the marker, occasionally shifting its grip. Around the 48-second mark, the person switches the marker to their left hand and begins to manipulate it with both hands, appearing to unscrew or adjust the cap, suggesting preparation for use. The lighting is bright and even, emphasizing the hands and the marker, while the background remains uncluttered and neutral, keeping focus on the actions being performed.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "Huu Trung": "A person wearing a gray horizontally striped t-shirt, visible from the chest up, with a dark wristwatch on the right wrist, actively gesturing with the left hand while holding a black Sharpie marker in the right hand.",
+                "Sharpie Marker": "A black and white Sharpie marker, held and manipulated by Huu Trung, with visible branding on the barrel, used for demonstration or preparation for writing."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The video begins with Huu Trung, wearing a gray horizontally striped t-shirt, holding a black and white Sharpie marker in his right hand while gesturing with his left. He manipulates the marker, rotating and pointing it, as if demonstrating or preparing to write. His left hand makes various expressive gestures—open palm, thumbs-up, pointing—while the marker remains in his right hand. The background is a plain white, and the lighting is bright and even. At 0:52, there is a sudden cut to a new scene: Huu Trung is now wearing a yellow and black t-shirt with the text 'You never walk alone' printed on the chest. He holds a red BIC lighter in his right hand and a small piece of white paper in his left. He lights the paper, which quickly burns away, revealing a folded U.S. dollar bill underneath. He then unfolds the bill, displaying it clearly to the camera. The background has changed to a textured gray wall, indicating a shift in setting or scene.",
+            "active_entities": {
+                "Huu Trung": "A person initially wearing a gray horizontally striped t-shirt, visible from the chest up, with a dark wristwatch on the right wrist, actively gesturing with the left hand while holding a black Sharpie marker in the right hand. Later, he appears in a yellow and black t-shirt with the text 'You never walk alone' on the chest, performing a magic trick with a lighter and a dollar bill.",
+                "Sharpie Marker": "A black and white Sharpie marker, held and manipulated by Huu Trung, with visible branding on the barrel, used for demonstration or preparation for writing. It is only present in the first part of the video."
+            },
+            "discovered_new_entities": {
+                "BIC Lighter": "A red BIC lighter, held in Huu Trung's right hand during the second scene, used to ignite a piece of paper as part of a magic trick.",
+                "U.S. Dollar Bill": "A folded U.S. dollar bill, revealed after a piece of paper is burned away, held and unfolded by Huu Trung in the second scene.",
+                "White Paper": "A small piece of white paper, held in Huu Trung's left hand in the second scene, which is set on fire to reveal the dollar bill beneath."
+            }
+        },
+        {
+            "minute": 3,
+            "caption": "The video features Huu Trung, now wearing a yellow and black t-shirt with the text 'You never walk alone' printed on the chest, performing a series of magic tricks centered around fire and transformation. He begins by holding a folded U.S. dollar bill, then quickly transitions to a small glass cup, which he sets on fire with a red BIC lighter. The flame is extinguished, and he reveals a small orange object, which he then uses to ignite a piece of white paper. After burning the paper, he reveals a small orange cloth, which he also sets on fire. The trick continues with him holding a folded dollar bill and a lighter, then burning a piece of white paper to reveal the dollar bill again. He repeats this process, burning the paper and revealing the bill multiple times, emphasizing the illusion of transformation and restoration. His movements are precise and deliberate, with the lighter consistently in his right hand and the objects in his left. The background remains a plain gray textured wall, keeping the focus on his hands and the props. The lighting is even and bright, highlighting the flames and the details of the objects. The video maintains a consistent, close-up shot of his torso and hands, emphasizing the magic performance.",
+            "active_entities": {
+                "Huu Trung": "A person wearing a yellow and black t-shirt with the text 'You never walk alone' on the chest, performing a magic trick with a red BIC lighter and various small objects, including a U.S. dollar bill and white paper. He has a dark wristwatch on his right wrist and uses precise hand movements to execute the illusions.",
+                "BIC Lighter": "A red BIC lighter, held in Huu Trung's right hand, used repeatedly to ignite pieces of white paper and other small objects as part of the magic trick. The lighter is consistently visible and active throughout the sequence.",
+                "U.S. Dollar Bill": "A folded U.S. dollar bill, held and manipulated by Huu Trung, which is revealed after burning away a piece of white paper. It appears multiple times, seemingly restored after each burning sequence.",
+                "White Paper": "A small piece of white paper, held in Huu Trung's left hand, which is set on fire to reveal the U.S. dollar bill beneath. It is used repeatedly in the trick, each time being burned and then replaced or restored."
+            },
+            "discovered_new_entities": {
+                "Orange Cloth": "A small, folded orange cloth, revealed after burning a piece of white paper, which is then also set on fire as part of the magic sequence. It appears briefly before being burned again."
+            }
+        },
+        {
+            "minute": 4,
+            "caption": "The video begins with Huu Trung, wearing a yellow and black t-shirt with the text 'You never walk alone' on the chest, performing a magic trick. He holds a red BIC lighter in his right hand and a small piece of white paper in his left. He ignites the paper, which burns away to reveal a folded U.S. dollar bill underneath. He repeats this process, burning the paper again to reveal an orange cloth, which he then also sets on fire. The scene transitions to a different setting where Huu Trung, now wearing a maroon button-up shirt, stands behind a white table. He places an empty plastic Pepsi bottle on the table and inserts a wooden stick with an orange attached to it into the bottle. He carefully maneuvers the stick so that the orange is suspended inside the bottle, demonstrating a physical trick involving balance and air pressure. He gestures with his hands to emphasize the trick, showing the orange floating inside the bottle without touching the sides.",
+            "active_entities": {
+                "Huu Trung": "A person initially wearing a yellow and black t-shirt with the text 'You never walk alone' on the chest, performing a magic trick with a red BIC lighter and various small objects, including a U.S. dollar bill and white paper. He has a dark wristwatch on his right wrist and uses precise hand movements to execute the illusions. Later, he appears in a maroon button-up shirt, performing a physical trick with a plastic Pepsi bottle and an orange on a stick.",
+                "BIC Lighter": "A red BIC lighter, held in Huu Trung's right hand, used repeatedly to ignite pieces of white paper and other small objects as part of the magic trick. The lighter is consistently visible and active throughout the sequence.",
+                "U.S. Dollar Bill": "A folded U.S. dollar bill, held and manipulated by Huu Trung, which is revealed after burning away a piece of white paper. It appears multiple times, seemingly restored after each burning sequence.",
+                "White Paper": "A small piece of white paper, held in Huu Trung's left hand, which is set on fire to reveal the U.S. dollar bill beneath. It is used repeatedly in the trick, each time being burned and then replaced or restored.",
+                "Orange Cloth": "A small, folded orange cloth, revealed after burning a piece of white paper, which is then also set on fire as part of the magic sequence. It appears briefly before being burned again."
+            },
+            "discovered_new_entities": {
+                "Plastic Pepsi Bottle": "An empty, transparent plastic bottle with a blue Pepsi label, placed on a white table and used in a physical trick to suspend an orange on a stick inside it.",
+                "Orange on Stick": "A small orange attached to a wooden stick, used by Huu Trung to demonstrate a balancing trick inside the plastic Pepsi bottle, appearing to float without touching the sides.",
+                "Maroon Button-Up Shirt": "A long-sleeved maroon button-up shirt worn by Huu Trung in the second half of the video, replacing his earlier yellow and black t-shirt, indicating a change in setting or segment."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video segment features Huu Trung, now wearing a maroon button-up shirt, performing a physical trick with a transparent plastic Pepsi bottle and an orange attached to a wooden stick. He places the orange on the stick inside the bottle, positioning it so that it appears to float or balance without touching the sides or bottom. He uses his left hand to cover the top of the bottle while manipulating the stick with his right hand, demonstrating the illusion of the orange being suspended mid-air. After removing the orange, he places the bottle upright on the table, then reinserts the orange on the stick, repeating the balancing act. He then removes the orange again, places it on the table, and picks up the bottle to show it is empty before reinserting the orange once more. The trick is repeated with slight variations, including tilting the bottle to show the orange remains balanced. The background is a plain white wall, and the table is white, emphasizing the objects and actions. The text 'Huu Trung' is visible in the top left corner throughout the video.",
+            "active_entities": {
+                "Huu Trung": "A person wearing a maroon button-up shirt, performing a physical trick with a plastic Pepsi bottle and an orange on a stick. He has a dark wristwatch on his left wrist and uses precise hand movements to manipulate the objects, demonstrating a balancing illusion.",
+                "Plastic Pepsi Bottle": "An empty, transparent plastic bottle with a blue Pepsi label, placed on a white table and used to suspend an orange on a stick inside it, creating the illusion of floating.",
+                "Orange on Stick": "A small orange attached to a wooden stick, used by Huu Trung to demonstrate a balancing trick inside the plastic Pepsi bottle, appearing to float without touching the sides or bottom.",
+                "Maroon Button-Up Shirt": "A long-sleeved maroon button-up shirt worn by Huu Trung, replacing his earlier yellow and black t-shirt, indicating a change in setting or segment."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 6,
+            "caption": "The video begins with Huu Trung, wearing a maroon button-up shirt and a dark wristwatch on his left wrist, performing a balancing trick with a transparent plastic Pepsi bottle and an orange attached to a wooden stick. He carefully places the orange on the stick inside the bottle, making it appear to float without touching the sides or bottom, demonstrating precise hand movements to create the illusion. After showcasing the trick, he removes the orange and stick, then transitions to a new setting outdoors, where he stands near a black metal railing against a white wall. Here, he performs a hand-based illusion, using his right hand to seemingly remove fingers from his left hand one by one, creating a visual trick of disappearing fingers. His right hand repeatedly pinches and pulls at the fingers of his left hand, which remains open and palm-up, while his left wristwatch is clearly visible throughout. The sequence emphasizes dexterity and misdirection, with the outdoor setting providing a stark contrast to the earlier indoor table setup.",
+            "active_entities": {
+                "Huu Trung": "A person wearing a maroon button-up shirt, performing a physical trick with a plastic Pepsi bottle and an orange on a stick. He has a dark wristwatch on his left wrist and uses precise hand movements to manipulate the objects, demonstrating a balancing illusion.",
+                "Plastic Pepsi Bottle": "An empty, transparent plastic bottle with a blue Pepsi label, placed on a white table and used to suspend an orange on a stick inside it, creating the illusion of floating.",
+                "Orange on Stick": "A small orange attached to a wooden stick, used by Huu Trung to demonstrate a balancing trick inside the plastic Pepsi bottle, appearing to float without touching the sides or bottom.",
+                "Maroon Button-Up Shirt": "A long-sleeved maroon button-up shirt worn by Huu Trung, replacing his earlier yellow and black t-shirt, indicating a change in setting or segment."
+            },
+            "discovered_new_entities": {
+                "Black Metal Railing": "A black metal railing with horizontal bars, visible in the outdoor setting, serving as a backdrop for the hand illusion performed by Huu Trung.",
+                "White Wall Background": "A textured white wall in the outdoor scene, providing a neutral background for the hand trick, contrasting with the earlier indoor white table setting."
+            }
+        },
+        {
+            "minute": 7,
+            "caption": "The video begins with a close-up of Huu Trung's left hand, palm facing up, resting against a black metal railing with a textured white wall in the background. He wears a brown leather wristwatch on his left wrist. His right hand enters the frame and begins manipulating his left fingers, bending and stretching them in a sequence that suggests a hand illusion or trick. The movements are deliberate and precise, focusing on the fingers and palm. After a few seconds, the scene transitions to an indoor setting with a plain gray background. Huu Trung is now wearing a dark blue short-sleeved button-up shirt adorned with pink flamingo and palm tree patterns. He holds a thin white string, stretching it taut between his hands, and proceeds to demonstrate a string trick, looping and pulling it with controlled motions. The on-screen text 'Huu Trung' remains visible in the top left corner throughout the segment, indicating the performer's identity. The lighting is bright and even, emphasizing the hand movements and the string’s motion.",
+            "active_entities": {
+                "Huu Trung": "A person performing a hand illusion outdoors against a black metal railing and white wall, then transitioning to an indoor setting where he demonstrates a string trick. He wears a brown leather wristwatch on his left wrist and later a dark blue shirt with pink flamingo and palm tree patterns.",
+                "Black Metal Railing": "A black metal railing with horizontal bars, visible in the outdoor setting, serving as a backdrop for the hand illusion performed by Huu Trung.",
+                "White Wall Background": "A textured white wall in the outdoor scene, providing a neutral background for the hand trick, contrasting with the later indoor gray background."
+            },
+            "discovered_new_entities": {
+                "Dark Blue Flamingo Shirt": "A short-sleeved dark blue button-up shirt with a repeating pattern of pink flamingos and palm trees, worn by Huu Trung during the indoor string trick segment.",
+                "White String": "A thin, taut white string held and manipulated by Huu Trung in the indoor setting, used to perform a string trick with looping and pulling motions."
+            }
+        },
+        {
+            "minute": 8,
+            "caption": "The video segment features Huu Trung, now indoors against a plain gray textured background, wearing a short-sleeved dark blue button-up shirt adorned with a repeating pattern of pink flamingos and palm trees. He is performing a string trick with a thin white string, manipulating it with dexterity between his hands. The string is initially held taut, then looped and twisted in various configurations, demonstrating a series of controlled movements that suggest a magic or illusion technique. His left wrist displays a silver-toned watch with a metallic band, which remains visible throughout. The focus remains tightly on his hands and the string, with no other props or objects in view. The lighting is even and bright, highlighting the details of his movements and the string’s motion. The on-screen text 'Huu Trung' appears in the top left corner, consistent with previous segments, indicating the performer’s identity. The overall atmosphere is calm and instructional, emphasizing precision and hand coordination.",
+            "active_entities": {
+                "Huu Trung": "A person performing a string trick indoors, wearing a dark blue short-sleeved shirt with pink flamingo and palm tree patterns, and a silver-toned wristwatch on his left wrist. He manipulates a white string with precise hand movements against a plain gray background.",
+                "Dark Blue Flamingo Shirt": "A short-sleeved dark blue button-up shirt with a repeating pattern of pink flamingos and palm trees, worn by Huu Trung during the indoor string trick segment.",
+                "White String": "A thin, taut white string held and manipulated by Huu Trung in the indoor setting, used to perform a string trick with looping and pulling motions."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 9,
+            "caption": "The video begins with Huu Trung, wearing a dark blue short-sleeved shirt adorned with pink flamingo and palm tree patterns, performing a string trick indoors against a plain gray background. He manipulates a thin white string with precise hand movements, looping and pulling it to create an illusion of control and dexterity. His left wrist features a silver-toned watch, and his hands move fluidly as he demonstrates the trick. Midway through the segment, there is a clear transition: Huu Trung changes into a light gray sleeveless t-shirt and gray jeans, and the focus shifts to a new trick involving a white ceramic plate. He places several coins onto the plate one by one, arranging them in a scattered pattern, then lifts the plate to reveal that the coins have vanished. He then produces a single coin from behind the plate, suggesting a classic coin vanishing and reappearance illusion. The lighting remains consistent and even throughout, emphasizing the hands and props, and the background stays a neutral gray, ensuring focus on the performance.",
+            "active_entities": {
+                "Huu Trung": "A person performing a coin trick indoors, now wearing a light gray sleeveless t-shirt and gray jeans, holding a white ceramic plate and manipulating coins with his hands against a plain gray background.",
+                "White String": "A thin, taut white string held and manipulated by Huu Trung in the indoor setting, used to perform a string trick with looping and pulling motions.",
+                "Dark Blue Flamingo Shirt": "A short-sleeved dark blue button-up shirt with a repeating pattern of pink flamingos and palm trees, worn by Huu Trung during the indoor string trick segment."
+            },
+            "discovered_new_entities": {
+                "White Plate": "A small, white ceramic plate with a wavy rim, held by Huu Trung during the coin trick, used to display and conceal coins as part of the illusion.",
+                "Coins": "Several small, metallic coins of varying sizes and colors, placed on the white plate by Huu Trung, which vanish and are later revealed to have been hidden or produced from behind the plate."
+            }
+        },
+        {
+            "minute": 10,
+            "caption": "The video begins with Huu Trung, wearing a light gray sleeveless t-shirt and gray jeans, performing a coin trick using a white ceramic plate with a wavy rim. He places a small white paper square on the plate, then removes it to reveal nothing underneath. He then places several coins on the plate, manipulates them with his fingers, and appears to make them vanish by flipping the plate and showing his empty hand. He repeats the trick, placing more coins on the plate and then seemingly making them disappear again. The scene then transitions to a different setting with a plain white background, where Huu Trung is now wearing a blue and white striped t-shirt and a red cap with black brim and 'ecko unltd.' branding. He holds a clear plastic cup filled with a white liquid, likely milk, and sips from it using a white straw, occasionally pausing to gesture or look at the camera. The lighting is bright and even, emphasizing the simplicity of the actions and the clean background.",
+            "active_entities": {
+                "Huu Trung": "A person performing a coin trick indoors, now wearing a light gray sleeveless t-shirt and gray jeans, holding a white ceramic plate and manipulating coins with his hands against a plain gray background.",
+                "White Plate": "A small, white ceramic plate with a wavy rim, held by Huu Trung during the coin trick, used to display and conceal coins as part of the illusion.",
+                "Coins": "Several small, metallic coins of varying sizes and colors, placed on the white plate by Huu Trung, which vanish and are later revealed to have been hidden or produced from behind the plate."
+            },
+            "discovered_new_entities": {
+                "Blue and White Striped T-Shirt": "A short-sleeved t-shirt with horizontal blue and white stripes, worn by Huu Trung during the second segment, featuring a small South Korean flag patch on the left chest.",
+                "Red Cap": "A red baseball cap with a black brim, worn by Huu Trung in the second segment, featuring 'ecko unltd.' branding on the front.",
+                "Clear Plastic Cup": "A transparent plastic cup filled with a white liquid, likely milk, held by Huu Trung in the second segment, with a white straw inserted for drinking.",
+                "White Straw": "A thin, white plastic straw inserted into the clear plastic cup, used by Huu Trung to sip the white liquid during the second segment."
+            }
+        },
+        {
+            "minute": 11,
+            "caption": "The video begins with Huu Trung, wearing a blue and white striped t-shirt and a red cap with 'ecko unltd.' branding, holding a clear plastic cup filled with a white liquid, likely milk, and sipping through a white straw. He appears to be demonstrating or reacting to the drink, making expressive facial gestures. The scene then transitions to a top-down view on a red cutting mat, where Huu Trung’s hands are shown modifying a clear plastic cup. Using an orange utility knife, he carefully cuts off the top rim of the cup, then switches to blue-handled scissors to trim the bottom, creating two separate cup sections. He then pours milk from a blue and white carton into the larger cup section, and finally places the smaller cup section inside the larger one, suggesting a setup for a trick or demonstration involving the cups and liquid.",
+            "active_entities": {
+                "Huu Trung": "A person wearing a blue and white striped t-shirt with a small South Korean flag patch on the left chest, and a red baseball cap with 'ecko unltd.' branding, performing actions with plastic cups and a straw, later shown only by hands manipulating objects on a red mat.",
+                "Clear Plastic Cup": "A transparent plastic cup, initially filled with a white liquid (likely milk), later cut into two sections using a utility knife and scissors, and used to hold milk poured from a carton.",
+                "White Straw": "A thin, white plastic straw inserted into the clear plastic cup, used for sipping the white liquid in the initial segment.",
+                "Red Cap": "A red baseball cap with a black brim and 'ecko unltd.' branding on the front, worn by Huu Trung during the first part of the video.",
+                "Blue and White Striped T-Shirt": "A short-sleeved t-shirt with horizontal blue and white stripes, featuring a small South Korean flag patch on the left chest, worn by Huu Trung during the initial segment."
+            },
+            "discovered_new_entities": {
+                "Orange Utility Knife": "A small orange-handled utility knife used to cut the rim of the clear plastic cup on a red mat.",
+                "Blue-Handled Scissors": "A pair of scissors with blue handles used to cut the bottom of the clear plastic cup, creating a smaller cup section.",
+                "Red Cutting Mat": "A rectangular red mat placed on a white surface, serving as the workspace for cutting and assembling the plastic cups.",
+                "Milk Carton": "A blue and white carton used to pour milk into the larger plastic cup section during the assembly process."
+            }
+        },
+        {
+            "minute": 12,
+            "caption": "The video begins with Huu Trung, wearing a blue and white striped t-shirt with a small South Korean flag patch and a red baseball cap, performing a trick with a clear plastic cup filled with a white liquid, likely milk. He uses an orange utility knife and blue-handled scissors on a red cutting mat to cut the cup into two sections. He then assembles the pieces, pouring milk from a carton into the larger section, and inserts a white straw to sip from it, demonstrating the cup’s functionality. The scene transitions to a different setting with a gray textured background, where Huu Trung, now in a gray striped t-shirt, performs a string trick with a yellow rubber band, manipulating it between his fingers to create loops and illusions. The video maintains a clean, instructional tone with consistent lighting and focus on hand movements and object interactions.",
+            "active_entities": {
+                "Huu Trung": "A person wearing a blue and white striped t-shirt with a small South Korean flag patch on the left chest, and a red baseball cap with 'ecko unltd.' branding, performing actions with plastic cups and a straw, later shown only by hands manipulating objects on a red mat.",
+                "Clear Plastic Cup": "A transparent plastic cup, initially filled with a white liquid (likely milk), later cut into two sections using a utility knife and scissors, and used to hold milk poured from a carton.",
+                "White Straw": "A thin, white plastic straw inserted into the clear plastic cup, used for sipping the white liquid in the initial segment.",
+                "Orange Utility Knife": "A small orange-handled utility knife used to cut the rim of the clear plastic cup on a red mat.",
+                "Blue-Handled Scissors": "A pair of scissors with blue handles used to cut the bottom of the clear plastic cup, creating a smaller cup section.",
+                "Red Cutting Mat": "A rectangular red mat placed on a white surface, serving as the workspace for cutting and assembling the plastic cups.",
+                "Milk Carton": "A blue and white carton used to pour milk into the larger plastic cup section during the assembly process."
+            },
+            "discovered_new_entities": {
+                "Yellow Rubber Band": "A thin, yellow rubber band manipulated between fingers to perform a string trick, creating loops and illusions.",
+                "Gray Striped T-Shirt": "A short-sleeved gray t-shirt with fine horizontal stripes, worn by Huu Trung during the string trick segment, replacing his earlier blue and white striped shirt."
+            }
+        },
+        {
+            "minute": 13,
+            "caption": "The video segment features Huu Trung, now wearing a gray striped t-shirt, performing a string trick with a yellow rubber band. The camera focuses closely on his hands as he manipulates the rubber band, stretching and looping it between his fingers to create an illusion. His movements are precise and deliberate, forming loops and pulling the band taut to demonstrate the trick. The background is a plain, textured gray wall, providing a neutral backdrop that emphasizes the hands and the yellow rubber band. The on-screen text 'Huu Trung' remains visible in the top left corner throughout the sequence. The trick appears to involve creating and dissolving loops, possibly suggesting a magic or dexterity-based illusion, with the rubber band being the central object of manipulation.",
+            "active_entities": {
+                "Huu Trung": "A person wearing a gray striped t-shirt, performing a string trick with a yellow rubber band, focusing on hand movements and dexterity.",
+                "Yellow Rubber Band": "A thin, yellow rubber band being manipulated between fingers to create loops and illusions, central to the trick being performed.",
+                "Gray Striped T-Shirt": "A short-sleeved gray t-shirt with fine horizontal stripes, worn by Huu Trung during the string trick segment."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 14,
+            "caption": "The video begins with Huu Trung, wearing a gray striped t-shirt, manipulating a yellow rubber band between his fingers, creating loops and illusions. He then transitions into a new segment, now wearing a black polo shirt with a small graphic on the chest, where he performs a series of quick transformations: a yellow smiley-face balloon appears, then vanishes to reveal a yellow can; next, a green balloon with white patterns appears and transforms into a green can. He then inflates a yellow balloon with a 'Happy Birthday' design using a yellow hand pump, ties it off, and holds it alongside the green can. He proceeds to pop the balloon with a pin, causing it to deflate instantly, leaving only the can. The scene shifts again, with Huu Trung now in a blue patterned shirt featuring nautical designs, holding up a King of Spades playing card, pointing to it with his index finger. Throughout, the background remains a consistent textured gray wall, and the lighting is even and bright, emphasizing the objects and hand movements. The transitions between segments are abrupt, suggesting a compilation of magic tricks or illusions.",
+            "active_entities": {
+                "Huu Trung": "A person performing a series of magic tricks, changing shirts between segments: first in a gray striped t-shirt, then in a black polo shirt with a small graphic, and finally in a blue patterned shirt with nautical designs. He manipulates various objects with dexterity, including rubber bands, balloons, cans, and a playing card.",
+                "Yellow Rubber Band": "A thin, yellow rubber band being manipulated between fingers to create loops and illusions, central to the trick being performed.",
+                "Gray Striped T-Shirt": "A short-sleeved gray t-shirt with fine horizontal stripes, worn by Huu Trung during the initial string trick segment."
+            },
+            "discovered_new_entities": {
+                "Black Polo Shirt": "A short-sleeved black polo shirt with a small graphic on the chest, worn by Huu Trung during the balloon and can transformation tricks.",
+                "Yellow Balloon": "A yellow balloon with a smiley face design, initially shown inflated, then transformed into a yellow can; later, a different yellow balloon with 'Happy Birthday' text is inflated and popped.",
+                "Green Balloon": "A green balloon with white patterns, including text and symbols, which transforms into a green can.",
+                "Yellow Can": "A yellow can, resembling a beverage can, revealed after the yellow balloon vanishes.",
+                "Green Can": "A green can with a leafy design, revealed after the green balloon vanishes, and later held alongside the yellow balloon.",
+                "Yellow Hand Pump": "A yellow hand pump used to inflate the yellow 'Happy Birthday' balloon.",
+                "Pin": "A small metallic pin used to pop the inflated yellow balloon, causing it to deflate instantly.",
+                "Blue Patterned Shirt": "A short-sleeved blue button-up shirt with nautical-themed patterns, including ships, compasses, and fleur-de-lis, worn by Huu Trung during the final segment.",
+                "King of Spades Playing Card": "A standard playing card, the King of Spades, held up and pointed to by Huu Trung in the final scene."
+            }
+        },
+        {
+            "minute": 15,
+            "caption": "The video segment begins with Huu Trung, wearing a blue patterned shirt with nautical designs, performing a magic trick with the King of Spades playing card. He holds the card between his thumb and index finger, using his other hand to gesture over it as if performing a sleight of hand. The card is shown clearly to the camera, then he covers it with his hand and reveals it again, seemingly unchanged. The scene transitions to a close-up of the card lying flat on a white surface, where a hand uses an orange utility knife to cut a small section from the card’s edge. After the cut, the card is picked up and flipped to show its blue-backed side, then flipped back to the face, still appearing intact. The video returns to Huu Trung, who repeats the gesture over the card, emphasizing the illusion. The card remains visually unharmed despite the earlier cut, suggesting a magic trick involving restoration or misdirection. The background remains a neutral gray throughout, focusing attention on the card and hands. The name 'Huu Trung' is displayed in white text in the top left corner of the screen throughout the segment.",
+            "active_entities": {
+                "Huu Trung": "A person performing a magic trick with a playing card, wearing a blue patterned shirt with nautical designs including ships, compasses, and fleur-de-lis. He manipulates the King of Spades card with dexterity, using hand gestures to create an illusion of restoration after a cut.",
+                "King of Spades Playing Card": "A standard playing card, the King of Spades, shown face-up and then cut with an orange utility knife on a white surface. Despite the cut, it appears intact when held again, suggesting a magic trick involving restoration or misdirection.",
+                "Orange Utility Knife": "A small orange-handled utility knife used to cut a section from the edge of the King of Spades playing card on a white surface, demonstrating a key step in the magic trick."
+            },
+            "discovered_new_entities": {
+                "White Surface": "A plain white surface used as a background during the close-up shot of the card being cut, providing high contrast for clear visibility of the action."
+            }
+        },
+        {
+            "minute": 16,
+            "caption": "The video begins with Huu Trung, wearing a blue patterned shirt with nautical designs, performing a magic trick with the King of Spades playing card. He holds the card between his fingers, then uses an orange utility knife to cut it on a white surface, creating a visible slit. Despite the cut, he later displays the card as if fully intact, suggesting a restoration trick. The scene transitions to Huu Trung now wearing a blue and white striped t-shirt with a small South Korean flag patch on the left chest. He holds a green Sprite can, manipulating it with his hands to create the illusion that it is floating above his palm. He gently rotates the can, maintaining the levitation effect, before finally picking it up. The video then cuts to a close-up of the can being held against a white background, where he peels off a small white sticker from the back, revealing the barcode and nutritional information underneath. The entire sequence is performed against a neutral gray backdrop, with consistent lighting and focus on the hands and objects, emphasizing the sleight-of-hand and illusion techniques.",
+            "active_entities": {
+                "Huu Trung": "A person performing magic tricks, first wearing a blue patterned shirt with nautical designs, then switching to a blue and white striped t-shirt with a South Korean flag patch on the left chest. He manipulates a King of Spades card and later a Sprite can with dexterity, creating illusions of restoration and levitation.",
+                "King of Spades Playing Card": "A standard playing card, the King of Spades, shown face-up and then cut with an orange utility knife on a white surface. Despite the cut, it appears intact when held again, suggesting a magic trick involving restoration or misdirection.",
+                "Orange Utility Knife": "A small orange-handled utility knife used to cut a section from the edge of the King of Spades playing card on a white surface, demonstrating a key step in the magic trick.",
+                "White Surface": "A plain white surface used as a background during the close-up shot of the card being cut, providing high contrast for clear visibility of the action.",
+                "Blue and White Striped T-Shirt": "A short-sleeved t-shirt with horizontal blue and white stripes, featuring a small South Korean flag patch on the left chest, worn by Huu Trung during the Sprite can levitation trick.",
+                "Green Can": "A green Sprite can with a leafy design, held and manipulated by Huu Trung to create the illusion of floating above his palm. The can is later shown in close-up as he peels off a white sticker from the back, revealing the barcode and nutritional information."
+            },
+            "discovered_new_entities": {
+                "White Sticker": "A small white sticker affixed to the back of the green Sprite can, which is peeled off in the final close-up shot to reveal the barcode and nutritional information underneath."
+            }
+        },
+        {
+            "minute": 17,
+            "caption": "The video begins with a close-up of Huu Trung’s hands holding a green Sprite can, with the back label facing the camera. He peels off a white sticker from the can, revealing the barcode and nutritional information beneath. The scene transitions to a medium shot where Huu Trung, now wearing a blue and white striped t-shirt with a South Korean flag patch on the left chest, performs a levitation trick with the same Sprite can, making it appear to float above his palm using subtle hand movements. He then switches to a blue patterned shirt with nautical designs and demonstrates a trick with a light blue surgical mask. He cuts the ear loops of the mask with blue-handled scissors, then ties them together with a white string, creating a looped structure. He holds the mask horizontally, displaying the modified ear loops, suggesting a transformation or utility-based magic trick. The background remains a plain white or gray wall throughout, with consistent bright lighting emphasizing the objects and actions.",
+            "active_entities": {
+                "Huu Trung": "A person performing magic tricks, first wearing a blue patterned shirt with nautical designs, then switching to a blue and white striped t-shirt with a South Korean flag patch on the left chest. He manipulates a Sprite can with dexterity, creating illusions of restoration and levitation, and later modifies a surgical mask with scissors and string.",
+                "Green Can": "A green Sprite can with a leafy design, held and manipulated by Huu Trung to create the illusion of floating above his palm. The can is later shown in close-up as he peels off a white sticker from the back, revealing the barcode and nutritional information underneath.",
+                "Blue and White Striped T-Shirt": "A short-sleeved t-shirt with horizontal blue and white stripes, featuring a small South Korean flag patch on the left chest, worn by Huu Trung during the Sprite can levitation trick.",
+                "Blue Patterned Shirt": "A short-sleeved blue button-up shirt with nautical-themed patterns, including ships, compasses, and fleur-de-lis, worn by Huu Trung during the final segment.",
+                "White Sticker": "A small white sticker affixed to the back of the green Sprite can, which is peeled off in the final close-up shot to reveal the barcode and nutritional information underneath.",
+                "Blue-Handled Scissors": "A pair of scissors with blue handles used to cut the ear loops of a light blue surgical mask, creating a modified structure for the trick.",
+                "White String": "A thin, white string used to tie the cut ear loops of the surgical mask together, forming a looped structure for the trick."
+            },
+            "discovered_new_entities": {
+                "Light Blue Surgical Mask": "A disposable light blue surgical mask with white ear loops, manipulated by Huu Trung to demonstrate a trick involving cutting and reconfiguring the ear loops with a white string."
+            }
+        },
+        {
+            "minute": 18,
+            "caption": "Huu Trung, wearing a blue patterned shirt with nautical designs including ships, compasses, and fleur-de-lis, demonstrates a trick involving a light blue surgical mask. He holds the mask with both hands, then uses a pair of blue-handled scissors to cut one of the white ear loops. After cutting, he separates the loop and ties the two ends together with a white string, forming a small loop. He then repeats the process with the second ear loop, cutting it and tying it with the same string. Throughout the sequence, he manipulates the string and mask with dexterity, showcasing the transformation of the ear loops into a connected structure. The background is a plain white surface, and the lighting is bright and even, emphasizing the details of his actions. The text 'Huu Trung' is visible in the top left corner of the frame.",
+            "active_entities": {
+                "Huu Trung": "A person performing a magic trick, wearing a blue patterned shirt with nautical designs, manipulating a light blue surgical mask and blue-handled scissors to cut and reconfigure the ear loops with a white string.",
+                "Light Blue Surgical Mask": "A disposable light blue surgical mask with white ear loops, being cut and reconfigured by Huu Trung using scissors and a white string to form a connected loop structure.",
+                "Blue-Handled Scissors": "A pair of scissors with blue handles used to cut the ear loops of the surgical mask, held in Huu Trung's right hand during the trick.",
+                "White String": "A thin, white string used to tie the cut ear loops of the surgical mask together, forming a looped structure for the trick.",
+                "Blue Patterned Shirt": "A short-sleeved blue button-up shirt with nautical-themed patterns, including ships, compasses, and fleur-de-lis, worn by Huu Trung during the trick."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 19,
+            "caption": "The video begins with Huu Trung, wearing a blue patterned shirt with nautical designs, performing a trick with a light blue surgical mask. He uses blue-handled scissors to cut the ear loops of the mask and then ties them together with a white string, forming a looped structure. He manipulates the mask and string with precise hand movements, showcasing the reconfigured mask. The scene then transitions to Huu Trung now wearing a black Nike t-shirt with a subtle geometric pattern. He performs a hand trick, initially showing his empty hands, then producing a yellow pencil from behind his back. He holds the pencil horizontally between his fingers, rotates it, and then makes it vanish, only to produce it again from his other hand. He repeats the motion, emphasizing the illusion of the pencil appearing and disappearing. Throughout, the background remains a plain white, and the lighting is bright and even, focusing attention on his hands and the props. The on-screen text 'Huu Trung' is consistently displayed in the top left corner.",
+            "active_entities": {
+                "Huu Trung": "A person performing magic tricks, first wearing a blue patterned shirt with nautical designs, then switching to a black Nike t-shirt with a geometric pattern, manipulating a light blue surgical mask and a yellow pencil to create illusions.",
+                "Light Blue Surgical Mask": "A disposable light blue surgical mask with white ear loops, cut and reconfigured by Huu Trung using blue-handled scissors and a white string to form a connected loop structure.",
+                "Blue-Handled Scissors": "A pair of scissors with blue handles used to cut the ear loops of the surgical mask, held in Huu Trung's right hand during the trick.",
+                "White String": "A thin, white string used to tie the cut ear loops of the surgical mask together, forming a looped structure for the trick."
+            },
+            "discovered_new_entities": {
+                "Yellow Pencil": "A thin, yellow pencil produced from behind Huu Trung's back, manipulated between his fingers, and made to vanish and reappear as part of a hand illusion.",
+                "Black Nike T-Shirt": "A short-sleeved black t-shirt with a subtle geometric pattern and a white Nike logo on the chest, worn by Huu Trung during the pencil trick segment."
+            }
+        },
+        {
+            "minute": 20,
+            "caption": "The video begins with Huu Trung, wearing a black Nike t-shirt with a geometric pattern, performing a hand illusion with a yellow pencil. He manipulates the pencil between his fingers, making it appear to vanish and reappear, showcasing dexterity and misdirection. The scene then transitions to Huu Trung now wearing a blue t-shirt, seated at a table with a red mat. He performs a coin magic trick using a silver coin and a clear glass. He places the coin on the table, covers it with the glass, and after a series of movements, reveals the coin has vanished. He then produces a second coin from his hand, showing it to the camera, and repeats the trick, placing the coin under the glass again. After a quick motion, he lifts the glass to reveal the coin has reappeared. He then performs a variation, placing the coin on the table, covering it with the glass, and flipping the glass to show the coin has vanished again. He then produces the coin from behind his back, holding it up to the camera, and repeats the sequence, emphasizing the illusion of disappearance and reappearance. The background remains a plain white wall throughout, with consistent lighting and focus on the hands and props. The on-screen text 'Huu Trung' is visible in the top left corner throughout the segment.",
+            "active_entities": {
+                "Huu Trung": "A person performing magic tricks, first wearing a black Nike t-shirt with a geometric pattern, then switching to a blue t-shirt, manipulating a yellow pencil and a silver coin with a clear glass on a red mat.",
+                "Yellow Pencil": "A thin, yellow pencil manipulated between fingers, made to vanish and reappear as part of a hand illusion.",
+                "Black Nike T-Shirt": "A short-sleeved black t-shirt with a subtle geometric pattern and a white Nike logo on the chest, worn by Huu Trung during the pencil trick segment."
+            },
+            "discovered_new_entities": {
+                "Blue T-Shirt": "A short-sleeved blue t-shirt worn by Huu Trung during the coin and glass magic trick segment.",
+                "Silver Coin": "A metallic, round coin used in the magic trick, placed on a red mat and manipulated under a clear glass to create illusions of disappearance and reappearance.",
+                "Clear Glass": "A transparent, cylindrical glass used to cover the silver coin during the magic trick, creating the illusion of vanishing and reappearing.",
+                "Red Mat": "A rectangular red mat placed on a white table, serving as the surface for the coin and glass magic trick."
+            }
+        },
+        {
+            "minute": 21,
+            "caption": "The video begins with Huu Trung, wearing a blue t-shirt, performing a coin and glass magic trick on a red mat. He places a silver coin under a clear glass, then lifts the glass to reveal the coin has vanished, only to produce it from his hand. The scene transitions to Huu Trung in a white t-shirt with a colorful handprint design, performing a Rubik’s cube trick on a white table. He manipulates the cube, showing it scrambled, then appears to solve it with a swift motion, only to reveal it scrambled again. He repeats this illusion, emphasizing the cube’s transformation. The video then cuts to Huu Trung in a blue button-up shirt, holding an orange, which he peels and eats, showcasing a simple yet engaging act. Throughout, the background remains a clean white, and the lighting is bright and even, focusing attention on the hands and props. The on-screen text 'Huu Trung' is consistently displayed in the top left corner.",
+            "active_entities": {
+                "Huu Trung": "A person performing magic tricks, first wearing a blue t-shirt, then a white t-shirt with a colorful handprint design, and finally a blue button-up shirt, manipulating a silver coin, a clear glass, a Rubik’s cube, and an orange.",
+                "Silver Coin": "A metallic, round coin used in the magic trick, placed under a clear glass on a red mat, appearing to vanish and then reappearing in Huu Trung’s hand.",
+                "Clear Glass": "A transparent, cylindrical glass used to cover the silver coin during the magic trick, creating the illusion of vanishing and reappearing on a red mat.",
+                "Red Mat": "A rectangular red mat placed on a white table, serving as the surface for the coin and glass magic trick."
+            },
+            "discovered_new_entities": {
+                "Rubik’s Cube": "A 3x3 mechanical puzzle cube with colorful squares, manipulated by Huu Trung to appear scrambled and then solved, only to be scrambled again, creating an illusion of transformation.",
+                "Orange": "A small, round citrus fruit, held and peeled by Huu Trung in a blue button-up shirt, then eaten, serving as a simple yet engaging prop in the final segment."
+            }
+        },
+        {
+            "minute": 22,
+            "caption": "In a clean, brightly lit setting with a plain white background, Huu Trung, wearing a blue button-up shirt with rolled-up sleeves and a silver wristwatch on his left hand, performs a playful and engaging magic trick with an orange. He holds the orange in front of his face, positioning it directly over his mouth, and uses his hands to manipulate it in a way that creates the illusion of the orange being suspended or floating. His hands move fluidly around the fruit, sometimes cupping it, sometimes gesturing as if controlling its movement, while maintaining eye contact with the camera. At one point, he reveals a small wooden stick inserted into the orange, which he then uses to balance the fruit between his fingers, enhancing the illusion. He continues to rotate and present the orange, occasionally bringing it closer to his face, before finally holding it up with a smile, showcasing the trick’s conclusion. The entire sequence is performed with a calm, confident demeanor, emphasizing the simplicity and charm of the illusion.",
+            "active_entities": {
+                "Huu Trung": "A person performing magic tricks, wearing a blue button-up shirt with rolled-up sleeves and a silver wristwatch on his left hand, manipulating an orange in a playful illusion against a white background.",
+                "Orange": "A small, round citrus fruit, held and manipulated by Huu Trung to create the illusion of floating or being suspended, with a wooden stick inserted into it for balancing purposes."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 23,
+            "caption": "The video opens with Huu Trung, wearing a blue button-up shirt with rolled-up sleeves and a silver wristwatch on his left hand, performing a playful illusion with an orange held in his mouth against a plain white background. He gestures with both hands as if manipulating the orange, creating a sense of magic. The scene then transitions to a different setting with a textured gray background, where Huu Trung is now wearing a gray striped t-shirt. He holds a small piece of white paper in his left hand and a red BIC lighter in his right. He repeatedly sets the paper on fire, causing it to burn away to reveal a folded U.S. dollar bill underneath. After showing the bill, he burns it as well, only to produce another piece of white paper, which he again sets ablaze to reveal the same dollar bill. This cycle repeats, emphasizing the illusion of restoration. At one point, he briefly reveals an orange cloth before burning it too. His movements are deliberate and theatrical, with frequent hand gestures to emphasize the magic. The lighting remains consistent and bright, focusing attention on his hands and the objects. The on-screen text 'Huu Trung' is visible in the top left corner throughout the segment.",
+            "active_entities": {
+                "Huu Trung": "A person performing magic tricks, initially wearing a blue button-up shirt with rolled-up sleeves and a silver wristwatch on his left hand, later switching to a gray striped t-shirt, manipulating various objects including an orange, white paper, a U.S. dollar bill, an orange cloth, and a red BIC lighter against a white and then gray background.",
+                "BIC Lighter": "A red BIC lighter, held in Huu Trung's right hand, used repeatedly to ignite pieces of white paper and an orange cloth as part of the magic trick, creating the illusion of burning and restoration.",
+                "U.S. Dollar Bill": "A folded U.S. dollar bill, revealed after burning away a piece of white paper, which appears multiple times, seemingly restored after each burning sequence, held and displayed by Huu Trung.",
+                "White Paper": "A small piece of white paper, held in Huu Trung's left hand, which is set on fire to reveal the U.S. dollar bill beneath, used repeatedly in the trick, each time being burned and then replaced or restored.",
+                "Orange Cloth": "A small, folded orange cloth, revealed after burning a piece of white paper, which is then also set on fire as part of the magic sequence, appearing briefly before being burned again.",
+                "Orange": "A small, round citrus fruit, held in Huu Trung's mouth at the beginning of the video, manipulated with hand gestures to create the illusion of floating or being suspended, with a wooden stick inserted into it for balancing purposes.",
+                "Gray Striped T-Shirt": "A short-sleeved gray t-shirt with fine horizontal stripes, worn by Huu Trung during the burning and restoration trick segment, replacing his earlier blue button-up shirt.",
+                "White Wall Background": "A plain white wall in the initial scene, providing a neutral backdrop for the orange illusion, later replaced by a textured gray wall for the burning trick segment."
+            },
+            "discovered_new_entities": {
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer."
+            }
+        },
+        {
+            "minute": 24,
+            "caption": "The video begins with Huu Trung, wearing a gray striped t-shirt and a silver wristwatch, standing against a textured gray wall. He holds a small piece of white paper in his left hand and a red BIC lighter in his right. He performs a magic trick by setting the white paper on fire, which burns away to reveal a folded U.S. dollar bill underneath. He repeats this process, burning the paper again to reveal an orange cloth, which he then also sets on fire. After the orange cloth burns, he reveals the dollar bill once more. The scene then transitions to a white background, where Huu Trung is now holding a black smartphone with a calculator app open. He types '99999' on the calculator, then presses the division button and '9', resulting in '9999' on the screen. He continues to divide by 9, showing '999', then '99', and finally '9', demonstrating a mathematical trick. Throughout the video, the text 'Huu Trung' is displayed in the top left corner in white font.",
+            "active_entities": {
+                "Huu Trung": "A person performing magic tricks, wearing a gray striped t-shirt and a silver wristwatch on his left hand, manipulating a white paper, a red BIC lighter, an orange cloth, and a U.S. dollar bill against a gray wall, then switching to a white background to perform a calculator trick with a black smartphone.",
+                "BIC Lighter": "A red BIC lighter, held in Huu Trung's right hand, used to ignite pieces of white paper and an orange cloth as part of the magic trick, creating the illusion of burning and restoration.",
+                "White Paper": "A small piece of white paper, held in Huu Trung's left hand, which is set on fire to reveal the U.S. dollar bill beneath, used repeatedly in the trick, each time being burned and then replaced or restored.",
+                "U.S. Dollar Bill": "A folded U.S. dollar bill, revealed after burning away a piece of white paper, which appears multiple times, seemingly restored after each burning sequence, held and displayed by Huu Trung.",
+                "Orange Cloth": "A small, folded orange cloth, revealed after burning a piece of white paper, which is then also set on fire as part of the magic sequence, appearing briefly before being burned again.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer.",
+                "Gray Striped T-Shirt": "A short-sleeved gray t-shirt with fine horizontal stripes, worn by Huu Trung during the burning and restoration trick segment, replacing his earlier blue button-up shirt."
+            },
+            "discovered_new_entities": {
+                "Black Smartphone": "A black smartphone with a calculator app open, held by Huu Trung against a white background, used to demonstrate a mathematical trick by entering '99999' and dividing by 9 repeatedly to show decreasing results.",
+                "Textured Gray Wall": "A textured gray wall serving as the background for the initial magic trick segment, providing contrast to the white paper and orange cloth being burned.",
+                "White Background": "A plain white surface used as the backdrop for the calculator trick segment, providing a clean and neutral setting for the demonstration."
+            }
+        },
+        {
+            "minute": 25,
+            "caption": "The video segment opens with a top-down view of a pair of hands holding a black smartphone against a clean white background. The left hand, adorned with a brown leather wristwatch, holds the phone steady while the right hand interacts with the calculator app. The user taps '9' five times to input '99,999', then presses the division symbol and '9', resulting in '11,111'. The screen is then cleared, and the process is repeated, showing the same calculation. The phone is briefly turned off and then back on, returning to the home screen before reopening the calculator. The sequence is repeated multiple times, emphasizing the mathematical trick. On-screen text 'SET UP' appears during one of the repetitions, suggesting instructional or demonstrative intent. The hands gesture expressively at times, possibly to emphasize the trick’s outcome. The consistent white background and focused framing highlight the phone and hands as the central elements, with the text 'Huu Trung' visible in the top left corner throughout.",
+            "active_entities": {
+                "Huu Trung": "A person performing a calculator trick, wearing a brown leather wristwatch on his left hand, manipulating a black smartphone against a white background, using his right hand to tap the calculator app to demonstrate a mathematical sequence.",
+                "Black Smartphone": "A black smartphone with a calculator app open, held by Huu Trung, used to repeatedly input '99,999 ÷ 9' to display the result '11,111', with the screen turning off and on between demonstrations.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer.",
+                "White Background": "A plain white surface used as the backdrop for the calculator trick segment, providing a clean and neutral setting for the demonstration."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 26,
+            "caption": "The video begins with Huu Trung, wearing a brown leather wristwatch on his left hand, holding a black smartphone against a plain white background. He demonstrates a calculator trick by repeatedly tapping the number '9' to display '999', then pressing the division key and '9' to show the result '111'. He resets the calculator and repeats the sequence, inputting '99,999 ÷ 9' to display '11,111', emphasizing the trick with hand gestures. The word 'AGAIN' appears on screen as he repeats the process. The scene then transitions to a textured gray wall background, where Huu Trung, now wearing a black sleeveless shirt and a silver metal wristwatch, performs a magic trick with two blue foam balls. He holds one ball in each hand, then transfers one to his right hand, squeezes it, and makes it vanish, revealing only one ball in his left hand. He then places the remaining ball in his left palm and taps it, causing it to multiply into two balls again, showcasing a classic misdirection illusion. The entire sequence is performed with deliberate, clear hand movements, focusing on the visual transformation of the objects.",
+            "active_entities": {
+                "Huu Trung": "A person performing a calculator trick, wearing a brown leather wristwatch on his left hand, manipulating a black smartphone against a white background, using his right hand to tap the calculator app to demonstrate a mathematical sequence. Later, he appears in a black sleeveless shirt with a silver metal wristwatch, performing a foam ball magic trick against a textured gray wall.",
+                "Black Smartphone": "A black smartphone with a calculator app open, held by Huu Trung, used to repeatedly input '99,999 ÷ 9' to display the result '11,111', with the screen turning off and on between demonstrations.",
+                "White Background": "A plain white surface used as the backdrop for the calculator trick segment, providing a clean and neutral setting for the demonstration.",
+                "Textured Gray Wall": "A textured gray wall serving as the background for the initial magic trick segment, providing contrast to the white paper and orange cloth being burned."
+            },
+            "discovered_new_entities": {
+                "Blue Foam Balls": "Two small, round, blue foam balls held and manipulated by Huu Trung during the magic trick, appearing to vanish and multiply through hand movements and misdirection."
+            }
+        },
+        {
+            "minute": 27,
+            "caption": "The video segment features Huu Trung, wearing a black sleeveless shirt and a silver metal wristwatch on his left hand, performing a magic trick with two small blue foam balls against a textured gray wall. The scene is well-lit, focusing closely on his hands and midsection. He begins by holding one blue foam ball in his right hand and the other in his left, then proceeds to transfer them between hands with quick, fluid motions, creating the illusion of vanishing and reappearing. He uses misdirection and sleight of hand, often closing one hand to conceal a ball while the other hand appears empty, then revealing the ball again. The balls are manipulated with precision, sometimes appearing to multiply or switch hands instantly. The text 'Huu Trung' remains visible in the top left corner throughout, identifying the performer. The background remains static and neutral, ensuring the viewer’s attention stays on the hand movements and the blue foam balls.",
+            "active_entities": {
+                "Huu Trung": "A person performing a foam ball magic trick, wearing a black sleeveless shirt and a silver metal wristwatch on his left hand, manipulating two blue foam balls with precise hand movements against a textured gray wall.",
+                "Blue Foam Balls": "Two small, round, blue foam balls held and manipulated by Huu Trung, appearing to vanish and reappear through sleight of hand and misdirection during the magic trick.",
+                "Textured Gray Wall": "A textured gray wall serving as the background for the magic trick, providing a neutral and consistent backdrop that contrasts with the blue foam balls and the performer’s dark clothing.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 28,
+            "caption": "The video opens with Huu Trung, wearing a gray striped t-shirt, standing against a textured gray wall. He begins by holding a blue foam ball in his left hand, then transitions to manipulating two pencils—one orange and one teal—demonstrating a trick where they appear to pass through each other or change positions with fluid hand movements. His right hand, adorned with a silver metal wristwatch, deftly controls the pencils, creating an illusion of interlocking or vanishing. Midway through the segment, there is a sudden change in attire and background: Huu Trung now wears a black t-shirt and stands before a plain white background. He holds a single white plastic straw, bending it into a Y-shape with precise finger movements, showcasing a simple yet effective bending illusion. Throughout the segment, the text 'Huu Trung' remains visible in the top left corner, identifying the performer. The lighting is consistent and bright, emphasizing the objects and hand movements without shadows or distractions.",
+            "active_entities": {
+                "Huu Trung": "A person performing a series of hand tricks, initially wearing a gray striped t-shirt with a silver metal wristwatch on his left hand, later changing to a black t-shirt, manipulating pencils and a straw with precise, fluid motions against a textured gray wall and then a plain white background.",
+                "Textured Gray Wall": "A textured gray wall serving as the initial backdrop for the pencil trick, providing a neutral and consistent background that contrasts with the colorful pencils and the performer’s gray striped t-shirt.",
+                "White Background": "A plain white surface used as the backdrop for the straw bending trick, offering a clean and neutral setting that highlights the white straw and the performer’s black t-shirt.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer."
+            },
+            "discovered_new_entities": {
+                "Orange Pencil": "A thin, orange-colored pencil with a black tip, held and manipulated by Huu Trung to create an illusion of passing through or interlocking with another pencil.",
+                "Teal Pencil": "A thin, teal-colored pencil with a white tip, used alongside the orange pencil in a hand trick to create the illusion of interlocking or vanishing.",
+                "White Plastic Straw": "A thin, white plastic straw, held and bent into a Y-shape by Huu Trung’s fingers, demonstrating a simple bending illusion against a plain white background."
+            }
+        },
+        {
+            "minute": 29,
+            "caption": "The video opens with Huu Trung, wearing a black t-shirt, standing against a plain white background. He holds a white plastic straw in his right hand, initially bent at an angle. With precise hand movements, he demonstrates a bending illusion, straightening the straw and then bending it again in different directions—first vertically, then horizontally—using his fingers to manipulate its shape. He rotates the straw to show it from multiple angles, emphasizing its flexibility. His left hand, adorned with a silver metal wristwatch, gestures toward the straw to draw attention to the trick. The straw appears to bend and straighten seamlessly, creating the illusion of transformation. After several demonstrations, he places the straw horizontally across his left palm, then removes it, revealing his empty hand. The scene transitions to a top-down view of his hands against the white background, where he performs a finger illusion, interlocking his fingers and moving them in a fluid, rhythmic motion, suggesting a sleight-of-hand trick. The text 'Huu Trung' remains visible in the top left corner throughout, identifying the performer. The lighting is bright and even, ensuring clear visibility of the actions and objects.",
+            "active_entities": {
+                "Huu Trung": "A person performing a hand trick with a white plastic straw, wearing a black t-shirt and a silver metal wristwatch on his left hand, standing against a plain white background. He manipulates the straw with precise finger movements, bending and straightening it to create an illusion of transformation, then transitions to a top-down finger illusion.",
+                "White Plastic Straw": "A thin, white plastic straw, initially bent at an angle, manipulated by Huu Trung to appear straight and then bent in various directions—vertically, horizontally, and diagonally—through finger movements, creating an illusion of flexibility and transformation. It is later placed across his palm and removed to reveal an empty hand.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 30,
+            "caption": "The video begins with a close-up of Huu Trung’s hands against a plain white background, performing a ring illusion. He wears a silver metal wristwatch on his left hand and manipulates a silver ring, making it appear and disappear between his fingers through precise hand movements. The ring is shown on his left index finger, then transferred to his right hand, and later seemingly vanishes and reappears. After the ring trick, the scene transitions to a medium shot of Huu Trung standing against a textured gray wall, now wearing a dark blue t-shirt with a diagonal gray pattern and the word 'BLOCK' printed on the chest. He holds a clear plastic water bottle labeled 'AQUAFINA' in his right hand and removes the white cap with his left hand. He then performs a trick where the cap appears to float or stick to his shirt, pointing at it with his index finger to emphasize its presence. The cap remains suspended on his shirt as he gestures toward it, creating a visual illusion of defying gravity. The text 'Huu Trung' remains visible in the top left corner throughout the segment.",
+            "active_entities": {
+                "Huu Trung": "A person performing a hand trick with a silver ring, wearing a silver metal wristwatch on his left hand, initially against a white background, then transitioning to a textured gray wall while wearing a dark blue t-shirt with a diagonal gray pattern and 'BLOCK' printed on the chest. He manipulates the ring with dexterity and later performs a floating cap illusion with a water bottle.",
+                "Textured Gray Wall": "A textured gray wall serving as the backdrop for the second half of the video, providing a neutral background that contrasts with Huu Trung’s dark blue t-shirt and the white cap.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer."
+            },
+            "discovered_new_entities": {
+                "Silver Ring": "A metallic, circular ring used in a sleight-of-hand illusion, appearing and disappearing between Huu Trung’s fingers, initially shown on his left index finger, then transferred to his right hand, and later seemingly vanishing and reappearing.",
+                "AQUAFINA Water Bottle": "A clear plastic bottle with a blue label reading 'AQUAFINA', held in Huu Trung’s right hand during the second part of the video, used to perform a floating cap illusion.",
+                "White Cap": "A small, white plastic cap from the AQUAFINA bottle, removed by Huu Trung and made to appear to float or stick to his shirt, defying gravity as he points at it with his index finger."
+            }
+        },
+        {
+            "minute": 31,
+            "caption": "The video begins with Huu Trung, wearing a dark blue t-shirt with a diagonal gray pattern and 'BLOCK' printed on the chest, standing against a textured gray wall. He holds an AQUAFINA water bottle in his right hand and points at the white cap with his left index finger, demonstrating a floating cap illusion. The scene then transitions to a close-up of his hands against a plain white background, where he displays a playing card (3 of Diamonds) with black threads woven through it and a small plastic bag containing white wax pieces. On-screen text reads 'YOU CAN BUY IT AT MAGIC SHOP', identifying the items as 'INVISIBLE THREAD' and 'WAX'. He proceeds to demonstrate the thinness of the thread by stretching it between his fingers, with text emphasizing 'IT'S VERY THIN, YOU CAN'T SEE'. He then shows a spool of black thread, unspools a length, cuts it with blue-handled scissors, and picks up the wax pieces, preparing to attach them to the thread. The focus remains on his hands as he manipulates the thread and wax, suggesting the setup for a magic trick involving invisible suspension or attachment.",
+            "active_entities": {
+                "Huu Trung": "A person performing a hand trick with a silver ring, wearing a silver metal wristwatch on his left hand, initially against a white background, then transitioning to a textured gray wall while wearing a dark blue t-shirt with a diagonal gray pattern and 'BLOCK' printed on the chest. He manipulates the ring with dexterity and later performs a floating cap illusion with a water bottle.",
+                "AQUAFINA Water Bottle": "A clear plastic bottle with a blue label reading 'AQUAFINA', held in Huu Trung’s right hand during the second part of the video, used to perform a floating cap illusion.",
+                "White Cap": "A small, white plastic cap from the AQUAFINA bottle, removed by Huu Trung and made to appear to float or stick to his shirt, defying gravity as he points at it with his index finger.",
+                "Blue-Handled Scissors": "A pair of scissors with blue handles used to cut the black thread to the desired length during the preparation of the magic trick.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer."
+            },
+            "discovered_new_entities": {
+                "Playing Card (3 of Diamonds)": "A standard playing card, the 3 of Diamonds, with black threads woven through it, held and manipulated by Huu Trung to demonstrate the use of invisible thread in magic tricks.",
+                "Invisible Thread": "A very thin, nearly invisible black thread, shown stretched between fingers and attached to the playing card, used for magic tricks to create the illusion of suspension or levitation.",
+                "Wax": "Small white wax pieces in a clear plastic bag, held and manipulated by Huu Trung to attach to the invisible thread, likely for securing or anchoring the thread in magic tricks.",
+                "Spool of Black Thread": "A small spool of black thread with wooden ends, unspooled and cut by Huu Trung to prepare the invisible thread for use in the magic trick.",
+                "Text 'YOU CAN BUY IT AT MAGIC SHOP'": "Black text appearing on screen to indicate that the invisible thread and wax are available for purchase at magic shops.",
+                "Text 'INVISIBLE THREAD' and 'WAX'": "Black text labels appearing on screen to identify the two key props being demonstrated.",
+                "Text 'IT'S VERY THIN, YOU CAN'T SEE'": "Black text appearing on screen to emphasize the thinness and invisibility of the thread."
+            }
+        },
+        {
+            "minute": 32,
+            "caption": "The video begins with a close-up of Huu Trung’s hands against a white background, manipulating a thin black thread. He carefully threads a small white wax piece onto the thread, demonstrating precision and dexterity. The thread is then stretched between his fingers, showcasing its near-invisibility. On-screen text appears, labeling the thread as 'INVISIBLE THREAD' and the wax as 'WAX', with additional text stating 'IT'S VERY THIN, YOU CAN'T SEE' and 'YOU CAN BUY IT AT MAGIC SHOP', emphasizing the props' purpose in magic tricks. The scene transitions to a textured gray wall backdrop, where Huu Trung, now wearing a dark blue t-shirt with a diagonal gray pattern and 'BLOCK' printed on the chest, holds an AQUAFINA water bottle. He unscrews the white cap, places it on his palm, and then makes it appear to float or stick to his shirt as he points at it with his index finger, creating a levitation illusion. The cap remains suspended in mid-air against his shirt, defying gravity, while he gestures toward it to highlight the trick. The entire sequence maintains a clean, instructional tone, focusing on the mechanics and visual impact of the magic props and illusions.",
+            "active_entities": {
+                "Huu Trung": "A person performing a hand trick with a silver ring, wearing a silver metal wristwatch on his left hand, initially against a white background, then transitioning to a textured gray wall while wearing a dark blue t-shirt with a diagonal gray pattern and 'BLOCK' printed on the chest. He manipulates the ring with dexterity and later performs a floating cap illusion with a water bottle.",
+                "Invisible Thread": "A very thin, nearly invisible black thread, shown stretched between fingers and attached to the playing card, used for magic tricks to create the illusion of suspension or levitation.",
+                "Wax": "Small white wax pieces in a clear plastic bag, held and manipulated by Huu Trung to attach to the invisible thread, likely for securing or anchoring the thread in magic tricks.",
+                "AQUAFINA Water Bottle": "A clear plastic bottle with a blue label reading 'AQUAFINA', held in Huu Trung’s right hand during the second part of the video, used to perform a floating cap illusion.",
+                "White Cap": "A small, white plastic cap from the AQUAFINA bottle, removed by Huu Trung and made to appear to float or stick to his shirt, defying gravity as he points at it with his index finger.",
+                "Text 'INVISIBLE THREAD' and 'WAX'": "Black text labels appearing on screen to identify the two key props being demonstrated.",
+                "Text 'IT'S VERY THIN, YOU CAN'T SEE'": "Black text appearing on screen to emphasize the thinness and invisibility of the thread.",
+                "Text 'YOU CAN BUY IT AT MAGIC SHOP'": "Black text appearing on screen to indicate that the invisible thread and wax are available for purchase at magic shops.",
+                "Textured Gray Wall": "A textured gray wall serving as the backdrop for the second half of the video, providing a neutral background that contrasts with Huu Trung’s dark blue t-shirt and the white cap.",
+                "White Background": "A plain white surface used as the backdrop for the straw bending trick, offering a clean and neutral setting that highlights the white straw and the performer’s black t-shirt."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 33,
+            "caption": "The video segment features Huu Trung, wearing a dark blue t-shirt with a diagonal gray pattern and the word 'BLOCK' printed on the chest, standing against a textured gray wall. He holds an AQUAFINA water bottle in his right hand and its white cap in his left. He begins by demonstrating a floating cap illusion, placing the cap on his shirt and pointing at it with his index finger, making it appear to stick to the fabric. He then removes the cap, shows it to the camera, and proceeds to place it into his right eye socket, creating a humorous and exaggerated expression as he squints and rubs his eye. After removing the cap, he repeats the action with his left eye, again making a playful face. He then holds the cap up to the camera, smiles, and waves his hand in a gesture of completion. The on-screen text 'Huu Trung' remains visible in the top left corner throughout the segment, maintaining brand consistency. The lighting is even and focused on the subject, emphasizing the trick and his facial expressions.",
+            "active_entities": {
+                "Huu Trung": "A person performing a hand trick with a silver ring, wearing a silver metal wristwatch on his left hand, initially against a white background, then transitioning to a textured gray wall while wearing a dark blue t-shirt with a diagonal gray pattern and 'BLOCK' printed on the chest. He manipulates the ring with dexterity and later performs a floating cap illusion with a water bottle.",
+                "AQUAFINA Water Bottle": "A clear plastic bottle with a blue label reading 'AQUAFINA', held in Huu Trung’s right hand during the second part of the video, used to perform a floating cap illusion.",
+                "White Cap": "A small, white plastic cap from the AQUAFINA bottle, removed by Huu Trung and made to appear to float or stick to his shirt, defying gravity as he points at it with his index finger.",
+                "Textured Gray Wall": "A textured gray wall serving as the backdrop for the second half of the video, providing a neutral background that contrasts with Huu Trung’s dark blue t-shirt and the white cap.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 34,
+            "caption": "The video opens with Huu Trung, wearing a dark blue t-shirt with a diagonal gray pattern and a silver metal wristwatch on his left hand, standing against a textured gray wall. He holds a small piece of white paper in his right hand and begins tearing it into smaller pieces with both hands, demonstrating dexterity and control. After tearing the paper into fragments, he closes his fists and reveals a folded U.S. dollar bill in his right hand, which he then unfolds to display fully. The scene transitions to a plain white background, where Huu Trung continues to manipulate the dollar bill, folding it and placing it under a new piece of white paper. He then folds the paper over the bill and proceeds to tear the paper again, revealing the intact dollar bill beneath. The entire sequence is performed with smooth, deliberate hand movements, emphasizing the illusion of restoration. The text 'Huu Trung' remains visible in the top left corner throughout the video, identifying the performer. The lighting is even and bright, ensuring clear visibility of the props and actions.",
+            "active_entities": {
+                "Huu Trung": "A person performing a hand trick with a silver ring, wearing a silver metal wristwatch on his left hand, initially against a white background, then transitioning to a textured gray wall while wearing a dark blue t-shirt with a diagonal gray pattern and 'BLOCK' printed on the chest. He manipulates the ring with dexterity and later performs a floating cap illusion with a water bottle.",
+                "White Paper": "A small piece of white paper, held in Huu Trung's left hand, which is set on fire to reveal the U.S. dollar bill beneath, used repeatedly in the trick, each time being burned and then replaced or restored.",
+                "U.S. Dollar Bill": "A folded U.S. dollar bill, revealed after burning away a piece of white paper, which appears multiple times, seemingly restored after each burning sequence, held and displayed by Huu Trung.",
+                "Textured Gray Wall": "A textured gray wall serving as the backdrop for the second half of the video, providing a neutral background that contrasts with Huu Trung’s dark blue t-shirt and the white cap.",
+                "White Background": "A plain white surface used as the backdrop for the straw bending trick, offering a clean and neutral setting that highlights the white straw and the performer’s black t-shirt."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 35,
+            "caption": "The video begins with a close-up of Huu Trung’s hands against a plain white background, holding a small piece of white paper. He crumples the paper tightly, revealing a folded U.S. dollar bill underneath. He then unfolds the bill, displaying it fully. The scene transitions to a textured gray wall backdrop, where Huu Trung, now wearing a yellow and black t-shirt with the text 'You never walk alone' on the chest, holds the dollar bill horizontally. He uses a pair of blue-handled scissors to cut the bill vertically down the middle. After cutting, he holds the two halves separately, then brings them together again, appearing to restore the bill to its original state. He continues to manipulate the bill, folding and unfolding it to emphasize its intact condition, suggesting a magic trick involving restoration or misdirection. The text 'Huu Trung' remains visible in the top left corner throughout the segment.",
+            "active_entities": {
+                "Huu Trung": "A person performing a magic trick with a U.S. dollar bill, initially against a white background, then transitioning to a textured gray wall. He wears a yellow and black t-shirt with 'You never walk alone' printed on the chest and a silver metal wristwatch on his left hand. He uses blue-handled scissors to cut the bill and manipulates it with dexterity.",
+                "U.S. Dollar Bill": "A folded U.S. dollar bill, initially revealed after crumpling a piece of white paper, then cut vertically with scissors, and later shown to be restored to its original state through manipulation.",
+                "White Paper": "A small piece of white paper, held in Huu Trung’s hands, crumpled to reveal the U.S. dollar bill beneath it, used as a cover or prop in the initial phase of the trick.",
+                "Blue-Handled Scissors": "A pair of scissors with blue handles, used by Huu Trung to cut the U.S. dollar bill vertically down the middle, creating two halves for the illusion of restoration.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer.",
+                "Textured Gray Wall": "A textured gray wall serving as the backdrop for the latter half of the video, providing a neutral background that contrasts with Huu Trung’s yellow and black t-shirt and the white dollar bill.",
+                "White Background": "A plain white surface used as the backdrop for the initial segment, offering a clean and neutral setting that highlights the white paper and the performer’s hands."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 36,
+            "caption": "The video opens with Huu Trung, wearing a yellow and black t-shirt with the phrase 'You never walk alone' printed on the chest, standing against a textured gray wall. He holds a U.S. dollar bill, displaying it clearly to the camera before folding it in half lengthwise. The scene then transitions to a white background, where his hands are shown in close-up, manipulating the same dollar bill. He folds it again, this time horizontally, and then proceeds to fold it into a smaller rectangle. He then carefully aligns the bill and folds it once more, creating a compact, multi-layered fold. Throughout the sequence, his movements are deliberate and precise, emphasizing the folding technique. The video focuses entirely on the bill and his hands, with no other props or distractions visible. The lighting is bright and even, ensuring clear visibility of the bill’s details and the folding process. The text 'Huu Trung' remains in the top left corner throughout the segment.",
+            "active_entities": {
+                "Huu Trung": "A person performing a folding trick with a U.S. dollar bill, initially against a textured gray wall, then transitioning to a white background. He wears a yellow and black t-shirt with 'You never walk alone' printed on the chest and a silver metal wristwatch on his left hand. His hands are shown in close-up, manipulating the bill with precision.",
+                "U.S. Dollar Bill": "A U.S. dollar bill being folded multiple times by Huu Trung, first lengthwise, then horizontally, and finally into a compact rectangle. The bill is shown in clear detail, with visible serial numbers and design elements, as it is manipulated against both a gray wall and a white background.",
+                "Textured Gray Wall": "A textured gray wall serving as the initial backdrop for the folding trick, providing a neutral background that contrasts with Huu Trung’s yellow and black t-shirt and the white dollar bill.",
+                "White Background": "A plain white surface used as the backdrop for the latter part of the folding sequence, offering a clean and neutral setting that highlights the bill and Huu Trung’s hands.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 37,
+            "caption": "The video opens with a close-up of Huu Trung’s hands against a white background, holding a U.S. dollar bill. He folds it lengthwise, then horizontally, demonstrating precise manipulation. The scene transitions to a textured gray wall backdrop, where Huu Trung, wearing a yellow and black t-shirt with the text 'You never walk alone' on the chest, continues the trick. He uses a pair of blue-handled scissors to cut the dollar bill vertically down the middle, creating two halves. He then proceeds to fold and manipulate the two pieces, eventually reassembling them into a single, intact bill. The entire sequence is performed with deliberate hand movements, emphasizing the illusion of restoration. The lighting remains bright and even, ensuring clear visibility of the bill and Huu Trung’s actions. The text 'Huu Trung' is consistently displayed in the top left corner of the screen throughout the segment.",
+            "active_entities": {
+                "Huu Trung": "A person performing a folding trick with a U.S. dollar bill, initially against a white background, then transitioning to a textured gray wall. He wears a yellow and black t-shirt with 'You never walk alone' printed on the chest and a silver metal wristwatch on his left hand. His hands are shown in close-up, manipulating the bill with precision.",
+                "U.S. Dollar Bill": "A U.S. dollar bill being folded multiple times by Huu Trung, first lengthwise, then horizontally, and finally cut vertically into two halves using blue-handled scissors. The bill is shown in clear detail, with visible serial numbers and design elements, as it is manipulated against both a white background and a textured gray wall.",
+                "Blue-Handled Scissors": "A pair of scissors with blue handles, used by Huu Trung to cut the U.S. dollar bill vertically down the middle, creating two halves for the illusion of restoration.",
+                "Textured Gray Wall": "A textured gray wall serving as the backdrop for the latter part of the folding and cutting sequence, providing a neutral background that contrasts with Huu Trung’s yellow and black t-shirt and the white dollar bill.",
+                "White Background": "A plain white surface used as the backdrop for the initial part of the folding sequence, offering a clean and neutral setting that highlights the bill and Huu Trung’s hands.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 38,
+            "caption": "The video begins with Huu Trung, wearing a yellow and black t-shirt with the text 'You never walk alone' on the chest, performing a folding trick with a U.S. dollar bill against a white background. He folds the bill lengthwise and then horizontally, demonstrating precise hand movements. The background then transitions to a textured gray wall as he continues folding and eventually cuts the bill vertically with blue-handled scissors, creating two halves. The scene shifts to Huu Trung now wearing a dark blue button-up shirt with a repeating pattern of pink flamingos and palm trees, standing against a plain white background. He holds an orange pencil in his right hand and a silver ring in his left, performing a trick where the ring appears to pass through the pencil. He gestures with his left hand, emphasizing the illusion, and then removes the ring, revealing it to be intact. The video then cuts to a close-up of his hands, where he demonstrates how the trick is done by threading a thin black string through the pencil and attaching it to the ring, showing the mechanism behind the illusion. The text 'Huu Trung' remains visible in the top left corner throughout the video.",
+            "active_entities": {
+                "Huu Trung": "A person performing a folding trick with a U.S. dollar bill, initially against a white background, then transitioning to a textured gray wall. He wears a yellow and black t-shirt with 'You never walk alone' printed on the chest and a silver metal wristwatch on his left hand. His hands are shown in close-up, manipulating the bill with precision.",
+                "U.S. Dollar Bill": "A U.S. dollar bill being folded multiple times by Huu Trung, first lengthwise, then horizontally, and finally cut vertically into two halves using blue-handled scissors. The bill is shown in clear detail, with visible serial numbers and design elements, as it is manipulated against both a white background and a textured gray wall.",
+                "Blue-Handled Scissors": "A pair of scissors with blue handles, used by Huu Trung to cut the U.S. dollar bill vertically down the middle, creating two halves for the illusion of restoration.",
+                "Dark Blue Flamingo Shirt": "A short-sleeved dark blue button-up shirt with a repeating pattern of pink flamingos and palm trees, worn by Huu Trung during the indoor string trick segment.",
+                "Orange Pencil": "A thin, orange-colored pencil with a black tip, held and manipulated by Huu Trung to create an illusion of passing through or interlocking with another pencil.",
+                "Silver Ring": "A metallic, circular ring used in a sleight-of-hand illusion, appearing and disappearing between Huu Trung’s fingers, initially shown on his left index finger, then transferred to his right hand, and later seemingly vanishing and reappearing.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer.",
+                "White Background": "A plain white surface used as the backdrop for the initial part of the folding sequence, offering a clean and neutral setting that highlights the bill and Huu Trung’s hands.",
+                "Textured Gray Wall": "A textured gray wall serving as the backdrop for the latter part of the folding and cutting sequence, providing a neutral background that contrasts with Huu Trung’s yellow and black t-shirt and the white dollar bill."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 39,
+            "caption": "The video opens with a close-up of hands manipulating an orange pencil with a black tip, wrapped with black thread near the top. The hands carefully unwind the thread, revealing a spool of black thread with wooden ends. The scene transitions to a medium shot of Huu Trung, now wearing a dark blue short-sleeved button-up shirt adorned with pink flamingos and palm trees. He holds the orange pencil and the spool, demonstrating how the thread is wound around the pencil. He then uses a pair of blue-handled scissors to cut the thread, creating a short length. He proceeds to tie the cut thread into a loop around the pencil, forming a small ring. With deliberate hand movements, he demonstrates how the loop can be manipulated to appear as if it’s floating or interlocking with the pencil. He gestures with his fingers, emphasizing the trick’s mechanics, and points to the loop to highlight its invisibility and tightness. The background remains a plain white wall, keeping the focus on the hands and props. The text 'Huu Trung' is consistently displayed in the top left corner throughout the segment.",
+            "active_entities": {
+                "Huu Trung": "A person performing a string trick with an orange pencil and black thread, wearing a dark blue short-sleeved button-up shirt with pink flamingo and palm tree patterns, and a silver wristwatch on his left hand. He uses precise hand movements to demonstrate the trick.",
+                "Orange Pencil": "A thin, orange-colored pencil with a black tip, used as the central prop in the string trick, with black thread wrapped around its upper end and later tied into a loop.",
+                "Spool of Black Thread": "A small spool of black thread with wooden ends, unspooled and cut to prepare a short length for the trick, used to create a loop around the pencil.",
+                "Blue-Handled Scissors": "A pair of scissors with blue handles, used to cut the black thread to the desired length for the trick.",
+                "White String": "A thin, white string is not present in this segment; instead, black thread is used. The description is updated to reflect the actual prop used: a thin black thread used to form a loop around the pencil.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 40,
+            "caption": "The video begins with Huu Trung, wearing a dark blue short-sleeved button-up shirt with pink flamingo and palm tree patterns, performing a string trick with an orange pencil and black thread. He manipulates the pencil and thread with precise hand movements, demonstrating the trick against a plain white background. The scene then transitions to Huu Trung, now wearing a white t-shirt with a colorful abstract design and gray shorts, standing behind a white table. He holds two bags of snacks — one blue labeled 'Euté' and one orange labeled 'Swing' — and proceeds to fold and twist them together, showcasing a method to combine or seal them. He then separates the bags, opens the orange 'Swing' bag, and pours its contents — orange-colored snack pieces — into a white bowl with a blue floral pattern. He picks up a piece of the snack, displays it briefly, and places it back in the bowl. The video concludes with a close-up of the two snack bags placed side by side on the white surface, with Huu Trung’s hands adjusting their positions. The text 'Huu Trung' remains visible in the top left corner throughout the segment.",
+            "active_entities": {
+                "Huu Trung": "A person performing a string trick with an orange pencil and black thread, wearing a dark blue short-sleeved button-up shirt with pink flamingo and palm tree patterns, and a silver wristwatch on his left hand. He later changes into a white t-shirt with a colorful abstract design and gray shorts, and performs a snack bag manipulation and pouring demonstration.",
+                "Orange Pencil": "A thin, orange-colored pencil with a black tip, used as the central prop in the string trick, with black thread wrapped around its upper end and later tied into a loop.",
+                "Spool of Black Thread": "A small spool of black thread with wooden ends, unspooled and cut to prepare a short length for the trick, used to create a loop around the pencil.",
+                "Blue-Handled Scissors": "A pair of scissors with blue handles, used to cut the black thread to the desired length for the trick.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer."
+            },
+            "discovered_new_entities": {
+                "Black Thread": "A thin, black thread used to form a loop around the orange pencil, manipulated by Huu Trung to create a string trick illusion.",
+                "White Bowl": "A white ceramic bowl with a blue floral pattern, used to receive the contents of the orange 'Swing' snack bag.",
+                "Swing Snack Bag": "An orange-colored snack bag labeled 'Swing' with green and yellow text, containing orange-colored snack pieces, opened and poured into the white bowl.",
+                "Euté Snack Bag": "A blue-colored snack bag labeled 'Euté' with yellow and white text, shown alongside the 'Swing' bag during the folding and twisting demonstration.",
+                "White Table": "A plain white table surface used as the workspace for the snack bag manipulation and pouring demonstration, providing a clean and neutral background.",
+                "Gray Shorts": "A pair of gray, heathered shorts worn by Huu Trung during the snack bag segment, replacing his earlier dark blue shirt and indicating a change in attire.",
+                "White T-Shirt with Abstract Design": "A short-sleeved white t-shirt featuring a colorful, abstract, pixelated design, worn by Huu Trung during the snack bag manipulation segment."
+            }
+        },
+        {
+            "minute": 41,
+            "caption": "The video segment begins with a close-up of Huu Trung’s hands, wearing a silver wristwatch, as he uses an orange utility knife to cut open an orange 'Swing' snack bag labeled 'Khoai Tây, Ú Tày' (Potato, Sweet Potato). He pours the orange, ridged snack pieces into a white ceramic bowl with a blue floral pattern. After emptying the first bag, he sets it aside and proceeds to cut open a blue 'Euté' snack bag labeled 'Snack Khoai Tây, Sí Muối' (Potato Snack, Salted) using the same knife. He pours the pale yellow, wavy potato snacks into the same bowl, mixing them with the previous contents. The knife is then placed on the white table. Huu Trung then picks up both empty bags, folding and twisting them to demonstrate their flexibility and structure. He holds the blue 'Euté' bag up close to the camera, pointing to the barcode, QR code, and manufacturer details printed on the back, including 'CÔNG TY CỔ PHẦN LIWAYWAY VIỆT NAM' and 'www.ohshi.com.vn'. He then shows the back of the orange 'Swing' bag, highlighting its nutritional information and barcode. The segment concludes with Huu Trung standing behind the white table, now wearing a white t-shirt with a colorful abstract design and gray shorts, holding both empty snack bags in his hands, one in each, as if presenting them to the viewer. The background remains a clean, bright white surface throughout, emphasizing the actions and products.",
+            "active_entities": {
+                "Huu Trung": "A person wearing a silver wristwatch on his left hand, initially seen manipulating snack bags with an orange utility knife, later standing behind a white table in a white t-shirt with a colorful abstract design and gray shorts, holding two empty snack bags.",
+                "Orange Utility Knife": "A small orange-handled utility knife used to cut open both the orange 'Swing' and blue 'Euté' snack bags, placed on the white table after use.",
+                "Swing Snack Bag": "An orange-colored snack bag labeled 'Swing' with green and yellow text, containing orange-colored ridged snack pieces, opened and poured into a white bowl.",
+                "Euté Snack Bag": "A blue-colored snack bag labeled 'Euté' with yellow and white text, containing pale yellow wavy potato snacks, opened and poured into the same bowl.",
+                "White Bowl": "A white ceramic bowl with a blue floral pattern, used to receive the contents of both snack bags.",
+                "White Table": "A plain white table surface serving as the workspace for the snack bag manipulation and pouring demonstration.",
+                "White T-Shirt with Abstract Design": "A short-sleeved white t-shirt featuring a colorful, abstract, pixelated design, worn by Huu Trung during the snack bag segment.",
+                "Gray Shorts": "A pair of gray, heathered shorts worn by Huu Trung during the snack bag segment."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 42,
+            "caption": "The video segment begins with Huu Trung, wearing a white t-shirt with a colorful abstract design and gray shorts, standing behind a white table. He holds two snack bags — a blue 'Euté' bag and an orange 'Swing' bag — and proceeds to open them one by one. First, he opens the 'Euté' bag, revealing pale yellow wavy potato snacks, then places it aside. Next, he opens the 'Swing' bag, which contains orange-colored ridged snack pieces, and pours its contents into a white ceramic bowl with a blue floral pattern. The pouring action is deliberate and clear, showcasing the snacks as they fall into the bowl. After emptying both bags, the scene transitions to a static white screen with bold black text reading 'THANKS FOR WATCHING LIKE AND SUBSCRIBE,' which remains on screen for the remainder of the segment. The lighting is bright and even, maintaining a clean, minimalist aesthetic throughout. The text 'Huu Trung' is consistently displayed in the top left corner, identifying the performer.",
+            "active_entities": {
+                "Huu Trung": "A person wearing a white t-shirt with a colorful abstract design and gray shorts, standing behind a white table, manipulating two snack bags and pouring their contents into a bowl.",
+                "Swing Snack Bag": "An orange-colored snack bag labeled 'Swing' with green and yellow text, containing orange-colored ridged snack pieces, opened and poured into a white bowl.",
+                "Euté Snack Bag": "A blue-colored snack bag labeled 'Euté' with yellow and white text, containing pale yellow wavy potato snacks, opened and poured into the same bowl.",
+                "White Bowl": "A white ceramic bowl with a blue floral pattern, used to receive the contents of both snack bags.",
+                "White Table": "A plain white table surface serving as the workspace for the snack bag manipulation and pouring demonstration.",
+                "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer."
+            },
+            "discovered_new_entities": {
+                "Text 'THANKS FOR WATCHING LIKE AND SUBSCRIBE'": "Bold black text on a white background, appearing after the snack pouring sequence, serving as a closing message to the audience."
+            }
+        }
+    ],
+    "entity_library": {
+        "Huu Trung": "A person wearing a white t-shirt with a colorful abstract design and gray shorts, standing behind a white table, manipulating two snack bags and pouring their contents into a bowl.",
+        "Sharpie Marker": "A black and white Sharpie marker, held and manipulated by Huu Trung, with visible branding on the barrel, used for demonstration or preparation for writing. It is only present in the first part of the video.",
+        "BIC Lighter": "A red BIC lighter, held in Huu Trung's right hand, used to ignite pieces of white paper and an orange cloth as part of the magic trick, creating the illusion of burning and restoration.",
+        "U.S. Dollar Bill": "A U.S. dollar bill being folded multiple times by Huu Trung, first lengthwise, then horizontally, and finally cut vertically into two halves using blue-handled scissors. The bill is shown in clear detail, with visible serial numbers and design elements, as it is manipulated against both a white background and a textured gray wall.",
+        "White Paper": "A small piece of white paper, held in Huu Trung’s hands, crumpled to reveal the U.S. dollar bill beneath it, used as a cover or prop in the initial phase of the trick.",
+        "Orange Cloth": "A small, folded orange cloth, revealed after burning a piece of white paper, which is then also set on fire as part of the magic sequence, appearing briefly before being burned again.",
+        "Plastic Pepsi Bottle": "An empty, transparent plastic bottle with a blue Pepsi label, placed on a white table and used to suspend an orange on a stick inside it, creating the illusion of floating.",
+        "Orange on Stick": "A small orange attached to a wooden stick, used by Huu Trung to demonstrate a balancing trick inside the plastic Pepsi bottle, appearing to float without touching the sides or bottom.",
+        "Maroon Button-Up Shirt": "A long-sleeved maroon button-up shirt worn by Huu Trung, replacing his earlier yellow and black t-shirt, indicating a change in setting or segment.",
+        "Black Metal Railing": "A black metal railing with horizontal bars, visible in the outdoor setting, serving as a backdrop for the hand illusion performed by Huu Trung.",
+        "White Wall Background": "A plain white wall in the initial scene, providing a neutral backdrop for the orange illusion, later replaced by a textured gray wall for the burning trick segment.",
+        "Dark Blue Flamingo Shirt": "A short-sleeved dark blue button-up shirt with a repeating pattern of pink flamingos and palm trees, worn by Huu Trung during the indoor string trick segment.",
+        "White String": "A thin, white string is not present in this segment; instead, black thread is used. The description is updated to reflect the actual prop used: a thin black thread used to form a loop around the pencil.",
+        "White Plate": "A small, white ceramic plate with a wavy rim, held by Huu Trung during the coin trick, used to display and conceal coins as part of the illusion.",
+        "Coins": "Several small, metallic coins of varying sizes and colors, placed on the white plate by Huu Trung, which vanish and are later revealed to have been hidden or produced from behind the plate.",
+        "Blue and White Striped T-Shirt": "A short-sleeved t-shirt with horizontal blue and white stripes, featuring a small South Korean flag patch on the left chest, worn by Huu Trung during the Sprite can levitation trick.",
+        "Red Cap": "A red baseball cap with a black brim and 'ecko unltd.' branding on the front, worn by Huu Trung during the first part of the video.",
+        "Clear Plastic Cup": "A transparent plastic cup, initially filled with a white liquid (likely milk), later cut into two sections using a utility knife and scissors, and used to hold milk poured from a carton.",
+        "White Straw": "A thin, white plastic straw inserted into the clear plastic cup, used for sipping the white liquid in the initial segment.",
+        "Orange Utility Knife": "A small orange-handled utility knife used to cut open both the orange 'Swing' and blue 'Euté' snack bags, placed on the white table after use.",
+        "Blue-Handled Scissors": "A pair of scissors with blue handles, used to cut the black thread to the desired length for the trick.",
+        "Red Cutting Mat": "A rectangular red mat placed on a white surface, serving as the workspace for cutting and assembling the plastic cups.",
+        "Milk Carton": "A blue and white carton used to pour milk into the larger plastic cup section during the assembly process.",
+        "Yellow Rubber Band": "A thin, yellow rubber band being manipulated between fingers to create loops and illusions, central to the trick being performed.",
+        "Gray Striped T-Shirt": "A short-sleeved gray t-shirt with fine horizontal stripes, worn by Huu Trung during the burning and restoration trick segment, replacing his earlier blue button-up shirt.",
+        "Black Polo Shirt": "A short-sleeved black polo shirt with a small graphic on the chest, worn by Huu Trung during the balloon and can transformation tricks.",
+        "Yellow Balloon": "A yellow balloon with a smiley face design, initially shown inflated, then transformed into a yellow can; later, a different yellow balloon with 'Happy Birthday' text is inflated and popped.",
+        "Green Balloon": "A green balloon with white patterns, including text and symbols, which transforms into a green can.",
+        "Yellow Can": "A yellow can, resembling a beverage can, revealed after the yellow balloon vanishes.",
+        "Green Can": "A green Sprite can with a leafy design, held and manipulated by Huu Trung to create the illusion of floating above his palm. The can is later shown in close-up as he peels off a white sticker from the back, revealing the barcode and nutritional information underneath.",
+        "Yellow Hand Pump": "A yellow hand pump used to inflate the yellow 'Happy Birthday' balloon.",
+        "Pin": "A small metallic pin used to pop the inflated yellow balloon, causing it to deflate instantly.",
+        "Blue Patterned Shirt": "A short-sleeved blue button-up shirt with nautical-themed patterns, including ships, compasses, and fleur-de-lis, worn by Huu Trung during the trick.",
+        "King of Spades Playing Card": "A standard playing card, the King of Spades, shown face-up and then cut with an orange utility knife on a white surface. Despite the cut, it appears intact when held again, suggesting a magic trick involving restoration or misdirection.",
+        "White Surface": "A plain white surface used as a background during the close-up shot of the card being cut, providing high contrast for clear visibility of the action.",
+        "White Sticker": "A small white sticker affixed to the back of the green Sprite can, which is peeled off in the final close-up shot to reveal the barcode and nutritional information underneath.",
+        "Light Blue Surgical Mask": "A disposable light blue surgical mask with white ear loops, cut and reconfigured by Huu Trung using blue-handled scissors and a white string to form a connected loop structure.",
+        "Yellow Pencil": "A thin, yellow pencil manipulated between fingers, made to vanish and reappear as part of a hand illusion.",
+        "Black Nike T-Shirt": "A short-sleeved black t-shirt with a subtle geometric pattern and a white Nike logo on the chest, worn by Huu Trung during the pencil trick segment.",
+        "Blue T-Shirt": "A short-sleeved blue t-shirt worn by Huu Trung during the coin and glass magic trick segment.",
+        "Silver Coin": "A metallic, round coin used in the magic trick, placed under a clear glass on a red mat, appearing to vanish and then reappearing in Huu Trung’s hand.",
+        "Clear Glass": "A transparent, cylindrical glass used to cover the silver coin during the magic trick, creating the illusion of vanishing and reappearing on a red mat.",
+        "Red Mat": "A rectangular red mat placed on a white table, serving as the surface for the coin and glass magic trick.",
+        "Rubik’s Cube": "A 3x3 mechanical puzzle cube with colorful squares, manipulated by Huu Trung to appear scrambled and then solved, only to be scrambled again, creating an illusion of transformation.",
+        "Orange": "A small, round citrus fruit, held in Huu Trung's mouth at the beginning of the video, manipulated with hand gestures to create the illusion of floating or being suspended, with a wooden stick inserted into it for balancing purposes.",
+        "Text 'Huu Trung'": "White text in the top left corner of the screen, consistently displayed throughout the video, identifying the performer.",
+        "Black Smartphone": "A black smartphone with a calculator app open, held by Huu Trung, used to repeatedly input '99,999 ÷ 9' to display the result '11,111', with the screen turning off and on between demonstrations.",
+        "Textured Gray Wall": "A textured gray wall serving as the backdrop for the latter part of the folding and cutting sequence, providing a neutral background that contrasts with Huu Trung’s yellow and black t-shirt and the white dollar bill.",
+        "White Background": "A plain white surface used as the backdrop for the initial part of the folding sequence, offering a clean and neutral setting that highlights the bill and Huu Trung’s hands.",
+        "Blue Foam Balls": "Two small, round, blue foam balls held and manipulated by Huu Trung, appearing to vanish and reappear through sleight of hand and misdirection during the magic trick.",
+        "Orange Pencil": "A thin, orange-colored pencil with a black tip, used as the central prop in the string trick, with black thread wrapped around its upper end and later tied into a loop.",
+        "Teal Pencil": "A thin, teal-colored pencil with a white tip, used alongside the orange pencil in a hand trick to create the illusion of interlocking or vanishing.",
+        "White Plastic Straw": "A thin, white plastic straw, initially bent at an angle, manipulated by Huu Trung to appear straight and then bent in various directions—vertically, horizontally, and diagonally—through finger movements, creating an illusion of flexibility and transformation. It is later placed across his palm and removed to reveal an empty hand.",
+        "Silver Ring": "A metallic, circular ring used in a sleight-of-hand illusion, appearing and disappearing between Huu Trung’s fingers, initially shown on his left index finger, then transferred to his right hand, and later seemingly vanishing and reappearing.",
+        "AQUAFINA Water Bottle": "A clear plastic bottle with a blue label reading 'AQUAFINA', held in Huu Trung’s right hand during the second part of the video, used to perform a floating cap illusion.",
+        "White Cap": "A small, white plastic cap from the AQUAFINA bottle, removed by Huu Trung and made to appear to float or stick to his shirt, defying gravity as he points at it with his index finger.",
+        "Playing Card (3 of Diamonds)": "A standard playing card, the 3 of Diamonds, with black threads woven through it, held and manipulated by Huu Trung to demonstrate the use of invisible thread in magic tricks.",
+        "Invisible Thread": "A very thin, nearly invisible black thread, shown stretched between fingers and attached to the playing card, used for magic tricks to create the illusion of suspension or levitation.",
+        "Wax": "Small white wax pieces in a clear plastic bag, held and manipulated by Huu Trung to attach to the invisible thread, likely for securing or anchoring the thread in magic tricks.",
+        "Spool of Black Thread": "A small spool of black thread with wooden ends, unspooled and cut to prepare a short length for the trick, used to create a loop around the pencil.",
+        "Text 'YOU CAN BUY IT AT MAGIC SHOP'": "Black text appearing on screen to indicate that the invisible thread and wax are available for purchase at magic shops.",
+        "Text 'INVISIBLE THREAD' and 'WAX'": "Black text labels appearing on screen to identify the two key props being demonstrated.",
+        "Text 'IT'S VERY THIN, YOU CAN'T SEE'": "Black text appearing on screen to emphasize the thinness and invisibility of the thread.",
+        "Black Thread": "A thin, black thread used to form a loop around the orange pencil, manipulated by Huu Trung to create a string trick illusion.",
+        "White Bowl": "A white ceramic bowl with a blue floral pattern, used to receive the contents of both snack bags.",
+        "Swing Snack Bag": "An orange-colored snack bag labeled 'Swing' with green and yellow text, containing orange-colored ridged snack pieces, opened and poured into a white bowl.",
+        "Euté Snack Bag": "A blue-colored snack bag labeled 'Euté' with yellow and white text, containing pale yellow wavy potato snacks, opened and poured into the same bowl.",
+        "White Table": "A plain white table surface serving as the workspace for the snack bag manipulation and pouring demonstration.",
+        "Gray Shorts": "A pair of gray, heathered shorts worn by Huu Trung during the snack bag segment.",
+        "White T-Shirt with Abstract Design": "A short-sleeved white t-shirt featuring a colorful, abstract, pixelated design, worn by Huu Trung during the snack bag segment.",
+        "Text 'THANKS FOR WATCHING LIKE AND SUBSCRIBE'": "Bold black text on a white background, appearing after the snack pouring sequence, serving as a closing message to the audience."
+    }
+}

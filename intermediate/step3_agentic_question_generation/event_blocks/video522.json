@@ -1,0 +1,871 @@
+{
+  "video_id": "video522",
+  "audio_id": "video522_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 7,
+      "summary": "At the All-Star Mascot Competition on a brightly lit blue indoor rink, mascots like Bernie, Harvey the Hound, Nordy, Fin, Victor E. Green, and Howler were introduced with cheers and festive music, while Mick E. Moose, Gnash, Hunter, SJ Sharkie, and Bailey showcased their skills with skates, dances, handstands, cartwheels, and backflips, all captured by photographers and displayed on an overhead screen. Buoy made a dynamic entrance with slides and dancing, Chance performed cartwheels and high-kicks, Louie skated and waved, and Tommy Hawk, the first mascot in the Mascot Hall of Fame, entered with confetti. Sabretooth, Sparky, Iceburgh, Slapshot, Spartacat, and Blades also performed routines, with a referee mascot occasionally appearing near the Netted Goal Structure. The event featured a mascot parade with Blades, NJ Devil, Stormy, Youppi!, Stinger, and Gritty, all wearing '00' jerseys and performing energetic moves, with Youppi! noted as the only mascot to perform in two professional leagues. Thunderbug and Stanley C. Panther also showcased their talents, and Chester the Cheetah joined as a special guest referee, performing a high-kick and slide. The competition involved a huddle of mascots including Gritty, Sparky, Blades, Spartacat, Youppi!, Thunderbug, and Stanley C. Panther, who then prepared for three hockey games with a running clock, as a referee mascot and photographers documented the action.",
+      "involved_entities": {
+        "Crowd Spectators": {
+          "description": "A large group of fans behind barriers, actively watching and cheering, adding to the lively atmosphere, visible throughout the segment.",
+          "attribute": "visual"
+        },
+        "Howler": {
+          "description": "A gray wolf mascot in an Arizona Coyotes jersey, moving dynamically and engaging with the audience. He is introduced by an announcer as 'Howler' from 'the wild, wild west of the Arizona Coyotes', prompting cheers as he enters the rink.",
+          "attribute": "audio-visual"
+        },
+        "Fin": {
+          "description": "A black and white orca mascot in a Vancouver Canucks jersey, skating and waving to the crowd. He is introduced by an announcer as 'Fin' from the 'Vancouver Canucks', with a playful note that 'his flipper's tired' from traveling 'all the way here', followed by crowd applause.",
+          "attribute": "audio-visual"
+        },
+        "Bernie": {
+          "description": "A large, white, bear-like mascot in a Colorado Avalanche jersey with 'BERNIE' and number '1' on the back, visible near the rink’s side.",
+          "attribute": "visual"
+        },
+        "Referee Mascot": {
+          "description": "A small, orange and black striped mascot resembling a referee, positioned near the goal, holding a whistle and interacting with the crowd, then walking toward the group, with the announcer explicitly asking the audience to 'root for the ref' and later mentioning 'zebras' in the context of hockey games.",
+          "attribute": "audio-visual"
+        },
+        "Photographers": {
+          "description": "Several individuals crouched near the rink's edge, capturing photos and videos with professional cameras, remaining in position throughout the segment.",
+          "attribute": "visual"
+        },
+        "Overhead Screen": {
+          "description": "A large, suspended digital screen displaying animated mascot graphics, contributing to the event's visual spectacle, visible above the rink.",
+          "attribute": "visual"
+        },
+        "Harvey the Hound": {
+          "description": "A white dog mascot with a red collar and a Calgary Flames jersey, waving and moving energetically on the rink. He is introduced by an announcer as 'Harvey' from the 'Calgary Flames', with the crowd cheering his name.",
+          "attribute": "audio-visual"
+        },
+        "Victor E. Green": {
+          "description": "A green, furry, alien-like mascot in a Dallas Stars jersey, standing near the rink’s edge and gesturing animatedly.",
+          "attribute": "visual"
+        },
+        "Nordy": {
+          "description": "A large, orange bear mascot wearing a Minnesota Wild jersey with 'NORDY' and number '1800' on the back, performing playful movements on the rink. He is introduced by an announcer as 'rugged and lovable' from the 'Minnesota Wild', prompting cheers from the audience.",
+          "attribute": "audio-visual"
+        },
+        "SJ Sharkie": {
+          "description": "A shark mascot in a San Jose Sharks jersey with '1' on the back, skating and waving to the crowd, introduced by an announcer as 'S.J. Sharkie' from the San Jose Sharks to crowd cheers.",
+          "attribute": "audio-visual"
+        },
+        "Gnash": {
+          "description": "A saber-toothed tiger mascot in a Nashville Predators jersey with '00' on the back, dancing and waving energetically, introduced by an announcer as 'Gnash' from the Nashville Predators to crowd cheers.",
+          "attribute": "audio-visual"
+        },
+        "Mick E. Moose": {
+          "description": "A moose mascot in a Winnipeg Jets jersey with '00' on the back, performing slides and skating across the rink, introduced by an announcer as 'Moose' from the Winnipeg Jets to crowd cheers.",
+          "attribute": "audio-visual"
+        },
+        "Hunter": {
+          "description": "A wolf mascot in an Edmonton Oilers jersey with '72' on the back, performing a handstand and cartwheel, introduced by an announcer as 'Hunter' from the Edmonton Oilers to crowd cheers.",
+          "attribute": "audio-visual"
+        },
+        "Bailey": {
+          "description": "A lion mascot in a Los Angeles Kings jersey with '1' on the back, performing a backflip, introduced by an announcer as 'Bailey' from the Los Angeles Kings to crowd cheers.",
+          "attribute": "audio-visual"
+        },
+        "Chance": {
+          "description": "A yellow and black dog-like mascot in a Vegas Golden Knights jersey with number '00', executing cartwheels and high-kicks, introduced by the announcer as being from 'the Vegas Golden Knights' and noted for showing off his 'Stanley Cup ring', which the announcer calls 'a big one'.",
+          "attribute": "audio-visual"
+        },
+        "Louie": {
+          "description": "A blue and yellow bear mascot in a St. Louis Blues jersey with number '0', skating and waving to the crowd, introduced by the announcer as 'cute, cuddly, and musical' from 'the Gateway City' and 'the St. Louis Blues'.",
+          "attribute": "audio-visual"
+        },
+        "Netted Goal Structure": {
+          "description": "A white netted goal on the right side of the rink, resembling a hockey goal, adding to the sports-themed environment.",
+          "attribute": "visual"
+        },
+        "Tommy Hawk": {
+          "description": "A black and red hawk mascot in a Chicago Blackhawks jersey with number '1', dancing under falling confetti, introduced by the announcer as 'the first mascot inducted into the Mascot Hall of Fame' and 'the Western Conference captain', with the sound of confetti accompanying his entrance.",
+          "attribute": "audio-visual"
+        },
+        "Buoy": {
+          "description": "A blue-haired, fish-like mascot in a Seattle Kraken jersey with number '0', seen near the rink’s edge.",
+          "attribute": "visual"
+        },
+        "All-Star Mascot Competition Rink": {
+          "description": "A blue indoor rink with white boards, red boundary lines, and 'COLLECT THE BEST' and 'All-Star' branding, serving as the stage for the mascot performances, with confetti scattered across the surface.",
+          "attribute": "visual"
+        },
+        "Sabretooth": {
+          "description": "A green and yellow saber-toothed tiger mascot in a Buffalo Sabres jersey with number '00', introduced by the announcer as 'Sabretooth' from the Buffalo Sabres, performing slides and waving energetically to the cheering crowd.",
+          "attribute": "audio-visual"
+        },
+        "Slapshot": {
+          "description": "A red, white, and blue eagle mascot in a Washington Capitals jersey with number '00', introduced by the announcer as 'Slapshot' from the Washington Capitals, described as 'the bird brain behind the Washington Capitals,' performing a backflip and energetic dance moves.",
+          "attribute": "audio-visual"
+        },
+        "Spartacat": {
+          "description": "An orange-haired cat mascot in an Ottawa Senators jersey with number '00', performing a dance and slide, then kneeling in the group huddle.",
+          "attribute": "visual"
+        },
+        "Blades": {
+          "description": "A brown bear mascot in a Boston Bruins jersey with number '00', performing energetic slides and arm gestures, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Sparky": {
+          "description": "A blue and orange fox mascot in a New York Islanders jersey with number '00', skating and performing dynamic movements before joining the huddle.",
+          "attribute": "visual"
+        },
+        "Iceburgh": {
+          "description": "A black and yellow penguin mascot in a Pittsburgh Penguins jersey with number '00', introduced by the announcer as 'Iceburgh' from the Pittsburgh Penguins, described as 'the bird with a goofy smile from the Steel City, the land of three rivers,' dancing and executing high-kicks.",
+          "attribute": "audio-visual"
+        },
+        "Youppi!": {
+          "description": "An orange and blue bear mascot in a Montréal Canadiens jersey with '00' and 'YUPPI' on the back, dancing and waving enthusiastically, then joining the huddle.",
+          "attribute": "visual"
+        },
+        "Stormy": {
+          "description": "A moose mascot in a Carolina Hurricanes jersey with '00', performing a slide and waving, described by the announcer as \"the pig with the fun hockey team\" and \"a ham.\"",
+          "attribute": "audio-visual"
+        },
+        "NJ Devil": {
+          "description": "A red devil mascot in a New Jersey Devils jersey with '00' and 'NJ DEVIL' on the back, skating with dynamic movements, introduced by the announcer as \"an expert on the glass\" who \"likes to be found in the face\" and \"spends his time on TikTok.\"",
+          "attribute": "audio-visual"
+        },
+        "Stinger": {
+          "description": "A green, alien-like mascot in a Columbus Blue Jackets jersey with '00', performing animated gestures, introduced by the announcer as \"the first ever most viable mascot\" and \"the buck with an attitude.\"",
+          "attribute": "audio-visual"
+        },
+        "Gritty": {
+          "description": "An orange, furry, monster-like mascot in a Philadelphia Flyers jersey with '00' and 'GRITTY' on the back, sliding and waving energetically during the group huddle, and notably identified by a crowd member shouting his name.",
+          "attribute": "audio-visual"
+        },
+        "Thunderbug": {
+          "description": "A blue and yellow bug mascot in a Tampa Bay Lightning jersey with '00' and 'THUNDERBUG' on the back, performing dynamic slides and movements, then participating in the group huddle.",
+          "attribute": "visual"
+        },
+        "Stanley C. Panther": {
+          "description": "A tan panther mascot in a Florida Panthers jersey with '00' and 'STANLEY' on the back, striking poses and waving with enthusiasm, then joining the huddle.",
+          "attribute": "visual"
+        },
+        "Chester the Cheetah": {
+          "description": "An orange and black cheetah mascot in a Cheetos-themed outfit with '00' on the back, performing a high-kick and sliding with flair, introduced by a speaker as the 'spokescat for crunchy cheesy goodness' and receiving a massive crowd cheer.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video opens with an energetic indoor event, likely a mascot competition, where NHL team mascots are lined up along a rink's edge, high-fiving and interacting with an excited crowd. The atmosphere is immediately lively with general chatter and cheers, punctuated by a voice saying, 'So you can see it a little bit there. There you go.' An announcer's voice then begins introducing the mascots, starting with Bernie, the large white bear-like mascot in a Colorado Avalanche jersey, described as 'the proud mascot of the Avalanche' from 'the frozen ponds of the Rocky Mountains,' which elicits loud cheers and a swell of festive music. The camera pans to reveal the rink, covered in blue flooring and surrounded by protective netting, with a large crowd of spectators behind barriers and a large overhead screen displaying animated mascot graphics. As the mascots enter the rink one by one, performing playful actions like skating, waving, and posing for photographers, the announcer continues. Harvey the Hound, the white dog mascot of the Calgary Flames, is introduced to cheers of 'Harvey!' Next, Nordy, the orange bear mascot of the Minnesota Wild, is hailed as 'rugged and lovable,' prompting more crowd noise. Fin, the black and white orca mascot of the Vancouver Canucks, is introduced with a humorous note about his 'tired flipper' from traveling 'all the way here,' followed by applause. Victor E. Green, the green alien-like mascot of the Dallas Stars, is presented as being from 'the Lone Star State and the outer limits of outer space,' drawing enthusiastic responses. Finally, Howler, the gray wolf mascot of the Arizona Coyotes, is welcomed from 'the wild, wild west,' as the crowd continues to cheer amidst the festive music. The bright lighting and spotlights highlight the mascots' movements, and banners reading 'COLLECT THE BEST' reinforce the event's promotional theme, all contributing to a celebratory mood.",
+        "The minute opens with an energetic, upbeat track playing as a lively mascot event unfolds on a blue rink inside a large indoor arena. Bright overhead lights illuminate the scene, with a large suspended digital screen displaying animated mascot graphics. An announcer's voice introduces the mascots, starting with a call-out to \"Winnipeg, Manitoba,\" then exclaiming, \"We love this guy! From the Winnipeg Jets, Moose!\" as Mick E. Moose, a moose mascot in a Winnipeg Jets jersey, skates and slides across the rink to the enthusiastic cheers of the crowd. The announcer continues, \"From Music City, a miracle in his own right. Give it up for Gnash from the Nashville Predators!\" and Gnash, a saber-toothed tiger mascot, performs a playful dance. Next, the announcer hypes up \"Hunter from the Edmonton Oilers!\" as Hunter, a wolf mascot, executes a handstand and cartwheel. Bernie of the Colorado Avalanche is seen high-fiving fans from the side, while photographers crouch along the rink’s edge, capturing the action. The announcer then introduces \"S.J. Sharkie from the San Jose Sharks!\" as SJ Sharkie skates and waves. Finally, the announcer calls out \"Bailey from the Los Angeles Kings!\" as Bailey, a lion mascot, performs a backflip. A referee mascot in orange and black stripes stands near the goal, and banners reading 'COLLECT THE BEST' border the rink, all contributing to the festive and dynamic atmosphere as the crowd's cheers and applause are audible throughout the segment.",
+        "The minute opens on a vibrant blue rink, bustling with an NHL All-Star mascot competition, surrounded by cheering spectators and photographers. Upbeat, energetic background music plays as the announcer introduces the first mascot, a white and black character performing a backflip. The crowd's excitement builds as the announcer proclaims, \"Our newest mascot from the great Northwest, the Seattle Kraken!\" leading to the grand entrance of Buoy, a blue-haired, fish-like character in a teal jersey, sliding and dancing energetically to loud cheers. Next, the announcer highlights a mascot who \"never passes on a moment to show off his Stanley Cup ring,\" introducing Chance from the Vegas Golden Knights, a yellow and black dog-like mascot who performs cartwheels and high-kicks, with the announcer remarking, \"Look at that ring, that's a big one.\" The competition continues with Louie from the St. Louis Blues, a blue and yellow bear mascot described as \"cute, cuddly, and musical\" from \"the Gateway City,\" who skates and waves to the crowd. The atmosphere peaks as Tommy Hawk from the Chicago Blackhawks, a black and red hawk mascot, makes a dynamic entrance under a shower of confetti, dancing as the announcer proudly declares him \"the first mascot inducted into the Mascot Hall of Fame\" and \"the Western Conference captain,\" adding, \"He's a contender!\" The segment concludes with Sabretooth from the Buffalo Sabres, a green and yellow saber-toothed tiger, sliding and waving, as the announcer begins his introduction, calling him \"the cat from Buffalo.\"",
+        "The video captures a lively All-Star Mascot Competition on a blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, where various NHL team mascots perform energetic routines in front of a cheering crowd. Upbeat, driving music plays throughout, punctuated by an announcer's enthusiastic introductions and crowd applause. The sequence begins with Sabretooth, the green and yellow saber-toothed tiger mascot of the Buffalo Sabres, introduced by the announcer, performing a slide and waving. Next, Sparky, the blue and orange fox mascot of the New York Islanders, is introduced, skating dynamically across the rink. Iceburgh, the black and yellow penguin mascot of the Pittsburgh Penguins, follows, introduced as 'the bird with a goofy smile from the Steel City, the land of three rivers,' performing a playful dance and high-kick. Slapshot, the red, white, and blue eagle mascot of the Washington Capitals, is then introduced as 'the bird brain behind the Washington Capitals,' performing a spirited routine including a backflip. A referee mascot in a black-and-white striped uniform briefly appears near the Netted Goal Structure, holding a whistle and interacting with the crowd. Spartacat, the orange-haired cat mascot of the Ottawa Senators, introduced as being from 'Canada's Capital,' then takes the spotlight with a dance and slide. Finally, Blades, the brown bear mascot of the Boston Bruins, introduced as 'shipping all the way up from Boston' and 'apparently does not hibernate,' performs a series of energetic moves. Throughout the event, photographers crouch near the rink’s edge capturing the action, confetti is scattered across the rink, and the Overhead Screen displays animated graphics, all contributing to the festive atmosphere.",
+        "The video captures a lively mascot parade on a blue indoor rink, part of the All-Star Mascot Competition, with confetti scattered across the floor and a crowd of spectators cheering enthusiastically from behind barriers. Upbeat, driving electronic music plays throughout, punctuated by the crowd's cheers and an energetic announcer. The sequence begins with Blades, the brown bear mascot of the Boston Bruins, wearing a black and gold jersey with '00' on the back, performing energetic slides and arm gestures as the announcer welcomes \"the Blades\" to Toronto. He is followed by NJ Devil, the red devil mascot of the New Jersey Devils, in a red jersey with '00' and 'NJ DEVIL' on the back, who skates with dynamic movements, introduced by the announcer as \"an expert on the glass\" who \"likes to be found in the face\" and \"spends his time on TikTok.\" Next, Stormy, the moose mascot of the Carolina Hurricanes, in a red and blue jersey with '00', performs a slide and waves, described by the announcer as \"the pig with the fun hockey team\" and \"a ham.\" Youppi!, the orange and blue bear mascot of the Montréal Canadiens, wearing a red jersey with '00' and 'YUPPI' on the back, dances and waves with enthusiasm, celebrated by the announcer as \"the only mascot to perform in two professional leagues.\" Stinger, the green alien-like mascot of the Columbus Blue Jackets, in a teal jersey with '00', performs animated gestures, introduced as \"the first ever most viable mascot\" and \"the buck with an attitude.\" Finally, Gritty, the orange, furry, monster-like mascot of the Philadelphia Flyers, in a red jersey with '00' and 'GRITTY' on the back, slides and waves energetically, as the announcer begins to introduce him as \"the mascot who has his own security detail\" before the segment concludes. Throughout, photographers crouch near the rink’s edge capturing the action, while the 'COLLECT THE BEST' and 'All-Star' branding is visible on the boards, all contributing to the festive atmosphere under bright lighting.",
+        "The minute opens on a vibrant blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, where a mascot competition unfolds before a cheering crowd. An announcer's voice declares, \"We don't know what he is or why he is, but we're stuck with him. It is... Gritty!\" as Gritty, the orange, furry monster mascot of the Philadelphia Flyers, slides and waves energetically to a loud roar from the crowd. Upbeat music continues as the announcer then introduces, \"There's thunder from the Tampa Bay Lightning, Thunderbug!\" and the blue and yellow bug mascot performs dynamic movements and slides, met with more cheers. Next, the announcer proclaims, \"You wanted it and you got it from the Sunshine State... from the Florida Panthers, Stanley C. Panther!\" as the tan panther mascot, wearing a red '00' jersey, enters, striking poses and waving to enthusiastic applause. The atmosphere remains festive with confetti scattered on the rink and bright overhead lighting. The announcer then builds excitement for a \"special guest referee,\" the \"only spokescat for crunchy cheesy goodness, Chester the Cheetah!\" The orange and black cheetah mascot performs a high-kick and slides with flair, eliciting a massive cheer, followed by the announcer's quip, \"That is one big bag of Cheetos right there.\" Throughout, various other mascots like Victor E. Green, Bernie, and Buoy are visible near the rink's edge, while referees in striped uniforms and photographers crouched along the boards capture the action. The segment concludes with the announcer building anticipation for the \"Toronto Maple Leafs,\" as the crowd's excitement swells.",
+        "The scene opens at the All-Star Mascot Competition on a brightly lit blue indoor rink, scattered with confetti and branded with 'COLLECT THE BEST' and 'All-Star' logos. An announcer's voice introduces \"Carlton,\" the \"Eastern Conference Captain,\" to enthusiastic crowd cheers and upbeat background music, setting a celebratory tone. A large group of mascots, including Gritty (an orange monster in a Flyers jersey), Sparky (a blue fox in an Islanders jersey), Blades (a brown bear in a Bruins jersey), Spartacat (an orange-haired cat in a Senators jersey), Youppi! (an orange bear in a Canadiens jersey), Thunderbug (a blue bug in a Lightning jersey), and Stanley C. Panther (a tan panther in a Panthers jersey), gather in a tight huddle at center ice. They are seen kneeling, sitting, and interacting playfully, some waving or gesturing to the visibly engaged crowd behind the barriers. A referee mascot in black and white stripes and several photographers capture the moment. The announcer continues, detailing the game format of \"three hockey games\" with \"three periods\" and a \"10 minutes running clock,\" before encouraging \"young hockey fans\" and commenting on the mascots, calling one \"so cute\" and noting another \"is gonna kiss you on the head.\" He then asks, \"Somebody's gotta root for the ref, don't you think?\" as the Referee Mascot is visible. An overhead digital screen displays animated mascot graphics, adding to the festive atmosphere. Amidst the lively sounds, a crowd member distinctly shouts \"Gritty!\" as the mascots begin to disperse, signaling the end of their group celebration."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 8,
+      "end_minute": 12,
+      "summary": "The All-Star Mascot Competition erupted on a vibrant blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, amidst upbeat electronic music and enthusiastic crowd cheers punctuated by 'Ooooh!' sounds. Mascots including Youppi!, Sparky, Gritty, Thunderbug, Stanley C. Panther, Bernie, Harvey the Hound, Nordy, Fin, Victor E. Green, Howler, Mick E. Moose, Gnash, Hunter, SJ Sharkie, Bailey, Buoy, Chance, Louie, Tommy Hawk, Sabretooth, Iceburgh, Slapshot, Spartacat, Blades, NJ Devil, Stormy, Youppi!, Stinger, and Chester the Cheetah performed dynamic synchronized and individual routines, executing slides, cartwheels, high-kicks, and dance moves across the confetti-strewn surface. An announcer provided lively commentary, encouraging cheers, referencing Chester Cheetah, and playfully discussing game scenarios like penalties and goals. During a floor hockey game, Louie scored for the West, followed by SJ Sharkie, and then Harvey the Hound, establishing a 3-0 lead for the Western Conference. The mascots engaged in playful hockey action, with a referee mascot overseeing the game, and overhead screens displaying animated graphics. After each goal, mascots converged in celebratory group huddles, performing animated gestures and slides, while photographers captured the joyful, theatrical event under bright arena lights and surrounded by NHL team banners.",
+      "involved_entities": {
+        "Crowd Spectators": {
+          "description": "A large group of fans behind barriers, actively watching and cheering, their groans and cheers heard in response to plays and the announcer's prompts, adding to the lively atmosphere, visible throughout the segment.",
+          "attribute": "audio-visual"
+        },
+        "Sparky": {
+          "description": "A blue and orange fox mascot in a New York Islanders jersey with number '00', performing dynamic movements and making a \"great stop\" as noted by the announcer, before joining the huddle.",
+          "attribute": "audio-visual"
+        },
+        "Thunderbug": {
+          "description": "A blue and yellow bug mascot in a Tampa Bay Lightning jersey with '00' and 'THUNDERBUG' on the back, performing dynamic slides and movements, then participating in the group huddle.",
+          "attribute": "visual"
+        },
+        "Youppi!": {
+          "description": "An orange and blue bear mascot in a Montréal Canadiens jersey with '00' and 'YUPPI' on the back, dancing and waving enthusiastically, then joining the huddle.",
+          "attribute": "visual"
+        },
+        "Stanley C. Panther": {
+          "description": "A tan panther mascot in a Florida Panthers jersey with '00' and 'STANLEY' on the back, striking poses and waving with enthusiasm, then joining the huddle.",
+          "attribute": "visual"
+        },
+        "Referee Mascot": {
+          "description": "A small, orange and black striped mascot resembling a referee, positioned near the goal, holding a whistle and interacting with the crowd, then walking toward the group and joining the huddle.",
+          "attribute": "visual"
+        },
+        "Overhead Screen": {
+          "description": "A large, suspended digital screen displaying animated mascot graphics, contributing to the event's visual spectacle, visible above the rink.",
+          "attribute": "visual"
+        },
+        "Netted Goal Structure": {
+          "description": "A white netted goal on the right side of the rink, resembling a hockey goal, adding to the sports-themed environment.",
+          "attribute": "visual"
+        },
+        "All-Star Mascot Competition Rink": {
+          "description": "A blue indoor rink with white boards, red boundary lines, and 'COLLECT THE BEST' and 'All-Star' branding, serving as the stage for the mascot performances, with confetti scattered across the surface.",
+          "attribute": "visual"
+        },
+        "Photographers": {
+          "description": "Several individuals crouched near the rink's edge, capturing photos and videos with professional cameras, remaining in position throughout the segment.",
+          "attribute": "visual"
+        },
+        "Gritty": {
+          "description": "An orange, furry, monster-like mascot in a Philadelphia Flyers jersey with '00' and 'GRITTY' on the back, sliding and waving energetically, described by the announcer as \"tough\" and later needing a \"breather,\" while the crowd chants his name, then joining the group huddle.",
+          "attribute": "audio-visual"
+        },
+        "Chance": {
+          "description": "A yellow and black dog-like mascot in a Vegas Golden Knights jersey with number '00', executing cartwheels and high-kicks, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Spartacat": {
+          "description": "An orange-haired cat mascot in an Ottawa Senators jersey with number '00', performing a dance and slide, then kneeling in the group huddle.",
+          "attribute": "visual"
+        },
+        "Gnash": {
+          "description": "A saber-toothed tiger mascot in a Nashville Predators jersey with '00' on the back, dancing and waving energetically, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Iceburgh": {
+          "description": "A black and yellow penguin mascot in a Pittsburgh Penguins jersey with number '00', dancing and executing high-kicks, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Chester the Cheetah": {
+          "description": "An orange and black cheetah mascot in a Cheetos-themed outfit with '00' on the back, performing a high-kick and sliding with flair, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "NJ Devil": {
+          "description": "A red devil mascot in a New Jersey Devils jersey with '00' and 'NJ DEVIL' on the back, skating with dynamic movements, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Victor E. Green": {
+          "description": "A green, furry, alien-like mascot in a Dallas Stars jersey, standing near the rink’s edge and gesturing animatedly, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Stinger": {
+          "description": "A green, alien-like mascot in a Columbus Blue Jackets jersey with '00', performing animated gestures, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "SJ Sharkie": {
+          "description": "A shark mascot in a San Jose Sharks jersey with '1' on the back, skating and waving to the crowd, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Harvey the Hound": {
+          "description": "A white dog mascot with a red collar and a Calgary Flames jersey, actively skating and scoring a goal, mentioned by the announcer as having the ball and later scoring, then joining the group huddle.",
+          "attribute": "audio-visual"
+        },
+        "Fin": {
+          "description": "A black and white orca mascot in a Vancouver Canucks jersey, skating and waving to the crowd, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Bailey": {
+          "description": "A lion mascot in a Los Angeles Kings jersey with '1' on the back, performing a backflip, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Nordy": {
+          "description": "A large, orange bear mascot wearing a Minnesota Wild jersey with 'NORDY' and number '1800' on the back, performing playful movements on the rink, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Sabretooth": {
+          "description": "A green and yellow saber-toothed tiger mascot in a Buffalo Sabres jersey with number '00', performing slides and waving energetically, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Slapshot": {
+          "description": "A red, white, and blue eagle mascot in a Washington Capitals jersey with number '00', performing a backflip and energetic dance moves, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Howler": {
+          "description": "A gray wolf mascot in an Arizona Coyotes jersey, moving dynamically and engaging with the audience, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Mick E. Moose": {
+          "description": "A moose mascot in a Winnipeg Jets jersey with '00' on the back, performing slides and skating across the rink, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Hunter": {
+          "description": "A wolf mascot in an Edmonton Oilers jersey with '72' on the back, performing a handstand and cartwheel, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Buoy": {
+          "description": "A blue-haired, fish-like mascot in a Seattle Kraken jersey with number '0', seen near the rink’s edge, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Blades": {
+          "description": "A brown bear mascot in a Boston Bruins jersey with number '00', performing energetic slides and arm gestures, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Louie": {
+          "description": "A blue and yellow bear mascot in a St. Louis Blues jersey with number '0', skating and waving to the crowd, then scoring a goal and joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Bernie": {
+          "description": "A large, white, bear-like mascot in a Colorado Avalanche jersey with 'BERNIE' and number '1' on the back, visible near the rink’s side, later joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Tommy Hawk": {
+          "description": "A black and red hawk mascot in a Chicago Blackhawks jersey with number '1', dancing under falling confetti, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Stormy": {
+          "description": "A moose mascot in a Carolina Hurricanes jersey with '00', performing a slide and waving, then joining the group huddle.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The All-Star Mascot Competition bursts with energy on a vibrant blue indoor rink, marked with 'COLLECT THE BEST' and 'All-Star' branding, as upbeat, driving background music sets a festive tone. A large audience behind barriers cheers enthusiastically, with distinct 'Ooooh!' sounds punctuating the excitement. NHL team mascots, including Youppi!, Sparky, Gritty, Thunderbug, and Stanley C. Panther, perform dynamic synchronized and individual routines, executing slides, cartwheels, high-kicks, and dance moves across the confetti-strewn rink. An announcer's voice encourages the crowd, stating, \"The more you cheer for your favorite mascot, the more they're gonna play,\" and urging them to \"make some noise for home side,\" emphasizing the desire for \"the whole world to know how loud you are.\" The announcer also playfully references \"Chester Cheetah\" and \"Chester D Cheetah,\" reacting to unseen antics. The mascots engage dynamically with the crowd and each other under bright theatrical lighting, with an overhead screen displaying animated graphics. They eventually gather in a playful group huddle near the center, some kneeling or lying down, while a referee mascot and photographers remain near the rink’s edge, capturing the lively event.",
+        "The segment opens on a vibrant blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, where an energetic mascot performance unfolds to the backdrop of upbeat, electronic music with a strong beat. A male announcer's voice provides a lively commentary, starting with a call to \"Support the save the bees\" and humorously discussing his preference for \"flaming hot Cheetos.\" Initially, a diverse group of NHL mascots, including Bernie, Harvey the Hound, Nordy, Fin, Victor E. Green, Howler, and the Referee Mascot, are scattered across the rink, engaging in playful movements. A large, enthusiastic crowd cheers behind barriers, and photographers are crouched at the rink's edge, capturing the event. As the announcer continues, asking \"Do we have all of our starters out there?\" and mentioning \"a goalie for the Western Conference,\" the mascots converge toward the center, performing synchronized slides, waves, and dance moves amidst scattered confetti. The overhead digital screen displays animated mascot graphics, enhancing the spectacle. The announcer then exclaims, \"Oh, we already have a broken stick,\" and declares, \"We're gonna have a penalty,\" followed by \"It's gonna be four on four,\" as more mascots like Mick E. Moose, Gnash, Hunter, SJ Sharkie, Bailey, Buoy, Chance, Louie, Tommy Hawk, Sabretooth, Sparky, Iceburgh, Slapshot, Spartacat, Blades, NJ Devil, Stormy, Youppi!, Stinger, Gritty, Thunderbug, Stanley C. Panther, and Chester the Cheetah join the group. They interact playfully, with some kneeling or sliding, culminating in a unified group pose as the crowd's cheers blend with the continuous energetic music and the announcer's dynamic play-by-play.",
+        "The segment opens on a vibrant, blue indoor rink branded with 'COLLECT THE BEST' and 'All-Star' logos, set within a bustling convention hall filled with cheering spectators. An announcer humorously remarks, \"we might need that after the game... Just in case of all the flu we got down here,\" followed by a whistle. He then comically struggles with timekeeping, asking, \"Alright, who's keeping... I keeping time? Who's in? I keeping time? I got the time,\" before declaring a \"10 minute one o'clock period.\" The game kicks off with the announcer's \"Ready? Go!\", as mascots in NHL jerseys, including Louie (St. Louis Blues), Bernie (Colorado Avalanche), and Harvey the Hound (Calgary Flames) near the goal, and Nordy (Minnesota Wild), Fin (Vancouver Canucks), and Victor E. Green (Dallas Stars) scattered across the rink, begin their playful, non-competitive hockey action. A referee mascot oversees the fun. The announcer notes, \"Chester Cheetah has dropped the ball,\" quickly correcting himself, \"Let me rephrase that,\" as the play continues with dynamic skating and waving. After an initial \"No goal\" call, the announcer excitedly exclaims, \"Oh! And a goal!\" as Louie scores, confirmed by the on-screen text 'GOAL by Louie, West 1 - East 0'. The announcer then playfully jabs, \"He's doing a better job than Dallas. Thank you, Dallas,\" amidst loud crowd cheers. Confetti rains down, enhancing the festive atmosphere as the mascots, including Mick E. Moose, Gnash, Hunter, SJ Sharkie, Bailey, Buoy, Chance, Tommy Hawk, Sabretooth, Sparky, Iceburgh, Slapshot, Spartacat, Blades, NJ Devil, Stormy, Youppi!, Stinger, Gritty, Thunderbug, and Stanley C. Panther, converge in a celebratory group huddle near the center of the rink, performing slides, high-kicks, and waves. The announcer confirms the score, \"One nothing.\" Overhead screens display animated mascot graphics, while photographers capture the joyful, theatrical event.",
+        "The lively All-Star Mascot Competition unfolds on a blue indoor rink, branded with 'All-Star' and 'COLLECT THE BEST' logos and scattered with confetti, as an announcer exclaims, \"This is a great game we got here!\" Upbeat music and enthusiastic crowd cheers fill the air. Mascots like Gritty, whose appearance an announcer questions with \"Gritty looks like what?\", Louie, and SJ Sharkie engage in playful hockey action, skating and passing. A referee in a black-and-white striped shirt oversees the game, while an overhead screen displays animated mascot graphics. The announcer highlights a \"shot from downtown\" and reminds everyone that \"there is no icing\" in mascot street hockey. The action intensifies as the announcer notes \"NJ Devil behind the net,\" with the puck going into the Western Conference offensive zone, and Gritty \"trying to hustle.\" Suddenly, SJ Sharkie scores a goal, prompting the announcer to exclaim, \"And SJ Sharkie scores!\" The overhead screen confirms the score: 'GOAL by SJ Sharkie, West 2 - East 0', with the announcer adding, \"Not even 90 seconds in, and the Western Conference is up two to nothing.\" Following the goal, the mascots, including Hunter, Bailey, Sparky, Chance, Iceburgh, Slapshot, Spartacat, Blades, NJ Devil, Stormy, Youppi!, Stinger, Gritty, Thunderbug, Stanley C. Panther, and Chester the Cheetah, converge in a celebratory group huddle, performing dynamic moves like slides, cartwheels, and high-kicks. The crowd behind the barriers cheers enthusiastically, their sounds contributing to the vibrant atmosphere, as photographers capture the event. NHL team banners surround the brightly lit rink, emphasizing the energetic and entertaining nature of the competition.",
+        "The lively All-Star Mascot Competition unfolds on a vibrant blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, as an announcer sets the scene for the \"Western Conference\" action, exclaiming \"Here we go!\" Multiple NHL mascots, dressed in their team jerseys, engage in a chaotic game of floor hockey. Harvey the Hound, in a Calgary Flames jersey, is noted by the announcer as having \"the ball,\" but Sparky, the blue and orange fox mascot, makes a \"Great stop!\" eliciting a collective \"Oh!\" from the crowd. The announcer then observes that \"He's tough, that takes out Gritty though,\" referring to the orange, furry Gritty mascot, prompting the crowd to chant \"Let's go Gritty!\" The announcer reiterates Gritty's toughness, stating, \"We're not sure what he's made of, but whatever he is, he's tough.\" After a shot from Harvey the Hound is \"a little off the mark,\" the announcer soon declares \"Another goal!\" as Harvey scores, triggering a celebratory on-screen graphic: 'GOAL by Harvey the Hound, West 3 - East 0'. The announcer confirms the score, \"Three nothing Western Conference!\" The mascots then converge in a group huddle near the center of the rink, engaging in animated gestures. The announcer notes that \"Gritty needs a breather\" as the game is \"about two and a half minutes in,\" with the Western Conference still leading \"three nothing.\" He then challenges the \"Eastern Conference looking to get a goal here,\" urging fans to \"make some noise if you're an Eastern Conference fan!\" The crowd responds with loud cheers, as the announcer concludes, \"If you're an Eastern Conference fan, your team is down three nothing.\" The sequence ends with the mascots still gathered, celebrating under the bright arena lights."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 13,
+      "end_minute": 19,
+      "summary": "The All-Star Mascot Competition unfolds on a vibrant, confetti-strewn blue indoor rink branded 'COLLECT THE BEST' and 'All-Star', featuring a lively street hockey game with upbeat rock music and enthusiastic crowd cheers. An announcer guides the action, emphasizing the entertainment-focused nature of the game with a three-goal target. Mascots like Sparky, Gritty, Thunderbug, Youppi!, Stanley C. Panther, Victor E. Green, Sabretooth, Stinger, Louie, Buoy, NJ Devil, Nordy, Harvey the Hound, Gnash, Mick E. Moose, Hunter, SJ Sharkie, Bailey, Tommy Hawk, Iceburgh, Slapshot, Spartacat, Blades, Stormy, and Chester the Cheetah, among others, actively skate, slide, wave, dance, high-kick, and perform dynamic movements, including goals scored by Stinger, Louie, Harvey the Hound, Slapshot, Spartacat, Iceburgh, Gritty, SJ Sharkie, and others, with a referee mascot overseeing the playful chaos. Specific plays are highlighted, such as Stinger's steal and goal, Victor E. Green's great play and clear, Louie's clearing of the ball and being named 2020 NHL Mascot of the Year, Youppi!'s great clear, Chester Cheetah's involvement in a chippy face-off with Harvey, and Iceburgh's dramatic tying goal. The overhead screen displays animated mascot graphics, and photographers capture the action from the rink's edge. Despite moments of missed opportunities and defensive plays, the mascots converge in celebratory group huddles, reinforcing the joyful and theatrical mood of the event, with the Western Conference holding a 4-3 lead in the final minute of the first period.",
+      "involved_entities": {
+        "Crowd Spectators": {
+          "description": "A large group of fans behind barriers, actively watching and cheering enthusiastically, with a distinct 'Woo!' heard at one point, adding to the lively atmosphere, visible throughout the segment.",
+          "attribute": "audio-visual"
+        },
+        "Sparky": {
+          "description": "A blue and orange fox mascot in a New York Islanders jersey with number '00' on the back, actively skating and participating in the game with dynamic movements.",
+          "attribute": "visual"
+        },
+        "Thunderbug": {
+          "description": "A blue and yellow bug mascot in a Tampa Bay Lightning jersey with '00' and 'THUNDERBUG' on the back, performing dynamic slides and movements, then participating in the group huddle.",
+          "attribute": "visual"
+        },
+        "Youppi!": {
+          "description": "An orange and blue bear mascot in a Montréal Canadiens jersey with '00' and 'YUPPI' on the back, dancing and waving enthusiastically, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Stanley C. Panther": {
+          "description": "A tan panther mascot in a Florida Panthers jersey with '00' and 'STANLEY' on the back, striking poses and waving enthusiastically during the game and group huddle.",
+          "attribute": "visual"
+        },
+        "Referee Mascot": {
+          "description": "A small, orange and black striped mascot resembling a referee, positioned near the goal, holding a whistle and interacting with the crowd, then walking toward the group and joining the huddle.",
+          "attribute": "visual"
+        },
+        "Overhead Screen": {
+          "description": "A large, suspended digital screen displaying animated mascot graphics, contributing to the event's visual spectacle, visible above the rink.",
+          "attribute": "visual"
+        },
+        "Netted Goal Structure": {
+          "description": "A white netted goal on the right side of the rink, resembling a hockey goal, adding to the sports-themed environment.",
+          "attribute": "visual"
+        },
+        "All-Star Mascot Competition Rink": {
+          "description": "A blue indoor rink with white boards, red boundary lines, and 'COLLECT THE BEST' and 'All-Star' branding, serving as the stage for the mascot performances, with confetti scattered across the surface.",
+          "attribute": "visual"
+        },
+        "Photographers": {
+          "description": "Several individuals crouched near the rink's edge, capturing photos and videos with professional cameras, remaining in position throughout the segment.",
+          "attribute": "visual"
+        },
+        "Sabretooth": {
+          "description": "A green and yellow saber-toothed tiger mascot in a Buffalo Sabres jersey with number '00', performing slides and waving energetically, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Gritty": {
+          "description": "An orange, furry, monster-like mascot in a Philadelphia Flyers jersey with '00' and 'GRITTY' on the back, sliding and waving energetically during the group huddle.",
+          "attribute": "visual"
+        },
+        "Buoy": {
+          "description": "A blue-haired, fish-like mascot in a Seattle Kraken jersey with number '0', seen near the rink’s edge, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Stinger": {
+          "description": "A green, alien-like mascot in a Columbus Blue Jackets jersey with '00' on the back, performing animated gestures and scoring a goal, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Slapshot": {
+          "description": "A red, white, and blue eagle mascot in a Washington Capitals jersey with number '00', performing a backflip and energetic dance moves, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Spartacat": {
+          "description": "An orange-haired cat mascot in an Ottawa Senators jersey with number '00', performing a dance and slide before scoring a goal, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Gnash": {
+          "description": "A saber-toothed tiger mascot in a Nashville Predators jersey with '00' on the back, dancing and waving energetically, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Stormy": {
+          "description": "A moose mascot in a Carolina Hurricanes jersey with '00', performing a slide and waving, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Chester the Cheetah": {
+          "description": "An orange and black cheetah mascot in a Cheetos-themed outfit with '00' on the back, performing a high-kick and sliding with flair, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "NJ Devil": {
+          "description": "A red devil mascot in a New Jersey Devils jersey with '00' and 'NJ DEVIL' on the back, skating with dynamic movements, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Blades": {
+          "description": "A brown bear mascot in a Boston Bruins jersey with number '00', performing energetic slides and arm gestures, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Louie": {
+          "description": "A blue and yellow bear mascot in a St. Louis Blues jersey with number '0', skating and waving to the crowd, then scoring a goal and joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Harvey the Hound": {
+          "description": "A white dog mascot with a red collar and a Calgary Flames jersey, actively skating and scoring a goal, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Iceburgh": {
+          "description": "A black and yellow penguin mascot in a Pittsburgh Penguins jersey with number '00', dancing and executing high-kicks, then scoring a goal and joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Mick E. Moose": {
+          "description": "A moose mascot in a Winnipeg Jets jersey with '00' on the back, performing slides and skating across the rink, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Chance": {
+          "description": "A yellow and black dog-like mascot in a Vegas Golden Knights jersey with number '00', executing cartwheels and high-kicks, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Victor E. Green": {
+          "description": "A green, furry, alien-like mascot in a Dallas Stars jersey, standing near the rink’s edge and gesturing animatedly, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "SJ Sharkie": {
+          "description": "A shark mascot in a San Jose Sharks jersey with '1' on the back, skating and waving to the crowd, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Fin": {
+          "description": "A black and white orca mascot in a Vancouver Canucks jersey, skating and waving to the crowd, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Bailey": {
+          "description": "A lion mascot in a Los Angeles Kings jersey with '1' on the back, performing a backflip, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Nordy": {
+          "description": "A large, orange bear mascot wearing a Minnesota Wild jersey with 'NORDY' and number '1800' on the back, performing playful movements on the rink, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Howler": {
+          "description": "A gray wolf mascot in an Arizona Coyotes jersey, moving dynamically and engaging with the audience, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Hunter": {
+          "description": "A wolf mascot in an Edmonton Oilers jersey with '72' on the back, performing a handstand and cartwheel, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Bernie": {
+          "description": "A large, white, bear-like mascot in a Colorado Avalanche jersey with 'BERNIE' and number '1' on the back, visible near the rink’s side, later joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Tommy Hawk": {
+          "description": "A black and red hawk mascot in a Chicago Blackhawks jersey with number '1', dancing under falling confetti, then joining the group huddle.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with an announcer welcoming viewers, setting the scene for a lively mascot street hockey game on a vibrant blue indoor rink, branded 'COLLECT THE BEST' and 'All-Star'. Upbeat, energetic rock music plays throughout, accompanied by the enthusiastic cheers of a large crowd behind barriers. The announcer clarifies that it's 'street hockey' with 'three goals to change in a matter of moments,' emphasizing the fast-paced, entertainment-focused nature over strict competition. Colorful mascots, including Sparky, Gritty, Thunderbug, and Youppi!, are seen actively engaged, performing dynamic movements like skating, sliding, and waving. A referee in black-and-white oversees the playful chaos. A fan is heard shouting, 'Come on, let's go, Stanley!' as Stanley C. Panther is then highlighted by the announcer, 'Oh, Stanley C. Panther with the ball, there it goes!' The announcer also calls out a 'great play by Victor E. Green' and later mentions Sabretooth's involvement in a play, stating he 'lost' the ball after a shot. The netted goal is guarded by Sabretooth, while confetti litters the rink, and an overhead screen displays animated mascot graphics. Photographers capture the action from the rink's edge. The mascots eventually converge in a celebratory group huddle, reinforcing the joyful and theatrical mood of the event.",
+        "The segment opens on a vibrant, confetti-strewn blue indoor rink, branded 'COLLECT THE BEST' and 'All-Star', where mascots engage in a playful hockey game. An announcer's excited voice declares, \"with a steal by Stinger, here's a chance for Glenn... We have a goal! We have a goal!\" as the green, alien-like mascot Stinger scores, prompting a loud cheer from the large crowd of spectators. The overhead screen confirms the 'GOAL by Stinger, West 3 - East 1', and the announcer reinforces the score, \"It's 3 to 1.\" Upbeat background music accompanies the action as the announcer notes, \"We're ready to hit about the four-minute mark,\" and mentions the \"Eastern Conference.\" The game resumes with \"Chester the Cheetah, ready to drop the ball,\" followed by a \"face-off won by the Eastern Conference.\" Commentary continues as \"Louie from the St. Louis Blues\" clears the ball, and the blue-haired, fish-like mascot Buoy from the Seattle Kraken attempts to advance it, but \"a great clear by Youppi! from the Montreal Canadiens\" intervenes. Youppi!, an orange and blue bear mascot, is seen dancing and waving. The announcer then mentions \"NJ Devil\" and describes Thunderbug, a blue and yellow bug mascot, \"with Nordin in the corner\" as play continues. After a missed opportunity for the \"Winnipeg Jets,\" the segment concludes with the mascots, including Gritty, Stanley C. Panther, and the Referee Mascot, gathering in a joyful group huddle near the center of the rink under bright lights and falling confetti, as the announcer notes \"Another great clear by Victor E. Green.\" The festive atmosphere is palpable with continuous crowd cheering and lively music.",
+        "The lively All-Star Mascot Competition unfolds on a vibrant blue indoor rink, scattered with confetti and branded with 'COLLECT THE BEST' and 'All-Star' logos. An announcer sets the scene, noting a \"0-0 goal\" and that the \"Western Conference [is] up one\" about \"five minutes through this first period.\" A diverse group of mascots, including Youppi!, Harvey the Hound, Louie, Gritty, and others, engage in a playful floor hockey game with small yellow balls and sticks. A human referee in black-and-white stripes oversees the action. The crowd behind the barriers cheers enthusiastically, with distinct shouts of \"Go, Gritty!\" heard twice. A staff member instructs, \"Guys, don't lean against the boards, please.\" The announcer describes the action, noting the \"NJ Devil\" trying to clear the puck, leading to a \"scrum.\" A \"great clear by Louie from the St. Louis Blues\" is highlighted, with the announcer identifying him as \"Louie, the 2020 NHL Mascot of the Year,\" living \"up to his name.\" The announcer also praises \"outstanding work by Victor E. Green\" and an \"otherworldly\" save, later mentioning \"Buddy the Puffin now in net\" and \"Corey the Coyote.\" Mascots like Gritty, the orange monster, slide and wave energetically, while Louie, the blue bear, skates and scores. Harvey the Hound, the white dog, also scores. Slapshot, the red, white, and blue eagle, performs a backflip. The overhead screen displays animated graphics, enhancing the spectacle. As the game progresses, the mascots converge in a celebratory group huddle, showcasing camaraderie and energy under the brightly lit environment adorned with banners and flags.",
+        "The segment opens on a vibrant, confetti-strewn blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, where NHL team mascots engage in a lively hockey game. Spartacat, an orange-haired cat in an Ottawa Senators jersey, scores a goal, shifting the on-screen graphic to West 3 - East 2. An announcer's voice then confirms the score, stating, \"It's three to two in favor of the Western Conference,\" with \"four minutes left in this first period,\" noting a \"mental error\" that reduced the lead. Mascots like Gnash, Mick E. Moose, Louie, Youppi!, and Stormy are seen skating, waving, dancing, and high-kicking, while a referee mascot oversees the action. The announcer actively tries to \"get the crowd fired up,\" and the animated crowd behind the barriers responds with enthusiastic cheers and applause. Building anticipation, the announcer exclaims, \"Oh, it's in! And we're tied at three!\" as Iceburgh, the black and yellow penguin in a Pittsburgh Penguins jersey, scores a dramatic tying goal. The announcer enthusiastically identifies the scorer, asking, \"Who else but Iceburgh? What a shot!\" and referring to him as \"the penguin from the Steel City\" who has \"tied this game at three apiece.\" The overhead screen displays animated graphics throughout the spectacle. As the announcer updates that there's \"a little less than three and a half minutes left,\" the mascots gather in a celebratory group huddle at the center of the rink, concluding the segment amidst continued crowd excitement.",
+        "The lively All-Star Mascot Competition unfolds on a vibrant blue indoor rink, scattered with colorful confetti, as an announcer declares the first period tied at three. A diverse group of NHL mascots, including Chester the Cheetah, whom the announcer identifies as a \"great spokesperson for delicious Cheetos,\" are actively engaged in a playful hockey-style game, wielding sticks and maneuvering around the rink. The crowd's cheers are audible as Gritty gets a \"great chance,\" though the announcer humorously notes he \"shoots that thing halfway to Saskatchewan.\" A referee mascot in a black-and-white striped uniform blows a whistle, momentarily pausing the chaotic fun. The announcer highlights a \"great opportunity by Gritty\" and \"even better defense by the Vancouver Canucks,\" represented by Fin, before calling out a \"cross by Chance and Louie.\" Despite a moment where the announcer mentions a \"great pass to Carlton\" but notes \"not paying attention,\" the action continues. As the segment nears its end, the announcer exclaims \"OH! GOAL!\" as Gritty scores, prompting a loud cheer from the excited crowd and leading to a celebratory group huddle among the mascots near the netted goal structure. Overhead screens display animated mascot graphics, enhancing the energetic and joyful atmosphere.",
+        "The lively All-Star Mascot Competition unfolds on a vibrant blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, as an announcer's excited call of \"goal!\" confirms SJ Sharkie's score, pushing the West to a 4-3 lead over the East, immediately followed by a burst of confetti. Upbeat background music and the animated cheers of the crowd fill the arena as mascots like Sparky, Stanley C. Panther, Sabretooth, and Stinger actively skate and jostle for position, engaging in playful hockey maneuvers. The announcer notes there are \"two minutes left in this first period,\" then highlights Stinger from the Columbus Blue Jackets, who is seen making animated gestures. The commentary then focuses on a face-off, identifying Harvey from the Calgary Flames and Chester Cheetah, with the announcer remarking it's \"a little chippy out there\" as Chester Cheetah takes Harvey out of the face-off circle. Jamie Kidd is also mentioned. The Eastern Conference wins a face-off, but the Western Conference maintains its 4-3 lead with \"90 seconds left.\" The action continues with Stinger making a \"nice little move\" for a shot, but the announcer declares \"No goal!\" The crowd reacts with a mix of anticipation and disappointment. Despite the Western Conference briefly losing the ball, the energy remains high as the mascots, including Gritty, Thunderbug, and Youppi!, converge near the center for a celebratory group huddle, performing slides, waves, and high-kicks for the animated crowd and photographers, all under the glow of the overhead screen displaying animated mascot graphics and the confetti-strewn rink.",
+        "The minute opens on a vibrant, confetti-strewn blue indoor rink, branded with 'All-Star' and 'COLLECT THE BEST' logos, where a lively mascot hockey game is underway. An announcer's voice immediately sets the scene, commenting on the game, \"We don't need any sticklers,\" and noting the score, \"It's still 4-3 in favor of the Western Conference.\" Mascots like Harvey the Hound, Nordy, Fin, Victor E. Green, Howler, Mick E. Moose, Gnash, Hunter, SJ Sharkie, Bailey, Buoy, Chance, Louie, Tommy Hawk, Sabretooth, Sparky, Iceburgh, Slapshot, Spartacat, Blades, NJ Devil, Stormy, Youppi!, Stinger, Gritty, Thunderbug, Stanley C. Panther, and Chester the Cheetah, all in their NHL team jerseys, engage in playful hockey actions, skating, passing, and scoring goals with oversized sticks. A referee mascot in black-and-white stripes actively oversees the game. The announcer continues to update the time, stating, \"One minute remaining in this first period. Less than one minute,\" and later, \"All right, we're down to 35 seconds,\" and finally, \"30 seconds to go,\" while reiterating the score, \"Western Conference still up 4-3.\" Throughout, upbeat background music plays as the crowd behind the barriers cheers enthusiastically, with a distinct \"Woo!\" heard at one point, adding to the festive atmosphere. The mascots perform dynamic movements including slides, cartwheels, backflips, and high-kicks, showcasing their unique personalities. Overhead, a screen displays animated graphics, enhancing the spectacle. As the segment concludes, the mascots gather in a group huddle near the center of the rink, celebrating together, while photographers capture the event from the rink’s edge."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 20,
+      "end_minute": 37,
+      "summary": "On a vibrant blue indoor rink branded with 'All-Star' and 'COLLECT THE BEST' logos, NHL mascots engaged in a chaotic, playful hockey game amidst scattered confetti, energetic music, and roaring crowd spectators. The game saw numerous lead changes and goals, with mascots like Louie, Carlton, Spartacat, Stormy, Blades, and Gritty scoring, and others like Chester the Cheetah, Thunderbug, and Stinger making key saves or plays. The score fluctuated dramatically, reaching 9-9 before Blades scored to put the Eastern Conference up 10-9, and then Blades scored again to extend the lead to 11-9. Throughout the game, an announcer provided energetic play-by-play, highlighting individual mascot actions, encouraging crowd participation with stomping and clapping, and building anticipation for goals and the end of periods. A Referee Mascot, often in striped attire, oversaw the action, occasionally blowing a whistle, while Staff Members in blue shirts were also present on the rink. The overhead screen consistently displayed animated mascot graphics, enhancing the festive atmosphere. The mascots frequently converged in celebratory group huddles, performing dynamic gestures like slides, high-kicks, and backflips, showcasing their camaraderie and the event's joyful spirit, culminating in a final huddle as the Eastern Conference secured an 11-9 victory.",
+      "involved_entities": {
+        "Chance": {
+          "description": "A yellow and black dog-like mascot in a Vegas Golden Knights jersey with number '00', executing cartwheels and high-kicks, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Spartacat": {
+          "description": "An orange-haired cat mascot in an Ottawa Senators jersey with '00' on the back, who scores a goal and then joins the group huddle.",
+          "attribute": "visual"
+        },
+        "Gnash": {
+          "description": "A saber-toothed tiger mascot in a Nashville Predators jersey with '00' on the back, dancing and waving energetically, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Thunderbug": {
+          "description": "A blue and yellow bug mascot in a Tampa Bay Lightning jersey with '00' and 'THUNDERBUG' on the back, performing dynamic slides and movements, then participating in the group huddle.",
+          "attribute": "visual"
+        },
+        "Iceburgh": {
+          "description": "A black and yellow penguin mascot in a Pittsburgh Penguins jersey with number '00', dancing and executing high-kicks, then scoring a goal and joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Stanley C. Panther": {
+          "description": "A tan panther mascot in a Florida Panthers jersey with '00' and 'STANLEY' on the back, striking poses and waving enthusiastically during the game and group huddle.",
+          "attribute": "visual"
+        },
+        "Chester the Cheetah": {
+          "description": "An orange and black cheetah mascot in a Cheetos-themed outfit with '00' on the back, performing a high-kick and sliding with flair, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "NJ Devil": {
+          "description": "A red devil mascot in a New Jersey Devils jersey with '00' and 'NJ DEVIL' on the back, skating with dynamic movements and joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Victor E. Green": {
+          "description": "A green, furry, alien-like mascot in a Dallas Stars jersey, standing near the rink’s edge and gesturing animatedly, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Stinger": {
+          "description": "A green, alien-like mascot in a Columbus Blue Jackets jersey with '00' on the back, performing animated gestures and scoring a goal.",
+          "attribute": "visual"
+        },
+        "SJ Sharkie": {
+          "description": "A shark mascot in a San Jose Sharks jersey with '1' on the back, skating and waving to the crowd, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Sparky": {
+          "description": "A blue and orange fox mascot in a New York Islanders jersey with number '00' on the back, actively skating and participating in the game with dynamic movements.",
+          "attribute": "visual"
+        },
+        "Referee Mascot": {
+          "description": "A small, orange and black striped mascot resembling a referee, overseeing the face-off and interacting with a Staff Member on the rink, implicitly involved in the 'timeout' called by the announcer.",
+          "attribute": "audio-visual"
+        },
+        "Netted Goal Structure": {
+          "description": "A white netted goal on the right side of the rink, resembling a hockey goal, which is the site of goals confirmed by the announcer's 'Goal!' and subsequent score updates.",
+          "attribute": "audio-visual"
+        },
+        "Harvey the Hound": {
+          "description": "A white dog mascot with a red collar and a Calgary Flames jersey, actively skating and scoring a goal, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Fin": {
+          "description": "A black and white orca mascot in a Vancouver Canucks jersey, skating and waving to the crowd, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Bailey": {
+          "description": "A lion mascot in a Los Angeles Kings jersey with '7' on the back, performing a backflip, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Nordy": {
+          "description": "A large, orange bear mascot wearing a Minnesota Wild jersey with 'NORDY' and number '1800' on the back, actively skating and scoring a goal, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Sabretooth": {
+          "description": "A green and yellow saber-toothed tiger mascot in a Buffalo Sabres jersey with number '00', performing slides and waving energetically, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Gritty": {
+          "description": "An orange, furry, monster-like mascot in a Philadelphia Flyers jersey with '00' and 'GRITTY' on the back, sliding on his knees and waving during the group huddle, and scoring a goal.",
+          "attribute": "visual"
+        },
+        "Slapshot": {
+          "description": "A red, white, and blue eagle mascot in a Washington Capitals jersey with number '00', performing a backflip and energetic dance moves, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Crowd Spectators": {
+          "description": "A large group of fans behind barriers, visually watching and cheering, whose loud cheers are audibly heard following a goal.",
+          "attribute": "audio-visual"
+        },
+        "Howler": {
+          "description": "A gray wolf mascot in an Arizona Coyotes jersey, moving dynamically and engaging with the audience, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Mick E. Moose": {
+          "description": "A moose mascot in a Winnipeg Jets jersey with '00' on the back, performing slides and skating across the rink, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Hunter": {
+          "description": "A wolf mascot in an Edmonton Oilers jersey with '72' on the back, performing a handstand and cartwheel, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Buoy": {
+          "description": "A blue-haired, fish-like mascot in a Seattle Kraken jersey with number '0', seen near the rink’s edge, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "All-Star Mascot Competition Rink": {
+          "description": "A blue indoor rink with white boards, red boundary lines, and 'COLLECT THE BEST' and 'All-Star' branding, serving as the stage for the mascot performances, where the announcer provides ongoing commentary on the game's score and time remaining.",
+          "attribute": "audio-visual"
+        },
+        "Photographers": {
+          "description": "Several individuals crouched near the rink's edge, capturing photos and videos with professional cameras, remaining in position throughout the segment.",
+          "attribute": "visual"
+        },
+        "Blades": {
+          "description": "A brown bear mascot in a Boston Bruins jersey, actively skating, performing slides, and scoring a goal, explicitly mentioned by the announcer as 'trying to get that goal' just before scoring, with the goal confirmed by the announcer's 'Goal!' and subsequent score update.",
+          "attribute": "audio-visual"
+        },
+        "Louie": {
+          "description": "A blue and yellow bear mascot in a St. Louis Blues jersey with number '0', skating dynamically and scoring a goal, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Youppi!": {
+          "description": "An orange and blue bear mascot in a Montréal Canadiens jersey with '00' and 'YUPPI' on the back, dancing and waving enthusiastically.",
+          "attribute": "visual"
+        },
+        "Bernie": {
+          "description": "A large, white, bear-like mascot in a Colorado Avalanche jersey with 'BERNIE' and number '1' on the back, visible near the rink’s side, later joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Overhead Screen": {
+          "description": "A large, suspended digital screen displaying animated mascot graphics, contributing to the event's visual spectacle, visible above the rink.",
+          "attribute": "visual"
+        },
+        "Tommy Hawk": {
+          "description": "A black and red hawk mascot in a Chicago Blackhawks jersey with number '1', dancing under falling confetti, then joining the group huddle.",
+          "attribute": "visual"
+        },
+        "Stormy": {
+          "description": "A moose mascot in a Carolina Hurricanes jersey with '00' on the back, actively skating and scoring a goal.",
+          "attribute": "visual"
+        },
+        "Staff Member": {
+          "description": "A man in a blue shirt and dark pants who walks onto the rink to interact with the Referee Mascot, coinciding with the announcer's call for a 'timeout'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens on a vibrant, confetti-strewn 'All-Star' branded blue indoor rink, where various NHL mascots, including Stanley C. Panther, Harvey the Hound, and Louie, are actively engaged in a playful hockey game with a yellow ball. Upbeat, energetic rock music plays as an announcer counts down, \"20 seconds,\" then \"10, 9, 8, 7, 6, 5, 4, 3, 2, 1.\" As the countdown concludes, the announcer declares, \"End of the period!\" to a burst of enthusiastic cheering from the crowd spectators. A scoreboard graphic appears, confirming the end of the first period. The announcer then clarifies, \"That goal does not count,\" before announcing the score: \"After the first period, the score is West 4, East 3,\" which is met with more cheers. Mascots like Victor E. Green and a Referee Mascot are seen on the rink, while photographers capture the event. The announcer continues, reminding everyone to visit the \"Updeck NHL Mascot Club after today's game\" to collect game items, favorite cards, and even get a trading card made of themselves, praising the \"amazing things\" happening there. Meanwhile, the mascots, including Gritty, Thunderbug, NJ Devil, and Sparky, gather in a large, celebratory huddle near the center of the rink, waving, dancing, and performing energetic moves like slides, high-kicks, and backflips, all under an overhead screen displaying animated mascot graphics, as the energetic music fades back in.",
+        "The segment opens on a vibrant blue 'All-Star' branded indoor rink, alive with an energetic electronic music track and the roar of cheering crowd spectators. An announcer's voice immediately hypes the crowd, asking if they're ready for the 'second period' and prompting loud cheers from both 'Eastern Conference fans' and 'Western Conference fans,' noting the 'Western Conference up 4-3.' Mascots in colorful NHL team jerseys, including Louie (St. Louis Blues), Mick E. Moose (Winnipeg Jets), and Sparky (New York Islanders), skate and slide across the rink, engaging in playful, choreographed movements. The announcer highlights specific actions, noting a 'distinct kicking motion from Louie' and a 'great clear' by Youppi! (Montréal Canadiens) for the Eastern Conference, followed by a 'great save by Thunder,' a mascot not visually identified but praised for their goaltending. A referee mascot oversees the action as others like Gritty (Philadelphia Flyers) and Stanley C. Panther (Florida Panthers) perform dynamic gestures. As the game progresses, Sparky and Iceburgh (Pittsburgh Penguins) score goals near the netted structure, prompting celebratory reactions. Confetti scatters across the rink, enhancing the festive atmosphere, while an overhead screen displays animated mascot graphics. The mascots eventually gather in a joyful group huddle near the center, waving and interacting with each other and the continuously cheering crowd, all while photographers capture the lively event under bright, focused lighting.",
+        "The minute opens on a lively All-Star Mascot Competition on a blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, as mascots in colorful NHL jerseys engage in a playful hockey-style game. Louie, Sparky, and Gritty skate dynamically, while Bernie and Harvey the Hound position themselves near the netted goal. An announcer describes the action, noting a \"beautiful save\" by a goalie mascot and highlighting **Chester the Cheetah**, an orange and black cheetah mascot, as a \"giant Cheeto in the way\" during play. The score is announced as 4 to 3. Confetti begins to scatter across the rink, adding to the festive atmosphere. The announcer's excitement builds, exclaiming \"Can't go! Another chance! Yeah!\" before declaring, \"The Eastern Conference captain, there is the biscuit and he ties the game at four!\" This goal is visually confirmed by on-screen text reading 'GOAL by Carlton, West 4 - East 4', indicating **Carlton** as the scorer who brings the game to a 4-4 deadlock. Following the goal, mascots converge in a celebratory group huddle near the center, engaging in playful interactions, high-fives, and animated gestures. The enthusiastic crowd cheers behind barriers, and the overhead screen displays animated mascot graphics. Mascots like Nordy, Mick E. Moose, and **Spartacat** (an orange-haired cat mascot explicitly mentioned by the announcer) continue to perform dynamic movements such as slides, cartwheels, and backflips, showcasing their energetic personalities. The referee mascot, in a striped outfit, moves around the rink, blowing a whistle and interacting with players, as the vibrant scene concludes with the mascots celebrating their camaraderie.",
+        "The segment opens on a lively, chaotic mascot hockey game on a blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, as announcers react with exclamations like \"Oh, there's a good one!\" and suggest getting an autograph. A large crowd of spectators behind barriers cheers loudly, especially when an announcer asks, \"You guys all like the mascot game?\" and then excitedly calls out, \"Who's here? Guess who just got a Spartacat! Spartacat!\" The action centers around several colorful mascots clustered near the netted goal structure on the right. Amidst loud cheers and applause, Spartacat, an orange-haired cat mascot in an Ottawa Senators jersey, scores a goal, confirmed by the on-screen text 'GOAL by Spartacat, West 4 - East 5' and the announcer exclaiming, \"And there he is! I think he just scored a goal! It's 5 to 4 Eastern Conference! They've taken the lead!\" Confetti is scattered across the rink, enhancing the celebratory atmosphere as the Eastern Conference is repeatedly announced as having taken the lead. Following the goal, the mascots, including Howler, NJ Devil, and Gritty, disperse across the rink with dynamic movements, sliding, waving, and skating, while the Referee Mascot, an orange and black striped figure, interacts with players and moves toward the group. A staff member in a blue shirt also walks onto the rink, observing the mascots. The overhead screen displays animated mascot graphics, and photographers capture the event. The scene culminates in a group huddle near the center of the rink, where the mascots gather closely, some raising their sticks in celebration, with the Referee Mascot and staff member standing nearby, all under bright, consistent lighting, as the announcers continue to comment on the ongoing game, mentioning other mascots like \"Iceberg\" and \"Thunderball\" and discussing five-on-five play.",
+        "The lively All-Star mascot hockey game unfolds on a vibrant blue indoor rink, adorned with red boundary lines, scattered confetti, and 'COLLECT THE BEST' and 'All-Star' branding on the white boards, all set to an energetic, upbeat background track and enthusiastic crowd cheers. Commentators provide play-by-play, noting \"Chance with another golden opportunity\" early on, as the yellow and black dog-like mascot, Chance, is seen executing cartwheels and high-kicks. The diverse group of NHL mascots, including Howler, Harvey the Hound, Nordy, Fin, Victor E. Green, Bernie, Mick E. Moose, Gnash, Hunter, SJ Sharkie, Bailey, Buoy, Tommy Hawk, Sabretooth, Sparky, Slapshot, Spartacat, Blades, NJ Devil, Stormy, Youppi!, Stinger, Gritty, and Stanley C. Panther, engage in playful, non-competitive hockey, skating and passing a yellow ball. The commentator highlights a \"shot by Louie,\" the blue and yellow bear mascot, followed by \"an even better block by Thunderbug,\" the blue and yellow bug mascot. Iceburgh, the black and yellow penguin, is then mentioned for \"clearing it.\" Chance is again called out for \"scoring a goal,\" as the commentator notes the Eastern Conference trailing five to four with \"about five minutes left in this second period.\" The Referee Mascot, in black-and-orange stripes, oversees the game, while a Staff Member in blue interacts on the rink. Photographers capture the action, and an Overhead Screen displays animated graphics. The segment concludes with the mascots gathering in a celebratory group huddle near the netted goal structure as confetti falls, marking the festive end.",
+        "The lively and chaotic mascot hockey game unfolds on a blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, as an announcer provides an energetic play-by-play. Initially, the score is announced as \"Five and four, Eastern Conference,\" setting the stage for the action. Multiple NHL team mascots, including Sparky, Stormy, and Bailey, actively skate, jostle, and use hockey sticks to maneuver a small yellow ball amidst enthusiastic crowd cheers and upbeat arena ambiance. The announcer describes the fast-paced game, noting a \"great clear by Thunderbug\" and highlighting \"Slapshot from the Capitals\" as he successfully clears the ball. The mascots engage in playful, exaggerated movements—sliding, waving, and occasionally colliding—until Mick E. Moose seizes an opportunity, prompting the announcer's excited call, \"Here's an opportunity for Moose, and he puts it in the net! Are you kidding me?!\" A 'GOAL by Mick E. Moose, West 5 - East 5' graphic overlay confirms the score, which the announcer reiterates as \"tied at five with less than four minutes to go in the second period.\" Photographers capture the action, and animated mascot graphics flash on the overhead screen. As the game progresses, the announcer mentions \"the Panthers\" and a \"Stinger\" during ongoing play. The mascots converge near the goal, interacting with the Referee Mascot, before culminating in a celebratory group huddle. Gritty, Thunderbug, and Stanley C. Panther join in, performing slides and waving, while a staff member briefly observes. Confetti is scattered across the rink, enhancing the festive mood.",
+        "The minute opens on a lively, chaotic mascot hockey game unfolding on a vibrant blue indoor rink, scattered with colorful confetti and branded with 'COLLECT THE BEST' and 'All-Star' logos. An enthusiastic announcer provides play-by-play, setting the scene by noting a mascot \"just gonna sit in the crease.\" The energetic background music and crowd cheers underscore the festive atmosphere as Blades, the brown bear mascot, is immediately highlighted by the announcer: \"Here comes Blades! Here it goes!\" Blades is seen skating and sliding, making \"good defensive play\" and attempting to steal the ball. Another mascot, referred to by the announcer as \"Dory,\" tries to get the yellow ball into the white netted goal structure. The action intensifies as Sparky, the blue fox mascot, takes \"a great shot on goal,\" followed by a \"deflection.\" The Referee Mascot, in a striped outfit, actively oversees the game, with the distinct sound of his whistle occasionally cutting through the excitement. Stinger, the green alien mascot, makes a crucial \"save\" and a \"great stop,\" as the announcer declares the game \"tied up with less than three minutes to go in this second period.\" Mascots like Iceburgh (black penguin), Louie (blue bear), and Stinger are seen scoring goals and joining a group huddle, while Gritty (orange monster) and Stanley C. Panther (tan panther) also join with energetic gestures. The Overhead Screen displays animated graphics, adding to the spectacle. The announcer's excitement builds with exclamations like \"My god, be careful out there!\" and later, \"Here comes Blades! It's a breakaway! Great opportunity! Oh!\" leading to a loud cheer from the crowd. A Staff Member briefly enters the rink, interacting with the Referee Mascot amidst the ongoing playful collisions and acrobatic moves, as the announcer concludes, \"That was what we needed!\"",
+        "The lively All-Star Mascot Competition unfolds on a vibrant blue rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, as an energetic announcer's voice describes the chaotic hockey action, punctuated by enthusiastic crowd cheers and music. Several mascots, including Nordy (the orange bear in a Minnesota Wild jersey) and Stanley C. Panther (the tan panther in a Florida Panthers jersey), are seen near the netted goal structure. The announcer exclaims, \"Stinger!\" and then, \"Oh, and a goal!\" as confetti rains down, celebrating Nordy's goal, which puts the West up 6-5. The announcer confirms, \"Nordy closes the deal. Six to five in favor of the Western Conference with less than two minutes to go in the second period.\" Following the score, mascots like Gritty (the orange monster), Sabretooth (the green and yellow saber-toothed tiger), Louie (the blue bear), and Harvey the Hound (the white dog) converge in a celebratory group huddle near the center of the rink, performing dynamic gestures like high-kicks, slides, and waves. A Referee Mascot and a Staff Member in a blue shirt observe the festive scene, while the Overhead Screen displays animated mascot graphics, and the crowd's cheers intensify as the announcer encourages them: \"Let's get 'em fired up! Let's make some noise! Let's hear those hands! Let's hear those voices!\" The segment concludes with the sustained roar of the crowd and upbeat background music.",
+        "The lively All-Star Mascot Competition unfolds on a vibrant blue indoor rink, scattered with confetti and branded with 'COLLECT THE BEST' and 'All-Star'. Mascots in their NHL jerseys engage in fast-paced floor hockey, skating, passing, and attempting to score goals as the crowd behind barriers cheers enthusiastically, their roars audible throughout. An announcer provides dynamic commentary, noting a playful penalty on Stinger, a green, alien-like mascot. The game's intensity is highlighted by the announcer's updates on the score, stating, 'Six to five in favor of the Western Conference,' and the remaining time, 'about 40 seconds left.' Sparky, a blue and orange fox mascot, is seen actively maneuvering the puck and is identified by the announcer as 'looking for Gritty,' an orange, furry monster-like mascot, whose pass is noted as 'off the mark.' The announcer playfully refers to the mascots as 'wild animals on the playing surface.' The action culminates as Gritty scores a goal into the Netted Goal Structure, prompting an on-screen 'GOAL by Gritty, West 6 - East 6' graphic, a loud 'GOAL!' sound effect, and an explosive cheer from the crowd, amplified by the announcer's excited call, 'Oh, Gritty! GOAL!' The Overhead Screen displays animated graphics, adding to the festive atmosphere as the mascots, including Louie, Blades, NJ Devil, Stormy, Youppi!, Thunderbug, Stanley C. Panther, Iceburgh, Spartacat, and Chester the Cheetah, converge in a high-energy group huddle, waving and celebrating their camaraderie.",
+        "The segment opens with an announcer declaring \"20 seconds to the end of the second period,\" noting the game is \"tied at six\" on the vibrant, confetti-strewn 'All-Star' rink. Mascots like Louie (St. Louis Blues), Gritty (Philadelphia Flyers), and Bernie (Colorado Avalanche) are seen actively skating and passing, while a staff member observes. The announcer builds anticipation for \"one more face-off\" before initiating a loud countdown from \"10, 9, 8...\" as the crowd's cheers intensify. Visually, Louie scores a goal, and on-screen text confirms \"GOAL by Louie, West 7 - East 6.\" The announcer then confirms the \"end of the second period,\" stating, \"The Western Conference scores,\" and clarifies the new score: \"7 to 6 in favor of the Western Conference.\" Following the goal, mascots including Gritty, NJ Devil, Stormy, and Youppi! transition into an energetic group huddle, with Gritty sliding and waving, all while the overhead screen displays animated graphics. The announcer concludes by setting the stage for the next phase, declaring, \"It all comes down to this for the third period,\" as the crowd continues to cheer amidst the festive atmosphere.",
+        "The lively All-Star Mascot Competition unfolds on a vibrant blue indoor rink, scattered with confetti and marked with red boundary lines, all set to an energetic background music track and the enthusiastic cheers of the crowd. An announcer provides dynamic play-by-play, declaring the Western Conference up 7-6 in the third period. Mascots in colorful team jerseys, like Gritty, the orange monster in a Flyers jersey, and NJ Devil, the red devil in a Devils jersey, skate dynamically. The announcer calls out 'here comes Thunderbug!' as the blue and yellow bug mascot makes a move, followed by a whistle sound. The action continues with the announcer noting 'Chance clears that puck' as the yellow and black dog-like mascot participates, and 'here's a chance for Buoy,' the blue-haired fish-like mascot, attempting to score. Slapshot, the red, white, and blue eagle, 'swings' into action, and Blades, the brown bear, is also involved. The announcer mentions 'Stinger serving an indefinite penalty,' referring to the green alien mascot, and describes 'NJ Devil tries to bury it' near the Netted Goal Structure. Gritty, Louie, and Iceburgh score goals, while the Referee Mascot, in orange and black stripes, oversees the game, blowing a whistle and gesturing. The announcer highlights 'great play there by Thunderbug!' again, and later points out 'SJ Sharkie right in front of that net,' as the shark mascot positions itself. The Overhead Screen displays animated graphics, and the event culminates in a group huddle near the goal, featuring a multitude of mascots including Harvey the Hound, Nordy, Fin, Victor E. Green, Howler, Mick E. Moose, Gnash, Hunter, Bailey, Buoy, Chance, Tommy Hawk, Sabretooth, Sparky, Stormy, Youppi!, Thunderbug, Stanley C. Panther, and Chester the Cheetah. A Staff Member in a blue shirt walks onto the rink, interacting with the Referee Mascot amidst the festive atmosphere.",
+        "The All-Star Mascot Competition unfolds on a vibrant blue indoor rink, scattered with colorful confetti, set to upbeat electronic music and the enthusiastic roars of the crowd. Announcers provide dynamic commentary, initially reacting with a surprised \"No. No.\" to an early play and noting that the \"Western Conference [is] still in the lead.\" Mascots in NHL jerseys, including Stormy (Carolina Hurricanes), Howler (Arizona Coyotes), and Buoy (Seattle Kraken), actively skate and play floor hockey. The announcer highlights the \"NJ Devil\" attempting a shot, exclaiming \"Look out! Look out!\" as the action intensifies. A pivotal moment arrives when Stormy takes a shot, prompting the announcer's excited call, \"Stormy with a shot! And a goal! And a goal!\" On-screen text confirms 'GOAL by Stormy, West 7 - East 7', with the announcer adding, \"Stormy from the Carolina Hurricanes has... I just gave Pat seven,\" and later confirming, \"We're tied at seven.\" The Referee Mascot oversees the game, occasionally blowing a whistle, while other mascots like Blades (Boston Bruins) perform energetic slides and high-kicks, and Slapshot (Washington Capitals) executes a backflip. The announcer directly engages the \"Crowd Spectators,\" asking, \"Are you guys having a good time so far?\" to which they respond with a roaring cheer, followed by another encouraged \"Let me hear you make some noise for the mascots!\" and an even louder crowd response. As the announcer repeatedly emphasizes, \"Time is ticking away,\" the mascots converge in a group huddle, waving and celebrating together, showcasing camaraderie and the vibrant spirit of the event, all under the watchful eye of the overhead screen displaying animated graphics.",
+        "The lively All-Star Mascot Competition unfolds on a vibrant blue indoor rink, scattered with colorful confetti and marked with red boundary lines, as a large crowd cheers behind barriers under banners and an overhead screen displaying animated graphics. An announcer encourages the crowd, instructing them to \"start stomping your feet until somebody scores a goal,\" which they enthusiastically do, creating a \"little rumble\" in the arena. Mascots like Gritty, Blades, and Youppi!, dressed in their NHL team jerseys, actively engage in a playful game of floor hockey, maneuvering a small ball with sticks toward a netted goal. The announcer notes the score is \"tied at seven\" before a horn blares and the crowd erupts in cheers as a \"GOAL!\" is scored. On-screen text confirms this is a 'GOAL by Blades, West 7 - East 8', prompting the announcer to exclaim, \"Oh, it actually worked!\" and comment on Blades, \"He's gonna come for us.\" The game continues with the announcer then guiding the crowd to \"start slow clapping until somebody scores a goal,\" which they follow, creating a rhythmic sound. Another \"GOAL!\" is announced with a horn and renewed crowd excitement, with the announcer declaring, \"You did it again, fans!\" and noting the score update, \"He's gonna take the lead!\" and \"It makes it seven.\" Following this, the mascots transition into a dynamic group huddle, moving across the rink with exaggerated gestures, slides, and waves. Gritty slides on his knees, Youppi! dances with arms raised, and Sabretooth performs a high-kick, while the Referee Mascot oversees and then joins the celebratory group, which also includes Sparky, Stormy, and Stanley C. Panther. The rink's boards display 'COLLECT THE BEST' and 'All-Star' branding, reinforcing the festive and energetic atmosphere, as the sequence concludes with the mascots gathered centrally, waving and interacting with the cheering crowd amidst the scattered confetti.",
+        "The segment opens on a vibrant blue indoor rink, scattered with confetti and marked with red lines, hosting a lively All-Star Mascot Competition. Upbeat, energetic music plays as mascots in colorful team jerseys engage in floor hockey, maneuvering a ball with sticks. An announcer's voice sets the scene, mentioning 'Rocky' and an early score of '8-7 in favor of the Hurricanes.' Several mascots, including Youppi! (an orange bear), Bernie (a white bear), and Harvey the Hound (a white dog), actively skate and jostle for position, with the crowd enthusiastically chanting 'Go Youppi, go Youppi!' at one point. The announcer also praises a 'Great save by Mr. Clean,' though it's unclear which mascot this refers to, possibly the Referee Mascot overseeing the play near the goal. The action intensifies around the netted goal structure, culminating in a 'Great clear! GOAL!' from the announcer as Fin (an orca mascot) scores, triggering an on-screen graphic confirming 'GOAL by Fin' and updating the score to 'West 8 - East 8'. The announcer confirms, 'He's got the goal. We're tied at 8,' reiterating the tied score multiple times and referring to the event as an 'All-Star tournament.' Following the goal, mascots like Gritty (an orange monster) and Iceburgh (a penguin) perform dynamic slides and high-kicks, while the crowd, visible behind barriers, cheers loudly. The overhead screen displays animated graphics, and the rink's boards feature 'COLLECT THE BEST' and 'All-Star' branding. The segment concludes with the mascots gathering in a playful huddle near the goal, waving to the audience, as a staff member briefly interacts with the Referee Mascot, all while the announcer continues to engage the 'Eastern Conference' crowd with the tied score.",
+        "The segment opens on a vibrant blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, where a lively mascot hockey game is underway, accompanied by upbeat, energetic rock/pop music and constant crowd cheering. An enthusiastic announcer provides play-by-play, urging on the action. Mascots in colorful team jerseys, like Gnash, a saber-toothed tiger in a Nashville Predators jersey, who the announcer cheers with 'Go, Gnash! Let's go!', skate dynamically. Other mascots, including Sparky, a fox in a New York Islanders jersey, are actively involved, with the announcer noting a blocked scoring chance for Sparky. The game is intense, with the announcer repeatedly stating, 'We're tied at eight!' and giving a time update: 'You've got about five minutes left in this second period.' Bernie, a white bear-like mascot, makes a 'great block,' while Victor E. Green, a green alien-like mascot, 'clears that' according to the announcer. Iceburgh, a penguin mascot, attempts a 'backhand' shot. The festive atmosphere is enhanced by confetti scattered across the rink and a large cheering crowd. The action culminates in a goal scored by Nordy, an orange bear mascot, which the announcer excitedly declares as 'Nordy with the game-winner!' On-screen text confirms 'GOAL by Nordy, West 9 - East 8'. Following the goal, a large group of mascots, including Harvey the Hound, Bernie, Fin, Victor E. Green, Howler, Mick E. Moose, Gnash, Hunter, SJ Sharkie, Bailey, Buoy, Chance, Louie, Tommy Hawk, Sabretooth, Sparky, Iceburgh, Slapshot, Spartacat, Blades, NJ Devil, Stormy, Youppi!, Stinger, Gritty, Thunderbug, Stanley C. Panther, and Chester the Cheetah, along with the Referee Mascot, gather in a celebratory huddle. The overhead screen displays animated mascot graphics as the mascots perform dynamic moves like slides, cartwheels, backflips, and high-kicks, before waving and celebrating with the crowd, bringing the entertaining event to a joyful finale.",
+        "The lively All-Star Mascot Competition unfolds on a blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, as an energetic announcer declares, \"two minutes to go!\" and updates the score, \"9 to 8 in favor of the Western Conference.\" Mascots like Sparky, Iceburgh, and Blades skate and jostle for position, while the announcer encourages the \"large crowd of spectators\" to \"get some clapping going,\" which they respond to with cheers and applause. Confetti is scattered across the rink, adding to the festive atmosphere. The game intensifies, with the announcer building excitement, leading to a dramatic moment where Youppi! scores a goal, visually confirmed by the on-screen text 'GOAL by Youppi! West 9 - East 9'. The announcer exclaims, \"YES! That's it!\" amidst a loud cheer and a goal sound effect, then clarifies, \"We've tied this at 9.\" The mascots regroup, performing dynamic moves like slides and high-kicks, with Gritty and Stinger engaging in playful interactions. The Referee Mascot oversees the game, occasionally blowing a whistle. The Overhead Screen displays animated graphics. The announcer humorously remarks, \"Of all the athletic events you've seen in your lifetime, this is one of them,\" before asking the crowd, \"who wants the Eastern Conference to win?\" as the mascots converge into a group huddle, waving and striking poses. A Staff Member briefly enters the rink to interact with the Referee Mascot before stepping back, all under bright, consistent lighting that highlights the vibrant costumes and energetic movements, creating a joyful and entertaining event.",
+        "The lively All-Star Mascot Competition unfolds on a vibrant blue indoor rink, scattered with colorful confetti, as NHL team mascots engage in a chaotic game of floor hockey. The segment opens with loud crowd cheers and a whistle, as an announcer declares the score is 'Nine at nine' and 'it's anyone's game' with 'three minutes left.' Upbeat, energetic background music with a driving beat begins, accompanying the mascots' exaggerated movements—sliding, waving, and skating—while they maneuver a small yellow ball with sticks. The referee mascot in black-and-white stripes actively oversees the game, with their whistle audibly blowing. The announcer continues to provide commentary, noting the mascots 'trying to find that ball' and urging them to 'start passing.' The crowd behind the 'COLLECT THE BEST' and 'All-Star' branded boards cheers enthusiastically throughout. The announcer identifies Youppi! dancing and waving, then calls out Stinger 'looking to score.' A goal is scored by Blades, a brown bear mascot, as an on-screen graphic confirms 'GOAL by Blades, West 9 - East 10.' This moment is met with a massive, enthusiastic 'WOO!' from the crowd and roaring cheers, as the announcer exclaims, 'Great save! Great... Ten to nine, it's favored for the Eastern Conference!' The mascots then converge in a celebratory group huddle near the center of the rink, performing dynamic gestures like high-kicks and slides, all under the bright lighting and animated graphics of the overhead screen, as the crowd's excitement continues.",
+        "The lively mascot hockey game unfolds on a blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, as an announcer declares \"under two minutes to go\" and a score of \"10-9\" in favor of the Eastern Conference. Upbeat music plays as mascots like Stanley C. Panther and Blades engage in a face-off near center ice, overseen by the Referee Mascot. The announcer emphasizes the Eastern Conference's lead, stating they are \"two minutes away from winning this,\" while the Western Conference is urged to keep it a one-goal game. Dynamic skating, sliding, and goal attempts continue, with the announcer commenting on a play where \"SJ\" (possibly Sparky) tries to score, and explicitly mentioning \"You see Blades trying to get that goal.\" The tension builds, and then a loud \"Goal!\" from the announcer is met with enthusiastic crowd cheers as Blades scores, changing the on-screen text to 'GOAL by Blades, West 9 - East 11'. The announcer confirms, \"He's getting another goal! It's 11-9!\" Mascots then converge in a celebratory group huddle near the goal, with Gritty sliding on his knees, Youppi! waving, and Stormy skating in. As a Staff Member in a blue shirt walks onto the rink to interact with the Referee Mascot, the announcer calls for a \"timeout,\" bringing a brief pause to the festive, confetti-strewn atmosphere under overhead banners."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 38,
+      "end_minute": 44,
+      "summary": "On a blue indoor rink branded 'COLLECT THE BEST' and 'All-Star,' scattered with confetti, the mascot hockey game reached a fever pitch with a score tied at 11-11 in the final minute. After Gritty scored an own goal, the Western Conference ultimately secured a 12-11 victory with Carlton's shootout goal against Victor E. Green, prompting a massive crowd roar and chants of \"Carlton! Carlton!\". Mascots including Youppi!, Gritty, Iceburgh, Victor E. Green, and others celebrated with slides and waves, culminating in a unified group huddle. The event continued with the presentation of an Upper Deck trading card to Carlton by Amanda Whitaker Smith, followed by Chester the Cheetah presenting Carlton with a large bag of Cheetos, which Carlton raised like the Stanley Cup amidst cheers and laughter. Photographers captured the scene under bright overhead lights as the announcer highlighted the camaraderie and respect among the mascots, concluding the \"All-Star series, International Hockey League, the best of the best\" with a handshake line and final cheers.",
+      "involved_entities": {
+        "Staff Member": {
+          "description": "A man in a blue shirt and dark pants, likely an event coordinator or staff member, who walks onto the rink to observe the mascots and interact with the Referee Mascot.",
+          "attribute": "visual"
+        },
+        "Crowd Spectators": {
+          "description": "A large group of fans behind barriers, actively watching and cheering enthusiastically throughout the announcements and presentations.",
+          "attribute": "audio-visual"
+        },
+        "All-Star Mascot Competition Rink": {
+          "description": "A blue indoor rink with white boards, red boundary lines, and 'COLLECT THE BEST' and 'All-Star' branding, serving as the stage for the mascot performances, with confetti scattered across the surface.",
+          "attribute": "visual"
+        },
+        "Sparky": {
+          "description": "A blue and orange fox mascot in a New York Islanders jersey with number '00' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Youppi!": {
+          "description": "An orange and blue bear mascot in a Montréal Canadiens jersey with 'YUPPI' and '00' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Mick E. Moose": {
+          "description": "A moose mascot in a Winnipeg Jets jersey with '00' on the back, now kneeling within the group huddle.",
+          "attribute": "visual"
+        },
+        "Referee Mascot": {
+          "description": "A small, orange and black striped mascot resembling a referee, holding a whistle and interacting with the crowd, now walking toward the group and joining the huddle.",
+          "attribute": "visual"
+        },
+        "Netted Goal Structure": {
+          "description": "A white netted goal on the right side of the rink, resembling a hockey goal, visible in the background.",
+          "attribute": "visual"
+        },
+        "Overhead Screen": {
+          "description": "A large, suspended digital screen displaying animated mascot graphics, contributing to the event's visual spectacle, visible above the rink.",
+          "attribute": "visual"
+        },
+        "NJ Devil": {
+          "description": "A red devil mascot in a New Jersey Devils jersey with '00' and 'NJ DEVIL' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Stormy": {
+          "description": "A moose mascot in a Carolina Hurricanes jersey with '00' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Gritty": {
+          "description": "An orange, furry, monster-like mascot in a Philadelphia Flyers jersey with 'GRITTY' and '00' on the back, now kneeling within the group huddle.",
+          "attribute": "visual"
+        },
+        "Stanley C. Panther": {
+          "description": "A tan panther mascot in a Florida Panthers jersey with '00' and 'STANLEY' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Photographers": {
+          "description": "Several individuals crouched near the rink's edge, capturing photos and videos with professional cameras, remaining in position throughout the segment.",
+          "attribute": "visual"
+        },
+        "Sabretooth": {
+          "description": "A green and yellow saber-toothed tiger mascot in a Buffalo Sabres jersey with number '00', now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Iceburgh": {
+          "description": "A black and yellow penguin mascot in a Pittsburgh Penguins jersey with 'ICEBURGH' and '00' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Tommy Hawk": {
+          "description": "A black and red hawk mascot in a Chicago Blackhawks jersey with number '1', now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Victor E. Green": {
+          "description": "A green, furry, alien-like mascot in a Dallas Stars jersey, standing near the rink’s edge and gesturing animatedly, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Chance": {
+          "description": "A yellow and black dog-like mascot in a Vegas Golden Knights jersey with number '00', now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Spartacat": {
+          "description": "An orange-haired cat mascot in an Ottawa Senators jersey with '00' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Gnash": {
+          "description": "A saber-toothed tiger mascot in a Nashville Predators jersey with '00' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Thunderbug": {
+          "description": "A blue and yellow bug mascot in a Tampa Bay Lightning jersey with '00' and 'THUNDERBUG' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Chester the Cheetah": {
+          "description": "An orange and black cheetah mascot, who is seen presenting 'the biggest bag of puffy Cheetos' to Carlton as announced by the announcer.",
+          "attribute": "audio-visual"
+        },
+        "Stinger": {
+          "description": "A green, alien-like mascot in a Columbus Blue Jackets jersey with '00' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "SJ Sharkie": {
+          "description": "A shark mascot in a San Jose Sharks jersey with '1' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Harvey the Hound": {
+          "description": "A white dog mascot with a red collar and a Calgary Flames jersey, now kneeling within the group huddle.",
+          "attribute": "visual"
+        },
+        "Fin": {
+          "description": "A black and white orca mascot in a Vancouver Canucks jersey, now standing within the group huddle.",
+          "attribute": "visual"
+        },
+        "Bailey": {
+          "description": "A lion mascot in a Los Angeles Kings jersey with '7' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Nordy": {
+          "description": "A large, orange bear mascot wearing a Minnesota Wild jersey with 'NORDY' and number '1800' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Slapshot": {
+          "description": "A red, white, and blue eagle mascot in a Washington Capitals jersey with number '00', now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Howler": {
+          "description": "A gray wolf mascot in an Arizona Coyotes jersey, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Hunter": {
+          "description": "A wolf mascot in an Edmonton Oilers jersey with '72' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Buoy": {
+          "description": "A blue-haired, fish-like mascot in a Seattle Kraken jersey with number '0', now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Blades": {
+          "description": "A brown bear mascot in a Boston Bruins jersey with '00' and 'BLADES' on the back, now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Louie": {
+          "description": "A blue and yellow bear mascot in a St. Louis Blues jersey with number '0', now part of the group huddle.",
+          "attribute": "visual"
+        },
+        "Bernie": {
+          "description": "A large, white, bear-like mascot in a Colorado Avalanche jersey with 'BERNIE' and number '1' on the back, visible near the rink’s side, later joining the group huddle.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The lively All-Star Mascot Competition unfolds on a blue indoor rink, branded 'COLLECT THE BEST' and 'All-Star,' with confetti scattered across the surface. An announcer sets the scene, noting a 'good time out here' for the Western Conference, currently 'down two goals.' Mascots like Youppi!, Stormy, and Gritty engage in playful hockey action, skating and passing. Commentary highlights a moment where 'the Pin is talking to the referee,' with the announcer speculating 'Pin is not happy' and identifying the official as 'referee Jane,' who 'can speak mascot.' The score is announced as '10 to 9' with 'a minute 21 left.' The crowd cheers enthusiastically as the game intensifies. The announcer builds anticipation, declaring 'here comes Moose, here comes Gritty,' followed by a 'whistle from the ball drop.' The score updates to '11 to 9' for the Western Conference, with 'a minute 15 left.' Mick E. Moose then scores a goal, prompting a loud 'Goal!' from the announcer and a roar from the crowd, confirming the Western Conference's victory at '11 to 9!' Gritty slides on his knees and waves, while other mascots like NJ Devil and Sparky skate energetically. The announcer then hypes up the 'Mr. Columbus fans,' urging them to 'stand up!' which they respond to with loud cheers. The event culminates in a celebratory group huddle of mascots, including Youppi!, Stormy, and Gritty, creating a joyful and entertaining spectacle.",
+        "The lively mascot hockey game on the 'All-Star' branded blue indoor rink, scattered with confetti, kicks off with a chaotic moment as Gritty (Philadelphia Flyers) scores an own goal. The announcer exclaims \"GOAL!\" and \"Oh, Gritty!\" as the on-screen text confirms 'West 11 - East 11'. Mascots like Youppi! (Montréal Canadiens), Stanley C. Panther (Florida Panthers), NJ Devil (New Jersey Devils), and Sabretooth (Buffalo Sabres) skate, jostle, and engage in playful combat with hockey sticks, performing dynamic slides and waves. The announcer humorously notes, \"That's an own goal, my friend,\" and keeps the crowd updated, stating, \"We still have 40 seconds left\" and that the score is \"11 to 11.\" A referee mascot in stripes oversees the action, occasionally interacting with a staff member in a blue shirt who walks onto the rink. The overhead screen displays animated mascot graphics, adding to the festive atmosphere, while the crowd behind barriers cheers enthusiastically. As the clock winds down, the announcer repeatedly confirms the \"tied at 11\" score, counting down \"20 seconds left.\" The mascots eventually gather in a high-energy group huddle near the center of the rink, celebrating together as the announcer counts down the final seconds: \"5, 4, 3, 2, 1! That's it!\" to the roaring crowd, signaling the end of the segment.",
+        "The minute opens with an energetic electronic music track and enthusiastic crowd cheering, setting a festive tone as the mascot hockey game concludes on a vibrant blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos and scattered with confetti. The scoreboard displays a tied score of 'West 11 East 11', which an announcer repeatedly highlights, exclaiming, \"This is out!\" Another voice playfully warns, \"This is why we don't lean on the board.\" The NHL team mascots, including Gritty, Iceburgh, Sabretooth, and Youppi!, are seen celebrating and gathering in a group huddle. Gritty, the orange furry monster in a Philadelphia Flyers jersey, slides on his knees and waves enthusiastically, later scoring a goal into his own net, prompting the announcer to exclaim, \"Captain Chaos!\" and \"Oh, awesome!\" Iceburgh, the black and yellow penguin, performs high-kicks and dances, while Sabretooth, the green and yellow saber-toothed tiger, waves and slides dynamically. Youppi!, the orange and blue bear, dances with energy. The Referee Mascot, in a black-and-white striped outfit, blows his whistle and walks toward the group. The Overhead Screen displays animated mascot graphics, enhancing the visual spectacle. Crowd Spectators cheer loudly from behind barriers, and Photographers capture the moment. As the announcer sets up a potential shootout, asking \"Who's gonna shoot first?\" and encouraging the fans, the mascots engage in joyful, animated interactions, culminating in a unified group huddle. The announcer playfully comments on their antics, stating, \"They can't even shoot, they're not shooting,\" as the high-energy music continues to drive the celebratory mood.",
+        "The lively and chaotic mascot shootout unfolds on a blue indoor rink, branded with 'COLLECT THE BEST' and 'All-Star' logos, confetti scattered across the surface, as an announcer's voice sets the stage, \"Alright, we're gonna fire up... we're gonna get this going... we're gonna kick the tapping... looking for that chance.\" Youppi! and Gritty are seen near the goal, with Gritty sliding on his knees, prompting the announcer to exclaim, \"Nice work, Gritty, yeah!\" followed by a crowd \"Whoa!\" A referee mascot oversees the action as Tommy Hawk attempts a shot, which the announcer confirms as a miss with \"Tommy Hawk, zero,\" and the on-screen text 'Shootout: Tommy Hawk misses vs. Iceburgh - West 11 - East 11'. The camera pans to Iceburgh near the goal, while the announcer builds tension, stating, \"It comes down to this,\" before introducing \"Your Eastern Conference captain, Carlton!\" Carlton takes a shot and scores against Victor E. Green, leading to a massive crowd roar and cheers, with the announcer excitedly declaring, \"Carlton scores!\" and later, \"Goal!\" The on-screen text confirms 'Shootout: Carlton SCORES vs. Victor E. Green - West 11 - East 12 - FINAL'. The crowd's excitement continues with chants of \"Carlton! Carlton!\" as mascots including Youppi!, Gritty, Iceburgh, Victor E. Green, and others celebrate with slides and waves. A staff member walks onto the rink to interact with the Referee Mascot, while the overhead screen displays animated graphics. The event concludes with a group huddle of mascots, celebrating the final score amidst the ongoing cheers and the announcer's final exclamations of \"Yeah! Yeah!\"",
+        "The segment opens with an upbeat, celebratory pop/rock track and enthusiastic crowd cheering, setting a festive tone as the mascot hockey game concludes on the vibrant blue 'COLLECT THE BEST' and 'All-Star' branded rink, now littered with confetti. A male announcer's voice cuts through the music, exclaiming, \"Ladies and gentlemen, what a fantastic...\" before encouraging viewers to \"You gotta see him up close... you gotta see him up close.\" Mascots from various NHL teams, including Gritty, Nordy, Harvey the Hound, Bernie, Victor E. Green, Mick E. Moose, Gnash, Hunter, SJ Sharkie, Bailey, Buoy, Chance, Louie, Tommy Hawk, Sabretooth, Sparky, Iceburgh, Slapshot, Spartacat, Blades, NJ Devil, Stormy, Youppi!, Stinger, Thunderbug, Stanley C. Panther, Chester the Cheetah, and Carlton, are seen gathering in an animated huddle at center ice. The announcer specifically notes \"SJ Sharkie devastated,\" and later comments on a mascot \"just doing his game by himself,\" while the Overhead Screen displays animated mascot graphics. The Referee Mascot and a Staff Member join the group as mascots engage in celebratory gestures like waving, sliding, posing, high-kicks, embracing, and playfully bumping into each other. The announcer highlights the significance of the moment, stating, \"All of these mascots for sports and players... all over the world,\" before announcing, \"And now for the greatest tradition in all sports, the handshake line,\" signifying the end of the \"All-Star series, International Hockey League, the best of the best.\" Photographers remain stationed near the rink's edge, capturing the dynamic scene, while Crowd Spectators cheer from behind barriers. The announcer then points out, \"There's Hunter, about... one-on-one between these two conferences,\" emphasizing the competitive spirit, but concludes by acknowledging that \"Even though it's a fierce, competitive weekend, honor and respect out here right now,\" as the mascots culminate in a unified group celebration.",
+        "The segment opens with an energetic electronic music track and the cheers of a lively crowd, setting the stage for the All-Star Mascot Competition on a blue indoor rink adorned with 'All-Star' and 'COLLECT THE BEST' branding. A large group of NHL team mascots, including Gritty, Mick E. Moose, Louie, Blades, Youppi!, Harvey the Hound, Nordy, Fin, Victor E. Green, Howler, Referee Mascot, Gnash, Hunter, SJ Sharkie, Bailey, Buoy, Chance, Tommy Hawk, Sabretooth, Sparky, Iceburgh, Slapshot, Spartacat, NJ Devil, Stormy, Stinger, Thunderbug, Stanley C. Panther, Chester the Cheetah, and Carlton, are seen in a dynamic circle, skating, waving, sliding, and performing playful gestures amidst scattered confetti. An announcer's voice highlights the action, noting \"Louie, you too, banging it off the touch for Louie and Gritty,\" and later adding that \"Louie, in his second year as an NHL mascot,\" was \"coming up short today.\" As the upbeat music continues, the mascots gradually move toward the center, forming a tight huddle, with some kneeling or crouching in celebration. The announcer instructs, \"Get all our mascots here in the middle,\" and specifically calls out, \"Chester, I think you should get in there too, buddy,\" urging Chester the Cheetah to join the group. A staff member in a blue shirt briefly interacts with the Referee Mascot before stepping back, while an overhead screen displays animated mascot graphics. The scene culminates in a unified group huddle, symbolizing camaraderie and celebration, as the announcer offers a final \"Best of luck to you.\"",
+        "The All-Star Mascot Competition Rink is a vibrant scene of celebration, with a large group of mascots, including Victor E. Green, Harvey the Hound, Nordy, Fin, Howler, Mick E. Moose, Gnash, Hunter, SJ Sharkie, Bailey, Buoy, Chance, Louie, Tommy Hawk, Sabretooth, Sparky, Iceburgh, Slapshot, Spartacat, Blades, NJ Devil, Stormy, Youppi!, Stinger, Gritty, Thunderbug, Stanley C. Panther, and Chester the Cheetah, tightly huddled together amidst scattered confetti. Upbeat, celebratory music plays as an announcer's voice, accompanied by enthusiastic crowd cheers, introduces Amanda Whitaker Smith from Upper Deck, who is presenting Carlton, the bear mascot in a Montréal Canadiens jersey, with his very own Upper Deck trading card. The announcer praises Upper Deck for their \"great playing service\" and encourages spectators to visit the \"upperdecknhlmascotclub.clubhouse\" for trading cards and cool games, even mentioning the possibility of getting a \"trading card made on yourself.\" As the Referee Mascot, whistle in hand, engages with the group and a Staff Member approaches, the announcer declares that Carlton will receive even more. From Chester the Cheetah, the orange and black cheetah mascot, Carlton is presented with \"the biggest bag of puffy Cheetos I've ever seen in my life,\" eliciting more cheers and laughter from the crowd. The announcer then directs Carlton to \"turn that bag around so we can see it\" and \"raise it high as if it were the Stanley Cup,\" a command met with further enthusiastic crowd reactions, reinforcing the festive and celebratory atmosphere of the event. Photographers remain crouched at the rink's edge, capturing every moment under the bright overhead lights, while the 'COLLECT THE BEST' and 'All-Star' branding on the boards highlights the event’s theme."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 45,
+      "end_minute": 45,
+      "summary": "Amidst a lively indoor sports fan convention, a male voice playfully suggests eating Cheetos from Stanley's cup, setting a lighthearted tone. The scene features a bustling crowd and booths, with a 'CHEETLE' sign visible. On a red carpet, Stanley C. Panther, a mascot in a red Florida Panthers jersey, holds a piece of paper while a person in a matching costume actively signs it with a smile, holding a small plush panther toy. The surrounding crowd, many in hockey jerseys, watches, takes photos, and cheers \"Stanley!\" An upbeat, energetic background music with a strong beat and synth elements plays, accompanied by general crowd noise and indistinct chatter, contributing to the brightly lit, celebratory atmosphere.",
+      "involved_entities": {
+        "Person in Panthers Costume": {
+          "description": "An individual wearing a red Florida Panthers jersey, a matching tan panther hat, and holding a small plush panther toy, actively signing a piece of paper held by the mascot.",
+          "attribute": "visual"
+        },
+        "Cheetle Booth": {
+          "description": "A branded exhibit with a large orange and white sign reading 'CHEETLE' and a stylized cheetah logo, visible in the background, thematically linked by a speaker's suggestion to eat 'Cheetos out of Stanley's cup'.",
+          "attribute": "audio-visual"
+        },
+        "Stanley C. Panther": {
+          "description": "A tan panther mascot, whose identity is confirmed by crowd cheers of 'Stanley!' and a speaker's playful reference to 'Stanley's cup', wearing a red Florida Panthers jersey with 'PANTHERS' and number '00' on the front, and 'STANLEY' on the back, holding a piece of paper steady with its paws for signing.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a male voice playfully suggesting, \"I think they should eat Cheetos out of Stanley's cup,\" adding, \"I think you heard it here first,\" setting a lighthearted tone amidst a lively indoor event. The scene captures a bustling sports fan convention, with a crowd and various booths, including a prominent 'CHEETLE' sign in the background, subtly connecting to the 'Cheetos' mention. The central focus is on a red carpeted area where Stanley C. Panther, a full-body tan panther mascot in a red Florida Panthers jersey, holds a piece of paper steady with its paws. Interacting with the mascot is a person in a matching red Panthers jersey and tan panther hat, holding a small plush panther toy, actively signing the paper with a smile. The surrounding crowd, many in hockey jerseys, watches and moves, some taking photos, and a distinct cheer of \"Stanley!\" erupts, confirming the mascot's identity and popularity. Throughout the segment, an upbeat, energetic background music with a strong beat and synth elements plays, accompanied by general crowd noise and indistinct chatter, likely from those interacting with the mascot and signer, all contributing to the brightly lit, celebratory atmosphere."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Crowd Spectators": "A large group of fans behind barriers, actively watching and cheering enthusiastically throughout the announcements and presentations.",
+    "Howler": "A gray wolf mascot in an Arizona Coyotes jersey, now part of the group huddle.",
+    "Fin": "A black and white orca mascot in a Vancouver Canucks jersey, now standing within the group huddle.",
+    "Bernie": "A large, white, bear-like mascot in a Colorado Avalanche jersey with 'BERNIE' and number '1' on the back, visible near the rink’s side, later joining the group huddle.",
+    "Referee Mascot": "A small, orange and black striped mascot resembling a referee, holding a whistle and interacting with the crowd, now walking toward the group and joining the huddle.",
+    "Photographers": "Several individuals crouched near the rink's edge, capturing photos and videos with professional cameras, remaining in position throughout the segment.",
+    "Overhead Screen": "A large, suspended digital screen displaying animated mascot graphics, contributing to the event's visual spectacle, visible above the rink.",
+    "Harvey the Hound": "A white dog mascot with a red collar and a Calgary Flames jersey, now kneeling within the group huddle.",
+    "Victor E. Green": "A green, furry, alien-like mascot in a Dallas Stars jersey, standing near the rink’s edge and gesturing animatedly, now part of the group huddle.",
+    "Nordy": "A large, orange bear mascot wearing a Minnesota Wild jersey with 'NORDY' and number '1800' on the back, now part of the group huddle.",
+    "SJ Sharkie": "A shark mascot in a San Jose Sharks jersey with '1' on the back, now part of the group huddle.",
+    "Gnash": "A saber-toothed tiger mascot in a Nashville Predators jersey with '00' on the back, now part of the group huddle.",
+    "Mick E. Moose": "A moose mascot in a Winnipeg Jets jersey with '00' on the back, now kneeling within the group huddle.",
+    "Hunter": "A wolf mascot in an Edmonton Oilers jersey with '72' on the back, now part of the group huddle.",
+    "Bailey": "A lion mascot in a Los Angeles Kings jersey with '7' on the back, now part of the group huddle.",
+    "Chance": "A yellow and black dog-like mascot in a Vegas Golden Knights jersey with number '00', now part of the group huddle.",
+    "Louie": "A blue and yellow bear mascot in a St. Louis Blues jersey with number '0', now part of the group huddle.",
+    "Netted Goal Structure": "A white netted goal on the right side of the rink, resembling a hockey goal, visible in the background.",
+    "Tommy Hawk": "A black and red hawk mascot in a Chicago Blackhawks jersey with number '1', now part of the group huddle.",
+    "Buoy": "A blue-haired, fish-like mascot in a Seattle Kraken jersey with number '0', now part of the group huddle.",
+    "All-Star Mascot Competition Rink": "A blue indoor rink with white boards, red boundary lines, and 'COLLECT THE BEST' and 'All-Star' branding, serving as the stage for the mascot performances, with confetti scattered across the surface.",
+    "Sabretooth": "A green and yellow saber-toothed tiger mascot in a Buffalo Sabres jersey with number '00', now part of the group huddle.",
+    "Slapshot": "A red, white, and blue eagle mascot in a Washington Capitals jersey with number '00', now part of the group huddle.",
+    "Spartacat": "An orange-haired cat mascot in an Ottawa Senators jersey with '00' on the back, now part of the group huddle.",
+    "Blades": "A brown bear mascot in a Boston Bruins jersey with '00' and 'BLADES' on the back, now part of the group huddle.",
+    "Sparky": "A blue and orange fox mascot in a New York Islanders jersey with number '00' on the back, now part of the group huddle.",
+    "Iceburgh": "A black and yellow penguin mascot in a Pittsburgh Penguins jersey with 'ICEBURGH' and '00' on the back, now part of the group huddle.",
+    "Youppi!": "An orange and blue bear mascot in a Montréal Canadiens jersey with 'YUPPI' and '00' on the back, now part of the group huddle.",
+    "Stormy": "A moose mascot in a Carolina Hurricanes jersey with '00' on the back, now part of the group huddle.",
+    "NJ Devil": "A red devil mascot in a New Jersey Devils jersey with '00' and 'NJ DEVIL' on the back, now part of the group huddle.",
+    "Stinger": "A green, alien-like mascot in a Columbus Blue Jackets jersey with '00' on the back, now part of the group huddle.",
+    "Gritty": "An orange, furry, monster-like mascot in a Philadelphia Flyers jersey with 'GRITTY' and '00' on the back, now kneeling within the group huddle.",
+    "Thunderbug": "A blue and yellow bug mascot in a Tampa Bay Lightning jersey with '00' and 'THUNDERBUG' on the back, now part of the group huddle.",
+    "Stanley C. Panther": "A tan panther mascot, whose identity is confirmed by crowd cheers of 'Stanley!' and a speaker's playful reference to 'Stanley's cup', wearing a red Florida Panthers jersey with 'PANTHERS' and number '00' on the front, and 'STANLEY' on the back, holding a piece of paper steady with its paws for signing.",
+    "Chester the Cheetah": "An orange and black cheetah mascot, who is seen presenting 'the biggest bag of puffy Cheetos' to Carlton as announced by the announcer.",
+    "Staff Member": "A man in a blue shirt and dark pants, likely an event coordinator or staff member, who walks onto the rink to observe the mascots and interact with the Referee Mascot.",
+    "Person in Panthers Costume": "An individual wearing a red Florida Panthers jersey, a matching tan panther hat, and holding a small plush panther toy, actively signing a piece of paper held by the mascot.",
+    "Cheetle Booth": "A branded exhibit with a large orange and white sign reading 'CHEETLE' and a stylized cheetah logo, visible in the background, thematically linked by a speaker's suggestion to eat 'Cheetos out of Stanley's cup'."
+  }
+}

@@ -1,0 +1,295 @@
+{
+    "video_id": "video173",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video opens with a first-person perspective of a DoorDash delivery driver, beginning with a hand holding a coffee cup outside a house, followed by a close-up of a smartphone screen showing a completed delivery payment of $8.50. The scene transitions to the driver entering a car, with a focus on the steering wheel and dashboard, before cutting to a black screen with the text 'POV DoorDash Shift'. The driver then receives a new delivery request for McDonald’s, displayed on the phone with a $4.75 guaranteed payout. The driver accepts the order and drives to the location, shown by a view of the car’s interior and the driver’s hand on the steering wheel. The next delivery is from CVS, with a $7.00 guaranteed payout, requiring a Red Card and ID check for restricted items. The driver arrives at CVS, shown by the exterior sign, and proceeds to the drive-thru. Inside the car, the driver checks the shopping list on the phone, which includes Vicks DayQuil & NyQuil Cold & Flu Relief Liquid Caps, with a note to avoid mucinex. The driver then prepares to check out, with the phone screen showing the 'Proceed to checkout' button. The video ends with a close-up of the CVS order details, emphasizing the restricted items and ID check requirements.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, holding a smartphone and interacting with the DoorDash app while driving and delivering orders.",
+                "Smartphone": "A black-cased smartphone displaying the DoorDash app interface, showing delivery details, payment confirmations, and shopping lists, held in the driver’s hand throughout the video.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a textured grip, dashboard controls, and a visible gear shift, seen from the driver’s point of view.",
+                "DoorDash App": "The mobile application interface showing delivery requests, payment summaries, and shopping lists, with red 'Accept' buttons and detailed order information.",
+                "CVS Pharmacy Sign": "A large outdoor sign for CVS Pharmacy with red and white lettering, advertising drive-thru pharmacy services and immunizations, visible as the driver approaches the store.",
+                "McDonald’s Delivery Request": "A delivery order from McDonald’s displayed on the smartphone, showing a $4.75 guaranteed payout and a 6.2-mile distance, with a red 'Accept' button.",
+                "CVS Delivery Request": "A delivery order from CVS displayed on the smartphone, showing a $7.00 guaranteed payout, requiring a Red Card and ID check for restricted items, with a red 'Accept' button.",
+                "Shopping List Screen": "A screen within the DoorDash app showing a list of items to purchase, including Vicks DayQuil & NyQuil Cold & Flu Relief Liquid Caps, with a note to avoid mucinex and a 'Proceed to checkout' button."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The video begins with a first-person perspective of the DoorDash Driver approaching a CVS Pharmacy, as indicated by the prominent red and white CVS Pharmacy Sign visible outside. The driver, wearing a dark long-sleeve shirt and a beaded bracelet, exits the Car Interior and walks into the store. Inside, the driver navigates the aisles, selecting Vicks DayQuil & NyQuil Cold & Flu Relief Liquid Caps from the shelves, as shown on the Shopping List Screen from the DoorDash App. After purchasing the items, the driver exits the store, carrying a brown CVS Pharmacy paper bag, and returns to the Car Interior. The driver then places the bag in the passenger seat and uses the Smartphone to check the navigation, which displays a route with a 'Turn right' instruction and a 7-minute estimated time. The driver proceeds to drive along a sunny road, with the dashboard and steering wheel visible, passing by trees and other vehicles under a clear blue sky. The journey continues as the driver follows the navigation, heading toward the next delivery destination.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, holding a smartphone and interacting with the DoorDash app while driving and delivering orders.",
+                "Smartphone": "A black-cased smartphone displaying the DoorDash app interface, showing delivery details, payment confirmations, and shopping lists, held in the driver’s hand throughout the video.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a textured grip, dashboard controls, and a visible gear shift, seen from the driver’s point of view.",
+                "CVS Pharmacy Sign": "A large outdoor sign for CVS Pharmacy with red and white lettering, advertising drive-thru pharmacy services and immunizations, visible as the driver approaches the store.",
+                "Shopping List Screen": "A screen within the DoorDash app showing a list of items to purchase, including Vicks DayQuil & NyQuil Cold & Flu Relief Liquid Caps, with a note to avoid mucinex and a 'Proceed to checkout' button."
+            },
+            "discovered_new_entities": {
+                "CVS Pharmacy Paper Bag": "A brown paper bag with the CVS Pharmacy logo, used to carry purchased items, held by the driver after exiting the store."
+            }
+        },
+        {
+            "minute": 3,
+            "caption": "The video begins with a first-person perspective from inside a car, showing the driver navigating a suburban street under bright sunlight, with the Car Interior clearly visible including the black steering wheel with a textured grip and dashboard controls. The DoorDash Driver, wearing a dark long-sleeve shirt and a beaded bracelet, holds a Smartphone displaying the DoorDash App, which shows a completed CVS delivery earning $7.00, broken down into $4.00 base pay and $3.00 customer tip. The driver exits the vehicle, placing a CVS Pharmacy Paper Bag on the pavement beside the car, then returns to the car and starts driving again. As the driver continues, the Smartphone screen updates to show a new delivery request from McDonald’s for $4.50, with a 2.4-mile distance and a 10:15 AM delivery deadline. The driver considers the offer, briefly tapping 'Decline' before changing their mind and accepting a new, higher-paying delivery from GIANT for $10.50, which includes 6 items and requires a Red Card. The driver’s hand is seen interacting with the phone, tapping the 'Accept' button, while the Car Interior remains in view, including the gear shift and connected charging cable. The environment shifts from residential streets to a more open road, with sunlight creating lens flares through the windshield, indicating a clear day. The driver’s focus remains on the Smartphone screen, navigating through the DoorDash App to manage delivery requests.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, holding a smartphone and interacting with the DoorDash app while driving and delivering orders.",
+                "Smartphone": "A black-cased smartphone displaying the DoorDash app interface, showing delivery details, payment confirmations, and shopping lists, held in the driver’s hand throughout the video.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a textured grip, dashboard controls, and a visible gear shift, seen from the driver’s point of view.",
+                "DoorDash App": "The mobile application interface showing delivery requests, payment summaries, and shopping lists, with red 'Accept' buttons and detailed order information.",
+                "CVS Pharmacy Paper Bag": "A brown paper bag with the CVS Pharmacy logo, used to carry purchased items, held by the driver after exiting the store."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 4,
+            "caption": "The video begins with a map view from the DoorDash app, showing a delivery route from Wawaset to West Chester, with a 37% completion rate that drops to 36% after declining an order. The scene transitions to a first-person perspective from inside a car, where the DoorDash Driver is seen holding a Smartphone displaying a new delivery request for ShopRite, offering $10.50 guaranteed (including tips) for a 0.9-mile trip with a 10:40 AM delivery deadline. The Driver, wearing a dark long-sleeve shirt and a beaded bracelet, accepts the order and drives toward the ShopRite store, navigating through a sunny suburban area with clear skies. The Car Interior is visible, featuring a black steering wheel with a textured grip and dashboard controls. Upon arrival, the Driver parks in front of the ShopRite store, which has a beige facade and a red 'ShopRite' sign. The Driver exits the vehicle, enters the store, and pushes a shopping cart through the refrigerated section, selecting a carton of 'bowl & basket' brand white eggs labeled '12 JUMBO' from a shelf filled with various egg cartons. The Driver’s hand, adorned with the beaded bracelet, is seen picking up the eggs, indicating the start of the shopping process for the delivery order.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, holding a smartphone and interacting with the DoorDash app while driving and delivering orders.",
+                "Smartphone": "A black-cased smartphone displaying the DoorDash app interface, showing delivery details, payment confirmations, and shopping lists, held in the driver’s hand throughout the video.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a textured grip, dashboard controls, and a visible gear shift, seen from the driver’s point of view.",
+                "DoorDash App": "The mobile application interface showing delivery requests, payment summaries, and shopping lists, with red 'Accept' buttons and detailed order information."
+            },
+            "discovered_new_entities": {
+                "ShopRite Store": "A beige-colored grocery store with a red 'ShopRite' sign, located in a suburban area with a parking lot and visible signage for 'BEER & WINE' and 'BAKERY'.",
+                "Shopping Cart": "A black metal shopping cart pushed by the Driver through the refrigerated section of the store, used to collect items for the delivery order.",
+                "Egg Carton": "A white cardboard carton labeled 'bowl & basket' brand, containing 12 jumbo white eggs, selected by the Driver from a refrigerated shelf in the ShopRite store."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video begins with the DoorDash Driver selecting a white cardboard Egg Carton labeled 'bowl & basket' with 12 jumbo white eggs from a refrigerated shelf in the ShopRite Store. The Driver, wearing a dark long-sleeve shirt and a beaded bracelet, places the carton into a black metal Shopping Cart already containing other items like a bottle of ketchup and a green box. The Driver then adds a blue bottle of Coffee-mate French Vanilla Zero Sugar creamer and a red box of Jimmy Dean Meat Lovers Breakfast Bowl to the cart. As the Driver reaches for a higher shelf, they struggle to reach an item, prompting a humorous on-screen text overlay: 'Had To Get A Tall Employee To Help Me :/' followed by 'Pretty Solid Low Point of My Life'. After retrieving the item, the Driver pushes the cart toward the checkout. The scene transitions to the Driver loading the purchased items into the Car Interior, placing them in the back seat next to a pink and blue patterned bag. The Driver then places the Shopping Cart into the trunk of the car, securing it before closing the trunk lid. The lighting shifts from the bright, fluorescent interior of the store to the natural daylight outside, indicating the transition from shopping to departure.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, actively selecting and placing grocery items into a shopping cart, then loading them into a car.",
+                "Shopping Cart": "A black metal shopping cart pushed through the refrigerated section of the ShopRite Store, containing various grocery items including an Egg Carton, Coffee-mate creamer, and Jimmy Dean Breakfast Bowl.",
+                "Egg Carton": "A white cardboard carton labeled 'bowl & basket' brand, containing 12 jumbo white eggs, selected from a refrigerated shelf and placed into the shopping cart.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel, dashboard, and back seat, where the Driver places the purchased groceries and a pink and blue patterned bag.",
+                "ShopRite Store": "A beige-colored grocery store with refrigerated sections, where the Driver shops for items, including eggs and breakfast bowls, under bright fluorescent lighting."
+            },
+            "discovered_new_entities": {
+                "Coffee-mate Creamer": "A blue bottle of Coffee-mate French Vanilla Zero Sugar creamer, held by the Driver and placed into the shopping cart.",
+                "Jimmy Dean Breakfast Bowl": "A red box of Jimmy Dean Meat Lovers Breakfast Bowl, containing potatoes, sausage, eggs, cheddar cheese, and bacon, placed into the shopping cart.",
+                "Pink and Blue Patterned Bag": "A fabric bag with pink and blue patterns, placed in the back seat of the car alongside the groceries, likely for personal items or additional delivery contents."
+            }
+        },
+        {
+            "minute": 6,
+            "caption": "The video begins with a first-person perspective of the DoorDash Driver placing white takeout containers into the car’s back seat, which already holds a pink and blue patterned bag. The Driver then drives away from a restaurant, navigating through a sunny suburban area with clear skies and traffic lights. Inside the car, the Driver interacts with the Smartphone, which displays the DoorDash App showing a completed delivery with a total payout of $10.50, including $5.50 base pay and $5.00 in customer tips. The Driver then accepts a new delivery request for Dunkin’ with a $6.00 guaranteed payout, visible on the app screen. The Driver continues driving, hands on the steering wheel, wearing a dark long-sleeve shirt and a beaded bracelet, as the car moves along tree-lined streets under bright daylight. The video briefly cuts to a meme featuring a person in tactical gear with the DoorDash logo and the text 'OH YOU GOTTA BE QUICKER THAN THAT!', before returning to the Driver placing the takeout containers on a concrete step outside a residence, with the Smartphone still showing the completed delivery summary. The final frames show the Driver’s hand holding a red Dasher Red Card, with the app screen indicating the digital card is not active and needs to be added to Apple Wallet for activation.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, actively placing takeout containers into the car and driving through suburban streets.",
+                "Smartphone": "A black-cased smartphone displaying the DoorDash App interface, showing completed delivery details with a $10.50 total payout and a new Dunkin’ delivery request for $6.00 guaranteed.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel, dashboard, and back seat, where the Driver places white takeout containers and a pink and blue patterned bag.",
+                "DoorDash App": "The mobile application interface showing delivery completion with a $10.50 total, including base pay and tips, and a new Dunkin’ delivery request with a $6.00 guaranteed payout."
+            },
+            "discovered_new_entities": {
+                "Dasher Red Card": "A physical red card held by the Driver, with the DoorDash logo, shown alongside the app screen indicating the digital card is not active and needs to be added to Apple Wallet.",
+                "Takeout Containers": "White cardboard containers with food branding, placed in the car and later delivered to a customer’s doorstep.",
+                "Concrete Step": "A gray concrete step outside a residence, where the takeout containers are placed after delivery, surrounded by greenery.",
+                "Meme Image": "A humorous image of a person in tactical gear with a DoorDash logo and the text 'OH YOU GOTTA BE QUICKER THAN THAT!', inserted as a comedic interlude."
+            }
+        },
+        {
+            "minute": 7,
+            "caption": "The video begins with a first-person perspective from inside a car, showing the Driver’s hand gripping the black steering wheel as they drive along a suburban road under a clear blue sky. The Driver makes a thumbs-up gesture while navigating through traffic, passing by a green road sign indicating 'EXIT' and 'SPEED LIMIT 35'. The car continues down the road, passing a 'Tobacco Hut' and approaching a Dunkin’ Donuts store with a beige and orange facade and large glass windows. The Driver pulls into the parking lot, exits the vehicle, and retrieves a Dunkin’ coffee cup from the store. The camera captures the Driver’s hand holding the cup as they return to the car, placing it in the cup holder. The Driver then gets back into the car, adjusts the gear shift, and prepares to drive away. The car moves forward, passing by the Dunkin’ storefront again, and then transitions onto a highway with multiple lanes and traffic, including a white van and a large truck. The Driver continues driving, passing under a green highway sign indicating 'Park Ave' and 'Burlington', before turning onto a residential street lined with trees and houses, eventually pulling into a driveway. Throughout the segment, the Driver is seen wearing a dark long-sleeve shirt and a beaded bracelet, and the car’s interior features a black steering wheel with a red and silver logo, a dashboard with circular gauges, and a gear shift with a chrome knob. The environment shifts from suburban streets to a commercial area, then to a highway, and finally to a quiet residential neighborhood, all under bright sunlight with clear skies.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, actively driving a car, making a thumbs-up gesture, retrieving a coffee cup from a Dunkin’ Donuts store, and placing it in the car’s cup holder.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a red and silver logo, a dashboard with circular gauges, a gear shift with a chrome knob, and a cup holder where the coffee cup is placed."
+            },
+            "discovered_new_entities": {
+                "Dunkin’ Donuts Store": "A beige and orange building with large glass windows, a prominent 'Dunkin’ Donuts' sign, and a 'NOW HIRING' sign on the door, located in a commercial area with a parking lot and orange bollards.",
+                "Coffee Cup": "A clear plastic cup with a white lid, containing a light brown beverage, held by the Driver after being retrieved from the Dunkin’ Donuts store, and later placed in the car’s cup holder.",
+                "Highway Signage": "Green overhead signs indicating 'Park Ave' and 'Burlington', visible as the car transitions from a commercial area to a highway with multiple lanes and traffic.",
+                "Residential Street": "A quiet suburban street lined with trees and houses, featuring green lawns and driveways, where the car eventually pulls into a driveway after driving through the highway and commercial areas."
+            }
+        },
+        {
+            "minute": 8,
+            "caption": "The video begins with the DoorDash Driver, seen from a first-person perspective, placing a coffee cup into the car’s cup holder after retrieving it from a Dunkin’ Donuts store. The Driver is wearing a dark long-sleeve shirt and a beaded bracelet, and the car interior features a black steering wheel with a red and silver logo. The smartphone, mounted in the car, displays the DoorDash App showing a completed delivery with a total payout of $6.50, including $2.00 base pay and $4.50 in customer tips. The Driver then navigates through new delivery offers on the app, rejecting a $4.50 Popeyes Louisiana Kitchen order and a $3.25 Pizza Hut order, both displayed with maps and 'Accept' buttons. The Driver gives a thumbs-up gesture while driving, indicating approval or satisfaction. The video continues with the Driver rejecting a $2.00 Wendy’s delivery offer, with the app showing a confirmation prompt asking if they are sure to decline. The car is seen driving on a sunny day, with green trees and a white van visible through the side mirror, suggesting movement through a suburban area. The Driver’s hand, adorned with the beaded bracelet, interacts with the smartphone throughout, emphasizing the decision-making process during the delivery shifts.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, actively driving a car, making a thumbs-up gesture, retrieving a coffee cup from a Dunkin’ Donuts store, and placing it in the car’s cup holder.",
+                "Smartphone": "A black-cased smartphone displaying the DoorDash App interface, showing completed delivery details with a $6.50 total payout and new delivery requests for Popeyes, Pizza Hut, and Wendy’s, each with a red 'Accept' button and map view.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a red and silver logo, a dashboard with circular gauges, a gear shift with a chrome knob, and a cup holder where the coffee cup is placed.",
+                "DoorDash App": "The mobile application interface showing delivery completion with a $6.50 total, including base pay and tips, and new delivery requests from Popeyes, Pizza Hut, and Wendy’s, each with guaranteed payouts and map routes.",
+                "Coffee Cup": "A clear plastic cup with a white lid, containing a light brown beverage, held by the Driver after being retrieved from the Dunkin’ Donuts store, and later placed in the car’s cup holder.",
+                "Dunkin’ Donuts Store": "A beige and orange building with large glass windows, a prominent 'Dunkin’ Donuts' sign, and a 'NOW HIRING' sign on the door, located in a commercial area with a parking lot and orange bollards."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 9,
+            "caption": "The video begins with an animated scene from a cartoon, showing a character running through a wooden interior with a TikTok watermark, before transitioning to a real-world first-person perspective inside a car. The DoorDash Driver, wearing a dark long-sleeve shirt and a beaded bracelet, is seen holding a black-cased Smartphone displaying the DoorDash App. The app shows a delivery request from 'Poke Bros' for $5.00, which the Driver declines. After a brief moment, the screen updates to a new request from 'Mayday Coffee Shop' for $8.50, which the Driver accepts. The Driver then exits the car and walks down a sunny city sidewalk, passing a 'MAYDAY' sign and a 'NO PARKING' sign, before retrieving a brown paper bag from the coffee shop. The bag is carried along a narrow alleyway, suggesting the start of the delivery process. The environment shifts from the car’s interior to an urban street with brick buildings, trees, and clear blue skies, indicating a bright, sunny day.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, actively interacting with the DoorDash App in the car and later walking on a city sidewalk to retrieve a delivery.",
+                "Smartphone": "A black-cased smartphone displaying the DoorDash App interface, showing delivery requests from 'Poke Bros' and 'Mayday Coffee Shop', with red 'Accept' buttons and map routes.",
+                "DoorDash App": "The mobile application interface showing delivery requests with guaranteed payouts, pickup locations, delivery times, and a red 'Accept' button for each offer.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a red and silver logo, a dashboard with circular gauges, and a gear shift with a chrome knob."
+            },
+            "discovered_new_entities": {
+                "Mayday Coffee Shop": "A coffee shop with a white exterior, a 'MAYDAY' sign on the sidewalk, and Halloween decorations, located on a sunny city street with brick buildings and trees.",
+                "Brown Paper Bag": "A brown paper bag with the 'MAYDAY' logo, held by the Driver after retrieving it from the coffee shop, and carried along a narrow alleyway.",
+                "City Sidewalk": "A paved sidewalk lined with brick buildings, trees, and street signs, including a 'NO PARKING' sign and a 'MAYDAY' sign, under bright sunlight.",
+                "Alleyway": "A narrow, shaded alleyway between buildings, with a concrete path and scattered leaves, where the Driver carries the coffee bag after leaving the shop."
+            }
+        },
+        {
+            "minute": 10,
+            "caption": "The video begins with a first-person perspective of the DoorDash Driver walking through a narrow alleyway between brick and white buildings, carrying a brown paper bag with the 'MAYDAY' logo, indicating a delivery from Mayday Coffee Shop. The Driver then places the bag into the car’s front passenger seat, closes the door, and drives through a city street lined with colorful murals and storefronts, including a visible 'MAYDAY' sign. The scene transitions to a view from the car as it drives past a large TD Bank building and a grassy field under a clear blue sky. The Driver then exits the car, holding the brown paper bag, and walks on a sunlit sidewalk while the DoorDash App on their smartphone displays a completed delivery with a total payout of $8.50, including $2.00 base pay and $6.50 in customer tips. The Driver’s phone screen then shows the app searching for new orders, with a total earnings display of $32.50 for the day. The Driver starts the car, and the screen shows a calculation of $16.25 per hour for two hours of work. The Driver then drives along a suburban road, passing a white van and a red car, before stopping at a Panera Bread restaurant. The smartphone screen displays a new delivery request for $7.00 guaranteed, including tips, from Panera Bread, with a 4.3-mile distance and a delivery deadline of 12:19 PM. The Driver approaches the Panera Bread storefront, which features a beige facade with a green 'Panera' sign, and parks in a designated spot. The Driver exits the car, walks toward the entrance, and then returns to the car, where they unassign the order due to a long line, as indicated by the app screen showing the option to 'Unassign order' with a warning that it will lower their completion rate to 96%.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, actively interacting with the DoorDash App in the car and later walking on a city sidewalk to retrieve a delivery.",
+                "Smartphone": "A black-cased smartphone displaying the DoorDash App interface, showing delivery requests from 'Mayday Coffee Shop' and 'Panera Bread', with red 'Accept' buttons and map routes.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a red and silver logo, a dashboard with circular gauges, and a gear shift with a chrome knob.",
+                "DoorDash App": "The mobile application interface showing delivery requests with guaranteed payouts, pickup locations, delivery times, and a red 'Accept' button for each offer.",
+                "Mayday Coffee Shop": "A coffee shop with a white exterior, a 'MAYDAY' sign on the sidewalk, and Halloween decorations, located on a sunny city street with brick buildings and trees.",
+                "Brown Paper Bag": "A brown paper bag with the 'MAYDAY' logo, held by the Driver after retrieving it from the coffee shop, and carried along a narrow alleyway.",
+                "City Sidewalk": "A paved sidewalk lined with brick buildings, trees, and street signs, including a 'NO PARKING' sign and a 'MAYDAY' sign, under bright sunlight.",
+                "Alleyway": "A narrow, shaded alleyway between buildings, with a concrete path and scattered leaves, where the Driver carries the coffee bag after leaving the shop."
+            },
+            "discovered_new_entities": {
+                "Panera Bread": "A beige-colored restaurant with a green 'Panera' sign, located in a commercial area with a parking lot and trees, where the Driver stops to pick up a delivery order.",
+                "TD Bank Building": "A large, modern building with a green and white TD Bank logo, visible from the car as the Driver drives past it on a sunny day.",
+                "Suburban Road": "A two-lane road lined with trees, grassy areas, and residential-style fencing, where the Driver drives after completing the Mayday Coffee Shop delivery."
+            }
+        },
+        {
+            "minute": 11,
+            "caption": "The video opens with a close-up of the DoorDash Driver’s hand holding a Smartphone inside a Car Interior, displaying a screen titled 'Let us know what happened' with options to unassign an order, warning that doing so will lower the Completion Rate to 96%. The Driver selects 'Other reason' and taps 'Unassign order,' confirming the action. The scene shifts to the Driver, now outside the car, wearing a clown wig with colorful curls and a red nose, making a playful gesture toward the camera. The view returns to the Car Interior, showing the Driver driving through a sunny parking lot with other vehicles and trees visible outside. The Driver then receives a new delivery request on the Smartphone for Qdoba Mexican Eats, showing a $5.00 guaranteed payout and a 7.1-mile distance, with a red 'Accept' button. The Driver accepts the order, and the camera pans to the dashboard and gear shift, then back to the Smartphone as the car drives through a commercial area with a stop sign and a large yellow truck visible. The Driver’s hand is seen gripping the steering wheel, and the car continues moving through the area, passing a CVS Pharmacy sign and other storefronts under a clear blue sky.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, actively interacting with the DoorDash App in the car and later outside wearing a clown wig with colorful curls and a red nose.",
+                "Smartphone": "A black-cased smartphone displaying the DoorDash App interface, showing a screen to unassign an order with a warning about Completion Rate, then later showing a new delivery request from Qdoba Mexican Eats with a $5.00 guaranteed payout and a red 'Accept' button.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a red and silver logo, a dashboard with circular gauges, and a gear shift with a chrome knob, visible as the Driver navigates through a parking lot and commercial area.",
+                "DoorDash App": "The mobile application interface showing a screen to unassign an order with options and a warning, then transitioning to a new delivery request from Qdoba Mexican Eats with a map, payout, distance, and a red 'Accept' button.",
+                "CVS Pharmacy Sign": "A large outdoor sign for CVS Pharmacy with red and white lettering, visible as the car drives past it in a commercial area."
+            },
+            "discovered_new_entities": {
+                "Qdoba Mexican Eats Delivery Request": "A delivery order from Qdoba Mexican Eats displayed on the smartphone, showing a $5.00 guaranteed payout, 7.1-mile distance, and a red 'Accept' button, with a delivery time of 12:48 PM.",
+                "Clown Wig": "A colorful, curly wig with red, blue, and purple strands, worn by the Driver outside the car, paired with a red clown nose for a playful appearance.",
+                "Red Nose": "A bright red, round clown nose worn by the Driver, adding to the humorous costume during the outdoor scene."
+            }
+        },
+        {
+            "minute": 12,
+            "caption": "The video opens with a first-person perspective from inside a car, showing a black Honda Accord with a personalized license plate reading 'RIHANNA' parked at a stop sign, followed by a humorous text overlay 'Wasn’t Her :/' implying a mistaken identity. The scene transitions to the driver’s hand holding a smartphone displaying the DoorDash app, where a delivery request from Qdoba Mexican Eats is shown with a $8.00 guaranteed payout and a 11.3-mile distance. The driver accepts the order, and the camera captures the car driving through a commercial area, passing a CVS Pharmacy sign and approaching Turner Square, a strip mall with visible storefronts like Sun Tan City and Tropical Smoothie Cafe. The driver then accepts another delivery request from Chipotle Mexican Grill and Tropical Smoothie Cafe, with a $9.31 guaranteed payout and a 4.0-mile distance. The driver exits the car, walks to the Chipotle restaurant, and picks up a brown paper bag with the Chipotle logo, then proceeds to the Tropical Smoothie Cafe, entering the store to complete the pickup. The video ends with the driver holding the bag outside the cafe, ready for delivery.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, actively interacting with the DoorDash App in the car and later outside, holding a brown paper bag from Chipotle.",
+                "Smartphone": "A black-cased smartphone displaying the DoorDash App interface, showing a delivery request from Qdoba Mexican Eats with a $8.00 guaranteed payout and a red 'Accept' button, then later showing a new delivery request from Chipotle Mexican Grill and Tropical Smoothie Cafe with a $9.31 guaranteed payout and a red 'Accept' button.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a red and silver logo, a dashboard with circular gauges, and a gear shift with a chrome knob, visible as the Driver navigates through a parking lot and commercial area.",
+                "DoorDash App": "The mobile application interface showing a delivery request from Qdoba Mexican Eats with a map, payout, distance, and a red 'Accept' button, then transitioning to a new delivery request from Chipotle Mexican Grill and Tropical Smoothie Cafe with a map, payout, distance, and a red 'Accept' button.",
+                "CVS Pharmacy Sign": "A large outdoor sign for CVS Pharmacy with red and white lettering, visible as the car drives past it in a commercial area.",
+                "Brown Paper Bag": "A brown paper bag with the 'CHIPOTLE' logo, held by the driver after picking up the food from the restaurant, and later carried outside the Tropical Smoothie Cafe.",
+                "Qdoba Mexican Eats Delivery Request": "A delivery order from Qdoba Mexican Eats displayed on the smartphone, showing a $8.00 guaranteed payout, 11.3-mile distance, and a red 'Accept' button, with a delivery time of 12:58 PM."
+            },
+            "discovered_new_entities": {
+                "Turner Square": "A strip mall with a red brick facade and a large 'TURNER SQUARE' sign, housing storefronts like Sun Tan City, Tropical Smoothie Cafe, and Chipotle Mexican Grill, visible as the car approaches and the driver exits to pick up deliveries.",
+                "Chipotle Mexican Grill": "A restaurant with a red and white striped awning and a 'CHIPOTLE' sign, located within Turner Square, where the driver picks up a brown paper bag with the Chipotle logo.",
+                "Tropical Smoothie Cafe": "A cafe with a green and white sign, located within Turner Square, where the driver enters to complete the second pickup of the delivery order.",
+                "Chipotle Mexican Grill Delivery Request": "A delivery order from Chipotle Mexican Grill displayed on the smartphone, showing a $9.31 guaranteed payout, 4.0-mile distance, and a red 'Accept' button, with a delivery time of 12:41 PM, including a pickup from Tropical Smoothie Cafe."
+            }
+        },
+        {
+            "minute": 13,
+            "caption": "The video begins with a close-up of a receipt from Tropical Smoothie Cafe, indicating a delivery pickup. The DoorDash Driver, seen from a first-person perspective, is inside a car with a black steering wheel featuring a red and silver logo, navigating through a commercial area. The Driver holds a smartphone displaying the DoorDash App, which shows a delivery request from Chipotle Mexican Grill and Tropical Smoothie Cafe with a $9.31 guaranteed payout. The Driver accepts the order and drives through a parking lot, passing by a CVS Pharmacy sign and a Dunkin’ Donuts store. The car’s dashboard and gear shift are visible as the Driver maneuvers through the area. The Driver then exits the car, holding a brown paper bag with the Chipotle logo, and walks toward the Tropical Smoothie Cafe. After completing the pickup, the Driver returns to the car, places the bag in the passenger seat, and continues driving. The Driver’s hand is seen holding the smartphone, which now displays a completed delivery screen with a total earnings of $9.31, including base pay and customer tips. The Driver then receives a new delivery request from Dunkin’ Donuts, showing a $2.50 guaranteed payout, and accepts it. The car drives through a suburban area with trees and houses, and the Driver’s hand is seen waving out of the car window. The video ends with the Driver holding the smartphone, which displays the new delivery request, as the car continues on the road.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, actively interacting with the DoorDash App in the car and later outside, holding a brown paper bag from Chipotle.",
+                "Smartphone": "A black-cased smartphone displaying the DoorDash App interface, showing a delivery request from Chipotle Mexican Grill and Tropical Smoothie Cafe with a $9.31 guaranteed payout and a red 'Accept' button, then later showing a completed delivery screen with a total earnings of $9.31, and finally a new delivery request from Dunkin’ Donuts with a $2.50 guaranteed payout and a red 'Accept' button.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a red and silver logo, a dashboard with circular gauges, and a gear shift with a chrome knob, visible as the Driver navigates through a parking lot and commercial area.",
+                "DoorDash App": "The mobile application interface showing a delivery request from Chipotle Mexican Grill and Tropical Smoothie Cafe with a map, payout, distance, and a red 'Accept' button, then transitioning to a completed delivery screen with a total earnings of $9.31, and finally a new delivery request from Dunkin’ Donuts with a map, payout, distance, and a red 'Accept' button.",
+                "CVS Pharmacy Sign": "A large outdoor sign for CVS Pharmacy with red and white lettering, visible as the car drives past it in a commercial area.",
+                "Dunkin’ Donuts Store": "A beige and orange building with large glass windows, a prominent 'Dunkin’ Donuts' sign, and a 'NOW HIRING' sign on the door, located in a commercial area with a parking lot and orange bollards.",
+                "Brown Paper Bag": "A brown paper bag with the 'CHIPOTLE' logo, held by the driver after picking up the food from the restaurant, and later carried outside the Tropical Smoothie Cafe.",
+                "Turner Square": "A strip mall with a red brick facade and a large 'TURNER SQUARE' sign, housing storefronts like Sun Tan City, Tropical Smoothie Cafe, and Chipotle Mexican Grill, visible as the car approaches and the driver exits to pick up deliveries.",
+                "Chipotle Mexican Grill": "A restaurant with a red and white striped awning and a 'CHIPOTLE' sign, located within Turner Square, where the driver picks up a brown paper bag with the Chipotle logo.",
+                "Tropical Smoothie Cafe": "A cafe with a green and white sign, located within Turner Square, where the driver enters to complete the second pickup of the delivery order.",
+                "Chipotle Mexican Grill Delivery Request": "A delivery order from Chipotle Mexican Grill displayed on the smartphone, showing a $9.31 guaranteed payout, 4.0-mile distance, and a red 'Accept' button, with a delivery time of 12:41 PM, including a pickup from Tropical Smoothie Cafe."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 14,
+            "caption": "The video opens with a split-screen view: on the left, a hand wearing a beaded bracelet holds a smartphone displaying the DoorDash app, showing a delivery request from Tropical Smoothie Cafe for $2.00 guaranteed, with a 2.6-mile distance and a delivery deadline of 1:00 PM. On the right, the car’s steering wheel with a red and silver logo is visible, indicating the driver is inside the vehicle. The scene transitions to a new delivery request from Chipotle Mexican Grill for $7.00 guaranteed, 11.9 miles away, with a delivery deadline of 1:32 PM. The driver accepts the order, and the screen shows a completed delivery with a 'Dash Total' of $41.81, scheduled for weekly payout on Monday, October 14. The driver then places the phone in a mount on the dashboard and drives through a commercial area, passing a CVS Pharmacy sign and a Dunkin’ Donuts store. The video cuts to the driver walking outside, holding a coffee cup from Dunkin’ Donuts, with text overlays indicating '3 HRs' and '$41.81', followed by '$13.94 / HR'. The scene shifts to a promotional segment for the 'Solo' app, showing its interface with 'Automated tracking is ready' and a prompt to 'Allow Solo to automatically review your trips'. The video concludes with driving footage through a suburban area, with text overlays promoting a free week trial for the Solo app, emphasizing its utility for tax season.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, actively interacting with the DoorDash App in the car and later outside, holding a coffee cup from Dunkin’ Donuts.",
+                "Smartphone": "A black-cased smartphone displaying the DoorDash App interface, showing delivery requests from Tropical Smoothie Cafe and Chipotle Mexican Grill, then a completed delivery screen with a total earnings of $41.81, and finally a new delivery request from Dunkin’ Donuts.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a red and silver logo, a dashboard with circular gauges, and a gear shift with a chrome knob, visible as the Driver navigates through a commercial area.",
+                "DoorDash App": "The mobile application interface showing delivery requests from Tropical Smoothie Cafe and Chipotle Mexican Grill with maps, payouts, distances, and red 'Accept' buttons, then transitioning to a completed delivery screen with a total earnings of $41.81, and finally a new delivery request from Dunkin’ Donuts.",
+                "CVS Pharmacy Sign": "A large outdoor sign for CVS Pharmacy with red and white lettering, visible as the car drives past it in a commercial area.",
+                "Dunkin’ Donuts Store": "A beige and orange building with large glass windows, a prominent 'Dunkin’ Donuts' sign, and a 'NOW HIRING' sign on the door, located in a commercial area with a parking lot and orange bollards.",
+                "Coffee Cup": "A clear plastic cup with a white lid, containing a light brown beverage, held by the Driver after being retrieved from the Dunkin’ Donuts store, and later placed in the car’s cup holder.",
+                "Highway Signage": "Green overhead signs indicating 'Park Ave' and 'Burlington', visible as the car transitions from a commercial area to a highway with multiple lanes and traffic.",
+                "Suburban Road": "A two-lane road lined with trees, grassy areas, and residential-style fencing, where the Driver drives after completing the Mayday Coffee Shop delivery."
+            },
+            "discovered_new_entities": {
+                "Solo App Interface": "A mobile application interface showing 'Automated tracking is ready' with a green car icon and a prompt to allow Solo to automatically review trips, displayed on a white background with a toggle for 'Manual Tracking'.",
+                "Solo App": "A mobile application with a blue and white logo featuring a dotted circle, promoting automated tracking for drivers, with text overlays encouraging users to click the link in the description for a free week trial."
+            }
+        },
+        {
+            "minute": 15,
+            "caption": "The video opens with a first-person perspective from inside a car, driving through a commercial area under a clear blue sky, with a green text overlay promoting a bonus for joining after a free trial. The scene transitions to a close-up of a smartphone screen displaying the DoorDash App, showing three completed work trips totaling 27.13 miles with earnings listed, overlaid with a red banner indicating the total distance. The view then shifts to highway driving, with overhead green signs for '322 West Downtown' and 'Paoli Pike', accompanied by a green text overlay stating '$1.54 Per Mile'. The perspective changes to a point-of-view shot of the driver’s hand holding a coffee cup from Dunkin’ Donuts and a brown paper bag, walking on a sunlit sidewalk, with a green text overlay asking viewers to comment if they want more POV style. The video ends with a black screen and a red button prompting viewers to 'Drop A Like'.",
+            "active_entities": {
+                "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, holding a coffee cup from Dunkin’ Donuts and a brown paper bag while walking on a sidewalk.",
+                "DoorDash App": "The mobile application interface showing three completed work trips with distances and earnings, displayed on a smartphone screen with a red banner indicating '27.13 Miles'.",
+                "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a red and silver logo, visible as the car drives through a commercial area and onto a highway.",
+                "Highway Signage": "Green overhead signs indicating '322 West Downtown' and 'Paoli Pike', visible as the car drives on a multi-lane highway with other vehicles.",
+                "Coffee Cup": "A clear plastic cup with a white lid, containing a light brown beverage, held by the Driver after being retrieved from the Dunkin’ Donuts store.",
+                "Brown Paper Bag": "A brown paper bag with the 'CHIPOTLE' logo, held by the driver after picking up food, later seen being carried outside the Tropical Smoothie Cafe.",
+                "Dunkin’ Donuts Store": "A beige and orange building with large glass windows and a 'Dunkin’ Donuts' sign, visible as the driver exits the store with the coffee cup and bag."
+            },
+            "discovered_new_entities": {
+                "Sidewalk": "A paved sidewalk under bright sunlight, where the driver walks while holding the coffee cup and paper bag, casting a distinct shadow on the ground.",
+                "Text Overlay - Bonus Promotion": "A green rectangular banner with white text reading 'If You Join After The Free Trial, You Get A Bonus', displayed at the top of the screen during the driving scenes.",
+                "Text Overlay - Mileage": "A red rectangular banner with white text reading '27.13 Miles', overlaid on the DoorDash App screen to highlight total distance.",
+                "Text Overlay - Per Mile Rate": "A green rectangular banner with white text reading '$1.54 Per Mile', displayed during the highway driving scene.",
+                "Text Overlay - POV Request": "A green rectangular banner with white text reading 'Comment If You Want More POV Style', shown during the walking scene.",
+                "Text Overlay - Like Prompt": "A red rectangular button with white text reading 'Drop A Like', displayed at the bottom of the black screen at the end of the video."
+            }
+        }
+    ],
+    "entity_library": {
+        "DoorDash Driver": "A person seen from a first-person perspective, wearing a dark long-sleeve shirt and a beaded bracelet, holding a coffee cup from Dunkin’ Donuts and a brown paper bag while walking on a sidewalk.",
+        "Smartphone": "A black-cased smartphone displaying the DoorDash App interface, showing delivery requests from Tropical Smoothie Cafe and Chipotle Mexican Grill, then a completed delivery screen with a total earnings of $41.81, and finally a new delivery request from Dunkin’ Donuts.",
+        "Car Interior": "The interior of a vehicle, featuring a black steering wheel with a red and silver logo, visible as the car drives through a commercial area and onto a highway.",
+        "DoorDash App": "The mobile application interface showing three completed work trips with distances and earnings, displayed on a smartphone screen with a red banner indicating '27.13 Miles'.",
+        "CVS Pharmacy Sign": "A large outdoor sign for CVS Pharmacy with red and white lettering, visible as the car drives past it in a commercial area.",
+        "McDonald’s Delivery Request": "A delivery order from McDonald’s displayed on the smartphone, showing a $4.75 guaranteed payout and a 6.2-mile distance, with a red 'Accept' button.",
+        "CVS Delivery Request": "A delivery order from CVS displayed on the smartphone, showing a $7.00 guaranteed payout, requiring a Red Card and ID check for restricted items, with a red 'Accept' button.",
+        "Shopping List Screen": "A screen within the DoorDash app showing a list of items to purchase, including Vicks DayQuil & NyQuil Cold & Flu Relief Liquid Caps, with a note to avoid mucinex and a 'Proceed to checkout' button.",
+        "CVS Pharmacy Paper Bag": "A brown paper bag with the CVS Pharmacy logo, used to carry purchased items, held by the driver after exiting the store.",
+        "ShopRite Store": "A beige-colored grocery store with refrigerated sections, where the Driver shops for items, including eggs and breakfast bowls, under bright fluorescent lighting.",
+        "Shopping Cart": "A black metal shopping cart pushed through the refrigerated section of the ShopRite Store, containing various grocery items including an Egg Carton, Coffee-mate creamer, and Jimmy Dean Breakfast Bowl.",
+        "Egg Carton": "A white cardboard carton labeled 'bowl & basket' brand, containing 12 jumbo white eggs, selected from a refrigerated shelf and placed into the shopping cart.",
+        "Coffee-mate Creamer": "A blue bottle of Coffee-mate French Vanilla Zero Sugar creamer, held by the Driver and placed into the shopping cart.",
+        "Jimmy Dean Breakfast Bowl": "A red box of Jimmy Dean Meat Lovers Breakfast Bowl, containing potatoes, sausage, eggs, cheddar cheese, and bacon, placed into the shopping cart.",
+        "Pink and Blue Patterned Bag": "A fabric bag with pink and blue patterns, placed in the back seat of the car alongside the groceries, likely for personal items or additional delivery contents.",
+        "Dasher Red Card": "A physical red card held by the Driver, with the DoorDash logo, shown alongside the app screen indicating the digital card is not active and needs to be added to Apple Wallet.",
+        "Takeout Containers": "White cardboard containers with food branding, placed in the car and later delivered to a customer’s doorstep.",
+        "Concrete Step": "A gray concrete step outside a residence, where the takeout containers are placed after delivery, surrounded by greenery.",
+        "Meme Image": "A humorous image of a person in tactical gear with a DoorDash logo and the text 'OH YOU GOTTA BE QUICKER THAN THAT!', inserted as a comedic interlude.",
+        "Dunkin’ Donuts Store": "A beige and orange building with large glass windows and a 'Dunkin’ Donuts' sign, visible as the driver exits the store with the coffee cup and bag.",
+        "Coffee Cup": "A clear plastic cup with a white lid, containing a light brown beverage, held by the Driver after being retrieved from the Dunkin’ Donuts store.",
+        "Highway Signage": "Green overhead signs indicating '322 West Downtown' and 'Paoli Pike', visible as the car drives on a multi-lane highway with other vehicles.",
+        "Residential Street": "A quiet suburban street lined with trees and houses, featuring green lawns and driveways, where the car eventually pulls into a driveway after driving through the highway and commercial areas.",
+        "Mayday Coffee Shop": "A coffee shop with a white exterior, a 'MAYDAY' sign on the sidewalk, and Halloween decorations, located on a sunny city street with brick buildings and trees.",
+        "Brown Paper Bag": "A brown paper bag with the 'CHIPOTLE' logo, held by the driver after picking up food, later seen being carried outside the Tropical Smoothie Cafe.",
+        "City Sidewalk": "A paved sidewalk lined with brick buildings, trees, and street signs, including a 'NO PARKING' sign and a 'MAYDAY' sign, under bright sunlight.",
+        "Alleyway": "A narrow, shaded alleyway between buildings, with a concrete path and scattered leaves, where the Driver carries the coffee bag after leaving the shop.",
+        "Panera Bread": "A beige-colored restaurant with a green 'Panera' sign, located in a commercial area with a parking lot and trees, where the Driver stops to pick up a delivery order.",
+        "TD Bank Building": "A large, modern building with a green and white TD Bank logo, visible from the car as the Driver drives past it on a sunny day.",
+        "Suburban Road": "A two-lane road lined with trees, grassy areas, and residential-style fencing, where the Driver drives after completing the Mayday Coffee Shop delivery.",
+        "Qdoba Mexican Eats Delivery Request": "A delivery order from Qdoba Mexican Eats displayed on the smartphone, showing a $8.00 guaranteed payout, 11.3-mile distance, and a red 'Accept' button, with a delivery time of 12:58 PM.",
+        "Clown Wig": "A colorful, curly wig with red, blue, and purple strands, worn by the Driver outside the car, paired with a red clown nose for a playful appearance.",
+        "Red Nose": "A bright red, round clown nose worn by the Driver, adding to the humorous costume during the outdoor scene.",
+        "Turner Square": "A strip mall with a red brick facade and a large 'TURNER SQUARE' sign, housing storefronts like Sun Tan City, Tropical Smoothie Cafe, and Chipotle Mexican Grill, visible as the car approaches and the driver exits to pick up deliveries.",
+        "Chipotle Mexican Grill": "A restaurant with a red and white striped awning and a 'CHIPOTLE' sign, located within Turner Square, where the driver picks up a brown paper bag with the Chipotle logo.",
+        "Tropical Smoothie Cafe": "A cafe with a green and white sign, located within Turner Square, where the driver enters to complete the second pickup of the delivery order.",
+        "Chipotle Mexican Grill Delivery Request": "A delivery order from Chipotle Mexican Grill displayed on the smartphone, showing a $9.31 guaranteed payout, 4.0-mile distance, and a red 'Accept' button, with a delivery time of 12:41 PM, including a pickup from Tropical Smoothie Cafe.",
+        "Solo App Interface": "A mobile application interface showing 'Automated tracking is ready' with a green car icon and a prompt to allow Solo to automatically review trips, displayed on a white background with a toggle for 'Manual Tracking'.",
+        "Solo App": "A mobile application with a blue and white logo featuring a dotted circle, promoting automated tracking for drivers, with text overlays encouraging users to click the link in the description for a free week trial.",
+        "Sidewalk": "A paved sidewalk under bright sunlight, where the driver walks while holding the coffee cup and paper bag, casting a distinct shadow on the ground.",
+        "Text Overlay - Bonus Promotion": "A green rectangular banner with white text reading 'If You Join After The Free Trial, You Get A Bonus', displayed at the top of the screen during the driving scenes.",
+        "Text Overlay - Mileage": "A red rectangular banner with white text reading '27.13 Miles', overlaid on the DoorDash App screen to highlight total distance.",
+        "Text Overlay - Per Mile Rate": "A green rectangular banner with white text reading '$1.54 Per Mile', displayed during the highway driving scene.",
+        "Text Overlay - POV Request": "A green rectangular banner with white text reading 'Comment If You Want More POV Style', shown during the walking scene.",
+        "Text Overlay - Like Prompt": "A red rectangular button with white text reading 'Drop A Like', displayed at the bottom of the black screen at the end of the video."
+    }
+}

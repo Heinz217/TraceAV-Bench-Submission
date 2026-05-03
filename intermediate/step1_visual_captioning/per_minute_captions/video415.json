@@ -1,0 +1,456 @@
+{
+    "video_id": "video415",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video opens with a black screen, then transitions to the red Netflix logo on a gray background. It quickly shifts to a man in a blue shirt and dark jacket smiling in a well-lit, cozy living room with a fireplace and bookshelves. The scene cuts to a news studio with a woman in a white blazer speaking in front of a 'MONEY with Melissa Francis' backdrop, followed by a man in a suit on a green screen labeled 'THE ECONOMY'. Historical newspaper clippings appear, highlighting stock market records from 1976 and 2013. The video then shows a vintage black car driving through a suburban neighborhood, followed by a modern news studio with three people discussing the Dow closing near 26,000. A man in a red tie is shown speaking on Fox Business, then President Donald Trump delivering a speech at a podium with Vice President Mike Pence and another man seated behind him. The scene transitions to a black-and-white shot of a man and woman in a 1950s-style kitchen, then to a graph showing the US GDP growth rate from 1960 to 2020. The final frame displays a graph of US average hourly wages from 1985 to 2015, with data points labeled $20.10 and $22.49, sourced from the Bureau of Labor Statistics.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "Netflix Logo": "Red, bold, sans-serif text on a gray gradient background, appearing after a black screen.",
+                "Man in Blue Shirt": "Smiling, wearing a blue button-up shirt under a dark jacket, standing in a bright, homey living room with a fireplace and bookshelves.",
+                "Woman in White Blazer": "Standing in a news studio, wearing a white blazer, speaking in front of a 'MONEY with Melissa Francis' backdrop with financial tickers below.",
+                "Man in Suit on Green Screen": "Wearing a dark suit and blue striped tie, standing in front of a green screen with 'THE ECONOMY' text, likely a financial news anchor.",
+                "Newspaper Clippings": "Black-and-white historical articles from The New York Times (1976) and Baltimore Sun (2013) highlighting stock market records, with bold headlines like 'Market Is Climbing at a Record Pace' and 'S&P 500 Hits Record in Quiet Trade'.",
+                "Vintage Car": "A black, classic 1950s-style car driving down a suburban street lined with modest houses and lawns.",
+                "Fox News Panel": "Three people seated on a modern studio set with a large screen behind them; the lower third reads 'FRI: DOW CLOSES NEAR 26,000 RECORD MILESTONE' and 'FOX & friends'.",
+                "Man in Red Tie": "Wearing a dark suit and red tie, speaking on Fox Business with a lower third identifying him as 'BEN STEIN | 'THE CAPITALIST CODE' AUTHOR'.",
+                "President Donald Trump": "Standing at a podium with a microphone, wearing a dark suit and striped tie, speaking in front of an American flag backdrop; Vice President Mike Pence and another man are seated behind him.",
+                "Man and Woman in 1950s Kitchen": "Black-and-white scene; the man wears a suit and tie, the woman wears a dark dress, both smiling as they stand near a kitchen counter with a coffee pot.",
+                "US GDP Growth Rate Graph": "Line graph showing fluctuations from 1960 to 2020, with peaks and troughs, labeled 'US GDP GROWTH RATE' and sourced from the World Bank.",
+                "US Average Hourly Wages Graph": "Line graph from 1985 to 2015, showing a gradual increase, with data points labeled $20.10 (1985) and $22.49 (2015), sourced from the Bureau of Labor Statistics."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The video opens with a bar graph titled 'US AVERAGE FAMILY NET WORTH' showing fluctuations from 1992 to 2016, with percentages above each bar indicating growth or decline, sourced from E. Wolff, New York University. The scene transitions to a modern stock exchange interior, where a large digital ticker displays stock prices and a yellow circle highlights a specific data point. This is followed by a black-and-white historical crowd scene, overlaid with the text 'A Netflix original documentary series.' The video then cuts to a news studio with a female anchor in a green blazer reporting on U.S. markets, with financial tickers visible below. Next, a male anchor in a suit appears on a 'MAD MONEY' set, with a 'BREAKING NEWS' banner about dividend stocks. The scene shifts to a bustling trading floor with traders at desks and a large screen displaying stock data, with the text 'A Vox production' appearing. A female news anchor on CNBC reports 'BREAKING NEWS: STOCKS PLUNGING AFTER FAILURE OF BAILOUT BILL IN THE HOUSE.' The video then shows a split-screen of an older man in a suit, seemingly reacting to market news, followed by a close-up of a large bell being rung, with the text 'The stock market, explained' appearing. The final segment transitions to a bright, playful setting: a young girl in a yellow shirt runs a lemonade stand, with a sign reading 'LEMONADE' and a banner 'EXPANSION PLAN.' She interacts with another girl in a green shirt wearing a top hat, labeled 'BANK,' and later holds a mock stock certificate for 'Lemonade Stand Corporation.' The scene ends with the girl signing the certificate, symbolizing an IPO, with the Netflix logo in the corner.",
+            "active_entities": {
+                "Netflix Logo": "Red, bold, sans-serif text on a gray gradient background, appearing after a black-and-white crowd scene."
+            },
+            "discovered_new_entities": {
+                "US Average Family Net Worth Graph": "Bar graph showing net worth trends from 1992 to 2016, with percentages above each bar, sourced from E. Wolff, New York University.",
+                "Stock Exchange Interior": "Modern trading floor with digital tickers, large screens, and traders at desks; a yellow circle highlights a specific data point on a ticker.",
+                "Woman in Green Blazer": "Standing in a news studio, wearing a green blazer, reporting on U.S. markets with financial tickers below.",
+                "Man in Suit on 'MAD MONEY' Set": "Wearing a dark suit and tie, speaking on a 'MAD MONEY' set with a 'BREAKING NEWS' banner about dividend stocks.",
+                "Trading Floor": "Bustling environment with traders at desks, large screens displaying stock data, and the text 'A Vox production' overlaid.",
+                "Female CNBC Anchor": "Reporting on 'BREAKING NEWS: STOCKS PLUNGING AFTER FAILURE OF BAILOUT BILL IN THE HOUSE,' with CNBC logo visible.",
+                "Older Man in Suit (Split-Screen)": "Appearing in a split-screen, wearing a dark suit and tie, reacting to market news with a serious expression.",
+                "Stock Market Bell": "Large metallic bell being rung, with the text 'The stock market, explained' appearing on screen.",
+                "Young Girl in Yellow Shirt": "Running a lemonade stand, wearing a yellow shirt, with a 'LEMONADE' sign and 'EXPANSION PLAN' banner; later holds a mock stock certificate.",
+                "Girl in Green Shirt with Top Hat": "Wearing a green shirt and a black top hat, labeled 'BANK,' interacting with the lemonade stand girl.",
+                "Lemonade Stand Corporation Stock Certificate": "Hand-drawn mock stock certificate with 'Lemonade Stand Corporation' and 'Common Stock' text, signed by the girl.",
+                "Lemonade Stand": "A wooden stand with a 'LEMONADE' sign, colorful bunting, and a pitcher of lemonade, used as a metaphor for a business startup.",
+                "Expansion Plan Banner": "Hand-drawn banner above the lemonade stand reading 'EXPANSION PLAN,' with illustrations of a house and trees.",
+                "Bank Booth": "A simple wooden table with a 'BANK' sign, where the girl in the green shirt and top hat acts as a banker.",
+                "IPO Sign": "Hand-drawn sign with 'IPO' in large green letters, held by the girl in the yellow shirt during the mock stock sale."
+            }
+        },
+        {
+            "minute": 3,
+            "caption": "The video opens with a close-up of a child in a green shirt handing a dollar bill to another child, setting the stage for a playful, educational financial narrative. The scene quickly shifts to a girl in a yellow shirt holding a hand-drawn 'Lemonade Stand Corporation' stock certificate, which certifies ownership of one share. She then hands the certificate to a boy in a blue shirt, who places it on a table next to a pitcher of lemonade and a stack of money, symbolizing an initial public offering (IPO). The girl in yellow, now acting as the business owner, counts her earnings while a hand-drawn 'EXPANSION PLAN' banner with illustrations of a house and trees hangs above the stand. She then distributes money to other children, who receive envelopes labeled 'DIVIDEND,' illustrating profit sharing. The boy in the blue shirt, now holding a stack of certificates, smiles confidently as text overlays appear, declaring 'Jill is the SMARTEST girl' and 'Lemonade Stand thing is gonna BE HUG.' He then contemplates the future, with the text 'I can sell these shares for even MORE later on,' emphasizing the concept of stock appreciation. The setting is a clean, brightly lit studio with a neutral background, emphasizing the educational and metaphorical nature of the lemonade stand as a business model. The entire sequence uses simple props, hand-drawn signs, and expressive gestures to teach financial concepts like IPOs, dividends, and stock growth in a child-friendly manner.",
+            "active_entities": {
+                "Young Girl in Yellow Shirt": "Wearing a yellow shirt, she runs the lemonade stand, holds a mock stock certificate, counts money, and distributes dividend envelopes, embodying the role of a business owner and entrepreneur.",
+                "Girl in Green Shirt with Top Hat": "Wearing a green shirt and a black top hat labeled 'BANK,' she acts as a banker, facilitating the exchange of money and certificates, symbolizing financial institutions.",
+                "Lemonade Stand Corporation Stock Certificate": "Hand-drawn mock stock certificate with 'Lemonade Stand Corporation' and 'Common Stock' text, signed by the girl, used to represent ownership and investment in the business.",
+                "Lemonade Stand": "A wooden stand with a 'LEMONADE' sign, colorful bunting, and a pitcher of lemonade, serving as a metaphor for a startup business.",
+                "Expansion Plan Banner": "Hand-drawn banner above the stand reading 'EXPANSION PLAN,' with illustrations of a house and trees, symbolizing business growth.",
+                "Bank Booth": "A simple wooden table with a 'BANK' sign, where the girl in the green shirt and top hat acts as a banker, facilitating financial transactions.",
+                "IPO Sign": "Hand-drawn sign with 'IPO' in large green letters, held by the girl in the yellow shirt during the mock stock sale, representing the initial public offering."
+            },
+            "discovered_new_entities": {
+                "Boy in Blue Shirt": "Wearing a blue shirt, he receives a stock certificate, places it on the table, and later holds a stack of certificates, representing an investor who buys into the business and contemplates future profits."
+            }
+        },
+        {
+            "minute": 4,
+            "caption": "The video opens with a close-up of a young boy in a blue shirt, holding a lemonade stand stock certificate and a dollar bill, symbolizing investment and profit. The scene transitions to a girl in a yellow shirt, who is also holding the same certificate and counting money, reinforcing the theme of entrepreneurship. The narrative then shifts to a stylized, hand-drawn world map with pins marking global locations, followed by a black-and-white historical animation depicting 18th-century figures in formal attire, with the text 'FOUNDED 1792' appearing, referencing the New York Stock Exchange. The animation continues with a building transforming into a modern skyscraper, symbolizing growth. The NYSE logo appears, followed by a montage of major corporations like IBM, ExxonMobil, P&G, GE, and Walmart, illustrating the evolution of the stock market. The scene transitions to a hand-drawn computer displaying the Nasdaq logo, with the year '1971' appearing, marking the founding of Nasdaq. The computer is then shown with logos of Apple and Facebook, highlighting modern tech companies. The video concludes with a graphic of the NYSE and Nasdaq logos side by side, labeled 'STOCK MARKET', and a mechanical machine labeled 'INDEX', representing the structure and function of stock market indices.",
+            "active_entities": {
+                "Young Girl in Yellow Shirt": "Wearing a yellow shirt, she holds a hand-drawn 'Lemonade Stand Corporation' stock certificate and counts money, embodying the role of a business owner and entrepreneur.",
+                "Boy in Blue Shirt": "Wearing a blue shirt, he holds a stock certificate and a dollar bill, representing an investor who buys into the business and contemplates future profits.",
+                "Lemonade Stand Corporation Stock Certificate": "Hand-drawn mock stock certificate with 'Lemonade Stand Corporation' and 'Common Stock' text, signed by the girl, used to represent ownership and investment in the business."
+            },
+            "discovered_new_entities": {
+                "NYSE Logo": "Blue and white logo with vertical bars and 'NYSE' text, appearing after the historical animation and later alongside the Nasdaq logo.",
+                "Nasdaq Logo": "Green 'N' symbol with 'Nasdaq' text, displayed on a hand-drawn computer screen and later alongside the NYSE logo.",
+                "World Map": "Hand-drawn outline of the world with black pins marking various global locations, symbolizing the global reach of the stock market.",
+                "Historical Animation": "Black-and-white animated scenes of 18th-century figures in formal attire, with text 'FOUNDED 1792' and a building transforming into a skyscraper, symbolizing the origin and growth of the NYSE.",
+                "Hand-Drawn Computer": "Stylized computer with a screen displaying the Nasdaq logo, keyboard, and later connected to logos of Apple and Facebook, representing the digital evolution of the stock market.",
+                "Index Machine": "Mechanical, industrial-style machine with a central circular component labeled 'INDEX', symbolizing the function of stock market indices.",
+                "Historical Figures in 18th-Century Attire": "Black-and-white animated characters wearing tricorn hats and formal 18th-century clothing, depicted in a street scene, representing early financial market participants.",
+                "Skyscraper Transformation": "A hand-drawn building that morphs from a classical structure into a modern yellow skyscraper, symbolizing the growth and modernization of financial institutions.",
+                "Corporate Logos Montage": "A sequence of major company logos (IBM, ExxonMobil, P&G, GE, Walmart) appearing around the NYSE logo, illustrating the diversity of companies listed on the stock exchange.",
+                "Apple and Facebook Logos": "Black Apple logo and gray Facebook 'f' logo appearing next to the hand-drawn computer, representing modern tech companies listed on Nasdaq."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video opens with a stylized, hand-drawn animation of an 'Index Machine' labeled 'S&P 500 INDEX,' which processes a dollar sign and outputs a number that rapidly increases from '2,000' to '20,000' on a screen. The machine then switches to 'DOW JONES INDUSTRIAL AVERAGE,' with the same output process. The scene transitions to a hand-drawn world map with pins marking global financial centers, including 'FRANKFURT' and 'SHANGHAI,' each accompanied by real-world footage of traders and stock tickers. A split-screen shows a historical black-and-white image of a man in a suit with a crown and globe, followed by a political cartoon of two men walking on a tightrope over a cityscape. The video then cuts to a woman in a black blazer, identified as 'Lynn Stout, CORPORATE LAW PROFESSOR,' speaking in a grand, wood-paneled hall with chandeliers. This is followed by a split-screen montage of historical industrialists: 'Andrew Carnegie' (STEEL) with a steel mill, 'Cornelius Vanderbilt' (RAILROADS) with train tracks, and 'John D. Rockefeller' (OIL) with oil derricks and smokestacks. The professor reappears, continuing her commentary in the same hall, reinforcing the historical and institutional context of financial power and market evolution.",
+            "active_entities": {
+                "Index Machine": "Mechanical, industrial-style machine with a central circular component labeled 'INDEX,' processing dollar signs and outputting stock index values on a screen, transitioning between 'S&P 500 INDEX' and 'DOW JONES INDUSTRIAL AVERAGE.'",
+                "World Map": "Hand-drawn outline of the world with black pins marking global financial centers, including 'FRANKFURT' and 'SHANGHAI,' each linked to real-world footage of trading floors.",
+                "Historical Animation": "Black-and-white animated scenes including a man holding a globe and crown, and a political cartoon of two men on a tightrope over a cityscape, symbolizing financial risk and power.",
+                "Netflix Logo": "Red, bold, sans-serif text on a gray gradient background, consistently visible in the top right corner throughout the segment."
+            },
+            "discovered_new_entities": {
+                "Lynn Stout, CORPORATE LAW PROFESSOR": "Woman in a black blazer, standing in a grand, wood-paneled hall with chandeliers and ornate railings, speaking directly to the camera.",
+                "Andrew Carnegie": "Black-and-white portrait of a man with a white beard, labeled 'Andrew Carnegie STEEL,' shown alongside footage of a steel mill with molten metal.",
+                "Cornelius Vanderbilt": "Black-and-white portrait of a man with curly hair and a beard, labeled 'Cornelius Vanderbilt RAILROADS,' shown with a train moving along tracks.",
+                "John D. Rockefeller": "Black-and-white portrait of a man with a mustache, labeled 'John D. Rockefeller OIL,' shown with oil derricks and smokestacks emitting black smoke.",
+                "Historical Industrialist Montage": "Split-screen sequence featuring portraits and industrial footage of Andrew Carnegie, Cornelius Vanderbilt, and John D. Rockefeller, each labeled with their name and industry, illustrating the rise of industrial capitalism."
+            }
+        },
+        {
+            "minute": 6,
+            "caption": "The video opens with Lynn Stout, CORPORATE LAW PROFESSOR, speaking in a grand, wood-paneled hall with ornate railings and chandeliers, setting a formal and authoritative tone. The scene transitions to a black-and-white historical montage, beginning with a close-up of a 'GM DIESEL' sign atop a building, followed by a 'GENERAL ELECTRIC' sign with an American flag, evoking early 20th-century industrial America. The narrative then shifts to a vibrant, modern children’s business simulation: a group of kids in colorful shirts gather around a table, enthusiastically writing 'IPO' on a whiteboard, symbolizing a mock initial public offering. They celebrate with hand-drawn signs like 'EXPANSION PLAN' and 'NOW with 50% MORE WATER,' and later introduce 'NEW LEMONADE POPSICLES,' mimicking a product launch. The children engage in a playful financial transaction, with one girl in a yellow shirt holding a hand-drawn 'Lemonade Stand Corporation' stock certificate and counting money, while another girl in a green shirt and top hat labeled 'BANK' acts as a banker. The scene transitions to a stylized animation showing a yellow popsicle connected to a certificate, money, and a lemonade stand, illustrating the business model. The video returns to Lynn Stout, now in a different setting with a chandelier and ornate railing, continuing her commentary. The final sequence features historical black-and-white footage: a man in a white shirt and cap working in a factory, a man in a suit inspecting a large machine, and two men in front of a construction site, all suggesting the industrial roots of modern capitalism. Throughout, the Netflix logo remains in the top right corner, anchoring the segment as part of a documentary or educational series.",
+            "active_entities": {
+                "Lynn Stout, CORPORATE LAW PROFESSOR": "Woman in a black blazer, standing in a grand, wood-paneled hall with chandeliers and ornate railings, speaking directly to the camera.",
+                "Young Girl in Yellow Shirt": "Wearing a yellow shirt, she holds a hand-drawn 'Lemonade Stand Corporation' stock certificate and counts money, embodying the role of a business owner and entrepreneur.",
+                "Girl in Green Shirt with Top Hat": "Wearing a green shirt and a black top hat labeled 'BANK,' she acts as a banker, facilitating the exchange of money and certificates, symbolizing financial institutions.",
+                "Lemonade Stand Corporation Stock Certificate": "Hand-drawn mock stock certificate with 'Lemonade Stand Corporation' and 'Common Stock' text, signed by the girl, used to represent ownership and investment in the business.",
+                "IPO Sign": "Hand-drawn sign with 'IPO' in large green letters, held by the girl in the yellow shirt during the mock stock sale, representing the initial public offering.",
+                "Expansion Plan Banner": "Hand-drawn banner above the stand reading 'EXPANSION PLAN,' with illustrations of a house and trees, symbolizing business growth.",
+                "Bank Booth": "A simple wooden table with a 'BANK' sign, where the girl in the green shirt and top hat acts as a banker, facilitating financial transactions.",
+                "Historical Industrialist Montage": "Split-screen sequence featuring portraits and industrial footage of Andrew Carnegie, Cornelius Vanderbilt, and John D. Rockefeller, each labeled with their name and industry, illustrating the rise of industrial capitalism."
+            },
+            "discovered_new_entities": {
+                "GM DIESEL Sign": "Black-and-white image of a large 'GM DIESEL' sign atop a building, with an American flag waving above it, symbolizing industrial heritage.",
+                "GENERAL ELECTRIC Sign": "Black-and-white image of a 'GENERAL ELECTRIC' sign with an American flag, evoking early 20th-century American industry.",
+                "Historical Footage of Factory Workers": "Black-and-white footage showing a man in a white shirt and cap working in a factory, another man in a suit inspecting machinery, and two men in front of a construction site, representing early industrial labor and development.",
+                "Historical Factory Scene": "Black-and-white footage of a factory interior with workers and machinery, including a man in a white shirt and cap operating equipment, symbolizing early industrial labor.",
+                "Historical Construction Site": "Black-and-white footage of two men in front of a building under construction with scaffolding, representing early infrastructure development."
+            }
+        },
+        {
+            "minute": 7,
+            "caption": "The video opens with a vintage, colorized scene of a man in a red cap and dark jacket riding a lawnmower in a suburban neighborhood, with houses and power lines in the background, evoking a mid-20th-century American setting. The scene transitions to a black-and-white kitchen where a man in a white shirt and cap is working at a counter, followed by a woman in a green dress and white apron smiling at the camera, with a 'TUPPERWARE' sign visible behind her, suggesting a 1950s home goods demonstration. The footage then cuts to a black-and-white scene of two men in suits examining a document, one with glasses, in what appears to be an office or boardroom. The narrative shifts to a modern, well-lit, wood-paneled hall where Lynn Stout, CORPORATE LAW PROFESSOR, stands in a black blazer, speaking directly to the camera with a serious expression. She is later shown seated, continuing her commentary. The video then displays a stylized animated graphic of a blue circle with yellow spokes labeled 'shareholders,' 'bondholders,' 'suppliers,' and 'employees,' illustrating corporate stakeholders. This is followed by a black-and-white historical scene of a factory with workers and machinery, then a man in a white shirt and cap operating equipment, and finally a man in a suit inspecting machinery. The segment concludes with a black-and-white shot of a construction site with two men in front of a building under scaffolding, reinforcing the theme of industrial development. Throughout, the Netflix logo remains in the top right corner.",
+            "active_entities": {
+                "Netflix Logo": "Red, bold, sans-serif text on a gray gradient background, consistently visible in the top right corner throughout the segment.",
+                "Lynn Stout, CORPORATE LAW PROFESSOR": "Woman in a black blazer, standing in a grand, wood-paneled hall with chandeliers and ornate railings, speaking directly to the camera; later seated, continuing her commentary with a serious expression.",
+                "Historical Factory Scene": "Black-and-white footage of a factory interior with workers and machinery, including a man in a white shirt and cap operating equipment, symbolizing early industrial labor.",
+                "Historical Construction Site": "Black-and-white footage of two men in front of a building under construction with scaffolding, representing early infrastructure development.",
+                "Historical Footage of Factory Workers": "Black-and-white footage showing a man in a white shirt and cap working in a factory, another man in a suit inspecting machinery, and two men in front of a construction site, representing early industrial labor and development."
+            },
+            "discovered_new_entities": {
+                "Woman in Green Dress and White Apron": "Smiling at the camera in a 1950s-style kitchen, with a 'TUPPERWARE' sign visible behind her, suggesting a home goods demonstration.",
+                "Man in White Shirt and Cap": "Working in a black-and-white kitchen scene, later seen operating machinery in a factory setting.",
+                "Two Men in Suits Examining Document": "Black-and-white scene of two men in suits, one with glasses, reviewing a document in an office or boardroom setting.",
+                "Vintage Lawnmower Scene": "Colorized footage of a man in a red cap and dark jacket riding a lawnmower in a suburban neighborhood with houses and power lines in the background.",
+                "Stakeholder Diagram": "Animated graphic of a blue circle with yellow spokes labeled 'shareholders,' 'bondholders,' 'suppliers,' and 'employees,' illustrating corporate stakeholders on a green background."
+            }
+        },
+        {
+            "minute": 8,
+            "caption": "The video opens with a warm, color-tinted vintage photograph of an older man in a suit smiling beside a young boy, evoking a nostalgic family moment. This transitions into black-and-white historical footage of a man in a suit and tie working at a counter with bottles, followed by a woman in a dress walking with two children near a vintage car, suggesting mid-20th-century domestic life. The scene shifts to a colorized outdoor shot of children playing in a yard with a clothesline, then cuts to an older man with white hair and glasses, wearing a black sweatshirt with 'Bill plays with' text, strumming a ukulele in a workshop. The narrative then moves to a news studio where a woman in a black blazer reports on 'BUFFETT'S BIG PROBLEM' with financial tickers below, followed by a graphic of the '2018 FORBES BILLIONAIRES' list showing Warren Buffett, Bernard Arnault, and Mark Zuckerberg. The video then shows Buffett walking through a crowd, followed by Robert Shiller, a Nobel Prize-winning economist, speaking in a homey living room. The segment continues with Buffett being interviewed on a talk show titled 'SMART MONEY FOR RETIREMENT,' seated across from a woman in a red dress. The final frames feature animated graphics: a circular diagram labeled 'Index f' with dollar signs, transitioning to a colorful sphere with company logos (Walmart, IBM, ExxonMobil, P&G) connected by dotted lines, and a hand icon pointing to the sphere, symbolizing investment and market diversification. The Netflix logo remains consistently in the top right corner throughout.",
+            "active_entities": {
+                "Netflix Logo": "Red, bold, sans-serif text on a gray gradient background, consistently visible in the top right corner throughout the segment.",
+                "Older Man in Suit (Split-Screen)": "Appearing in a split-screen, wearing a dark suit and tie, reacting to market news with a serious expression.",
+                "Vintage Car": "A black, classic 1950s-style car driving down a suburban street lined with modest houses and lawns."
+            },
+            "discovered_new_entities": {
+                "Woman in Black Blazer": "Standing in a news studio, wearing a black blazer, reporting on 'BUFFETT'S BIG PROBLEM' with financial tickers below.",
+                "Warren Buffett": "Wearing a dark suit and red tie, walking through a crowd, then seated in a talk show interview with a lower third identifying him as 'BERKSHIRE HATHAWAY CHAIRMAN AND CEO'.",
+                "Robert Shiller": "Nobel Prize-winning economist, wearing a dark jacket over a light blue shirt, speaking in a bright, homey living room with a fireplace and bookshelves.",
+                "Woman in Red Dress": "Seated in a talk show setting, wearing a red dress, interviewing Warren Buffett with a lower third reading 'SMART MONEY FOR RETIREMENT'.",
+                "Older Man with White Hair and Glasses": "Wearing a black sweatshirt with 'Bill plays with' text, strumming a ukulele in a workshop with tools and equipment in the background.",
+                "Children Playing in Yard": "Colorized footage of children playing in a grassy yard with a clothesline and a house in the background.",
+                "Animated Index Diagram": "A circular graphic labeled 'Index f' with dollar signs, transitioning to a colorful sphere with company logos (Walmart, IBM, ExxonMobil, P&G) connected by dotted lines, and a hand icon pointing to the sphere.",
+                "Man in Suit and Tie (Historical Footage)": "Wearing a suit and tie, working at a counter with bottles in a black-and-white scene.",
+                "Woman in Dress with Children": "Wearing a dark dress, walking with two children near a vintage car in a black-and-white scene.",
+                "Man in White Shirt and Cap (Historical Footage)": "Working in a black-and-white kitchen scene, later seen operating machinery in a factory setting.",
+                "2018 Forbes Billionaires Graphic": "A colorful graphic displaying the '2018 FORBES BILLIONAIRES' list with portraits and net worths of Warren Buffett ($84B), Bernard Arnault & Family ($72B), and Mark Zuckerberg ($71B).",
+                "Talk Show Set": "A studio setting with two chairs, a patterned rug, and a brick wall backdrop, where Warren Buffett is interviewed by a woman in a red dress with a lower third reading 'SMART MONEY FOR RETIREMENT'.",
+                "Workshop Background": "A cluttered workshop with tools, workbenches, and equipment, where the older man with white hair and glasses plays the ukulele."
+            }
+        },
+        {
+            "minute": 9,
+            "caption": "The segment begins with an animated graphic showing a colorful sphere composed of various company logos (IBM, P&G, GE, Walmart, ExxonMobil) connected to a central black circle with a white hand icon, symbolizing investment or selection. The sphere is labeled '$1 MILLION' as the hand icon points to it, suggesting a financial bet or prize. This transitions to a newspaper headline from USA TODAY dated January 2, 2018, stating 'Warren Buffett wins $1M bet against hedge funds and gives it to girls' charity,' highlighting a real-world financial event. The scene then shifts to a black-and-white portrait of John Maynard Keynes, followed by historical footage of him at a conference table with delegates from the U.S.S.R., United Kingdom, and Yugoslavia, emphasizing his role in economic policy. The narrative then introduces a vintage 'BEAUTY CONTEST' from Picture Post, March 10, 1940, where readers are invited to vote for their favorite among nine illustrated women. The contest is visually animated, with yellow circles highlighting selected portraits, and then transitions to a corkboard displaying the same portraits with vote counts pinned beneath them, showing the results. The winning portrait, #2, is circled in yellow and zoomed in, illustrating the concept of herd behavior and market speculation as described by Keynes. The segment concludes with the beauty contest layout reappearing, now with multiple portraits highlighted in yellow and green, reinforcing the idea of collective decision-making and market trends.",
+            "active_entities": {
+                "Netflix Logo": "Red, bold, sans-serif text on a gray gradient background, consistently visible in the top right corner throughout the segment.",
+                "Newspaper Clippings": "Black-and-white article from USA TODAY dated January 2, 2018, with the headline 'Warren Buffett wins $1M bet against hedge funds and gives it to girls' charity,' written by David Carrig, emphasizing a significant financial event."
+            },
+            "discovered_new_entities": {
+                "John Maynard Keynes": "Black-and-white portrait of a man with a mustache and receding hairline, shown in a close-up, followed by historical footage of him seated at a conference table with nameplates for U.S.S.R., United Kingdom, and Yugoslavia, indicating his participation in international economic discussions.",
+                "BEAUTY CONTEST Poster": "Vintage-style poster from Picture Post, March 10, 1940, titled 'BEAUTY CONTEST' with the instruction 'Readers vote! Pick the favorites and win a prize!' featuring nine illustrated women in a 3x3 grid, used to illustrate Keynes' theory of market speculation.",
+                "Corkboard with Vote Counts": "Brown corkboard displaying the nine beauty contest portraits pinned with colorful thumbtacks, each labeled with a numerical vote count (e.g., 1,012, 817, 540), visually representing the outcome of the public vote.",
+                "Animated Beauty Contest Layout": "The same 'BEAUTY CONTEST' poster reappearing with dynamic yellow and green circles highlighting selected portraits, including #1, #2, #3, #4, #5, and #6, to emphasize the concept of popularity and herd behavior in decision-making.",
+                "Animated Sphere with Company Logos": "Colorful animated sphere composed of circular logos for IBM, P&G, GE, Walmart, and ExxonMobil, connected to a central black circle with a white hand icon, symbolizing investment or selection, with a '$1 MILLION' label above it.",
+                "Historical Conference Table Scene": "Black-and-white footage of a formal meeting with delegates seated at a long table, nameplates indicating U.S.S.R., United Kingdom, and Yugoslavia, with Keynes in the center, suggesting an international economic summit.",
+                "Beauty Contest Portraits": "Nine illustrated portraits of women in a 3x3 grid, rendered in black-and-white with stippled shading, each uniquely styled with different hair, expressions, and attire, used as visual elements in the beauty contest."
+            }
+        },
+        {
+            "minute": 10,
+            "caption": "The video opens with Robert Shiller, a Nobel Prize-winning economist, seated in a bright, homey living room with a fireplace and bookshelves, wearing a blue button-up shirt under a dark jacket, smiling and gesturing as he speaks. The scene transitions to a minimalist animated graph labeled 'Real Value' with a rising line and yellow dots, followed by the word 'Stories' appearing in bold black text on a yellow background. The narrative then shifts to a financial news segment, showing a graph of Chipotle's stock price per share from August 2015 to August 2016, which sharply declines, accompanied by a news clip of a Chipotle restaurant closing for a health meeting. This is followed by a similar graph for Volkswagen, showing a steep drop in price per share from June to September 2015, with a news anchor reporting on the scandal. The video then cuts to a chaotic trading floor with traders in light shirts and ties reacting frantically to market movements, followed by a vintage laptop displaying the Lycos website with stock price changes from $13 to $107 and then $36 to $207. A brief clip of a 1999 NBC news anchor appears, before returning to Robert Shiller, who continues speaking with expressive hand gestures, emphasizing his points in the same living room setting. The segment ends with Shiller smiling and nodding, reinforcing his commentary on market narratives and real value.",
+            "active_entities": {
+                "Robert Shiller": "Nobel Prize-winning economist, wearing a blue button-up shirt under a dark jacket, seated in a bright, homey living room with a fireplace and bookshelves, speaking with expressive hand gestures and a warm smile.",
+                "Netflix Logo": "Red, bold, sans-serif text on a gray gradient background, consistently visible in the top right corner throughout the segment.",
+                "Trading Floor": "Bustling environment with traders in light shirts and ties reacting frantically to market movements, surrounded by computer monitors and telephones."
+            },
+            "discovered_new_entities": {
+                "Chipotle price per share graph": "Line graph from Yahoo Finance showing Chipotle's stock price per share from August 2015 to August 2016, with a sharp decline, displayed alongside a news clip of a Chipotle restaurant closing for a health meeting.",
+                "Volkswagen price per share graph": "Line graph from Yahoo Finance showing Volkswagen's stock price per share from June to September 2015, with a steep drop, displayed alongside a news anchor reporting on the scandal.",
+                "Vintage Laptop": "Stylized laptop displaying the Lycos website with text 'Your Internet Guide,' showing stock price changes from $13 to $107 and then $36 to $207, set against a green, pixelated background.",
+                "NBC News Anchor (1999)": "Man in a suit and tie, standing in front of a purple backdrop with 'NBC 5:42:50 JAN 27 99' displayed, delivering a news report."
+            }
+        },
+        {
+            "minute": 11,
+            "caption": "The video opens with a close-up of a woman in a white blazer, identified as the 'Woman in White Blazer,' speaking in a news studio with a 'MONEY with Melissa Francis' backdrop and financial tickers below. The scene quickly transitions to a man in a dark suit and blue striped tie, the 'Man in Suit on Green Screen,' standing before a green screen with 'THE ECONOMY' text, likely delivering a financial report. This is followed by a black-and-white newspaper clipping from USA TODAY dated January 2, 2018, headlined 'Warren Buffett wins $1M bet against hedge funds and gives it to girls' charity,' written by David Carrig, emphasizing a significant financial event. The narrative then shifts to a vintage black 1950s-style car driving down a suburban street, the 'Vintage Car,' setting a nostalgic tone. The scene cuts to a modern Fox News panel with three people seated, the lower third reading 'FRI: DOW CLOSES NEAR 26,000 RECORD MILESTONE' and 'FOX & friends,' indicating a discussion on market performance. Next, a man in a dark suit and red tie, the 'Man in Red Tie,' appears on Fox Business, identified as 'BEN STEIN | 'THE CAPITALIST CODE' AUTHOR,' speaking with a serious expression. The video then shows President Donald Trump at a podium with a microphone, wearing a dark suit and striped tie, speaking in front of an American flag backdrop, with Vice President Mike Pence and another man seated behind him. The sequence continues with a black-and-white scene of a man and woman in a 1950s kitchen, both smiling near a coffee pot, the 'Man and Woman in 1950s Kitchen,' evoking a mid-century domestic ideal. The video then presents a series of economic graphs: the 'US GDP Growth Rate Graph' showing fluctuations from 1960 to 2020, the 'US Average Hourly Wages Graph' from 1985 to 2015, and the 'US Average Family Net Worth Graph' from 1992 to 2016, each sourced from reputable institutions. The scene shifts to a modern 'Stock Exchange Interior' with digital tickers and traders at desks, followed by a 'Woman in Green Blazer' reporting on U.S. markets with financial tickers below. A 'Man in Suit on 'MAD MONEY' Set' speaks with a 'BREAKING NEWS' banner about dividend stocks. The video then shows a frantic 'Trading Floor' with traders reacting to market movements, followed by a 'Female CNBC Anchor' reporting on 'BREAKING NEWS: STOCKS PLUNGING AFTER FAILURE OF BAILOUT BILL IN THE HOUSE.' An 'Older Man in Suit (Split-Screen)' appears in a split-screen, reacting seriously to market news. The segment concludes with a 'Stock Market Bell' being rung, with the text 'The stock market, explained' appearing on screen, symbolizing the start of a financial explanation. Throughout, the 'Netflix Logo' remains consistently visible in the top right corner.",
+            "active_entities": {
+                "Netflix Logo": "Red, bold, sans-serif text on a gray gradient background, consistently visible in the top right corner throughout the segment.",
+                "Woman in White Blazer": "Standing in a news studio, wearing a white blazer, speaking in front of a 'MONEY with Melissa Francis' backdrop with financial tickers below.",
+                "Man in Suit on Green Screen": "Wearing a dark suit and blue striped tie, standing in front of a green screen with 'THE ECONOMY' text, likely a financial news anchor.",
+                "Newspaper Clippings": "Black-and-white article from USA TODAY dated January 2, 2018, with the headline 'Warren Buffett wins $1M bet against hedge funds and gives it to girls' charity,' written by David Carrig, emphasizing a significant financial event.",
+                "Vintage Car": "A black, classic 1950s-style car driving down a suburban street lined with modest houses and lawns.",
+                "Fox News Panel": "Three people seated on a modern studio set with a large screen behind them; the lower third reads 'FRI: DOW CLOSES NEAR 26,000 RECORD MILESTONE' and 'FOX & friends'.",
+                "Man in Red Tie": "Wearing a dark suit and red tie, speaking on Fox Business with a lower third identifying him as 'BEN STEIN | 'THE CAPITALIST CODE' AUTHOR'.",
+                "President Donald Trump": "Standing at a podium with a microphone, wearing a dark suit and striped tie, speaking in front of an American flag backdrop; Vice President Mike Pence and another man are seated behind him.",
+                "Man and Woman in 1950s Kitchen": "Black-and-white scene; the man wears a suit and tie, the woman wears a dark dress, both smiling as they stand near a kitchen counter with a coffee pot.",
+                "US GDP Growth Rate Graph": "Line graph showing fluctuations from 1960 to 2020, with peaks and troughs, labeled 'US GDP GROWTH RATE' and sourced from the World Bank.",
+                "US Average Hourly Wages Graph": "Line graph from 1985 to 2015, showing a gradual increase, with data points labeled $20.10 (1985) and $22.49 (2015), sourced from the Bureau of Labor Statistics.",
+                "US Average Family Net Worth Graph": "Bar graph showing net worth trends from 1992 to 2016, with percentages above each bar, sourced from E. Wolff, New York University.",
+                "Stock Exchange Interior": "Modern trading floor with digital tickers, large screens, and traders at desks; a yellow circle highlights a specific data point on a ticker.",
+                "Woman in Green Blazer": "Standing in a news studio, wearing a green blazer, reporting on U.S. markets with financial tickers below.",
+                "Man in Suit on 'MAD MONEY' Set": "Wearing a dark suit and tie, speaking on a 'MAD MONEY' set with a 'BREAKING NEWS' banner about dividend stocks.",
+                "Trading Floor": "Bustling environment with traders in light shirts and ties reacting frantically to market movements, surrounded by computer monitors and telephones.",
+                "Female CNBC Anchor": "Reporting on 'BREAKING NEWS: STOCKS PLUNGING AFTER FAILURE OF BAILOUT BILL IN THE HOUSE,' with CNBC logo visible.",
+                "Older Man in Suit (Split-Screen)": "Appearing in a split-screen, wearing a dark suit and tie, reacting to market news with a serious expression.",
+                "Stock Market Bell": "Large metallic bell being rung, with the text 'The stock market, explained' appearing on screen."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 12,
+            "caption": "The video opens with a close-up of a woman in a black blazer, speaking with a serious expression in what appears to be a retail or office setting, with shelves and products visible in the background. The scene quickly transitions to a black-and-white newspaper clipping from The New York Times dated June 16, 1972, headlined 'Stocks Decline Sharply; Dow Tumbles 14.94,' indicating a financial downturn. The narrative then shifts to a woman in a black blazer, identified as Lynn Stout, Corporate Law Professor, standing in a grand, wood-paneled hall with chandeliers and ornate railings, speaking directly to the camera. This is followed by archival footage of Milton Friedman on The Phil Donahue Show in 1979, wearing a light suit and tie, engaged in a discussion with the host, who has white hair and is dressed in a dark suit. The video then displays an animated stakeholder diagram—a blue circle with yellow spokes labeled 'shareholders,' 'bondholders,' 'suppliers,' 'employees,' and 'community'—on a green background, illustrating corporate stakeholders. This is followed by a black-and-white newspaper article titled 'A Friedman doctrine—The Social Responsibility Of Business Is to Increase Its Profits' by Milton Friedman, with a caption referencing General Motors. The scene returns to Lynn Stout in the same grand hall, continuing her commentary. The final shot is a black-and-white archival clip from Wall Street in 1987, showing a man in a vest and tie, looking intently at a computer monitor, with the text 'WALL STREET, 1987' displayed on screen, suggesting a moment of financial tension or crisis.",
+            "active_entities": {
+                "Lynn Stout, CORPORATE LAW PROFESSOR": "Woman in a black blazer, standing in a grand, wood-paneled hall with chandeliers and ornate railings, speaking directly to the camera with a serious expression; later seated, continuing her commentary.",
+                "Stakeholder Diagram": "Animated graphic of a blue circle with yellow spokes labeled 'shareholders,' 'bondholders,' 'suppliers,' 'employees,' and 'community,' illustrating corporate stakeholders on a green background.",
+                "Newspaper Clippings": "Black-and-white article from The New York Times dated June 16, 1972, with the headline 'Stocks Decline Sharply; Dow Tumbles 14.94,' and another article titled 'A Friedman doctrine—The Social Responsibility Of Business Is to Increase Its Profits' by Milton Friedman."
+            },
+            "discovered_new_entities": {
+                "Milton Friedman": "Archival footage of an older man with glasses, wearing a light suit and tie, appearing on The Phil Donahue Show in 1979, engaged in conversation with the host.",
+                "The Phil Donahue Show Host": "Man with white hair, wearing a dark suit and tie, seated across from Milton Friedman during the 1979 interview, actively participating in the discussion.",
+                "Man in Vest and Tie (Wall Street, 1987)": "Black-and-white archival footage of a man in a vest and tie, seated at a desk with computer monitors, looking intently at the screen, with the text 'WALL STREET, 1987' displayed on screen."
+            }
+        },
+        {
+            "minute": 13,
+            "caption": "The segment opens with a formal boardroom setting, where a man in a dark suit and tie speaks into a microphone, addressing a panel of individuals seated behind nameplates, including 'CHRISTOPHER HAYES' and 'MARGARET HAYES,' suggesting a corporate or governmental hearing. The scene transitions to a wide shot of a large, ornate hall filled with an audience, with a stage adorned with American flags and a '50 YEARS' banner, indicating a significant anniversary event. The video then cuts to a stylized animated sequence featuring a man in a suit with a yellow tie standing beside a bar graph comparing 'CEO PAY' and 'STOCK PRICE,' with a framed certificate beside him, symbolizing corporate compensation and performance. This is followed by a live interview with Lynn Stout, CORPORATE LAW PROFESSOR, who speaks directly to the camera in a grand, wood-paneled hall with chandeliers and ornate railings, her expression serious and thoughtful. The narrative shifts to a playful, child-friendly lemonade stand scene, where a young girl in a yellow shirt pours lemonade into a glass, with a 'Grand Opening' sign and a hand-drawn 'Lemonade Stand Corporation' stock certificate visible, symbolizing entrepreneurship and investment. The segment concludes with a data visualization titled 'HOW COMPANIES SPENT EARNINGS 2007-2016,' showing a bar graph with 55% highlighted in yellow, attributed to W. LAZONICK, UNIVERSITY OF MASSACHUSETTS, emphasizing corporate spending trends. Throughout, the Netflix logo remains consistently in the top right corner.",
+            "active_entities": {
+                "Man in Suit on Green Screen": "Wearing a dark suit and blue striped tie, standing in front of a green screen with 'THE ECONOMY' text, likely a financial news anchor.",
+                "Lynn Stout, CORPORATE LAW PROFESSOR": "Woman in a black blazer, standing in a grand, wood-paneled hall with chandeliers and ornate railings, speaking directly to the camera with a serious expression; later seated, continuing her commentary.",
+                "Young Girl in Yellow Shirt": "Wearing a yellow shirt, she holds a hand-drawn 'Lemonade Stand Corporation' stock certificate and counts money, embodying the role of a business owner and entrepreneur.",
+                "Lemonade Stand": "A wooden stand with a 'LEMONADE' sign, colorful bunting, and a pitcher of lemonade, serving as a metaphor for a startup business.",
+                "Lemonade Stand Corporation Stock Certificate": "Hand-drawn mock stock certificate with 'Lemonade Stand Corporation' and 'Common Stock' text, signed by the girl, used to represent ownership and investment in the business.",
+                "Netflix Logo": "Red, bold, sans-serif text on a gray gradient background, consistently visible in the top right corner throughout the segment."
+            },
+            "discovered_new_entities": {
+                "Grand Opening Sign": "Hand-drawn green sign reading 'Grand Opening,' displayed above the lemonade stand, indicating the launch of the business.",
+                "Animated CEO Pay vs. Stock Price Graph": "Stylized bar graph with labels 'CEO PAY' and 'STOCK PRICE,' showing a comparison with a dotted line connecting the two bars, and a framed certificate beside a man in a suit with a yellow tie.",
+                "How Companies Spent Earnings Graph": "Bar graph titled 'HOW COMPANIES SPENT EARNINGS 2007-2016,' with 55% highlighted in yellow, sourced from W. LAZONICK, UNIVERSITY OF MASSACHUSETTS, illustrating corporate spending trends.",
+                "Boardroom Panel": "Group of individuals seated behind nameplates in a formal setting, including 'CHRISTOPHER HAYES' and 'MARGARET HAYES,' suggesting a corporate or governmental hearing.",
+                "Ornate Hall with Audience": "Large, grand hall with chandeliers, American flags, and a '50 YEARS' banner, filled with an audience, indicating a significant anniversary event.",
+                "Stock Buybacks Title Card": "Text overlay reading 'STOCK BUYBACKS' in bold white letters on a gray background, introducing a financial concept."
+            }
+        },
+        {
+            "minute": 14,
+            "caption": "The segment opens with a bar graph titled 'HOW COMPANIES SPENT EARNINGS 2007-2016,' sourced from W. LAZONICK, UNIVERSITY OF MASSACHUSETTS, visually breaking down corporate spending: 55% on stock buybacks (yellow), 39% on dividends (blue), and 6% on 'EVERYTHING ELSE' (gray), with icons of a dollar sign, building, and beaker illustrating the latter. The scene transitions to Hank Newell, a former CEO of Wausau Paper, seated in a well-lit living room with a bookshelf and large windows, speaking thoughtfully with hand gestures. The video then cuts to industrial footage of a paper mill with smokestacks and piles of raw material, followed by a close-up of two stacks of paper labeled 'Wausau Paper' and 'New York hedge fund,' symbolizing corporate conflict. A newspaper clipping from the 'MILWAUKEE WISCONSIN JOURNAL SENTINEL' dated January 17, 2014, appears with the headline 'New York hedge fund renews criticism of Wausau Paper.' The narrative continues with an animated sequence showing dollar bills flowing from 'PAYROLL,' 'DIVIDENDS,' and 'NEW PRODUCTS' into a 'PROFITS' box, emphasizing financial allocation. The final shot features Jeff Weisenberger, a former machinist at Wausau Paper, seated in a home environment with framed pictures on the wall, speaking directly to the camera. The Netflix logo remains consistently in the top right corner throughout.",
+            "active_entities": {
+                "How Companies Spent Earnings Graph": "Bar graph titled 'HOW COMPANIES SPENT EARNINGS 2007-2016,' with 55% highlighted in yellow for stock buybacks, 39% in blue for dividends, and 6% in gray for 'EVERYTHING ELSE,' sourced from W. LAZONICK, UNIVERSITY OF MASSACHUSETTS, with icons of a dollar sign, building, and beaker for the latter category.",
+                "Newspaper Clippings": "Black-and-white article from the 'MILWAUKEE WISCONSIN JOURNAL SENTINEL' dated January 17, 2014, with the headline 'New York hedge fund renews criticism of Wausau Paper,' authored by John Schmid.",
+                "Netflix Logo": "Red, bold, sans-serif text on a gray gradient background, consistently visible in the top right corner throughout the segment."
+            },
+            "discovered_new_entities": {
+                "Hank Newell": "Former CEO of Wausau Paper, wearing a light blue button-up shirt and glasses, seated in a bright living room with a large bookshelf and windows, speaking with expressive hand gestures.",
+                "Industrial Paper Mill Footage": "Aerial and ground-level shots of a paper mill with smokestacks emitting smoke, piles of raw material, and conveyor belts, under an overcast sky, representing Wausau Paper's operations.",
+                "Animated Financial Flow Diagram": "Animated sequence showing dollar bills flowing from labeled boxes: 'PAYROLL,' 'DIVIDENDS,' and 'NEW PRODUCTS' into a central 'PROFITS' box, illustrating corporate financial allocation.",
+                "Jeff Weisenberger": "Former machinist at Wausau Paper, wearing a dark jacket over a light shirt, seated in a home setting with framed pictures on the wall, speaking directly to the camera with a serious expression.",
+                "Wausau Paper Stacks": "Two physical stacks of paper, one labeled 'Wausau Paper' and the other 'New York hedge fund,' placed side by side on a yellow surface, symbolizing corporate conflict and financial tension."
+            }
+        },
+        {
+            "minute": 15,
+            "caption": "The video opens with industrial footage of a paper mill, showing large yellow machinery and conveyor belts, with on-screen text from 'FOX 6 NEWS' and 'Courtesy: WausauPaperCorp' indicating a news report about the Wausau Paper Mill closing, with 450 workers to be laid off by March 31st. The scene transitions to a wide shot of a snow-covered river with a bridge, followed by an aerial view of a factory complex with a large water tower labeled 'BROKAW' and a date stamp 'WISCONSIN PUBLIC RADIO, DEC 6, 2011'. The narrative then shifts to an interview with Jeff Weisenberger, a former machinist at Wausau Paper, seated in a room with framed photos on the wall, wearing a black leather jacket over a light shirt, speaking with a serious expression. The video cuts to more industrial footage of the paper mill, including smokestacks and conveyor belts, before returning to Weisenberger. Next, Hank Newell, former CEO of Wausau Paper, appears in a bright living room with a bookshelf and windows, wearing a light blue button-up shirt and glasses, speaking with expressive hand gestures. The scene changes to Lynn Stout, a corporate law professor, seated in a grand, wood-paneled hall with chandeliers and ornate railings, wearing a black blazer over a white top, speaking directly to the camera with a serious demeanor. The video concludes with exterior shots of a dilapidated building with boarded-up windows and a truck labeled 'Kennedy-Can BLOCKIT MOLD REPAIR', suggesting economic decline and industrial decay in the community.",
+            "active_entities": {
+                "Industrial Paper Mill Footage": "Aerial and ground-level shots of a paper mill with smokestacks emitting smoke, piles of raw material, and conveyor belts, under an overcast sky, representing Wausau Paper's operations.",
+                "Jeff Weisenberger": "Former machinist at Wausau Paper, wearing a dark jacket over a light shirt, seated in a home setting with framed pictures on the wall, speaking directly to the camera with a serious expression.",
+                "Hank Newell": "Former CEO of Wausau Paper, wearing a light blue button-up shirt and glasses, seated in a bright living room with a large bookshelf and windows, speaking with expressive hand gestures.",
+                "Lynn Stout, CORPORATE LAW PROFESSOR": "Woman in a black blazer, standing in a grand, wood-paneled hall with chandeliers and ornate railings, speaking directly to the camera with a serious expression; later seated, continuing her commentary.",
+                "Netflix Logo": "Red, bold, sans-serif text on a gray gradient background, consistently visible in the top right corner throughout the segment."
+            },
+            "discovered_new_entities": {
+                "Dilapidated Building": "Exterior shot of a weathered, gray building with boarded-up windows and peeling paint, suggesting abandonment and economic decline.",
+                "Kennedy-Can BLOCKIT Truck": "White truck with blue and black 'Kennedy-Can BLOCKIT MOLD REPAIR' branding, parked outside a building, indicating a service for mold repair, possibly linked to industrial decay."
+            }
+        },
+        {
+            "minute": 16,
+            "caption": "The segment opens with Lynn Stout, CORPORATE LAW PROFESSOR, standing in a grand, wood-paneled hall with chandeliers and ornate railings, speaking directly to the camera with a serious expression. The scene transitions to a wide shot of a crowded parking lot filled with various vehicles, including trucks and SUVs, under a clear sky, suggesting a busy industrial or commercial area. This is followed by a snowy suburban street with a white house and a red pickup truck, emphasizing a quiet, wintry residential setting. The next shot shows a large industrial paper mill with conveyor belts and piles of raw material, under an overcast sky, representing Wausau Paper’s operations. The video then shifts to a series of animated graphs: first, a yellow line graph of the S&P 500 Index from 1970 to 2016, highlighting key years (1970, 1983, 1993, 1999, 2006, 2016) with a sharp rise after 1983. This is followed by a black line graph showing CEO compensation, with a notable spike to 271% around 2004. Then, a graph titled 'AMERICANS INVESTED IN THE STOCK MARKET' displays percentages from 1999 to 2016, peaking at 65% in 2007 and declining to 52% by 2016. Finally, a dual-axis graph shows the S&P 500 Index and the unemployment rate from 1947 to 2013, with the index rising sharply while the unemployment rate fluctuates. Throughout, the Netflix logo remains in the top right corner, and the graphs are sourced from the Economic Policy Institute and Gallup, with a clean, minimalist design and white background.",
+            "active_entities": {
+                "Lynn Stout, CORPORATE LAW PROFESSOR": "Woman in a black blazer, standing in a grand, wood-paneled hall with chandeliers and ornate railings, speaking directly to the camera with a serious expression.",
+                "Industrial Paper Mill Footage": "Aerial and ground-level shots of a paper mill with smokestacks emitting smoke, piles of raw material, and conveyor belts, under an overcast sky, representing Wausau Paper's operations."
+            },
+            "discovered_new_entities": {
+                "S&P 500 INDEX Graph": "Line graph showing the S&P 500 Index from 1970 to 2016, with key years labeled (1970, 1983, 1993, 1999, 2006, 2016), sourced from the Economic Policy Institute, with a yellow line on a dark background transitioning to a white background.",
+                "CEO Compensation Graph": "Black line graph showing CEO compensation from 1970 to 2016, with a highlighted point at 271% around 2004, sourced from the Economic Policy Institute, on a white background.",
+                "AMERICANS INVESTED IN THE STOCK MARKET Graph": "Line graph showing the percentage of Americans invested in the stock market from 1999 to 2016, with data points labeled (60, 62, 65, 62, 57, 56, 54, 52, 55, 52), sourced from Gallup, on a white background.",
+                "S&P 500 INDEX and Unemployment Rate Graph": "Dual-axis graph showing the S&P 500 Index (right axis) and unemployment rate (left axis) from 1947 to 2013, with the index rising sharply and the unemployment rate fluctuating, sourced from the National Bureau of Economic Research, on a white background."
+            }
+        },
+        {
+            "minute": 17,
+            "caption": "The video opens with a dual-axis line graph displaying the S&P 500 Index and the Gini Coefficient (inequality) from 1947 to 2013, sourced from the National Bureau of Economic Research, highlighting a rising trend in both metrics. The scene transitions to a bustling stock exchange floor, where a man in a suit waves enthusiastically, followed by a close-up of a trader in a red shirt gesturing excitedly. The setting shifts to a homey living room where Robert Shiller, wearing a blue button-up shirt under a dark jacket, speaks with expressive hand gestures. The video then cuts to a modern trading floor with traders at desks, followed by a woman in a black blazer speaking in a grand hall with ornate railings. The narrative shifts to a playful, educational segment featuring children running a lemonade stand; a boy in a yellow shirt holds a hand-drawn 'Lemonade Stand Corporation' stock certificate, while a girl in a green shirt and top hat acts as a banker at a 'BANK' booth. The children interact with money and certificates, symbolizing entrepreneurship and finance. The segment concludes with a black screen displaying the production credit: 'Produced by ELIZABETH SCHELLENS' in white text.",
+            "active_entities": {
+                "S&P 500 INDEX and Unemployment Rate Graph": "Dual-axis line graph showing the S&P 500 Index (right axis) and unemployment rate (left axis) from 1947 to 2013, with the index rising sharply and the unemployment rate fluctuating, sourced from the National Bureau of Economic Research, on a white background.",
+                "Man in Suit on Green Screen": "Wearing a dark suit and blue striped tie, standing in front of a green screen with 'THE ECONOMY' text, likely a financial news anchor.",
+                "Robert Shiller": "Nobel Prize-winning economist, wearing a blue button-up shirt under a dark jacket, seated in a bright, homey living room with a fireplace and bookshelves, speaking with expressive hand gestures and a warm smile.",
+                "Lynn Stout, CORPORATE LAW PROFESSOR": "Woman in a black blazer, standing in a grand, wood-paneled hall with chandeliers and ornate railings, speaking directly to the camera with a serious expression.",
+                "Young Girl in Yellow Shirt": "Wearing a yellow shirt, she holds a hand-drawn 'Lemonade Stand Corporation' stock certificate and counts money, embodying the role of a business owner and entrepreneur.",
+                "Girl in Green Shirt with Top Hat": "Wearing a green shirt and a black top hat labeled 'BANK,' she acts as a banker, facilitating the exchange of money and certificates, symbolizing financial institutions.",
+                "Lemonade Stand": "A wooden stand with a 'LEMONADE' sign, colorful bunting, and a pitcher of lemonade, serving as a metaphor for a startup business.",
+                "Bank Booth": "A simple wooden table with a 'BANK' sign, where the girl in the green shirt and top hat acts as a banker, facilitating financial transactions.",
+                "Lemonade Stand Corporation Stock Certificate": "Hand-drawn mock stock certificate with 'Lemonade Stand Corporation' and 'Common Stock' text, signed by the girl, used to represent ownership and investment in the business.",
+                "Boy in Blue Shirt": "Wearing a blue shirt, he holds a stock certificate and a dollar bill, representing an investor who buys into the business and contemplates future profits."
+            },
+            "discovered_new_entities": {
+                "Produced by ELIZABETH SCHELLENS": "White text on a black screen, indicating the producer of the video segment."
+            }
+        },
+        {
+            "minute": 18,
+            "caption": "The video segment begins with a series of black screens displaying white text credits for the production team, including Executive Producers such as Claire Gordon, Joe Posner, Ezra Klein, Chad Mumm, Jason Spingarn-Koff, Kate Townsend, and Lisa Nishimura, followed by roles like Line Producer, Production Manager, Editor, and Art Director. The credits continue to list additional crew members involved in post-production, sound, and legal affairs, including names like Darnell Stalworth, Rubab Shakir, and Jess Peterson. The sequence transitions to acknowledge Vox Media leadership, including CEO Jim Bankoff and Editor-in-Chief Lauren Williams, and then lists music and archival imagery sources such as Epidemic Sound and AP Archive. A 'Special Thanks' section follows, honoring individuals like Krissy Alleyne, Jaden Bernard, and Dylan Matthews. The segment concludes with a memorial tribute to Lynn Stout (1957–2018), followed by copyright and legal disclaimers from Netflix Studios, LLC, and the appearance of the white 'Vox' logo on a black background, which then fades to the red 'NETFLIX' logo on a gray gradient background, marking the end of the credits.",
+            "active_entities": {
+                "Netflix Logo": "Red, bold, sans-serif 'NETFLIX' text on a gray gradient background, appearing at the end of the segment."
+            },
+            "discovered_new_entities": {
+                "Executive Producers": "Listed in white text on black background, including Claire Gordon, Joe Posner, Ezra Klein, Chad Mumm, Jason Spingarn-Koff, Kate Townsend, and Lisa Nishimura.",
+                "Line Producer": "Marina G. Stadler, listed in white text on black background.",
+                "Production Manager": "Madeleine Cuda, listed in white text on black background.",
+                "Editor": "Darnell Stalworth, listed in white text on black background.",
+                "Art Director": "Rubab Shakir, listed in white text on black background.",
+                "Creative Director": "Emily Collins, listed in white text on black background.",
+                "Vox Media": "Includes CEO Jim Bankoff, Editor-in-Chief Lauren Williams, and other leadership roles, listed in white text on black background.",
+                "Music Courtesy of": "Epidemic Sound, listed in white text on black background.",
+                "Archival Imagery Courtesy of": "Includes AP Archive, Getty, and other sources, listed in white text on black background.",
+                "Special Thanks": "Names such as Krissy Alleyne, Jaden Bernard, and Dylan Matthews, listed in white text on black background.",
+                "In memory of": "Lynn Stout (1957–2018), displayed in white text on black background.",
+                "Copyright Notice": "Text stating ownership by Netflix Studios, LLC, with legal warnings, displayed in white text on black background.",
+                "Vox Logo": "White stylized 'Vox' text on a black background, appearing after the credits."
+            }
+        }
+    ],
+    "entity_library": {
+        "Netflix Logo": "Red, bold, sans-serif 'NETFLIX' text on a gray gradient background, appearing at the end of the segment.",
+        "Man in Blue Shirt": "Smiling, wearing a blue button-up shirt under a dark jacket, standing in a bright, homey living room with a fireplace and bookshelves.",
+        "Woman in White Blazer": "Standing in a news studio, wearing a white blazer, speaking in front of a 'MONEY with Melissa Francis' backdrop with financial tickers below.",
+        "Man in Suit on Green Screen": "Wearing a dark suit and blue striped tie, standing in front of a green screen with 'THE ECONOMY' text, likely a financial news anchor.",
+        "Newspaper Clippings": "Black-and-white article from the 'MILWAUKEE WISCONSIN JOURNAL SENTINEL' dated January 17, 2014, with the headline 'New York hedge fund renews criticism of Wausau Paper,' authored by John Schmid.",
+        "Vintage Car": "A black, classic 1950s-style car driving down a suburban street lined with modest houses and lawns.",
+        "Fox News Panel": "Three people seated on a modern studio set with a large screen behind them; the lower third reads 'FRI: DOW CLOSES NEAR 26,000 RECORD MILESTONE' and 'FOX & friends'.",
+        "Man in Red Tie": "Wearing a dark suit and red tie, speaking on Fox Business with a lower third identifying him as 'BEN STEIN | 'THE CAPITALIST CODE' AUTHOR'.",
+        "President Donald Trump": "Standing at a podium with a microphone, wearing a dark suit and striped tie, speaking in front of an American flag backdrop; Vice President Mike Pence and another man are seated behind him.",
+        "Man and Woman in 1950s Kitchen": "Black-and-white scene; the man wears a suit and tie, the woman wears a dark dress, both smiling as they stand near a kitchen counter with a coffee pot.",
+        "US GDP Growth Rate Graph": "Line graph showing fluctuations from 1960 to 2020, with peaks and troughs, labeled 'US GDP GROWTH RATE' and sourced from the World Bank.",
+        "US Average Hourly Wages Graph": "Line graph from 1985 to 2015, showing a gradual increase, with data points labeled $20.10 (1985) and $22.49 (2015), sourced from the Bureau of Labor Statistics.",
+        "US Average Family Net Worth Graph": "Bar graph showing net worth trends from 1992 to 2016, with percentages above each bar, sourced from E. Wolff, New York University.",
+        "Stock Exchange Interior": "Modern trading floor with digital tickers, large screens, and traders at desks; a yellow circle highlights a specific data point on a ticker.",
+        "Woman in Green Blazer": "Standing in a news studio, wearing a green blazer, reporting on U.S. markets with financial tickers below.",
+        "Man in Suit on 'MAD MONEY' Set": "Wearing a dark suit and tie, speaking on a 'MAD MONEY' set with a 'BREAKING NEWS' banner about dividend stocks.",
+        "Trading Floor": "Bustling environment with traders in light shirts and ties reacting frantically to market movements, surrounded by computer monitors and telephones.",
+        "Female CNBC Anchor": "Reporting on 'BREAKING NEWS: STOCKS PLUNGING AFTER FAILURE OF BAILOUT BILL IN THE HOUSE,' with CNBC logo visible.",
+        "Older Man in Suit (Split-Screen)": "Appearing in a split-screen, wearing a dark suit and tie, reacting to market news with a serious expression.",
+        "Stock Market Bell": "Large metallic bell being rung, with the text 'The stock market, explained' appearing on screen.",
+        "Young Girl in Yellow Shirt": "Wearing a yellow shirt, she holds a hand-drawn 'Lemonade Stand Corporation' stock certificate and counts money, embodying the role of a business owner and entrepreneur.",
+        "Girl in Green Shirt with Top Hat": "Wearing a green shirt and a black top hat labeled 'BANK,' she acts as a banker, facilitating the exchange of money and certificates, symbolizing financial institutions.",
+        "Lemonade Stand Corporation Stock Certificate": "Hand-drawn mock stock certificate with 'Lemonade Stand Corporation' and 'Common Stock' text, signed by the girl, used to represent ownership and investment in the business.",
+        "Lemonade Stand": "A wooden stand with a 'LEMONADE' sign, colorful bunting, and a pitcher of lemonade, serving as a metaphor for a startup business.",
+        "Expansion Plan Banner": "Hand-drawn banner above the stand reading 'EXPANSION PLAN,' with illustrations of a house and trees, symbolizing business growth.",
+        "Bank Booth": "A simple wooden table with a 'BANK' sign, where the girl in the green shirt and top hat acts as a banker, facilitating financial transactions.",
+        "IPO Sign": "Hand-drawn sign with 'IPO' in large green letters, held by the girl in the yellow shirt during the mock stock sale, representing the initial public offering.",
+        "Boy in Blue Shirt": "Wearing a blue shirt, he holds a stock certificate and a dollar bill, representing an investor who buys into the business and contemplates future profits.",
+        "NYSE Logo": "Blue and white logo with vertical bars and 'NYSE' text, appearing after the historical animation and later alongside the Nasdaq logo.",
+        "Nasdaq Logo": "Green 'N' symbol with 'Nasdaq' text, displayed on a hand-drawn computer screen and later alongside the NYSE logo.",
+        "World Map": "Hand-drawn outline of the world with black pins marking global financial centers, including 'FRANKFURT' and 'SHANGHAI,' each linked to real-world footage of trading floors.",
+        "Historical Animation": "Black-and-white animated scenes including a man holding a globe and crown, and a political cartoon of two men on a tightrope over a cityscape, symbolizing financial risk and power.",
+        "Hand-Drawn Computer": "Stylized computer with a screen displaying the Nasdaq logo, keyboard, and later connected to logos of Apple and Facebook, representing the digital evolution of the stock market.",
+        "Index Machine": "Mechanical, industrial-style machine with a central circular component labeled 'INDEX,' processing dollar signs and outputting stock index values on a screen, transitioning between 'S&P 500 INDEX' and 'DOW JONES INDUSTRIAL AVERAGE.'",
+        "Historical Figures in 18th-Century Attire": "Black-and-white animated characters wearing tricorn hats and formal 18th-century clothing, depicted in a street scene, representing early financial market participants.",
+        "Skyscraper Transformation": "A hand-drawn building that morphs from a classical structure into a modern yellow skyscraper, symbolizing the growth and modernization of financial institutions.",
+        "Corporate Logos Montage": "A sequence of major company logos (IBM, ExxonMobil, P&G, GE, Walmart) appearing around the NYSE logo, illustrating the diversity of companies listed on the stock exchange.",
+        "Apple and Facebook Logos": "Black Apple logo and gray Facebook 'f' logo appearing next to the hand-drawn computer, representing modern tech companies listed on Nasdaq.",
+        "Lynn Stout, CORPORATE LAW PROFESSOR": "Woman in a black blazer, standing in a grand, wood-paneled hall with chandeliers and ornate railings, speaking directly to the camera with a serious expression.",
+        "Andrew Carnegie": "Black-and-white portrait of a man with a white beard, labeled 'Andrew Carnegie STEEL,' shown alongside footage of a steel mill with molten metal.",
+        "Cornelius Vanderbilt": "Black-and-white portrait of a man with curly hair and a beard, labeled 'Cornelius Vanderbilt RAILROADS,' shown with a train moving along tracks.",
+        "John D. Rockefeller": "Black-and-white portrait of a man with a mustache, labeled 'John D. Rockefeller OIL,' shown with oil derricks and smokestacks emitting black smoke.",
+        "Historical Industrialist Montage": "Split-screen sequence featuring portraits and industrial footage of Andrew Carnegie, Cornelius Vanderbilt, and John D. Rockefeller, each labeled with their name and industry, illustrating the rise of industrial capitalism.",
+        "GM DIESEL Sign": "Black-and-white image of a large 'GM DIESEL' sign atop a building, with an American flag waving above it, symbolizing industrial heritage.",
+        "GENERAL ELECTRIC Sign": "Black-and-white image of a 'GENERAL ELECTRIC' sign with an American flag, evoking early 20th-century American industry.",
+        "Historical Footage of Factory Workers": "Black-and-white footage showing a man in a white shirt and cap working in a factory, another man in a suit inspecting machinery, and two men in front of a construction site, representing early industrial labor and development.",
+        "Historical Factory Scene": "Black-and-white footage of a factory interior with workers and machinery, including a man in a white shirt and cap operating equipment, symbolizing early industrial labor.",
+        "Historical Construction Site": "Black-and-white footage of two men in front of a building under construction with scaffolding, representing early infrastructure development.",
+        "Woman in Green Dress and White Apron": "Smiling at the camera in a 1950s-style kitchen, with a 'TUPPERWARE' sign visible behind her, suggesting a home goods demonstration.",
+        "Man in White Shirt and Cap": "Working in a black-and-white kitchen scene, later seen operating machinery in a factory setting.",
+        "Two Men in Suits Examining Document": "Black-and-white scene of two men in suits, one with glasses, reviewing a document in an office or boardroom setting.",
+        "Vintage Lawnmower Scene": "Colorized footage of a man in a red cap and dark jacket riding a lawnmower in a suburban neighborhood with houses and power lines in the background.",
+        "Stakeholder Diagram": "Animated graphic of a blue circle with yellow spokes labeled 'shareholders,' 'bondholders,' 'suppliers,' 'employees,' and 'community,' illustrating corporate stakeholders on a green background.",
+        "Woman in Black Blazer": "Standing in a news studio, wearing a black blazer, reporting on 'BUFFETT'S BIG PROBLEM' with financial tickers below.",
+        "Warren Buffett": "Wearing a dark suit and red tie, walking through a crowd, then seated in a talk show interview with a lower third identifying him as 'BERKSHIRE HATHAWAY CHAIRMAN AND CEO'.",
+        "Robert Shiller": "Nobel Prize-winning economist, wearing a blue button-up shirt under a dark jacket, seated in a bright, homey living room with a fireplace and bookshelves, speaking with expressive hand gestures and a warm smile.",
+        "Woman in Red Dress": "Seated in a talk show setting, wearing a red dress, interviewing Warren Buffett with a lower third reading 'SMART MONEY FOR RETIREMENT'.",
+        "Older Man with White Hair and Glasses": "Wearing a black sweatshirt with 'Bill plays with' text, strumming a ukulele in a workshop with tools and equipment in the background.",
+        "Children Playing in Yard": "Colorized footage of children playing in a grassy yard with a clothesline and a house in the background.",
+        "Animated Index Diagram": "A circular graphic labeled 'Index f' with dollar signs, transitioning to a colorful sphere with company logos (Walmart, IBM, ExxonMobil, P&G) connected by dotted lines, and a hand icon pointing to the sphere.",
+        "Man in Suit and Tie (Historical Footage)": "Wearing a suit and tie, working at a counter with bottles in a black-and-white scene.",
+        "Woman in Dress with Children": "Wearing a dark dress, walking with two children near a vintage car in a black-and-white scene.",
+        "Man in White Shirt and Cap (Historical Footage)": "Working in a black-and-white kitchen scene, later seen operating machinery in a factory setting.",
+        "2018 Forbes Billionaires Graphic": "A colorful graphic displaying the '2018 FORBES BILLIONAIRES' list with portraits and net worths of Warren Buffett ($84B), Bernard Arnault & Family ($72B), and Mark Zuckerberg ($71B).",
+        "Talk Show Set": "A studio setting with two chairs, a patterned rug, and a brick wall backdrop, where Warren Buffett is interviewed by a woman in a red dress with a lower third reading 'SMART MONEY FOR RETIREMENT'.",
+        "Workshop Background": "A cluttered workshop with tools, workbenches, and equipment, where the older man with white hair and glasses plays the ukulele.",
+        "John Maynard Keynes": "Black-and-white portrait of a man with a mustache and receding hairline, shown in a close-up, followed by historical footage of him seated at a conference table with nameplates for U.S.S.R., United Kingdom, and Yugoslavia, indicating his participation in international economic discussions.",
+        "BEAUTY CONTEST Poster": "Vintage-style poster from Picture Post, March 10, 1940, titled 'BEAUTY CONTEST' with the instruction 'Readers vote! Pick the favorites and win a prize!' featuring nine illustrated women in a 3x3 grid, used to illustrate Keynes' theory of market speculation.",
+        "Corkboard with Vote Counts": "Brown corkboard displaying the nine beauty contest portraits pinned with colorful thumbtacks, each labeled with a numerical vote count (e.g., 1,012, 817, 540), visually representing the outcome of the public vote.",
+        "Animated Beauty Contest Layout": "The same 'BEAUTY CONTEST' poster reappearing with dynamic yellow and green circles highlighting selected portraits, including #1, #2, #3, #4, #5, and #6, to emphasize the concept of popularity and herd behavior in decision-making.",
+        "Animated Sphere with Company Logos": "Colorful animated sphere composed of circular logos for IBM, P&G, GE, Walmart, and ExxonMobil, connected to a central black circle with a white hand icon, symbolizing investment or selection, with a '$1 MILLION' label above it.",
+        "Historical Conference Table Scene": "Black-and-white footage of a formal meeting with delegates seated at a long table, nameplates indicating U.S.S.R., United Kingdom, and Yugoslavia, with Keynes in the center, suggesting an international economic summit.",
+        "Beauty Contest Portraits": "Nine illustrated portraits of women in a 3x3 grid, rendered in black-and-white with stippled shading, each uniquely styled with different hair, expressions, and attire, used as visual elements in the beauty contest.",
+        "Chipotle price per share graph": "Line graph from Yahoo Finance showing Chipotle's stock price per share from August 2015 to August 2016, with a sharp decline, displayed alongside a news clip of a Chipotle restaurant closing for a health meeting.",
+        "Volkswagen price per share graph": "Line graph from Yahoo Finance showing Volkswagen's stock price per share from June to September 2015, with a steep drop, displayed alongside a news anchor reporting on the scandal.",
+        "Vintage Laptop": "Stylized laptop displaying the Lycos website with text 'Your Internet Guide,' showing stock price changes from $13 to $107 and then $36 to $207, set against a green, pixelated background.",
+        "NBC News Anchor (1999)": "Man in a suit and tie, standing in front of a purple backdrop with 'NBC 5:42:50 JAN 27 99' displayed, delivering a news report.",
+        "Milton Friedman": "Archival footage of an older man with glasses, wearing a light suit and tie, appearing on The Phil Donahue Show in 1979, engaged in conversation with the host.",
+        "The Phil Donahue Show Host": "Man with white hair, wearing a dark suit and tie, seated across from Milton Friedman during the 1979 interview, actively participating in the discussion.",
+        "Man in Vest and Tie (Wall Street, 1987)": "Black-and-white archival footage of a man in a vest and tie, seated at a desk with computer monitors, looking intently at the screen, with the text 'WALL STREET, 1987' displayed on screen.",
+        "Grand Opening Sign": "Hand-drawn green sign reading 'Grand Opening,' displayed above the lemonade stand, indicating the launch of the business.",
+        "Animated CEO Pay vs. Stock Price Graph": "Stylized bar graph with labels 'CEO PAY' and 'STOCK PRICE,' showing a comparison with a dotted line connecting the two bars, and a framed certificate beside a man in a suit with a yellow tie.",
+        "How Companies Spent Earnings Graph": "Bar graph titled 'HOW COMPANIES SPENT EARNINGS 2007-2016,' with 55% highlighted in yellow for stock buybacks, 39% in blue for dividends, and 6% in gray for 'EVERYTHING ELSE,' sourced from W. LAZONICK, UNIVERSITY OF MASSACHUSETTS, with icons of a dollar sign, building, and beaker for the latter category.",
+        "Boardroom Panel": "Group of individuals seated behind nameplates in a formal setting, including 'CHRISTOPHER HAYES' and 'MARGARET HAYES,' suggesting a corporate or governmental hearing.",
+        "Ornate Hall with Audience": "Large, grand hall with chandeliers, American flags, and a '50 YEARS' banner, filled with an audience, indicating a significant anniversary event.",
+        "Stock Buybacks Title Card": "Text overlay reading 'STOCK BUYBACKS' in bold white letters on a gray background, introducing a financial concept.",
+        "Hank Newell": "Former CEO of Wausau Paper, wearing a light blue button-up shirt and glasses, seated in a bright living room with a large bookshelf and windows, speaking with expressive hand gestures.",
+        "Industrial Paper Mill Footage": "Aerial and ground-level shots of a paper mill with smokestacks emitting smoke, piles of raw material, and conveyor belts, under an overcast sky, representing Wausau Paper's operations.",
+        "Animated Financial Flow Diagram": "Animated sequence showing dollar bills flowing from labeled boxes: 'PAYROLL,' 'DIVIDENDS,' and 'NEW PRODUCTS' into a central 'PROFITS' box, illustrating corporate financial allocation.",
+        "Jeff Weisenberger": "Former machinist at Wausau Paper, wearing a dark jacket over a light shirt, seated in a home setting with framed pictures on the wall, speaking directly to the camera with a serious expression.",
+        "Wausau Paper Stacks": "Two physical stacks of paper, one labeled 'Wausau Paper' and the other 'New York hedge fund,' placed side by side on a yellow surface, symbolizing corporate conflict and financial tension.",
+        "Dilapidated Building": "Exterior shot of a weathered, gray building with boarded-up windows and peeling paint, suggesting abandonment and economic decline.",
+        "Kennedy-Can BLOCKIT Truck": "White truck with blue and black 'Kennedy-Can BLOCKIT MOLD REPAIR' branding, parked outside a building, indicating a service for mold repair, possibly linked to industrial decay.",
+        "S&P 500 INDEX Graph": "Line graph showing the S&P 500 Index from 1970 to 2016, with key years labeled (1970, 1983, 1993, 1999, 2006, 2016), sourced from the Economic Policy Institute, with a yellow line on a dark background transitioning to a white background.",
+        "CEO Compensation Graph": "Black line graph showing CEO compensation from 1970 to 2016, with a highlighted point at 271% around 2004, sourced from the Economic Policy Institute, on a white background.",
+        "AMERICANS INVESTED IN THE STOCK MARKET Graph": "Line graph showing the percentage of Americans invested in the stock market from 1999 to 2016, with data points labeled (60, 62, 65, 62, 57, 56, 54, 52, 55, 52), sourced from Gallup, on a white background.",
+        "S&P 500 INDEX and Unemployment Rate Graph": "Dual-axis line graph showing the S&P 500 Index (right axis) and unemployment rate (left axis) from 1947 to 2013, with the index rising sharply and the unemployment rate fluctuating, sourced from the National Bureau of Economic Research, on a white background.",
+        "Produced by ELIZABETH SCHELLENS": "White text on a black screen, indicating the producer of the video segment.",
+        "Executive Producers": "Listed in white text on black background, including Claire Gordon, Joe Posner, Ezra Klein, Chad Mumm, Jason Spingarn-Koff, Kate Townsend, and Lisa Nishimura.",
+        "Line Producer": "Marina G. Stadler, listed in white text on black background.",
+        "Production Manager": "Madeleine Cuda, listed in white text on black background.",
+        "Editor": "Darnell Stalworth, listed in white text on black background.",
+        "Art Director": "Rubab Shakir, listed in white text on black background.",
+        "Creative Director": "Emily Collins, listed in white text on black background.",
+        "Vox Media": "Includes CEO Jim Bankoff, Editor-in-Chief Lauren Williams, and other leadership roles, listed in white text on black background.",
+        "Music Courtesy of": "Epidemic Sound, listed in white text on black background.",
+        "Archival Imagery Courtesy of": "Includes AP Archive, Getty, and other sources, listed in white text on black background.",
+        "Special Thanks": "Names such as Krissy Alleyne, Jaden Bernard, and Dylan Matthews, listed in white text on black background.",
+        "In memory of": "Lynn Stout (1957–2018), displayed in white text on black background.",
+        "Copyright Notice": "Text stating ownership by Netflix Studios, LLC, with legal warnings, displayed in white text on black background.",
+        "Vox Logo": "White stylized 'Vox' text on a black background, appearing after the credits."
+    }
+}

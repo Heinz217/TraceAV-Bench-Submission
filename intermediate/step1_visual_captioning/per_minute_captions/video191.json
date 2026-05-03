@@ -1,0 +1,328 @@
+{
+    "video_id": "video191",
+    "segments": [
+        {
+            "minute": 1,
+            "caption": "The video opens with a first-person perspective inside a well-lit auto repair shop, where a dark gray sedan is elevated on a blue hydraulic lift with its hood open. The mechanic, wearing black gloves, begins by inspecting the engine bay, then proceeds to unscrew the blue cap of the coolant reservoir. They pour bright blue coolant from a large translucent jug into the reservoir, carefully filling it. After securing the cap, the mechanic moves to the front driver-side wheel, using a yellow impact wrench to remove the lug nuts. The camera focuses closely on the silver alloy wheel with a Hankook tire as the mechanic detaches it, revealing the brake components underneath. The environment is cluttered with tools, toolboxes, and automotive equipment, including a green workbench and a red air compressor. The lighting is bright and industrial, with overhead fluorescent lights illuminating the workspace. The mechanic’s movements are deliberate and precise, indicating experience and focus on the task.",
+            "active_entities": {},
+            "discovered_new_entities": {
+                "dark gray sedan": "Elevated on a blue hydraulic lift with its hood open, revealing the engine bay; front driver-side wheel is removed during the segment.",
+                "mechanic": "Wearing black gloves, performing maintenance tasks including coolant refill and wheel removal; first-person perspective suggests the camera is mounted on the mechanic’s head or chest.",
+                "coolant reservoir": "Located in the engine bay, identifiable by its blue cap; filled with bright blue coolant from a large jug.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; part of the shop’s equipment.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background.",
+                "coolant jug": "Large translucent plastic jug containing bright blue coolant, labeled with product information; used to refill the reservoir.",
+                "yellow impact wrench": "Used to remove lug nuts from the front driver-side wheel; held by the mechanic’s gloved hand.",
+                "Hankook tire": "Black tire with 'Hankook' branding visible on the sidewall, mounted on a silver alloy wheel; removed during the segment.",
+                "silver alloy wheel": "Five-spoke design, shiny and clean, attached to the front driver-side of the sedan; removed to expose brake components."
+            }
+        },
+        {
+            "minute": 2,
+            "caption": "The video begins with a first-person perspective of the mechanic, wearing black gloves, working in a well-lit auto repair shop. The mechanic approaches the front driver-side wheel of the dark gray sedan, which is elevated on the blue hydraulic lift. Using a yellow impact wrench, the mechanic systematically removes the lug nuts from the silver alloy wheel. Once the nuts are off, the mechanic pulls the Hankook tire off the hub, revealing the brake components behind it. The tire is then rolled away across the concrete floor, passing near the yellow safety arms of the lift and other shop equipment. The mechanic carries the tire to a nearby area, placing it on the ground before returning to the vehicle. The camera briefly captures the exposed suspension and brake assembly, including the caliper and rotor, as the mechanic prepares for the next step. The environment remains consistent with visible toolboxes, a red air compressor, and other vehicles in the background, including a white sedan on another lift.",
+            "active_entities": {
+                "dark gray sedan": "Elevated on a blue hydraulic lift with its hood open; front driver-side wheel is removed during the segment, exposing the brake components.",
+                "mechanic": "Wearing black gloves, performing wheel removal using a yellow impact wrench; first-person perspective suggests the camera is mounted on the mechanic’s head or chest.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; part of the shop’s equipment.",
+                "yellow impact wrench": "Used to remove lug nuts from the front driver-side wheel; held by the mechanic’s gloved hand.",
+                "Hankook tire": "Black tire with 'Hankook' branding visible on the sidewall, mounted on a silver alloy wheel; removed during the segment and rolled across the floor.",
+                "silver alloy wheel": "Five-spoke design, shiny and clean, attached to the front driver-side of the sedan; removed to expose brake components.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 3,
+            "caption": "The video begins with a close-up of the front driver-side wheel well of the dark gray sedan, elevated on the blue hydraulic lift, with the silver alloy wheel removed, exposing the brake rotor and suspension components. The mechanic, wearing black gloves, uses a yellow impact wrench to remove the lug nuts, then proceeds to work underneath the vehicle. The camera follows the mechanic’s first-person perspective as they move to the underside of the car, using a red and green cordless impact wrench to remove bolts from the undercarriage. The mechanic then switches to a blue-handled ratchet to loosen additional fasteners, working methodically along the underbody. After removing a panel, the mechanic places it on the floor and returns to the toolboxes to select a new tool. The scene shifts to the rear of the vehicle, where the mechanic uses a long ratchet to loosen bolts near the exhaust system, which features a metallic, mesh-wrapped component. The mechanic continues to work on the undercarriage, adjusting components near the suspension and exhaust, with the shop’s environment—blue walls, other vehicles on lifts, and toolboxes—visible in the background. The lighting is bright and consistent, typical of a well-lit auto repair shop, and the mechanic’s movements are precise and deliberate, indicating experience and focus.",
+            "active_entities": {
+                "dark gray sedan": "Elevated on a blue hydraulic lift with its hood open; front driver-side wheel is removed during the segment, exposing the brake components; later, the mechanic works on its undercarriage, including the exhaust and suspension systems.",
+                "mechanic": "Wearing black gloves, performing wheel removal using a yellow impact wrench; first-person perspective suggests the camera is mounted on the mechanic’s head or chest; later uses a red and green cordless impact wrench and a blue-handled ratchet to work on the undercarriage.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; part of the shop’s equipment; remains in place throughout the segment.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment.",
+                "yellow impact wrench": "Used to remove lug nuts from the front driver-side wheel; held by the mechanic’s gloved hand; later set aside as the mechanic switches to other tools.",
+                "silver alloy wheel": "Five-spoke design, shiny and clean, attached to the front driver-side of the sedan; removed to expose brake components; later seen rolled across the floor.",
+                "Hankook tire": "Black tire with 'Hankook' branding visible on the sidewall, mounted on a silver alloy wheel; removed during the segment and rolled across the floor."
+            },
+            "discovered_new_entities": {
+                "red and green cordless impact wrench": "Used by the mechanic to remove bolts from the undercarriage; features a red body with green accents and a built-in light; held in the mechanic’s gloved hand.",
+                "blue-handled ratchet": "A ratchet with a blue handle and silver head, used by the mechanic to loosen bolts on the undercarriage; selected from the toolbox and used in multiple locations.",
+                "exhaust system component": "Metallic, mesh-wrapped exhaust component visible under the vehicle; located near the rear suspension; the mechanic uses a long ratchet to adjust bolts nearby.",
+                "undercarriage panel": "A gray plastic panel removed from the underside of the sedan; placed on the floor after removal; features multiple mounting holes and cutouts."
+            }
+        },
+        {
+            "minute": 4,
+            "caption": "The video segment begins with a first-person perspective of a mechanic working under a dark gray sedan elevated on a blue hydraulic lift. The mechanic, wearing black gloves, is performing an oil change, with dark oil draining into a large blue oil pan positioned beneath the vehicle. The camera captures the mechanic using a red and green cordless impact wrench to remove a bolt from the oil pan, followed by the removal of a blue oil filter using a specialized wrench. The mechanic then replaces the old filter with a new one, securing it by hand before tightening it with a blue-handled ratchet. The camera pans around the undercarriage, showing the exhaust system component wrapped in mesh and the surrounding suspension parts. The mechanic continues to work methodically, using various tools from the nearby toolboxes and workbench, which are visible in the background along with other vehicles and equipment in the well-lit garage. The environment is clean and organized, with bright overhead lighting illuminating the workspace. The mechanic’s movements are precise and deliberate, indicating experience and focus on the task. The segment ends with the mechanic finishing the oil filter replacement and preparing to reattach the oil pan, with the blue oil pan still positioned below to catch any residual oil.",
+            "active_entities": {
+                "dark gray sedan": "Elevated on a blue hydraulic lift; undercarriage exposed, showing engine components, exhaust system, and suspension; oil is being drained from the oil pan.",
+                "mechanic": "Wearing black gloves, performing oil change under the vehicle; uses a red and green cordless impact wrench, blue-handled ratchet, and oil filter wrench; first-person perspective suggests camera is mounted on the mechanic’s head or chest.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment; part of the shop’s equipment.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment.",
+                "red and green cordless impact wrench": "Used by the mechanic to remove bolts from the oil pan; features a red body with green accents and a built-in light; held in the mechanic’s gloved hand.",
+                "blue-handled ratchet": "A ratchet with a blue handle and silver head, used by the mechanic to tighten the new oil filter; selected from the toolbox and used in multiple locations.",
+                "exhaust system component": "Metallic, mesh-wrapped exhaust component visible under the vehicle; located near the rear suspension; the mechanic works nearby while changing the oil filter."
+            },
+            "discovered_new_entities": {
+                "blue oil pan": "Large blue pan positioned under the vehicle to catch draining oil; shows dark, used oil; remains in place throughout the segment.",
+                "oil filter": "Blue cylindrical filter, removed and replaced by the mechanic; new filter is installed and tightened with a ratchet."
+            }
+        },
+        {
+            "minute": 5,
+            "caption": "The video begins with a first-person perspective of a mechanic working under a dark gray sedan elevated on a blue hydraulic lift. The mechanic, wearing black gloves, is seen handling various tools and components. Initially, the mechanic uses a blue-handled ratchet to work on the undercarriage, focusing on the oil pan area. The camera pans around the garage, revealing a cluttered but organized workspace with toolboxes, a green workbench, and a red air compressor. The mechanic then picks up a red can labeled 'Brake Cleaner FLAMMABLE' and sprays it on a component under the vehicle, likely to clean or degrease it. Afterward, the mechanic uses a blue-handled ratchet to tighten a bolt near the exhaust system, which features a mesh-wrapped component. The mechanic then removes a blue oil pan from under the vehicle, which is filled with dark, used oil, and places it on the floor. The mechanic also handles a new oil filter, which is blue and cylindrical, and installs it using the ratchet. The undercarriage panel, a gray plastic piece with multiple mounting holes, is seen lying on the floor after being removed. The mechanic continues to work methodically, ensuring all components are properly secured. The garage environment is well-lit, with blue walls and various tools and equipment visible in the background, including a yellow impact wrench and a Hankook tire rolled across the floor. The mechanic’s movements are precise and deliberate, indicating experience and familiarity with the task. The video captures the detailed process of an oil change and undercarriage maintenance, highlighting the mechanic’s skill and the organized chaos of a busy auto repair shop.",
+            "active_entities": {
+                "dark gray sedan": "Elevated on a blue hydraulic lift; undercarriage exposed, showing engine components, exhaust system, and suspension; oil is being drained from the oil pan.",
+                "mechanic": "Wearing black gloves, performing oil change under the vehicle; uses a blue-handled ratchet and oil filter wrench; first-person perspective suggests camera is mounted on the mechanic’s head or chest.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment; part of the shop’s equipment.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment.",
+                "blue oil pan": "Large blue pan positioned under the vehicle to catch draining oil; shows dark, used oil; remains in place throughout the segment.",
+                "oil filter": "Blue cylindrical filter, removed and replaced by the mechanic; new filter is installed and tightened with a ratchet.",
+                "exhaust system component": "Metallic, mesh-wrapped exhaust component visible under the vehicle; located near the rear suspension; the mechanic works nearby while changing the oil filter.",
+                "undercarriage panel": "A gray plastic panel removed from the underside of the sedan; placed on the floor after removal; features multiple mounting holes and cutouts.",
+                "blue-handled ratchet": "A ratchet with a blue handle and silver head, used by the mechanic to tighten the new oil filter; selected from the toolbox and used in multiple locations.",
+                "red and green cordless impact wrench": "Used by the mechanic to remove bolts from the oil pan; features a red body with green accents and a built-in light; held in the mechanic’s gloved hand."
+            },
+            "discovered_new_entities": {
+                "Brake Cleaner FLAMMABLE can": "Red can labeled 'Brake Cleaner FLAMMABLE' used to clean or degrease components under the vehicle; held by the mechanic and sprayed on parts."
+            }
+        },
+        {
+            "minute": 6,
+            "caption": "The video begins with a first-person perspective of a mechanic working under a dark gray sedan elevated on a blue hydraulic lift. The mechanic, wearing black gloves, is performing an oil change. They use a red and green cordless impact wrench to remove bolts from the oil pan, with a blue oil pan positioned underneath to catch the draining oil. The mechanic then moves to the toolboxes and workbench, selecting a blue-handled ratchet from the organized black toolbox. Returning under the vehicle, they use the ratchet to tighten a new oil filter, which is blue and cylindrical. The mechanic also uses a Brake Cleaner FLAMMABLE can to spray and clean components under the car. The undercarriage panel, a gray plastic piece with multiple mounting holes, is visible and appears to have been removed earlier. The mechanic’s movements are deliberate, shifting between tools and the vehicle’s undercarriage. The shop environment is well-lit, with other vehicles and equipment visible in the background, including a silver alloy wheel and a Hankook tire rolled across the floor. The mechanic’s focus remains on the oil change process, with close-ups on their gloved hands manipulating tools and parts. The video captures the detailed, hands-on nature of automotive maintenance, emphasizing the use of specific tools and the methodical approach to the task.",
+            "active_entities": {
+                "dark gray sedan": "Elevated on a blue hydraulic lift; undercarriage exposed, showing engine components, exhaust system, and suspension; oil is being drained from the oil pan.",
+                "mechanic": "Wearing black gloves, performing oil change under the vehicle; uses a red and green cordless impact wrench, blue-handled ratchet, and Brake Cleaner FLAMMABLE can; first-person perspective suggests camera is mounted on the mechanic’s head or chest.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment; part of the shop’s equipment.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment.",
+                "red and green cordless impact wrench": "Used by the mechanic to remove bolts from the oil pan; features a red body with green accents and a built-in light; held in the mechanic’s gloved hand.",
+                "blue-handled ratchet": "A ratchet with a blue handle and silver head, used by the mechanic to tighten the new oil filter; selected from the toolbox and used in multiple locations.",
+                "oil filter": "Blue cylindrical filter, removed and replaced by the mechanic; new filter is installed and tightened with a ratchet.",
+                "Brake Cleaner FLAMMABLE can": "Red can labeled 'Brake Cleaner FLAMMABLE' used to clean or degrease components under the vehicle; held by the mechanic and sprayed on parts.",
+                "undercarriage panel": "A gray plastic panel removed from the underside of the sedan; placed on the floor after removal; features multiple mounting holes and cutouts.",
+                "blue oil pan": "Large blue pan positioned under the vehicle to catch draining oil; shows dark, used oil; remains in place throughout the segment."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 7,
+            "caption": "The video begins with a first-person view of a mechanic working under a dark gray sedan elevated on a blue hydraulic lift, focusing on the undercarriage where the oil pan is exposed. The mechanic, wearing black gloves, is seen using a red and green cordless impact wrench to remove bolts from the oil pan. The camera then shifts to a green workbench where various tools and supplies are laid out, including a yellow funnel, a blue-handled ratchet, and a Brake Cleaner FLAMMABLE can. The mechanic picks up a new oil filter from a plastic bag and prepares it for installation. The scene transitions back under the vehicle, where the mechanic applies a lubricant to the new oil filter before installing it. The mechanic then uses the blue-handled ratchet to tighten the filter securely. Throughout the segment, the mechanic moves between the undercarriage and the workbench, ensuring all components are properly handled and tools are organized. The environment is a well-lit garage with various equipment visible, including a blue oil pan positioned under the vehicle to catch draining oil, and a used oil container labeled 'USED OIL' nearby. The mechanic’s actions are methodical and precise, emphasizing safety and efficiency in the oil change process.",
+            "active_entities": {
+                "dark gray sedan": "Elevated on a blue hydraulic lift; undercarriage exposed, showing engine components, exhaust system, and suspension; oil is being drained from the oil pan.",
+                "mechanic": "Wearing black gloves, performing oil change under the vehicle; uses a red and green cordless impact wrench, blue-handled ratchet, and Brake Cleaner FLAMMABLE can; first-person perspective suggests camera is mounted on the mechanic’s head or chest.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment; part of the shop’s equipment.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment.",
+                "blue oil pan": "Large blue pan positioned under the vehicle to catch draining oil; shows dark, used oil; remains in place throughout the segment.",
+                "oil filter": "Blue cylindrical filter, removed and replaced by the mechanic; new filter is installed and tightened with a ratchet.",
+                "Brake Cleaner FLAMMABLE can": "Red can labeled 'Brake Cleaner FLAMMABLE' used to clean or degrease components under the vehicle; held by the mechanic and sprayed on parts.",
+                "red and green cordless impact wrench": "Used by the mechanic to remove bolts from the oil pan; features a red body with green accents and a built-in light; held in the mechanic’s gloved hand.",
+                "blue-handled ratchet": "A ratchet with a blue handle and silver head, used by the mechanic to tighten the new oil filter; selected from the toolbox and used in multiple locations.",
+                "exhaust system component": "Metallic, mesh-wrapped exhaust component visible under the vehicle; located near the rear suspension; the mechanic works nearby while changing the oil filter."
+            },
+            "discovered_new_entities": {
+                "green workbench": "A mobile workbench with a bright green tray, holding tools, a yellow funnel, a metal tray, and a plastic bag containing a new oil filter; positioned near the mechanic during the oil change process.",
+                "lubricant tube": "A white tube with a red cap, labeled 'Lubricant', used by the mechanic to apply grease to the new oil filter before installation.",
+                "used oil container": "A blue wheeled container labeled 'USED OIL' in white text, positioned near the workbench and used for collecting drained oil."
+            }
+        },
+        {
+            "minute": 8,
+            "caption": "The mechanic, wearing black gloves, works under the elevated dark gray sedan on the blue hydraulic lift, focusing on the undercarriage. The camera, mounted in a first-person perspective, captures the mechanic’s hands as they use a red and green cordless impact wrench to remove a component near the oil pan. After detaching the part, the mechanic retrieves a new oil filter from the green workbench, which holds various tools, a yellow funnel, and a metal tray. The mechanic then applies lubricant from a white tube with a red cap to the new oil filter’s gasket before installing it. The mechanic uses a blue-handled ratchet to tighten the filter securely. Throughout the process, the mechanic moves between the undercarriage and the green workbench, selecting tools and parts. The blue oil pan remains positioned beneath the vehicle to catch draining oil, and the used oil container labeled 'USED OIL' is visible nearby. The environment is a well-lit garage with toolboxes, a red air compressor, and organized tool trays in the background. The mechanic’s movements are deliberate and precise, emphasizing the step-by-step oil filter replacement procedure.",
+            "active_entities": {
+                "dark gray sedan": "Elevated on a blue hydraulic lift; undercarriage exposed, showing engine components, exhaust system, and suspension; oil is being drained from the oil pan.",
+                "mechanic": "Wearing black gloves, performing oil change under the vehicle; uses a red and green cordless impact wrench, blue-handled ratchet, and lubricant tube; first-person perspective suggests camera is mounted on the mechanic’s head or chest.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment; part of the shop’s equipment.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment.",
+                "green workbench": "A mobile workbench with a bright green tray, holding tools, a yellow funnel, a metal tray, and a plastic bag containing a new oil filter; positioned near the mechanic during the oil change process.",
+                "red and green cordless impact wrench": "Used by the mechanic to remove bolts from the oil pan; features a red body with green accents and a built-in light; held in the mechanic’s gloved hand.",
+                "blue-handled ratchet": "A ratchet with a blue handle and silver head, used by the mechanic to tighten the new oil filter; selected from the toolbox and used in multiple locations.",
+                "oil filter": "Blue cylindrical filter, removed and replaced by the mechanic; new filter is installed and tightened with a ratchet.",
+                "lubricant tube": "A white tube with a red cap, labeled 'Lubricant', used by the mechanic to apply grease to the new oil filter before installation.",
+                "blue oil pan": "Large blue pan positioned under the vehicle to catch draining oil; shows dark, used oil; remains in place throughout the segment.",
+                "used oil container": "A blue wheeled container labeled 'USED OIL' in white text, positioned near the workbench and used for collecting drained oil."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 9,
+            "caption": "The mechanic, wearing black gloves, continues the oil change process under the dark gray sedan elevated on the blue hydraulic lift. The camera, mounted in a first-person perspective, captures the mechanic’s hands as they use a blue-handled ratchet to tighten a component near the oil pan, likely the oil filter or drain plug. The mechanic then moves to the green workbench, where they select a new oil filter from a plastic bag and apply lubricant from a white tube with a red cap to the filter’s gasket. After preparing the filter, the mechanic returns under the vehicle and installs the new oil filter, securing it with the ratchet. The mechanic also uses a red and green cordless impact wrench to remove or tighten bolts, and briefly handles a Brake Cleaner FLAMMABLE can, spraying it on components under the car. The blue oil pan remains positioned beneath the vehicle to catch draining oil, and the used oil container labeled 'USED OIL' is visible nearby. The environment is a well-lit garage with various tools and equipment, including a red air compressor and black toolboxes, visible in the background. The mechanic’s movements are deliberate and focused, emphasizing precision in the maintenance task.",
+            "active_entities": {
+                "mechanic": "Wearing black gloves, performing oil change under the vehicle; uses a blue-handled ratchet, red and green cordless impact wrench, and lubricant tube; first-person perspective suggests camera is mounted on the mechanic’s head or chest.",
+                "dark gray sedan": "Elevated on a blue hydraulic lift; undercarriage exposed, showing engine components, exhaust system, and suspension; oil is being drained from the oil pan.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment; part of the shop’s equipment.",
+                "green workbench": "A mobile workbench with a bright green tray, holding tools, a yellow funnel, a metal tray, and a plastic bag containing a new oil filter; positioned near the mechanic during the oil change process.",
+                "oil filter": "Blue cylindrical filter, removed and replaced by the mechanic; new filter is installed and tightened with a ratchet.",
+                "lubricant tube": "A white tube with a red cap, labeled 'Lubricant', used by the mechanic to apply grease to the new oil filter before installation.",
+                "blue-handled ratchet": "A ratchet with a blue handle and silver head, used by the mechanic to tighten the new oil filter; selected from the toolbox and used in multiple locations.",
+                "red and green cordless impact wrench": "Used by the mechanic to remove bolts from the oil pan; features a red body with green accents and a built-in light; held in the mechanic’s gloved hand.",
+                "Brake Cleaner FLAMMABLE can": "Red can labeled 'Brake Cleaner FLAMMABLE' used to clean or degrease components under the vehicle; held by the mechanic and sprayed on parts.",
+                "blue oil pan": "Large blue pan positioned under the vehicle to catch draining oil; shows dark, used oil; remains in place throughout the segment.",
+                "used oil container": "A blue wheeled container labeled 'USED OIL' in white text, positioned near the workbench and used for collecting drained oil."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 10,
+            "caption": "The mechanic, wearing black gloves, begins by selecting a red-handled tool from a green workbench tray filled with various tools and supplies, including a yellow funnel and a metal tray. The camera, mounted on the mechanic’s head or chest, provides a first-person view as they move to the undercarriage of the dark gray sedan elevated on the blue hydraulic lift. The mechanic uses the red-handled tool to work on a component near the oil pan, likely loosening or adjusting a bolt. After a brief return to the workbench to retrieve a blue-handled ratchet, the mechanic returns to the vehicle and uses the ratchet to tighten a component under the car, possibly the new oil filter. The mechanic’s movements are deliberate and focused, with close-up views of the undercarriage showing the engine, suspension, and exhaust system components. The environment is a well-lit garage with visible toolboxes, a red air compressor, and a blue used oil container labeled 'USED OIL'. The mechanic’s actions suggest a continuation of an oil change or maintenance procedure, with attention to detail and precision in tool use.",
+            "active_entities": {
+                "mechanic": "Wearing black gloves, performing maintenance under the vehicle; uses a red-handled tool and a blue-handled ratchet; first-person perspective suggests camera is mounted on the mechanic’s head or chest.",
+                "dark gray sedan": "Elevated on a blue hydraulic lift; undercarriage exposed, showing engine components, exhaust system, and suspension; oil change or maintenance is in progress.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment; part of the shop’s equipment.",
+                "green workbench": "A mobile workbench with a bright green tray, holding tools, a yellow funnel, a metal tray, and a plastic bag containing a new oil filter; positioned near the mechanic during the oil change process.",
+                "blue-handled ratchet": "A ratchet with a blue handle and silver head, used by the mechanic to tighten a component under the vehicle; selected from the toolbox and used in multiple locations.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment.",
+                "used oil container": "A blue wheeled container labeled 'USED OIL' in white text, positioned near the workbench and used for collecting drained oil."
+            },
+            "discovered_new_entities": {
+                "red-handled tool": "A red-handled tool, likely a wrench or socket, used by the mechanic to work on a component near the oil pan; retrieved from the green workbench tray."
+            }
+        },
+        {
+            "minute": 11,
+            "caption": "The video begins with a close-up of the mechanic, wearing black gloves, using a blue-handled ratchet to tighten a component under the dark gray sedan, which is elevated on a blue hydraulic lift. The undercarriage is exposed, revealing parts of the exhaust system and suspension. The mechanic then moves to a black toolbox, selects a long silver socket wrench, and walks toward a green workbench where various tools and supplies are laid out, including a yellow funnel and a plastic bag containing a new oil filter. The mechanic places the wrench on the workbench and proceeds to the front driver-side wheel of the sedan. Using a yellow impact wrench, the mechanic removes the lug nuts from the silver alloy wheel, which features a five-spoke design. The Hankook tire is then detached and rolled across the concrete floor. The mechanic inspects the brake components behind the wheel, including the brake caliper and rotor, before placing the wheel aside. The camera briefly pans to show the shop environment, including a red air compressor, a blue used oil container, and other vehicles on lifts in the background. The mechanic then returns to the wheel, using a red-handled tool to adjust or inspect the brake assembly. The scene ends with the mechanic continuing to work on the brake components, with the blue hydraulic lift and yellow safety arms visible in the background.",
+            "active_entities": {
+                "mechanic": "Wearing black gloves, performing maintenance under the vehicle; uses a blue-handled ratchet, yellow impact wrench, and red-handled tool; first-person perspective suggests camera is mounted on the mechanic’s head or chest.",
+                "dark gray sedan": "Elevated on a blue hydraulic lift; undercarriage exposed, showing engine components, exhaust system, and suspension; oil change or maintenance is in progress.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment; part of the shop’s equipment.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment.",
+                "yellow impact wrench": "Used to remove lug nuts from the front driver-side wheel; held by the mechanic’s gloved hand; later set aside as the mechanic switches to other tools.",
+                "Hankook tire": "Black tire with 'Hankook' branding visible on the sidewall, mounted on a silver alloy wheel; removed during the segment and rolled across the floor.",
+                "silver alloy wheel": "Five-spoke design, shiny and clean, attached to the front driver-side of the sedan; removed to expose brake components; later seen rolled across the floor.",
+                "blue-handled ratchet": "A ratchet with a blue handle and silver head, used by the mechanic to tighten a component under the vehicle; selected from the toolbox and used in multiple locations.",
+                "red-handled tool": "A red-handled tool, likely a wrench or socket, used by the mechanic to work on a component near the oil pan; retrieved from the green workbench tray.",
+                "green workbench": "A mobile workbench with a bright green tray, holding tools, a yellow funnel, a metal tray, and a plastic bag containing a new oil filter; positioned near the mechanic during the oil change process.",
+                "used oil container": "A blue wheeled container labeled 'USED OIL' in white text, positioned near the workbench and used for collecting drained oil.",
+                "exhaust system component": "Metallic, mesh-wrapped exhaust component visible under the vehicle; located near the rear suspension; the mechanic works nearby while changing the oil filter.",
+                "undercarriage panel": "A gray plastic panel removed from the underside of the sedan; placed on the floor after removal; features multiple mounting holes and cutouts."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 12,
+            "caption": "The video segment begins with a close-up of the front driver-side wheel of the dark gray sedan, elevated on the blue hydraulic lift. The mechanic, wearing black gloves, uses a yellow impact wrench to remove the lug nuts from the silver alloy wheel, which features a five-spoke design. As the lug nuts are removed, the camera captures the shiny surface of the wheel and the visible brake caliper behind it. After all lug nuts are removed, the mechanic detaches the Hankook tire and rolls it across the concrete floor, revealing the brake components. The camera then pans to the surrounding garage environment, showing the toolboxes and workbench, including the green workbench with tools and a yellow funnel. The mechanic walks toward the toolboxes, selects a blue-handled ratchet from the organized drawer, and returns to the vehicle. The focus remains on the wheel well area, where the mechanic prepares to work on the brake system or suspension components. The lighting is bright and consistent, typical of a well-lit auto repair shop, with blue walls and various tools visible in the background. The mechanic’s movements are deliberate and precise, indicating experience and focus on the task.",
+            "active_entities": {
+                "dark gray sedan": "Elevated on a blue hydraulic lift; front driver-side wheel being serviced; undercarriage partially visible.",
+                "mechanic": "Wearing black gloves, using a yellow impact wrench to remove lug nuts, then selecting a blue-handled ratchet from the toolbox; first-person perspective suggests camera is mounted on the mechanic’s head or chest.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment.",
+                "yellow impact wrench": "Used to remove lug nuts from the front driver-side wheel; held by the mechanic’s gloved hand; later set aside as the mechanic switches to other tools.",
+                "Hankook tire": "Black tire with 'Hankook' branding visible on the sidewall, mounted on a silver alloy wheel; removed during the segment and rolled across the floor.",
+                "silver alloy wheel": "Five-spoke design, shiny and clean, attached to the front driver-side of the sedan; removed to expose brake components; later seen rolled across the floor.",
+                "blue-handled ratchet": "A ratchet with a blue handle and silver head, selected from the toolbox and used in multiple locations; held by the mechanic’s gloved hand.",
+                "green workbench": "A mobile workbench with a bright green tray, holding tools, a yellow funnel, a metal tray, and a plastic bag containing a new oil filter; positioned near the mechanic during the oil change process."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 13,
+            "caption": "The video begins with a first-person perspective of a mechanic in a well-lit auto repair shop, wearing black gloves and dark pants, standing near a blue hydraulic lift that supports a dark gray sedan. The mechanic reaches for a blue-handled ratchet from a nearby toolbox, then moves to the front driver-side wheel of the sedan. The camera follows the mechanic’s hand as they attach a yellow impact wrench to the lug nuts on the silver alloy wheel. The mechanic proceeds to remove the lug nuts one by one, using the impact wrench with deliberate, controlled motions. After removing all the nuts, the mechanic detaches the Hankook tire from the wheel hub and rolls it across the concrete floor. The camera briefly captures the undercarriage of the vehicle, showing the brake components now exposed. The mechanic then uses the blue-handled ratchet to loosen additional fasteners near the wheel well, possibly for further inspection or maintenance. Throughout the segment, the environment remains consistent with visible toolboxes, a green workbench, and a red air compressor in the background. The mechanic’s movements are precise and efficient, indicating experience and focus on the task.",
+            "active_entities": {
+                "mechanic": "Wearing black gloves and dark pants, operating from a first-person perspective; uses a yellow impact wrench and a blue-handled ratchet to remove lug nuts and fasteners from the front driver-side wheel of the sedan.",
+                "dark gray sedan": "Elevated on a blue hydraulic lift; front driver-side wheel being serviced; undercarriage partially visible after tire removal.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment.",
+                "yellow impact wrench": "Used to remove lug nuts from the front driver-side wheel; held by the mechanic’s gloved hand; later set aside as the mechanic switches to other tools.",
+                "Hankook tire": "Black tire with 'Hankook' branding visible on the sidewall, mounted on a silver alloy wheel; removed during the segment and rolled across the floor.",
+                "silver alloy wheel": "Five-spoke design, shiny and clean, attached to the front driver-side of the sedan; removed to expose brake components; later seen rolled across the floor.",
+                "blue-handled ratchet": "A ratchet with a blue handle and silver head, selected from the toolbox and used in multiple locations; held by the mechanic’s gloved hand.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment.",
+                "green workbench": "A mobile workbench with a bright green tray, holding tools, a yellow funnel, a metal tray, and a plastic bag containing a new oil filter; positioned near the mechanic during the oil change process."
+            },
+            "discovered_new_entities": {}
+        },
+        {
+            "minute": 14,
+            "caption": "The video begins with a first-person perspective of the mechanic, wearing black gloves and dark pants, using a yellow impact wrench to remove lug nuts from the front driver-side wheel of the dark gray sedan, which is elevated on a blue hydraulic lift. After removing the wheel, the mechanic walks to a well-organized toolbench, selecting a blue-handled ratchet from a black toolbox filled with neatly arranged tools. The scene shifts to the engine bay, where the mechanic retrieves a large translucent coolant jug from a green workbench and pours bright blue coolant into the coolant reservoir using a yellow funnel. The mechanic then places the jug back on the workbench and moves to the interior of the car, where the dashboard lights up as the ignition is turned on, revealing the Honda logo on the steering wheel and illuminated instrument cluster. The environment is a well-lit auto repair shop with blue and white walls, various tools, and equipment visible in the background, including a red air compressor and a yellow safety arm on the lift. The mechanic’s movements are deliberate and focused, indicating a routine maintenance procedure.",
+            "active_entities": {
+                "mechanic": "Wearing black gloves and dark pants, operating from a first-person perspective; uses a yellow impact wrench and a blue-handled ratchet to remove lug nuts and fasteners from the front driver-side wheel of the sedan.",
+                "dark gray sedan": "Elevated on a blue hydraulic lift; front driver-side wheel being serviced; undercarriage partially visible after tire removal.",
+                "yellow impact wrench": "Used to remove lug nuts from the front driver-side wheel; held by the mechanic’s gloved hand; later set aside as the mechanic switches to other tools.",
+                "blue-handled ratchet": "A ratchet with a blue handle and silver head, selected from the toolbox and used in multiple locations; held by the mechanic’s gloved hand.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment.",
+                "coolant jug": "Large translucent plastic jug containing bright blue coolant, labeled with product information; used to refill the reservoir.",
+                "coolant reservoir": "Located in the engine bay, identifiable by its blue cap; filled with bright blue coolant from a large jug.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment.",
+                "green workbench": "A mobile workbench with a bright green tray, holding tools, a yellow funnel, a metal tray, and a plastic bag containing a new oil filter; positioned near the mechanic during the oil change process."
+            },
+            "discovered_new_entities": {
+                "yellow funnel": "Used to pour coolant into the reservoir; held by the mechanic’s gloved hand during the refill process.",
+                "interior of the sedan": "Dashboard illuminated with various warning lights and gauges; Honda logo visible on the steering wheel; beige and black interior with a digital display and center console."
+            }
+        },
+        {
+            "minute": 15,
+            "caption": "The video begins with a first-person view from inside the dark gray sedan, showing the illuminated dashboard with the Honda logo on the steering wheel and various gauges, including a speedometer and tachometer. The interior features beige and black upholstery, and a digital display on the center console reads 'No Device Connected.' The camera then shifts to the engine bay, where a mechanic’s hand, wearing a black glove, uses a yellow-handled tool to remove the oil cap from the engine. The mechanic proceeds to remove the oil dipstick, inspect it, and then reinsert it. The hood is then closed, and the mechanic uses a high-pressure water hose to wash the front of the car, spraying water across the hood, grille, and front bumper. The camera pans around the vehicle, showing the car elevated on a blue hydraulic lift in a well-lit garage with other vehicles and equipment in the background. After washing, the mechanic returns to the engine bay, where the oil cap is now open, revealing the oil fill port labeled 'SAE 0W-20.' The mechanic then uses a blue-handled ratchet to remove a component near the oil pan, and the camera briefly shows a red and green cordless impact wrench being used on the oil pan. The mechanic also uses a red-handled tool, likely a wrench, to work on a component near the oil pan. The video ends with the mechanic continuing to work on the engine, with the oil pan and surrounding components visible.",
+            "active_entities": {
+                "interior of the sedan": "Dashboard illuminated with various warning lights and gauges; Honda logo visible on the steering wheel; beige and black interior with a digital display and center console.",
+                "dark gray sedan": "Elevated on a blue hydraulic lift; front driver-side wheel being serviced; undercarriage partially visible after tire removal.",
+                "mechanic": "Wearing black gloves and dark pants, operating from a first-person perspective; uses a yellow-handled tool, blue-handled ratchet, and red-handled tool to remove the oil cap, dipstick, and work on the oil pan.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment.",
+                "blue-handled ratchet": "A ratchet with a blue handle and silver head, used to remove a component near the oil pan; held by the mechanic’s gloved hand.",
+                "red-handled tool": "A red-handled tool, likely a wrench or socket, used by the mechanic to work on a component near the oil pan; retrieved from the green workbench tray.",
+                "red and green cordless impact wrench": "Used by the mechanic to remove bolts from the oil pan; features a red body with green accents and a built-in light; held in the mechanic’s gloved hand.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment."
+            },
+            "discovered_new_entities": {
+                "engine bay": "Exposed with various components visible, including the oil fill port labeled 'SAE 0W-20,' oil dipstick, and surrounding hoses and connectors.",
+                "yellow-handled tool": "Used to remove the oil cap from the engine; held by the mechanic’s gloved hand.",
+                "high-pressure water hose": "Used to wash the front of the car; sprays water across the hood, grille, and front bumper; connected to a red hose reel mounted on the wall.",
+                "oil dipstick": "A metal rod with a handle, removed and inspected by the mechanic to check oil level; reinserted after inspection.",
+                "oil fill port": "A circular opening on the engine cover labeled 'SAE 0W-20,' where oil is added; visible after the oil cap is removed.",
+                "red hose reel": "Mounted on the wall, holding the high-pressure water hose; features a red frame and a coiled black hose; used to supply water for washing the car."
+            }
+        },
+        {
+            "minute": 16,
+            "caption": "The video begins with a first-person perspective of a mechanic working on the engine bay of a dark gray sedan, which is elevated on a blue hydraulic lift. The mechanic, wearing black gloves, is seen interacting with the engine components, including the oil fill port and dipstick, suggesting an oil change or inspection. The camera then pans out to reveal the full front view of the sedan, showcasing its sleek design and Honda emblem, before pulling back to show the broader auto repair shop environment. The shop is well-lit with fluorescent lighting, featuring other vehicles on lifts, toolboxes, and workbenches. The camera continues to pan across the garage, capturing a silver SUV on a lift and various tools and equipment scattered around. The scene transitions to a black screen with a white logo reading 'TE VIDEOS' and the phrase 'WE LIKE THAT' in bold, flanked by two identical images of a man with curly hair and a mustache, who appears to be smiling and nodding. The logo and text remain on screen for several seconds before fading to black, concluding the segment.",
+            "active_entities": {
+                "dark gray sedan": "Elevated on a blue hydraulic lift; front driver-side wheel being serviced; undercarriage partially visible after tire removal.",
+                "mechanic": "Wearing black gloves and dark pants, operating from a first-person perspective; uses a yellow-handled tool, blue-handled ratchet, and red-handled tool to remove the oil cap, dipstick, and work on the oil pan.",
+                "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment.",
+                "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment.",
+                "engine bay": "Exposed with various components visible, including the oil fill port labeled 'SAE 0W-20,' oil dipstick, and surrounding hoses and connectors.",
+                "oil dipstick": "A metal rod with a handle, removed and inspected by the mechanic to check oil level; reinserted after inspection.",
+                "oil fill port": "A circular opening on the engine cover labeled 'SAE 0W-20,' where oil is added; visible after the oil cap is removed.",
+                "yellow-handled tool": "Used to remove the oil cap from the engine; held by the mechanic’s gloved hand.",
+                "interior of the sedan": "Dashboard illuminated with various warning lights and gauges; Honda logo visible on the steering wheel; beige and black interior with a digital display and center console.",
+                "high-pressure water hose": "Used to wash the front of the car; sprays water across the hood, grille, and front bumper; connected to a red hose reel mounted on the wall.",
+                "red hose reel": "Mounted on the wall, holding the high-pressure water hose; features a red frame and a coiled black hose; used to supply water for washing the car."
+            },
+            "discovered_new_entities": {
+                "TE VIDEOS logo": "White circular logo with 'TE VIDEOS' text inside a hexagonal shape, displayed on a black background.",
+                "WE LIKE THAT text": "Bold white text appearing below the TE VIDEOS logo, flanked by two identical images of a man with curly hair and a mustache, who is smiling and nodding.",
+                "man with curly hair and mustache": "Appears twice on either side of the 'WE LIKE THAT' text; has voluminous curly brown hair, a prominent mustache, and wears a light blue collared shirt; his head is slightly tilted and he smiles warmly."
+            }
+        }
+    ],
+    "entity_library": {
+        "dark gray sedan": "Elevated on a blue hydraulic lift; front driver-side wheel being serviced; undercarriage partially visible after tire removal.",
+        "mechanic": "Wearing black gloves and dark pants, operating from a first-person perspective; uses a yellow-handled tool, blue-handled ratchet, and red-handled tool to remove the oil cap, dipstick, and work on the oil pan.",
+        "coolant reservoir": "Located in the engine bay, identifiable by its blue cap; filled with bright blue coolant from a large jug.",
+        "blue hydraulic lift": "Supports the sedan, with yellow safety arms visible; remains in place throughout the segment.",
+        "toolboxes and workbench": "Black toolboxes with organized tools, a green workbench with various supplies, and a red air compressor are visible in the background; the mechanic selects tools from the toolbox during the segment.",
+        "coolant jug": "Large translucent plastic jug containing bright blue coolant, labeled with product information; used to refill the reservoir.",
+        "yellow impact wrench": "Used to remove lug nuts from the front driver-side wheel; held by the mechanic’s gloved hand; later set aside as the mechanic switches to other tools.",
+        "Hankook tire": "Black tire with 'Hankook' branding visible on the sidewall, mounted on a silver alloy wheel; removed during the segment and rolled across the floor.",
+        "silver alloy wheel": "Five-spoke design, shiny and clean, attached to the front driver-side of the sedan; removed to expose brake components; later seen rolled across the floor.",
+        "red and green cordless impact wrench": "Used by the mechanic to remove bolts from the oil pan; features a red body with green accents and a built-in light; held in the mechanic’s gloved hand.",
+        "blue-handled ratchet": "A ratchet with a blue handle and silver head, used to remove a component near the oil pan; held by the mechanic’s gloved hand.",
+        "exhaust system component": "Metallic, mesh-wrapped exhaust component visible under the vehicle; located near the rear suspension; the mechanic works nearby while changing the oil filter.",
+        "undercarriage panel": "A gray plastic panel removed from the underside of the sedan; placed on the floor after removal; features multiple mounting holes and cutouts.",
+        "blue oil pan": "Large blue pan positioned under the vehicle to catch draining oil; shows dark, used oil; remains in place throughout the segment.",
+        "oil filter": "Blue cylindrical filter, removed and replaced by the mechanic; new filter is installed and tightened with a ratchet.",
+        "Brake Cleaner FLAMMABLE can": "Red can labeled 'Brake Cleaner FLAMMABLE' used to clean or degrease components under the vehicle; held by the mechanic and sprayed on parts.",
+        "green workbench": "A mobile workbench with a bright green tray, holding tools, a yellow funnel, a metal tray, and a plastic bag containing a new oil filter; positioned near the mechanic during the oil change process.",
+        "lubricant tube": "A white tube with a red cap, labeled 'Lubricant', used by the mechanic to apply grease to the new oil filter before installation.",
+        "used oil container": "A blue wheeled container labeled 'USED OIL' in white text, positioned near the workbench and used for collecting drained oil.",
+        "red-handled tool": "A red-handled tool, likely a wrench or socket, used by the mechanic to work on a component near the oil pan; retrieved from the green workbench tray.",
+        "yellow funnel": "Used to pour coolant into the reservoir; held by the mechanic’s gloved hand during the refill process.",
+        "interior of the sedan": "Dashboard illuminated with various warning lights and gauges; Honda logo visible on the steering wheel; beige and black interior with a digital display and center console.",
+        "engine bay": "Exposed with various components visible, including the oil fill port labeled 'SAE 0W-20,' oil dipstick, and surrounding hoses and connectors.",
+        "yellow-handled tool": "Used to remove the oil cap from the engine; held by the mechanic’s gloved hand.",
+        "high-pressure water hose": "Used to wash the front of the car; sprays water across the hood, grille, and front bumper; connected to a red hose reel mounted on the wall.",
+        "oil dipstick": "A metal rod with a handle, removed and inspected by the mechanic to check oil level; reinserted after inspection.",
+        "oil fill port": "A circular opening on the engine cover labeled 'SAE 0W-20,' where oil is added; visible after the oil cap is removed.",
+        "red hose reel": "Mounted on the wall, holding the high-pressure water hose; features a red frame and a coiled black hose; used to supply water for washing the car.",
+        "TE VIDEOS logo": "White circular logo with 'TE VIDEOS' text inside a hexagonal shape, displayed on a black background.",
+        "WE LIKE THAT text": "Bold white text appearing below the TE VIDEOS logo, flanked by two identical images of a man with curly hair and a mustache, who is smiling and nodding.",
+        "man with curly hair and mustache": "Appears twice on either side of the 'WE LIKE THAT' text; has voluminous curly brown hair, a prominent mustache, and wears a light blue collared shirt; his head is slightly tilted and he smiles warmly."
+    }
+}

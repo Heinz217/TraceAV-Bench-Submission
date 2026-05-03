@@ -1,0 +1,1494 @@
+{
+  "video_id": "video203",
+  "audio_id": "video203_a",
+  "event_blocks": [
+    {
+      "event_id": 1,
+      "start_minute": 1,
+      "end_minute": 4,
+      "summary": "The Emirates FA Cup final commences at Wembley Stadium with an electrifying atmosphere, as the trophy is presented amidst smoke and stadium lights, with commentators Derek Rae and Stewart Robson welcoming viewers. Manchester City, in light blue, and Manchester United, in red, emerge onto the pitch, their starting lineups and formations (Manchester City 4-3-3 with Ederson, De Bruyne, Rodri, Haaland; Manchester United 4-2-3-1 with De Gea, Fernandes, Rashford, Antony, Weghorst) displayed on screen. The match begins with the scoreboard at 0-0, and after an initial pass from Mahrez, Manchester City's Erling Haaland scores in the 4th minute, breaking the deadlock and putting Manchester City ahead 1-0. The goal, described as a \"lovely goal\" where Haaland \"made the finish look easy\" from a \"decent delivery,\" is followed by a FIFA 23 logo and a replay showing the Manchester United goalkeeper diving in vain. The crowd erupts in celebration, and the commentators question Manchester United's ability to respond after being \"shaken up.\" Gameplay continues with players like De Bruyne, Fernandes, Haaland, and Anfre involved, amidst continuous crowd chants, kicking sounds, and pitch-side advertising for '#EmiratesFACup' and 'FIFA SOUND' under bright stadium lights.",
+      "involved_entities": {
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts and blue socks, actively playing on the pitch, with their actions accompanied by the sounds of the ball being kicked.",
+          "attribute": "audio-visual"
+        },
+        "Derek Rae & Stewart Robson": {
+          "description": "On-screen commentators displayed in a lower-third graphic, identified as providing match commentary for the EA Sports Live broadcast.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', held by the referee during the pre-match lineup.",
+          "attribute": "visual"
+        },
+        "Wembley Stadium": {
+          "description": "A massive, modern stadium filled with fans in red and blue, with large digital screens, where the vibrant and energetic atmosphere is underscored by continuous crowd chanting and cheers.",
+          "attribute": "audio-visual"
+        },
+        "EA Sports Live": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match.",
+          "attribute": "visual"
+        },
+        "Emirates FA Cup Trophy": {
+          "description": "A large, silver, ornate trophy with red ribbons bearing the text 'Emirates Fly Better', displayed prominently on a pedestal amidst smoke and stadium lights, introduced by commentator Derek Rae as representing a 'special occasion' and a prize for those who 'will go down in history'.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts, defending and repositioning after conceding a goal, with their gameplay actions contributing to the sounds of the ball being kicked.",
+          "attribute": "audio-visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in red and blue, creating a vibrant and energetic atmosphere through their continuous chanting, cheers, and murmurs throughout the match.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Formation Graphic": {
+          "description": "A tactical diagram showing Manchester United's 4-2-3-1 formation with player headshots and positions, including Wout Weghorst as the lone striker.",
+          "attribute": "visual"
+        },
+        "Manchester United Starting Eleven Graphic": {
+          "description": "A detailed on-screen graphic listing Manchester United's starting 11 and substitutes, including David de Gea (GK), Bruno Fernandes (captain), and manager Erik ten Hag, displayed over a goal net background.",
+          "attribute": "visual"
+        },
+        "Manchester City Starting Eleven Graphic": {
+          "description": "A detailed on-screen graphic listing Manchester City's starting 11 and substitutes, including Ederson (GK), John Stones, and manager Pep Guardiola, displayed over a wide stadium view.",
+          "attribute": "visual"
+        },
+        "Manchester City Formation Graphic": {
+          "description": "A tactical diagram showing Manchester City's 4-3-3 formation with player headshots and positions, including Haaland as the central striker.",
+          "attribute": "visual"
+        },
+        "Manchester City Goalkeeper": {
+          "description": "Wearing a light blue goalkeeper jersey with 'Etihad Airways' branding, visible in the background during the goal celebration.",
+          "attribute": "visual"
+        },
+        "Manchester United Goalkeeper": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen diving in an attempt to save the goal but failing, an action highlighted during the commentators' replay analysis.",
+          "attribute": "audio-visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners of the screen, identifying current players such as '17 DE BRUYNE', '8 FERNANDES', '9 HAALAND', and '21 ANFRE'.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup' and 'FIFA SOUND' branding.",
+          "attribute": "visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', 'MCI 1-0 MUN', and match time, updating from 03:28 to 06:35, providing visual confirmation of the score discussed by commentators.",
+          "attribute": "audio-visual"
+        },
+        "Erling Haaland": {
+          "description": "Wearing a light blue Manchester City #9 jersey with 'Etihad Airways' branding, seen celebrating with clenched fists and pointing to his ear after scoring a goal that commentators describe as \"lovely\" and a finish he \"made look easy\" from a \"decent delivery.\"",
+          "attribute": "audio-visual"
+        },
+        "Goal Celebration Graphic": {
+          "description": "A full-screen graphic with the Emirates FA Cup logo and a progress bar, appearing after Haaland's goal, transitioning to the player's name and goal time.",
+          "attribute": "visual"
+        },
+        "FIFA 23 Logo": {
+          "description": "A large, centered logo appearing briefly on screen, indicating the game title, with 'FIFA 23' in bold white text on a dark background.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens dramatically with a close-up of the Emirates FA Cup trophy, shrouded in smoke and illuminated by stadium lights, as a male commentator with a British accent declares it a \"special occasion\" to be cherished, questioning \"Who will go down in history as the winners of the FA Cup?\" Orchestral music builds intensity as the scene transitions to the exterior of Wembley Stadium, where excited fans in blue and red jerseys gather, with the stadium's large digital screen displaying 'WEMBLEY STADIUM' and FA Cup branding. Inside, the atmosphere intensifies with an upbeat electronic sports anthem as players from Manchester City, in light blue jerseys, and Manchester United, in red training jackets, walk onto the pitch, flanked by officials and the referee, who holds the official match ball. The commentator announces, \"It's Manchester City, they face Manchester United, and it's live on EA TV.\" The teams line up for the pre-match ceremony, with Manchester City's Haaland (number 9) and Grealish (number 10) clearly visible. The scoreboard shows 0-0 at kickoff, and the commentator, Derek Rae, welcomes viewers to Wembley, joined by Stewart Robson, as they approach kickoff for what promises to be a \"spectacular FA Cup final.\" Stewart Robson, with a nostalgic tone, reflects on the FA Cup final as the day \"every young footballer dreamt of,\" playing in front of \"100,000 fans at Wembley,\" a moment that \"still brings a tingle to my spine.\" The massive crowd, a sea of red and blue, fills the stadium, their cheers audible, creating an electric ambiance as the players prepare for the game.",
+        "The segment opens with a close-up of Manchester City players, including Haaland (number 9) with his distinctive high ponytail, Grealish (number 10), and Mahrez (number 26), walking onto the pitch in their light blue jerseys with white shorts and blue socks. An announcer's voice introduces players like \"De Bruyne, number 8,\" \"Ilkay Gundogan,\" and \"Riyad Mahrez, number 26,\" as the stadium crowd roars in anticipation. The scene transitions to a wide aerial view of Wembley Stadium, a massive, modern structure filled with fans predominantly in red and blue, with 'Emirates FA Cup' branding visible on digital screens and the 'EA Sports Live' overlay in the top right corner. A commentator then details Manchester City's starting eleven, mentioning \"Ederson between the posts,\" \"Kevin De Bruyne plays alongside Rodri in the center of midfield,\" and \"Erling Haaland\" as the main threat, aligning with the on-screen graphic displaying their lineup (including John Stones and manager Pep Guardiola) and a 4-3-3 tactical formation. The crowd's chanting and singing become more prominent. The camera then shifts to Manchester United players in red training jackets with white accents and white shorts, walking in formation, led by the referee in a bright lime green jersey holding the official match ball, which features geometric blue and yellow patterns and 'Emirates FA Cup' branding. A close-up of the goal net precedes a graphic showing Manchester United's starting eleven (including David de Gea, Bruno Fernandes, and manager Erik ten Hag) and a 4-2-3-1 formation, as the commentator announces \"David De Gea begins in goal,\" \"Marcus Rashford starts with Antony out wide,\" and \"Wout Weghorst is the striker.\" The video concludes with Manchester United players huddling together on the pitch, displaying a serious and focused demeanor, illuminated by stadium lights, while the vibrant, energetic atmosphere of the chanting crowd continues.",
+        "The minute opens with a wide-angle view of Wembley Stadium, packed with a vibrant crowd of fans in red and blue, as an announcer welcomes attendees to the high-stakes Emirates FA Cup match between Manchester City and Manchester United. The atmosphere is electric with crowd chants building anticipation. The camera pans across the pitch as players from both teams take their positions, and the referee's whistle signals the start of the match, met by a roar from the stadium crowd. Manchester City, in light blue jerseys, kick off from the center circle, and the commentator notes a \"well-struck pass.\" Gameplay is fluid, with players like Mahrez (number 26) seen in action, moving the ball forward, as the commentator calls out his name. The action intensifies as Manchester City advances into the United penalty area. After a save attempt where the Manchester United goalkeeper is seen \"flinging himself at it\" according to the commentator, Haaland (number 9) scores past him. The scoreboard updates to MCI 1-0 MUN, and the crowd erupts in a massive celebration, amplified by the commentator exclaiming, \"And a goal for Manchester City! They forge ahead!\" The EA Sports Live broadcast overlay and Emirates FA Cup branding remain visible, underscoring the live event.",
+        "The minute opens with a close-up of Manchester City's Erling Haaland, in his light blue #9 jersey with 'Etihad Airways' branding, celebrating his goal with a clenched fist and intense expression, as a commentator remarks on the significance of this goal in the final. The camera follows him across the pitch before cutting to a wide view of Wembley Stadium, packed with fans in red and blue, where the scoreboard confirms 'MCI 1-0 MUN' at 03:28 amidst a strong, continuous crowd chant. A replay then shows Manchester City in light blue attacking Manchester United in red, with the ball near the United goal. A close-up captures the Manchester United goalkeeper in a blue patterned jersey diving in vain as the ball goes in, and Haaland is seen celebrating again, pointing to his ear, while a second commentator praises how Haaland \"made the finish look easy\" from a \"decent delivery,\" calling it a \"lovely goal.\" On-screen graphics confirm '9 Erling Haaland, GOAL 4'', followed by a brief FIFA 23 logo. Following a referee's whistle, the camera pulls back to a wide view of the pitch, showing teams repositioning for the restart at 04:52, with the commentator questioning if United can find a response now that they've been \"shaken up.\" Gameplay continues with players like '17 DE BRUYNE', '8 FERNANDES', '9 HAALAND', and '21 ANFRE' moving the ball across the field, accompanied by the sounds of kicking and ongoing crowd murmurs and cheers. Pitch-side advertising boards display '#EmiratesFACup' and 'FIFA SOUND', with the EA Sports Live logo present, all contributing to the electric, high-stakes atmosphere of the Emirates FA Cup match under bright stadium lights."
+      ]
+    },
+    {
+      "event_id": 2,
+      "start_minute": 5,
+      "end_minute": 7,
+      "summary": "In the simulated Emirates FA Cup match, Manchester City holds a 1-0 lead over Manchester United under bright stadium lights, with the crowd creating an electric atmosphere. As Manchester City advanced from midfield, Commentator 1 identified Gundowan and Casemiro, noting a \"lovely ball over the top\" and exclaiming \"Real chance!\" leading to a massive crowd roar as Jack Grealish scored, celebrating by raising his arms and pointing to his ear, with the scoreboard updating and match time progressing from 06:35 to 12:00. Despite the goal, Commentator 1 remarked \"no reward for them,\" with Commentator 2 adding \"it was all good until the final effort,\" as player graphics identified Grealish, Haaland, De Bruyne, and Fernandes, and pitch-side boards displayed '#EmiratesFACup' and 'easports.com/fc', with the 'EA SPORTS LIVE' overlay visible. The referee reacted as the scene transitioned from wide gameplay to close-ups, emphasizing realism amidst chanting crowds. Later, with the score still 1-0 and time progressing from 12:05 to 18:03, Manchester United's \"Marcus Rashford\" was identified, and Manchester City players \"Ake\" and \"Jack Grealish\" advanced the ball, with a commentator noting Grealish \"has options available.\" A \"really good block\" followed \"Gundogan\" being mentioned, and as Manchester City pushed, \"Antony\" was identified. A \"good-looking ball in behind\" led to a powerful shot by \"Weghorst,\" met by a \"great reflex action\" from the Manchester United goalkeeper, described as a \"brilliant save\" that \"should have been a goal,\" before the ball was cleared. Play then transitioned to Bruno Fernandes (number 8) preparing for a corner kick near the corner flag, with pitch-side advertising for 'Emirates FA Cup' and 'easports.com/fc' visible. The segment opened with a roaring crowd as Bruno Fernandes prepared to take a corner, with the scoreboard showing Manchester City leading 1-0 at 18:05. A referee's whistle signaled play, and a commentator noted Fernandes \"favoring the short one.\" The camera shifted to a wide aerial view, and after the ball was cleared and play moved to midfield, commentators identified \"Bruno Fernandes\" and then \"Fred,\" with an observation that \"that's how they keep the opposition at bay.\" Manchester City advanced, and Erling Haaland received a pass, making a powerful run toward goal, prompting the commentator to shout \"Haaland!\" twice before exclaiming, \"And a goal! To increase their lead in this final! Will they be stopped now?\" Haaland scored at 21:05, sending the ball past the diving Manchester United goalkeeper, updating the scoreboard to 2-0, as the crowd erupted. Haaland celebrated by sliding on his knees, raising his arms, and pointing to his ear, with teammates congratulating him, and a replay showed the shot and the goalkeeper’s attempt. Another commentator analyzed Haaland's strength, balance, and \"wonderful goal,\" as the predominantly blue crowd chanted and clapped, with pitch-side advertising displaying '#EmiratesFACup', 'FIFA SOUND', and 'easports.com/fc', and the EA Sports Live logo visible.",
+      "involved_entities": {
+        "EA Sports Live": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match.",
+          "attribute": "visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 8 Fernandes, 21 Antony, 6 Gündoğan, 19 Varane, 23 Shaw, 6 Martínez, 9 Haaland, 26 Akanji, 1 De Gea, and 5 Stones.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible in the background overseeing the play, and whose whistle sound signals the start of play.",
+          "attribute": "audio-visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts and blue socks, actively moving the ball across the pitch, pressing forward, and repositioning after the save.",
+          "attribute": "visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts, defending in midfield and near their penalty area, and repositioning after the save and during the corner kick setup.",
+          "attribute": "visual"
+        },
+        "Manchester United Goalkeeper": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen diving to his right to make a save and then standing near the goal line.",
+          "attribute": "visual"
+        },
+        "Jack Grealish": {
+          "description": "Wearing a light blue Manchester City #10 jersey with 'Etihad Airways' branding, scoring the goal and celebrating by raising his arms and pointing to his ear.",
+          "attribute": "visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', 'MCI 1-0 MUN', and match time, updating from 18:05 to 21:07 after Haaland's goal.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in red and blue, reacting to the play with visible movement and energy, erupting in roars and cheers after the goal, and later engaging in rhythmic chanting and clapping.",
+          "attribute": "audio-visual"
+        },
+        "Bruno Fernandes": {
+          "description": "Wearing a red Manchester United #8 jersey with 'TeamViewer' branding, holding the match ball near the corner flag, preparing to take a corner kick, with visible tattoos on his left arm, and whose name is spoken by the commentator.",
+          "attribute": "audio-visual"
+        },
+        "Corner Flag": {
+          "description": "A white pole with a bright yellow flag, positioned at the corner of the pitch, near which Bruno Fernandes prepares to take the corner kick.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', in play during the corner and subsequent attack.",
+          "attribute": "visual"
+        },
+        "Erling Haaland": {
+          "description": "Wearing a light blue Manchester City #9 jersey with 'Etihad Airways' branding, scoring the goal and celebrating by sliding on his knees, raising his arms, and pointing to his ear, whose name is called out with increasing excitement by the commentator as he scores, and whose strength and skill are analyzed by a second commentator.",
+          "attribute": "audio-visual"
+        },
+        "Goal Celebration Graphic": {
+          "description": "A full-screen graphic with the Emirates FA Cup logo and a progress bar, appearing after Haaland's goal, transitioning to the player's name and goal time.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The simulated Emirates FA Cup match between Manchester City and Manchester United, with Manchester City leading 1-0, unfolds on a vibrant pitch under bright stadium lights, creating an electric atmosphere with the crowd in red and blue. As Manchester City players in light blue jerseys advance the ball from midfield, Commentator 1 identifies \"Gundowan\" and \"Casemiro\" and describes the build-up, noting a \"lovely ball over the top.\" The tension builds as Commentator 1 exclaims \"Real chance!\" followed by a massive crowd roar. Visually, Manchester City’s #10, Jack Grealish, scores a decisive goal with a well-placed shot past the diving Manchester United goalkeeper, then celebrates by raising his arms and pointing to his ear. The on-screen scoreboard updates to reflect the goal, progressing the match time from 06:35 to 12:00. Despite the visual goal and crowd eruption, Commentator 1 subsequently remarks that there was \"no reward for them,\" with Commentator 2 adding that \"it was all good until the final effort,\" discussing the team's devastating counter-attacks. Player name graphics identify Grealish, Haaland, De Bruyne, and Fernandes, while pitch-side advertising boards display '#EmiratesFACup' and 'easports.com/fc', and the 'EA SPORTS LIVE' overlay remains visible. The referee in a lime green jersey reacts to the play, as the scene transitions from wide gameplay to close-ups, emphasizing the intensity and realism of the simulation, all set against the backdrop of the chanting stadium crowd.",
+        "The sixth minute of the simulated Emirates FA Cup match between Manchester City and Manchester United unfolds, with Manchester City leading 1-0, as indicated by the on-screen scoreboard updating from 12:05 to 18:03. From a high-angle, wide view, players in light blue (Manchester City) and red (Manchester United) contest possession in midfield, accompanied by the constant roar, cheers, and chants of the animated stadium crowd. Commentators provide a dynamic play-by-play, identifying Manchester United's \"Marcus Rashford\" early in the segment. Manchester City players, including \"Ake\" and \"Jack Grealish,\" are seen advancing the ball, with a commentator noting Grealish \"has options available.\" A strong defensive play is highlighted as a \"really good block\" after \"Gundogan\" is mentioned. The action builds as Manchester City pushes towards the goal, with \"Antony\" also identified. A \"good-looking ball in behind\" leads to a powerful shot by \"Weghorst,\" which is met with a \"great reflex action\" by the Manchester United goalkeeper, who dives to his right for what the commentator calls a \"brilliant save,\" adding, \"Well, that should have been a goal!\" The ball is cleared, and play continues, transitioning to a close-up of Manchester United's Bruno Fernandes (number 8) preparing to take a corner kick near the corner flag. The vibrant atmosphere is enhanced by pitch-side advertising for 'Emirates FA Cup' and 'easports.com/fc', all under bright, consistent lighting, with the EA Sports Live logo present.",
+        "The segment opens with a roaring stadium crowd as Bruno Fernandes, in his red Manchester United #8 jersey with 'TeamViewer' branding and visible arm tattoos, prepares to take a corner kick near the white and yellow corner flag. The on-screen scoreboard shows Manchester City leading 1-0 at 18:05 in the Emirates FA Cup. A referee's whistle signals the start of play, and a commentator notes Fernandes \"favoring the short one.\" The camera shifts to a wide aerial view as Manchester City players in light blue and Manchester United players in red reposition. The ball is cleared, and play transitions into midfield, with the commentator identifying \"Bruno Fernandes\" and then \"Fred\" as involved. The commentator observes, \"Well, that's how they keep the opposition at bay. Well, let's see what they have in store for them on the break.\" Manchester City advances, and the camera follows the ball as Erling Haaland receives a pass and makes a powerful run toward goal. The commentator's excitement builds, shouting \"Haaland!\" twice before exclaiming, \"And a goal! To increase their lead in this final! Will they be stopped now?\" Haaland scores at 21:05, sending the ball past the diving Manchester United goalkeeper in his blue patterned jersey, updating the scoreboard to 2-0. The crowd erupts in a massive roar and cheers. Haaland celebrates by sliding on his knees, raising his arms, and pointing to his ear, as teammates like #5 Stones rush to congratulate him. A replay from behind the goal shows the shot and the goalkeeper’s attempt. Another commentator analyzes, \"Well, just look at his strength here. He holds off the challenge, he keeps his balance and he finds the back of the net. It's a wonderful goal.\" The predominantly blue crowd continues to celebrate with rhythmic chanting and clapping, while pitch-side advertising boards display '#EmiratesFACup', 'FIFA SOUND', and 'easports.com/fc'. The EA Sports Live logo remains visible, capturing the electric atmosphere of the match."
+      ]
+    },
+    {
+      "event_id": 3,
+      "start_minute": 8,
+      "end_minute": 9,
+      "summary": "The match is underway at Wembley Stadium with a palpable electric atmosphere, the stadium crowd audibly chanting and roaring as the on-screen scoreboard displays Manchester City leading 2-1 against Manchester United. Following a goal for Manchester United, the play intensifies in midfield with both Manchester City and Manchester United players actively engaged. As Manchester City advances, involving players like Mahrez, De Bruyne, and Rodri, Erling Haaland is identified. The play then shifts towards Manchester United’s penalty area where their goalkeeper makes a save. The ball is cleared, and Casemiro, Fred, and Wout Weghorst are involved in the subsequent play for Manchester United. A foul is called, with advantage played to Manchester United before the referee stops play for a free-kick. The camera zooms in on Rashford (#10) in his red jersey, holding the match ball near the goal line as the crowd chants his name. The referee signals for the restart, and a close-up shows Rashford placing the ball in front of Manchester City’s defensive wall, with their goalkeeper positioning himself. On-screen graphics display player names including Bruno Fernandes (#8), Luke Shaw (#23), and Akanji (#25), alongside pitch-side advertising for '#EmiratesFACup', 'FIFA SOUND', and 'easports.com/fc', all under the persistent EA Sports Live logo.",
+      "involved_entities": {
+        "Manchester City Goalkeeper": {
+          "description": "Wearing a light blue goalkeeper jersey with 'Etihad Airways' branding, seen diving to his right to make a save and then standing near the goal line.",
+          "attribute": "visual"
+        },
+        "Casemiro": {
+          "description": "Wearing a red Manchester United #18 jersey with 'TeamViewer' branding, celebrating Rashford's goal by patting him on the back.",
+          "attribute": "visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys, actively moving the ball, pressing forward, and forming a defensive wall; one player is identified by the commentator as 'Haaland' during a moment of play.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Goalkeeper": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen diving to his right to make a save and then standing near the goal line.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', in play during the corner and subsequent attack.",
+          "attribute": "visual"
+        },
+        "Rashford": {
+          "description": "Wearing a red Manchester United #10 jersey, seen holding the match ball and preparing for a free kick, with the crowd loudly chanting his name.",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Logo": {
+          "description": "A full-screen graphic with the Emirates FA Cup logo and a progress bar, appearing after Rashford's goal, transitioning to the player's name and goal time.",
+          "attribute": "visual"
+        },
+        "Corner Flag": {
+          "description": "A white pole with a bright yellow flag, positioned at the corner of the pitch, near which Bruno Fernandes prepares to take the corner kick.",
+          "attribute": "visual"
+        },
+        "EA Sports Live": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match.",
+          "attribute": "visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 8 Fernandes, 10 Rashford, 23 Shaw, 25 Akanji, 31 Ederson, and 18 Casemiro.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding.",
+          "attribute": "visual"
+        },
+        "Bruno Fernandes": {
+          "description": "Wearing a red Manchester United #8 jersey with 'TeamViewer' branding, holding the match ball near the corner flag, preparing to take a corner kick, with visible tattoos on his left arm.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey, overseeing the play and signaling for the restart with a distinct whistle sound, with the commentator noting a foul was called 'in the opinion of the referee'.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys, defending in midfield and near their penalty area; specific players identified by commentators include 'Casemiro,' 'Fred,' and 'Wout Weghorst,' while the crowd chants 'Rashford' for the #10 player preparing for a free kick.",
+          "attribute": "audio-visual"
+        },
+        "Erling Haaland": {
+          "description": "Wearing a light blue Manchester City #9 jersey, seen celebrating a goal, and explicitly identified by a commentator as 'Number nine, Erling Haaland!' during the initial celebration.",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', 'MCI 2-1 MUN', and match time, confirming the commentator's remark that 'United [is] just one behind'.",
+          "attribute": "audio-visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in red and blue, reacting to the play with a continuous roar, chanting 'Goal for Manchester United' and later 'Rashford!' with palpable energy.",
+          "attribute": "audio-visual"
+        },
+        "Wembley Stadium": {
+          "description": "A massive, modern stadium filled with fans in red and blue, with large digital screens displaying 'WEMBLEY STADIUM' and FA Cup branding, visible during wide shots, where the continuous roar and chants of the crowd, including 'Goal for Manchester United', create an electric atmosphere.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of Manchester City players in light blue jerseys celebrating a goal, accompanied by the stadium crowd audibly chanting and a commentator announcing the score is \"2-0 now\" and identifying \"Number nine, Erling Haaland!\" as the scorer. The scene transitions to a wide aerial view of the pitch, showing Manchester City leading 2-0 on the on-screen scoreboard. Manchester United, in red jerseys, attempt to build an attack from midfield, with commentators mentioning \"Fred\" and \"Luke Shaw\" as the play progresses. The ball is passed into the Manchester City penalty area, where a shot is taken and saved by the Manchester City goalkeeper, Ederson, who dives to his right. The ball rebounds, and Manchester United’s Rashford (#10) scores, prompting an excited commentator to exclaim \"Rashford!\" and declare it a \"tremendous goal!\" with \"technical excellence.\" A second commentator adds, \"great technique, perfect contact and a brilliant finish. Top stuff.\" The camera cuts to a close-up of Rashford holding the match ball, celebrating with teammate Casemiro (#18). The scene shifts to a corner kick setup with Bruno Fernandes (#8) preparing to take it, followed by a replay from behind the goal capturing the save and Rashford’s goal. The segment ends with a close-up of Rashford holding the ball, with the Emirates FA Cup logo and 'EA SPORTS LIVE' overlay visible, the crowd reacting with energetic cheers, and the on-screen scoreboard updated to 2-1 around 24:50, alongside '#EmiratesFACup' and 'easports.com/fc' on pitch-side advertising.",
+        "The segment opens with a wide aerial view of Wembley Stadium, its vibrant green pitch and packed stands of animated fans in red and blue creating an electric atmosphere, underscored by a continuous crowd roar and a sharp whistle. Amidst the stadium's energy, a commentator echoes a crowd chant, \"Goal for Manchester United!\", before another commentator clarifies the scoreboard prominently displaying 'MCI 2-1 MUN', noting, \"Now the match continues and United just one behind here.\" Manchester City players in light blue jerseys and Manchester United players in red are actively engaged in midfield play, with the ball moving dynamically. As Manchester City advances, involving players like Mahrez, De Bruyne, and Rodri, a commentator identifies \"Haaland\" during the action, before the play shifts toward Manchester United’s penalty area where a shot is saved by their diving goalkeeper. The ball is cleared, and the commentator identifies \"Casemiro,\" \"Fred,\" and \"Wout Weghorst\" as Manchester United players involved in the subsequent play. A foul is called, with the commentator explaining, \"Advantage Manchester United, and a foul in the opinion of the referee. Now, what can they do from this free-kick situation?\" The camera zooms in on Rashford, wearing the #10 red jersey, who is seen holding the match ball near the goal line, preparing for the free kick as the crowd loudly chants his name. The referee, in a lime green jersey, signals for the restart, and a close-up shows Rashford placing the ball in front of Manchester City’s defensive wall, while their orange-kitted goalkeeper positions himself. On-screen graphics display player names like 8 Fernandes, 10 Rashford, 23 Shaw, and 25 Akanji, alongside pitch-side advertising boards for '#EmiratesFACup', 'FIFA SOUND', and 'easports.com/fc', all under the persistent EA Sports Live logo. The crowd's energy remains palpable, with chants echoing through the stadium."
+      ]
+    },
+    {
+      "event_id": 4,
+      "start_minute": 10,
+      "end_minute": 10,
+      "summary": "The simulated Emirates FA Cup match sees Manchester City leading Manchester United 2-1 as the action intensifies. Following a corner kick taken by Bruno Fernandes, Manchester City's defense clears the ball, narrowly missing a goal as the crossbar intervenes. Manchester City regains possession, their 'Ole, ole, ole' chants echoing through the stadium, while Casemiro of Manchester United reacts with a hand on his hip and Pep Guardiola animatedly directs a player in an orange bib. As Manchester City advances into the penalty area, David de Gea makes a crucial save, averting immediate danger. The play shifts to a counter-attacking possibility for Manchester United, but Manchester City retains control, moving effectively through midfield with Grealish and Haaland involved in the attack. The on-screen scoreboard updates to 34:59, displaying the score and competition details, accompanied by player graphics and pitch-side advertising, as Manchester City continues their offensive pressure.",
+      "involved_entities": {
+        "Manchester City Defender in Orange Bib": {
+          "description": "A Manchester City player wearing a light blue long-sleeve shirt under an orange training bib, standing near Pep Guardiola and receiving instructions during a break in play.",
+          "attribute": "visual"
+        },
+        "Casemiro": {
+          "description": "Wearing a red Manchester United #18 jersey with 'TeamViewer' branding, reacting with a hand on his hip after the corner kick.",
+          "attribute": "visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts and blue socks, actively moving the ball across the pitch, pressing forward, and repositioning after the save.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', heard being kicked during the corner and subsequent attack, and notably hitting the crossbar during an early attempt on goal.",
+          "attribute": "audio-visual"
+        },
+        "Corner Flag": {
+          "description": "A white pole with a bright yellow flag, positioned at the corner of the pitch, near which Bruno Fernandes prepares to take the corner kick.",
+          "attribute": "visual"
+        },
+        "EA Sports Live": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match.",
+          "attribute": "visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 8 Fernandes, 10 Rashford, 23 Shaw, 25 Akanji, 31 Ederson, and 18 Casemiro.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding.",
+          "attribute": "visual"
+        },
+        "Bruno Fernandes": {
+          "description": "Wearing a red Manchester United #8 jersey with 'TeamViewer' branding, holding the match ball near the corner flag, preparing to take a corner kick, with visible tattoos on his left arm.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible in the background overseeing the play and reacting to the save.",
+          "attribute": "visual"
+        },
+        "Pep Guardiola": {
+          "description": "Wearing a black t-shirt and black pants, animatedly instructing a player in an orange training bib, gesturing with his hands.",
+          "attribute": "visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts, defending in midfield and near their penalty area, and repositioning after the save and during the corner kick setup.",
+          "attribute": "visual"
+        },
+        "David de Gea": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen diving to his right to make a save and then standing near the goal line.",
+          "attribute": "visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', 'MCI 2-1 MUN', and match time, updating to reflect the current score.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in red and blue, reacting to the play with visible movement and energy, heard throughout the segment with murmurs of anticipation, cheers, groans, and distinct 'Ole, ole, ole' chants.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The simulated Emirates FA Cup match between Manchester City (MCI) and Manchester United (MUN) is underway with Manchester City leading 2-1. The segment opens with Manchester United preparing for a corner kick, Bruno Fernandes (#8) holding the 'mitre' branded ball near the corner flag, as the stadium crowd murmurs with anticipation. A whistle sounds, the ball is kicked, and after the corner is taken, Manchester City's defense clears it. Commentary exclaims, \"The crossbar got in the way!\" indicating an early shot on goal. The play transitions upfield with Manchester City regaining possession, accompanied by the animated crowd's 'Ole, ole, ole' chants. A wide view of the pitch shows both teams repositioning, Manchester City in light blue and Manchester United in red. Close-ups reveal Manchester United’s Casemiro (#18) reacting with a hand on his hip, and Manchester City’s manager, Pep Guardiola, animatedly instructing a player in an orange training bib. As Manchester City presses forward, commentary notes, \"Now, looking dangerous here.\" The ball is worked into Manchester United’s penalty area, leading to a shot that is saved by goalkeeper David de Gea (#1), prompting the commentator to declare, \"Good defending in the end, and danger averted for now.\" The crowd continues to react as the ball is cleared, and commentary then highlights, \"Now, counter-attacking possibilities here.\" Manchester City maintains possession, advancing through midfield, with commentators identifying \"Grealish!\" and \"Up to Haaland!\" as key players in the attack, before observing, \"Moving forward effectively.\" The on-screen scoreboard updates the time from 30:15 to 34:59, displaying 'EMIRATES FA CUP' and 'MCI 2-1 MUN'. Player name graphics for De Bruyne (#17), Rashford (#10), Akanji (#25), Ederson (#31), Grealish (#10), and Weghorst (#27) appear, while pitch-side advertising boards show '#EmiratesFACup', 'FIFA SOUND', and 'easports.com/fc'. The EA Sports Live logo remains visible in the top right corner as Manchester City continues to attempt to extend their lead."
+      ]
+    },
+    {
+      "event_id": 5,
+      "start_minute": 11,
+      "end_minute": 11,
+      "summary": "At 35:59, with the scoreboard showing MCI 2-1 MUN, a Manchester City player in a light blue jersey expresses frustration as a commentator announces a corner kick awarded by the referee. Bruno Fernandes, wearing Manchester United's #8 jersey, places the geometric blue and yellow match ball for the corner, with the commentator suggesting an opportunity to extend their lead. The delivered corner results in a distinct header sound, followed by the commentator's observation of a fine header that was ultimately saved by the Manchester United goalkeeper, who dives to push the ball away amidst crowd murmurs. Manchester City regains possession and presses into the penalty area, prompting another save from the Manchester United goalkeeper, leading the commentator to note their attempt to maintain pressure with another corner. After the ball is cleared and Manchester City continues to press, with Mahrez being called out during the build-up, a deflection leads to yet another corner. The play then shifts as Marcus Rashford, in the #10 jersey, unleashes a powerful shot from outside the box, scoring past the Manchester City goalkeeper. The stadium crowd erupts in a massive roar, and the commentator exclaims, \"GOAL! What a strike! And the net is bulging!\" Rashford celebrates by holding the match ball near the net, with Casemiro (#18) reacting nearby, as the on-screen scoreboard updates and the Emirates FA Cup logo appears alongside pitch-side advertising boards.",
+      "involved_entities": {
+        "Manchester City Goalkeeper": {
+          "description": "Wearing a light blue goalkeeper jersey with 'Etihad Airways' branding, seen diving to his right to make a save and then standing near the goal line.",
+          "attribute": "visual"
+        },
+        "Casemiro": {
+          "description": "Wearing a red Manchester United #18 jersey with 'TeamViewer' branding, reacting with a hand on his hip after the corner kick.",
+          "attribute": "visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts and blue socks, actively moving the ball across the pitch, pressing forward, and repositioning after the save.",
+          "attribute": "visual"
+        },
+        "Manchester United Goalkeeper": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen diving to his right to make a save and then standing near the goal line.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, heard with distinct thuds and kicks as it is played and then held by Rashford in celebration.",
+          "attribute": "audio-visual"
+        },
+        "Rashford": {
+          "description": "Wearing a red Manchester United #10 jersey, visually scoring the goal and celebrating, with his action prompting the commentator's excited 'GOAL!' and 'What a strike!'",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Logo": {
+          "description": "A full-screen graphic with the Emirates FA Cup logo and a progress bar, appearing after Rashford's goal, transitioning to the player's name and goal time.",
+          "attribute": "visual"
+        },
+        "Corner Flag": {
+          "description": "A white pole with a bright yellow flag, positioned at the corner of the pitch, near which Bruno Fernandes prepares to take the corner kick.",
+          "attribute": "visual"
+        },
+        "EA Sports Live": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match.",
+          "attribute": "visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 8 Fernandes, 10 Rashford, 23 Shaw, 25 Akanji, 31 Ederson, and 18 Casemiro.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding.",
+          "attribute": "visual"
+        },
+        "Bruno Fernandes": {
+          "description": "Wearing a red Manchester United #8 jersey with 'TeamViewer' branding, holding the match ball near the corner flag, preparing to take a corner kick, with visible tattoos on his left arm.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey, overseeing the play and audibly noted by the commentator for awarding a corner kick.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts, defending in midfield and near their penalty area, and repositioning after the save and during the corner kick setup.",
+          "attribute": "visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', 'MCI 2-1 MUN', and match time, updating to reflect the current score.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in red and blue, audibly murmuring, reacting to the play, and erupting into a loud roar after Rashford's goal.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a Manchester City player in a light blue jersey covering his face in frustration, as the scoreboard shows MCI 2-1 MUN at 35:59. A commentator notes a player was \"able to get a body in the way\" and that \"the referee has given the corner.\" Bruno Fernandes, in a red Manchester United #8 jersey, prepares to take a corner kick, placing the geometric blue and yellow match ball on the ground. The commentator anticipates \"scope here for them to add to their lead\" as a wide view shows players positioning. The corner is delivered, and a distinct header sound is heard, with the commentator exclaiming, \"Oh, a very fine header, but it wouldn't go in for him.\" The Manchester United goalkeeper dives to make a save, pushing the ball away amidst crowd murmurs. Manchester City regains possession, working the ball back into the penalty area, leading to another save by the Manchester United goalkeeper. The commentator remarks, \"Well, they'll try to keep the pressure on in the form of another corner.\" The ball is cleared, and Manchester City continues to press, with the commentator calling out \"Mahrez!\" during the build-up. Following a deflection, another corner is awarded. The play culminates in a powerful shot from outside the box by Marcus Rashford (#10), who scores as the ball flies past the Manchester City goalkeeper. The stadium crowd erupts into a massive roar, and the commentator shouts, \"GOAL! What a strike! And the net is bulging!\" Rashford celebrates by holding the match ball near the net, with Casemiro (#18) reacting nearby. The on-screen scoreboard updates, and the Emirates FA Cup logo appears briefly, while pitch-side advertising boards display various sponsors."
+      ]
+    },
+    {
+      "event_id": 6,
+      "start_minute": 12,
+      "end_minute": 12,
+      "summary": "In the Emirates FA Cup match with the score MCI 2-1 MUN, Manchester City advanced near the Manchester United penalty area, prompting a crowd roar and commentary questioning a potential scoring opportunity. Kevin De Bruyne took a shot on goal, but Manchester United's goalkeeper, David de Gea, executed a diving save to his right, deflecting the ball onto the post, a save described as \"well dealt with that ball comfortably.\" The crowd reacted with visible energy, their roar leading commentators to note the fans' certainty that a penalty should have been awarded, followed by a distinct whistle. Bruno Fernandes prepared for a corner kick near the yellow corner flag, and despite the attempt being \"highly promising,\" it yielded \"nothing out of it.\" Manchester United regained possession, and as the match time progressed from 38:04 to 43:36, Marcus Rashford, Shaw, and Fred initiated a counter-attack, threading the ball forward through midfield, while Manchester City's Gündoğan and Akanji tracked back defensively under the stadium lights.",
+      "involved_entities": {
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 17 De Bruyne, 20 Dalot, 8 Fernandes, 10 Rashford, 27 Weghorst, 6 Gündoğan, 25 Akanji, 31 Ederson, and 18 Casemiro.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible in the background overseeing the play, with a whistle sound heard after a potential foul discussion by commentators.",
+          "attribute": "audio-visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts and blue socks, actively pressing forward and repositioning after the save. Kevin De Bruyne is specifically named by the commentator during an attack, while Gündoğan and Akanji are seen tracking back defensively.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts, defending near their penalty area and then advancing the ball through midfield. Dalot and Fernandes are visible, with Bruno Fernandes preparing for a corner kick. Marcus Rashford, Shaw, and Fred are all explicitly named by the commentator during their counter-attack.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Goalkeeper": {
+          "description": "David de Gea, in a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, is seen diving to his right to make a crucial save, with a graphic overlay showing 'AGE: 32 SAVES: 2'. Commentators describe his action as 'well dealt with that ball comfortably'.",
+          "attribute": "audio-visual"
+        },
+        "Corner Flag": {
+          "description": "A white pole with a bright yellow flag, positioned at the corner of the pitch, near which Bruno Fernandes prepares to take the corner kick, which is then described by commentators as a 'short corner taken'.",
+          "attribute": "audio-visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', in play during the corner and subsequent attack.",
+          "attribute": "visual"
+        },
+        "David de Gea": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen diving to his right to make a save and then standing near the goal line, with a graphic overlay showing 'AGE: 32 SAVES: 2'.",
+          "attribute": "visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', 'MCI 2-1 MUN', and match time, updating from 38:04 to 43:36.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in red and blue, reacting to the play with visible movement and energy. Their loud roar and vocal reactions are noted by commentators who state, 'You can tell what the fans think of that decision. They're certain it should have been a penalty'.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with a tense moment in the Emirates FA Cup match, score MCI 2-1 MUN, as Manchester City, in their light blue jerseys, are in possession near the Manchester United penalty area. The stadium ambiance is filled with a crowd roar as commentators ask, \"Can someone get on the end of this?\" Kevin De Bruyne is identified by the commentator as he maneuvers the ball, leading to a shot on goal. Manchester United's goalkeeper, David de Gea, in his blue patterned jersey, makes a crucial diving save to his right, parrying the ball away, which then hits the post. A close-up replay highlights his impressive reflexes, a save the commentators describe as \"well dealt with that ball comfortably.\" The crowd, a vibrant mix of red and blue, reacts with visible energy, their loud roar prompting a commentator to note, \"You can tell what the fans think of that decision. They're certain it should have been a penalty,\" followed by a distinct whistle sound. Pitch-side advertising boards display '#EmiratesFACup' and 'FIFA SOUND'. Bruno Fernandes, in his red Manchester United jersey, then prepares for a corner kick near the yellow corner flag, with commentators confirming, \"A chance for them to provide a test in the form of a corner,\" and subsequently, \"Short corner taken.\" Despite looking \"highly promising,\" the attempt yields \"nothing out of it.\" Manchester United regains possession, and the on-screen scoreboard updates the match time from 38:04 to 43:36. Marcus Rashford is named by the commentator as he becomes involved in the build-up of a counter-attack, followed by mentions of Shaw and Fred as they are seen threading the ball forward through midfield. Manchester City’s Gündoğan and Akanji track back defensively, maintaining the electric atmosphere under the stadium lights as the game continues."
+      ]
+    },
+    {
+      "event_id": 7,
+      "start_minute": 13,
+      "end_minute": 13,
+      "summary": "In the closing minutes of the second half of the Emirates FA Cup match, with Manchester City leading Manchester United 2-1, Manchester United pressed forward, earning a corner kick taken by Bruno Fernandes. Despite a \"top-notch piece of defensive judgment\" from Manchester City defenders, the ball was delivered into the box, leading to a scramble. Marcus Rashford scored the equalizer, prompting excited commentary and a rising roar from the stadium crowd as the on-screen scoreboard updated to 2-2. Rashford, joined by Casemiro, celebrated with the match ball, and a replay confirmed his clinical finish, described as \"1v1 against the keeper, and the outcome was never really in doubt.\" The segment concluded with a frustrated Pep Guardiola gesturing on the sideline amidst the jubilant crowd and prominent 'Emirates FA Cup' and 'EA SPORTS' branding on the pitch-side advertising boards, with commentators announcing four minutes of stoppage time.",
+      "involved_entities": {
+        "Casemiro": {
+          "description": "Wearing a red Manchester United #18 jersey, identified by the commentator as 'Now Casemiro' during the attacking play, he is later seen joining Rashford in celebration after the goal.",
+          "attribute": "audio-visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts and blue socks, actively defending and repositioning after the corner, with players like Dias, Ake, Gündoğan, and Ederson visible.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', seen in play during the corner and goal sequence.",
+          "attribute": "visual"
+        },
+        "Rashford": {
+          "description": "Wearing a red Manchester United #10 jersey, scores the equalizing goal, prompting an excited 'Oh, the equalizer!' from the commentator. During the replay, the commentator praises his finish, stating, 'He never looked like missing that' in a 1v1 situation against the keeper, as he holds the match ball and celebrates with Casemiro.",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Logo": {
+          "description": "A full-screen graphic with the Emirates FA Cup logo and a progress bar, appearing after Rashford's goal, transitioning to the player's name and goal time.",
+          "attribute": "visual"
+        },
+        "Corner Flag": {
+          "description": "A white pole with a bright yellow flag, positioned at the corner of the pitch, near which Bruno Fernandes prepares to take the corner kick.",
+          "attribute": "visual"
+        },
+        "EA Sports Live": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match.",
+          "attribute": "visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 10 Rashford, 18 Casemiro, 27 Weghorst, 20 Dalot, 6 Gündoğan, 3 Dias, 31 Ederson, and 8 Fernandes.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding.",
+          "attribute": "visual"
+        },
+        "Bruno Fernandes": {
+          "description": "Wearing a red Manchester United #8 jersey with 'TeamViewer' branding, holding the match ball near the corner flag, preparing to take the corner kick, with visible tattoos on his left arm.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible in the background overseeing the play and reacting to the goal.",
+          "attribute": "visual"
+        },
+        "Pep Guardiola": {
+          "description": "Wearing a black t-shirt and black pants, animatedly reacting to the goal with frustration, gesturing with his hands on the sideline.",
+          "attribute": "visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys, pressing forward. Commentary identifies 'Anthony' and 'Casemiro' by name during the build-up. Rashford scores the equalizer, with commentators exclaiming 'Oh, the equalizer!' and later praising his finish as '1v1 against the keeper, and the outcome was never really in doubt. He never looked like missing that.'",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', 'MCI 2-1 MUN' (updating to 2-2), and match time, showing progression from 43:36 to 45:00 +4:00.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in red and blue, reacting to the goal with a rising roar that culminates in an eruption of cheers and shouts following the equalizer.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The second half of the Emirates FA Cup match between Manchester City and Manchester United intensifies in the 43rd to 45th minute, with the score at 2-1 to Manchester City. Manchester United, in red jerseys, presses forward, with commentators noting a \"top-notch piece of defensive judgment\" from the light blue-clad Manchester City defenders. The action continues, with the commentator announcing \"four minutes of stoppage time\" will be added. The ball moves towards City's penalty area, with players like \"Anthony\" and \"Casemiro\" identified by the commentary during the build-up. Manchester United earns a corner kick, taken by Bruno Fernandes. The corner is delivered into the box, leading to a scramble, and Marcus Rashford scores, prompting an excited \"Oh, the equalizer!\" from the commentators, who add, \"Just what they needed, and the dream remains very much alive.\" The stadium crowd erupts in a rising roar of cheers as the on-screen scoreboard updates to 2-2. Rashford celebrates, holding the match ball and joined by Casemiro. A replay from behind the goal confirms the ball crossing the line, with the commentator praising Rashford's clinical finish: \"1v1 against the keeper, and the outcome was never really in doubt. He never looked like missing that.\" The segment concludes with a frustrated Pep Guardiola gesturing on the sideline amidst the jubilant crowd and digital advertising boards displaying 'Emirates FA Cup' and 'EA SPORTS' branding."
+      ]
+    },
+    {
+      "event_id": 8,
+      "start_minute": 14,
+      "end_minute": 14,
+      "summary": "The match at Wembley Stadium is at the halfway mark with the score tied 2-2 between Manchester City and Manchester United. Following an emphatic gesture from a coach on the sideline amidst a sustained crowd roar, an EA Sports 'HYPERMOTION TECHNOLOGY' graphic appears. Marcus Rashford of Manchester United celebrates a goal, confirmed by an on-screen graphic for '10 Marcus RASHFORD GOAL 45'', as the commentator exclaims, \"Goal for Manchester United!\" The scoreboard displays 'MANCHESTER CITY 2-2 MANCHESTER UTD', and the commentator notes the \"Herculean effort\" to reach level pegging. As play resumes, a half-time graphic confirms the score and lists goal scorers Haaland (4', 22') and Rashford (25', 45'). A detailed match statistics screen follows, highlighting possession, shots, and impressive dribble success (89%) and pass accuracy (89%) for Manchester United. The second half begins with the commentator announcing, \"So, back underway here, into the second half,\" as player name graphics identify 27 Weghorst and 17 De Bruyne, and a mini-map shows team formations, all under the visible EA Sports Live logo and the continued energy of the Stadium Crowd.",
+      "involved_entities": {
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts and blue socks, actively repositioning after the goal, with players like De Bruyne visible.",
+          "attribute": "audio-visual"
+        },
+        "Half-Time Graphic": {
+          "description": "A full-screen overlay displaying 'HALF-TIME MANCHESTER CITY 2-2 MANCHESTER UTD' with goal scorers Haaland (4', 22') and Rashford (25', 45'), set against the backdrop of the packed stadium.",
+          "attribute": "audio-visual"
+        },
+        "Mini-Map": {
+          "description": "A small tactical overlay in the bottom center of the screen showing player positions and team formations during gameplay.",
+          "attribute": "audio-visual"
+        },
+        "Marcus Rashford": {
+          "description": "Wearing a red Manchester United #10 jersey with 'TeamViewer' branding, celebrating a goal with clenched fists and a determined expression, and whose goal is announced by the commentator.",
+          "attribute": "audio-visual"
+        },
+        "Wembley Stadium": {
+          "description": "A massive, modern stadium filled with fans in red and blue, with large digital screens displaying 'WEMBLEY STADIUM' and FA Cup branding, visible during wide shots, and explicitly mentioned by the commentator as the location of the match.",
+          "attribute": "audio-visual"
+        },
+        "EA Sports Live": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match.",
+          "attribute": "audio-visual"
+        },
+        "Match Statistics Screen": {
+          "description": "A detailed on-screen graphic showing possession, shooting, passing, defending, and events, with Manchester United's 89% dribble success rate and 89% pass accuracy highlighted.",
+          "attribute": "audio-visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 27 Weghorst and 17 De Bruyne.",
+          "attribute": "audio-visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding.",
+          "attribute": "audio-visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible in the background overseeing the play, and whose whistle signals the end of the first half and the start of the second.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts, pressing forward and repositioning, with Rashford, Weghorst, and Casemiro visible. The commentator announces a 'Goal for Manchester United!'",
+          "attribute": "audio-visual"
+        },
+        "Erling Haaland": {
+          "description": "Not directly visible, but referenced in the half-time graphic as a goal scorer for Manchester City.",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', 'MCI 2-2 MUN', and match time, showing progression from 45:00 to 46:12, and confirming 'LIVE FROM WEMBLEY STADIUM'.",
+          "attribute": "audio-visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in red and blue, reacting to the goal with visible movement and energy, their roars and cheers forming a constant backdrop to the match, intensifying with key moments and fading slightly at half-time.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a close-up of a bald coach in a navy suit gesturing emphatically on the sideline, against the backdrop of a blurred crowd in blue and red, accompanied by a sustained crowd roar and a faint whistle. This transitions to a full-screen graphic for 'HYPERMOTION TECHNOLOGY' by EA Sports, marked by an electronic whoosh. The action then shifts to a close-up of Marcus Rashford in a red Manchester United jersey, celebrating a goal with clenched fists and a determined expression, as the on-screen graphic confirms '10 Marcus RASHFORD GOAL 45''. The crowd roar intensifies, and a commentator exclaims, \"Goal for Manchester United!\" The camera pulls back to a wide view of Wembley Stadium, showing the teams lined up for a kickoff after the goal, with the scoreboard displaying 'MANCHESTER CITY 2-2 MANCHESTER UTD' and Rashford's goal time. The commentator adds, \"Well, it has taken a Herculean effort for them to get back to level pegging under these trying circumstances,\" as the crowd cheers. The match resumes with players from both teams repositioning around the center circle, the crowd animated in red and blue sections. The camera pans across the stadium, capturing the scale of the event, before focusing on players walking back to their positions, including a Manchester City player in a light blue kit and Rashford in red. The commentator announces, \"Well, there we have it. We're at the halfway mark now, here at Wembley,\" over the continuing crowd noise and stadium ambiance. A half-time graphic appears, showing 'HALF-TIME MANCHESTER CITY 2-2 MANCHESTER UTD' with goal scorers Haaland (4', 22') and Rashford (25', 45'), set against the backdrop of the packed stadium, as a whistle blows and the crowd noise fades slightly. The scene transitions to a detailed match statistics screen, highlighting possession (51% to 49%), shots (7 to 5), and other metrics, with Manchester United's 89% dribble success rate and 89% pass accuracy prominently displayed, accompanied by an electronic transition sound. The video returns to live gameplay, showing the teams resetting for the second half at Wembley Stadium, with the scoreboard confirming 'LIVE FROM WEMBLEY STADIUM' and the match time at 45:00. A whistle blows, and the commentator states, \"So, back underway here, into the second half,\" as the crowd noise swells again. The camera follows the players as they reposition, with player name graphics identifying 27 Weghorst and 17 De Bruyne, and a mini-map in the corner showing team formations. The atmosphere remains electric, with the crowd's energy palpable in the wide shots, and the EA Sports Live logo consistently visible in the top right corner."
+      ]
+    },
+    {
+      "event_id": 9,
+      "start_minute": 15,
+      "end_minute": 16,
+      "summary": "In the second half of a tense 2-2 Emirates FA Cup match between Manchester City and Manchester United, under bright stadium lights on a vibrant green pitch, the flow of play is tracked from an elevated view amidst the animated crowd's murmuring and rising anticipation. Manchester City, in light blue, and Manchester United, in red, actively press and reposition, with the match ball frequently heard with distinct kicks and thuds. A commentator notes a good defensive play, stating, \"Read it well.\" The tension peaks as Manchester United's Rashford, highlighted by on-screen graphics, takes a powerful shot on goal, which the commentator describes as the keeper \"making sure that was pushed well away from danger.\" A second commentator describes the game as a \"fairly open contest\" with \"chances at both ends, plenty of good attacking play, and it's been really entertaining.\" Play continues with Manchester City's Mahrez, identified by on-screen graphics, making a \"poor attempt at a pass really.\" Manchester United's Casemiro and Bruno Fernandes are subsequently identified as they gain possession. The mini-map in the bottom center dynamically shows team formations, while advertising boards for 'Emirates FA Cup', 'FIFA SOUND', and 'easports.com/fc' are visible. The commentator notes possession \"given away by City,\" as the electric atmosphere and crowd energy persist. The match resumes with Manchester United in possession, player name graphics like Rashford (#10) and Grealish (#10) appearing, and pitch-side advertising boards displaying 'easports.com/fifa' and 'JOIN THE CLUB THIS JULY'. At 55:57, Riyad Mahrez (#26) receives a pass near the penalty area, cuts inside, and fires a low shot past the diving Manchester United goalkeeper David de Gea, who is in a blue patterned jersey, into the net, propelling Manchester City into a 3-2 lead, confirmed by the scoreboard at 56:12. The stadium erupts in a massive, sustained roar and celebratory chants, with Mahrez celebrating with teammate Jack Grealish (#10) who embraces him. Replays highlight the goal, and a second commentator praises \"what a good finish this is from Mahrez. He strikes it so cleanly and hits it with power. That's a great goal.\" On the sideline, Manchester City manager Pep Guardiola, in black, reacts with a clenched fist and animated celebration, mirroring the crowd's continued chants. The EA SPORTS LIVE logo remains visible. The mini-map dynamically updates player positions, and the electric atmosphere, fueled by the crowd's energy, is palpable as the game continues.",
+      "involved_entities": {
+        "EA Sports Live": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+          "attribute": "visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 27 Weghorst, 17 De Bruyne, 10 Rashford, 23 Casemiro, 8 Fernandes, 26 Mahrez, 9 Haaland, 6 Martínez, and 10 Grealish.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', 'easports.com/fc', and 'JOIN THE CLUB THIS JULY' branding.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible near the penalty area during the goal sequence, overseeing the play.",
+          "attribute": "visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys, actively pressing and transitioning into attack, with Riyad Mahrez (#26) scoring the decisive goal, explicitly named by commentators who praise his 'good finish,' striking it 'so cleanly,' and hitting it 'with power.' He celebrates with Jack Grealish (#10).",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys, defending and repositioning, with Fred mentioned by a commentator early in the segment, and David de Gea (#1) making a diving save attempt before the goal.",
+          "attribute": "audio-visual"
+        },
+        "Mini-Map": {
+          "description": "A small tactical overlay in the bottom center of the screen showing player positions and team formations during gameplay, updating dynamically with player movements.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', seen in play during the goal-scoring sequence.",
+          "attribute": "visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', 'MCI 2-2 MUN' initially, then updating to 'MCI 3-2 MUN' after Mahrez's goal, a score confirmed by commentators, with match time progressing from 53:04 to 57:27.",
+          "attribute": "audio-visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in red and blue, reacting with a palpable, sustained roar and celebratory chants, especially during and after Mahrez's goal.",
+          "attribute": "audio-visual"
+        },
+        "Jack Grealish": {
+          "description": "Wearing a light blue Manchester City #10 jersey with 'Etihad Airways' branding, celebrating Mahrez's goal by embracing him and raising his arms in triumph.",
+          "attribute": "visual"
+        },
+        "Riyad Mahrez": {
+          "description": "Wearing a light blue Manchester City #26 jersey, scoring the goal and celebrating with teammate Jack Grealish; his name is called out by commentators who laud his 'good finish,' noting he 'strikes it so cleanly' and 'hits it with power,' calling it 'a great goal.'",
+          "attribute": "audio-visual"
+        },
+        "Pep Guardiola": {
+          "description": "Wearing a black t-shirt and black pants, animatedly reacting to the goal with a clenched fist and celebratory gestures on the sideline.",
+          "attribute": "visual"
+        },
+        "Goal Celebration Graphic": {
+          "description": "A full-screen graphic with the Emirates FA Cup logo and a progress bar, appearing after Mahrez's goal, transitioning to the player's name and goal time.",
+          "attribute": "visual"
+        },
+        "David de Gea": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen diving to his right to make a save attempt before the goal, with a graphic overlay showing 'AGE: 32 SAVES: 2'.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "This 1-minute segment captures a tense, high-stakes moment in the second half of an Emirates FA Cup match between Manchester City and Manchester United, with the score tied at 2-2, under bright stadium lights on a vibrant green pitch. The camera maintains a wide, elevated view, tracking the flow of play as both teams battle for control in the midfield, accompanied by the constant murmuring and rising anticipation of the animated crowd, split between red and blue sections. Manchester City, in light blue, and Manchester United, in red, are seen actively pressing and repositioning, with the match ball frequently heard with distinct kicks and thuds. A commentator notes a good defensive play, stating, \"Read it well.\" The tension peaks as Manchester United's Rashford, highlighted by on-screen graphics and an excited commentator's call, takes a powerful shot on goal, which the commentator describes as the keeper \"making sure that was pushed well away from danger.\" A second commentator then provides analysis, describing the game as a \"fairly open contest\" with \"chances at both ends, plenty of good attacking play, and it's been really entertaining.\" Play continues with Manchester City's Mahrez, identified by on-screen graphics and the commentator, making a \"poor attempt at a pass really.\" Manchester United's Casemiro and Bruno Fernandes are subsequently identified by both graphics and the commentator as they gain possession. The mini-map in the bottom center dynamically shows team formations, while advertising boards for 'Emirates FA Cup', 'FIFA SOUND', and 'easports.com/fc' are visible. The segment concludes with the commentator noting possession \"given away by City,\" as the electric atmosphere and crowd energy persist, both teams relentlessly seeking to break the deadlock.",
+        "The Emirates FA Cup match between Manchester City and Manchester United is tied 2-2 as the segment begins, with the crowd's murmur and the sounds of the ball in play setting the scene. Manchester City, in light blue, and Manchester United, in red, are locked in a fast-paced midfield exchange. A commentator notes \"Fred\" and questions \"what can they do from here?\" as the ball moves towards City's attacking third. The tension builds as a commentator exclaims, \"Could be a chance to break here!\" and then, \"Opportunity it is!\" At 55:57, Riyad Mahrez (#26) receives a pass near the penalty area, cuts inside, and fires a low shot. The ball flies past the diving Manchester United goalkeeper David de Gea, who is in a blue patterned jersey, and into the net. \"OH AND IT GOES! To propel them into the lead! Just what they wanted!\" shouts the commentator as the stadium erupts in a massive, sustained roar and celebratory chants. The scoreboard confirms the goal at 56:12, updating to MCI 3-2 MUN. Mahrez celebrates with teammate Jack Grealish (#10), who embraces him, while replays from multiple angles, including a close-up behind the net and slow-motion, highlight the goal. A second commentator analyzes the goal, praising \"what a good finish this is from Mahrez. He strikes it so cleanly and hits it with power. That's a great goal.\" On the sideline, Manchester City manager Pep Guardiola, in black, reacts with a clenched fist and animated celebration, mirroring the crowd's continued chants. The EA SPORTS LIVE logo remains visible. The match resumes at 57:27 with Manchester United in possession, player name graphics like Rashford (#10) and Grealish (#10) appearing, and pitch-side advertising boards displaying 'easports.com/fifa' and 'JOIN THE CLUB THIS JULY'. The mini-map dynamically updates player positions, and the electric atmosphere, fueled by the crowd's energy, is palpable as the game continues."
+      ]
+    },
+    {
+      "event_id": 10,
+      "start_minute": 17,
+      "end_minute": 17,
+      "summary": "The Emirates FA Cup match, with Manchester City leading Manchester United 3-2, intensifies from 57:27 to 58:27 amidst a roaring stadium crowd clad in red and blue. Commentators, with British accents, herald \"More goals!\" as Manchester City, featuring De Bruyne (#17), Stones (#5), Grealish (#10), and Mahrez (#26) in light blue, press forward, with De Bruyne on the ball and the team \"on the scent of something positive.\" Manchester United, in red jerseys, with Rashford (#10), Bruno Fernandes (#8), Shaw (#23), and Antony (#21) active, defend and look to counter. The commentators acknowledge \"the defending\" before identifying \"Bruno Fernandes\" with the ball. Player name graphics for De Bruyne, Fernandes, and Rashford appear, synchronized with the dynamic mini-map and the persistent on-screen scoreboard. As the clock passes 30 minutes remaining, a \"Big chance!\" arises, but \"Rashford [is] unable to hold it,\" thwarting a counter. Pitch-side advertising boards display 'Emirates FA Cup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc'. The referee, in lime green, officiates near the center circle, observing a \"good looking sequence\" of play, followed by commendation for the defense that \"took care of the situation,\" all contributing to the palpable, high-stakes atmosphere.",
+      "involved_entities": {
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 10 Rashford, 17 De Bruyne, 8 Fernandes, 23 Shaw, 21 Antony, 5 Stones, 10 Grealish, 26 Mahrez, and 25 Akanji, with team crests and numbers.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', 'easports.com/fc', and 'JOIN THE CLUB THIS JULY' branding.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible near the center circle, overseeing the play and maintaining control of the match flow.",
+          "attribute": "visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts and blue socks, actively pressing and transitioning into attack, with De Bruyne (#17), Stones (#5), Grealish (#10), and Mahrez (#26) visible in midfield and attacking positions; De Bruyne is specifically named by commentators as he handles the ball, indicating City is 'on the scent of something positive'.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts, defending and repositioning, with Rashford (#10), Bruno Fernandes (#8), Shaw (#23), and Antony (#21) visible in midfield and defensive roles; Bruno Fernandes and Rashford are named by commentators, with Rashford specifically noted as 'unable to hold it' during a potential counter-attack.",
+          "attribute": "audio-visual"
+        },
+        "Mini-Map": {
+          "description": "A small tactical overlay in the bottom center of the screen showing player positions and team formations during gameplay, updating dynamically with player movements.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', seen in play during midfield exchanges and transitions.",
+          "attribute": "visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', 'MCI 3-2 MUN', with match time progressing from 57:27 to 65:26, consistently visible in the top left corner.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in red and blue, reacting with visible movement and energy; their constant roar and cheers form a significant part of the match's intense auditory atmosphere, especially at the segment's start with an exclamatory 'More goals!' from a commentator.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The Emirates FA Cup match between Manchester City (MCI 3-2 MUN) unfolds dynamically from 57:27 to 58:27, with the stadium packed and animated fans in red and blue roaring as the segment begins with a commentator exclaiming \"More goals!\". Manchester City, in light blue jerseys, maintain possession and press forward in the midfield and attacking third, with players like De Bruyne (#17), Stones (#5), Grealish (#10), and Mahrez (#26) visible. Commentators, speaking with British accents, identify \"De Bruyne\" as he's on the ball, noting City is \"on the scent of something positive.\" Manchester United, in red jerseys, defend and counter, with Rashford (#10), Bruno Fernandes (#8), Shaw (#23), and Antony (#21) frequently involved. The commentators praise \"the defending\" before identifying \"Bruno Fernandes\" as he handles the ball. The on-screen scoreboard consistently displays the score and time, while player name graphics appear at the bottom corners for active players like De Bruyne, Fernandes, and Rashford. The mini-map in the bottom center dynamically updates player positions, reflecting evolving formations. As the clock ticks past 30 minutes remaining, a \"Big chance!\" is announced by the commentator, but \"Rashford [is] unable to hold it,\" preventing a potential counter-attacking opportunity. Pitch-side advertising boards display 'Emirates FA Cup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding. The referee, in a lime green jersey, oversees the intense flow near the center circle, with the crowd's energy palpable throughout. A \"good looking sequence\" of play is observed, followed by praise for how the defense \"took care of the situation,\" maintaining the high-stakes atmosphere as both teams vie for control."
+      ]
+    },
+    {
+      "event_id": 11,
+      "start_minute": 18,
+      "end_minute": 20,
+      "summary": "The match is tied 3-3 at the 66:05 mark as Wout Weghorst (#27) scores the equalizer for Manchester United with a low shot past the diving Manchester City goalkeeper, who wears an orange jersey with 'Etihad Airways' branding, prompting a massive roar from the crowd and a commentator's observation that it could be a huge turning point. Replays show De Bruyne (#17) and Stones (#5) near the goal line. As play restarts with the referee in a lime green jersey overseeing the center circle, the commentator notes it's level again, with on-screen graphics displaying the updated score and Weghorst's goal time. The atmosphere remains electric with continuous chanting and cheering from the predominantly blue Wembley Stadium crowd. Later, around 72:36, Manchester City makes a substitution, with Bernardo Silva (#20) entering for Gündoğan. As the clock passes 81:37, Manchester United's Weghorst (#27) and Rashford (#20) press forward, leading to a shot and a crucial save by the Manchester City goalkeeper. De Bruyne (#17) and Silva (#20) orchestrate for City, while Dalot (#20) and Shaw (#23) track back for United, with the Mini-Map dynamically updating player formations. Inside the final 15 minutes, an intelligent threaded pass builds anticipation, and the referee, in a lime green jersey, uses excellent advantage play in City's favor. Antony (#21) pushes forward on the right flank under intense pressure from Akanji (#25), with the commentator noting the counter looks on as both teams vie for control amidst 'Emirates FA Cup' and 'EA Sports Live' branding.",
+      "involved_entities": {
+        "EA Sports Live": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+          "attribute": "visual"
+        },
+        "Manchester City Goalkeeper": {
+          "description": "Wearing an orange goalkeeper jersey with 'Etihad Airways' branding and visible tattoos on his arms, identified by the commentator as Ederson, who makes a crucial save described as 'easy' and keeping his team 'on level terms'.",
+          "attribute": "audio-visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 27 Weghorst, 20 Rashford, 21 Antony, 23 Shaw, 17 De Bruyne, 5 Stones, 20 Silva, 6 Aké, 31 Ederson, 25 Akanji, and 8 Fernandes. The commentator specifically calls out 'Antony' during a play.",
+          "attribute": "audio-visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible near the center circle, overseeing the play. The commentator highlights an 'excellent use of advantage from the referee in City's favor,' indicating a decision that benefited Manchester City.",
+          "attribute": "audio-visual"
+        },
+        "Wout Weghorst": {
+          "description": "Wearing a red Manchester United #27 jersey with 'TeamViewer' branding, scoring the equalizing goal and celebrating with a raised arm and leap, then being congratulated by teammate Antony; his name is explicitly called out by the commentator during the goal sequence.",
+          "attribute": "audio-visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts and blue socks, actively defending and repositioning, with De Bruyne (#17), Stones (#5), Silva (#20), Aké (#6), Ederson (#31), and Akanji (#25) visible. The commentator praises 'top-notch goalkeeping,' likely referring to Ederson, after a shot is parried, and notes a referee's advantage given 'in City's favor'.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts, repositioning and pressing forward, with Weghorst (#27), Rashford (#10), Antony (#21), Shaw (#23), Dalot (#20), and Fernandes (#8) visible. The commentator identifies #21 as 'Antony' during a forward push and describes initial attacking actions like 'He takes aim' and 'Gives it a go!'",
+          "attribute": "audio-visual"
+        },
+        "Mini-Map": {
+          "description": "A small tactical overlay in the bottom center of the screen showing player positions and team formations during gameplay, updating dynamically with player movements.",
+          "attribute": "visual"
+        },
+        "Wembley Stadium": {
+          "description": "A massive, modern stadium filled with fans in red and blue, with large digital screens displaying the updated score and FA Cup branding, visible during wide shots.",
+          "attribute": "visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', 'MCI 3-3 MUN', with match time progressing from 73:29 to 81:37, consistently visible in the top left corner. The commentator verbally confirms the urgency by stating, 'Now we're inside the final 15 minutes'.",
+          "attribute": "audio-visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in blue and red, reacting with visible movement and energy, and audibly contributing to the electric atmosphere with cheers, roars, and general match excitement.",
+          "attribute": "audio-visual"
+        },
+        "Fourth Official": {
+          "description": "Holding a red digital substitution board displaying '8 20', signaling the substitution of Gündoğan for Silva, wearing a black tracksuit with a headset.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', seen in play during midfield exchanges and transitions, accompanied by audible sounds of kicks and passes.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with Manchester United in possession, advancing into the Manchester City half, as the commentator notes the play is \"from United.\" The ball is worked into the penalty area, and the commentator exclaims \"Fred... This could be the equalizer!\" before confirming, \"And it is the equalizer!\" as Wout Weghorst (#27) receives a pass and fires a low shot past the diving Manchester City goalkeeper, who wears an orange jersey with 'Etihad Airways' branding. The crowd erupts in a massive roar, and the commentator declares, \"Well now, that could be a huge turning point in this game. They carry the momentum.\" The scoreboard updates to 3-3 at 66:05. Weghorst celebrates with a raised arm and a leap, then is congratulated by teammate Antony (#21) with a pat on the back. Wide shots show the packed Wembley Stadium, predominantly in blue, with digital screens displaying the updated score, while the commentator analyzes the goal, stating, \"Well, he wasn't going to waste this chance. 1-v-1 against the keeper, and he's slotted it away with great confidence. That's a good finish.\" A replay from behind the goal shows the precise moment the ball crosses the line, with De Bruyne (#17) and Stones (#5) in close proximity. The scene transitions to a wide view of the pitch as teams reset for the restart, the referee in a lime green jersey overseeing the center circle, and the commentator adds, \"And it's level again here.\" On-screen graphics display the updated score and Weghorst's goal time (67'), with a mini-map showing player positions. The match continues with midfield exchanges involving players like Shaw (#23) and Mahrez (#26), the atmosphere remaining electric as the commentator observes, \"Both sets of fans being put through something of an emotional mangle.\" Pitch-side advertising boards show '#EmiratesFACup' and 'FIFA SOUND', with the EA SPORTS LIVE logo consistently visible.",
+        "The tense Emirates FA Cup match between Manchester City and Manchester United, tied at 3-3, unfolds with Manchester United pressing forward in City's defensive third. The stadium is electric, with a predominantly blue crowd reacting to every play, their continuous chanting and cheering filling the air. Commentary highlights a 'determined defending' effort after a mention of 'Haaland,' followed by 'Advantage Manchester United' as they push. A dangerous moment sees the commentator exclaim, 'He must finish!', but the Manchester City goalkeeper, identified as Ederson, makes a crucial save, with the commentator noting he 'made it look easy' and 'kept his team on level terms.' Manchester United players like Weghorst and Dalot are active in possession, with their names called out by the commentator. A 'tremendous interception' by Gündoğan is praised, as United 'can't believe they're not leading.' As the clock approaches 72:36, a substitution is signaled by the fourth official holding a red digital board, and the commentator announces Manchester City will 'go to their bench.' The stadium announcer confirms the change: 'Number 20, Bernardo Silva,' as Gündoğan exits and Silva enters, shaking hands. The match resumes with United maintaining pressure, all under bright stadium lights, with dynamic on-screen graphics and pitch-side advertising for '#EmiratesFACup' and 'easports.com/fc' visible, while the EA SPORTS LIVE overlay remains in the top right.",
+        "The tense Emirates FA Cup match between Manchester City and Manchester United, tied 3-3, unfolds past the 73-minute mark, with the on-screen scoreboard confirming the score and time progressing to 81:37. From a high-angle, wide perspective, the full pitch is visible, showcasing Manchester City in light blue and Manchester United in red. The crowd, a vibrant mix of blue and red, is audibly animated, reacting with cheers and roars to the high-stakes play. The action begins with Manchester United in possession, as #27 Weghorst and #20 Rashford press forward. A commentator notes, \"He takes aim,\" followed by a powerful shot and a \"very good parry,\" highlighting a crucial save. The ball transitions through midfield, accompanied by the sounds of kicks and passes, with #17 De Bruyne and #20 Silva orchestrating for City, while #20 Dalot and #23 Shaw track back for United. The Mini-Map dynamically updates player formations. As the clock ticks past the 15-minute mark, a commentator announces, \"Now we're inside the final 15 minutes,\" emphasizing the urgency. An \"intelligent threaded pass\" is observed, building anticipation. The referee, in a lime green jersey, is seen near the center circle, with the commentator noting an \"excellent use of advantage from the referee in City's favor.\" Another shot is attempted, with the commentator exclaiming, \"Gives it a go!\" followed by praise for \"top-notch goalkeeping.\" Manchester United’s #21 Antony, whose name is called out by the commentator, pushes forward on the right flank, tracked by Manchester City’s #25 Akanji, under \"intense pressure.\" The atmosphere remains electric, with the commentator observing, \"the counter looks on here, options available,\" as both teams vie for control in this crucial, high-pressure phase of the match, reinforced by the 'Emirates FA Cup' and 'EA Sports Live' branding on display."
+      ]
+    },
+    {
+      "event_id": 12,
+      "start_minute": 21,
+      "end_minute": 21,
+      "summary": "With the Emirates FA Cup match tied 3-3 at 81:37, the commentator questioned Manchester United's 'guile to open up the defense' as they launched a sustained attack from the left flank, 'holding onto the ball, waiting for the cavalry to arrive.' Fred was involved as the ball was worked into the box, leading to Marcus Rashford (#10) taking a shot, with the commentator exclaiming, 'And now Rashford, can they forge ahead!' The shot beat the diving Manchester City goalkeeper, finding the back of the net, prompting an ecstatic 'Oh yes! The goal that might well be decisive! The goal that could get them the trophy!' The scoreboard updated to 3-4 in favor of Manchester United at 82:46, and the stadium crowd erupted with loud cheers and roars. Rashford celebrated with clenched fists and raised arms, joined by teammates Wout Weghorst (#27) and Casemiro (#18) for a jubilant embrace. A graphic overlay confirmed the goal: '10 Marcus RASHFORD GOAL 83'. The commentator analyzed the replay, stating, 'Well as the replay shows, this is all about his ability to find space in the box, which then makes the finish look so much easier. That's good play from him.' The scene transitioned to a wide view of the pitch as teams repositioned, with the scoreboard displaying 'MANCHESTER CITY 3-4 MANCHESTER UTD' and 'RASHFORD 83' beneath, maintaining an electric atmosphere under the EA SPORTS LIVE broadcast overlay.",
+      "involved_entities": {
+        "Manchester City Goalkeeper": {
+          "description": "Wearing an orange goalkeeper jersey with 'Etihad Airways' branding, dives to his right in an attempt to save Rashford's shot but is beaten.",
+          "attribute": "visual"
+        },
+        "Fourth Official": {
+          "description": "Holding a red digital substitution board displaying '8 20', signaling the substitution of Gündoğan for Silva, wearing a black tracksuit with a headset, visible near the sideline.",
+          "attribute": "visual"
+        },
+        "Casemiro": {
+          "description": "Wearing a red Manchester United #18 jersey with 'TeamViewer' branding, joining Rashford and Weghorst in celebration, placing a hand on Rashford's back.",
+          "attribute": "visual"
+        },
+        "Wout Weghorst": {
+          "description": "Wearing a red Manchester United #27 jersey with 'TeamViewer' branding, celebrating the goal with Rashford and Casemiro, raising his arm in excitement.",
+          "attribute": "visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts, defending and reacting to the goal; the goalkeeper dives to his right but fails to stop the shot, and players show dejection with hands on heads.",
+          "attribute": "visual"
+        },
+        "Manchester United Goalkeeper": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen standing near the goal line after the goal, not directly involved in the play.",
+          "attribute": "visual"
+        },
+        "Mini-Map": {
+          "description": "A small tactical overlay in the bottom center of the screen showing player positions and team formations during gameplay, updating dynamically with player movements.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', seen being shot into the net by Rashford.",
+          "attribute": "visual"
+        },
+        "Marcus Rashford": {
+          "description": "Wearing a red Manchester United #10 jersey, scoring the goal and celebrating with clenched fists and a determined expression, raising his arms in triumph. Audibly, his name is called out by the commentator ('And now Rashford!') just before the goal, which is met with ecstatic commentary and crowd noise. The commentator later praises his 'ability to find space in the box' and 'good play.'",
+          "attribute": "audio-visual"
+        },
+        "EA Sports Live": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+          "attribute": "visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 27 Weghorst, 20 Rashford, 21 Antony, 23 Shaw, 17 De Bruyne, 5 Stones, 20 Silva, 6 Aké, 31 Ederson, 25 Akanji, and 8 Fernandes, with team crests and numbers.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding.",
+          "attribute": "visual"
+        },
+        "Bruno Fernandes": {
+          "description": "Wearing a red Manchester United #8 jersey with 'TeamViewer' branding, visible near the center circle during the restart, not directly involved in the goal sequence.",
+          "attribute": "visual"
+        },
+        "Pep Guardiola": {
+          "description": "Wearing a black t-shirt and black pants, animatedly reacting to the goal with a clenched fist and celebratory gestures on the sideline, though his reaction is likely misattributed as he is Manchester City's manager and would be disappointed.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible near the center circle, overseeing the restart after the goal.",
+          "attribute": "visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys, actively attacking and celebrating; their attack is described by the commentator, and 'Fred' is named during the build-up. Rashford (#10) scores the goal and celebrates with clenched fists and raised arms, while Weghorst (#27) and Casemiro (#18) join in the celebration.",
+          "attribute": "audio-visual"
+        },
+        "Goal Celebration Graphic": {
+          "description": "A full-screen graphic with the Emirates FA Cup logo and a progress bar, appearing after Rashford's goal, transitioning to the player's name and goal time.",
+          "attribute": "visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', 'MCI 3-3 MUN' at the start, updating to 'MCI 3-4 MUN' at 82:46, with match time progressing from 81:37 to 82:56.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in blue and red, reacting with visible movement and energy, audibly erupting with loud cheers and roars after the goal, creating an electric atmosphere.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The Emirates FA Cup match between Manchester City and Manchester United is tied 3-3 at 81:37, with the commentator questioning if Manchester United has the 'guile to open up the defense.' Manchester United, in red jerseys, launches a sustained attack from the left flank, with the commentator noting they are 'holding onto the ball, waiting for the cavalry to arrive.' Fred is mentioned by the commentator as the ball is worked into the box, leading to Rashford (#10) taking a shot. The commentator exclaims, 'And now Rashford, can they forge ahead!' The shot beats the diving Manchester City goalkeeper, finding the back of the net, prompting an ecstatic 'Oh yes! The goal that might well be decisive! The goal that could get them the trophy!' from the commentator. The scoreboard updates to 3-4 in favor of Manchester United at 82:46, and the stadium crowd erupts with loud cheers and roars. Rashford celebrates with clenched fists and raised arms, joined by teammates Weghorst (#27) and Casemiro (#18) for a jubilant embrace. A close-up shows Rashford with a determined expression, acknowledging the animated crowd. A graphic overlay confirms the goal: '10 Marcus RASHFORD GOAL 83'. The commentator provides a replay analysis, stating, 'Well as the replay shows, this is all about his ability to find space in the box, which then makes the finish look so much easier. That's good play from him.' The scene transitions to a wide view of the pitch as teams reposition, with the scoreboard now displaying 'MANCHESTER CITY 3-4 MANCHESTER UTD' and 'RASHFORD 83' beneath, maintaining an electric atmosphere under the EA SPORTS LIVE broadcast overlay."
+      ]
+    },
+    {
+      "event_id": 13,
+      "start_minute": 22,
+      "end_minute": 23,
+      "summary": "A whistle signals a dramatic turn in the simulated Emirates FA Cup match at Wembley Stadium, with commentators exclaiming, \"Goal for Manchester United!\" as Rashford (#10) scores in the 83rd minute, making the score 3-4, followed by his triumphant celebration amidst intense crowd cheering. However, Manchester City quickly counters; with five minutes left, Bernardo Silva (#20) dribbles past defenders and scores, equalizing the match at 4-4, celebrating exuberantly with teammates like Jack Grealish (#10) as the stadium's large digital screen displays the updated score amidst a massive, animated crowd. Commentators analyze Silva's \"great goal,\" noting how he \"glides past the defender\" and struck the ball with \"such venom.\" Another whistle signals the restart, with the scoreboard showing 85:40, and the match resumes with Manchester United's Weghorst (#27) and Rashford (#10) pressing forward against Manchester City's Haaland (#9) and Silva (#20), all under the EA Sports Live broadcast overlay and pitch-side advertising. Commentators emphasize the tension, stating, \"Who's going to claim the trophy? It's an open question here,\" and \"you don't get too many scorelines like this one. 4-4. Silva!\" The segment continues with the intense roar of the stadium crowd as the match is locked at 4-4 past 87 minutes. A commentator announces, \"And the free kick awarded to Manchester United,\" as red-jerseyed Manchester United players, including Rashford (#10) and Fred (#17), push forward, culminating in a shot met with \"fine goalkeeping to push that away!\" by the Manchester City goalkeeper. As the match enters three minutes of stoppage time, the action shifts to Manchester City's attack, with commentators asking, \"Can they come up with a winner?\" Player graphics highlight Dalot (#20) and Grealish (#10) during this tense period. Another attempt on goal is noted, with the goalkeeper praised for potentially securing a draw. The match concludes with a final whistle and a 4-4 draw, transitioning to a full-screen Emirates FA Cup logo graphic, as the crowd's roar reaches a crescendo.",
+      "involved_entities": {
+        "Casemiro": {
+          "description": "Wearing a red Manchester United #18 jersey with 'TeamViewer' branding, joining Rashford and Weghorst in celebration, placing a hand on Rashford's back.",
+          "attribute": "visual"
+        },
+        "Wout Weghorst": {
+          "description": "Wearing a red Manchester United #27 jersey with 'TeamViewer' branding, celebrating the goal with Rashford and Casemiro, raising his arm in excitement.",
+          "attribute": "visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts, actively defending and counter-pressing; players like Aké (#6) and Grealish (#10) are visible, with Grealish highlighted in the player graphic during stoppage time. Rodri and Mahrez (#26) are explicitly named by the commentator during Manchester City's late attack.",
+          "attribute": "audio-visual"
+        },
+        "Jack Grealish": {
+          "description": "Wearing a light blue Manchester City #10 jersey with 'Etihad Airways' branding, celebrating Silva's goal by embracing him and raising his arms in triumph.",
+          "attribute": "visual"
+        },
+        "Bernardo Silva": {
+          "description": "Wearing a light blue Manchester City #20 jersey with 'Etihad Airways' branding, scores the equalizing goal and celebrates by pointing skyward and being embraced by teammates. Audio commentary confirms \"Goal for Manchester City!\" and identifies him by name (\"Silva!\"), with analysis praising his \"great goal\" and how he \"glides past the defender\" with a shot \"struck with such venom.\"",
+          "attribute": "audio-visual"
+        },
+        "Mini-Map": {
+          "description": "A small tactical overlay in the bottom center of the screen showing player positions and team formations during gameplay, updating dynamically with player movements.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', seen being shot toward goal and saved by the goalkeeper.",
+          "attribute": "visual"
+        },
+        "Rashford": {
+          "description": "Wearing a red Manchester United #10 jersey with 'TeamViewer' branding, scores the goal and celebrates with clenched fists and a determined expression, raising his arms in triumph. Audio commentary confirms \"Goal for Manchester United!\" and describes his goal as a \"dramatic moment\" that \"might well be the decider.\"",
+          "attribute": "audio-visual"
+        },
+        "Wembley Stadium": {
+          "description": "A massive, modern stadium filled with fans in red and blue, with large digital screens displaying the updated score and FA Cup branding, visible during wide shots. The stadium's atmosphere is audibly electric, filled with intense crowd roars and cheers during the goals and celebrations.",
+          "attribute": "audio-visual"
+        },
+        "EA Sports Live": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+          "attribute": "visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 10 Rashford, 17 Fred, 20 Dalot, 19 Varane, 26 Mahrez, 6 Aké, and 10 Grealish, with team crests and numbers, often coinciding with commentator mentions.",
+          "attribute": "audio-visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible near the center circle, overseeing the final moments of the match.",
+          "attribute": "visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts, involved in the final attack; Rashford (#10) and Fred (#17) are explicitly named by the commentator as they push forward. Dalot (#20) and Varane (#19) are highlighted in the player graphics.",
+          "attribute": "audio-visual"
+        },
+        "Erling Haaland": {
+          "description": "Not directly visible, but referenced in the on-screen graphics as a goal scorer for Manchester City, with his name appearing in the player graphics as #9.",
+          "attribute": "visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', updating from 'MCI 4-4 MUN' with time progressing from 87:27 to 90:00 +3:00, indicating the match's final moments, with the score remaining a 4-4 draw.",
+          "attribute": "audio-visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in blue and red, reacting with visible movement and energy, audibly providing intense roars, sustained cheers, and building tension throughout the segment, culminating in a loud reaction to the final whistle.",
+          "attribute": "audio-visual"
+        },
+        "Manchester City Goalkeeper": {
+          "description": "Wearing an orange goalkeeper jersey with 'Etihad Airways' branding, he makes crucial saves in the final moments, praised by the commentator for \"fine goalkeeping\" and \"keeping things even,\" with a second commentator noting he \"might just have got his team a draw here.\"",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Logo": {
+          "description": "A full-screen graphic with the Emirates FA Cup logo and a progress bar, appearing after the match ends, signaling the conclusion of the game.",
+          "attribute": "visual"
+        },
+        "EA SPORTS LIVE": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with a whistle, signaling a dramatic turn in the simulated Emirates FA Cup match between Manchester City and Manchester United. Commentators exclaim, \"Goal for Manchester United!\" as Rashford (#10), in his red jersey, scores in the 83rd minute, making the score 3-4. He celebrates triumphantly, raising his arms, while the on-screen scoreboard updates. The commentator notes this \"dramatic moment near the end\" \"might well be the decider,\" as intense crowd cheering erupts. However, the excitement is short-lived for United. Manchester City, in light blue, quickly counters. With five minutes left, the commentator anticipates \"late excitement,\" and then shouts, \"OH! A goal to level it up in the closing stages!\" as Bernardo Silva (#20) dribbles past defenders and scores, equalizing the match at 4-4. Silva celebrates exuberantly, pointing skyward and being embraced by teammates, including Jack Grealish (#10). The stadium's large digital screen displays the updated 4-4 score amidst a massive, animated crowd, predominantly in red and blue, whose intense roars fill Wembley Stadium. A commentator later analyzes Silva's \"great goal,\" noting how he \"glides past the defender\" and struck the ball with \"such venom.\" Another whistle signals the restart, with the scoreboard showing 85:40. The match resumes with Manchester United's Weghorst (#27) and Rashford (#10) in possession, while Manchester City's Haaland (#9) and Silva (#20) press forward, all under the EA Sports Live broadcast overlay and pitch-side advertising for 'FIFA.GG' and 'easports.com/fc'. The commentators emphasize the tension, stating, \"Who's going to claim the trophy? It's an open question here,\" and \"you don't get too many scorelines like this one. 4-4. Silva!\" as both teams vie for control in the charged final minutes.",
+        "The segment opens with the intense roar of a stadium crowd, setting a high-stakes atmosphere as the Emirates FA Cup match between Manchester City and Manchester United is locked at 4-4, with the clock ticking past 87 minutes. A commentator announces, \"And the free kick awarded to Manchester United,\" as the red-jerseyed Manchester United players, including Rashford (#10) and Fred (#17), maintain possession in midfield, pushing for a decisive goal. The commentator calls out \"Rashford!\" and \"Here's Fred!\" as they drive forward. The ball moves towards Manchester City's goal, culminating in a shot that is met with \"fine goalkeeping to push that away!\" by the Manchester City goalkeeper in his orange jersey, a save that elicits a sustained roar from the crowd. As the match enters three minutes of stoppage time, announced by the commentator, the action shifts, with Manchester City, in light blue, now on the attack. The commentator asks, \"Can they come up with a winner?\" Player graphics highlight Dalot (#20) and Grealish (#10) during this tense period. The commentator then calls out \"Rodri!\" and \"Mahrez!\" as Manchester City presses, leading to another attempt on goal. The commentator notes the goalkeeper is \"calling upon the goalkeeper to keep things even,\" followed by a second commentator remarking, \"He might just have got his team a draw here.\" The crowd's energy is palpable, a sea of red and blue reacting to every play. The mini-map in the bottom center dynamically tracks player positions, while pitch-side advertising boards display 'FIFA SOUND' and '#EmiratesFACup'. The EA SPORTS LIVE overlay remains in the top right. The match concludes with a final whistle and a 4-4 draw, transitioning to a full-screen Emirates FA Cup logo graphic, as the crowd's roar reaches a crescendo."
+      ]
+    },
+    {
+      "event_id": 14,
+      "start_minute": 24,
+      "end_minute": 25,
+      "summary": "In the dying moments of a simulated Emirates FA Cup final, Manchester City and Manchester United are deadlocked at 4-4 as the match enters stoppage time, with the clock advancing from 91:35 to 98:57. From a high-angle view, Manchester United, in red, launches a final attack, with Rashford (#10) and Dalot (#20) highlighted. Amidst general stadium ambiance and crowd noise, a commentator notes, \"So the corner played into the box. Well, it has come to nothing.\" The ball is worked into the Manchester City penalty area, and as crowd noise builds, a shot is taken. The commentator exclaims, \"Well, the fans really want him to shoot, and the keeper's hand does the trick,\" as the Manchester City goalkeeper, in an orange jersey, dives to his right for a crucial save, followed by a brief scramble before the ball is cleared. A referee's whistle signals the end of regular time, with the on-screen scoreboard showing 'MCI 4-4 MUN'. The commentator confirms, \"That is that after 90 minutes. They are level, and extra time is coming up.\" Players regroup amidst stadium ambiance and a faint game transition jingle, with on-screen graphics displaying player names like Haaland (#9) for City and Fernandes (#8) for United. Substitutions are announced by a stadium announcer: Phillips replacing De Bruyne for Manchester City, and Sabitzer replacing Weghorst for Manchester United. The segment transitions with upbeat electronic music, and the commentator sets the stage for extra time: \"So back in business here, the first period of extra time, and it might well come down to mental fortitude, who wants this more.\" A full-screen graphic shows the final score and goal scorers, followed by detailed match statistics. The EA SPORTS LIVE logo, along with pitch-side advertising for 'Emirates FA Cup' and 'easports.com/fifa', are visible. The action then resumes with Manchester City, in light blue, in possession, passing around midfield with distinct sounds of ball kicks and murmuring crowd. A commentator notes \"Not a great pass\" as players like Mahrez (#26) and Haaland (#9) attempt to build an attack, with \"Calvin Phillips\" and \"Grealish\" identified. Manchester United’s defenders, including Martínez (#6) and Varane (#19), press to regain control, with \"Casemiro\" and \"Lisandro Martinez\" praised for their defensive reads. At 95:20, City’s Aké (#6) is near the goal, and the ball is cleared, with the commentator observing \"They couldn't do anything with that particular cross.\" The match continues with intense pressure near the center circle, overseen by the referee in a bright lime green jersey. On-screen elements like the dynamic mini-map, 'FIFA SOUND' and 'easports.com/fc' advertising boards, and the EA SPORTS LIVE logo remain visible throughout the battle for control in the dying seconds, with the crowd's roar reflecting the high stakes.",
+      "involved_entities": {
+        "Manchester City Goalkeeper": {
+          "description": "Wearing an orange goalkeeper jersey with 'Etihad Airways' branding, dives to his right to save a shot in the final moments, showcasing athletic effort, with the commentator noting 'the keeper's hand does the trick'.",
+          "attribute": "audio-visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts, actively passing and defending; players like Mahrez (#26), Aké (#6), Silva (#20), and Grealish (#10) are highlighted in the player graphics as they move the ball through midfield and defend against United’s advances. Commentators specifically name 'Calvin Phillips', 'Grealish', 'Manuel Akanji', 'Rodri', and 'Erling Haaland' during their play.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Goalkeeper": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen standing near the goal line after the goal, not directly involved in the play.",
+          "attribute": "visual"
+        },
+        "Mini-Map": {
+          "description": "A small tactical overlay in the bottom center of the screen showing player positions and team formations during gameplay, updating dynamically with player movements.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', being passed between players and contested in midfield, accompanied by distinct sounds of ball kicks and passes.",
+          "attribute": "audio-visual"
+        },
+        "EA Sports Live": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+          "attribute": "visual"
+        },
+        "Match Statistics Screen": {
+          "description": "A detailed on-screen graphic showing possession, shooting, passing, defending, and events, with Manchester United's 89% dribble success rate and 89% pass accuracy highlighted.",
+          "attribute": "visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 9 Haaland, 26 Mahrez, 6 Aké, 20 Silva, 10 Rashford, 8 Fernandes, 19 Varane, 6 Martínez, 3 Dias, 10 Grealish, 25 Mané, 12 Sancho, 18 Casemiro, 23 Shaw, 4 Phillips, and 17 Fred, with team crests and numbers.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible near the center circle, overseeing the final moments of the match and ensuring fair play.",
+          "attribute": "visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts, pressing and attempting to break through City’s defense; Rashford (#10), Fernandes (#8), Varane (#19), and Martínez (#6) are highlighted in the player graphics as they push forward and defend. Commentators specifically name 'Casemiro' and 'Lisandro Martinez' during their defensive actions.",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', updating from 'MCI 4-4 MUN' with time progressing from 91:35 to 98:57, indicating the match's final moments and stoppage time.",
+          "attribute": "visual"
+        },
+        "Substitution Graphics": {
+          "description": "On-screen graphics indicating substitutions: Phillips replacing De Bruyne for Manchester City, and Sabitzer replacing Weghorst for Manchester United, with player names and numbers displayed.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in blue and red, reacting with visible movement and energy, especially during the final attack and save, their murmurs and roars providing a constant backdrop to the tense match.",
+          "attribute": "audio-visual"
+        },
+        "EA SPORTS LIVE": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The segment opens with the intense final moments of a simulated Emirates FA Cup match, Manchester City and Manchester United locked at 4-4 in stoppage time. From a high-angle view, Manchester United, in red, launches a final attack with Rashford (#10) and Dalot (#20) highlighted. Amidst the general stadium ambiance and crowd noise, a commentator describes the action, stating, \"So the corner played into the box. Well, it has come to nothing.\" The ball is worked into the Manchester City penalty area, and as the crowd noise builds, a shot is taken. The commentator exclaims, \"Well, the fans really want him to shoot, and the keeper's hand does the trick,\" as the Manchester City goalkeeper, in an orange jersey, dives to his right for a crucial save, followed by a brief scramble before the ball is cleared. A referee's whistle signals the end of regular time as the match clock advances into +3 minutes of stoppage time, with the scoreboard showing 'MCI 4-4 MUN'. The commentator confirms, \"That is that after 90 minutes. They are level, and extra time is coming up.\" The camera pans across the pitch as players regroup amidst stadium ambiance and a faint game transition jingle. On-screen graphics display player names like Haaland (#9) for City and Fernandes (#8) for United, along with substitutions: Phillips replacing De Bruyne for Manchester City, and Sabitzer replacing Weghorst for Manchester United, announced by a stadium announcer. The packed stadium, filled with animated fans in red and blue, reacts to the drama. The segment transitions with upbeat electronic music, then the commentator sets the stage for the next period: \"So back in business here, the first period of extra time, and it might well come down to mental fortitude, who wants this more.\" A full-screen graphic shows the final score and goal scorers, followed by detailed match statistics highlighting possession and shots. The EA SPORTS LIVE logo remains visible, alongside pitch-side advertising for 'Emirates FA Cup' and 'easports.com/fifa', all contributing to the electric atmosphere.",
+        "The video segment captures the final, tense moments of a simulated Emirates FA Cup match, with the score tied 4-4 between Manchester City and Manchester United, as the clock ticks into deep stoppage time from 91:35 to 98:57. From a high-angle, wide perspective showing the entire pitch and the packed stadium with animated red and blue fans, the action begins with Manchester City, in light blue, in possession. The ball is passed around midfield, accompanied by the distinct sounds of ball kicks and the murmuring crowd. A commentator notes \"Not a great pass\" as players like Mahrez (#26) and Haaland (#9) are highlighted, attempting to build an attack. The commentator identifies \"Calvin Phillips\" and \"Grealish\" as the play unfolds. Manchester United’s defenders, in red, including Martínez (#6) and Varane (#19), press to regain control, with the commentator praising a \"Very clever read\" by \"Casemiro\" and later naming \"Lisandro Martinez\". The play shifts back and forth with quick transitions, punctuated by the crowd's reactions. At 95:20, City’s Aké (#6) is shown near the goal, and the ball is cleared, with the commentator observing \"They couldn't do anything with that particular cross.\" The match enters its final minutes, with Mahrez (#26) highlighted again in midfield at 97:12. The referee, in a bright lime green jersey, oversees the intense pressure near the center circle. On-screen elements like the dynamic mini-map, 'FIFA SOUND' and 'easports.com/fc' advertising boards, and the EA SPORTS LIVE logo are visible throughout. The segment ends with the match still tied, the players battling for control in the dying seconds, and the crowd's roar reflecting the high stakes, but no decisive goal scored. The commentator also names \"Manuel Akanji\" and \"Rodri\" during the intense play."
+      ]
+    },
+    {
+      "event_id": 15,
+      "start_minute": 26,
+      "end_minute": 26,
+      "summary": "In the dying moments of a tense Emirates FA Cup final at Wembley Stadium, with the score level at 4-4 and the clock nearing 99:50, Manchester United initiated a determined offensive. The commentator observed the build-up, noting its quality and highlighting Bruno Fernandes' involvement. As the ball entered the penalty area, Antony, identifiable by his red jersey with 'TeamViewer' branding and undercut hairstyle, received a pass. He then struck a shot past the diving Manchester City goalkeeper, who was unable to make a save. The commentator's exclamation, \"Oh, must be!\", preceded a tremendous and sustained roar from the Stadium Crowd. The On-Screen Scoreboard updated to 4-5 for Manchester United at the 100th minute, with the commentator confirming Antony's successful finish. Antony celebrated with raised arms before embracing teammates, including Fernandes, amidst palpable crowd elation. The commentator critiqued the defending as \"really poor\" but acknowledged Antony's simple finish. The 'EA SPORTS LIVE' overlay persisted in the top right, alongside pitch-side advertising boards displaying '#EmiratesFACup' and 'FIFA.GG'. A referee's whistle initiated play, and the Mini-Map indicated tactical shifts as Manchester City sought an equalizer under the stadium lights, maintaining an electric atmosphere.",
+      "involved_entities": {
+        "Manchester City Goalkeeper": {
+          "description": "Wearing an orange goalkeeper jersey with 'Etihad Airways' branding, dives to his right in an attempt to save Antony's shot but fails, remaining on the ground after the goal.",
+          "attribute": "visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts, defending and attempting to counter; players like Rodri (#16) and Mahrez (#26) are visible during the restart, showing frustration after the goal.",
+          "attribute": "visual"
+        },
+        "Manchester United Goalkeeper": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen standing near the goal line after the goal, not directly involved in the play.",
+          "attribute": "visual"
+        },
+        "Mini-Map": {
+          "description": "A small tactical overlay in the bottom center of the screen showing player positions and team formations during gameplay, updating dynamically with player movements.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', is struck by Antony and flies into the net.",
+          "attribute": "visual"
+        },
+        "Antony": {
+          "description": "Wearing a red Manchester United #21 jersey with 'TeamViewer' branding, scores the winning goal in the 100th minute, celebrating with raised arms and teammates, displaying a distinctive undercut hairstyle and visible neck tattoo; his goal is described by the commentator as a 'simple finish'.",
+          "attribute": "audio-visual"
+        },
+        "Wembley Stadium": {
+          "description": "A massive, modern stadium filled with fans in red and blue, with large digital screens displaying the updated score and FA Cup branding, visible during wide shots.",
+          "attribute": "visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 8 Fernandes, 5 Stones, 21 Antony, and 16 Rodri, with team crests and numbers.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible near the center circle, overseeing the restart and ensuring fair play, whose whistle signals the restart.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts and 'TeamViewer' branding, actively pressing and scoring the winning goal; Antony (#21) scores in the 100th minute, celebrating with raised arms and teammates, while Fernandes (#8) is seen near the center circle during the restart and is called out by the commentator as 'Bruno Fernandes'.",
+          "attribute": "audio-visual"
+        },
+        "EA SPORTS LIVE": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+          "attribute": "visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', updating from 'MCI 4-4 MUN' to 'MCI 4-5 MUN' with time progressing from 99:47 to 100:16, indicating the match's final moments and stoppage time.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in blue and red, reacting with visible movement and energy, especially during the final attack and save, erupting in a massive, sustained roar and cheers as the goal is scored.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The dramatic final moments of a high-stakes Emirates FA Cup match unfold at Wembley Stadium, with the score tied 4-4 and the clock approaching 99:50. Manchester United, in red, launch a desperate attack, with the commentator noting, \"More than decent this from United.\" Bruno Fernandes (#8) is visually involved in the build-up, and the commentator calls out his name, \"Bruno Fernandes.\" The ball is worked into the box, and the commentator asks, \"Can they notch in front?\" Antony (#21), wearing a red jersey with 'TeamViewer' branding and a distinctive undercut, receives a pass and fires a shot past the Manchester City goalkeeper, who dives to his right in a futile attempt to save. The commentator exclaims, \"Oh, must be!\" as the ball finds the net, immediately followed by a massive, sustained crowd roar and cheers erupting from the packed stadium. The scoreboard updates to 4-5 in favor of Manchester United at the 100th minute, and the commentator confirms, \"He had to score, and he does!\" Antony raises his arms in triumph, then turns to embrace teammates, including Fernandes, as the crowd's elation is palpable. The commentator analyzes the goal, stating, \"Well, as you can see, the defending is really poor, but he won't mind, it's a simple finish for him.\" The broadcast overlay 'EA SPORTS LIVE' remains in the top right, while pitch-side advertising boards display '#EmiratesFACup' and 'FIFA.GG'. A referee's whistle signals the restart, and the Mini-Map in the bottom center shows tactical repositioning as Manchester City attempts to respond under the stadium lights, with the atmosphere remaining electric."
+      ]
+    },
+    {
+      "event_id": 16,
+      "start_minute": 27,
+      "end_minute": 28,
+      "summary": "{\n  \"updated_summary\": \"In the simulated Emirates FA Cup final at Wembley Stadium, with Manchester City trailing Manchester United 4-5 deep into stoppage time past 101 minutes, commentators noted the rarity of such a high-scoring game. Manchester City's 26 Mahrez and 20 Silva attempted to build an attack, but Manchester United's 8 Fernandes and 6 Fred executed a strong interception. Manchester City's 9 Haaland received the ball near the penalty area and took a shot, which was saved by Manchester United's goalkeeper, David de Gea. As the match entered its final minute of stoppage time, a substitution occurred: 39 McTominay replaced 8 Bruno Fernandes for Manchester United. The game resumed with Manchester City's 10 Grealish and 26 Mahrez trying to create chances against Manchester United's defense, while the animated Stadium Crowd roared. Grealish attempted a shot from the edge of the box, but it was cleared. The match then saw a dramatic turn as Manchester City, despite a shot saved by the Manchester United goalkeeper, scored from the rebound following a poor clearance, leveling the score at 5-5 at 105:00 minutes, with the first period of extra time concluding shortly after.\"\nconcluding shortly after.\"\ncluding shortly after.\"\n}",
+      "involved_entities": {
+        "Fourth Official": {
+          "description": "Holding a red digital substitution board displaying '8 39', signaling the substitution of Fernandes for McTominay, wearing a black tracksuit with a headset, visible near the sideline.",
+          "attribute": "visual"
+        },
+        "Manchester City Goalkeeper": {
+          "description": "Wearing an orange goalkeeper jersey with 'Etihad Airways' branding, dives to his right in an attempt to save Antony's shot but fails, remaining on the ground after the goal.",
+          "attribute": "visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue, they score a crucial equalizer, prompting excited commentary ('And that's what they needed! Manchester City, a goal to level matters here!') and a massive crowd roar.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Goalkeeper": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen standing near the goal line after the goal, not directly involved in the play.",
+          "attribute": "visual"
+        },
+        "Mini-Map": {
+          "description": "A small tactical overlay in the bottom center of the screen showing player positions and team formations during gameplay, updating dynamically with player movements.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball, struck and saved, ultimately ends up 'in the back of the net,' as described by the commentator.",
+          "attribute": "audio-visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 8 Fernandes, 6 Fred, 20 Silva, 26 Mahrez, 9 Haaland, 10 Grealish, 19 Varane, and 20 Dalot, with team crests and numbers.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', and 'easports.com/fc' branding.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey, his whistle signals the end of the first period of extra time.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red, their defense is criticized by commentators for a 'poor clearance' that leads to Manchester City's equalizer, despite their goalkeeper's save attempt.",
+          "attribute": "audio-visual"
+        },
+        "EA SPORTS LIVE": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+          "attribute": "visual"
+        },
+        "McTominay": {
+          "description": "Wearing a red Manchester United #39 jersey with 'TeamViewer' branding and black socks with red stripes, enters the pitch as a substitute for Fernandes, showing a focused expression as he prepares to play.",
+          "attribute": "visual"
+        },
+        "David de Gea": {
+          "description": "In a blue patterned goalkeeper jersey, he makes a save attempt, but the subsequent 'poor clearance' by his defense leads to the goal, as analyzed by the commentator.",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Visually displaying 'EMIRATES FA CUP' and updating to 'MCI 5-5 MUN' at 105:00, a score confirmed by the commentator stating the teams are 'still level here.'",
+          "attribute": "audio-visual"
+        },
+        "Substitution Graphics": {
+          "description": "On-screen graphics indicating the substitution: 39 McTominay replacing 8 Fernandes for Manchester United, with player names and numbers displayed.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, whose loud roars, chants, and general noise are a dominant feature of the audio, reacting intensely to the goal and the match's tension.",
+          "attribute": "audio-visual"
+        },
+        "Jack Grealish": {
+          "description": "Wearing a light blue Manchester City #10 jersey, his shot is the direct action leading to Manchester City's equalizer, a moment met with a huge crowd roar and commentator excitement.",
+          "attribute": "audio-visual"
+        },
+        "Wembley Stadium": {
+          "description": "A massive, modern stadium filled with fans, where the match's dramatic conclusion unfolds, characterized by the loud roars and chants of the animated crowd, and featuring a stadium announcer confirming the goal.",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Logo": {
+          "description": "A full-screen graphic with the Emirates FA Cup logo and a progress bar, appearing after the match ends, signaling the conclusion of the game.",
+          "attribute": "visual"
+        },
+        "Corner Flag": {
+          "description": "A white pole with a bright yellow flag, positioned at the corner of the pitch, near which Bruno Fernandes prepares to take the corner kick.",
+          "attribute": "visual"
+        },
+        "EA Sports Live": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+          "attribute": "visual"
+        },
+        "Bruno Fernandes": {
+          "description": "Wearing a red Manchester United #8 jersey with 'TeamViewer' branding, visible near the center circle during the restart, not directly involved in the goal sequence.",
+          "attribute": "visual"
+        }
+      },
+      "raw_segments": [
+        "The minute opens with the tense final moments of a simulated Emirates FA Cup match, Manchester City trailing Manchester United 4-5, deep into stoppage time past 101 minutes. A commentator sets the scene, remarking, \"I must say I'd have to go back quite a few years to remember the last time I've covered a game with a scoreline of 5-4.\" From a high-angle perspective, Manchester City in light blue and Manchester United in red fiercely contest possession, their movements tracked by a dynamic Mini-Map. Manchester City's 26 Mahrez and 20 Silva attempt to build an attack, with a commentator calling out \"Mahrez... on to Silva.\" Manchester United's 8 Fernandes and 6 Fred press high, demonstrating \"strong play\" and a \"classic example of how to intercept\" according to the commentators. The action intensifies as Manchester City's 9 Haaland receives the ball near the penalty area, prompting a commentator to exclaim \"Mahrez! Haaland!\" His shot is met with a \"decent save there!\" by Manchester United's goalkeeper, David de Gea, who dives to his right. As the match enters its final minute of stoppage time, indicated by '+1 0:22' on the On-Screen Scoreboard, a referee's whistle signals a substitution. The Fourth Official holds up a red digital board displaying '8 39', and a stadium announcer confirms, \"Substitution for Manchester United. Number 8, Bruno Fernandes.\" Fernandes, wearing a red jersey with 'TeamViewer' branding and a captain’s armband, shakes hands with 39 McTominay before exiting. McTominay, in a red #39 jersey, enters the pitch. The game resumes with Manchester City’s 10 Grealish and 26 Mahrez attempting to create chances, while Manchester United’s 19 Varane and 20 Dalot defend. The Stadium Crowd, animated in red and blue, provides a constant, rising roar, adding to the electric atmosphere, while Pitch-Side Advertising Boards display '#EmiratesFACup' and 'easports.com/fc'. The EA SPORTS LIVE overlay remains in the top right. Manchester City’s 10 Grealish attempts a shot from the edge of the box, but the ball is cleared by Manchester United’s defense, with a commentator noting \"And there's the delivery. Not all that...\" as the segment concludes.",
+        "The dramatic final moments of the Emirates FA Cup match at Wembley Stadium unfold with Manchester City pressing intensely in the Manchester United penalty area. A shot, likely from Jack Grealish, is taken, met by a loud thud, and though saved by the Manchester United goalkeeper, the rebound quickly finds the net, prompting an immediate, thunderous roar from the animated crowd. The commentator exclaims, \"And that's what they needed! Manchester City, a goal to level matters here!\" A replay from behind the goal highlights the goalkeeper's save and the chaotic scramble, with the commentator analyzing the goal as a result of a \"poor clearance\" by the defense. The scoreboard updates to a 5-5 tie at 105:00 minutes, confirming the level score as the crowd continues to chant and sing. A referee's whistle then blows, and the stadium announcer declares, \"Goal for Manchester City!\" before the commentator confirms, \"And the first period of extra time comes to an end, still level here.\" The segment concludes with a wide shot of the packed stadium, emphasizing the scale of the event, as dramatic instrumental music swells, underscoring the tension of the match's final, undecided moments."
+      ]
+    },
+    {
+      "event_id": 17,
+      "start_minute": 29,
+      "end_minute": 30,
+      "summary": "The final, tense moments of a dramatic Emirates FA Cup match between Manchester City and Manchester United unfold, with the on-screen scoreboard confirming a 5-5 tie in stoppage time. A sharp whistle signals the commencement of the second period of extra time, with a commentator exclaiming, \"What drama do we have in store for us?\" From a wide, high-angle view, Manchester City in light blue and Manchester United in red battle intensely for possession in midfield, the atmosphere electric with continuous crowd noise, cheers, and chanting. Commentators praise the \"great game\" with \"goals at both ends\" and \"good individual displays,\" making it impossible to \"take your eyes off of this.\" The match clock advances from 105:00 to 115:52, as substitutions occur: Manchester City's 19 Álvarez is replaced by 26 Mahrez, and Manchester United's 49 Garnacho by 10 Rashford. At 109:22, Manchester United's 18 Casemiro prepares to take a corner kick from the left side, the camera zooming in on his focused expression beside the yellow corner flag. A whistle sounds, and Casemiro delivers the ball into the box, but a \"Great save at this stage!\" prevents a potential winner. Later, Manchester City's 19 Álvarez is mentioned during a play where a defender is \"making sure it didn't get past him.\" As Manchester City presses forward, a counter-attack unfolds, with Manchester United's 21 Antony, displaying a distinctive undercut hairstyle and neck tattoo, taking a shot from inside the box, which is met with a \"decent save, full credit\" by the Manchester City goalkeeper in orange, who dives to his right. Antony reacts with visible frustration, throwing his hands up, while a commentator praises the keeper's control, stating \"the keeper was always in control of the situation. He knew that was going wide.\" A pensive Pep Guardiola is shown, hands clasped, reflecting the high stakes. Amidst the electric stadium atmosphere, a distinct, urgent voice is heard shouting encouragement, possibly \"Vamos!\", adding to the urgency as the clock ticks down. Pitch-side advertising boards display 'Emirates FA Cup', 'FIFA SOUND', and '@EMIRATESFACUP' branding, while the Mini-Map and EA SPORTS LIVE overlay remain visible.",
+      "involved_entities": {
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in blue and red, reacting with visible movement and energy, especially during the save and subsequent play, audibly roaring, cheering, and murmuring throughout the tense match.",
+          "attribute": "audio-visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 39 McTominay, 21 Antony, 49 Garnacho, 3 Dias, 25 Akanji, and 31 Ederson, with team crests and numbers.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', 'easports.com/fc', and 'EA SPORTS LIVE' branding.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible near the center circle, overseeing the restart and ensuring fair play.",
+          "attribute": "visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts, actively pressing and attempting to score; players like 19 Álvarez, 3 Dias, 25 Akanji, and 31 Ederson are visible, showing urgency in their movements, and are described by commentators as playing 'positive' football, seeking a 'late winner'.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts and 'TeamViewer' branding, defending and pressing; players like 39 McTominay, 21 Antony, 49 Garnacho, and 6 Martínez are visible, with Antony reacting to a missed opportunity after his shot is described as part of a 'counter-attack' and 'opportunity' by commentators.",
+          "attribute": "audio-visual"
+        },
+        "EA SPORTS LIVE": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+          "attribute": "visual"
+        },
+        "Mini-Map": {
+          "description": "A small tactical overlay in the bottom center of the screen showing player positions and team formations during gameplay, updating dynamically with player movements.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', is in play during the midfield battle and then shot by Antony.",
+          "attribute": "visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', updating from 'MCI 5-5 MUN' with time progressing from 110:32 to 115:52, indicating the match's final moments and stoppage time.",
+          "attribute": "visual"
+        },
+        "Substitution Graphics": {
+          "description": "On-screen graphics indicating the substitution: 26 Mahrez replacing 19 Álvarez for Manchester City, and 10 Rashford replacing 49 Garnacho for Manchester United, with player names and numbers displayed.",
+          "attribute": "visual"
+        },
+        "Corner Flag": {
+          "description": "A white pole with a bright yellow flag, positioned at the corner of the pitch, near which Casemiro prepares to take the corner kick.",
+          "attribute": "visual"
+        },
+        "Manchester City Goalkeeper": {
+          "description": "Wearing an orange goalkeeper jersey with 'Etihad Airways' branding, dives to his right to save Antony's shot, successfully making the save and remaining on the ground; his action is praised by commentators as 'a decent save, full credit,' with one adding that 'the keeper was always in control of the situation' and 'knew that was going wide'.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Goalkeeper": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen standing near the goal line after the save, not directly involved in the play.",
+          "attribute": "visual"
+        },
+        "Antony": {
+          "description": "Wearing a red Manchester United #21 jersey with 'TeamViewer' branding, takes a shot from inside the box, which is saved by the Manchester City goalkeeper, and reacts with frustration by throwing his hands up, displaying a distinctive undercut hairstyle and visible neck tattoo; his shot is highlighted by commentators as a significant 'opportunity'.",
+          "attribute": "audio-visual"
+        },
+        "Pep Guardiola": {
+          "description": "Wearing a black t-shirt and black pants, shown with a pensive expression, hands clasped, reflecting the high stakes of the match, standing on the sideline, amidst the audible tension of the game.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The final, tense moments of a dramatic Emirates FA Cup match between Manchester City and Manchester United unfold, with the on-screen scoreboard confirming a 5-5 tie in stoppage time. A sharp whistle signals the commencement of the second period of extra time, with a commentator immediately exclaiming, \"What drama do we have in store for us?\" From a wide, high-angle view, Manchester City in light blue and Manchester United in red battle intensely for possession in midfield. The atmosphere is electric, filled with continuous crowd noise, cheers, and chanting that builds in intensity. Commentators praise the \"great game\" with \"goals at both ends\" and \"good individual displays,\" making it impossible to \"take your eyes off of this.\" A Manchester City player, Akanji, is mentioned by name during a play. The match clock advances from 105:00 to 110:28, as substitutions occur: Manchester City's 19 Álvarez is replaced by 26 Mahrez, and Manchester United's 49 Garnacho by 10 Rashford. A commentator exclaims, \"And possibilities here!\" followed by a crucial \"Great save at this stage!\", with another adding it \"would have been the winner for sure,\" underscoring the high stakes. At 109:22, Manchester United's 18 Casemiro prepares to take a corner kick from the left side, the camera zooming in on his focused expression beside the yellow corner flag. Another whistle sounds, and a commentator confirms, \"And he's fired over the corner!\", as Casemiro delivers the ball into the box, both teams pressing desperately for a decisive goal in the match's dying seconds. Pitch-side advertising boards display 'Emirates FA Cup' and 'FIFA SOUND' branding, while the Mini-Map and EA SPORTS LIVE overlay remain visible.",
+        "The segment opens with the final, tense moments of a simulated Emirates FA Cup match between Manchester City and Manchester United, locked at 5-5 in stoppage time, as commentators describe a player clearing lines, \"making sure it didn't get past him.\" From a high, wide-angle perspective, Manchester City, in light blue, presses forward, with players like 19 Álvarez and 3 Dias visible, while Manchester United, in red, defends. The on-screen scoreboard updates from 110:32 to 115:52, emphasizing the match's climax. The animated crowd, a sea of red and blue, roars with anticipation as a commentator notes Manchester City's \"positive\" play, asking, \"Is it in the cards for them to score a late winner?\" The tension builds as a counter-attack unfolds, with the commentator exclaiming, \"Oh, what an opportunity!\" Manchester United's 21 Antony, displaying a distinctive undercut hairstyle and neck tattoo, takes a shot from inside the box, which is met with a \"decent save, full credit\" by the Manchester City goalkeeper in orange, who dives to his right. Antony reacts with visible frustration, throwing his hands up, while a second commentator praises the keeper's control, stating \"the keeper was always in control of the situation. He knew that was going wide.\" The camera then cuts to a pensive Pep Guardiola, hands clasped, reflecting the high stakes. The match continues with both teams vying for a decisive goal, the mini-map dynamically updating player positions, and pitch-side advertising boards displaying 'FIFA SOUND' and '@EMIRATESFACUP'. Amidst the electric stadium atmosphere, a distinct, urgent voice is heard shouting encouragement, possibly \"Vamos!\", adding to the urgency as the clock ticks down."
+      ]
+    },
+    {
+      "event_id": 18,
+      "start_minute": 31,
+      "end_minute": 31,
+      "summary": "In the dying moments of a simulated Emirates FA Cup final, with the score deadlocked at 5-5 past 115 minutes of extra time, Manchester City and Manchester United engage in a frantic midfield battle under stadium lights and a clear sky. The commentator notes the dwindling time, \"Time is fast running out. Five minutes left in the second period of extra time here,\" as the stadium crowd's continuous, loud chanting creates an electric atmosphere. Player name graphics highlight individuals such as Shaw (23), Akanji (25), Mahrez (26), Sabitzer (18), McTominay (39), Garnacho (49), and Phillips (4) amidst the jostling for possession, punctuated by distinct ball kicking sounds. The Mini-Map dynamically updates, reflecting shifting formations. Following a Manchester City throw-in, Bernardo Silva's attacking attempt \"fizzles out,\" observed by the referee in lime green. At 120:00, the commentator announces, \"And the electronic board delivers the news, two minutes of stoppage time,\" as Manchester United presses forward and City attempts to push on the front foot, with the commentator concluding, \"And City on the front...\" Pitch-side advertising boards display 'Emirates FA Cup' and 'EA SPORTS LIVE' branding.",
+      "involved_entities": {
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 23 Shaw, 25 Akanji, 26 Mahrez, 18 Sabitzer, 39 McTominay, 49 Garnacho, 4 Phillips, and 20 Silva, with team crests and numbers.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', 'easports.com/fc', and 'EA SPORTS LIVE' branding.",
+          "attribute": "visual"
+        },
+        "Referee": {
+          "description": "Wearing a bright lime green jersey with black shorts, visible near the center circle, overseeing the restart and ensuring fair play.",
+          "attribute": "visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts, actively pressing and attempting to score; players like 26 Mahrez, 25 Akanji, 4 Phillips, and 20 Silva are visible, showing urgency in their movements. Bernardo Silva (20) is specifically named by the commentator during an attack that ultimately fizzles out.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts and 'TeamViewer' branding, defending and pressing; players like 23 Shaw, 39 McTominay, 49 Garnacho, 18 Sabitzer, and 6 Martínez are visible, with McTominay entering as a substitute.",
+          "attribute": "visual"
+        },
+        "EA SPORTS LIVE": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+          "attribute": "visual"
+        },
+        "Mini-Map": {
+          "description": "A small tactical overlay in the bottom center of the screen showing player positions and team formations during gameplay, updating dynamically with player movements.",
+          "attribute": "visual"
+        },
+        "Match Ball": {
+          "description": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', is in play during the midfield battle, with distinct kicking sounds heard during passes and attempts.",
+          "attribute": "audio-visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'EMIRATES FA CUP', updating from 'MCI 5-5 MUN' with time progressing from 115:52 to 120:00, indicating the match's final moments and stoppage time.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in blue and red, reacting with visible movement and energy. Their loud, continuous chanting and buzzing create an electric atmosphere throughout the tense final minutes, reflecting the high stakes of the match.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The final, tense moments of a simulated Emirates FA Cup match between Manchester City and Manchester United unfold, locked at a dramatic 5-5 tie as the clock ticks past 115 minutes into extra time. A high-angle, wide view captures both teams—City in light blue, United in red—engaged in a frantic midfield battle, accompanied by the commentator's voice noting, \"Time is fast running out. Five minutes left in the second period of extra time here.\" The stadium crowd, a sea of red and blue, buzzes with continuous, loud chanting, creating an electric atmosphere. Players like Shaw (23), Akanji (25), Mahrez (26), Sabitzer (18), McTominay (39), Garnacho (49), and Phillips (4) are highlighted by on-screen graphics as they jostle for possession, with distinct ball kicking sounds punctuating the play. The Mini-Map dynamically updates, reflecting shifting formations. After a Manchester City throw-in, the commentator identifies \"Bernardo Silva\" as he attempts an attack, which \"fizzles out.\" The referee in lime green remains central, overseeing restarts. As the clock hits 120:00, the commentator announces, \"And the electronic board delivers the news, two minutes of stoppage time,\" intensifying the drama. Manchester United presses forward, while pitch-side advertising boards display 'Emirates FA Cup' and 'EA SPORTS LIVE' branding, all under the stadium lights and a clear sky, as City attempts to push on the front foot, with the commentator concluding, \"And City on the front...\""
+      ]
+    },
+    {
+      "event_id": 19,
+      "start_minute": 32,
+      "end_minute": 35,
+      "summary": "The Emirates FA Cup final concluded in a dramatic 5-5 draw after extra time, leading to a penalty shootout between Manchester City and Manchester United at Wembley Stadium. Following a tense shootout where both teams exchanged successful penalties, Manchester United goalkeeper David de Gea made a crucial save against Bernardo Silva. Antony then scored for United, followed by goals from Jack Grealish for City and Fred for United. Ederson equalized for City, but Fred scored again for United. Ultimately, Rashford scored the decisive penalty, securing a 6-5 victory for Manchester United. The stadium erupted in celebration for the jubilant United players, including Antony, Fred, Dalot, McTominay, Shaw, and Casemiro, who embraced and lifted the Emirates FA Cup Trophy under a 'WINNERS' arch amidst falling confetti and fireworks. Dejected Manchester City players were seen walking away from the pitch as commentators praised United's brilliant performance and the strong connection between the team and their fans.",
+      "involved_entities": {
+        "Penalty Kick Selection Screen": {
+          "description": "A full-screen graphic listing top penalty takers for both teams, showing Mahrez (87 OVR) and Sabitzer (81 OVR) as top choices, with player headshots and penalty/finishing ratings.",
+          "attribute": "visual"
+        },
+        "Manchester City Goalkeeper": {
+          "description": "Wearing an orange goalkeeper jersey with 'Etihad Airways' branding, standing ready in the goal during the penalty shootout, and later taking a penalty himself and scoring.",
+          "attribute": "audio-visual"
+        },
+        "Match Statistics Screen": {
+          "description": "A detailed on-screen graphic showing possession, shooting, passing, defending, and events, with Manchester United's 89% dribble success rate and 89% pass accuracy highlighted, contrasting with City's 71% shot accuracy and 90% pass accuracy.",
+          "attribute": "visual"
+        },
+        "Pitch-Side Advertising Boards": {
+          "description": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', 'easports.com/fc', and 'EA SPORTS LIVE' branding, visible during the celebration.",
+          "attribute": "visual"
+        },
+        "Manchester City Players": {
+          "description": "Dressed in light blue jerseys with white shorts, visible in the background with dejected expressions, some walking away from the pitch as the United players celebrate.",
+          "attribute": "visual"
+        },
+        "Manchester United Players": {
+          "description": "Wearing red jerseys with white shorts and 'TeamViewer' branding, celebrating their victory with high-fives, embraces, and a team huddle, then walking to the podium to lift the trophy. Commentators praise their 'brilliant' performance, stating they deserve 'full marks' and have 'taken the rough with the smooth' to win, now getting the chance to 'exhale and enjoy'.",
+          "attribute": "audio-visual"
+        },
+        "Manchester United Goalkeeper": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen celebrating on the podium, raising his arms in victory alongside the team, part of the 'brilliant' Manchester United team praised by commentators.",
+          "attribute": "audio-visual"
+        },
+        "EA SPORTS LIVE": {
+          "description": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+          "attribute": "visual"
+        },
+        "On-Screen Scoreboard": {
+          "description": "Displaying 'FULL TIME MANCHESTER CITY 5-5 MANCHESTER UTD' with goal scorers listed, including Rashford's 100th-minute goal, and the final penalty shootout result.",
+          "attribute": "visual"
+        },
+        "Stadium Crowd": {
+          "description": "A massive, animated crowd filling the stands, predominantly in red, reacting with visible movement and energy, especially during the celebration. Their 'loud crowd cheers' and visible excitement are noted by commentators who highlight their role in getting 'behind their team' and describe the connection as 'a match made in heaven' with the players.",
+          "attribute": "audio-visual"
+        },
+        "Jack Grealish": {
+          "description": "Wearing a light blue Manchester City #10 jersey with 'Etihad Airways' branding, steps up to take his penalty, as noted by a commentator, and scores, celebrating by raising his arms and embracing teammates.",
+          "attribute": "audio-visual"
+        },
+        "Bernardo Silva": {
+          "description": "Wearing a light blue Manchester City #20 jersey with 'Etihad Airways' branding, takes a penalty which is saved by the keeper, and reacts with disappointment, pointing skyward before being embraced by teammates, with a commentator describing his penalty as 'not the greatest.'",
+          "attribute": "audio-visual"
+        },
+        "Antony": {
+          "description": "Wearing a red Manchester United #21 jersey with 'TeamViewer' branding, visible celebrating with teammates, displaying a distinctive undercut hairstyle and visible neck tattoo.",
+          "attribute": "visual"
+        },
+        "Rashford": {
+          "description": "Wearing a red Manchester United #10 jersey with 'TeamViewer' branding, scores the final penalty and celebrates with clenched fists and a determined expression, raising his arms in triumph, with commentators anticipating and then confirming the victory.",
+          "attribute": "audio-visual"
+        },
+        "Fred": {
+          "description": "Wearing a red Manchester United #17 jersey with 'TeamViewer' branding, visible celebrating with teammates and walking toward the podium, showing a focused expression, part of the 'brilliant' Manchester United team praised by commentators.",
+          "attribute": "audio-visual"
+        },
+        "Player Name Graphics": {
+          "description": "Appearing at the bottom corners, identifying current players such as 20 Silva, 10 Grealish, 31 Ederson, 21 Antony, 17 Fred, and 10 Rashford, with team crests and numbers.",
+          "attribute": "visual"
+        },
+        "Ederson": {
+          "description": "Wearing an orange Manchester City goalkeeper jersey with 'Etihad Airways' branding, takes a penalty and scores, showing a determined expression and celebrating with teammates.",
+          "attribute": "visual"
+        },
+        "Full-Time Graphic": {
+          "description": "A screen displaying 'FULL TIME MANCHESTER CITY 5-5 MANCHESTER UTD' with goal scorers listed, including Rashford's 100th-minute goal, and the final penalty shootout result.",
+          "attribute": "visual"
+        },
+        "Casemiro": {
+          "description": "Wearing a red Manchester United #18 jersey with 'TeamViewer' branding, visible walking toward the podium with teammates, placing a hand on Rashford's back during celebration.",
+          "attribute": "visual"
+        },
+        "Emirates FA Cup Trophy": {
+          "description": "A large, silver, ornate trophy with red ribbons bearing the text 'Emirates Fly Better', lifted triumphantly by McTominay (#39) and held aloft by the team in celebration.",
+          "attribute": "visual"
+        },
+        "McTominay": {
+          "description": "Wearing a red Manchester United #39 jersey with 'TeamViewer' branding and black socks with red stripes, lifting the Emirates FA Cup Trophy high above his head in celebration, part of the 'brilliant' Manchester United team praised by commentators.",
+          "attribute": "audio-visual"
+        },
+        "Dalot": {
+          "description": "Wearing a red Manchester United #20 jersey with 'TeamViewer' branding, visible celebrating with teammates, raising his arm in triumph, part of the 'brilliant' Manchester United team praised by commentators.",
+          "attribute": "audio-visual"
+        },
+        "Wembley Stadium": {
+          "description": "A massive, modern stadium filled with fans in red and blue, now illuminated by fireworks and confetti, where loud crowd cheers and celebratory sounds are heard, confirming the electric atmosphere as commentators describe the scene.",
+          "attribute": "audio-visual"
+        },
+        "Emirates FA Cup Logo": {
+          "description": "A full-screen graphic with the Emirates FA Cup logo and a progress bar, appearing after the match ends, signaling the conclusion of the game.",
+          "attribute": "visual"
+        },
+        "Shaw": {
+          "description": "Wearing a red Manchester United #23 jersey with 'TeamViewer' branding, celebrating with arms raised and embracing teammates, part of the 'brilliant' Manchester United team praised by commentators.",
+          "attribute": "audio-visual"
+        },
+        "David de Gea": {
+          "description": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen celebrating on the podium, raising his arms in victory alongside the team, part of the 'brilliant' Manchester United team praised by commentators.",
+          "attribute": "audio-visual"
+        }
+      },
+      "raw_segments": [
+        "The video segment opens with a wide aerial view of the Emirates FA Cup final, showing Manchester City in light blue and Manchester United in red, locked in a dramatic 5-5 draw at 120:00 of extra time. A commentator notes the teams are \"still level here\" with \"no way through.\" A sharp whistle signals the end of extra time, and the commentator declares it a \"fantastic final\" that will end in the \"most nerve-shredding way possible with a penalty shootout.\" Close-ups reveal dejected players, including a Manchester City player looking downcast and a Manchester United player touching his face in frustration, as both teams walk towards the center circle. An on-screen graphic confirms 'FULL TIME ET' and lists all goalscorers: Haaland (4', 22'), Mahrez (57'), Silva (86'), Grealish (105') for City, and Weghorst (67'), Rashford (25', 45', 83'), Antony (100') for United. Match statistics highlight Manchester United's 89% dribble success and 89% pass accuracy against City's 71% shot accuracy and 90% pass accuracy. As tense, upbeat background music plays, the penalty shootout commences, with the commentator announcing, \"And so the penalty shootout about to commence.\" A penalty kick selection screen shows Mahrez and Sabitzer as top choices. The stadium crowd, a massive animated sea of blue and red, roars as Mahrez steps up for City. He scores, prompting the commentator to state, \"He had to score, and he does.\" Sabitzer then takes his penalty for United, with the commentator observing, \"And up he comes, doing his best to remain focused.\" He also scores, and the commentator confirms, \"Job done from the spot.\" Álvarez scores for City, followed by Casemiro for United, updating the on-screen scoreboard to 1-1. The EA SPORTS LIVE overlay remains visible, alongside 'Emirates FA Cup' and 'EA SPORTS' branding on pitch-side advertising boards, as the intense shootout continues.",
+        "The dramatic climax of the Emirates FA Cup final penalty shootout unfolds with Manchester City's Bernardo Silva (#20) taking a penalty, which a commentator notes \"wasn't the greatest\" as Manchester United goalkeeper David de Gea, praised for reacting \"magnificently,\" saves it. The on-screen scoreboard updates, reflecting the tension. Manchester United's Antony (#21) then steps up, and as a commentator exclaims \"And it's gone in!\", he scores, giving United the lead. Jack Grealish (#10) keeps City's hopes alive by scoring, followed by Fred (#17) who successfully converts his penalty, putting United ahead once more. The tension escalates as City's goalkeeper Ederson (#31) takes and scores his penalty, equalizing the shootout. Fred then scores again, and the camera cuts to ecstatic Manchester United fans in red, their cheers and whistles audible amidst the general stadium atmosphere. With the score tied 5-5 after regular time, a commentator anticipates the decisive moment, stating \"if he scores, they win.\" A Manchester United player, later identified as Rashford (#10) in the full-time graphic, takes the final penalty and scores, sealing a 6-5 victory on penalties for United. The stadium erupts in joy, with loud cheers and celebrations from the predominantly red crowd, as Rashford raises his arms triumphantly. Commentators declare, \"Oh, that's it! The final act in the drama. One team jubilant, the other distraught,\" reflecting on the \"great entertainment\" and acknowledging United's deserved win while noting City's disappointment. The EA SPORTS LIVE broadcast overlay remains visible, alongside 'Emirates FA Cup' and 'FIFA' branding on pitch-side advertising boards, as the video concludes with a full-time graphic displaying the final score and goal scorers, including Rashford's 100th-minute goal, and players embracing.",
+        "The segment opens with a close-up of a dejected Manchester City player, his head down, as the on-screen scoreboard confirms a dramatic 5-5 draw after extra time and a penalty shootout. Commentators immediately set the scene, noting that \"their football was brilliant\" and that \"the party [is] in full swing now,\" anticipating \"quite the night of celebration here\" amidst a swelling crowd noise and celebratory music. The camera then shifts to the jubilant Manchester United players in red 'TeamViewer' jerseys, celebrating their hard-fought victory. Antony (#21), Fred (#17), and Dalot (#20) are seen high-fiving and embracing, their elation palpable as the team gathers in a huddle on the pitch, surrounded by photographers and staff, with confetti beginning to fall. Commentators emphasize this as \"special for everybody at the club,\" a \"great moment for any young player,\" and \"what you dream about when you start playing football.\" The scene transitions to the winners' podium under a 'WINNERS' arch, where Manchester United players, including McTominay (#39), Casemiro (#18), and Fred (#17), walk towards the Emirates FA Cup Trophy. As commentators announce, \"And now for the trophy lift itself,\" followed by \"The cup winners!\", the captain triumphantly raises the large silver cup with red 'Emirates Fly Better' ribbons high above his head, accompanied by a loud crowd roar and a cascade of confetti. The goalkeeper, in a blue patterned jersey, joins the celebration, raising his arms in victory. Wembley Stadium is packed with an animated crowd in red and blue, their energy palpable, as the EA SPORTS LIVE broadcast overlay remains visible, capturing this \"fantastic stuff\" and what \"it means to those players and the manager.\"",
+        "The dramatic Emirates FA Cup final at Wembley Stadium culminates in a triumphant celebration for Manchester United, who emerged victorious after a 5-5 draw followed by a penalty shootout. Manchester United players, clad in their red 'TeamViewer' jerseys, gather under a large white 'WINNERS' arch as confetti rains down. Commentators reflect on their journey, noting, \"my goodness, they've taken the rough with the smooth,\" and now \"they savor the moment.\" Loud crowd cheers and a whistle punctuate the air as players like McTominay (#39), Shaw (#23), Fred (#17), and Dalot (#20) celebrate wildly, embracing and lifting the ornate Emirates FA Cup Trophy high above their heads. The goalkeeper, David de Gea, in his blue patterned jersey, joins the jubilation, raising his arms in victory. A commentator gives \"full marks to the entire team,\" stating they now \"get the chance to exhale and enjoy.\" The camera pans across the jubilant team forming a tight huddle, while in the background, the predominantly red stadium crowd erupts in cheers, with fireworks bursting in the night sky, adding to the grandeur. Commentators praise the team's \"brilliant\" performance and the fans who \"really got behind their team,\" playing \"a big part in this win,\" describing it as \"a match made in heaven between players and fans.\" Dejected Manchester City players in their light blue kits are visibly walking away from the pitch. The EA SPORTS LIVE broadcast overlay remains visible, along with pitch-side advertising boards displaying '#EmiratesFACup' and 'EA SPORTS LIVE', as the commentators predict these celebrations \"are going to continue for quite some time\" amidst the ongoing confetti and fireworks."
+      ]
+    }
+  ],
+  "global_entity_library": {
+    "Manchester City Players": "Dressed in light blue jerseys with white shorts, visible in the background with dejected expressions, some walking away from the pitch as the United players celebrate.",
+    "Derek Rae & Stewart Robson": "On-screen commentators displayed in a lower-third graphic, identified as providing match commentary for the EA Sports Live broadcast.",
+    "Match Ball": "A white soccer ball with geometric blue and yellow patterns, branded with 'mitre' and 'Emirates FA Cup', is in play during the midfield battle, with distinct kicking sounds heard during passes and attempts.",
+    "Wembley Stadium": "A massive, modern stadium filled with fans in red and blue, now illuminated by fireworks and confetti, where loud crowd cheers and celebratory sounds are heard, confirming the electric atmosphere as commentators describe the scene.",
+    "EA Sports Live": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+    "Emirates FA Cup Trophy": "A large, silver, ornate trophy with red ribbons bearing the text 'Emirates Fly Better', lifted triumphantly by McTominay (#39) and held aloft by the team in celebration.",
+    "Manchester United Players": "Wearing red jerseys with white shorts and 'TeamViewer' branding, celebrating their victory with high-fives, embraces, and a team huddle, then walking to the podium to lift the trophy. Commentators praise their 'brilliant' performance, stating they deserve 'full marks' and have 'taken the rough with the smooth' to win, now getting the chance to 'exhale and enjoy'.",
+    "Stadium Crowd": "A massive, animated crowd filling the stands, predominantly in red, reacting with visible movement and energy, especially during the celebration. Their 'loud crowd cheers' and visible excitement are noted by commentators who highlight their role in getting 'behind their team' and describe the connection as 'a match made in heaven' with the players.",
+    "Manchester United Formation Graphic": "A tactical diagram showing Manchester United's 4-2-3-1 formation with player headshots and positions, including Wout Weghorst as the lone striker.",
+    "Manchester United Starting Eleven Graphic": "A detailed on-screen graphic listing Manchester United's starting 11 and substitutes, including David de Gea (GK), Bruno Fernandes (captain), and manager Erik ten Hag, displayed over a goal net background.",
+    "Manchester City Starting Eleven Graphic": "A detailed on-screen graphic listing Manchester City's starting 11 and substitutes, including Ederson (GK), John Stones, and manager Pep Guardiola, displayed over a wide stadium view.",
+    "Manchester City Formation Graphic": "A tactical diagram showing Manchester City's 4-3-3 formation with player headshots and positions, including Haaland as the central striker.",
+    "Manchester City Goalkeeper": "Wearing an orange goalkeeper jersey with 'Etihad Airways' branding, standing ready in the goal during the penalty shootout, and later taking a penalty himself and scoring.",
+    "Manchester United Goalkeeper": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen celebrating on the podium, raising his arms in victory alongside the team, part of the 'brilliant' Manchester United team praised by commentators.",
+    "Player Name Graphics": "Appearing at the bottom corners, identifying current players such as 20 Silva, 10 Grealish, 31 Ederson, 21 Antony, 17 Fred, and 10 Rashford, with team crests and numbers.",
+    "Pitch-Side Advertising Boards": "Red and white digital boards along the sidelines showing '#EmiratesFACup', 'FIFA SOUND', 'FIFA.GG', 'easports.com/fc', and 'EA SPORTS LIVE' branding, visible during the celebration.",
+    "On-Screen Scoreboard": "Displaying 'FULL TIME MANCHESTER CITY 5-5 MANCHESTER UTD' with goal scorers listed, including Rashford's 100th-minute goal, and the final penalty shootout result.",
+    "Erling Haaland": "Not directly visible, but referenced in the on-screen graphics as a goal scorer for Manchester City, with his name appearing in the player graphics as #9.",
+    "Goal Celebration Graphic": "A full-screen graphic with the Emirates FA Cup logo and a progress bar, appearing after Rashford's goal, transitioning to the player's name and goal time.",
+    "FIFA 23 Logo": "A large, centered logo appearing briefly on screen, indicating the game title, with 'FIFA 23' in bold white text on a dark background.",
+    "Jack Grealish": "Wearing a light blue Manchester City #10 jersey with 'Etihad Airways' branding, steps up to take his penalty, as noted by a commentator, and scores, celebrating by raising his arms and embracing teammates.",
+    "Bruno Fernandes": "Wearing a red Manchester United #8 jersey with 'TeamViewer' branding, visible near the center circle during the restart, not directly involved in the goal sequence.",
+    "Corner Flag": "A white pole with a bright yellow flag, positioned at the corner of the pitch, near which Casemiro prepares to take the corner kick.",
+    "Rashford": "Wearing a red Manchester United #10 jersey with 'TeamViewer' branding, scores the final penalty and celebrates with clenched fists and a determined expression, raising his arms in triumph, with commentators anticipating and then confirming the victory.",
+    "Emirates FA Cup Logo": "A full-screen graphic with the Emirates FA Cup logo and a progress bar, appearing after the match ends, signaling the conclusion of the game.",
+    "Manchester City Defender in Orange Bib": "A Manchester City player wearing a light blue long-sleeve shirt under an orange training bib, standing near Pep Guardiola and receiving instructions during a break in play.",
+    "Pep Guardiola": "Wearing a black t-shirt and black pants, shown with a pensive expression, hands clasped, reflecting the high stakes of the match, standing on the sideline, amidst the audible tension of the game.",
+    "David de Gea": "In a blue patterned goalkeeper jersey with 'TeamViewer' sponsorship, seen celebrating on the podium, raising his arms in victory alongside the team, part of the 'brilliant' Manchester United team praised by commentators.",
+    "Half-Time Graphic": "A full-screen overlay displaying 'HALF-TIME MANCHESTER CITY 2-2 MANCHESTER UTD' with goal scorers Haaland (4', 22') and Rashford (25', 45'), set against the backdrop of the packed stadium.",
+    "Mini-Map": "A small tactical overlay in the bottom center of the screen showing player positions and team formations during gameplay, updating dynamically with player movements.",
+    "Marcus Rashford": "Wearing a red Manchester United #10 jersey, scoring the goal and celebrating with clenched fists and a determined expression, raising his arms in triumph. Audibly, his name is called out by the commentator ('And now Rashford!') just before the goal, which is met with ecstatic commentary and crowd noise. The commentator later praises his 'ability to find space in the box' and 'good play.'",
+    "Match Statistics Screen": "A detailed on-screen graphic showing possession, shooting, passing, defending, and events, with Manchester United's 89% dribble success rate and 89% pass accuracy highlighted, contrasting with City's 71% shot accuracy and 90% pass accuracy.",
+    "Riyad Mahrez": "Wearing a light blue Manchester City #26 jersey, scoring the goal and celebrating with teammate Jack Grealish; his name is called out by commentators who laud his 'good finish,' noting he 'strikes it so cleanly' and 'hits it with power,' calling it 'a great goal.'",
+    "Wout Weghorst": "Wearing a red Manchester United #27 jersey with 'TeamViewer' branding, celebrating the goal with Rashford and Casemiro, raising his arm in excitement.",
+    "Fourth Official": "Holding a red digital substitution board displaying '8 39', signaling the substitution of Fernandes for McTominay, wearing a black tracksuit with a headset, visible near the sideline.",
+    "Bernardo Silva": "Wearing a light blue Manchester City #20 jersey with 'Etihad Airways' branding, takes a penalty which is saved by the keeper, and reacts with disappointment, pointing skyward before being embraced by teammates, with a commentator describing his penalty as 'not the greatest.'",
+    "EA SPORTS LIVE": "A broadcast overlay in the top right corner, indicating live coverage of the match, with the EA SPORTS logo consistently visible.",
+    "Substitution Graphics": "On-screen graphics indicating the substitution: 26 Mahrez replacing 19 Álvarez for Manchester City, and 10 Rashford replacing 49 Garnacho for Manchester United, with player names and numbers displayed.",
+    "Antony": "Wearing a red Manchester United #21 jersey with 'TeamViewer' branding, visible celebrating with teammates, displaying a distinctive undercut hairstyle and visible neck tattoo.",
+    "McTominay": "Wearing a red Manchester United #39 jersey with 'TeamViewer' branding and black socks with red stripes, lifting the Emirates FA Cup Trophy high above his head in celebration, part of the 'brilliant' Manchester United team praised by commentators.",
+    "Penalty Kick Selection Screen": "A full-screen graphic listing top penalty takers for both teams, showing Mahrez (87 OVR) and Sabitzer (81 OVR) as top choices, with player headshots and penalty/finishing ratings.",
+    "Ederson": "Wearing an orange Manchester City goalkeeper jersey with 'Etihad Airways' branding, takes a penalty and scores, showing a determined expression and celebrating with teammates.",
+    "Full-Time Graphic": "A screen displaying 'FULL TIME MANCHESTER CITY 5-5 MANCHESTER UTD' with goal scorers listed, including Rashford's 100th-minute goal, and the final penalty shootout result.",
+    "Dalot": "Wearing a red Manchester United #20 jersey with 'TeamViewer' branding, visible celebrating with teammates, raising his arm in triumph, part of the 'brilliant' Manchester United team praised by commentators.",
+    "Shaw": "Wearing a red Manchester United #23 jersey with 'TeamViewer' branding, celebrating with arms raised and embracing teammates, part of the 'brilliant' Manchester United team praised by commentators."
+  }
+}
