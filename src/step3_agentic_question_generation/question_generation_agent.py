@@ -19,6 +19,8 @@ from common import (
 )
 from trajectory_proposal_agent import select_top_trajectories
 
+_MH_TASK_TYPES = {"halluc_v2a", "halluc_a2v", "halluc_splicing"}
+
 
 def collect_entity_pool(
     events_by_id: Dict[int, Dict[str, Any]],
@@ -95,6 +97,9 @@ def generate_questions(
         limit=cfg.max_questions_per_video,
     )
     for idx, item in enumerate(selected, start=1):
+        required_premise_status = (
+            "supported" if idx % 2 == 1 else "fabricated"
+        ) if cfg.task_type in _MH_TASK_TYPES else None
         traj = item.get("trajectory", {})
         event_ids = [int(x) for x in traj.get("event_ids", []) if str(x).isdigit() and int(x) in events_by_id]
         trajectory_events = [
@@ -111,6 +116,7 @@ def generate_questions(
                 "question_direction": question_direction,
                 "option_selection_mode": get_option_selection_mode(cfg.task_type),
                 "option_selection_constraint": get_option_selection_constraint_text(cfg.task_type),
+                "required_premise_status": required_premise_status,
                 "trajectory_events": trajectory_events,
                 "entity_pool": entity_pool,
                 "required_output_schema": get_step3_user_payload_schema(),
@@ -135,6 +141,11 @@ def generate_questions(
         task_specific_key = llm.get("task_specific_key", {})
         if not isinstance(task_specific_key, dict):
             task_specific_key = {"key_name": "", "key_value": ""}
+        if required_premise_status is not None:
+            task_specific_key = {
+                "key_name": "premise_status",
+                "key_value": required_premise_status,
+            }
         options = llm.get("options", {})
         if not isinstance(options, dict):
             options = {}

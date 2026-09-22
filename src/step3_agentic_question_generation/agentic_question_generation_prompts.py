@@ -191,22 +191,19 @@ TASK_PROMPTS: Dict[str, str] = {
         "multiple events. Audio evidence only."
     ),
     "halluc_v2a": (
-        "Visual-to-Audio Hallucination: construct multi-hop questions that present "
-        "real visual evidence from the video and ask about an audio detail that does "
-        "NOT actually exist in the video. The correct answer must confirm the audio "
-        "is absent; distractors should be plausible fabricated audio details."
+        "Visual-to-Audio Premise Verification: construct multi-hop questions that use "
+        "visual context to motivate an audio premise and require verifying whether it "
+        "is supported or contradicted within a specified event or time range."
     ),
     "halluc_a2v": (
-        "Audio-to-Visual Hallucination: construct multi-hop questions that present "
-        "real audio evidence from the video and ask about a visual detail that does "
-        "NOT actually exist in the video. The correct answer must confirm the visual "
-        "is absent; distractors should be plausible fabricated visual details."
+        "Audio-to-Visual Premise Verification: construct multi-hop questions that use "
+        "audio context to motivate a visual premise and require verifying whether it "
+        "is supported or contradicted within a specified event or time range."
     ),
     "halluc_splicing": (
-        "Hallucinated Splice: construct multi-hop questions that present a fabricated "
-        "narrative splicing real fragments from different time points as if they form "
-        "a coherent sequence. The correct answer must identify the splice as "
-        "impossible or incorrect; distractors should accept the false narrative."
+        "Temporal Premise Verification: construct multi-hop questions that require "
+        "verifying whether a temporal narrative is supported by, or contradicted by, "
+        "the ordering of real events from different time points."
     ),
 }
 
@@ -478,11 +475,13 @@ Task: Select candidate multi-hop trajectories for Background Audio QA.
 Task: Select candidate multi-hop trajectories for Visual-to-Audio Hallucination QA.
 
 [Core Principle]
-- Identify events with rich visual content (entities with attribute "visual" or
-  "audio-visual") where the visual scene strongly implies an audio detail that
-  is NOT actually present in the video.
-- The trajectory should provide enough visual evidence to make the hallucinated
-  audio seem plausible, while the correct answer is that the audio does not exist.
+- Identify a specified event or time range where visual context makes a candidate
+  audio detail plausible.
+- Construct balanced supported and fabricated premises. A supported premise is
+  verified by the soundtrack in the specified range; a fabricated premise is
+  contradicted by audio evidence in that range.
+- Reject cases whose truth is indeterminate because of inaudibility, off-screen
+  activity, occlusion, or insufficient observational coverage.
 - Include BOTH short-range and long-range chains.
 
 {_STEP1_QUALITY_RULE}
@@ -495,11 +494,13 @@ Task: Select candidate multi-hop trajectories for Visual-to-Audio Hallucination 
 Task: Select candidate multi-hop trajectories for Audio-to-Visual Hallucination QA.
 
 [Core Principle]
-- Identify events with rich audio content (entities with attribute "audio-visual")
-  where the audio strongly implies a visual detail that is NOT actually present
-  in the video.
-- The trajectory should provide enough audio evidence to make the hallucinated
-  visual seem plausible, while the correct answer is that the visual does not exist.
+- Identify a specified event or time range where audio context makes a candidate
+  visual detail plausible.
+- Construct balanced supported and fabricated premises. A supported premise is
+  verified by visual evidence in the specified range; a fabricated premise is
+  contradicted by visual evidence in that range.
+- Reject cases whose truth is indeterminate because of inaudibility, off-screen
+  activity, occlusion, or insufficient observational coverage.
 - Include BOTH short-range and long-range chains.
 
 {_STEP1_QUALITY_RULE}
@@ -514,8 +515,9 @@ Task: Select candidate multi-hop trajectories for Hallucinated Splice QA.
 [Core Principle]
 - Identify 2–4 events from DIFFERENT, non-adjacent time points whose real
   fragments could be falsely presented as a single coherent sequence.
-- The trajectory should make the splice seem plausible (shared entities or
-  similar settings) while the actual timeline makes the splice impossible.
+- Construct balanced supported narratives and fabricated narratives. A fabricated
+  narrative must be explicitly contradicted by the observed event ordering; do
+  not treat missing evidence as evidence of impossibility.
 - Prefer events with large temporal gaps between them.
 
 {_STEP1_QUALITY_RULE}
@@ -934,12 +936,16 @@ Use: {{"key_name": "background_audio_type", "key_value": "music|ambient|other"}}
 Task: Generate one multiple-choice Visual-to-Audio Hallucination question.
 
 [Question Design]
-- Present real visual evidence from the trajectory and ask about an audio detail
-  that does NOT actually exist in the video.
-- The correct answer must be the option that states the audio is absent or did
-  not occur.
-- The other three distractors should be fabricated but plausible audio details
-  that the visual scene might suggest.
+- Use the \"required_premise_status\" supplied in the user input (\"supported\"
+  or \"fabricated\"). The pipeline alternates this field to balance the final set.
+  Ask which statement or statements about an audio detail are supported within a
+  specified event or time range.
+- For supported items, ground the correct answer set in observed audio evidence.
+  For fabricated items, ground it in audio evidence that contradicts the premise.
+- Construct a balanced set of concrete acceptance and rejection alternatives;
+  keep option length and explanation specificity comparable.
+- Follow the supplied single-/multi-choice constraint. Balance correct-set size
+  and the polarity composition of correct answer sets across generated items.
 - The question stem should NOT reveal that it is a hallucination test; phrase it
   as a genuine audio inquiry.
 
@@ -948,10 +954,12 @@ Task: Generate one multiple-choice Visual-to-Audio Hallucination question.
 {_STEP3_LABEL_RULE}
 
 {_STEP3_DISTRACTOR_RULE}
-Note: evidence steps are labeled "video" (visual cues drive the hallucination).
+Label the visual cue that motivates the premise as "video" and label verifying
+or refuting evidence according to its actual modality (usually "audio" or
+"audio-visual").
 
 [task_specific_key]
-Use: {{"key_name": "halluc_type", "key_value": "visual->audio"}}
+Use: {{"key_name": "premise_status", "key_value": "supported|fabricated"}}
 
 {_STEP3_OPTION_SELECTION_RULE}
 
@@ -963,12 +971,16 @@ Use: {{"key_name": "halluc_type", "key_value": "visual->audio"}}
 Task: Generate one multiple-choice Audio-to-Visual Hallucination question.
 
 [Question Design]
-- Present real audio evidence from the trajectory and ask about a visual detail
-  that does NOT actually exist in the video.
-- The correct answer must be the option that states the visual is absent or did
-  not occur.
-- The other three distractors should be fabricated but plausible visual details
-  that the audio might suggest.
+- Use the \"required_premise_status\" supplied in the user input (\"supported\"
+  or \"fabricated\"). The pipeline alternates this field to balance the final set.
+  Ask which statement or statements about a visual detail are supported within a
+  specified event or time range.
+- For supported items, ground the correct answer set in observed visual evidence.
+  For fabricated items, ground it in visual evidence that contradicts the premise.
+- Construct a balanced set of concrete acceptance and rejection alternatives;
+  keep option length and explanation specificity comparable.
+- Follow the supplied single-/multi-choice constraint. Balance correct-set size
+  and the polarity composition of correct answer sets across generated items.
 - The question stem should NOT reveal that it is a hallucination test; phrase it
   as a genuine visual inquiry.
 
@@ -977,10 +989,12 @@ Task: Generate one multiple-choice Audio-to-Visual Hallucination question.
 {_STEP3_LABEL_RULE}
 
 {_STEP3_DISTRACTOR_RULE}
-Note: evidence steps are labeled "audio" (audio cues drive the hallucination).
+Label the audio cue that motivates the premise as "audio" and label verifying
+or refuting evidence according to its actual modality (usually "video" or
+"audio-visual").
 
 [task_specific_key]
-Use: {{"key_name": "halluc_type", "key_value": "audio->visual"}}
+Use: {{"key_name": "premise_status", "key_value": "supported|fabricated"}}
 
 {_STEP3_OPTION_SELECTION_RULE}
 
@@ -992,14 +1006,18 @@ Use: {{"key_name": "halluc_type", "key_value": "audio->visual"}}
 Task: Generate one multiple-choice Hallucinated Splice question.
 
 [Question Design]
-- Present a fabricated narrative that splices real fragments from different,
-  non-adjacent time points as if they form a coherent sequence.
-- The correct answer must identify that the described sequence is impossible
-  or did not happen as described (e.g., "This sequence never occurred because
-  event A happened at minute X and event B at minute Y with no connection").
-- The other three distractors should accept the false narrative or propose
-  alternative but equally false splices.
-- Use the actual timestamps from the trajectory to ground the impossibility.
+- Use the \"required_premise_status\" supplied in the user input (\"supported\"
+  or \"fabricated\"). The pipeline alternates this field to balance the final set.
+  Present a temporal narrative built from real event fragments and ask which
+  statement or statements are supported by the video timeline.
+- For supported items, the correct answer set affirms a sequence established by
+  the observed ordering. For fabricated items, it identifies the observed order
+  that contradicts the proposed sequence. Do not infer impossibility from missing evidence.
+- Construct a balanced set of concrete acceptance and rejection alternatives;
+  keep option length and explanation specificity comparable.
+- Follow the supplied single-/multi-choice constraint. Balance correct-set size
+  and the polarity composition of correct answer sets across generated items.
+- Use actual timestamps to ground the temporal decision.
 
 {_STEP3_QUALITY_RULE}
 
@@ -1008,7 +1026,7 @@ Task: Generate one multiple-choice Hallucinated Splice question.
 {_STEP3_DISTRACTOR_RULE}
 
 [task_specific_key]
-Use: {{"key_name": "halluc_type", "key_value": "splice"}}
+Use: {{"key_name": "premise_status", "key_value": "supported|fabricated"}}
 
 {_STEP3_OPTION_SELECTION_RULE}
 
