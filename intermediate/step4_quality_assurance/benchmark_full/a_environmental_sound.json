@@ -2965,7 +2965,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core information (Jesse's statement, the challenge, and its associated sounds) is all contained within a single piece of evidence (Event 7).",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The core information linking Jesse's statement to the specific challenge and its sounds is found entirely within a single piece of evidence (Event 7). The other events merely describe the distractor options, which does not constitute a multi-hop chain for answering the question.",
         "option_quality": {
           "has_obvious_pattern": false,

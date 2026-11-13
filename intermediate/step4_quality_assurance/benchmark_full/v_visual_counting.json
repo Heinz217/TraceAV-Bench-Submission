@@ -16745,7 +16745,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "While earlier events (4 and 5) establish the concept of 'yaku' and provide examples, Event 6 explicitly states, 'He then begins to explain the winning yaku, noting, \"And now we can see all the Yaku that we've achieved. ... The winning hand details 'Under the River 1 Han', 'All Simples 1 Han', and 'Red Five 1 Han', totaling 3 Han and 30 Fu.\"' This sentence itself identifies the listed items as 'yaku' and provides the three distinct items to be counted, making the earlier events helpful context but not strictly necessary for the final count.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -18380,9 +18380,20 @@
         "C"
       ],
       "answer_text": "1",
-      "minute_hop_count": 0,
-      "hop_length_label": "short",
+      "minute_hop_count": 10,
+      "hop_length_label": "long",
       "trajectory_with_timestamps": [
+        {
+          "event_id": 1,
+          "evidence": "The early cosmic-scale sequence identifies the Moon as the first marker on the journey, gives its distance from Earth, and shows an Earth-rise view from the lunar surface before moving on to the Sun and wider solar-system scale.",
+          "label": "visual",
+          "reason": "This restores the early Moon/Earth reference point from the original candidate trajectory and gives the later event-7 shots a separate temporal source event.",
+          "timestamp_minute": 1,
+          "event_time_range": {
+            "start_minute": 1,
+            "end_minute": 2
+          }
+        },
         {
           "event_id": 7,
           "evidence": "Text appears in the center, 'Observable Universe ≠ Entire Universe', visually reinforcing the narrator's point that some regions are expanding faster than the speed of light, placing them forever out of our view, meaning the true size of the entire universe remains unknown and potentially infinite.",

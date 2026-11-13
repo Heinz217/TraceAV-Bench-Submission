@@ -806,7 +806,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question explicitly states 'Jerome Powell, in his Jackson Hole economic symposium speech'. Event 3 directly provides the exact quote and the timestamp (minute 5) from Powell's speech. Event 2 establishes the context of the Jackson Hole symposium, but this context is already given in the question. Event 44 is a later commentary about the speech, not the speech itself. Therefore, the core answer is found in a single piece of evidence.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for the exact minute of a specific statement made by Jerome Powell in his Jackson Hole speech. Event 3 directly contains this statement and its timestamp (minute 5), making it a single-hop retrieval once the context (provided in the question) is understood.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -1674,7 +1674,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question asks for the exact minute a specific piece of information (the amount of money Tamuera could earn) is stated by the narrator. This information, along with its timestamp, is directly provided in a single event (Event 16). While other events (13 and 17) provide context about Tamuera's training and future, they are not necessary 'hops' to determine the specific minute of the salary statement itself. The answer is a direct lookup from one piece of evidence.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for the exact minute a specific statement is made. This minute is directly found in one piece of evidence (Event 16). Other events provide context but are not required to pinpoint the timestamp of the statement.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -2320,7 +2320,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question asks for a single segment where all specified conditions are met. Only one piece of evidence (event_id 21) fully satisfies all conditions, making it a single-hop localization task. Event_id 8 is a partial match and acts as a distractor.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question requires finding a single segment that contains all specified details. While there's an earlier segment (event_id 8) that contains most of the details, only event_id 21 contains all of them, including the '50% more than economists expected' phrase. This makes it a precise single-hop localization rather than a multi-hop task.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -5021,7 +5021,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question directly asks for a single event described in one piece of evidence (event_id 10), not requiring the combination of information from multiple distinct events. The first event (event_id 3) is not necessary to answer the specific question.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question directly describes the event at timestamp 12, making it a single-hop localization task. The first event in the trajectory is not needed to answer the question.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -5431,7 +5431,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The final event (Event 3) at minute 23 explicitly contains all conditions required by the question, making it solvable by a single comprehensive piece of evidence rather than requiring integration across multiple distinct events.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Event 3 at minute 23 explicitly states that both black and grey backpacks are worn, they just finished packing (implying fully packed), the couple is in the hallway, and ready to head out, directly answering all parts of the question.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -5760,7 +5760,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question asks for a specific event that directly matches all conditions (watch time and activity). While other events provide context, the answer is found in a single piece of evidence without requiring inference across multiple distinct pieces of information.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for the exact in-video minute where two specific conditions are met: watch shows 09:12 AND Clarence is taking the ABDATSAT test. Event 3 directly provides both pieces of information ('watch, which reads 09:12' and 'teacher… instructs the class to \"flip to page 52 of your Absat Handbook\"') at timestamp minute 4. No multi-step reasoning or combination of facts from different events is required to arrive at the answer; it's a direct lookup.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -7260,7 +7260,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question asks for the exact minute of a specific statement. While Event 6 provides context about the evolution of Gypsy servitude, the specific statement about the resemblance to African slavery and its timing is directly and explicitly provided in Event 7 with its timestamp. Therefore, finding the answer does not strictly require chaining information from multiple distinct pieces of evidence to infer the final answer.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The core information needed to answer the question (the specific statement and its exact minute) is directly available in a single piece of evidence (Event 7). Event 6 provides background but is not essential for locating the precise minute of the comparison.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -10505,7 +10505,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question asks for the exact minute a specific quote is stated. The trajectory's event_id: 11 directly provides this quote and its timestamp, making it a single-hop lookup rather than requiring combination of information from multiple distinct events.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for the exact minute a specific quote is stated. The trajectory's event_id: 11 directly provides this quote and its timestamp, making it a single-hop lookup rather than requiring combination of information from multiple distinct events. While other events provide context, they are not strictly necessary to pinpoint the minute of the specific statement.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -11019,7 +11019,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for the exact minute the man turns off the machine after it has been running for about 35 minutes. The evidence at timestamp 28 directly states: 'He kneels... explaining that the machine has been running for about 35 minutes. He states his intention to turn off the power and let it soak for 30 minutes...'. This single piece of evidence provides the action (turning off power), the condition (running for ~35 minutes), and the timestamp (28 minutes) directly. While earlier evidence provides context (start time, explanation of soaking), it is not strictly necessary to infer the answer from the explicit statement at 28 minutes. The 'running for about 35 minutes' is presented as a fact at the 28-minute mark, not a calculation to be made from the start time.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -11336,7 +11336,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for the exact minute when a sequence of specific audio-visual cues (narrator noting $203B, Paulson's portrait, Bush's announcement) occurs, leading to Paulson's departure. All these cues are described within a single piece of evidence (event_id 14) that spans a short time range (27-30 minutes) and culminates at the answer minute (30). It does not require combining information from multiple distinct events to form a new inference, but rather localizing a complex event described by multiple simultaneous/sequential cues within one event.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -12164,7 +12164,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "Event 7 directly provides all information needed to answer the question, including the specific content of the mixed-reality clip and its exact minute. Event 3 describes a different mixed-reality clip of Zuck and is not required for this specific question.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question's specific description of the mixed-reality clip (contrasting Apple/Microsoft models, 'The future is not yet written') is fully contained and answered by Event 7, which also provides the exact minute. Event 3 describes a different mixed-reality clip of Zuck and is not necessary to identify the correct segment.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -13117,7 +13117,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The task requires multimodal integration (audio and visual) to pinpoint a single event at a specific minute, rather than chaining multiple distinct facts or events sequentially.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The answer is a direct localization of a specific event and statement to an exact minute, requiring multimodal understanding but not sequential reasoning across multiple distinct facts.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -13210,7 +13210,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The evidence for event_id 3 directly states the transformation occurs at minute 3, which is the answer. The other events provide context or later confirmation but do not form a multi-step reasoning chain to deduce the answer.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The core information needed to answer the question (the exact minute of transformation) is explicitly stated in a single piece of evidence (event_id 3, first instance). The other pieces of evidence serve as context or confirmation rather than steps in a multi-hop deduction.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -13610,7 +13610,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question's premise describes a multi-step process (Sally Ann's help leading to Lindsay cracking the code), but the specific information requested (the exact minute of Lindsay's announcement) is directly provided by a single piece of evidence.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for the exact minute of Lindsay's declaration. Evidence event 21 directly provides this minute (32) along with the quote. While the question mentions Sally Ann's help (which is described in event 16 at minute 25), this prior event is context for *how* Lindsay cracked the code, not a necessary step to determine the *timing* of Lindsay's announcement itself. The answer is a direct lookup from one piece of evidence.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -16573,7 +16573,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question asks for the exact minute a specific painting is discussed. All identifying characteristics of the painting and its discussion are present in a single event (event_id: 16) at the specified minute. No combination of information from multiple distinct events is required to answer the question.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The answer is directly solvable by one piece of evidence (event_id: 16) which contains all the necessary information to identify the painting and its discussion time.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -17414,7 +17414,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question provides the specific time (51.85) and the context (Ryan Murphy's world-record backstroke split). Event 12 directly shows this information on screen at the correct minute. Event 10 describes when the world record is *mentioned* in commentary, which is a distractor but not essential for finding the visual display of the given time.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question provides the specific time (51.85) and the context (Ryan Murphy's world-record backstroke split). Event 12 directly shows this information on screen ('Ryan Murphy's 51.85 (WR)') at the correct minute (32). Event 10 describes when the world record is *mentioned* in commentary (minute 29), which is explicitly excluded by the question ('rather than only being mentioned in commentary'). Therefore, the answer can be found from a single piece of evidence (Event 12) that directly matches the explicit visual display of the given time and context.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -17485,7 +17485,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question describes a sequence of events, with context from an earlier event (cooling process) provided in the question stem. However, the specific answer (timestamp of Matthias's remark) is directly found in a single piece of evidence (event_id: 12) without requiring information synthesis or combination from multiple distinct pieces of evidence.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -18001,7 +18001,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for the exact minute of a specific, detailed explanation. While other timestamps provide related context or mention parts of the explanation, the full, precise explanation is contained within a single event (event_id 4) at minute 10. The other events act as temporal distractors rather than requiring information combination to form the answer.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -18421,7 +18421,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The answer is directly stated in a single piece of evidence, rather than requiring combination of multiple pieces of information.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The specific action described in the question (moose driving wolf into deeper water and sinking to her knees) is explicitly stated as occurring at minute 18 in one piece of evidence. Other events at different timestamps serve as distractors for other options, but the core answer is a direct lookup.",
         "option_quality": {
           "has_obvious_pattern": false,

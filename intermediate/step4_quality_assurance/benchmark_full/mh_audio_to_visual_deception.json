@@ -2217,7 +2217,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core information for the answer (absence of large exterior speakers and presence of small devices on the deck) is directly stated in evidence 3 and 4, which largely reinforce the same visual observation about the ship's exterior.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks about the exterior configuration of loudspeakers. Evidence 3 and 4 directly state that no large exterior loudspeakers are present, and evidence 4 also mentions the small device and speaker on the deck, which is part of the correct option C. These two pieces of evidence are sufficient and largely redundant for the core claim, making it a direct visual identification rather than requiring a combination of distinct facts (e.g., interior vs. exterior observations) to infer the answer.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -4001,8 +4001,8 @@
         "B"
       ],
       "answer_text": "A calendar icon is present only as a small, unlabeled tool icon below the RAG text, without any explicit on-screen label calling it \"Google Calendar\" while the narrator speaks.",
-      "minute_hop_count": 0,
-      "hop_length_label": "short",
+      "minute_hop_count": 4,
+      "hop_length_label": "medium",
       "trajectory_with_timestamps": [
         {
           "event_id": 4,
@@ -4013,6 +4013,17 @@
           "event_time_range": {
             "start_minute": 4,
             "end_minute": 4
+          }
+        },
+        {
+          "event_id": 6,
+          "evidence": "The AI-agent diagram shows a goal entering an agent that reasons, acts through tools including calendar, document, weather, and AI, observes results, and iterates toward an output.",
+          "label": "visual",
+          "reason": "This second diagram provides the earlier cross-event tool-use context for interpreting the calendar-related icon on the later RAG screen.",
+          "timestamp_minute": 8,
+          "event_time_range": {
+            "start_minute": 6,
+            "end_minute": 11
           }
         }
       ],
@@ -5713,7 +5724,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question requires a direct visual observation of the fan and thermometer for specific effects, given the explicitly stated high temperature. While the context of 'extreme heat' is established by the thermometer reading and on-screen text, the core task is a single visual search for the absence of phenomena rather than combining distinct pieces of information or inferences from multiple sources.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -5783,7 +5794,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The key information about what is seen of the cap-mounted camera at the specified time, including its location on the passenger seat and not on the driver's head, is explicitly stated within a single piece of evidence (event_id 3). While event_id 1 provides context about the object's identity and prior use, it is not strictly necessary to answer what is *actually seen* of it at the later time, as event_id 3 fully describes its state and location.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -8218,7 +8229,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The audio evidence directly describes the nature and function of the branding (identifying Karlstrom as an 'on-screen graphic'), which allows for a direct inference to its visual placement without requiring multiple reasoning steps or combining disparate pieces of information.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The audio evidence states that Prof. Karl E. Karlstrom is 'identified under the 'NAKED SCIENCE' logo' and 'identified by an on-screen graphic'. This directly implies the branding is a lower-third identification graphic associated with Karlstrom, making the answer a single, direct inference from the audio description to the visual form.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -8467,7 +8478,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The 'reason' provided for event_id 3 explicitly states the answer: 'Spoken description clarifies that when the corkboard is visible it shows six childhood images, while the Polaroid-style rose, dark-setting person, and hands-holding-object photos are only in the judges’ hands and not attached to the board.' This single piece of evidence directly confirms option C, making it pseudo multi-hop.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -9040,7 +9051,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks about the visual design on the signs in a specific segment. Event ID 9 directly describes the signs in that segment as 'circular 'I HAVE NEVER' (blue) and 'I HAVE' (white) signs.' The absence of any mention of additional visual design in this specific description is sufficient to infer that the signs are plain, directly supporting option C. While other events describe similar plain signs in other segments, they are not strictly necessary to answer the question about this particular segment.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -11321,8 +11332,8 @@
         "D"
       ],
       "answer_text": "No national flags or country‑name banners are visible; the fans only hold generic signs such as the blue 'YOU'RE OUR HEROES!' banner.",
-      "minute_hop_count": 0,
-      "hop_length_label": "short",
+      "minute_hop_count": 5,
+      "hop_length_label": "medium",
       "trajectory_with_timestamps": [
         {
           "event_id": 1,
@@ -11333,6 +11344,17 @@
           "event_time_range": {
             "start_minute": 1,
             "end_minute": 1
+          }
+        },
+        {
+          "event_id": 4,
+          "evidence": "The segment shows One Direction performing and then moves through international fan and news coverage; it includes crowd signs such as the generic ‘YOU’RE OUR HEROES!’ banner.",
+          "label": "audio-visual",
+          "reason": "This candidate event restores a later worldwide-success/crowd segment for comparison with the existing global-popularity context when checking the crowd signs and flags.",
+          "timestamp_minute": 6,
+          "event_time_range": {
+            "start_minute": 5,
+            "end_minute": 7
           }
         }
       ],
@@ -14529,7 +14551,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core information for the correct answer (absence of the deteriorated spine visual) is directly stated in a single piece of evidence (event 1).",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The correct answer, option C, is directly supported by a single piece of evidence (event 1) which explicitly states that the medical conditions, including a deteriorating spine, are 'only described in the spoken dialogue... not shown visually.' While the question references multiple topics discussed in the video, the specific visual absence for the correct option is a direct lookup from one event.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -14997,7 +15019,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core information about the visual coloring of the debris ring (that it's a 'glowing ring' with 'no mention of colored bands or multi-hued patterns') is explicitly stated in a single piece of evidence (Event 5).",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The answer relies primarily on a direct statement within a single piece of evidence (Event 5) that describes the visual appearance of the ring, including the absence of distinct colored bands. Other events provide context but do not add new information critical to determining the specific visual characteristic of the ring's color.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -15569,7 +15591,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The evidence for the specified initial segment (Evidence 1, both parts) explicitly states the absence of a visible microphone in those segments, directly supporting the correct answer. While later evidence (14, 15) confirms a microphone appears later in the video, this is not strictly necessary to answer the question about its presentation *at the initial point* as the absence is explicitly noted in the relevant evidence.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -18592,9 +18614,20 @@
         "D"
       ],
       "answer_text": "No extra side dish or condiment is visible next to the fish-shaped snack on the plate",
-      "minute_hop_count": 0,
-      "hop_length_label": "short",
+      "minute_hop_count": 6,
+      "hop_length_label": "medium",
       "trajectory_with_timestamps": [
+        {
+          "event_id": 3,
+          "evidence": "Earlier, she prepares bibimbap and studies; later in this event she commits to the 992-card Anki goal and continues her day’s food and study routine.",
+          "label": "visual",
+          "reason": "This restores the earlier meal/study context paired with the later midnight snack and plate inspection.",
+          "timestamp_minute": 6,
+          "event_time_range": {
+            "start_minute": 5,
+            "end_minute": 8
+          }
+        },
         {
           "event_id": 6,
           "evidence": "Later, she retrieves a frozen vegetable bag from the refrigerator, making rustling sounds, and places it into a light blue air fryer with a thud, preparing a 'midnight snack : °☆彡.' The woman, in her sweatshirt, then places the frozen vegetables into the air fryer basket on the kitchen counter, which whirs mechanically before a soft ding signals completion. She removes a golden-brown, fish-shaped snack, placing it on a white plate. Transitioning to the living room, she sits on the white sofa, eating the snack while watching 'Exchange Season 3' on her MacBook Pro, with Korean dialogue and on-screen text confirming the show. As she eats, 'crunch asmr' appears on-screen, the K-drama dialogue fades, and gentle, acoustic background music with a melancholic female vocal begins.",

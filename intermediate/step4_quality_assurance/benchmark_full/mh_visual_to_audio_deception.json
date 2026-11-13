@@ -1091,7 +1091,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core answer is directly provided by a single observation (events 1 and 2) describing the audio at the exact visual transformation. Events 3 and 4 provide general context about the character's speaking style but are not essential for constructing the answer to the specific moment in question.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The direct answer to what is said at the exact moment of transformation is found in a single piece of evidence (events 1 and 2). Other evidence provides general context about the character's speaking habits but does not contribute to a multi-step reasoning process for the specific event.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -1749,7 +1749,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Event 17 directly states that Jer and Happy Woofman's catchphrase are heard, and the description of the dark-haired woman getting 'all misty just thinking about his songs' strongly implies Rob's songs are not playing, thus confirming that no audio from Rob is heard. This single event provides all necessary information to select the correct option C.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -2170,7 +2170,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The core information to answer the question, specifically the absence of a distinct egg-collection sound effect, is directly stated or strongly implied within a single piece of evidence (Event 70). While earlier events set a context where one might expect such sounds, they are not strictly necessary to deduce the answer from Event 70.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -2252,7 +2252,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The evidence provided consists of multiple independent observations confirming the same fact (absence of specific audio tied to the sign), rather than a chain of reasoning where one piece of evidence builds upon another to reach the conclusion.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Each piece of evidence (event_id 2, 3, and 4) independently confirms that when the 'مہاود کھانہ' sign appears, there is no distinct jingle, chant, or catchphrase associated with it, only general market noise and background music. Any single one of these observations would be sufficient to answer the question.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -4539,7 +4539,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core answer is directly stated in or clearly inferable from a single piece of evidence (Evidence 1). Other evidence serves as reinforcement or contrast rather than sequential logical steps to derive the answer.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The primary conclusion that no distinct song or playlist can be heard is directly stated in Evidence 1. Evidence 2 and 3 provide contrasting examples of when music or dialogue *is* audible in other parts of the video, reinforcing the absence of music in the target scene, but they do not form a multi-hop chain to *derive* the answer. The answer is a direct observation from the first piece of evidence.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -5143,9 +5143,20 @@
         "B"
       ],
       "answer_text": "No special jingle or distinct new sound effect plays at the instant the balloon is opened; only the characters’ voices and normal background audio continue.",
-      "minute_hop_count": 0,
-      "hop_length_label": "short",
+      "minute_hop_count": 12,
+      "hop_length_label": "long",
       "trajectory_with_timestamps": [
+        {
+          "event_id": 1,
+          "evidence": "Peppa announces that Mummy Pig is pregnant; the family celebrates the news at a party, while the narration establishes that the family will later find out whether the baby is a brother or sister.",
+          "label": "audio-visual",
+          "reason": "This restores the pregnancy/party setup that precedes the later balloon and gender-reveal sequence.",
+          "timestamp_minute": 2,
+          "event_time_range": {
+            "start_minute": 1,
+            "end_minute": 3
+          }
+        },
         {
           "event_id": 8,
           "evidence": "In a bright, sunny park, Daddy Pig holds a large yellow balloon with pink hearts, which floats upward, catching the attention of Peppa, George, Mummy Pig, Mr. Bull, the Zebra Character, Grandpa Rabbit, and Mr. Dog. Mummy Pig suggests, \"Now, let's find out if it's a brother or sister, shall we?\" Daddy Pig adds, \"Before anything else goes wrong,\" and the group chants \"Three, two, one!\" The narrator reveals, \"The balloon is empty,\" and \"Now, no one knows what the new baby will be.\" Peppa reassures, \"It's okay, as long as it's happy and nice, oh!\" The Zebra Character admits, \"I, uh, might have forgot to put the results in the balloon,\" but then declares, \"But, I've got them here!\" She hands a small envelope to Daddy Pig, who shares it with Mummy Pig, and Mummy Pig excitedly finishes his announcement with, \"A little sister!\" The group stands together, happy, as the balloon floats gently above them, with only voices, running sounds, and light background music heard during the countdown and reveal, and no distinct celebratory jingle or triggered sound effect when the balloon is opened.",
@@ -5161,7 +5172,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The evidence directly states the audio present (or absent) at the exact moment the balloon is opened, requiring a single direct observation rather than combining multiple pieces of information or complex inference.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -6930,7 +6941,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core information to answer the question is contained within a single piece of evidence (event_id: 20). The other events provide context that makes the distractors plausible but are not strictly necessary to derive the correct answer.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The answer regarding the specific audio event at the moment the S value appears is directly and completely stated in event_id: 20. The preceding events set up the dramatic context of the experiment, which explains why the distractors are plausible, but they do not contribute to identifying the correct audio event itself.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -7516,7 +7527,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Each piece of evidence's 'reason' explicitly states the absence of sound in the context of visual actions, making the conclusion a direct read from multiple reinforcing statements rather than a complex multi-step inference.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -9003,7 +9014,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Event 6 directly states the audio present at the precise moment in question ('calm instructional narration plus cinematic/bgm only, with no mention of any extra shout, exclamation, or crowd reaction at the transformation'), which is sufficient to select option C. While earlier events establish a general audio pattern, the final event provides specific, direct evidence for the target moment.",
         "option_quality": {
           "has_obvious_pattern": true,
@@ -10059,7 +10070,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Event 3 directly describes the audio during the specific protest visuals mentioned in the question. It states that 'upbeat background music continues as a female voice... explains...' and makes no mention of chanting. The absence of chanting is inferred from this explicit description of other audio elements, which is a strong local clue. The trajectory's own reasoning for Event 3 explicitly confirms this by stating 'audio (only narration and background music, no chanting)'. While earlier events establish a general audio context, Event 3 is sufficient to answer the question about the specific protest scenes.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -10471,7 +10482,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question asks about a specific climactic sequence, and the answer is directly and explicitly stated in a single piece of evidence (`event_id: 20`).",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks about a specific climactic sequence ('Do it' command), which is directly described in `event_id: 20`. This event explicitly states that the audio at that moment is 'explicitly not a creature roar,' directly supporting option D. While other events mention creature sounds at different times, they are not necessary to answer the question about this particular, precisely defined moment.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -12282,7 +12293,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Event 4 directly describes all the conditions mentioned in the question (CPU usage, temperature, red demonic creature, ViraBot.exe, chaotic attack) and explicitly states the corresponding non-vocal audio, making it a single-hop derivation.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -13955,7 +13966,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core information needed to answer the question (absence of hamster sounds, presence of music) is directly stated in the first piece of evidence related to the hamster scene. Subsequent evidence reinforces this but is not strictly necessary for the deduction.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The first piece of evidence (Event 1) directly states that 'only the continuous cheerful background music is heard' when the hamster is exploring the bed, which is sufficient to select option A. Event 2 further reinforces this direct observation. Events 3 and 4 provide general context about the video's audio but are not essential for answering this specific question about the hamster scene.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -14318,7 +14329,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The core information needed to answer the question, including the judge's statement and the absence of other specific audio cues at the moment the graphic appears, is primarily contained within the detailed description and explicit reasoning provided in Event 3. Event 4 offers general reinforcement but is not strictly necessary to confirm the details of this specific moment.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -15402,7 +15413,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The core information for the correct answer (D) is directly stated in Event 9, which explicitly describes the sounds as \"prolonged, high-pitched, and distressed cries and screams\" and notes the absence of \"quoted or paraphrased spoken lines.\" While Event 3 establishes the character's general ability to speak, it is not combined with Event 9 to derive the answer; rather, Event 9 provides the specific detail for *this particular moment* that directly supports option D.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -15599,7 +15610,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The final piece of evidence (Event 3) directly states which lines are heard and explicitly confirms that option C is NOT heard, making it sufficient to answer the question without combining information from previous hops. The earlier hops provide context that makes the distractors plausible, but are not strictly necessary to identify the correct answer from the given options.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -16103,7 +16114,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The answer is directly provided by a single piece of evidence (Event 3) which explicitly states that no spoken narration is present during the specified close-up shots. The other events provide general context about the speaker's habits but are not essential for answering this specific question about this specific segment.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -16674,7 +16685,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core information for the correct answer (the absence of a formal, amplified announcement) is explicitly stated in multiple individual pieces of evidence (E1 and E3), rather than requiring a sequential logical deduction across hops. Each of these pieces could individually lead to ruling out options A, B, C and confirming the first part of D.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The key information that there is 'no room-wide, amplified announcement' (E1) and 'no indication of a microphone or formal address to all patrons' (E3) is directly provided in separate evidence pieces. While E2 provides supporting context, the direct negation of formal announcements is present in multiple individual hops, making it solvable without a complex multi-hop chain.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -17524,8 +17535,8 @@
         "B"
       ],
       "answer_text": "No distinct ticking, beeping, or spoken countdown audio is ever synced directly to the on‑screen timer; only narration, clips, and background sounds are heard.",
-      "minute_hop_count": 0,
-      "hop_length_label": "short",
+      "minute_hop_count": 5,
+      "hop_length_label": "medium",
       "trajectory_with_timestamps": [
         {
           "event_id": 1,
@@ -17536,6 +17547,17 @@
           "event_time_range": {
             "start_minute": 1,
             "end_minute": 1
+          }
+        },
+        {
+          "event_id": 4,
+          "evidence": "During the inflation explanation, the digital timer remains visible and counts upward while the speaker discusses COVID-era stimulus, supply-chain problems, and interest rates.",
+          "label": "audio-visual",
+          "reason": "This restores a later timer-plus-explanation interval against which the opening timer cue can be compared; its timestamp also removes the current zero temporal span.",
+          "timestamp_minute": 6,
+          "event_time_range": {
+            "start_minute": 5,
+            "end_minute": 8
           }
         }
       ],
@@ -18576,7 +18598,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks what is *explicitly NOT present* during the final logo sequence. Event 10 provides a comprehensive description of the audio *present* during this exact sequence (upbeat electronic music and a single female announcer's specific message). From this single event, the absence of all elements listed in options A, B, C, and D can be directly inferred because they are not mentioned as being present. While other events establish the existence of such elements elsewhere in the video, making the options plausible distractors, they are not strictly necessary for the deduction of absence in the final segment, which is fully described by Event 10.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -19999,7 +20021,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Evidence event_id 9 directly states that only 'prolonged, high-pitched, and distressed cries and screams' are heard, with no mention of distinct shouted lines. This single piece of evidence is sufficient to confirm that option A is true (no distinct sentence is heard), which then logically implies that options B, C, and D (specific distinct sentences) are also not heard. The other evidence pieces (1 and 3) provide general context about the production's sound design but are not strictly necessary to answer the question about this specific moment.",
         "option_quality": {
           "has_obvious_pattern": false,

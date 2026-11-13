@@ -1122,7 +1122,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The explicit association between Steve Smith and Djokovic's cricket anecdote is made directly by the interviewer within a single piece of evidence (Event 9). The interviewer points out Smith, notes his 'shadow batting' suggesting a 'challenge' for Djokovic, and then Djokovic recounts his cricket story. This sequence establishes the association directly, rather than requiring information from multiple distinct pieces of evidence to be combined to infer the association.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The core association between Steve Smith and the anecdote is explicitly stated/framed by the interviewer in Event 9. While other events confirm Steve Smith's identity, they do not contribute to forming the association with the anecdote itself. Thus, the answer can be derived from a single, albeit detailed, piece of evidence.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -2239,7 +2239,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The explicit answer to 'with whom does she say' is fully contained in the audio of event 7. Event 6 provides visual context for the cat but is not strictly necessary to answer the question about what she *says*.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The audio in event 7 explicitly states 'my boyfriend Kace and my cat Ross' as the companions for the move. Event 6 shows a cat, which is later named in event 7, but the full answer to 'who she says' is in event 7's audio.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -2941,7 +2941,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core information (plank name and warning) is directly stated together in a single piece of evidence (Event 5), making it a direct retrieval rather than requiring combination of information from multiple distinct events or inferential steps.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The core information (plank name and warning) is directly stated together in a single piece of evidence (Event 5), making it a direct retrieval rather than requiring combination of information from multiple distinct events or inferential steps.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -3679,7 +3679,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question mentions \"others guess '斗牛' and '游击雄兵'\", but the provided evidence does not explicitly show these as guesses for this specific round. Event 3 lists other *topics* that appear, not guesses for this particular segment.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question provides a highly specific description of the round (dancers, drum-heavy music, punching sounds, bull-like growls, '哞' moo sound). Event 2 directly matches all these cues and explicitly states the game topic as '隔山打牛'. Therefore, the answer can be directly extracted from a single piece of evidence (Event 2) once the correct segment is identified, without requiring a chain of reasoning across multiple distinct pieces of evidence to derive the answer.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -3926,7 +3926,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The answer to 'When does she eat the stuffed pancakes?' is directly provided in the first piece of evidence ('And we will have breakfast with this,' adding that she has 'stuffed pancakes.'). The second piece of evidence describes a different meal (rice with vegetables and chicken) as 'lunch-dinner' and is not necessary to determine the time for the stuffed pancakes.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The first piece of evidence directly states that the stuffed pancakes are for 'breakfast,' making the answer solvable by a single hop. The second piece of evidence describes a different meal and serves to rule out distractors rather than being essential for identifying the time of the stuffed pancakes.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -4172,7 +4172,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The final answer (PS5 vs PS1 power ratio) is directly stated in a single piece of evidence (Event 7). The question's premise about 'intermediate console generations' describes the narrative context of the video, not a multi-hop calculation required to derive the answer.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for a specific numerical fact which is explicitly stated in the final piece of evidence (Event 7). Although the question's phrasing 'After the video walks through the intermediate console generations' implies a narrative progression, the answer itself is a direct extraction from the last step, not a combination of information from multiple steps.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -4783,7 +4783,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core numerical comparison (Zara's design-to-market time vs. industry average) is explicitly stated in event_id 10. Event_id 12 provides contextual information about *why* Zara is fast (internalized production, saving time) but does not add new numerical data to the direct comparison requested by the question.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The specific numerical comparison for design-to-market time is directly stated in event_id 10. Event_id 12 provides context about Zara's speed but does not add new numerical data for the comparison itself, making the answer extractable from a single piece of evidence.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -5099,7 +5099,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The answer can be directly inferred from Event 2, which explicitly identifies 'should've said no' as the 'bottom tier' and mentions the sequential appearance of all tier text boxes on-screen. Event 3 merely reiterates the visual presentation of the same list without adding new information critical to identifying the bottom tier.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Event 2 explicitly states 'finally her 'bottom tier' of 'should've said no,' directly answering the question. The condition about the full list being shown on-screen is also covered by Event 2's description of sequential on-screen text boxes for all tiers.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -6421,7 +6421,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The full answer (series name and city for the Predator World 8-Ball Championship) is explicitly stated in a single piece of evidence (event_id 4). The second piece of evidence reinforces the series name but refers to a different event and location, so it's not necessary to combine information from multiple distinct sources to answer the specific question about the 8-Ball Championship.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Evidence 1 (event_id 4) directly provides both the 'larger branded series' ('CSI Predator US Pro Billiard Series') and the 'city' ('San Juan, Puerto Rico') for the 'Predator World 8-Ball Championship'. Therefore, the answer can be fully derived from a single piece of evidence.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -6959,7 +6959,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question explicitly provides the key value '26 teaspoons per day'. `event_id: 2` directly provides the conversion for this value. `event_id: 18` confirms the context of this value but does not provide a piece of information that needs to be combined with `event_id: 2` to derive the answer. The answer can be found by a single lookup in `event_id: 2` for the value given in the question.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question explicitly states the value '26 teaspoons per day' for which the conversion is sought. `event_id: 2` directly provides the conversion for this specific value. `event_id: 18` confirms the context of this value but does not provide a piece of information that needs to be combined with `event_id: 2` to derive the answer. The answer can be found by a single lookup in `event_id: 2` for the value given in the question.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -9811,7 +9811,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The answer (972) is explicitly stated in both event_id 5 and event_id 7, along with the full context of the milestone. This means the answer can be extracted from a single piece of evidence, rather than requiring the combination of distinct facts from multiple pieces of evidence.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Both pieces of evidence (event_id 5 and event_id 7) directly provide the exact number of LCS career kills (972) in the context of C9 Blaber passing Xmithie for 17th most all-time LCS kills. No multi-step inference or combination of different facts is needed to arrive at the answer.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -9974,7 +9974,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The answer 'Seabourn' is explicitly stated or visually confirmed (via life ring) in multiple individual pieces of evidence across different segments, making it solvable by a single piece of evidence rather than requiring a synthesis of information from multiple hops.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The answer 'Seabourn' is directly provided in event_id 2 ('hosted by Seabourn', 'SEABOURN SOJOURN' life ring), event_id 3 ('SEABOURN SOJOURN NASSAU' life ring), and event_id 7 ('thanking 'Seabourn for hosting me'). Any one of these pieces of evidence is sufficient to answer the question, making it a one-hop solution despite the question's phrasing.",
         "option_quality": {
           "has_obvious_pattern": false,

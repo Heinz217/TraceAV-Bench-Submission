@@ -1475,7 +1475,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The specific cost range for the heart stent is directly stated in a single piece of evidence (event_id: 2), making the question solvable in one hop despite the contextual setup provided by other events.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -6392,7 +6392,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The two pieces of information required to answer the question (kind of help and Mikhail's description of the earlier sum) are both found within a single evidence block (event_id 12), not requiring combination from multiple distinct pieces of evidence.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for two distinct facts, but both are explicitly stated within a single piece of evidence (event_id 12). The other evidence blocks provide context but are not essential for answering the specific question parts.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -8750,7 +8750,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The total number of cars (7,900) is explicitly stated in the evidence. While the question provides context about specific models (Type 13, Type 44) being part of this total, the answer is a direct lookup of the overall factory production number, not a result of combining or inferring from multiple distinct facts.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question provides contextual information about specific models (Type 13, Type 44), but the answer (total production of 7,900 cars) is directly stated in the evidence, not derived from combining multiple facts or calculations related to the mentioned models. The evidence confirms the mentioned models are 'part of' the total, but the total itself is given directly.",
         "option_quality": {
           "has_obvious_pattern": false,

@@ -12877,9 +12877,20 @@
         "C"
       ],
       "answer_text": "1",
-      "minute_hop_count": 0,
-      "hop_length_label": "short",
+      "minute_hop_count": 10,
+      "hop_length_label": "long",
       "trajectory_with_timestamps": [
+        {
+          "event_id": 1,
+          "evidence": "The early cosmic-scale sequence identifies the Moon as the first marker on the journey, gives its distance from Earth, and shows an Earth-rise view from the lunar surface before moving on to the Sun and wider solar-system scale.",
+          "label": "visual",
+          "reason": "This restores the early Moon/Earth reference point from the original candidate trajectory and gives the later event-7 shots a separate temporal source event.",
+          "timestamp_minute": 1,
+          "event_time_range": {
+            "start_minute": 1,
+            "end_minute": 2
+          }
+        },
         {
           "event_id": 7,
           "evidence": "Text appears in the center, 'Observable Universe ≠ Entire Universe', visually reinforcing the narrator's point that some regions are expanding faster than the speed of light, placing them forever out of our view, meaning the true size of the entire universe remains unknown and potentially infinite.",

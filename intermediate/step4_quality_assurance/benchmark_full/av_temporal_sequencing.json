@@ -1884,7 +1884,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Event 5 alone describes the Chief pressing a glowing green object against Chuck's chest, causing a blue mark, and explicitly states that this action occurs before the environment transitions to the abstract crimson void. Therefore, Event 5 provides all necessary information (the action and its temporal context) to answer the question, making it a pseudo multi-hop.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -6860,7 +6860,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question's preamble explicitly describes the preceding events (Wayne having no money, Dell telling him to get some, Wayne selling nunchucks, and bringing cash to Dell), effectively summarizing the multi-hop chain. The actual answer to \"what does Dell ultimately say that all the money Wayne has brought is for?\" is then directly found in the final piece of evidence (Event 4) without needing to infer the sequence from scratch.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question's preamble provides the multi-hop context, making the final answer retrieval a single hop from the last piece of evidence.",
         "option_quality": {
           "has_obvious_pattern": false,

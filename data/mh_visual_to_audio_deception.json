@@ -3491,9 +3491,20 @@
         "B"
       ],
       "answer_text": "No special jingle or distinct new sound effect plays at the instant the balloon is opened; only the characters’ voices and normal background audio continue.",
-      "minute_hop_count": 0,
-      "hop_length_label": "short",
+      "minute_hop_count": 12,
+      "hop_length_label": "long",
       "trajectory_with_timestamps": [
+        {
+          "event_id": 1,
+          "evidence": "Peppa announces that Mummy Pig is pregnant; the family celebrates the news at a party, while the narration establishes that the family will later find out whether the baby is a brother or sister.",
+          "label": "audio-visual",
+          "reason": "This restores the pregnancy/party setup that precedes the later balloon and gender-reveal sequence.",
+          "timestamp_minute": 2,
+          "event_time_range": {
+            "start_minute": 1,
+            "end_minute": 3
+          }
+        },
         {
           "event_id": 8,
           "evidence": "In a bright, sunny park, Daddy Pig holds a large yellow balloon with pink hearts, which floats upward, catching the attention of Peppa, George, Mummy Pig, Mr. Bull, the Zebra Character, Grandpa Rabbit, and Mr. Dog. Mummy Pig suggests, \"Now, let's find out if it's a brother or sister, shall we?\" Daddy Pig adds, \"Before anything else goes wrong,\" and the group chants \"Three, two, one!\" The narrator reveals, \"The balloon is empty,\" and \"Now, no one knows what the new baby will be.\" Peppa reassures, \"It's okay, as long as it's happy and nice, oh!\" The Zebra Character admits, \"I, uh, might have forgot to put the results in the balloon,\" but then declares, \"But, I've got them here!\" She hands a small envelope to Daddy Pig, who shares it with Mummy Pig, and Mummy Pig excitedly finishes his announcement with, \"A little sister!\" The group stands together, happy, as the balloon floats gently above them, with only voices, running sounds, and light background music heard during the countdown and reveal, and no distinct celebratory jingle or triggered sound effect when the balloon is opened.",
@@ -11898,8 +11909,8 @@
         "B"
       ],
       "answer_text": "No distinct ticking, beeping, or spoken countdown audio is ever synced directly to the on‑screen timer; only narration, clips, and background sounds are heard.",
-      "minute_hop_count": 0,
-      "hop_length_label": "short",
+      "minute_hop_count": 5,
+      "hop_length_label": "medium",
       "trajectory_with_timestamps": [
         {
           "event_id": 1,
@@ -11910,6 +11921,17 @@
           "event_time_range": {
             "start_minute": 1,
             "end_minute": 1
+          }
+        },
+        {
+          "event_id": 4,
+          "evidence": "During the inflation explanation, the digital timer remains visible and counts upward while the speaker discusses COVID-era stimulus, supply-chain problems, and interest rates.",
+          "label": "audio-visual",
+          "reason": "This restores a later timer-plus-explanation interval against which the opening timer cue can be compared; its timestamp also removes the current zero temporal span.",
+          "timestamp_minute": 6,
+          "event_time_range": {
+            "start_minute": 5,
+            "end_minute": 8
           }
         }
       ],

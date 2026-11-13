@@ -771,7 +771,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The correct answer (black waffle iron with a loud alarm) is explicitly stated in a single piece of evidence (event_id 14), which describes both the alarm and the specific equipment together.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for the specific equipment emitting a loud alarm. Event ID 14 directly states: 'A loud, piercing alarm signals the completion of cooking... as the iron is opened' and later in the same event, 'operates a black waffle iron'. This information is contained within a single event, making it a direct lookup rather than requiring a multi-hop inference.",
         "option_quality": {
           "has_obvious_pattern": false,

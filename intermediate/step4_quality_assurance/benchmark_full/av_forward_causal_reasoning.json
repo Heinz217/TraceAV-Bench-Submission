@@ -3581,7 +3581,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question asks about the final medal position resulting from a sequence of improvements, but the final outcome (bronze medal) is explicitly stated in the last piece of evidence, making the preceding steps contextual rather than strictly necessary for deriving the final answer.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The final medal position (bronze) is explicitly stated in the last two pieces of evidence (event_id 12 and 13), directly answering the question without requiring inference from the preceding sequence of events.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -4788,7 +4788,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question provides the context from the first piece of evidence (Event 3) within its stem. The answer to 'what ultimately happens in their later face-off' is then directly and entirely found in the second piece of evidence (Event 4), making it a single-hop retrieval from Event 4, conditioned on the provided context.",
         "option_quality": {
           "has_obvious_pattern": false,

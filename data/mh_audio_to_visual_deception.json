@@ -2826,8 +2826,8 @@
         "B"
       ],
       "answer_text": "A calendar icon is present only as a small, unlabeled tool icon below the RAG text, without any explicit on-screen label calling it \"Google Calendar\" while the narrator speaks.",
-      "minute_hop_count": 0,
-      "hop_length_label": "short",
+      "minute_hop_count": 4,
+      "hop_length_label": "medium",
       "trajectory_with_timestamps": [
         {
           "event_id": 4,
@@ -2838,6 +2838,17 @@
           "event_time_range": {
             "start_minute": 4,
             "end_minute": 4
+          }
+        },
+        {
+          "event_id": 6,
+          "evidence": "The AI-agent diagram shows a goal entering an agent that reasons, acts through tools including calendar, document, weather, and AI, observes results, and iterates toward an output.",
+          "label": "visual",
+          "reason": "This second diagram provides the earlier cross-event tool-use context for interpreting the calendar-related icon on the later RAG screen.",
+          "timestamp_minute": 8,
+          "event_time_range": {
+            "start_minute": 6,
+            "end_minute": 11
           }
         }
       ],
@@ -7850,8 +7861,8 @@
         "D"
       ],
       "answer_text": "No national flags or country‑name banners are visible; the fans only hold generic signs such as the blue 'YOU'RE OUR HEROES!' banner.",
-      "minute_hop_count": 0,
-      "hop_length_label": "short",
+      "minute_hop_count": 5,
+      "hop_length_label": "medium",
       "trajectory_with_timestamps": [
         {
           "event_id": 1,
@@ -7862,6 +7873,17 @@
           "event_time_range": {
             "start_minute": 1,
             "end_minute": 1
+          }
+        },
+        {
+          "event_id": 4,
+          "evidence": "The segment shows One Direction performing and then moves through international fan and news coverage; it includes crowd signs such as the generic ‘YOU’RE OUR HEROES!’ banner.",
+          "label": "audio-visual",
+          "reason": "This candidate event restores a later worldwide-success/crowd segment for comparison with the existing global-popularity context when checking the crowd signs and flags.",
+          "timestamp_minute": 6,
+          "event_time_range": {
+            "start_minute": 5,
+            "end_minute": 7
           }
         }
       ],
@@ -12853,9 +12875,20 @@
         "D"
       ],
       "answer_text": "No extra side dish or condiment is visible next to the fish-shaped snack on the plate",
-      "minute_hop_count": 0,
-      "hop_length_label": "short",
+      "minute_hop_count": 6,
+      "hop_length_label": "medium",
       "trajectory_with_timestamps": [
+        {
+          "event_id": 3,
+          "evidence": "Earlier, she prepares bibimbap and studies; later in this event she commits to the 992-card Anki goal and continues her day’s food and study routine.",
+          "label": "visual",
+          "reason": "This restores the earlier meal/study context paired with the later midnight snack and plate inspection.",
+          "timestamp_minute": 6,
+          "event_time_range": {
+            "start_minute": 5,
+            "end_minute": 8
+          }
+        },
         {
           "event_id": 6,
           "evidence": "Later, she retrieves a frozen vegetable bag from the refrigerator, making rustling sounds, and places it into a light blue air fryer with a thud, preparing a 'midnight snack : °☆彡.' The woman, in her sweatshirt, then places the frozen vegetables into the air fryer basket on the kitchen counter, which whirs mechanically before a soft ding signals completion. She removes a golden-brown, fish-shaped snack, placing it on a white plate. Transitioning to the living room, she sits on the white sofa, eating the snack while watching 'Exchange Season 3' on her MacBook Pro, with Korean dialogue and on-screen text confirming the show. As she eats, 'crunch asmr' appears on-screen, the K-drama dialogue fades, and gentle, acoustic background music with a melancholic female vocal begins.",

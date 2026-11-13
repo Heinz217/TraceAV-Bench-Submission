@@ -444,7 +444,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The information about who was on stage immediately before Pat's solo Gaudi 3 segment is directly provided within a single piece of evidence (Event 23), which describes Michael Dell's presence with Pat just before the solo unveiling.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -3025,7 +3025,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks to identify all sections that meet specific criteria. Each option represents a distinct section, and its correctness can be verified independently using a single piece of evidence. The task involves evaluating multiple independent facts rather than a chained reasoning process where the output of one step becomes the input for the next.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -4140,7 +4140,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Event 6 directly provides both the total number of Celsius drinks ('two Celsius drinks') and her reported feeling by 3 AM ('super tired' and 'struggles to keep her eyelids open'), which is the complete combination requested by the question. While other events provide context, the full answer can be extracted from this single piece of evidence.",
         "option_quality": {
           "has_obvious_pattern": false,

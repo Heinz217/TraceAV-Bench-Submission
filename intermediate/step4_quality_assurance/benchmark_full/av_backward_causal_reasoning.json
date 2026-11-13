@@ -631,7 +631,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core answer is directly found in a single piece of evidence (event_id: 10) which explicitly states the ingredient Collins begged not to add. Other events primarily serve to ground plausible distractors.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for the specific ingredient Collins begged not to add. Event ID 10 directly provides this information, including his explicit protest. While other events describe other ingredients being added to the bowl, they do not feature the same specific plea, making them distractors rather than requiring multi-hop reasoning to combine information for the answer.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -1579,7 +1579,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for the 'earlier action' that 'most directly set up' the washed laundry pile. Event 3 directly describes the action of 'loading a washing machine, adds detergent, and starts the cycle', which is the direct cause of the laundry being washed. While Event 4 provides context about time passing for the wash to complete, the specific 'action' is identified in a single piece of evidence (Event 3).",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -3692,7 +3692,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The core answer, the specific physical mechanism (accreting supermassive black holes) that explains apparent over-brightness without enormous stellar mass, is directly stated in a single piece of evidence (event 8). While preceding evidence sets the context for the problem, identifying the specific mechanism does not require combining information from multiple distinct pieces of evidence to infer the answer.",
         "option_quality": {
           "has_obvious_pattern": false,

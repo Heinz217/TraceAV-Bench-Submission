@@ -3480,7 +3480,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question asks about the 'later car ride,' and the seating arrangement for this specific scene is fully described in a single piece of evidence (`event_id: 4`). While the question mentions 'across the earlier and later car scenes,' the earlier scenes describe a different seating arrangement and are not combined with the later scene's information to form the answer. The answer is a direct deduction from one event.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The answer for the 'later car ride' is explicitly and completely stated in `event_id: 4`, making it a single-hop deduction from that specific piece of evidence.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -8773,7 +8773,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core information about the dish's orientation ('overhead') is directly stated in the first piece of evidence (event 4), making subsequent evidence pieces more reinforcing than essential for the direct answer.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "Event 4 explicitly states the dish 'automatically orient itself to stay aligned with the satellites overhead.' This single piece of evidence directly provides the answer, making the subsequent evidence (events 7 and 8) supplementary rather than crucial for a multi-hop inference.",
         "option_quality": {
           "has_obvious_pattern": false,

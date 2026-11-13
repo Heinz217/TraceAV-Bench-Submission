@@ -255,7 +255,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The core link between the woman's voice content (talking about Beirut's catastrophe) and her visual setting (pink-walled flower shop) is directly provided in a single piece of evidence (event_id: 10). While other evidence pieces reinforce the identification of the woman and her consistent location, they are not strictly necessary to make the primary audio-visual match required by the question.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -430,7 +430,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The task is a direct audio-video matching task, not a sequential multi-step reasoning chain. It requires integrating information from two modalities (audio and video) to find the correct pairing, which is a single step.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for a direct match between specific song lyrics (audio) and a visual scene (video). While it requires processing information from two modalities, it's a single-step A/V integration rather than a multi-step logical deduction or information retrieval chain.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -522,7 +522,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The direct link between the 'Five minutes remaining' voiceover and the 'SEGA ALTERED BEAST arcade machine' visual is explicitly stated in a single piece of evidence (event_id 8, first part). While other evidence helps rule out distractors or provides context, the core answer is not derived through a multi-step chain of reasoning.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The correct answer is directly stated in one piece of evidence, linking the specific audio cue to the visual scene. Other evidence serves to confirm by ruling out distractors or providing surrounding context, rather than forming a necessary chain to deduce the answer.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -791,7 +791,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The answer is directly extractable from a single event (event_id 15) by matching the audio cue in the question to the audio and visual description in the evidence. It does not require combining information from multiple distinct events to form the answer.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for a direct audio-visual match. The provided evidence for the correct answer (event_id 15) contains both the exact audio line from the question and the corresponding visual description. The other events are used to create plausible distractors, but the core task for the correct answer is a single-hop extraction.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -977,7 +977,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The specific quote from the question is directly linked to the correct exercise and body position in a single piece of evidence (Event 2, first part). The other events serve as distractors by showing Shaun discussing core work during different exercises, but not with the exact phrasing from the question.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -2069,7 +2069,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The core information identifying the player (Grosso), the fact it was the tournament-winning penalty, and the corresponding audio climax (explosive celebration, loud crowd cheers, celebratory music) is all explicitly stated within a single piece of evidence (Event 5). While other events provide context for distractors or describe parts of the audio climax, the direct answer does not require combining information from multiple distinct pieces of evidence.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -3945,7 +3945,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The correct answer is directly provided by a single piece of evidence (event_id 7) that explicitly links the given narration to the visual scene, rather than requiring the combination of information from multiple distinct pieces of evidence.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The correct answer (Option B) is directly described in event_id 7, which states that the specified narration occurs 'throughout these mixed reality visuals' and then describes the visual scene matching Option B. This is a direct audio-visual mapping from one piece of evidence.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -4410,7 +4410,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The answer is directly stated in a single piece of evidence (event_id 11) for the specific moment asked, rather than requiring information to be combined from multiple distinct pieces of evidence.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks about a specific moment, and event_id 11 directly provides all the necessary details (sunglasses, hat, location, dialogue) for that exact moment. While other evidence shows the man in different attire or locations, they serve as plausible distractors rather than necessary components to deduce the answer for the specified scene.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -4502,7 +4502,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "none",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The correct answer (Option D) is directly identified in a single piece of evidence (event_id 2, first part) by matching the described audio cue ('soft, melodic background music with female vocals') to a specific video segment and its visual context (Japan vs Argentina in Quezon City with the 7–13/8–13 score). While other evidence describes contrasting audio for distractors, the core question is a direct identification, not requiring chaining of information.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -4976,7 +4976,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The provided evidence directly links the specific audio content to the visual description of the correct option in a single piece of evidence, rather than requiring the combination of multiple distinct pieces of information.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The first piece of evidence (event_id: 11) directly states that the specific spoken content (quantum mechanics, Planck constant, Dr. Robot, missile attacks, Duncan on an iPod Touch) is matched to 'the visual of the man in the blue shirt with the bird-design tie on the four-man panel against a blue curtain,' which is a direct description of option A. This single piece of evidence provides the complete mapping from audio to the correct visual, making it a pseudo multi-hop.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -5173,7 +5173,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The core answer (music playing over the title card) is directly stated in a single piece of evidence (event_id 3). While other evidence helps rule out distractors, the primary answer retrieval is not multi-hop.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The question asks for a specific audio-visual pairing. Evidence 3 directly states that the 'uplifting, emotional background music featuring a female vocalist' accompanies the 'Women’s 800m Freestyle title card'. This directly matches option C. The other evidence serves to confirm that this specific music does *not* play during the other visual segments described in the distractors, thus validating the correct answer by elimination rather than constructing it through multiple hops.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -6167,7 +6167,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "One of the correct answers (C) describes the initial visual depiction of the inspection setup, which directly follows the audio cue, rather than a 'later scene' or showing the ducklings 'again' in that setup. This makes it a direct match to the cue's visual, not a multi-hop.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "One of the correct answers (C) is a direct match to the visual described immediately after the audio cue, making it solvable by a single local clue (the cue itself and its immediate visual context). While option A requires a temporal hop, the presence of a direct match for C makes the question pseudo multi-hop.",
         "option_quality": {
           "has_obvious_pattern": false,
@@ -6332,7 +6332,7 @@
       "verification": {
         "is_real_multihop": false,
         "multihop_issue": "The question's core task of identifying narration lines spoken directly over specific visuals in the closing sequence is directly answered by a single piece of evidence (event 17). While event 1 provides context about the octopus's symbolism mentioned in the question preamble, it is not strictly necessary to identify the specific audio lines in the closing.",
-        "is_pseudo_multihop": true,
+        "is_pseudo_multihop": false,
         "pseudo_multihop_reason": "The core task of identifying narration lines spoken directly over specific visuals in the closing sequence is directly answered by a single piece of evidence (event 17). Event 1 provides context about the octopus's symbolism, which is mentioned in the question preamble but not essential for identifying the specific audio lines in the closing.",
         "option_quality": {
           "has_obvious_pattern": false,
